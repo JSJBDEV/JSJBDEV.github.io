@@ -1,0 +1,309 @@
+#irrationally complex battle simulator made by Acrogenous_ (James) of conclipsegames.co.uk -license applies-
+
+#CHANGELOG
+#version 1.2
+# yet again fixed the Juh
+# added money shown in shop
+# made things more "foolproof"
+# made the battle better for impatient people (use numbers)
+#Version 1.0.1
+#fixed juh (again)
+#Version 1.0
+#+ finalized a few points.
+#+ basic file saving
+#+ adding armour plating so i dont have to think of people for that
+#-+ Juh is to OP please Nerf! (completed)
+#Version BETA
+#+ inital simulator
+#+ added quick battle exit. will be removed in future release!
+
+
+import random
+global power, inv, money, EHP, HP, level, armour
+import winsound
+inv = ["DekuStick","OblongShield"]
+money = int(1000)
+EHP = int(1000)
+HP = int(1000)
+power = int(1)
+level = int(1)
+armour = int(1)
+print("Kaixo! young traveller welcome to the Acrogenous_'s battle Simulator!")
+print("""------------------------------
+this game supports autosaving. it is saved in a .txt file called
+save.txt wherever this script is located. it is not particually well encrypted
+so edit your inventory if you must. currenlty its limited; you will get all your stats back
+but currently you cannot get your inventory. Remember to drink your tea and return to the menu before you stop!
+-------------------------------
+###COMPUTER LADS EDITION###
+
+
+
+""")
+#file loaded if possible
+
+question = input("open save? (yes/no) (don't do this if you know there isnt a file!)")
+
+if question.lower() == "yes":
+    save = (open("save.txt","r"))
+    HP = int(save.readline())
+    power = int(save.readline())
+    level = int(save.readline())
+    money = int(save.readline())
+    armour = int(save.readline())
+    print("save loaded!")
+    save.close()
+
+#main menu function calls other functions#
+def mainmenu():
+    global power, inv, money, EHP, HP, level, armour
+    print("""
+           MENU
+    ---------------------
+    1 - Go to the shops
+    2 - go for a walk
+    3 - drink tea
+    4 - check inventory
+    ---------------------
+
+
+
+
+        """)
+    goto = input("what would you like to do?")
+
+
+    if goto == "1":
+        shop()
+
+
+
+    if goto == "2":
+        battle()
+
+
+
+    if goto == "3":
+        tea()
+
+
+        
+    if goto == "4":
+        inventory()
+
+
+
+
+
+
+
+def save():
+    #file saving#
+    save = (open("save.txt","w+"))
+    save.write(str(HP))
+    save.write("\n")
+    save.write(str(power))
+    save.write("\n")
+    save.write(str(level))
+    save.write("\n")
+    save.write(str(money))
+    save.write("\n")
+    save.write(str(armour))
+    save.close()
+
+def shop():
+    global power, inv, money, EHP, HP, level, armour
+    print("you have ",money,"x")
+    buy = input("""welcome to this text based metaphorical shop what would you like to buy?
+    SHOP
+    --------------------
+    0 - leave shop
+    
+    ---Generic items---
+    1 - shiny sword 50x
+    2 - tea 250x
+    3 - armour plating 250x times amount already owned
+    4 - HPack -250x
+    
+    ---Tea Based Epic items---
+    5 - steam powered machine gun \BenK Required\ 900x
+    6 - FingaBlasta420 \TomP Required\ 1200x
+    7 - AniMace \Jimothy Required\ 1000x
+    8 - HClThrower \.Narwhale Required.\ 1100x
+    --------------------
+
+    """)
+        
+    if buy == "0":
+        mainmenu()
+
+    if buy == "1":
+        if money >= 50:
+            print("SHINY SWORD AQUIRED!")
+            inv.append("ShinySword")
+            power = 2
+            money = money - 50
+
+    if buy == "2":
+        if money >= 250:
+            print("TEA AQUIRIED!")
+            inv.append("Tea")
+            money = money - 250
+
+    if buy == "5":
+        if money >= 200:
+            if "BenK" in inv:
+                print("OBTAINED STEAM POWERED MACHINE GUN!")
+                power = 5
+
+    if buy == "3":
+        if money >= 250 * armour:
+            print("AN ARMOUR PLATE AQUIRIED!")
+            inv.append("ArmourPlate")
+            armour = armour + 1
+            money = money - 250 * armour
+            HP += 1000
+
+    if buy == "4":
+        if money >= 250:
+            inv.append("hpack")
+            print("OBTAINED A HEALTH PACK!")
+
+    if buy == "6":
+        if money >= 1200:
+            if "TomP" in inv:
+                print("OBTAINED DA FINGABLASTA420!")
+                power = 8
+                    
+    if buy == "7":
+        if money >= 1000:
+            if "Jimothy" in inv:
+                print("OBTAINED THE ANIMACE!!")
+                power = 7
+
+    if buy == "8":
+        if money >= 1100:
+            if "Narwhale" in inv:
+                print("OBTAINED THE HClTHROWER!!!")
+                power = 6
+    shop()
+
+
+def battle():
+    global power, inv, money, EHP, HP, level, armour
+    penemy = ["JUH BAYLE","GENERIC ORC","NERD CONGLOMERATE","FORBESBRY"]
+    cenemy = penemy[random.randint(0,3)]
+    print("A WILD ",cenemy, " APPEARED!")
+    EHP = 500 * level
+    while True:
+        
+        print("enemy hp =",EHP)
+        print("your hp =",HP)
+        attackType = input("""
+1 - quick
+2 - slash
+3 - slam
+4 - heal""")
+        luck = random.randint(1,1000)
+    
+        if attackType.lower() == "1":
+            if luck >= 100:
+                EHP = EHP - (10 * power)
+                print(10 * power, "DAMAGE")
+
+        if attackType.lower() == "2":
+            if luck >= 300:
+                EHP = EHP - (50 * power)
+                print(50 * power, "DAMAGE")
+
+        if attackType.lower() == "4":
+            if "hpack" in inv:
+                HP = HP + 250
+                
+        if attackType.lower() == "andhisnameisjohncena":
+            if luck >= 1:
+                print("""
+     | |     | |            / ____|               | |                 
+     | | ___ | |__  _ __   | |     ___ _ __   __ _| |                 
+ _   | |/ _ \| '_ \| '_ \  | |    / _ \ '_ \ / _` | |                 
+| |__| | (_) | | | | | | | | |___|  __/ | | | (_| |_|                 
+ \____/ \___/|_| |_|_| |_|  \_____\___|_| |_|\__,_(_)                 
+                                        """)
+                print("OVER 9000 DAMAGE DONE TO THE POWER OF RYAN!")
+                EHP -= 9999999999999999999999999999999999999999999999999999999
+                winsound.PlaySound('cena.wav',winsound.SND_FILENAME)
+
+        if attackType.lower() == "3":
+            if luck >= 700:
+                EHP = EHP - (100 * power)
+                print("A LOT OF DAMAGE")
+        juhpower = random.randint(1,25)
+        juhpower = juhpower * level
+        print("ENEMY DOES",juhpower,"DAMAGE")
+        print("--------------------")
+        HP = HP - juhpower
+        if HP <= 0:
+            print("alas you apear to of been beaten. I suppose you should play again?")
+            input("press enter to exit")
+            int("THIS ERROR IS INTENTIONAL RESTART FROM A SAVE!")
+        if EHP <= 0:
+         print("you win")
+         print("gained 500x")
+         level = level + 1
+         print("next level: level",level)
+         money = money + 500
+         input("press enter")
+         break
+
+def tea():
+    global power, inv, money, EHP, HP, level, armour
+    if "Tea" in inv:
+            inv.remove("Tea")
+            epicness = random.randint(1,10)
+            if epicness == 1:
+                print("you drink some tea and a BenK apeared")
+                print("obtained a rare BenK!")
+                inv.append("BenK")
+            if epicness == 2:
+                print("you drink some tea and a TomP apeared")
+                print("obtained a rare TomP!")
+                inv.append("TomP")
+            if epicness == 3:
+                print("you drink tea and a Jimothy apeared")
+                print("obtained a rare Jimothy!")
+                inv.append("Jimothy")
+            if epicness == 4:
+                print("You drink tea and a tame Narwhale apeared")
+                print("obtained a tame Narwhale!")
+                inv.append("Narwhale")
+            elif epicness >= 5:
+                print("it appears that you did not buy the right tea good sir/ma'm.")
+                print("maybe if you go back to the shop and buy more you may get some helpers?")
+    else:
+        print("YOU FOOL YOU HAVE NO TEA!")
+                
+def inventory():
+    global power, inv, money, EHP, HP, level, armour
+    print("inventory: ",inv)
+    print("power: ",power)
+    print("HP: ",HP)
+    print("money: ",money)
+    print("level: ",level)
+    print("armour level: ",armour)             
+
+
+#STUFF HAPPENS BEYOND THIS POINT!#
+
+while True:
+    mainmenu()
+    save()
+
+
+
+    
+
+#MADE
+#BY
+#ACRO!
+    
+            
