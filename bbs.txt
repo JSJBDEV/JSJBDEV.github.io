@@ -45,20 +45,22 @@ but currently you cannot get your inventory. Remember to drink your tea and retu
 """)
 #file loaded if possible
 
-question = input("open save? (yes/no/changelog) (don't do this if you know there isnt a file!)")
+def startmenu():
+    question = input("open save? (yes/no/changelog) (don't do this if you know there isnt a file!)")
 
-if question.lower() == "yes":
-    save = (open("save.txt","r"))
-    HP = int(save.readline())
-    power = int(save.readline())
-    level = int(save.readline())
-    money = int(save.readline())
-    armour = int(save.readline())
-    print("save loaded!")
-    save.close()
-    
-if question.lower() == "changelog":
-    changelog()
+    if question.lower() == "yes":
+        save = (open("save.txt","r"))
+        HP = int(save.readline())
+        power = int(save.readline())
+        level = int(save.readline())
+        money = int(save.readline())
+        armour = int(save.readline())
+        print("save loaded!")
+        save.close()
+        
+    if question.lower() == "changelog":
+        changelog()
+
 
 #main menu function calls other functions#
 def mainmenu():
