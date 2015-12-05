@@ -44,5 +44,16 @@ Put all stuff inside the <main> tags or the footer won't work properly.
       <!--Import jQuery before materialize.js-->
       <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.min.js"></script>
+      <script>
+        $(document).ready(function(){
+          $('nav').scrollUp(1);
+        });
+        $(document).scroll(function(){
+          if($(this).scrollTop()>=$('h1.header').position().top){
+            $('nav').scrollDown(1000);
+          } else {
+            $('nav').scrollUp(1000);
+        });
+      </script>
     </body>
   </html>
