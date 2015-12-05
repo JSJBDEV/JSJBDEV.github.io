@@ -1,21 +1,25 @@
 #irrationally complex battle simulator made by Acrogenous_ (James) of conclipsegames.co.uk -license applies-
 
-#CHANGELOG
-#version 1.2
-# yet again fixed the Juh
-# added money shown in shop
-# made things more "foolproof"
-# made the battle better for impatient people (use numbers)
-#Version 1.0.1
-#fixed juh (again)
-#Version 1.0
-#+ finalized a few points.
-#+ basic file saving
-#+ adding armour plating so i dont have to think of people for that
-#-+ Juh is to OP please Nerf! (completed)
-#Version BETA
-#+ inital simulator
-#+ added quick battle exit. will be removed in future release!
+def changelog():
+    print("""
+        #CHANGELOG
+        #version 1.2
+        # yet again fixed the Juh
+        # added money shown in shop
+        # made things more "foolproof"
+        # made the battle better for impatient people (use numbers)
+        #Version 1.0.1
+        #fixed juh (again)
+        #Version 1.0
+        #+ finalized a few points.
+        #+ basic file saving
+        #+ adding armour plating so i dont have to think of people for that
+        #-+ Juh is to OP please Nerf! (completed)
+        #Version BETA
+        #+ inital simulator
+        #+ added quick battle exit. will be removed in future release!
+        """)
+
 
 
 import random
@@ -35,14 +39,13 @@ save.txt wherever this script is located. it is not particually well encrypted
 so edit your inventory if you must. currenlty its limited; you will get all your stats back
 but currently you cannot get your inventory. Remember to drink your tea and return to the menu before you stop!
 -------------------------------
-###COMPUTER LADS EDITION###
 
 
 
 """)
 #file loaded if possible
 
-question = input("open save? (yes/no) (don't do this if you know there isnt a file!)")
+question = input("open save? (yes/no/changelog) (don't do this if you know there isnt a file!)")
 
 if question.lower() == "yes":
     save = (open("save.txt","r"))
@@ -53,6 +56,9 @@ if question.lower() == "yes":
     armour = int(save.readline())
     print("save loaded!")
     save.close()
+    
+if question.lower() == "changelog":
+    changelog()
 
 #main menu function calls other functions#
 def mainmenu():
