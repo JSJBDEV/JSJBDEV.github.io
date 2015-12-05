@@ -1,6 +1,5 @@
 #irrationally complex battle simulator made by Acrogenous_ (James) of conclipsegames.co.uk -license applies-
 
-startmenu()
 def changelog():
     print("""
         #CHANGELOG
@@ -63,7 +62,7 @@ def startmenu():
     if question.lower() == "changelog":
         changelog()
 
-
+startmenu()
 #main menu function calls other functions#
 def mainmenu():
     global power, inv, money, EHP, HP, level, armour
