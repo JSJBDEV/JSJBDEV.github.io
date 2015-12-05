@@ -66,14 +66,9 @@ Put all stuff inside the <main> tags or the footer won't work properly.
                                                 $(document).scroll(function() {
                                                                    scroll_start = $(this).scrollTop();
                                                                    if(scroll_start > offset.top) {
-                                                                   $("nav").addClass('white').removeClass('transparent');
-                                                                   
-                                                                   $('#nav-links li a').addClass('black-text').removeClass('white-text');
-                                                                   $('nav').addClass('z-depth-1').removeClass('z-depth-0')
+                                                                   $("nav").slideUp(1000);
                                                                    } else {
-                                                                   $("nav").addClass('transparent').removeClass('white');
-                                                                   $('#nav-links li a').addClass('white-text').removeClass('black-text');
-                                                                   $('nav').addClass('z-depth-0').removeClass('z-depth-1')
+                                                                   $("nav").slideDown(1000);
                                                                    }
                                                                    
                                                                    });
