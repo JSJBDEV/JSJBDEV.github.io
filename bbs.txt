@@ -19,6 +19,7 @@ def changelog():
         #+ inital simulator
         #+ added quick battle exit. will be removed in future release!
         """)
+    startmenu()
 
 
 
