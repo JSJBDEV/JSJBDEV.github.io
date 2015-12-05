@@ -66,9 +66,9 @@ Put all stuff inside the <main> tags or the footer won't work properly.
                                                 $(document).scroll(function() {
                                                                    scroll_start = $(this).scrollTop();
                                                                    if(scroll_start > offset.top) {
-                                                                   $("nav").slideUp(1000);
+                                                                   $("nav").slideDown(200);
                                                                    } else {
-                                                                   $("nav").slideDown(1000);
+                                                                   $("nav").slideUp(200);
                                                                    }
                                                                    
                                                                    });
