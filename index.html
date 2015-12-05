@@ -36,7 +36,7 @@ Put all stuff inside the <main> tags or the footer won't work properly.
 
     <body style="height: 200vh;">
       <nav>
-        <div class="nav-wrapper">
+        <div class="nav-wrapper green">
           <a href="#" class="brand-logo center">JSJBDEVS<span class="hide-on-small-only"> Update Server</span></a>
         </div>
       </nav>
@@ -61,9 +61,9 @@ Put all stuff inside the <main> tags or the footer won't work properly.
         });
         $(document).scroll(function(){
           if($(this).scrollTop()>=$('h1.header').position().top){
-            $('nav').scrollDown(1000);
+            $('nav').slideDown(1000);
           } else {
-            $('nav').scrollUp(1000);
+            $('nav').slideUp(1000);
         });
       </script>
     </body>
