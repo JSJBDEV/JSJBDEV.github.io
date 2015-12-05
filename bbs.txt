@@ -1,5 +1,6 @@
 #irrationally complex battle simulator made by Acrogenous_ (James) of conclipsegames.co.uk -license applies-
 
+startmenu()
 def changelog():
     print("""
         #CHANGELOG
