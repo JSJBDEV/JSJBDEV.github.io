@@ -135,7 +135,7 @@ def shop():
     """)
         
     if buy == "0":
-        mainmenu()
+        save()
 
     if buy == "1":
         if money >= 50:
