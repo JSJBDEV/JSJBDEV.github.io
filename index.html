@@ -57,10 +57,10 @@ Put all stuff inside the <main> tags or the footer won't work properly.
       <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.min.js"></script>
       <script>
         $(document).ready(function(){
-          $('nav').scrollUp(1);
+          $('nav').slideUp(1);
         });
         $(document).scroll(function(){
-          if($(this).scrollTop()>=$('h1.header').position().top){
+          if($(this).scrollTop()>=$('h1').position().top){
             $('nav').slideDown(1000);
           } else {
             $('nav').slideUp(1000);
