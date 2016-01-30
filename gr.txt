@@ -1,0 +1,13 @@
+import urllib.request
+import codecs
+
+def ab(urltograbfrom, modulename):
+    conc = "http://" + urltograbfrom
+    url = urllib.request.urlopen(conc)
+    output = url.read()
+    decoded = output.decode("utf-8")
+    conc = modulename + ".py"
+    local = open(conc,"w+")
+    local.write(decoded)
+    local.close()
+    print("dependancy",urltograbfrom,"downloaded as",modulename)
