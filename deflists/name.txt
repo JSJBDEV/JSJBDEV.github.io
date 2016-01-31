@@ -1,3 +1,2 @@
 Better Battle Simulator
-Update Launcher
 Add Module
