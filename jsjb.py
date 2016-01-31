@@ -49,7 +49,6 @@ def buildGrid(buildGrid_file):
   buildGrid_auth =  inky2013.readConfig(buildGrid_file + '/moduleList/' + gridFiles[3])
   buildGrid_url =  inky2013.readConfig(buildGrid_file + '/moduleList/' + gridFiles[4])
   gridLen = len(buildGrid_code)
-  print(len(buildGrid_code))
   print('''
 |=====|==========================|===================================|===============|
 |Code | Name                     | Description                       | Author        |
