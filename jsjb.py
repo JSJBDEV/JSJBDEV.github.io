@@ -15,6 +15,8 @@ def main(own_directory):
   time.sleep(1)
   import inky2013
   #Checking files
+  if not os.path.exists(own_directory + '/moduleList'):
+    os.makedirs(own_directory + '/moduleList')
   gridFiles = ['code.txt', 'name.txt', 'desc.txt', 'auth.txt', 'url.txt']
   for x in range(len(gridFiles)):
     if not os.path.isfile(own_directory + '/moduleList/' + gridFiles[x]):
