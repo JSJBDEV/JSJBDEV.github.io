@@ -1,3 +1,2 @@
 Text Based Battle RPG
-Update Launcher Client
 Add new module to JSJB
