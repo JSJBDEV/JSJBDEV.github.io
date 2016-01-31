@@ -1,0 +1,3 @@
+http://jsjbdev.github.io/bbs.txt
+http://inky2013.github.io/jsjb/updateClientUtil.py
+http://jsjbdev.github.io/addModule.txt
