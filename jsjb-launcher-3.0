@@ -1,0 +1,32 @@
+import urllib.request
+import codecs
+import os
+import sys
+import time
+
+url = urllib.request.urlopen('http://inky2013.github.io/python/modules/getModule.py')
+output = url.read()
+decoded = output.decode("utf-8")
+file = open('getModule.py', 'w+')
+file.write(decoded)
+file.close()
+print('Grabbing Library: getModule')
+time.sleep(1)
+import getModule
+getModule.getWebModule('http://inky2013.github.io/python/modules/osappdata.py', 'osappdata.py')
+print('Grabbing Library: osappdata')
+time.sleep(1)
+import osappdata
+osappdata.osAppData('ConclipseGames', 'jsjb')
+try:
+    os.remove('getModule.py')
+    os.remove('osappdata.py')
+except:
+    print('Error removing modules from \'' + os.cwd() + '\'.')
+    
+jsjbpath = osappdata.appDataPath + '/jsjb.py'
+getModule.getWebModule('http://jsjbdev.github.io/jsjb.py', jsjbpath)
+sys.path.insert(0, osappdata.appDataPath)
+import jsjb
+jsjb.main(osappdata.appDataPath)
+
