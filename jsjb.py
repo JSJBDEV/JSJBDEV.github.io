@@ -31,12 +31,10 @@ def main(own_directory):
       print('Could not download ' + code + '.')
     try:
       modularGame = __import__(code)
-      run = True
     except:
       print('Module could not be imported')
-    if run == True:
-      print('======================================================================================')
-      modularGame.main(own_directory)
+    print('======================================================================================')
+    modularGame.main(own_directory)
     print('======================================================================================')
     
 
