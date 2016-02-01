@@ -1,7 +1,7 @@
 #--#irrationally complex battle simulator made by Acrogenous_ (James) of conclipsegames.co.uk -license applies-
 
  
-main(directory):
+def main(directory):
  global directory
  
 
