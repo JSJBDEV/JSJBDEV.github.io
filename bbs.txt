@@ -1,7 +1,8 @@
 #--#irrationally complex battle simulator made by Acrogenous_ (James) of conclipsegames.co.uk -license applies-
 
  
-
+main(directory):
+ global directory
  
 
  
@@ -9,97 +10,26 @@
  
 
 #the main code starts here.
-
- 
-
 import random
-
- 
-
 global power, inv, money, EHP, HP, level, armour, skill, skilln
-
- 
-
 inv = ["DekuStick","OblongShield"]
-
- 
-
 money = int(1000)
-
- 
-
 EHP = int(1000)
-
- 
-
 HP = int(1000)
-
- 
-
 power = int(1)
-
- 
-
 level = int(1)
-
- 
-
 armour = int(1)
-
- 
-
 skill = ("nothing")
-
- 
-
 skilln = int(99)
-
- 
-
 print("Kaixo! young traveller welcome to the Acrogenous_'s battle Simulator!")
-
- 
-
 print("""------------------------------
-
- 
-
 this game supports autosaving. it is saved in a .txt file called
-
- 
-
 save.txt wherever this script is located. it is not particually well encrypted
-
- 
-
 so edit your inventory if you must. currenlty its limited; you will get all your stats back
-
- 
-
 but currently you cannot get your inventory. Remember to drink your tea and return to the menu before you stop!
-
- 
-
 -------------------------------
-
- 
-
- 
-
- 
-
- 
-
 """)
-
- 
-
 #file loaded if possible
-
- 
-
- 
-
 def startmenu():
 
  
@@ -428,7 +358,7 @@ def save():
 
  
 
-    save = (open("save.txt","w+"))
+    save = (open(directory + "/save.txt","w+"))
 
  
 
