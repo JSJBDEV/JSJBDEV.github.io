@@ -36,7 +36,7 @@ def main(own_directory):
       print('Module could not be imported')
     if run == True:
       print('======================================================================================')
-      modularGame.main()
+      modularGame.main(own_directory)
     print('======================================================================================')
     
 
