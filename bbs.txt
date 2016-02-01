@@ -1,8 +1,9 @@
 #--#irrationally complex battle simulator made by Acrogenous_ (James) of conclipsegames.co.uk -license applies-
 
  
-def main(directory):
+def main(str_directory):
  global directory
+ directory = str_directory
  
 
  
