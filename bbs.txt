@@ -48,7 +48,7 @@ def startmenu():
 
  
 
-        save = (open("save.txt","r"))
+        save = (open(directory  + "save.txt","r"))
 
  
 
