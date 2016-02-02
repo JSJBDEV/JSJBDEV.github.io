@@ -1,9 +1,7 @@
 #--#irrationally complex battle simulator made by Acrogenous_ (James) of conclipsegames.co.uk -license applies-
 
  
-def main(str_directory):
- global directory
- directory = str_directory
+
  
 
  
@@ -11,26 +9,97 @@ def main(str_directory):
  
 
 #the main code starts here.
+
+ 
+
 import random
+
+ 
+
 global power, inv, money, EHP, HP, level, armour, skill, skilln
+
+ 
+
 inv = ["DekuStick","OblongShield"]
+
+ 
+
 money = int(1000)
+
+ 
+
 EHP = int(1000)
+
+ 
+
 HP = int(1000)
+
+ 
+
 power = int(1)
+
+ 
+
 level = int(1)
+
+ 
+
 armour = int(1)
+
+ 
+
 skill = ("nothing")
+
+ 
+
 skilln = int(99)
+
+ 
+
 print("Kaixo! young traveller welcome to the Acrogenous_'s battle Simulator!")
+
+ 
+
 print("""------------------------------
+
+ 
+
 this game supports autosaving. it is saved in a .txt file called
+
+ 
+
 save.txt wherever this script is located. it is not particually well encrypted
+
+ 
+
 so edit your inventory if you must. currenlty its limited; you will get all your stats back
+
+ 
+
 but currently you cannot get your inventory. Remember to drink your tea and return to the menu before you stop!
+
+ 
+
 -------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
 """)
+
+ 
+
 #file loaded if possible
+
+ 
+
+ 
+
 def startmenu():
 
  
@@ -47,41 +116,43 @@ def startmenu():
 
     if question.lower() == "yes":
 
- 
 
-        save = (open(directory  + "save.txt","r"))
+        try:
+            save = (open("save.txt","r"))
 
- 
 
-        HP = int(save.readline())
 
- 
+            HP = int(save.readline())
 
-        power = int(save.readline())
 
- 
 
-        level = int(save.readline())
+            power = int(save.readline())
 
- 
 
-        money = int(save.readline())
 
- 
+            level = int(save.readline())
 
-        armour = int(save.readline())
 
- 
 
-        skilln = int(save.readline())
+            money = int(save.readline())
 
- 
 
-        print("save loaded!")
 
- 
+            armour = int(save.readline())
 
-        save.close()
+
+
+            skilln = int(save.readline())
+
+
+
+            print("save loaded!")
+
+
+
+            save.close()
+        except:
+            print("it says quite clearly don't do this if there is no file...")
 
  
 
@@ -112,11 +183,11 @@ def changelog():
         #CHANGELOG
 
  
-
+        # version 1.3.1
+        added a failsafe file loading for people who can't read
+        
+        
         #version 1.3
-
- 
-
         # added senpais dojo for special skills
 
  
@@ -359,7 +430,7 @@ def save():
 
  
 
-    save = (open(directory + "/save.txt","w+"))
+    save = (open("save.txt","w+"))
 
  
 
