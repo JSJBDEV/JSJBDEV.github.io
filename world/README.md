@@ -9,4 +9,4 @@ The original text database can still be found [on MaxMinds website](https://www.
 the countries as plaintext files can be found under
 `/world/countries/{2 LETTER COUNTRY CODE}.txt`
 and the regions can be found under
-`/world/regions/{2 LETTER COUNTRY CODE}/{COUNTRY REGION}.txt'
+`/world/regions/{2 LETTER COUNTRY CODE}/{COUNTRY REGION}.txt`
