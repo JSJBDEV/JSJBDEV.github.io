@@ -1,0 +1,14 @@
+tv,asau,Asau,00,628,-7.5,178.6666667
+tv,fongafale,Fongafale,00,,-8.5166667,179.2166667
+tv,funafuti,Funafuti,00,,-8.5166667,179.2166667
+tv,kulia,Kulia,00,,-6.1166667,177.2833333
+tv,lolua,Lolua,00,628,-5.6666667,176.1333333
+tv,matagi,Matagi,00,,-7.4666667,178.7
+tv,muli,Muli,00,,-7.4666667,178.6666667
+tv,polufale,Polufale,00,,-7.4666667,178.6833333
+tv,potufale,Potufale,00,,-7.4666667,178.6833333
+tv,saniuta,Saniuta,00,,-7.4833333,178.7
+tv,tanrake,Tanrake,00,381,-7.25,177.15
+tv,tapotali,Tapotali,00,,-7.25,177.15
+tv,tonga,Tonga,00,376,-6.2833333,176.3166667
+tv,vaitupu,Vaitupu,00,,-7.4833333,178.6833333

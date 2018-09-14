@@ -1,0 +1,1103 @@
+uy,18 de julio,18 de Julio,14,,-33.6833333,-53.55
+uy,19 de abril,19 de Abril,14,,-34.3666667,-54.0666667
+uy,25 de agosto,25 de Agosto,07,,-34.4116667,-56.4022222
+uy,25 de mayo,25 de Mayo,07,,-34.1891667,-56.3394444
+uy,abayuba,Abayuba,10,,-34.7641667,-56.2138889
+uy,abrojal,Abrojal,13,,-31.75,-55.0166667
+uy,acegua,Aceguá,03,,-31.8666667,-54.2
+uy,achar,Achar,18,,-32.4166667,-56.1666667
+uy,achiras,Achiras,08,,-33.5333333,-54.4333333
+uy,acosta,Acosta,19,,-33.2333333,-53.85
+uy,agraciada,Agraciada,17,,-33.8,-58.25
+uy,aguada,Aguada,10,,-34.9,-56.1833333
+uy,aguas buenas,Aguas Buenas,05,,-32.8,-55.8
+uy,aguas corrientes,Aguas Corrientes,02,,-34.5219444,-56.3936111
+uy,aguila,Águila,03,,-32.6666667,-53.6166667
+uy,aguila,Águila,17,,-33.6,-57.9833333
+uy,aguirre,Aguirre,03,,-32.3666667,-54.7666667
+uy,ahogados,Ahogados,06,,-33.75,-56.4666667
+uy,aigua,Aiguá,09,,-34.2,-54.75
+uy,albisu,Albisu,15,,-31.3333333,-57.8
+uy,aldecoa,Aldecoa,06,,-33.55,-56.9
+uy,alejandrina,Alejandrina,17,,-33.7666667,-58.35
+uy,alejandro gallinal,Alejandro Gallinal,07,,-33.8166667,-55.55
+uy,algorta,Algorta,12,,-32.4166667,-57.3833333
+uy,allende,Allende,01,,-30.3,-56.9666667
+uy,amaro,Amaro,03,,-32.75,-53.4833333
+uy,anastasia,Anastasia,19,,-33.2166667,-54.3833333
+uy,andresito,Andresito,06,,-33.1333333,-57.15
+uy,ansina,Ansina,11,,-31.9,-55.4666667
+uy,arapey,Arapey,15,,-30.9666667,-57.5333333
+uy,araujo,Araújo,11,,-32.1,-57.8166667
+uy,arbolito,Arbolito,03,,-32.65,-54.25
+uy,arbolito,Arbolito,11,,-32.2333333,-56.5
+uy,arenal,Arenal,02,,-34.45,-55.7833333
+uy,arenal,Arenal,17,,-33.7166667,-58.2666667
+uy,arenales,Arenales,17,,-33.7166667,-58.2666667
+uy,arenitas blancas,Arenitas Blancas,11,,-31.35,-57.9833333
+uy,arevalo,Arévalo,03,,-32.6333333,-55.1166667
+uy,arriera,Arriera,18,,-32.0333333,-54.5666667
+uy,arroyo aguila,Arroyo Aguila,17,,-33.6,-57.9833333
+uy,arroyo blanco,Arroyo Blanco,13,,-31.6833333,-54.7666667
+uy,arroyo de la virgen,Arroyo de la Virgen,07,,-34.1333333,-56.4
+uy,arroyo grande,Arroyo Grande,06,,-33.9666667,-57.1
+uy,arroyo malo,Arroyo Malo,06,,-33.3333333,-56.9333333
+uy,arroyo maria cejas,Arroyo María Cejas,05,,-33.0833333,-56.1833333
+uy,arroyo seco,Arroyo Seco,10,,-34.8833333,-56.2
+uy,arrozal treinta y tres,Arrozal Treinta y Tres,19,,-33.0166667,-53.7
+uy,arrozal victoria,Arrozal Victoria,14,,-33.1833333,-53.9
+uy,artigas,Artigas,01,44564,-30.4,-56.4666667
+uy,artigas,Artigas,03,,-32.5666667,-53.4166667
+uy,artilleros,Artilleros,04,,-34.3666667,-57.5666667
+uy,atlantida,Atlántida,02,,-34.7666667,-55.75
+uy,averias,Averías,14,,-33.6,-54.3166667
+uy,balneario bella italia,Balneario Bella Italia,10,,-34.8333333,-56.1166667
+uy,balneario chacarita,Balneario Chacarita,10,,-34.85,-56.0833333
+uy,balneario flor de maronas,Balneario Flor de Maroñas,10,,-34.85,-56.1166667
+uy,balneario floresta,Balneario Floresta,10,,-34.8333333,-56.2166667
+uy,balneario nuevo paris,Balneario Nuevo Paris,10,,-34.85,-56.2333333
+uy,balneario piedras blancas,Balneario Piedras Blancas,10,,-34.8286111,-56.1394444
+uy,balneario solis,Balneario Solís,09,,-34.8,-55.3666667
+uy,baltasar brum,Baltasar Brum,01,,-30.7333333,-57.3166667
+uy,banado de medina,Bañado de Medina,03,,-32.3833333,-54.35
+uy,banado de rocha,Bañado de Rocha,18,,-31.5333333,-55.8333333
+uy,barker,Barker,04,,-34.2666667,-57.45
+uy,barra de carrasco,Barra de Carrasco,02,,-34.8772222,-56.0297222
+uy,barra de maldonado,Barra de Maldonado,09,,-34.8666667,-54.8666667
+uy,barrancas,Barrancas,14,,-33.65,-53.8
+uy,barra tapado,Barra Tapado,15,,-31.6,-56.75
+uy,barrio de bella vista,Barrio de Bella Vista,10,,-34.8833333,-56.2
+uy,barrio de capurro,Barrio de Capurro,10,,-34.8833333,-56.2166667
+uy,batlle y ordonez,Batlle y Ordoñez,08,,-33.4666667,-55.1166667
+uy,batovi,Batoví,18,,-31.9166667,-55.9333333
+uy,baygorria,Baygorria,05,,-32.8833333,-56.8
+uy,beisso,Beisso,12,,-32.3333333,-57.05
+uy,belen,Belén,15,,-30.7833333,-57.7833333
+uy,bella aurora,Bella Aurora,15,,-31.5166667,-57.5333333
+uy,bellaco,Bellaco,12,,-32.7666667,-57.8833333
+uy,bella italia,Bella Italia,10,,-34.8333333,-56.1166667
+uy,bella union,Bella Unión,01,14639,-30.25,-57.5833333
+uy,bella vista,Bella Vista,10,,-34.8833333,-56.2
+uy,bella vista,Bella Vista,16,,-34.3166667,-57.0
+uy,belveder,Belveder,10,,-34.85,-56.2166667
+uy,bernabe rivera,Bernabé Rivera,01,,-30.25,-56.95
+uy,berruti,Berruti,13,,-31.4333333,-55.2333333
+uy,biassini,Biassini,15,,-31.25,-57.1666667
+uy,bifurcacion,Bifurcación,16,,-34.3166667,-56.8
+uy,blanquillo,Blanquillo,05,,-32.7666667,-55.6333333
+uy,blanquillo,Blanquillo,18,,-32.35,-55.8333333
+uy,blanquillos,Blanquillos,18,,-32.35,-55.8333333
+uy,boca del rosario,Boca del Rosario,04,,-34.4,-57.3333333
+uy,bolivar,Bolívar,08,,-34.2333333,-55.7333333
+uy,bone,Boné,04,,-34.0333333,-57.8333333
+uy,borracho,Borracho,11,,-31.9,-55.4666667
+uy,brigadier general diego lamas,Brigadier General Diego Lamas,01,,-30.6833333,-57.0333333
+uy,buceo,Buceo,10,,-34.9,-56.1333333
+uy,buenahora,Buenahora,04,,-34.0333333,-58.1333333
+uy,buena union,Buena Unión,13,,-31.2333333,-55.6333333
+uy,buena vista,Buena Vista,03,,-32.15,-54.2
+uy,buricayupi,Buricayupí,11,,-31.8833333,-57.3333333
+uy,cabellos,Cabellos,01,,-30.7333333,-57.3166667
+uy,cabo polonio,Cabo Polonio,14,,-34.4,-53.7833333
+uy,calera,Calera,13,,-31.45,-55.4166667
+uy,camano,Camaño,01,,-30.5666667,-56.8833333
+uy,cambara,Cambará,15,,-31.1166667,-56.4666667
+uy,came,Came,17,,-33.8666667,-57.6166667
+uy,campamento,Campamento,01,,-30.75,-56.75
+uy,campana,Campana,04,,-33.9833333,-57.9
+uy,campo de todos,Campo de Todos,15,,-31.5833333,-57.6166667
+uy,canada chica,Cañada Chica,19,,-33.25,-53.9
+uy,canada del pueblo,Cañada del Pueblo,11,,-31.8333333,-57.25
+uy,canada nieto,Cañada Nieto,17,,-33.7166667,-58.0833333
+uy,canada paraguaya,Cañada Paraguaya,17,,-33.5833333,-58.0833333
+uy,canada sauce,Cañada Sauce,03,,-32.4666667,-54.3166667
+uy,canas,Cañas,03,,-32.35,-53.8333333
+uy,canas,Cañas,05,,-32.9333333,-55.5166667
+uy,canas,Cañas,18,,-31.3,-56.0166667
+uy,candil,Candil,07,,-34.0666667,-56.3
+uy,canelones,Canelones,02,21081,-34.5227778,-56.2777778
+uy,canepa,Canepa,08,,-34.5166667,-55.25
+uy,canitas,Cañitas,03,,-32.35,-53.8333333
+uy,cantera del minuano,Cantera del Minuano,04,,-34.35,-57.4333333
+uy,capilla de farruco,Capilla de Farruco,05,,-32.8833333,-55.4166667
+uy,capilla del sauce,Capilla del Sauce,07,,-33.4166667,-55.6333333
+uy,capilla farruco,Capilla Farruco,05,,-32.8833333,-55.4166667
+uy,cap. juan a. artigas,Cap. Juan A. Artigas,02,,-34.7625,-56.0205556
+uy,capurro,Capurro,10,,-34.8833333,-56.2166667
+uy,capurro,Capurro,16,,-34.4166667,-56.4666667
+uy,caraballo,Caraballo,12,,-32.9333333,-57.65
+uy,caraguata,Caraguatá,13,,-31.7833333,-54.75
+uy,caraguata,Caraguatá,18,,-32.2333333,-54.9833333
+uy,cardal,Cardal,07,,-34.2905556,-56.3888889
+uy,cardona,Cardona,17,,-33.8833333,-57.3833333
+uy,cardoso,Cardoso,18,,-32.6333333,-56.35
+uy,cardozo,Cardozo,18,,-32.6333333,-56.35
+uy,cardozo chico,Cardozo Chico,18,,-32.4166667,-56.3333333
+uy,carlos reyles,Carlos Reyles,05,,-33.0166667,-56.4833333
+uy,carmelo,Carmelo,04,18713,-33.9891667,-58.2855556
+uy,carmen,Carmen,05,,-33.25,-56.0166667
+uy,carmen del durazno,Carmen del Durazno,05,,-33.25,-56.0166667
+uy,carpinteria,Carpintería,05,,-32.8333333,-56.1833333
+uy,carpinteria,Carpintería,18,,-31.8166667,-55.2166667
+uy,carqueja,Carqueja,15,,-31.2333333,-57.1166667
+uy,carrasco,Carrasco,10,,-34.8852778,-56.0605556
+uy,casa blanca,Casa Blanca,11,,-32.4166667,-58.15
+uy,casas blancas,Casas Blancas,11,,-32.4166667,-58.15
+uy,castillo,Castillo,17,,-33.8833333,-57.6666667
+uy,castillos,Castillos,14,,-34.1666667,-53.8333333
+uy,castillos,Castillos,17,,-33.8833333,-57.6666667
+uy,casupa,Casupá,07,,-34.0333333,-55.65
+uy,cayetano,Cayetano,15,,-31.25,-56.8333333
+uy,cebollati,Cebollatí,14,,-33.2666667,-53.7833333
+uy,ceferino,Ceferino,15,,-31.35,-56.6333333
+uy,ceibal,Ceibal,05,,-32.8833333,-55.5166667
+uy,celeste,Celeste,15,,-31.3,-57.0666667
+uy,centro,Centro,10,,-34.9052778,-56.1944444
+uy,centurion,Centurión,03,,-32.1,-53.75
+uy,cerrezuelo,Cerrezuelo,05,,-32.7666667,-55.4333333
+uy,cerrillada,Cerrillada,13,,-31.5,-54.7166667
+uy,cerrillada,Cerrillada,15,,-31.65,-56.8333333
+uy,cerrillos,Cerrillos,02,,-34.605,-56.3563889
+uy,cerrito,Cerrito,10,,-34.8666667,-56.1666667
+uy,cerro alegre,Cerro Alegre,17,,-33.3333333,-57.95
+uy,cerro batovi,Cerro Batoví,18,,-31.8833333,-56.0
+uy,cerro caqueira,Cerro Caqueira,13,,-30.9333333,-55.4833333
+uy,cerro chato,Cerro Chato,11,,-31.8833333,-57.5166667
+uy,cerro chato,Cerro Chato,18,,-32.45,-56.0333333
+uy,cerro chato,Cerro Chato,19,,-33.1,-55.1333333
+uy,cerro colorado,Cerro Colorado,07,,-33.8666667,-55.55
+uy,cerro convento,Cerro Convento,05,,-32.75,-55.65
+uy,cerro de las armas,Cerro de las Armas,04,,-34.0666667,-57.7166667
+uy,cerro de las cuentas,Cerro de las Cuentas,10,,-32.6166667,-54.6
+uy,cerro pastoreo,Cerro Pastoreo,18,,-31.7,-56.1
+uy,cerro pelado del este,Cerro Pelado del Este,13,,-31.4666667,-55.1666667
+uy,cerro san jorge,Cerro San Jorge,05,,-32.8666667,-55.9166667
+uy,cerros blancos,Cerros Blancos,13,,-31.7666667,-54.8
+uy,cerros de los rochas,Cerros de los Rochas,14,,-34.1666667,-53.85
+uy,cerro vera,Cerro Vera,17,,-33.1833333,-57.4666667
+uy,chacarita,Chacarita,10,,-34.85,-56.0833333
+uy,chamberlain,Chamberlain,18,,-32.6166667,-56.4833333
+uy,chamizo,Chamizo,08,,-34.25,-55.9333333
+uy,chamizo,Chamizo,16,,-34.1666667,-56.6833333
+uy,chapicuy,Chapicuy,11,,-31.6666667,-57.9166667
+uy,charqueada,Charqueada,14,,-33.2,-53.8
+uy,chilcas,Chilcas,07,,-33.55,-55.6666667
+uy,chuy,Chuy,03,,-32.1666667,-54.1166667
+uy,chuy,Chuy,14,11287,-33.6833333,-53.45
+uy,ciudad de la colonia del sacramento,Ciudad de la Colonia del Sacramento,04,,-34.4666667,-57.85
+uy,ciudad de la florida,Ciudad de la Florida,07,,-34.0955556,-56.2141667
+uy,ciudad del salto,Ciudad del Salto,15,,-31.3833333,-57.9666667
+uy,ciudad de melo,Ciudad de Melo,03,,-32.3666667,-54.1833333
+uy,ciudad de mercedes,Ciudad de Mercedes,17,,-33.2558333,-58.0191667
+uy,ciudad de minas,Ciudad de Minas,08,,-34.37,-55.225
+uy,ciudad de montevideo,Ciudad de Montevideo,10,,-34.8580556,-56.1708333
+uy,ciudad de paysandu,Ciudad de Paysandú,11,,-32.3213889,-58.0755556
+uy,ciudad de rocha,Ciudad de Rocha,14,,-34.4833333,-54.3333333
+uy,ciudad de san jose,Ciudad de San José,16,,-34.3375,-56.7136111
+uy,ciudad viaje,Ciudad Viaje,10,,-34.9083333,-56.2083333
+uy,clara,Clara,18,,-32.2333333,-55.7333333
+uy,coion,Coion,08,,-33.8833333,-54.7166667
+uy,colla,Colla,04,,-34.0666667,-57.35
+uy,colon,Colón,08,,-33.8833333,-54.7166667
+uy,colon,Colón,10,,-34.8,-56.2333333
+uy,colonia 19 de abril,Colonia 19 de Abril,11,,-32.3333333,-57.8
+uy,colonia america,Colonia América,16,,-34.2,-56.9833333
+uy,colonia arrue,Colonia Arrué,04,,-33.9833333,-58.15
+uy,colonia,Colonia,04,24870,-34.4666667,-57.85
+uy,colonia del sacramento,Colonia del Sacramento,04,,-34.4666667,-57.85
+uy,colonia diecinueve de abril,Colonia Diecinueve de Abril,11,,-32.3333333,-57.8
+uy,colonia dieciocho de julio,Colonia Dieciocho de Julio,15,,-31.3333333,-57.8833333
+uy,colonia espanola,Colonia Española,04,,-34.4,-57.1666667
+uy,colonia esperanza,Colonia Esperanza,11,,-32.3333333,-57.9333333
+uy,colonia estrella,Colonia Estrella,04,,-33.9666667,-58.2833333
+uy,colonia jefferies,Colonia Jefferies,19,,-33.25,-54.3333333
+uy,colonia lavalleja,Colonia Lavalleja,15,,-31.1,-57.0166667
+uy,colonia miguelete,Colonia Miguelete,04,,-34.0166667,-57.65
+uy,colonia nicolich,Colonia Nicolich,02,,-34.8130556,-56.0447222
+uy,colonia nuevo paysandu,Colonia Nuevo Paysandú,11,,-32.2833333,-58.05
+uy,colonia ombues de lavalle,Colonia Ombúes de Lavalle,04,,-33.9166667,-57.7833333
+uy,colonia piamontesa,Colonia Piamontesa,04,,-34.35,-57.3
+uy,colonia pintado,Colonia Pintado,01,,-30.5,-56.45
+uy,colonia rosario,Colonia Rosario,04,,-34.4166667,-57.2833333
+uy,colonia rossell y rius,Colonia Rossell y Rius,05,,-33.1833333,-55.7
+uy,colonia san javier,Colonia San Javier,12,,-32.6833333,-58.1333333
+uy,colonia suiza,Colonia Suiza,04,,-34.3166667,-57.2166667
+uy,colonia valdense,Colonia Valdense,04,,-34.3333333,-57.2333333
+uy,conchillas,Conchillas,04,,-34.1522222,-58.0125
+uy,conciliacion,Conciliación,10,,-34.8333333,-56.2333333
+uy,concordia,Concordia,16,,-34.3827778,-56.5416667
+uy,conde,Conde,12,,-32.9333333,-57.1166667
+uy,constancia,Constancia,11,,-32.2,-58.0
+uy,constitucion,Constitución,15,,-31.0833333,-57.8333333
+uy,constitution,Constitution,15,,-31.0833333,-57.8333333
+uy,coquimbo,Coquimbo,17,,-33.45,-57.7333333
+uy,cordon,Cordón,10,,-34.905,-56.1683333
+uy,coronilla,Coronilla,14,,-33.5666667,-53.85
+uy,coronilla,Coronilla,18,,-31.9166667,-54.7333333
+uy,corral de piedra,Corral de Piedra,06,,-33.8833333,-56.45
+uy,corrales,Corrales,08,,-33.4666667,-54.6666667
+uy,corrales,Corrales,13,,-31.5833333,-55.4666667
+uy,correa,Correa,14,,-33.3666667,-53.6666667
+uy,cortume,Cortume,13,,-31.7833333,-55.15
+uy,costa de las viboras,Costa de las Víboras,04,,-33.9333333,-58.1666667
+uy,costa de san gregorio,Costa de San Gregorio,16,,-33.95,-56.75
+uy,costa de san jose,Costa de San José,06,,-33.85,-56.8833333
+uy,costa de san luis,Costa de San Luis,14,,-33.6166667,-53.7166667
+uy,costa de viboras,Costa de Víboras,04,,-33.9333333,-58.1666667
+uy,costas de san jose,Costas de San José,06,,-33.85,-56.8833333
+uy,cruz de los caminos,Cruz de los Caminos,02,,-34.6333333,-55.9666667
+uy,cruz de los caminos,Cruz de los Caminos,16,,-34.25,-56.6833333
+uy,cruz de piedra,Cruz de Piedra,03,,-32.0333333,-54.1833333
+uy,cuaro,Cuaró,01,,-30.6166667,-56.9
+uy,cuaro,Cuaró,18,,-31.9,-55.1333333
+uy,cuchilla caraguata,Cuchilla Caraguatá,18,,-32.2333333,-54.9833333
+uy,cuchilla de cuadra,Cuchilla de Cuadra,05,,-33.3833333,-56.4166667
+uy,cuchilla del ombu,Cuchilla del Ombú,18,,-31.8,-55.7
+uy,cuchilla del perdido,Cuchilla del Perdido,17,,-33.5833333,-57.3
+uy,cuchilla de peralta,Cuchilla de Peralta,18,,-32.4333333,-56.35
+uy,cuchilla grande,Cuchilla Grande,03,,-32.65,-54.45
+uy,cuchilla manguera,Cuchilla Manguera,13,,-31.35,-55.3833333
+uy,cufre,Cufré,16,,-34.2,-57.1
+uy,cunapiru,Cuñapirú,13,,-31.5333333,-55.5833333
+uy,curticeras,Curticeras,13,,-30.9666667,-55.55
+uy,curtina,Curtina,18,,-32.15,-56.1166667
+uy,darwin,Darwin,17,,-33.1,-57.6333333
+uy,dayman,Daymán,11,,-31.55,-57.95
+uy,de los pastores,De los Pastores,08,,-33.1666667,-54.9666667
+uy,delta del tigre,Delta del Tigre,16,17952,-34.7633333,-56.3852778
+uy,diaz,Díaz,08,,-33.1333333,-54.9333333
+uy,diecinueve de abril,Diecinueve de Abril,14,,-34.3666667,-54.0666667
+uy,dieciocho de julio,Dieciocho de Julio,14,,-33.6833333,-53.55
+uy,diez y ocho de julio,Diez y Ocho de Julio,14,,-33.6833333,-53.55
+uy,doctor francisco soca,Doctor Francisco Soca,02,,-34.6833333,-55.6833333
+uy,doctor soca,Doctor Soca,02,,-34.6833333,-55.6833333
+uy,dolores,Dolores,17,16205,-33.5441667,-58.1972222
+uy,drabble,Drabble,17,,-33.6833333,-57.5666667
+uy,drable,Drable,17,,-33.6833333,-57.5666667
+uy,duranzo,Duranzo,05,,-33.4130556,-56.5005556
+uy,duraznito,Duraznito,17,,-33.65,-57.5333333
+uy,durazno,Durazno,05,32782,-33.4130556,-56.5005556
+uy,echevarria,Echevarría,02,,-34.5333333,-56.3166667
+uy,echeverria,Echeverría,02,,-34.5333333,-56.3166667
+uy,echeverry,Echeverry,18,,-31.6833333,-55.95
+uy,ecilda paullier,Ecilda Paullier,16,,-34.3666667,-57.0666667
+uy,egana,Egaña,17,,-33.6166667,-57.6333333
+uy,el borracho,El Borracho,11,,-31.9,-55.4666667
+uy,el cano,El Caño,04,,-34.4,-57.6666667
+uy,el catete,El Catete,19,,-32.95,-54.2166667
+uy,el ceibo,El Ceibo,14,,-33.5166667,-53.7833333
+uy,el cerro,El Cerro,04,,-33.95,-58.2333333
+uy,el chaco,El Chaco,05,,-32.9666667,-55.4
+uy,el chaco,El Chaco,11,,-31.9666667,-57.5166667
+uy,el chaja,El Chajá,19,,-33.0166667,-53.95
+uy,el chuy,El Chuy,03,,-32.1666667,-54.1166667
+uy,el dorado,El Dorado,02,,-34.6983333,-56.2175
+uy,el eucaliptus,El Eucaliptus,11,,-31.9166667,-57.25
+uy,el general,El General,04,,-34.4,-57.8833333
+uy,el horno,El Horno,11,,-32.0166667,-57.4666667
+uy,el hueco,El Hueco,07,,-33.95,-55.85
+uy,el infiernillo,El Infiernillo,07,,-33.9333333,-55.6833333
+uy,el maturrango,El Maturrango,14,,-34.0666667,-53.9333333
+uy,el oratorio,El Oratorio,14,,-33.9833333,-53.9833333
+uy,el sauce,El Sauce,12,,-32.85,-57.6833333
+uy,el semillero,El Semillero,04,,-34.4166667,-57.7333333
+uy,el tala,El Tala,06,,-33.25,-57.3333333
+uy,el tarugo,El Tarugo,11,,-32.0,-57.3
+uy,el topador,El Topador,01,,-30.3166667,-56.8166667
+uy,el tropiezo,El Tropiezo,15,,-31.4,-57.7833333
+uy,empalme olmos,Empalme Olmos,02,,-34.7,-55.9
+uy,empalme sauce,Empalme Sauce,02,,-34.7152778,-56.0733333
+uy,enrique martinez,Enrique Martinez,14,,-33.2,-53.8
+uy,e. robo,E. Robo,17,,-33.6833333,-57.5666667
+uy,escudero,Escudero,16,,-34.2166667,-57.0
+uy,espanola colonia agricola,Española Colonia Agrícola,04,,-34.4,-57.1666667
+uy,esperanza,Esperanza,11,,-32.3333333,-57.9333333
+uy,espinillar,Espinillar,08,,-33.4666667,-54.2
+uy,espinillo,Espinillo,17,,-33.6166667,-58.2833333
+uy,estacion ataques,Estación Ataques,13,,-31.1,-55.6666667
+uy,estacion casupa,Estación Casupá,07,,-34.0333333,-55.65
+uy,estacion esperanza,Estación Esperanza,11,,-32.3333333,-57.9333333
+uy,estacion garzon,Estación Garzón,09,,-34.6,-54.55
+uy,estacion goni,Estación Goñi,07,,-33.5166667,-56.4
+uy,estacion isla cabello,Estación Isla Cabello,01,,-30.7333333,-57.3166667
+uy,estacion isla de cabello,Estación Isla de Cabello,01,,-30.7333333,-57.3166667
+uy,estacion migues,Estación Migues,02,,-34.4833333,-55.6333333
+uy,estacion olmos,Estación Olmos,02,,-34.7,-55.9
+uy,estacion porvenir,Estación Porvenir,11,,-32.3666667,-57.85
+uy,estanzuela,Estanzuela,04,,-34.3333333,-57.7166667
+uy,eucaliptus,Eucaliptus,11,,-31.9166667,-57.25
+uy,fagundez,Fagúndez,01,,-30.7166667,-56.6
+uy,falagian,Falagian,08,,-34.3666667,-55.1666667
+uy,faro del polonio,Faro del Polonio,14,,-34.4,-53.7833333
+uy,faro de polonio,Faro de Polonio,14,,-34.4,-53.7833333
+uy,federacion,Federaciõn,11,,-32.0166667,-57.3333333
+uy,fernandez,Fernández,03,,-32.0,-54.1333333
+uy,fernandez,Fernández,15,,-31.2166667,-56.3166667
+uy,ferreira,Ferreira,15,,-31.1666667,-57.0
+uy,ferrer,Ferrer,07,,-33.4833333,-55.5666667
+uy,ferro carril,Ferro Carril,10,,-34.8,-56.2166667
+uy,flor de maronas,Flor de Maroñas,10,,-34.85,-56.1166667
+uy,florencio sanchez,Florencio Sánchez,04,,-33.8833333,-57.4
+uy,florentino,Florentino,15,,-31.3,-57.1333333
+uy,floresta,Floresta,02,,-34.75,-55.6833333
+uy,florida,Florida,07,34002,-34.0955556,-56.2141667
+uy,fraile muerto,Fraile Muerto,10,,-32.5166667,-54.5333333
+uy,francisco soca,Francisco Soca,02,,-34.6833333,-55.6833333
+uy,franquia,Franquia,01,,-30.1333333,-57.6333333
+uy,fray bentos,Fray Bentos,12,23566,-33.1325,-58.2955556
+uy,frayle muerto,Frayle Muerto,10,,-32.5166667,-54.5333333
+uy,fray marcos,Fray Marcos,08,,-34.1833333,-55.7333333
+uy,garibaldi,Garibaldi,15,,-31.35,-57.8
+uy,garzon,Garzón,09,,-34.6,-54.55
+uy,general borges,General Borges,12,,-32.5666667,-57.3666667
+uy,general enrique martinez,General Enrique Martínez,14,,-33.2,-53.8
+uy,gerona,Gerona,09,,-34.7333333,-55.2666667
+uy,gervasio,Gervasio,14,,-33.8833333,-53.5
+uy,godoy,Godoy,18,,-31.7666667,-56.0166667
+uy,goni,Goní,07,,-33.4833333,-56.4833333
+uy,gonzalez,González,05,,-33.0833333,-55.9666667
+uy,gonzalez,González,16,,-34.2333333,-56.8666667
+uy,goyo martinez,Goyo Martinez,18,,-31.9,-55.8833333
+uy,grecco,Grecco,12,,-32.8,-57.05
+uy,greco,Greco,12,,-32.8,-57.05
+uy,gregorio aznarez,Gregorio Aznárez,09,,-34.7166667,-55.4166667
+uy,guadalupe,Guadalupe,02,,-34.5227778,-56.2777778
+uy,guaviyu,Guaviyú,13,,-31.4833333,-54.8333333
+uy,guaviyu,Guaviyú,15,,-31.0166667,-56.5666667
+uy,guayabos,Guayabos,11,,-32.25,-57.3
+uy,guerrero,Guerrero,17,,-33.85,-57.6833333
+uy,guichon,Guichón,11,,-32.35,-57.2
+uy,heriberto,Heriberto,18,,-31.8166667,-55.5
+uy,horqueta de castillos,Horqueta de Castillos,14,,-34.1166667,-53.95
+uy,horqueta,Horqueta,14,,-34.1166667,-53.95
+uy,hospital,Hospital,13,,-31.6833333,-54.65
+uy,illescas,Illescas,07,,-33.6,-55.3333333
+uy,independencia,Independencia,07,,-34.3516667,-56.3983333
+uy,independencia,Independencia,12,,-33.1325,-58.2955556
+uy,ingeniero andreoni,Ingeniero Andreoni,08,,-34.3666667,-55.5166667
+uy,ingeniero eduardo garcia de zuniga,Ingeniero Eduardo García de Zúñiga,02,,-34.665,-56.2194444
+uy,ingenio jose serrato,Ingenio José Serrato,19,,-33.25,-53.9166667
+uy,isidoro noblia,Isidoro Noblía,03,,-31.8333333,-54.1666667
+uy,isla cabello,Isla Cabello,01,,-30.7333333,-57.3166667
+uy,isla cabellos,Isla Cabellos,01,,-30.7333333,-57.3166667
+uy,isla de cabellos,Isla de Cabellos,01,,-30.7333333,-57.3166667
+uy,isla mala,Isla Mala,07,,-34.1891667,-56.3394444
+uy,isla patrulla,Isla Patrulla,19,,-32.9833333,-54.5833333
+uy,ismael cortinas,Ismael Cortinas,04,,-33.4166667,-57.0666667
+uy,itapebi,Itapebí,15,,-31.3,-57.7
+uy,itapeby,Itapeby,15,,-31.3,-57.7
+uy,ituzaingo,Ituzaingó,10,,-34.85,-56.1166667
+uy,ituzaingo,Ituzaingó,16,,-34.4197222,-56.4225
+uy,javier de viana,Javier de Viana,01,,-30.4,-56.7833333
+uy,j.e. rodo,J.E. Rodo,17,,-33.6833333,-57.5666667
+uy,jimenez,Jiménez,05,,-33.0,-55.7833333
+uy,j.l. lacaze,J.L. Lacaze,04,,-34.4333333,-57.4166667
+uy,joanico,Joanicó,02,,-34.5894444,-56.2527778
+uy,joaquin suarez,Joaquín Suárez,02,,-34.7336111,-56.0366667
+uy,joaquin suarez,Joaquín Suárez,04,,-34.2833333,-57.6166667
+uy,jose batlle y ordonez,José Batlle y Ordóñez,08,,-33.4666667,-55.1166667
+uy,jose enrique rodo,José Enrique Rodó,17,,-33.6833333,-57.5666667
+uy,jose ignacio,José Ignacio,09,,-34.65,-55.2333333
+uy,jose ignacio,José Ignacio,16,,-34.6833333,-56.7333333
+uy,jose pedro varela,José Pedro Varela,08,,-33.45,-54.5333333
+uy,jose p. varela,José P. Varela,08,,-33.45,-54.5333333
+uy,j.p. varela,J.P. Varela,08,,-33.45,-54.5333333
+uy,j. suarez,J. Suarez,02,,-34.7336111,-56.0366667
+uy,j. suarez,J. Suárez,04,,-34.2833333,-57.6166667
+uy,juan j. castro,Juan J. Castro,06,,-33.5,-56.75
+uy,juan jose castro,Juan José Castro,06,,-33.5,-56.75
+uy,juan lacaze,Juan Lacaze,04,13263,-34.4333333,-57.4166667
+uy,juan l. lacaze,Juan L. Lacaze,04,,-34.4333333,-57.4166667
+uy,juan soler,Juan Soler,16,,-34.3191667,-56.8052778
+uy,julio maria sanz,Julio María Sanz,19,,-33.15,-54.15
+uy,kilometro 71,Kilómetro 71,07,,-34.3666667,-56.4
+uy,kiyu,Kiyú,16,,-34.65,-56.75
+uy,la alegria,La Alegría,05,,-32.6,-55.5833333
+uy,la barra,La Barra,14,,-34.3666667,-53.7666667
+uy,la bolsa,La Bolsa,15,,-30.8666667,-56.3666667
+uy,la calavera,La Calavera,19,,-32.9333333,-54.2666667
+uy,la calera,La Calera,13,,-31.45,-55.4166667
+uy,la charqueada,La Charqueada,14,,-33.2,-53.8
+uy,la chirca,La Chirca,18,,-32.05,-54.6333333
+uy,la chiva,La Chiva,19,,-33.25,-54.0166667
+uy,la ciudad de colonia,La Ciudad de Colonia,04,,-34.4666667,-57.85
+uy,la coronilla,La Coronilla,14,,-33.5666667,-53.85
+uy,la cruz,La Cruz,07,,-33.9333333,-56.25
+uy,la cuchilla,La Cuchilla,03,,-32.5666667,-53.4166667
+uy,ladrillos,Ladrillos,08,,-33.75,-55.2833333
+uy,la esperanza,La Esperanza,03,,-33.0,-55.1333333
+uy,la estanzuela,La Estanzuela,04,,-34.3333333,-57.7166667
+uy,la floresta,La Floresta,02,,-34.75,-55.6833333
+uy,la floresta,La Floresta,10,,-34.8333333,-56.2166667
+uy,la florida,La Florida,12,,-32.7666667,-57.7833333
+uy,la hilera,La Hilera,18,,-32.0833333,-55.65
+uy,la humedad,La Humedad,18,,-32.05,-54.8666667
+uy,la lata,La Lata,03,,-31.7333333,-54.4166667
+uy,la macana,La Macana,07,,-34.05,-56.2
+uy,la mariscala,La Mariscala,08,,-34.05,-54.7833333
+uy,la mazamorra,La Mazamorra,05,,-32.5333333,-55.5
+uy,lambare,Lambaré,18,,-31.5166667,-55.9666667
+uy,la micaela,La Micaela,03,,-32.6333333,-53.9
+uy,la mina,La Mina,03,,-31.9,-54.15
+uy,la morcona,La Morcona,18,,-32.1833333,-56.0666667
+uy,la paloma,La Paloma,05,,-32.7166667,-55.6
+uy,la paloma,La Paloma,14,,-34.6666667,-54.1666667
+uy,la paraguaya,La Paraguaya,17,,-33.5833333,-58.0833333
+uy,la paz,La Paz,02,22804,-34.7616667,-56.2236111
+uy,la paz,La Paz,04,,-34.35,-57.3
+uy,la pedrera,La Pedrera,03,,-32.35,-54.1333333
+uy,la pedrera,La Pedrera,06,,-33.5,-56.8666667
+uy,lapuente,Lapuente,13,,-31.4166667,-54.9166667
+uy,la querencia,La Querencia,02,,-34.6333333,-55.6166667
+uy,la reforma,La Reforma,15,,-31.2833333,-56.4333333
+uy,larrayos,Larrayos,18,,-32.1666667,-55.0166667
+uy,larrosa,Larrosa,08,,-33.3833333,-55.0833333
+uy,las arenas,Las Arenas,18,,-32.0166667,-55.0666667
+uy,las brujas,Las Brujas,02,,-34.6333333,-56.3333333
+uy,las canas,Las Cañas,05,,-32.9333333,-55.5166667
+uy,lascano,Lascano,14,,-33.6666667,-54.2
+uy,las chircas,Las Chircas,18,,-32.3833333,-55.0666667
+uy,las flores,Las Flores,09,,-34.75,-55.3333333
+uy,las flores,Las Flores,11,,-32.4166667,-57.5833333
+uy,las flores,Las Flores,12,,-32.8,-57.05
+uy,las flores,Las Flores,18,,-31.8166667,-55.2166667
+uy,las piedras,Las Piedras,01,,-30.2333333,-57.5833333
+uy,las piedras,Las Piedras,02,72965,-34.7263889,-56.22
+uy,las ratas,Las Ratas,03,,-32.0833333,-54.25
+uy,las toscas,Las Toscas,02,,-34.7333333,-55.7166667
+uy,las toscas,Las Toscas,18,,-32.15,-55.05
+uy,las viboras,Las Víboras,04,,-33.9891667,-58.2855556
+uy,las violetas,Las Violetas,06,,-33.6,-57.1333333
+uy,la tentacion,La Tentaciõn,11,,-32.4833333,-57.75
+uy,latorre,Latorre,03,,-32.1,-53.75
+uy,la union,La Unión,12,,-32.75,-57.75
+uy,laura,Laura,18,,-32.15,-54.8833333
+uy,laureles,Laureles,13,,-31.6833333,-55.4333333
+uy,laureles,Laureles,15,,-31.5166667,-57.5333333
+uy,laureles,Laureles,18,,-31.3666667,-55.85
+uy,lavaderos del este,Lavaderos del Este,10,,-34.9,-56.1
+uy,lavaderos,Lavaderos,10,,-34.9,-56.1
+uy,lavalleja,Lavalleja,08,,-34.37,-55.225
+uy,lavalleja,Lavalleja,15,,-31.1,-57.0166667
+uy,lavalleja,Lavalleja,18,,-31.8166667,-55.9666667
+uy,lazcano,Lazcano,14,,-33.6666667,-54.2
+uy,liberfad,Liberfad,16,,-34.6333333,-56.6191667
+uy,libertad,Libertad,16,,-34.6333333,-56.6191667
+uy,lluveras,Lluveras,15,,-31.1666667,-57.0833333
+uy,lomas de carmelo,Lomas de Carmelo,04,,-33.9833333,-58.25
+uy,lorenzo geyres,Lorenzo Geyres,11,,-32.0833333,-57.9166667
+uy,los agregados,Los Agregados,05,,-32.7833333,-55.9
+uy,los ahogados,Los Ahogados,06,,-33.5333333,-56.9333333
+uy,los camejos,Los Camejos,19,,-33.1166667,-54.8166667
+uy,los castros,Los Castros,05,,-32.8333333,-56.4333333
+uy,los ceballos,Los Ceballos,11,,-32.1,-57.4166667
+uy,los cerrillos,Los Cerrillos,02,,-34.605,-56.3563889
+uy,los cerros de san juan,Los Cerros de San Juan,04,,-34.1833333,-57.9333333
+uy,los coitinhos,Los Coitinhos,18,,-31.8333333,-55.9833333
+uy,los cuadrado,Los Cuadrado,18,,-32.1666667,-55.95
+uy,los feos,Los Feos,18,,-32.3,-55.3333333
+uy,los furtado,Los Furtado,18,,-32.2666667,-55.9
+uy,los furtados,Los Furtados,18,,-32.25,-55.75
+uy,los garcia,Los Garcia,18,,-32.15,-54.95
+uy,los gomez,Los Gomez,18,,-32.1833333,-55.0333333
+uy,los grozos,Los Grozos,18,,-31.85,-56.0
+uy,los mezquitas,Los Mezquitas,05,,-32.9,-56.0833333
+uy,los novillos,Los Novillos,18,,-31.9833333,-55.6833333
+uy,los potreros,Los Potreros,13,,-31.25,-55.95
+uy,los rodriguez,Los Rodriguez,11,,-31.7666667,-56.25
+uy,los rosanos,Los Rosanos,18,,-31.8,-56.1333333
+uy,los silveyra,Los Silveyra,18,,-32.2666667,-54.9166667
+uy,los talas,Los Talas,08,,-33.3333333,-54.7833333
+uy,los talas,Los Talas,09,,-34.0666667,-54.5
+uy,los vasquez,Los Vásquez,18,,-31.8833333,-55.4333333
+uy,lunarejo,Lunarejo,13,,-31.1,-55.9833333
+uy,machado,Machado,05,,-33.35,-55.6166667
+uy,machado,Machado,17,,-33.8666667,-57.0
+uy,maguna,Maguna,08,,-33.4666667,-54.65
+uy,mal abriga,Mal Abriga,16,,-34.15,-56.95
+uy,mal abrigo,Mal Abrigo,16,,-34.15,-56.95
+uy,maldonado,Maldonado,09,67188,-34.9,-54.95
+uy,manga,Manga,10,,-34.8166667,-56.1
+uy,mangrullo,Mangrullo,03,,-32.1166667,-54.0666667
+uy,manguera,Manguera,13,,-31.35,-55.3833333
+uy,maria albina,María Albina,19,,-33.4,-54.6833333
+uy,maria cejas,María Cejas,05,,-33.0833333,-56.1833333
+uy,maria isabel,María Isabel,03,,-33.8,-54.0
+uy,maria isabel,Maria Isabel,19,,-32.9833333,-54.5833333
+uy,marincho,Marincho,06,,-33.2333333,-57.1333333
+uy,mariscala,Mariscala,08,,-34.05,-54.7833333
+uy,maronas,Maroñas,10,,-34.85,-56.1166667
+uy,martin chico,Martín Chico,04,,-34.1530556,-58.1766667
+uy,martinote,Martinote,18,,-31.8833333,-55.9666667
+uy,masoller,Masoller,01,,-31.0833333,-56.0166667
+uy,mataojito,Mataojito,15,,-31.2166667,-56.3166667
+uy,mataojo chico,Mataojo Chico,15,,-31.1833333,-56.2833333
+uy,mataojo,Mataojo,02,,-34.5,-56.3833333
+uy,mataojo,Mataojo,15,,-31.2166667,-56.3166667
+uy,maturrango,Maturrango,14,,-34.0666667,-53.9333333
+uy,maximo tajes,Maximo Tajes,18,,-32.6333333,-56.35
+uy,mederos,Mederos,03,,-32.9,-55.2333333
+uy,medina,Medina,19,,-33.1166667,-54.8333333
+uy,melo,Melo,03,50833,-32.3666667,-54.1833333
+uy,menafra,Menafra,12,,-32.5666667,-57.4833333
+uy,mendizabal,Mendizabal,19,,-33.05,-54.15
+uy,mendoza chico,Mendoza Chico,07,,-34.2,-56.2166667
+uy,mendoza,Mendoza,07,,-34.2833333,-56.2166667
+uy,mercedes,Mercedes,17,41075,-33.2558333,-58.0191667
+uy,merinos,Merinos,12,,-32.4,-56.9
+uy,miguelete,Miguelete,04,,-34.0166667,-57.65
+uy,migues,Migues,02,,-34.4833333,-55.65
+uy,miguez,Miguez,02,,-34.4833333,-55.65
+uy,minas de corrales,Minas de Corrales,13,,-31.5833333,-55.4666667
+uy,minas de zapucay,Minas de Zapucay,13,,-31.7166667,-55.3333333
+uy,minas,Minas,08,39123,-34.37,-55.225
+uy,minuano,Minuano,03,,-32.0666667,-53.7666667
+uy,minuano,Minuano,04,,-34.35,-57.4333333
+uy,minuano,Minuano,18,,-32.45,-55.0333333
+uy,moirones,Moirones,13,,-31.6333333,-55.0
+uy,molles chico,Molles Chico,07,,-33.5,-55.2166667
+uy,molles del pescado,Molles del Pescado,07,,-33.4666667,-55.2
+uy,molles,Molles,05,,-33.05,-56.4833333
+uy,montes,Montes,02,,-34.5,-55.5833333
+uy,montevideo chico,Montevideo Chico,11,,-32.25,-56.5166667
+uy,montevideo chico,Montevideo Chico,18,,-32.2166667,-55.6
+uy,montevideo,Montevideo,10,1305865,-34.8580556,-56.1708333
+uy,morato,Morató,11,,-32.3833333,-56.6833333
+uy,mosquitos,Mosquitos,02,,-34.6833333,-55.6833333
+uy,mourino,Mouriño,05,,-32.9,-56.1333333
+uy,musi,Musi,15,,-31.0833333,-56.5166667
+uy,nando,Nando,03,,-32.1666667,-54.1166667
+uy,nico perez,Nico Pérez,08,,-33.4833333,-55.15
+uy,novillos,Novillos,18,,-31.9833333,-55.6833333
+uy,nueva carrara,Nueva Carrara,09,,-34.6666667,-55.2666667
+uy,nueva helvecia,Nueva Helvecia,04,10305,-34.3166667,-57.2166667
+uy,nueva palmira,Nueva Palmira,04,,-33.8833333,-58.4166667
+uy,nuevo berlin,Nuevo Berlín,12,,-32.9833333,-58.05
+uy,nuevo paris,Nuevo París,10,,-34.85,-56.2333333
+uy,olimar santa clara,Olimar Santa Clara,19,,-32.9166667,-54.9666667
+uy,olivera,Olivera,14,,-33.6166667,-53.7166667
+uy,olivera,Olivera,15,,-31.1833333,-56.9333333
+uy,olmos,Olmos,02,,-34.7,-55.9
+uy,ombues de lavalle,Ombúes de Lavalle,04,,-33.9166667,-57.7833333
+uy,ombues de oribe,Ombúes de Oribe,05,,-33.3,-56.35
+uy,oratorio,Oratorio,14,,-33.9833333,-53.9833333
+uy,ordeig,Ordeig,16,,-34.65,-56.7166667
+uy,orgoroso,Orgoroso,11,,-32.3833333,-57.5
+uy,oribe,Oribe,15,,-31.5,-57.1166667
+uy,ovidio morato,Ovidio Morató,11,,-32.3833333,-56.6833333
+uy,pablado paso de ceferino,Pablado Paso de Ceferino,18,,-31.5333333,-56.05
+uy,padula,Padula,19,,-33.0,-53.6333333
+uy,paguero,Paguero,01,,-30.7333333,-56.7333333
+uy,pajas blancas,Pajas Blancas,10,,-34.8016667,-56.3341667
+uy,palma,Palma,01,,-30.6,-57.6833333
+uy,palmar de castillos,Palmar de Castillos,14,,-34.2666667,-53.9333333
+uy,palmar de quebracho,Palmar de Quebracho,11,,-31.9166667,-57.7166667
+uy,palmares de castillos,Palmares de Castillos,14,,-34.2666667,-53.9333333
+uy,palmares de quebracho,Palmares de Quebracho,11,,-31.9166667,-57.7166667
+uy,palma sola,Palma Sola,01,,-30.6833333,-57.5166667
+uy,palmitas,Palmitas,17,,-33.5166667,-57.8333333
+uy,palomas,Palomas,15,,-31.0833333,-57.6
+uy,pan de azucar,Pan de Azúcar,09,,-34.8,-55.2333333
+uy,pando,Pando,02,28775,-34.7166667,-55.95
+uy,pantanosa de cuadra,Pantanosa de Cuadra,05,,-33.3833333,-56.4166667
+uy,parada herreria,Parada Herrería,15,,-31.35,-57.7833333
+uy,paralle,Parallé,14,,-34.2666667,-54.3166667
+uy,paso antolin,Paso Antolín,04,,-34.2,-57.7833333
+uy,paso ataques,Paso Ataques,13,,-31.1,-55.6666667
+uy,paso ceferino,Paso Ceferino,18,,-31.5333333,-56.05
+uy,paso cementerio,Paso Cementerio,15,,-31.4166667,-56.6833333
+uy,paso de antolin,Paso de Antolín,04,,-34.2,-57.7833333
+uy,paso de ataques,Paso de Ataques,13,,-31.1,-55.6666667
+uy,paso de carpinteria,Paso de Carpintería,05,,-32.8333333,-56.1833333
+uy,paso de carrasco,Paso de Carrasco,02,13846,-34.8602778,-56.0522222
+uy,paso de ceferino,Paso de Ceferino,18,,-31.5333333,-56.05
+uy,paso de la cadena,Paso de la Cadena,02,,-34.45,-56.1666667
+uy,paso de la horqueta,Paso de la Horqueta,04,,-34.2,-57.8666667
+uy,paso de la laguna,Paso de la Laguna,15,,-30.9666667,-57.5333333
+uy,paso de las carretas,Paso de las Carretas,18,,-31.5,-56.0333333
+uy,paso de las piedras,Paso de las Piedras,03,,-32.5166667,-53.4833333
+uy,paso de las piedras,Paso de las Piedras,15,,-31.6666667,-56.6333333
+uy,paso de las toscas,Paso de las Toscas,18,,-32.15,-55.05
+uy,paso de laureles,Paso de Laureles,18,,-32.5,-56.0333333
+uy,paso del banado,Paso del Bañado,14,,-34.2,-53.9333333
+uy,paso del borracho,Paso del Borracho,11,,-31.9,-55.4666667
+uy,paso del centurion,Paso del Centurión,03,,-32.1666667,-53.75
+uy,paso del cerro,Paso del Cerro,18,,-31.5166667,-55.7666667
+uy,paso del leon,Paso del León,01,,-30.1666667,-57.1
+uy,paso del molino,Paso del Molino,10,,-34.85,-56.2166667
+uy,paso de los carros,Paso de los Carros,11,,-31.9833333,-57.4166667
+uy,paso de los mellizos,Paso de los Mellizos,12,,-32.5333333,-57.1333333
+uy,paso de los toros,Paso de los Toros,05,13599,-32.8166667,-56.5166667
+uy,paso del parque,Paso del Parque,18,,-31.9,-54.7833333
+uy,paso del potrero de arerungua,Paso del Potrero de Arerunguá,15,,-31.4666667,-56.8333333
+uy,paso del tapado,Paso del Tapado,13,,-31.25,-55.3333333
+uy,paso de pache,Paso de Pache,02,,-34.3833333,-56.2833333
+uy,paso de piriz,Paso de Piriz,19,,-33.05,-54.0666667
+uy,paso de san luis,Paso de San Luis,14,,-33.6166667,-53.7166667
+uy,paso francos,Paso Francos,02,,-34.45,-56.2833333
+uy,paso guaviyu del arapey,Paso Guaviyú del Arapey,15,,-31.0166667,-56.5666667
+uy,paso hondo del arroyo malo,Paso Hondo del Arroyo Malo,18,,-32.3333333,-55.8833333
+uy,paso hondo,Paso Hondo,18,,-32.3333333,-55.8833333
+uy,paso molino,Paso Molino,10,,-34.85,-56.2166667
+uy,paso pereira,Paso Pereira,03,,-32.4666667,-55.2333333
+uy,paso polanco del yi,Paso Polanco del Yi,07,,-33.4833333,-56.15
+uy,paso potrero,Paso Potrero,15,,-31.4666667,-56.8333333
+uy,paso soca,Paso Soca,12,,-32.6333333,-56.75
+uy,paso toscas,Paso Toscas,02,,-34.45,-56.25
+uy,paso tranqueras,Paso Tranqueras,13,,-31.2,-55.75
+uy,passo de ataques,Passo de Ataques,13,,-31.1,-55.6666667
+uy,pavon,Pavón,16,,-34.2833333,-56.9166667
+uy,paysandu,Paysandú,11,78902,-32.3213889,-58.0755556
+uy,pedernal,Pedernal,02,,-34.3666667,-55.7833333
+uy,pedrera,Pedrera,02,,-34.5833333,-55.8333333
+uy,penarol,Peñarol,03,,-31.7833333,-54.3333333
+uy,penarol,Peñarol,10,,-34.8166667,-56.1833333
+uy,pepe nunez,Pepe Núñez,18,,-31.45,-56.3833333
+uy,peralta,Peralta,18,,-32.4833333,-56.35
+uy,piamontesa,Piamontesa,04,,-34.3333333,-57.2333333
+uy,picada de passano,Picada de Passano,19,,-33.2833333,-53.9333333
+uy,piedra del toro,Piedra del Toro,02,,-34.65,-55.8666667
+uy,piedra pintada,Piedra Pintada,01,,-30.5,-56.45
+uy,piedras blancas,Piedras Blancas,10,,-34.8286111,-56.1394444
+uy,piedras coloradas,Piedras Coloradas,11,,-32.3833333,-57.6
+uy,piedras de afilar,Piedras de Afilar,02,,-34.7166667,-55.5333333
+uy,piedra sola,Piedra Sola,11,,-32.0666667,-56.35
+uy,piedras,Piedras,02,,-34.7263889,-56.22
+uy,piedritas,Piedritas,02,,-34.3333333,-55.65
+uy,pinchazo,Pinchazo,15,,-31.3,-57.1
+uy,pinera,Piñera,12,,-32.3333333,-57.05
+uy,pintado colonia agricola,Pintado Colonia Agrícola,01,,-30.5,-56.45
+uy,pintado grande,Pintado Grande,01,,-30.4833333,-56.5166667
+uy,pintado,Pintado,07,,-33.8333333,-56.3
+uy,pintos,Pintos,06,,-33.9,-56.8333333
+uy,piraraja,Pirarajá,08,,-33.7333333,-54.75
+uy,piriapolis,Piriápolis,09,,-34.9,-55.2833333
+uy,placido rosas,Plácido Rosas,03,,-32.75,-53.7333333
+uy,platero,Platero,04,,-34.45,-57.6
+uy,platon,Platón,13,,-31.0,-55.6833333
+uy,playa atlantida,Playa Atlántida,02,,-34.7666667,-55.75
+uy,poblacion valentin,Poblacion Valentin,15,,-31.3,-57.2
+uy,poblado batovi,Poblado Batoví,18,,-31.9166667,-55.9333333
+uy,poblado berruti,Poblado Berruti,13,,-31.4333333,-55.2333333
+uy,poblado blanquillo,Poblado Blanquillo,18,,-32.35,-55.8333333
+uy,poblado celeste,Poblado Celeste,15,,-31.3,-57.0666667
+uy,poblado cerro batovi,Poblado Cerro Batoví,18,,-31.8833333,-56.0
+uy,poblado cerro chato,Poblado Cerro Chato,18,,-32.45,-56.0333333
+uy,poblado cerro del pastoreo,Poblado Cerro del Pastoreo,18,,-31.7,-56.1
+uy,poblado cuchilla caraguata,Poblado Cuchilla Caraguata,18,,-32.2333333,-54.9833333
+uy,poblado cuchilla de la manguera,Poblado Cuchilla de la Manguera,13,,-31.35,-55.3833333
+uy,poblado de castro,Poblado de Castro,05,,-32.8333333,-56.4333333
+uy,poblado de heriberto,Poblado de Heriberto,18,,-31.8166667,-55.5
+uy,poblado del borracho,Poblado del Borracho,11,,-31.9,-55.4666667
+uy,poblado del hospital,Poblado del Hospital,13,,-31.6833333,-54.65
+uy,poblado del minuano,Poblado del Minuano,04,,-34.35,-57.4333333
+uy,poblado del minuano,Poblado del Minuano,18,,-32.45,-55.0333333
+uy,poblado de los cuadrados,Poblado de los Cuadrados,18,,-32.1666667,-55.95
+uy,poblado de los morales,Poblado de los Morales,18,,-32.4,-55.35
+uy,poblado de los novillos,Poblado de los Novillos,18,,-31.9833333,-55.6833333
+uy,poblado del sauce,Poblado del Sauce,08,,-33.6833333,-54.65
+uy,poblado del turupi,Poblado del Turupí,18,,-32.1833333,-55.2833333
+uy,poblado echeverry,Poblado Echeverry,18,,-31.6833333,-55.95
+uy,poblado general enrique martinez,Poblado General Enrique Martinez,14,,-33.2,-53.8
+uy,poblado godoy,Poblado Godoy,18,,-31.7666667,-56.0166667
+uy,poblado goyo martinez,Poblado Goyo Martínez,18,,-31.9,-55.8833333
+uy,poblado guaviyu,Poblado Guaviyú,15,,-31.0166667,-56.5666667
+uy,poblado la chilca,Poblado La Chilca,18,,-32.05,-54.6333333
+uy,poblado la hilera,Poblado La Hilera,18,,-32.0833333,-55.65
+uy,poblado la humedad,Poblado La Humedad,18,,-32.05,-54.8666667
+uy,poblado lambari,Poblado Lambari,18,,-31.5166667,-55.9666667
+uy,poblado la morcona,Poblado La Morcona,18,,-32.1833333,-56.0666667
+uy,poblado lapuente,Poblado Lapuente,13,,-31.5166667,-54.9666667
+uy,poblado las arenas,Poblado Las Arenas,18,,-32.0166667,-55.0666667
+uy,poblado las chircas,Poblado Las Chircas,18,,-32.3833333,-55.0666667
+uy,poblado las flores,Poblado Las Flores,18,,-31.8166667,-55.2166667
+uy,poblado laura,Poblado Laura,18,,-32.15,-54.8833333
+uy,poblado laureles,Poblado Laureles,13,,-31.6833333,-55.4333333
+uy,poblado laureles,Poblado Laureles,18,,-31.3833333,-55.8666667
+uy,poblado lavalleja,Poblado Lavalleja,18,,-31.8166667,-55.9666667
+uy,poblado la villa,Poblado la Villa,13,,-31.3666667,-55.0833333
+uy,poblado los coitinhos,Poblado Los Coitinhos,18,,-31.8333333,-55.9833333
+uy,poblado los garcia,Poblado Los García,18,,-32.15,-54.95
+uy,poblado los gomez,Poblado Los Gómez,18,,-32.1833333,-55.0333333
+uy,poblado los grozos,Poblado Los Grozos,18,,-31.85,-56.0
+uy,poblado los laureles,Poblado Los Laureles,18,,-32.5,-56.0333333
+uy,poblado los rodriguez,Poblado Los Rodríguez,11,,-31.7666667,-56.25
+uy,poblado los silveira,Poblado los Silveira,18,,-32.2666667,-54.9166667
+uy,poblado martinote,Poblado Martinote,18,,-31.8833333,-55.9666667
+uy,poblado mendizabal,Poblado Mendizabal,19,,-33.05,-54.15
+uy,poblado moirones,Poblado Moirones,13,,-31.6333333,-55.0
+uy,poblado montevideo chico,Poblado Montevideo Chico,18,,-32.2166667,-55.6
+uy,poblado paso de los novillos,Poblado Paso de los Novillos,18,,-31.9833333,-55.6833333
+uy,poblado paso hondo,Poblado Paso Hondo,18,,-32.3333333,-55.8833333
+uy,poblado rincon de giloca,Poblado Rincón de Giloca,18,,-31.8333333,-55.7666667
+uy,poblado rincon de la aldea,Poblado Rincón de la Aldea,18,,-31.75,-56.0666667
+uy,poblado rincon de la bolsa,Poblado Rincón de la Bolsa,18,,-31.8166667,-55.9166667
+uy,poblado rincon de la laguna,Poblado Rincón de la Laguna,11,,-32.0,-55.4833333
+uy,poblado rincon de los muchadas,Poblado Rincón de los Muchadas,18,,-32.2166667,-56.0166667
+uy,poblado rio negro,Poblado Río Negro,18,,-32.1,-54.8666667
+uy,poblado rivera chico,Poblado Rivera Chico,18,,-32.0333333,-55.6666667
+uy,poblado rolon,Poblado Rolón,18,,-32.3333333,-55.9666667
+uy,poblado san benito,Poblado San Benito,18,,-32.4666667,-56.1666667
+uy,poblado san ramon,Poblado San Ramón,18,,-31.9666667,-55.05
+uy,poblado sauce de batovi,Poblado Sauce de Batoví,18,,-31.9166667,-56.0166667
+uy,poblado sause de tranqueras,Poblado Sause de Tranqueras,18,,-31.8333333,-55.9333333
+uy,poblado segarra,Poblado Segarra,13,,-31.5,-55.1666667
+uy,poblado sosa,Poblado Sosa,15,,-31.2333333,-57.1166667
+uy,poblado varese,Poblado Varese,15,,-31.3,-57.15
+uy,poblado vasquez,Poblado Vasquez,18,,-31.8833333,-55.4333333
+uy,poblado vichadero,Poblado Vichadero,13,,-31.8,-54.7166667
+uy,poblado zambullon,Poblado Zambullón,18,,-32.0333333,-55.7833333
+uy,poblado zapucay,Poblado Zapucay,13,,-31.7166667,-55.3333333
+uy,pocitos,Pocitos,10,,-34.9097222,-56.1522222
+uy,polanco de ibargoyen,Polanco de Ibargoyen,08,,-33.9333333,-55.2666667
+uy,polanco del yi,Polanco del Yi,07,,-33.4833333,-56.15
+uy,polanco,Polanco,08,,-33.9,-55.15
+uy,polanco sur,Polanco Sur,08,,-33.85,-55.1666667
+uy,polonio,Polonio,14,,-34.4,-53.7833333
+uy,porongos,Porongos,06,,-33.5333333,-56.9
+uy,porvenir,Porvenir,11,,-32.3666667,-57.85
+uy,progreso,Progreso,02,17715,-34.665,-56.2194444
+uy,pueblito arevalo,Pueblito Arevalo,03,,-32.6333333,-55.1166667
+uy,pueblo 18 de julia,Pueblo 18 de Julia,14,,-33.6833333,-53.55
+uy,pueblo 19 de abril,Pueblo 19 de Abril,14,,-34.3666667,-54.0666667
+uy,pueblo achar,Pueblo Achar,18,,-32.4166667,-56.1666667
+uy,pueblo cardozo,Pueblo Cardozo,18,,-32.6333333,-56.35
+uy,pueblo cebollati,Pueblo Cebollatí,14,,-33.2666667,-53.7833333
+uy,pueblo centenario,Pueblo Centenario,05,,-32.8666667,-56.4666667
+uy,pueblo conciliacion,Pueblo Conciliación,10,,-34.8333333,-56.2333333
+uy,pueblo constitucion,Pueblo Constitución,15,,-31.0833333,-57.8333333
+uy,pueblo cuchilla,Pueblo Cuchilla,11,,-32.0833333,-56.8666667
+uy,pueblo de aigua,Pueblo de Aiguá,09,,-34.2,-54.75
+uy,pueblo de arriba,Pueblo de Arriba,18,,-31.75,-55.4666667
+uy,pueblo de barro,Pueblo de Barro,18,,-32.05,-55.3833333
+uy,pueblo de la arena,Pueblo de la Arena,05,,-33.0333333,-57.0
+uy,pueblo de la paz,Pueblo de la Paz,04,,-34.35,-57.3
+uy,pueblo del barro,Pueblo del Barro,18,,-32.05,-55.3833333
+uy,pueblo del carmen,Pueblo del Carmen,05,,-33.25,-56.0166667
+uy,pueblo del sauce,Pueblo del Sauce,08,,-33.6833333,-54.65
+uy,pueblo de nuestra senora del carmen,Pueblo de Nuestra Señora del Carmen,05,,-33.25,-56.0166667
+uy,pueblo de san vicente de castillos,Pueblo de San Vicente de Castillos,14,,-34.1666667,-53.8333333
+uy,pueblo egana,Pueblo Egaña,17,,-33.6166667,-57.6333333
+uy,pueblo ferrocarril,Pueblo Ferrocarril,10,,-34.8,-56.2166667
+uy,pueblo isla cabellos,Pueblo Isla Cabellos,01,,-30.7333333,-57.3166667
+uy,pueblo ituzaingo,Pueblo Ituzaingó,10,,-34.85,-56.1166667
+uy,pueblo joaquin suarez,Pueblo Joaquín Suárez,02,,-34.7336111,-56.0366667
+uy,pueblo juan l. lacaze,Pueblo Juan L. Lacaze,04,,-34.4333333,-57.4166667
+uy,pueblo la agraciada,Pueblo la Agraciada,17,,-33.8,-58.25
+uy,pueblo la charqueada,Pueblo La Charqueada,14,,-33.2,-53.8
+uy,pueblo mourino,Pueblo Mouriño,05,,-32.9,-56.1333333
+uy,pueblo nuevo,Pueblo Nuevo,16,,-34.4422222,-56.4436111
+uy,pueblo olimar,Pueblo Olimar,19,,-32.9166667,-54.9666667
+uy,pueblo sanchez grande,Pueblo Sánchez Grande,12,,-32.9166667,-57.7333333
+uy,pueblo sanchez,Pueblo Sanchez,12,,-32.8333333,-57.7166667
+uy,pueblo sauce,Pueblo Sauce,12,,-32.9166667,-57.7333333
+uy,pueblo scavino,Pueblo Scavino,16,,-34.3666667,-57.05
+uy,pueblo velazquez,Pueblo Velázquez,14,,-34.0333333,-54.2833333
+uy,pueblo victoria,Pueblo Victoria,10,,-34.8833333,-56.2333333
+uy,puerto amaro,Puerto Amaro,03,,-32.75,-53.4833333
+uy,puerto de la paloma,Puerto de la Paloma,14,,-34.6666667,-54.1666667
+uy,puerto del ingles,Puerto del Inglés,09,,-34.9,-55.2833333
+uy,puerto gomez,Puerto Gómez,19,,-33.0,-53.6333333
+uy,puerto platero,Puerto Platero,04,,-34.45,-57.6
+uy,punta carretas,Punta Carretas,10,,-34.9227778,-56.1597222
+uy,punta del este,Punta del Este,09,,-34.9666667,-54.95
+uy,puntas de buricayupi,Puntas de Buricayupí,11,,-31.8833333,-57.3333333
+uy,puntas de canada grande,Puntas de Cañada Grande,16,,-34.3833333,-56.7666667
+uy,puntas de canas,Puntas de Cañas,15,,-31.6333333,-56.9166667
+uy,puntas de corrales,Puntas de Corrales,13,,-31.3166667,-55.2
+uy,puntas del arenal chico,Puntas del Arenal Chico,02,,-34.45,-55.7833333
+uy,puntas del arenal,Puntas del Arenal,17,,-33.7166667,-58.2666667
+uy,puntas de las canas,Puntas de las Cañas,05,,-32.9333333,-55.5166667
+uy,puntas del parao,Puntas del Parao,03,,-32.75,-54.4
+uy,puntas del sauce,Puntas del Sauce,06,,-33.85,-57.0166667
+uy,puntas del tala,Puntas del Tala,17,,-33.3833333,-57.55
+uy,puntas de maciel,Puntas de Maciel,07,,-33.6,-56.35
+uy,puntas de rolon,Puntas de Rolón,12,,-32.6833333,-56.8833333
+uy,puntas de san juan,Puntas de San Juan,04,,-33.9333333,-57.4666667
+uy,puntas de valdez,Puntas de Valdez,16,,-34.5838889,-56.6994444
+uy,puntas duraznito,Puntas Duraznito,17,,-33.65,-57.5333333
+uy,puntas tamandua,Puntas Tamanduá,01,,-30.4666667,-56.55
+uy,quebracho,Quebracho,03,,-32.6833333,-54.6333333
+uy,quebracho,Quebracho,11,,-31.95,-57.8833333
+uy,queguay,Queguay,11,,-32.0833333,-57.9166667
+uy,quiebra yugos,Quiebra Yugos,18,,-31.6666667,-56.1666667
+uy,quintana,Quintana,15,,-31.4,-56.3666667
+uy,radial conchillas,Radial Conchillas,04,,-34.1,-58.0
+uy,rafael perazza,Rafael Perazza,16,,-34.5197222,-56.7988889
+uy,raigon,Raigón,16,,-34.35,-56.65
+uy,ramon saravia,Ramón Saravia,08,,-33.0166667,-55.05
+uy,ramon trigo,Ramón Trigo,03,,-32.3833333,-54.6666667
+uy,ramos,Ramos,15,,-31.2833333,-56.4333333
+uy,rancherio tejera,Rancherío Tejera,05,,-33.3333333,-56.4666667
+uy,real de san carlos,Real de San Carlos,04,,-34.4333333,-57.8833333
+uy,real san carlos,Real San Carlos,04,,-34.4333333,-57.8833333
+uy,reboledo,Reboledo,07,,-34.0,-55.6666667
+uy,reducto,Reducto,10,,-34.8833333,-56.1833333
+uy,reynold,Reynold,05,,-33.0666667,-55.85
+uy,riachuelo,Riachuelo,04,,-34.4666667,-57.7166667
+uy,riffo,Riffó,02,,-34.5333333,-56.3
+uy,rincon aldea,Rincón Aldea,18,,-31.75,-56.0666667
+uy,rincon de baygorria,Rincón de Baygorria,05,,-32.8833333,-56.8
+uy,rincon de coronel,Rincón de Coronel,03,,-32.7,-53.9666667
+uy,rincon de cuadra,Rincón de Cuadra,05,,-33.3833333,-56.4166667
+uy,rincon de giloca,Rincón de Giloca,18,,-31.8333333,-55.7666667
+uy,rincon de gutierrez,Rincón de Gutiérrez,19,,-33.2,-54.75
+uy,rincon de la aldea,Rincón de la Aldea,18,,-31.75,-56.0666667
+uy,rincon de la bolsa,Rincón de la Bolsa,18,,-31.8166667,-55.9166667
+uy,rincon de la laguna,Rincón de la Laguna,11,,-32.0,-55.4833333
+uy,rincon del bonete,Rincón del Bonete,05,,-32.8,-56.4166667
+uy,rincon del cololo,Rincón del Cololó,17,,-33.0833333,-57.4333333
+uy,rincon de los machado,Rincón de los Machado,18,,-32.2166667,-56.0166667
+uy,rincon de los negros,Rincón de los Negros,12,,-32.7166667,-57.4666667
+uy,rincon de los oliveras,Rincón de los Oliveras,14,,-34.3666667,-53.8333333
+uy,rincon del pino,Rincón del Pino,16,,-34.4833333,-56.85
+uy,rincon de moraes,Rincón de Moraes,13,,-31.3,-55.8666667
+uy,rincon de pacheco,Rincón de Pacheco,01,,-30.6333333,-56.1666667
+uy,rincon de pereyra,Rincón de Pereyra,18,,-32.4,-55.35
+uy,rincon de py,Rincón de Py,03,,-32.5,-54.4166667
+uy,rincon de valentines,Rincón de Valentines,15,,-31.2,-57.2333333
+uy,rincon de velazquez,Rincón de Velázquez,02,,-34.4,-56.3333333
+uy,rincon de vidal,Rincón de Vidal,02,,-34.3833333,-56.3833333
+uy,rincon de yaguari,Rincón de Yaguarí,18,,-31.8166667,-55.1833333
+uy,rincon,Rincón,19,,-32.7833333,-53.8333333
+uy,rio branco,Río Branco,03,17405,-32.5666667,-53.4166667
+uy,rio negro,Río Negro,18,,-32.1,-54.8666667
+uy,risso,Risso,17,,-33.5833333,-57.5833333
+uy,rivera chico,Rivera Chico,18,,-32.0333333,-55.6666667
+uy,rivera,Rivera,13,68020,-30.9,-55.5166667
+uy,rocha,Rocha,14,27695,-34.4833333,-54.3333333
+uy,rodo,Rodo,17,,-33.6833333,-57.5666667
+uy,rodriguez,Rodríguez,16,,-34.3827778,-56.5416667
+uy,roja,Roja,05,,-33.2166667,-56.6833333
+uy,rolon,Rolón,05,,-33.1166667,-55.9833333
+uy,rolon,Rolón,12,,-32.6833333,-56.8833333
+uy,rolon,Rolón,18,,-32.3333333,-55.9666667
+uy,rosario,Rosario,04,,-34.3166667,-57.35
+uy,rosas,Rosas,03,,-32.75,-53.7333333
+uy,rossell y rius,Rossell y Rius,05,,-33.1833333,-55.7
+uy,saca chispas,Saca Chispas,11,,-31.8666667,-57.2833333
+uy,saca chispas,Saca Chispas,17,,-33.1666667,-57.5833333
+uy,sacramento,Sacramento,04,,-34.4666667,-57.85
+uy,salamanca,Salamanca,09,,-34.1666667,-54.6666667
+uy,salta,Salta,15,,-31.3833333,-57.9666667
+uy,salto,Salto,15,104667,-31.3833333,-57.9666667
+uy,san antonio,San Antonio,02,,-34.4497222,-56.0791667
+uy,san antonio,San Antonio,15,,-31.3333333,-57.8333333
+uy,san bautista,San Bautista,02,,-34.4333333,-55.9833333
+uy,san benito,San Benito,18,,-32.4666667,-56.1666667
+uy,san carlos,San Carlos,09,27613,-34.8,-54.9166667
+uy,sanchez chico,Sanchez Chico,12,,-32.9166667,-57.7333333
+uy,sanchez grande,Sánchez Grande,12,,-32.8333333,-57.7166667
+uy,sanchez,Sánchez,12,,-32.9166667,-57.7333333
+uy,san dios,San Dios,17,,-33.1,-57.7333333
+uy,san eugenio,San Eugenio,01,,-30.4,-56.4666667
+uy,san felix,San Félix,11,,-32.3333333,-58.1333333
+uy,san fernando de maldonado,San Fernando de Maldonado,09,,-34.9,-54.95
+uy,san fructuoso,San Fructuoso,18,,-31.7333333,-55.9833333
+uy,san gabriel,San Gabriel,07,,-34.05,-55.8833333
+uy,san gregorio de polanco,San Gregorio de Polanco,05,,-32.6166667,-55.8333333
+uy,san gregorio,San Gregorio,01,,-30.55,-57.8666667
+uy,san gregorio,San Gregorio,05,,-32.6166667,-55.8333333
+uy,san gregorio,San Gregorio,16,,-33.95,-56.75
+uy,san isidrio,San Isidrio,02,,-34.7263889,-56.22
+uy,san jacinto,San Jacinto,02,,-34.55,-55.8833333
+uy,san javier,San Javier,12,,-32.6833333,-58.1333333
+uy,san jorge,San Jorge,05,,-32.8666667,-55.9166667
+uy,san jose de canas,San José de Cañas,05,,-32.8333333,-55.4833333
+uy,san jose de las canas,San José de las Cañas,05,,-32.8333333,-55.4833333
+uy,san jose de mayo,San José de Mayo,16,,-34.3375,-56.7136111
+uy,san jose,San José,16,37606,-34.3375,-56.7136111
+uy,san juan bautista,San Juan Bautista,02,,-34.4533333,-56.3905556
+uy,san juan,San Juan,04,,-33.9333333,-57.4666667
+uy,san luis al medio,San Luis Al Medio,14,,-33.6166667,-53.7166667
+uy,san luis,San Luis,13,,-31.5666667,-54.55
+uy,san luis,San Luis,14,,-33.6166667,-53.7166667
+uy,san luis,San Luis,15,,-30.9166667,-56.3
+uy,san martin,San Martín,17,,-33.75,-57.6166667
+uy,san maximo,San Máximo,18,,-32.15,-56.1166667
+uy,san pedro,San Pedro,04,,-34.35,-57.85
+uy,san ramon,San Ramón,02,,-34.3,-55.9666667
+uy,san ramon,San Ramón,18,,-31.9666667,-55.05
+uy,san servando,San Servando,03,,-32.6333333,-53.3
+uy,santa bernardina,Santa Bernardina,05,,-33.3666667,-56.4833333
+uy,santa catalina,Santa Catalina,17,,-33.75,-57.4833333
+uy,santa clara del olimar,Santa Clara del Olimar,19,,-32.9166667,-54.9666667
+uy,santa clara de olimar,Santa Clara de Olimar,19,,-32.9166667,-54.9666667
+uy,santa clara,Santa Clara,19,,-32.9166667,-54.9666667
+uy,santa ecilda,Santa Ecilda,16,,-34.3666667,-57.0666667
+uy,santa ernestina,Santa Ernestina,13,,-31.55,-55.55
+uy,santa fernandina,Santa Fernandina,13,,-31.55,-55.55
+uy,santa isabel,Santa Isabel,05,,-32.8166667,-56.5166667
+uy,santa lucia,Santa Lucía,02,18022,-34.4533333,-56.3905556
+uy,santa maria del piraraja,Santa María del Pirarajá,08,,-33.7333333,-54.75
+uy,santa maria,Santa María,08,,-33.7333333,-54.75
+uy,santa rosa del cuareim,Santa Rosa del Cuareim,01,,-30.25,-57.5833333
+uy,santa rosa,Santa Rosa,01,,-30.25,-57.5833333
+uy,santa rosa,Santa Rosa,02,,-34.4975,-56.0372222
+uy,santa teresa,Santa Teresa,04,,-34.4333333,-57.7166667
+uy,santiago,Santiago,10,,-34.7902778,-56.35
+uy,santiago vazquez,Santiago Vázquez,10,,-34.7902778,-56.35
+uy,santo domingo de soriano,Santo Domingo de Soriano,17,,-33.4,-58.3166667
+uy,san vicente de castillos,San Vicente de Castillos,14,,-34.1666667,-53.8333333
+uy,sarandi de acegua,Sarandí de Aceguá,03,,-32.0166667,-54.2
+uy,sarandi de barcelo,Sarandí de Barceló,03,,-32.4833333,-53.7166667
+uy,sarandi de cebollati,Sarandí de Cebollatí,08,,-33.7166667,-54.5333333
+uy,sarandi de cuaro,Sarandí de Cuaró,01,,-30.8333333,-56.75
+uy,sarandi de gutierrez,Sarandí de Gutiérrez,08,,-33.5333333,-54.6
+uy,sarandi del yi,Sarandí del Yi,05,,-33.35,-55.6333333
+uy,sarandi de navarro,Sarandí de Navarro,12,,-32.5666667,-56.8833333
+uy,sarandi grande,Sarandí Grande,07,,-33.7333333,-56.3333333
+uy,sarandi,Sarandí,03,,-32.4833333,-53.7166667
+uy,sarandi,Sarandí,04,,-33.95,-57.9
+uy,sarandi,Sarandí,07,,-33.7333333,-56.3333333
+uy,sarandi,Sarandí,12,,-32.5666667,-56.8833333
+uy,sarandi,Sarandí,15,,-31.0,-56.25
+uy,sauce batovi,Sauce Batoví,18,,-31.9166667,-56.0166667
+uy,sauce buricayupi,Sauce Buricayupí,11,,-31.8833333,-57.3333333
+uy,sauce chico de laureles,Sauce Chico de Laureles,15,,-31.5166667,-57.5833333
+uy,sauce del yi,Sauce del Yí,05,,-33.2,-56.7833333
+uy,sauce del yi,Sauce del Yi,07,,-33.4666667,-55.6166667
+uy,sauce de queguay,Sauce de Queguay,11,,-32.1166667,-57.5666667
+uy,sauce de san jorge,Sauce de San Jorge,05,,-32.8666667,-55.9166667
+uy,saucedo,Saucedo,15,,-31.0833333,-57.5166667
+uy,sauce queguay,Sauce Queguay,11,,-32.1166667,-57.5666667
+uy,sauce,Sauce,02,,-34.6469444,-56.0627778
+uy,sauce,Sauce,05,,-33.2,-56.7833333
+uy,sauce,Sauce,08,,-33.6833333,-54.65
+uy,sauce,Sauce,12,,-32.85,-57.6833333
+uy,sauce,Sauce,15,,-31.5166667,-57.5833333
+uy,sauce solo de rio negro,Sauce Solo de Río Negro,18,,-32.1,-54.8666667
+uy,sauce solo,Sauce Solo,18,,-32.1,-54.8666667
+uy,sauce tranqueras,Sauce Tranqueras,18,,-31.8333333,-55.9333333
+uy,sauzal,Sauzal,13,,-30.9333333,-55.55
+uy,savago,Savago,10,,-34.8333333,-56.2333333
+uy,sayago,Sayago,10,,-34.8333333,-56.2333333
+uy,scavino,Scavino,16,,-34.3666667,-57.05
+uy,segarra,Segarra,13,,-31.5,-55.1666667
+uy,sequeira,Sequeira,15,,-31.0333333,-56.8833333
+uy,sierra de lunarejo,Sierra de Lunarejo,13,,-31.2333333,-55.8833333
+uy,soca,Soca,02,,-34.6833333,-55.6833333
+uy,solis de mataojo,Solís de Mataojo,08,,-34.6,-55.4833333
+uy,solis grande,Solís Grande,08,,-34.6,-55.4833333
+uy,solis,Solís,08,,-34.3333333,-55.45
+uy,solis,Solís,09,,-34.8,-55.3666667
+uy,soriano,Soriano,17,,-33.4,-58.3166667
+uy,sosa,Sosa,15,,-31.2333333,-57.1166667
+uy,soto,Soto,03,,-31.9833333,-54.1666667
+uy,soto,Soto,11,,-32.0,-57.5833333
+uy,soto,Soto,15,,-31.0333333,-56.6
+uy,suarez,Suárez,02,,-34.7336111,-56.0366667
+uy,suarez,Suárez,04,,-34.2833333,-57.6166667
+uy,tacuarembo,Tacuarembó,18,50575,-31.7333333,-55.9833333
+uy,tala,Tala,02,,-34.35,-55.7666667
+uy,tamandua,Tamanduá,01,,-30.4666667,-56.55
+uy,tambores,Tambores,18,,-31.7833333,-56.25
+uy,tapia,Tapia,02,,-34.5666667,-55.7
+uy,tarariras,Tarariras,04,,-34.2833333,-57.6166667
+uy,tarugo,Tarugo,11,,-32.0,-57.3
+uy,taruman,Tarumán,01,,-30.5,-56.6666667
+uy,termas del arapey,Termas del Arapey,15,,-30.9666667,-57.5333333
+uy,tiatocura,Tiatocura,11,,-32.35,-56.55
+uy,tiatucura,Tiatucurá,11,,-32.35,-56.55
+uy,toledo,Toledo,02,,-34.7422222,-56.0983333
+uy,toledo,Toledo,03,,-32.5,-54.0166667
+uy,toledo,Toledo,10,,-32.5333333,-54.5666667
+uy,tomas gomensoro,Tomás Gomensoro,01,,-30.4333333,-57.4333333
+uy,tomas paz,Tomás Paz,11,,-31.6833333,-57.6833333
+uy,topador,Topador,01,,-30.3166667,-56.8166667
+uy,toro negro,Toro Negro,15,,-31.35,-56.6333333
+uy,totoral,Totoral,02,,-34.6666667,-56.0
+uy,totoral,Totoral,11,,-32.2333333,-56.5
+uy,tranqueras,Tranqueras,13,,-31.1666667,-55.75
+uy,treinta y tres,Treinta y Tres,19,27433,-33.2333333,-54.3833333
+uy,tres arboles,Tres Árboles,12,,-32.4,-56.7166667
+uy,tres bocas,Tres Bocas,11,,-31.8833333,-57.4833333
+uy,tres bocas,Tres Bocas,12,,-33.7333333,-57.8333333
+uy,tres cerros,Tres Cerros,01,,-30.95,-56.65
+uy,tres cerros,Tres Cerros,13,,-31.3666667,-55.6666667
+uy,tres esquinas,Tres Esquinas,04,,-34.0833333,-57.3833333
+uy,tres islas,Tres Islas,10,,-32.5166667,-54.6833333
+uy,trigo,Trigo,03,,-32.3833333,-54.6666667
+uy,trinidad,Trinidad,06,21110,-33.5333333,-56.9
+uy,tropezon,Tropezón,16,,-34.4,-56.5333333
+uy,tropiezo,Tropiezo,15,,-31.4,-57.7833333
+uy,tupambae,Tupambaé,19,,-32.8333333,-54.7666667
+uy,turupi,Turupí,18,,-32.1833333,-55.2833333
+uy,union,Unión,10,,-34.8705556,-56.1336111
+uy,uruguay,Uruguay,03,,-32.4833333,-53.5166667
+uy,valdense,Valdense,04,,-34.3333333,-57.2333333
+uy,valentines,Valentines,19,,-33.2666667,-55.1166667
+uy,valentin grande,Valentín Grande,15,,-31.3,-57.2
+uy,valentin,Valentín,15,,-31.3,-57.2
+uy,varese,Varese,15,,-31.3,-57.15
+uy,vazquez,Vázquez,18,,-31.8833333,-55.4333333
+uy,veinticinco de agosto,Veinticinco de Agosto,07,,-34.4116667,-56.4022222
+uy,veinticinco de mayo,Veinticinco de Mayo,07,,-34.1891667,-56.3394444
+uy,vejigas,Vejigas,08,,-34.2833333,-55.2333333
+uy,velasquez,Velasquez,14,,-34.0333333,-54.2833333
+uy,velazquez,Velázquez,14,,-34.0333333,-54.2833333
+uy,veras,Veras,15,,-31.6166667,-56.8166667
+uy,vera,Vera,15,,-31.6166667,-56.8166667
+uy,vera,Vera,17,,-33.1833333,-57.4666667
+uy,verdun,Verdún,05,,-32.6666667,-55.45
+uy,vergara,Vergara,19,,-32.9333333,-53.95
+uy,vichadero,Vichadero,13,,-31.8,-54.7166667
+uy,vicheadero,Vicheadero,13,,-31.8,-54.7166667
+uy,victoria,Victoria,10,,-34.8833333,-56.2333333
+uy,vila,Vila,13,,-31.3666667,-55.0833333
+uy,villa alejandrina,Villa Alejandrina,17,,-33.7666667,-58.35
+uy,villa alesandrina,Villa Alesandrina,17,,-33.7666667,-58.35
+uy,villa borges,Villa Borges,12,,-32.5666667,-57.3666667
+uy,villa colon,Villa Colón,10,,-34.8,-56.2333333
+uy,villa de canelones,Villa de Canelones,02,,-34.5227778,-56.2777778
+uy,villa de fray bentos,Villa de Fray Bentos,12,,-33.1325,-58.2955556
+uy,villa de la paz,Villa de la Paz,04,,-34.35,-57.3
+uy,villa de la santisima trinidad,Villa de la Santísima Trinidad,06,,-33.5333333,-56.9
+uy,villa de las piedras,Villa de las Piedras,02,,-34.7263889,-56.22
+uy,villa de la trinidad,Villa de la Trinidad,06,,-33.5333333,-56.9
+uy,villa del carmen,Villa del Carmen,05,,-33.25,-56.0166667
+uy,villa del cerro,Villa del Cerro,10,,-34.875,-56.2588889
+uy,villa del rosario,Villa del Rosario,04,,-34.3166667,-57.35
+uy,villa de pando,Villa de Pando,02,,-34.7166667,-55.95
+uy,villa de porongos,Villa de Porongos,06,,-33.5333333,-56.9
+uy,villa de rivera,Villa de Rivera,13,,-30.9,-55.5166667
+uy,villa de san carlos,Villa de San Carlos,09,,-34.8,-54.9166667
+uy,villa de san fructuoso,Villa de San Fructuoso,18,,-31.7333333,-55.9833333
+uy,villa de soriano,Villa de Soriano,17,,-33.4,-58.3166667
+uy,villa de tacuarembo,Villa de Tacuarembo,18,,-31.7333333,-55.9833333
+uy,villa de treinta y tres,Villa de Treinta y Tres,19,,-33.2333333,-54.3833333
+uy,villa de trinidad,Villa de Trinidad,06,,-33.5333333,-56.9
+uy,villa dolores,Villa Dolores,10,,-34.9,-56.15
+uy,villa don bosco,Villa Don Bosco,10,,-34.8030556,-56.0858333
+uy,villa elisa,Villa Elisa,12,,-32.3333333,-57.05
+uy,villa espanola,Villa Española,10,,-34.8833333,-56.15
+uy,villa fray bentos,Villa Fray Bentos,12,,-33.1325,-58.2955556
+uy,villa garcia,Villa García,10,,-34.7811111,-56.0533333
+uy,villa general borges,Villa General Borges,12,,-32.5666667,-57.3666667
+uy,villa independencia,Villa Independencia,12,,-33.1325,-58.2955556
+uy,villa libertad,Villa Libertad,16,,-34.65,-56.6
+uy,villa maria albina,Villa María Albina,19,,-33.4,-54.6833333
+uy,villa maria isabel isla de patrulla,Villa Maria Isabel Isla de Patrulla,19,,-32.9833333,-54.5833333
+uy,villa maria,Villa Maria,11,,-32.35,-56.55
+uy,villa munoz,Villa Muñoz,10,,-34.8833333,-56.1833333
+uy,villa nueva,Villa Nueva,02,,-34.6,-56.1333333
+uy,villa passano,Villa Passano,19,,-33.2833333,-53.9333333
+uy,villa sarandi,Villa Sarandí,07,,-33.7333333,-56.3333333
+uy,villa sara,Villa Sara,19,,-33.2666667,-54.4166667
+uy,villa serrana,Villa Serrana,08,,-34.2833333,-54.9833333
+uy,villa vieja,Villa Vieja,07,,-34.0666667,-56.3833333
+uy,villa vinoles,Villa Viñoles,03,,-32.2,-54.0666667
+uy,vinolles,Viñolles,03,,-32.2,-54.0666667
+uy,vuelta del palmar,Vuelta del Palmar,14,,-34.1833333,-53.7833333
+uy,wenceslao silveira,Wenceslao Silveira,10,,-32.5166667,-54.5833333
+uy,yacot,Yacot,01,,-30.25,-56.85
+uy,yaguan,Yaguan,13,,-31.5166667,-54.9666667
+uy,yaguari,Yaguarí,13,,-31.5166667,-54.9666667
+uy,young,Young,12,16600,-32.6833333,-57.6333333
+uy,zambullon,Zambullón,18,,-32.0333333,-55.7833333
+uy,zanja honda,Zanja Honda,13,,-31.2166667,-55.6666667
+uy,zanja honda,Zanja Honda,17,,-33.8166667,-57.55
+uy,zapara,Zapará,18,,-31.6833333,-56.1333333
+uy,zapican,Zapicán,08,,-33.5166667,-54.9166667
+uy,zapucay,Zapucay,13,,-31.7166667,-55.3333333
+uy,zapucay,Zapucay,18,,-31.8,-55.3333333

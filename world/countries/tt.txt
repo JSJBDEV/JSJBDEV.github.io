@@ -1,0 +1,555 @@
+tt,adelphi,Adelphi,11,,11.2,-60.7166667
+tt,adventure,Adventure,11,,11.2166667,-60.7666667
+tt,agostini,Agostini,02,,10.4833333,-61.4
+tt,anse fourmi,Anse Fourmi,11,,11.3,-60.6166667
+tt,anse noire,Anse Noire,07,,10.8333333,-60.9666667
+tt,arden,Arden,11,,11.2666667,-60.5833333
+tt,arima,Arima,01,34996,10.6333333,-61.2833333
+tt,arnos vale,Arnos Vale,11,,11.2166667,-60.75
+tt,arouca,Arouca,08,12054,10.6333333,-61.3333333
+tt,arouca village,Arouca Village,08,,10.6333333,-61.3333333
+tt,auchenskeoch,Auchenskeoch,11,,11.15,-60.7666667
+tt,avocat,Avocat,09,,10.2,-61.5333333
+tt,bacolet,Bacolet,11,,11.1666667,-60.7166667
+tt,bakhen,Bakhen,09,,10.1666667,-61.45
+tt,balmain,Balmain,02,,10.4166667,-61.4333333
+tt,balmain village,Balmain Village,02,,10.4166667,-61.4333333
+tt,bamboo,Bamboo,09,,10.0833333,-61.8333333
+tt,bamboo village,Bamboo Village,09,,10.0833333,-61.8333333
+tt,barataria,Barataria,08,,10.65,-61.4666667
+tt,barrackpore,Barrackpore,12,,10.2,-61.4
+tt,barrackpore settlement,Barrackpore Settlement,12,,10.2,-61.4
+tt,basse terre,Basse Terre,12,,10.1333333,-61.3
+tt,basseterre village,Basseterre Village,12,,10.1333333,-61.3
+tt,belle garden,Belle Garden,11,,11.2166667,-60.6
+tt,belmont,Belmont,08,,10.6666667,-61.5
+tt,belmont,Belmont,11,,11.3,-60.5333333
+tt,bethel,Bethel,11,,11.1833333,-60.7833333
+tt,biche,Biche,04,,10.4333333,-61.1333333
+tt,biche village,Biche Village,04,,10.4333333,-61.1333333
+tt,black rock,Black Rock,11,,11.2,-60.7833333
+tt,blanchisseuse,Blanchisseuse,08,,10.7833333,-61.3
+tt,blanchisseuse village,Blanchisseuse Village,08,,10.7833333,-61.3
+tt,boissiere,Boissière,05,,10.6666667,-61.5166667
+tt,boissiere village,Boissiere Village,05,,10.6666667,-61.5166667
+tt,bon accord,Bon Accord,11,,11.15,-60.8333333
+tt,bon accord village,Bon Accord Village,11,,11.15,-60.8333333
+tt,bonasse,Bonasse,09,,10.0833333,-61.8666667
+tt,bonasse village,Bonasse Village,09,,10.0833333,-61.8666667
+tt,bonne aventure,Bonne Aventure,12,,10.3333333,-61.4
+tt,bonne terre,Bonne Terre,12,,10.3,-61.3
+tt,bonne terre village,Bonne Terre Village,12,,10.3,-61.3
+tt,brasso,Brasso,02,,10.4,-61.3166667
+tt,brasso caparo village,Brasso Caparo Village,02,,10.4166667,-61.3166667
+tt,brasso piedra,Brasso Piedra,02,,10.4333333,-61.3166667
+tt,brasso seco village,Brasso Seco Village,08,,10.7333333,-61.2666667
+tt,brasso venado,Brasso Venado,04,,10.4166667,-61.2666667
+tt,brasso village,Brasso Village,02,,10.4,-61.3166667
+tt,brazil,Brazil,08,,10.55,-61.2666667
+tt,brickfield,Brickfield,02,,10.4833333,-61.4666667
+tt,brickfield,Brickfield,04,,10.3333333,-61.2666667
+tt,brighton,Brighton,09,,10.25,-61.6333333
+tt,bronte,Bronte,12,,10.2166667,-61.4
+tt,buccoo,Buccoo,11,,11.1666667,-60.8
+tt,buen intento,Buen Intento,12,,10.2833333,-61.3666667
+tt,buen intento village,Buen Intento Village,12,,10.2833333,-61.3666667
+tt,buenos aires,Buenos Aires,09,,10.1,-61.6833333
+tt,buenos ayres,Buenos Ayres,09,,10.1,-61.6833333
+tt,busy corner,Busy Corner,12,,10.3,-61.2833333
+tt,busy corner village,Busy Corner Village,12,,10.3,-61.2833333
+tt,butler,Butler,02,,10.4666667,-61.45
+tt,cacandee settlement,Cacandee Settlement,02,,10.55,-61.4333333
+tt,caigual,Caigual,06,,10.55,-61.0666667
+tt,calcutta settlement,Calcutta Settlement,02,,10.4333333,-61.4333333
+tt,calder hall,Calder Hall,11,,11.1833333,-60.7333333
+tt,california,California,02,,10.4,-61.4666667
+tt,california village,California Village,02,,10.4,-61.4666667
+tt,cambleton,Cambleton,11,,11.3166667,-60.55
+tt,cameron,Cameron,08,,10.7166667,-61.55
+tt,campbeltown,Campbeltown,11,,11.3166667,-60.55
+tt,canaan,Canaan,11,,11.15,-60.8166667
+tt,canaan,Canaan,12,,10.25,-61.4666667
+tt,cantaro,Cantaro,08,,10.7,-61.4666667
+tt,cantaro village,Cantaro Village,08,,10.7,-61.4666667
+tt,caparo,Caparo,02,,10.45,-61.3333333
+tt,cap-de-ville,Cap-de-Ville,09,,10.15,-61.7
+tt,cape-de-ville,Cape-de-Ville,09,,10.15,-61.7
+tt,carapichaima,Carapichaima,02,,10.4666667,-61.45
+tt,carapo,Carapo,08,,10.5833333,-61.2833333
+tt,caratal,Caratal,12,,10.35,-61.4166667
+tt,cardiff,Cardiff,11,,11.2333333,-60.6333333
+tt,carenage,Carenage,08,,10.6833333,-61.6
+tt,carmichael,Carmichael,06,,10.4833333,-61.2
+tt,carnbee village,Carnbee Village,11,,11.1666667,-60.7833333
+tt,caroni,Caroni,02,,10.6,-61.3833333
+tt,castara,Castara,11,,11.2833333,-60.6833333
+tt,caura,Caura,08,,10.7166667,-61.35
+tt,centento,Centento,08,,10.5833333,-61.3166667
+tt,chaguanas,Chaguanas,02,72158,10.5166667,-61.4166667
+tt,chaguanas village,Chaguanas Village,02,,10.5166667,-61.4166667
+tt,chaguaramas,Chaguaramas,08,,10.6833333,-61.6333333
+tt,chandernagore settlement,Chandernagore Settlement,02,,10.4833333,-61.4333333
+tt,charlotteville,Charlotteville,11,,11.3166667,-60.55
+tt,charuma,Charuma,02,,10.4,-61.15
+tt,chase,Chase,02,,10.4666667,-61.4166667
+tt,chase village,Chase Village,02,,10.4666667,-61.4166667
+tt,chatham,Chatham,09,,10.0833333,-61.7333333
+tt,cheeyou,Cheeyou,06,,10.55,-61.1333333
+tt,chickland,Chickland,02,,10.4166667,-61.3833333
+tt,chin chin savanna village,Chin Chin Savanna Village,02,,10.5666667,-61.3333333
+tt,cinnamon hill,Cinnamon Hill,11,,11.2,-60.7166667
+tt,cipero-sainte croix,Cipero-Sainte Croix,12,,10.2166667,-61.3833333
+tt,city of port-of-spain,City of Port-of-Spain,05,,10.65,-61.5166667
+tt,claxton bay,Claxton Bay,02,,10.35,-61.4666667
+tt,claxton bay village,Claxton Bay Village,02,,10.35,-61.4666667
+tt,cochrane,Cochrane,09,,10.1833333,-61.6333333
+tt,coco,Coco,08,,10.6833333,-61.5833333
+tt,cocorite,Cocorite,08,,10.6666667,-61.55
+tt,coffee,Coffee,12,,10.2666667,-61.45
+tt,colconda,Colconda,12,,10.25,-61.4333333
+tt,comparo,Comparo,06,,10.5333333,-61.0666667
+tt,concord,Concord,12,,10.2333333,-61.4833333
+tt,concordia,Concordia,11,,11.2,-60.7333333
+tt,coolie block,Coolie Block,08,,10.7333333,-61.55
+tt,corbeaux town,Corbeaux Town,05,,10.65,-61.5166667
+tt,coromandel settlement,Coromandel Settlement,09,,10.1,-61.8
+tt,coryal,Coryal,02,,10.4833333,-61.4333333
+tt,coryal,Coryal,06,,10.5,-61.1833333
+tt,courland,Courland,11,,11.2,-60.7666667
+tt,couva,Couva,02,5178,10.4166667,-61.45
+tt,couva savannah village,Couva Savannah Village,02,,10.4166667,-61.45
+tt,cove,Cove,11,,11.1333333,-60.8
+tt,cuche,Cuche,04,,10.3666667,-61.1666667
+tt,culloden,Culloden,11,,11.2333333,-60.7333333
+tt,cumaca,Cumaca,06,,10.7,-61.15
+tt,cumberbatch,Cumberbatch,02,,10.5,-61.4
+tt,cumuto,Cumuto,06,,10.5833333,-61.2
+tt,cumuto village,Cumuto Village,06,,10.5833333,-61.2
+tt,cunapo,Cunapo,06,,10.5833333,-61.1333333
+tt,cunapo,Cunapo,08,,10.6,-61.25
+tt,cunaripa,Cunaripa,06,,10.55,-61.1666667
+tt,cunupia,Cunupia,02,,10.55,-61.3666667
+tt,cunupia village,Cunupia Village,02,,10.55,-61.3666667
+tt,curepe,Curepe,08,,10.6333333,-61.4
+tt,curepe village,Curepe Village,08,,10.6333333,-61.4
+tt,curucaye,Curucaye,08,,10.6666667,-61.45
+tt,dabadie,Dabadie,08,,10.6166667,-61.3166667
+tt,dabadie village,Dabadie Village,08,,10.6166667,-61.3166667
+tt,debe,Débé,12,3127,10.2,-61.45
+tt,debe village,Débé Village,12,,10.2,-61.45
+tt,delaford,Delaford,11,,11.2666667,-60.5666667
+tt,delhi settlement,Delhi Settlement,09,,10.1833333,-61.55
+tt,diamond,Diamond,02,,10.3666667,-61.4333333
+tt,diamond,Diamond,11,,11.1666667,-60.7666667
+tt,diamond,Diamond,12,,10.2333333,-61.4333333
+tt,diamond village,Diamond Village,12,,10.2333333,-61.4333333
+tt,dibe,Dibe,08,,10.6833333,-61.5333333
+tt,diego martin,Diego Martin,08,,10.7166667,-61.5666667
+tt,diego martin village,Diego Martin Village,08,,10.7166667,-61.5666667
+tt,dinsley,Dinsley,08,,10.6333333,-61.35
+tt,dow,Dow,02,,10.4,-61.45
+tt,dowe,Dowe,02,,10.4,-61.45
+tt,dow village,Dow Village,02,,10.4,-61.45
+tt,duncan,Duncan,12,,10.25,-61.45
+tt,earthigg,Earthigg,08,,10.6666667,-61.5
+tt,east dry river,East Dry River,05,,10.65,-61.5
+tt,easterfield,Easterfield,11,,11.2166667,-60.6833333
+tt,ecclesville,Ecclesville,04,,10.3166667,-61.1333333
+tt,ecclesville village,Ecclesville Village,04,,10.3166667,-61.1333333
+tt,eckel village,Eckel Village,12,,10.3166667,-61.3833333
+tt,eckel ville,Eckel Ville,12,,10.3166667,-61.3833333
+tt,el dorado,El Dorado,08,,10.6333333,-61.3833333
+tt,el quemado,El Quemado,08,,10.4833333,-61.25
+tt,el socorro,El Socorro,08,,10.65,-61.45
+tt,englishman's bay,Englishman's Bay,11,,11.2833333,-60.6833333
+tt,enterprise,Enterprise,02,,10.5166667,-61.3833333
+tt,erin,Erin,09,,10.0666667,-61.6666667
+tt,erthig,Erthig,08,,10.6666667,-61.5
+tt,esperance,Esperance,12,,10.2333333,-61.45
+tt,esperance village,Esperance Village,12,,10.2333333,-61.45
+tt,exchange,Exchange,02,,10.4166667,-61.45
+tt,exchange village,Exchange Village,02,,10.4166667,-61.45
+tt,febeau,Fébeau,08,,10.65,-61.45
+tt,felicity hall,Felicity Hall,02,,10.45,-61.4666667
+tt,fifth company,Fifth Company,12,,10.2333333,-61.3333333
+tt,filette,Filette,08,,10.8,-61.3666667
+tt,filette village,Filette Village,08,,10.8,-61.3666667
+tt,fillette,Fillette,08,,10.8,-61.3666667
+tt,flanagin town,Flanagin Town,02,,10.4166667,-61.3166667
+tt,florida,Florida,11,,11.25,-60.6
+tt,fonrose,Fonrose,04,,10.2833333,-61.2333333
+tt,fonrose village,Fonrose Village,04,,10.2833333,-61.2333333
+tt,forres park,Forres Park,02,,10.3666667,-61.4333333
+tt,four roads,Four Roads,06,,10.4833333,-61.2166667
+tt,four roads,Four Roads,08,,10.6833333,-61.55
+tt,four roads village,Four Roads Village,06,,10.4833333,-61.2166667
+tt,fourth company,Fourth Company,12,,10.2333333,-61.3333333
+tt,francique village,Francique Village,09,,10.0666667,-61.6666667
+tt,franklyns,Franklyns,11,,11.2166667,-60.75
+tt,frederick village,Frederick Village,02,,10.6,-61.4
+tt,freeport,Freeport,02,,10.45,-61.4166667
+tt,friendsfield,Friendsfield,11,,11.1833333,-60.7
+tt,friendship,Friendship,02,,10.3833333,-61.4666667
+tt,friendship,Friendship,11,,11.1333333,-60.8
+tt,fullarton,Fullarton,09,,10.0833333,-61.8833333
+tt,fyzabad,Fyzabad,09,,10.1833333,-61.55
+tt,fyzabad village,Fyzabad Village,09,,10.1833333,-61.55
+tt,gasparillo,Gasparillo,12,,10.3166667,-61.4166667
+tt,gasparillo village,Gasparillo Village,12,,10.3166667,-61.4166667
+tt,george village,George Village,12,,10.2833333,-61.3166667
+tt,glamorgan,Glamorgan,11,,11.2166667,-60.6166667
+tt,golconda,Golconda,12,,10.25,-61.4333333
+tt,golden grove,Golden Grove,11,,11.1666667,-60.8166667
+tt,golden lane,Golden Lane,11,,11.2333333,-60.7166667
+tt,goldsborough,Goldsborough,11,,11.2,-60.6166667
+tt,goodwood,Goodwood,11,,11.2,-60.6333333
+tt,gordon settlement,Gordon Settlement,02,,10.3,-61.4
+tt,grafton,Grafton,11,,11.1833333,-60.7833333
+tt,gran couva,Gran Couva,02,,10.4,-61.3666667
+tt,grande riviere,Grande Riviere,07,,10.8333333,-61.05
+tt,grande riviere village,Grande Riviere Village,07,,10.8333333,-61.05
+tt,grange,Grange,11,,11.1833333,-60.7833333
+tt,granville,Granville,09,,10.1166667,-61.8
+tt,green hill,Green Hill,08,,10.7333333,-61.5666667
+tt,green hill,Green Hill,11,,11.2,-60.6666667
+tt,greenhill village,Greenhill Village,08,,10.7333333,-61.5666667
+tt,guaico,Guaico,06,,10.5833333,-61.15
+tt,guaico tamana,Guaico Tamana,06,,10.4833333,-61.15
+tt,guaico village,Guaico Village,06,,10.5833333,-61.15
+tt,guamal,Guamal,08,,10.75,-61.3666667
+tt,guanapo,Guanapo,08,,10.6,-61.25
+tt,guapo,Guapo,12,,10.1833333,-61.65
+tt,guaracara junction,Guaracara Junction,02,,10.3666667,-61.3166667
+tt,guaracara junction village,Guaracara Junction Village,02,,10.3666667,-61.3166667
+tt,guarata,Guarata,08,,10.6833333,-61.4166667
+tt,guayaguayare,Guayaguayare,03,,10.1333333,-61.0333333
+tt,guayaguayare village,Guayaguayare Village,03,,10.1333333,-61.0333333
+tt,gunapo,Gunapo,08,,10.6,-61.25
+tt,hardbargain,Hardbargain,12,,10.3,-61.3666667
+tt,hart's cut,Hart's Cut,08,,10.6833333,-61.6166667
+tt,hasnalli,Hasnalli,06,,10.5666667,-61.2
+tt,hasnally,Hasnally,06,,10.5666667,-61.2
+tt,haswaron,Haswaron,12,,10.3,-61.3
+tt,hermitage,Hermitage,11,,11.3166667,-60.5833333
+tt,hermitage,Hermitage,12,,10.2166667,-61.4666667
+tt,hermitage village,Hermitage Village,12,,10.2166667,-61.4666667
+tt,hillsborough,Hillsborough,11,,11.2166667,-60.6666667
+tt,hindustan,Hindustan,12,,10.2666667,-61.3166667
+tt,homard,Homard,07,,10.8166667,-61.0666667
+tt,homard village,Homard Village,07,,10.8166667,-61.0666667
+tt,hope,Hope,11,,11.1833333,-60.7
+tt,howson,Howson,06,,10.5166667,-61.1833333
+tt,icacos,Icacos,09,,10.05,-61.9
+tt,iere,Iere,12,,10.2833333,-61.3833333
+tt,iere village,Iere Village,12,,10.2833333,-61.3833333
+tt,indian chain,Indian Chain,02,,10.4333333,-61.4166667
+tt,indian walk,Indian Walk,12,,10.2666667,-61.3333333
+tt,irois,Irois,09,,10.1333333,-61.75
+tt,james smart,James Smart,06,,10.55,-61.0833333
+tt,james stewart,James Stewart,06,,10.55,-61.0833333
+tt,jaraysingh,Jaraysingh,06,,10.5333333,-61.1333333
+tt,jerningham junction,Jerningham Junction,02,,10.55,-61.3833333
+tt,kelly junction,Kelly Junction,12,,10.3166667,-61.3666667
+tt,kelly village,Kelly Village,02,,10.5833333,-61.35
+tt,kilgwyn,Kilgwyn,11,,11.15,-60.8166667
+tt,king's bay,King's Bay,11,,11.2666667,-60.55
+tt,la basse,La Basse,05,,10.65,-61.5
+tt,la brea,La Brea,09,,10.25,-61.6166667
+tt,la brea village,La Brea Village,09,,10.25,-61.6166667
+tt,la carriere,La Carrière,12,,10.3166667,-61.45
+tt,la carriere village,La Carrière Village,12,,10.3166667,-61.45
+tt,la finette,La Finette,08,,10.7333333,-61.5166667
+tt,la lune,La Lune,12,,10.0666667,-61.3333333
+tt,lambeau,Lambeau,11,,11.1666667,-60.75
+tt,l'anse noire,L'Anse Noire,07,,10.8333333,-60.9666667
+tt,lapai village,Lapai Village,02,,10.6,-61.4
+tt,la pastora,La Pastora,08,,10.7166667,-61.4666667
+tt,la pastoria,La Pastoria,08,,10.7,-61.3166667
+tt,la retraite,La Retraite,08,,10.6833333,-61.65
+tt,las cuevas,Las Cuevas,08,,10.7833333,-61.3833333
+tt,las lomas,Las Lomas,02,,10.5333333,-61.3166667
+tt,laventille,Laventille,05,,10.65,-61.4833333
+tt,la veronica,La Veronica,08,,10.7,-61.35
+tt,lendor,Lendor,02,,10.5166667,-61.4
+tt,lengua,Lengua,12,,10.25,-61.3666667
+tt,lengua village,Lengua Village,12,,10.25,-61.3666667
+tt,les coteaux,Les Coteaux,11,,11.2166667,-61.75
+tt,libertville,Libertville,04,,10.3,-61.1833333
+tt,loango,Loango,08,,10.7166667,-61.4166667
+tt,longdenville,Longdenville,02,,10.5166667,-61.3833333
+tt,lopinot,Lopinot,08,,10.6833333,-61.3166667
+tt,los atajos,Los Atajos,02,,10.4166667,-61.3
+tt,los bajos,Los Bajos,09,,10.1,-61.5666667
+tt,lothian,Lothian,12,,10.25,-61.3666667
+tt,lothians,Lothians,12,,10.25,-61.3666667
+tt,lower fishing pond,Lower Fishing Pond,06,,10.5666667,-61.0333333
+tt,lower manzanilla,Lower Manzanilla,06,,10.5166667,-61.05
+tt,lower quarter,Lower Quarter,11,,11.2,-60.7666667
+tt,lower town,Lower Town,11,,11.1666667,-60.7333333
+tt,lowlands,Lowlands,11,,11.15,-60.7833333
+tt,madras settlement,Madras Settlement,02,,10.55,-61.3333333
+tt,mairad village,Mairad Village,12,,10.2666667,-61.2666667
+tt,malabar settlement,Malabar Settlement,08,,10.6166667,-61.2833333
+tt,mamon,Mamon,06,,10.4666667,-61.15
+tt,mamoral,Mamoral,02,,10.45,-61.2833333
+tt,mamural,Mamural,02,,10.45,-61.2833333
+tt,manahambre,Manahambre,12,,10.2666667,-61.3833333
+tt,manahambre village,Manahambre Village,12,,10.2666667,-61.3833333
+tt,marabella,Marabella,10,26700,10.3,-61.45
+tt,maracas bay village,Maracas Bay Village,08,,10.75,-61.4333333
+tt,maracas,Maracas,08,,10.6833333,-61.4
+tt,maracas village,Maracas Village,08,,10.6833333,-61.4
+tt,maraval,Maraval,08,,10.7,-61.5166667
+tt,mary's hill,Mary's Hill,11,,11.2,-60.75
+tt,mason hall,Mason Hall,11,,11.2166667,-60.7166667
+tt,matelot,Matelot,07,,10.8166667,-61.1166667
+tt,matura,Matura,06,,10.6666667,-61.0666667
+tt,maturita,Maturita,08,,10.6333333,-61.2666667
+tt,mayo,Mayo,12,,10.35,-61.3833333
+tt,mc bean,Mc Bean,02,,10.45,-61.45
+tt,mc bean village,Mc Bean Village,02,,10.45,-61.45
+tt,merchiston,Merchiston,11,,11.2666667,-60.5333333
+tt,mesopotamia,Mesopotamia,11,,11.1833333,-60.6833333
+tt,mitan,Mitan,06,,10.45,-61.1166667
+tt,monkey town,Monkey Town,12,,10.2,-61.4166667
+tt,monkey town village,Monkey Town Village,12,,10.2,-61.4166667
+tt,mon plaisir,Mon Plaisir,02,,10.5666667,-61.3833333
+tt,mon repos,Mon Repos,12,,10.2666667,-61.45
+tt,monte video,Monte Video,07,,10.8166667,-61.0333333
+tt,montgomery,Montgomery,11,,11.1833333,-60.7833333
+tt,montrose,Montrose,02,,10.5166667,-61.4
+tt,montrose,Montrose,11,,11.2,-60.65
+tt,montserrat village,Montserrat Village,12,,10.35,-61.3833333
+tt,moos,Moos,12,,10.2666667,-61.2666667
+tt,moque point,Moque Point,09,,10.0666667,-61.45
+tt,moriah,Moriah,11,,11.25,-60.7166667
+tt,moriah village,Moriah Village,11,,11.25,-60.7166667
+tt,morichal,Morichal,12,,10.35,-61.35
+tt,morne cabrite,Morne Cabrite,07,,10.8,-60.9333333
+tt,morne diablo,Morne Diablo,09,,10.1,-61.45
+tt,morne quiton,Morne Quiton,11,,11.1833333,-60.7333333
+tt,moruga,Moruga,12,,10.0833333,-61.2833333
+tt,moruga village,Moruga Village,12,,10.0833333,-61.2833333
+tt,morvant,Morvant,08,,10.65,-61.4666667
+tt,mount dillon river,Mount Dillon River,11,,11.2666667,-60.7
+tt,mount grace,Mount Grace,11,,11.1833333,-60.75
+tt,mount harris,Mount Harris,06,,10.5,-61.1166667
+tt,mount pleasant,Mount Pleasant,08,,10.7166667,-61.6166667
+tt,mount pleasant,Mount Pleasant,11,,11.15,-60.8
+tt,mount saint george,Mount Saint George,11,,11.2,-60.6833333
+tt,mount saint george village,Mount Saint George Village,11,,11.2,-60.6833333
+tt,mount stewart,Mount Stewart,12,,10.2833333,-61.4
+tt,mount stewart village,Mount Stewart Village,12,,10.2833333,-61.4
+tt,mount thomas,Mount Thomas,11,,11.2333333,-60.7333333
+tt,mucurapo,Mucurapo,06,4342,10.6666667,-61.5333333
+tt,mundo nuevo,Mundo Nuevo,08,,10.4666667,-61.25
+tt,nancoo village,Nancoo Village,02,,10.55,-61.3166667
+tt,naranjo,Naranjo,07,,10.7833333,-60.9833333
+tt,navet,Navet,04,,10.35,-61.1666667
+tt,nestor,Nestor,06,,10.5166667,-61.15
+tt,new grant,New Grant,12,,10.2833333,-61.3166667
+tt,new jersey,New Jersey,09,,10.2333333,-61.6333333
+tt,noire bay,Noire Bay,07,,10.8333333,-60.9666667
+tt,north manzanilla,North Manzanilla,06,,10.5166667,-61.0333333
+tt,nutmeg grove,Nutmeg Grove,11,,11.2333333,-60.7
+tt,ogis,Ogis,06,,10.55,-61.1333333
+tt,orange hill,Orange Hill,11,,11.1833333,-60.7666667
+tt,orange valley,Orange Valley,02,,10.45,-61.4833333
+tt,orange valley village,Orange Valley Village,02,,10.45,-61.4833333
+tt,oropuche,Oropuche,06,,10.6,-61.1
+tt,oropuche,Oropuche,09,,10.2166667,-61.5333333
+tt,ortinola,Ortinola,08,,10.7,-61.3166667
+tt,ouplay,Ouplay,02,,10.3833333,-61.45
+tt,palmyra,Palmyra,12,,10.2833333,-61.4166667
+tt,palmyra village,Palmyra Village,12,,10.2833333,-61.4166667
+tt,palo seco,Palo Seco,09,,10.0833333,-61.5833333
+tt,palo seco village,Palo Seco Village,09,,10.0833333,-61.5833333
+tt,paradise,Paradise,08,,10.65,-61.3666667
+tt,parlatuvier,Parlatuvier,11,,11.3,-60.65
+tt,parrot hall,Parrot Hall,11,,11.3,-60.6666667
+tt,parry lands,Parry Lands,09,,10.1833333,-61.6166667
+tt,patience hill,Patience Hill,11,,11.1833333,-60.7666667
+tt,pembroke,Pembroke,11,,11.2166667,-60.6166667
+tt,penal,Peñal,09,4899,10.1666667,-61.4666667
+tt,penal village,Peñal Village,09,,10.1666667,-61.4666667
+tt,pepper,Pepper,02,,10.4,-61.35
+tt,pepper village,Pepper Village,02,,10.4,-61.35
+tt,peru,Peru,06,,10.6666667,-61.5333333
+tt,peters,Peters,06,,10.5,-61.15
+tt,petit bourg,Petit Bourg,08,,10.65,-61.45
+tt,petit trou,Petit Trou,07,,10.8333333,-60.9333333
+tt,petit trou village,Petit Trou Village,07,,10.8333333,-60.9333333
+tt,petit valley,Petit Valley,08,,10.7,-61.5333333
+tt,phoenix park,Phoenix Park,02,,10.3833333,-61.4333333
+tt,piarco,Piarco,08,,10.5833333,-61.3333333
+tt,piarco savanna village,Piarco Savanna Village,08,,10.5833333,-61.3333333
+tt,pierreville,Pierreville,03,,10.3,-61.0166667
+tt,piparo,Piparo,12,,10.3333333,-61.3333333
+tt,piparo settlement,Piparo Settlement,12,,10.3333333,-61.3333333
+tt,plaisance,Plaisance,03,,10.2833333,-61.0
+tt,plaisance,Plaisance,12,,10.2333333,-61.5
+tt,platanal,Platanal,06,,10.7333333,-61.15
+tt,pluck,Pluck,09,,10.1666667,-61.5
+tt,plum mitan,Plum Mitan,06,,10.45,-61.1166667
+tt,plum mitan settlement,Plum Mitan Settlement,06,,10.45,-61.1166667
+tt,plum,Plum,09,,10.5,-61.0666667
+tt,plymouth,Plymouth,11,,11.2166667,-60.7833333
+tt,pointe-a-pierre,Pointe-à-Pierre,12,,10.3166667,-61.4666667
+tt,point fortin,Point Fortin,09,18918,10.1833333,-61.6833333
+tt,point ligoure,Point Ligoure,09,,10.1666667,-61.6666667
+tt,poole,Poole,04,,10.3,-61.2333333
+tt,poole,Poole,06,,10.45,-61.1166667
+tt,port-au-spain,Port-au-Spain,05,,10.65,-61.5166667
+tt,port louis,Port Louis,11,,11.1833333,-60.7333333
+tt,port-of-spain,Port-of-Spain,05,,10.65,-61.5166667
+tt,preau,Preau,12,,10.2,-61.3166667
+tt,preau village,Preau Village,12,,10.2,-61.3166667
+tt,preysal,Preysal,02,,10.4166667,-61.4
+tt,princess town,Princess Town,12,,10.2666667,-61.3833333
+tt,princes town,Princes Town,12,11000,10.2666667,-61.3833333
+tt,prospect,Prospect,11,,11.1666667,-60.7833333
+tt,providence,Providence,11,,11.2,-60.7333333
+tt,quarry village,Quarry Village,09,,10.1333333,-61.5333333
+tt,rambert,Rambert,12,,10.2333333,-61.4666667
+tt,rambert village,Rambert Village,12,,10.2333333,-61.4666667
+tt,rampanagas village,Rampanagas Village,07,,10.7333333,-60.9833333
+tt,rampanalgas,Rampanalgas,07,,10.7333333,-60.9833333
+tt,ravin anglais,Ravin Anglais,07,,10.7833333,-60.95
+tt,redhead,Redhead,07,,10.7833333,-60.95
+tt,redhead village,Redhead Village,07,,10.7833333,-60.95
+tt,red hill,Red Hill,08,,10.6166667,-61.3166667
+tt,reform,Reform,12,,10.3,-61.4166667
+tt,riche plaine,Riche Plaine,08,,10.7166667,-61.5666667
+tt,richmond,Richmond,11,,11.2166667,-60.6166667
+tt,rio claro,Rio Claro,04,2808,10.3,-61.1833333
+tt,riseland,Riseland,11,,11.1666667,-60.7833333
+tt,riversdale,Riversdale,11,,11.2833333,-60.6833333
+tt,robert,Robert,12,,10.2666667,-61.2833333
+tt,rocky vale,Rocky Vale,11,,11.1833333,-60.7333333
+tt,roselle,Roselle,11,,11.2,-60.7666667
+tt,roussillac,Roussillac,09,,10.2166667,-61.5833333
+tt,roussillac settlement,Roussillac Settlement,09,,10.2166667,-61.5833333
+tt,roxborough,Roxborough,11,,11.25,-60.5833333
+tt,roxborough village,Roxborough Village,11,,11.25,-60.5833333
+tt,runnemede,Runnemede,11,,11.25,-60.7
+tt,runnymede,Runnymede,11,,11.25,-60.7
+tt,rushville,Rushville,03,,10.1166667,-61.05
+tt,sadhoowa,Sadhoowa,09,,10.1333333,-61.4333333
+tt,sagre chiquita,Sagre Chiquita,06,,10.5666667,-61.1
+tt,saint andrew,Saint Andrew,02,,10.4166667,-61.4666667
+tt,saint ann's,Saint Ann's,05,,10.6666667,-61.5166667
+tt,saint augustine,Saint Augustine,08,,10.65,-61.4
+tt,saint clair,Saint Clair,05,,10.6666667,-61.5166667
+tt,saint croix,Saint Croix,12,,10.25,-61.3666667
+tt,sainte croix,Sainte Croix,12,,10.25,-61.3666667
+tt,sainte croix village,Sainte Croix Village,12,,10.25,-61.3666667
+tt,saint elizabeth,Saint Elizabeth,08,,10.6833333,-61.5
+tt,sainte madeleine,Sainte Madeleine,12,,10.2666667,-61.4333333
+tt,sainte madeleine village,Sainte Madeleine Village,12,,10.2666667,-61.4333333
+tt,saint helena,Saint Helena,08,,10.5833333,-61.3333333
+tt,saint james,Saint James,05,,10.6666667,-61.5166667
+tt,saint john,Saint John,12,,10.2333333,-61.4166667
+tt,saint john village,Saint John Village,12,,10.2333333,-61.4166667
+tt,saint joseph,Saint Joseph,03,,10.3166667,-60.9833333
+tt,saint joseph,Saint Joseph,08,,10.65,-61.4166667
+tt,saint joseph,Saint Joseph,12,,10.2833333,-61.45
+tt,saint joseph village,Saint Joseph Village,12,,10.2833333,-61.45
+tt,saint julien,Saint Julien,12,,10.2666667,-61.35
+tt,saint julien village,Saint Julien Village,12,,10.2666667,-61.35
+tt,saint madeleine,Saint Madeleine,12,,10.2666667,-61.4333333
+tt,saint madeleine village,Saint Madeleine Village,12,,10.2666667,-61.4333333
+tt,saint margaret,Saint Margaret,03,,10.25,-61.0
+tt,saint margaret,Saint Margaret,12,,10.3333333,-61.45
+tt,saint margaret village,Saint Margaret Village,12,,10.3333333,-61.45
+tt,saint marys,Saint Marys,02,,10.45,-61.4166667
+tt,saint mary's,Saint Mary's,09,,10.2166667,-61.5333333
+tt,saint mary's village,Saint Mary's Village,09,,10.2166667,-61.5333333
+tt,saint pierre,Saint Pierre,08,,10.6833333,-61.6
+tt,saint pierre village,Saint Pierre Village,08,,10.6833333,-61.6
+tt,saint thomas,Saint Thomas,02,,10.5166667,-61.4166667
+tt,saint thomas village,Saint Thomas Village,02,,10.5166667,-61.4166667
+tt,salibea,Salibea,06,,10.7,-61.0333333
+tt,salibia village,Salibia Village,06,,10.7,-61.0333333
+tt,salybia,Salybia,06,,10.7,-61.0333333
+tt,san fernando,San Fernando,10,56379,10.2833333,-61.4666667
+tt,san francique,San Francique,09,,10.0666667,-61.6666667
+tt,san francisco settlement,San Francisco Settlement,02,,10.4333333,-61.4
+tt,sangre chiquita,Sangre Chiquita,06,,10.5666667,-61.1
+tt,sangre grande oropuche,Sangre Grande Oropuche,06,,10.5833333,-61.0666667
+tt,sangre grande,Sangre Grande,06,15968,10.5666667,-61.1333333
+tt,sangre grande station,Sangre Grande Station,06,,10.5833333,-61.1166667
+tt,sangre grande town,Sangre Grande Town,06,,10.5833333,-61.1166667
+tt,sangre grand,Sangre Grand,06,,10.5833333,-61.1166667
+tt,san juan,San Juan,08,,10.65,-61.45
+tt,san rafael,San Rafael,08,,10.5666667,-61.2666667
+tt,san rafael village,San Rafael Village,08,,10.5666667,-61.2666667
+tt,sans souci,Sans Souci,07,,10.8333333,-61.0
+tt,santa cruz,Santa Cruz,08,,10.7166667,-61.4666667
+tt,scarborough,Scarborough,11,4595,11.1833333,-60.7333333
+tt,shirvan,Shirvan,11,,11.15,-60.8
+tt,shore park,Shore Park,11,,11.25,-60.5333333
+tt,sierra leone,Sierra Leone,08,,10.7,-61.55
+tt,siparia,Siparia,09,8568,10.1333333,-61.5
+tt,siparia village,Siparia Village,09,,10.1333333,-61.5
+tt,sixth company,Sixth Company,12,,10.25,-61.35
+tt,sixth company village,Sixth Company Village,12,,10.25,-61.35
+tt,south oropouche,South Oropouche,09,,10.2166667,-61.55
+tt,speyside,Speyside,11,,11.3,-60.5333333
+tt,speyside village,Speyside Village,11,,11.3,-60.5333333
+tt,spring,Spring,02,,10.4166667,-61.4166667
+tt,spring vale,Spring Vale,02,,10.3833333,-61.45
+tt,spring village,Spring Village,02,,10.4166667,-61.4166667
+tt,starwood,Starwood,11,,11.3166667,-60.5333333
+tt,studley park,Studley Park,11,,11.1833333,-60.6666667
+tt,success,Success,05,,10.65,-61.4833333
+tt,sum sum hill,Sum Sum Hill,02,,10.3666667,-61.4333333
+tt,tabaquite,Tabaquite,02,3314,10.3833333,-61.3
+tt,tabaquite village,Tabaquite Village,02,,10.3833333,-61.3
+tt,tableland,Tableland,12,,10.2666667,-61.2666667
+tt,tacarigua,Tacarigua,08,15067,10.6333333,-61.3666667
+tt,talparo,Talparo,08,,10.5,-61.2666667
+tt,the mission,The Mission,07,,10.8333333,-60.95
+tt,the whim,The Whim,11,,11.2,-60.75
+tt,thick,Thick,09,,10.1666667,-61.5166667
+tt,third company,Third Company,12,,10.25,-61.3333333
+tt,toco,Toco,07,,10.8333333,-60.95
+tt,todds road,Todds Road,07,,10.4666667,-61.3333333
+tt,tortuga,Tortuga,02,,10.3666667,-61.4
+tt,town of arima,Town of Arima,01,,10.6333333,-61.2833333
+tt,trois rivieres,Trois Rivieres,11,,11.2833333,-60.5333333
+tt,tulls,Tulls,08,,10.6166667,-61.4
+tt,tunapuna,Tunapuna,08,17758,10.6333333,-61.3833333
+tt,tunapuna village,Tunapuna Village,08,,10.6333333,-61.3833333
+tt,tyson hall,Tyson Hall,11,,11.15,-60.8166667
+tt,union,Union,11,,11.1833333,-60.75
+tt,union,Union,12,,10.35,-61.4333333
+tt,union village,Union Village,12,,10.35,-61.4333333
+tt,unis,Unis,04,,10.3166667,-61.2666667
+tt,upper carapichima,Upper Carapichima,02,,10.4333333,-61.4
+tt,upper fishing pond,Upper Fishing Pond,06,,10.5833333,-61.05
+tt,upper manzanilla,Upper Manzanilla,06,,10.5166667,-61.0666667
+tt,usine,Usine,12,,10.2166667,-61.4833333
+tt,valencia,Valencia,06,,10.65,-61.2
+tt,valencia village,Valencia Village,06,,10.65,-61.2
+tt,valsayn,Valsayn,08,,10.65,-61.4166667
+tt,vance river,Vance River,09,,10.2,-61.6333333
+tt,verdant vale,Verdant Vale,08,,10.6833333,-61.2833333
+tt,veronica village,Veronica Village,08,,10.7,-61.35
+tt,vessigny,Vessigny,09,,10.2166667,-61.6333333
+tt,victoria,Victoria,12,,10.25,-61.45
+tt,victoria village,Victoria Village,12,,10.25,-61.45
+tt,vistabella village,Vistabella Village,12,,10.2833333,-61.45
+tt,vista bella,Vista Bella,12,,10.2833333,-61.45
+tt,warners village,Warners Village,02,,10.5666667,-61.4166667
+tt,warners,Warners,02,,10.5666667,-61.4166667
+tt,warren,Warren,02,,10.5833333,-61.4
+tt,waterloo,Waterloo,02,,10.4666667,-61.4666667
+tt,williamsville station,Williamsville Station,12,,10.3,-61.3833333
+tt,williamsville,Williamsville,12,,10.3,-61.3833333
+tt,windsor,Windsor,11,,11.2,-60.65
+tt,woodbrook,Woodbrook,05,,10.65,-61.5333333
+tt,woodlands village,Woodlands Village,12,,10.25,-61.4
+tt,woodlands,Woodlands,11,,11.25,-60.7166667
+tt,woodlands,Woodlands,12,,10.25,-61.4
+tt,woodland,Woodland,09,,10.2,-61.4833333
+tt,zion hill,Zion Hill,11,,11.2333333,-60.6166667

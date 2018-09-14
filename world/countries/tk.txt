@@ -1,0 +1,4 @@
+tk,fakaofo village,Fakaofo Village,00,310,-9.3833333,-171.25
+tk,fale village,Fale Village,00,120,-9.3846, -171.2483
+tk,nukunonu village,Nukunonu Village,00,420,-9.168333, -171.809722
+tk,atafu village,Atafu Village,00,500,-8.551667, -172.500833

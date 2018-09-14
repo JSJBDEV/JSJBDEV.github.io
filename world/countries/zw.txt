@@ -1,0 +1,1341 @@
+zw,100 acre lots,100 Acre Lots,06,,-20.2086111,28.7213889
+zw,adylinn,Adylinn,04,,-17.7622222,30.9888889
+zw,alexandra park,Alexandra Park,04,,-17.7941667,31.0522222
+zw,amandas,Amandas,03,,-17.3666667,30.95
+zw,amby,Amby,04,,-17.8333333,31.1152778
+zw,angus ranch,Angus Ranch,07,,-20.4194444,31.9638889
+zw,antelope,Antelope,06,,-21.05,28.45
+zw,antelope mine,Antelope Mine,06,,-21.05,28.45
+zw,antenior,Antenior,06,,-20.9833333,29.0333333
+zw,arcadia,Arcadia,04,,-17.8433333,31.0533333
+zw,arcadia south,Arcadia South,04,,-17.85,31.0666667
+zw,arcadia west,Arcadia West,04,,-17.8666667,31.0666667
+zw,arcturas,Arcturas,04,,-17.7858333,31.3233333
+zw,arcturus,Arcturus,04,,-17.7858333,31.3233333
+zw,ardbennie,Ardbennie,04,,-17.8780556,31.0272222
+zw,arlington,Arlington,04,,-17.9130556,31.0947222
+zw,arlington estate,Arlington Estate,04,,-17.9130556,31.0947222
+zw,ascot,Ascot,06,,-20.1613889,28.61
+zw,ashbrittle,Ashbrittle,04,,-17.7686111,31.0311111
+zw,ashdown park,Ashdown Park,04,,-17.7936111,30.9827778
+zw,aspindale park,Aspindale Park,04,,-17.8708333,30.955
+zw,athlone,Athlone,04,,-17.82,31.1333333
+zw,avenues,Avenues,04,,-17.8188889,31.0394444
+zw,avoca,Avoca,07,,-20.8,29.5333333
+zw,avondale,Avondale,04,,-17.7961111,31.0347222
+zw,avondale township,Avondale Township,04,,-17.7961111,31.0347222
+zw,avondale west,Avondale West,04,,-17.7825,31.0241667
+zw,avonlea,Avonlea,04,,-17.7730556,31.0125
+zw,avon rise,Avon Rise,04,,-17.7825,31.0416667
+zw,babblespruit,Babblespruit,07,,-20.3,32.6166667
+zw,badminton block,Badminton Block,06,,-20.0705556,28.3
+zw,balabala,Balabala,07,,-20.45,29.05
+zw,balla balla,Balla Balla,07,,-20.45,29.05
+zw,ballantyne park,Ballantyne Park,04,,-17.7716667,31.1030556
+zw,balule,Balule,06,,-20.1,27.95
+zw,bangamakuni,Bangamakuni,06,,-19.3833333,27.6333333
+zw,bangamukumi,Bangamukumi,06,,-19.3833333,27.6333333
+zw,banke,Banke,06,,-19.3166667,27.3666667
+zw,banket,Banket,04,,-17.3833333,30.4
+zw,banket junction,Banket Junction,04,,-17.3833333,30.4
+zw,bannockburn,Bannockburn,07,,-20.2805556,29.8847222
+zw,barbour fields,Barbour Fields,06,,-20.1288889,28.57
+zw,barham green,Barham Green,06,,-20.1916667,28.5683333
+zw,barrington,Barrington,04,,-17.9388889,30.9583333
+zw,battlefield,Battlefield,04,,-18.6,29.8333333
+zw,battlefields,Battlefields,04,,-18.6,29.8333333
+zw,bauhinia,Bauhinia,03,,-17.3666667,31.0333333
+zw,bayi bayi,Bayi Bayi,06,,-19.1166667,27.6833333
+zw,beatrice,Beatrice,04,,-18.2666667,30.8666667
+zw,beitbridge,Beitbridge,07,11865,-22.2166667,30.0
+zw,belgravia,Belgravia,04,,-17.8030556,31.0497222
+zw,belingwe,Belingwe,07,,-20.4833333,29.9166667
+zw,bellevue,Bellevue,06,,-20.1708333,28.5077778
+zw,belmont,Belmont,06,,-20.1716667,28.5713889
+zw,belmont east,Belmont East,06,,-20.1722222,28.5786111
+zw,belvedere,Belvedere,04,,-17.8211111,31.0180556
+zw,belvedere north,Belvedere North,04,,-17.8211111,31.0180556
+zw,belvedere south,Belvedere South,04,,-17.8305556,31.0166667
+zw,bemba,Bemba,06,,-19.45,27.2833333
+zw,bembesi,Bembesi,06,,-20.0,28.9333333
+zw,bembezi,Bembezi,06,,-20.0,28.9333333
+zw,bemthree,Bemthree,04,,-18.9833333,30.1
+zw,beswota,Beswota,07,,-20.3333333,32.5
+zw,beverley,Beverley,04,,-17.8458333,31.1266667
+zw,beverley west,Beverley West,04,,-17.8375,31.1058333
+zw,bezha,Bezha,06,,-20.2,27.7666667
+zw,bikeni nyemba,Bikeni Nyemba,00,,-17.4166667,28.4333333
+zw,bikita,Bikita,07,,-20.0833333,31.6166667
+zw,bindura,Bindura,03,22497,-17.2963889,31.3297222
+zw,bindura town,Bindura Town,03,,-17.2963889,31.3297222
+zw,binga,Binga,00,,-17.6166667,27.3333333
+zw,bingley,Bingley,04,,-17.8302778,31.1227778
+zw,birchenough bridge,Birchenough Bridge,07,,-19.9666667,32.3333333
+zw,bivis,Bivis,07,,-21.15,31.2833333
+zw,bizene,Bizene,06,,-19.8166667,27.6833333
+zw,blew bonny,Blew Bonny,06,,-20.1602778,28.3058333
+zw,bloomingdale,Bloomingdale,04,,-17.7902778,30.9775
+zw,blue gum,Blue Gum,00,,-18.45,29.45
+zw,bluff hill,Bluff Hill,04,,-17.7697222,30.9802778
+zw,bluff hill park,Bluff Hill Park,04,,-17.7844444,30.9886111
+zw,boli,Boli,08,,-21.5333333,31.4833333
+zw,bolton,Bolton,04,,-18.5166667,31.4
+zw,bonke,Bonke,06,,-19.3166667,27.3666667
+zw,bonko,Bonko,06,,-19.4666667,27.15
+zw,bonkwe,Bonkwe,06,,-19.4666667,27.15
+zw,bonzo,Bonzo,04,,-18.65,32.6166667
+zw,borrowdale,Borrowdale,04,,-17.7566667,31.1036111
+zw,borrowdale brook,Borrowdale Brook,04,,-17.7136111,31.145
+zw,borrowdale brooke,Borrowdale Brooke,04,,-17.7136111,31.145
+zw,borrowdale estate,Borrowdale Estate,04,,-17.7566667,31.1036111
+zw,borrowdale west,Borrowdale West,04,,-17.7627778,31.0755556
+zw,bota,Bota,07,,-20.6027778,31.3972222
+zw,bothashof,Bothashof,04,,-17.7330556,31.0480556
+zw,bradley institute,Bradley Institute,03,,-17.0163889,31.4591667
+zw,braeside,Braeside,04,,-17.8427778,31.0641667
+zw,brawlands,Brawlands,03,,-17.3833333,31.0333333
+zw,bromley,Bromley,04,,-18.0833333,31.3333333
+zw,brooke ridge,Brooke Ridge,04,,-17.7097222,31.1372222
+zw,bubu,Bubu,06,,-19.15,28.6666667
+zw,budiriro 2,Budiriro 2,04,,-17.9022222,30.9230556
+zw,budiriro 4,Budiriro 4,04,,-17.8938889,30.9133333
+zw,budiriro 5,Budiriro 5,04,,-17.8788889,30.9233333
+zw,budiriro,Budiriro,04,,-17.8972222,30.9336111
+zw,buffalo range,Buffalo Range,07,,-21.0166667,31.5333333
+zw,buhera,Buhera,04,,-19.3333333,31.4333333
+zw,bulale,Bulale,06,,-19.8,27.6166667
+zw,bulawayo,Bulawayo,06,897249,-20.15,28.5833333
+zw,bumi hills,Bumi Hills,00,,-16.8166667,28.35
+zw,burnside,Burnside,06,,-20.2175,28.6155556
+zw,buschtick,Buschtick,06,,-20.2333333,28.9166667
+zw,bushtick,Bushtick,06,,-20.2333333,28.9166667
+zw,butabubili,Butabubili,06,,-19.7666667,27.2166667
+zw,butabulili,Butabulili,06,,-19.7666667,27.2166667
+zw,cashel,Cashel,07,,-19.55,32.7833333
+zw,cathleen,Cathleen,06,,-20.0883333,28.7219444
+zw,cawunajena,Cawunajena,06,,-19.6833333,27.0166667
+zw,cement,Cement,06,,-20.1138889,28.6855556
+zw,cement siding,Cement Siding,06,,-20.1138889,28.6855556
+zw,cement station,Cement Station,06,,-20.1138889,28.6855556
+zw,centenary,Centenary,03,,-16.8,31.1166667
+zw,chababomera,Chababomera,04,,-17.7666667,30.1666667
+zw,chabili,Chabili,07,,-22.15,30.6333333
+zw,chadcombe,Chadcombe,04,,-17.8563889,31.1011111
+zw,chafutchi,Chafutchi,07,,-22.0166667,30.1666667
+zw,chakara,Chakara,04,,-18.4666667,30.7
+zw,chakari,Chakari,04,,-18.0666667,29.85
+zw,chamnanga,Chamnanga,07,,-22.1166667,30.0666667
+zw,chancit,Chancit,06,,-20.0938889,28.6605556
+zw,chatsworth,Chatsworth,07,,-19.6333333,30.8333333
+zw,cheguto,Cheguto,04,,-18.1333333,30.15
+zw,chegutu,Chegutu,04,45538,-18.1333333,30.15
+zw,chemhondoro,Chemhondoro,04,,-17.6869444,31.5627778
+zw,chereya,Chereya,00,,-17.55,28.6
+zw,chibi,Chibi,07,,-20.3166667,30.5166667
+zw,chibuwe,Chibuwe,07,,-20.55,32.4
+zw,chichindwe,Chichindwe,07,,-20.4166667,32.1
+zw,chief chereya's village,Chief Chereya's Village,00,,-17.55,28.6
+zw,chief dabola,Chief Dabola,00,,-18.1166667,27.45
+zw,chief mabigwa,Chief Mabigwa,06,,-18.7166667,27.55
+zw,chief mabikwa,Chief Mabikwa,06,,-18.7166667,27.55
+zw,chief madhliwa,Chief Madhliwa,06,,-18.7333333,28.8166667
+zw,chief mahlaba,Chief Mahlaba,06,,-19.35,27.65
+zw,chief mswigana,Chief Mswigana,06,,-19.5833333,27.4666667
+zw,chief myinga,Chief Myinga,06,,-18.7833333,28.6666667
+zw,chief nebiris village,Chief Nebiris Village,00,,-17.0833333,28.4
+zw,chief saba,Chief Saba,00,,-18.0166667,27.1333333
+zw,chief sai,Chief Sai,00,,-18.15,28.3833333
+zw,chief sikobokobo,Chief Sikobokobo,06,,-18.7666667,28.5
+zw,chief simupas village,Chief Simupas Village,00,,-17.1833333,28.0666667
+zw,chief sinampande,Chief Sinampande,00,,-17.4833333,27.95
+zw,chief sinangatenkes village,Chief Sinangatenkes Village,00,,-17.15,28.1166667
+zw,chief sinasenkwe,Chief Sinasenkwe,00,,-17.5333333,27.9
+zw,chief sinsalis village,Chief Sinsalis Village,00,,-18.0,27.5666667
+zw,chief siposa,Chief Siposa,06,,-19.5333333,27.0833333
+zw,chief siposo,Chief Siposo,06,,-19.5333333,27.0833333
+zw,chief sivalo,Chief Sivalo,06,,-18.8,28.3333333
+zw,chikombu,Chikombu,08,,-21.5833333,31.25
+zw,chikomo,Chikomo,07,,-19.9166667,30.05
+zw,chilimanzi,Chilimanzi,07,,-19.5833333,30.75
+zw,chimanimani,Chimanimani,07,,-19.8,32.8666667
+zw,chimbango,Chimbango,03,,-16.25,31.5166667
+zw,chimsasa,Chimsasa,04,,-17.4333333,32.9833333
+zw,chinex,Chinex,04,,-16.95,30.5
+zw,chinhoyi,Chinhoyi,04,77007,-17.3666667,30.2
+zw,chinoyi,Chinoyi,04,,-17.3666667,30.2
+zw,chipimfwe,Chipimfwe,03,,-16.2,31.5833333
+zw,chipinga,Chipinga,07,,-20.2,32.6166667
+zw,chipinge,Chipinge,07,11278,-20.2,32.6166667
+zw,chipise,Chipise,07,,-22.2333333,30.9333333
+zw,chiporiro,Chiporiro,04,,-16.6666667,30.7
+zw,chipuriro,Chipuriro,04,,-16.6666667,30.7
+zw,chiredzi,Chiredzi,07,13030,-21.05,31.6666667
+zw,chirimuanzu,Chirimuanzu,07,,-19.5833333,30.75
+zw,chirunda,Chirunda,00,,-16.0333333,28.85
+zw,chirundo,Chirundo,00,,-16.0333333,28.85
+zw,chirundu,Chirundu,00,,-16.0333333,28.85
+zw,chirundu township,Chirundu Township,00,,-16.0333333,28.85
+zw,chisipite,Chisipite,04,,-17.7886111,31.1227778
+zw,chiso,Chiso,07,,-20.55,31.3166667
+zw,chisumbanje,Chisumbanje,07,,-20.8,32.2333333
+zw,chitofa,Chitofa,07,,-20.55,30.5333333
+zw,chitsunga,Chitsunga,04,,-16.9333333,32.0666667
+zw,chitsungo,Chitsungo,04,,-16.9333333,32.0666667
+zw,chitungwiza,Chitungwiza,04,456206,-17.9938889,31.0480556
+zw,chiva,Chiva,04,,-18.2666667,30.5666667
+zw,chivhu,Chivhu,04,,-19.0166667,30.9
+zw,chiwakanyama,Chiwakanyama,00,,-16.95,29.3
+zw,chizanje,Chizanje,04,,-17.8502778,31.1761111
+zw,chomwedzi,Chomwedzi,04,,-18.1833333,31.4
+zw,chulu,Chulu,04,,-17.9325,30.9297222
+zw,churugwi,Churugwi,07,,-19.6666667,30.0
+zw,city centre,City Centre,06,,-20.1525,28.5847222
+zw,city,City,06,,-20.1525,28.5847222
+zw,civic centre,Civic Centre,04,,-17.8313889,31.0386111
+zw,claremont,Claremont,06,,-20.2336111,28.7197222
+zw,cleveland park,Cleveland Park,04,,-17.82,31.1452778
+zw,clovelly,Clovelly,07,,-20.05,30.8
+zw,cold comfort,Cold Comfort,04,,-17.8336111,30.9441667
+zw,colleen bawn,Colleen Bawn,07,,-21.0,29.2166667
+zw,colne valley,Colne Valley,04,,-17.7822222,31.1072222
+zw,colray,Colray,04,,-17.7572222,31.1119444
+zw,comet rise,Comet Rise,04,,-17.7686111,31.0436111
+zw,concession,Concession,03,,-17.3833333,30.95
+zw,connemara,Connemara,06,,-19.2,29.8166667
+zw,connemara mine,Connemara Mine,06,,-19.2,29.8166667
+zw,coronation park,Coronation Park,04,,-17.8322222,31.1008333
+zw,cotswold hills,Cotswold Hills,04,,-17.7936111,30.9911111
+zw,craigengower,Craigengower,03,,-17.3166667,31.0333333
+zw,craiglee,Craiglee,06,,-20.14,28.3394444
+zw,craigmore,Craigmore,07,,-20.4333333,32.4833333
+zw,cranborne,Cranborne,04,,-17.8511111,31.0786111
+zw,cranborne park,Cranborne Park,04,,-17.8511111,31.0786111
+zw,crawborough,Crawborough,04,,-17.8463889,30.9455556
+zw,croft mine,Croft Mine,07,,-20.5666667,29.3333333
+zw,crowborough north,Crowborough North,04,,-17.8408333,30.9338889
+zw,dabolas,Dabolas,00,,-18.1166667,27.45
+zw,dabula,Dabula,06,,-19.4,28.45
+zw,dagamella,Dagamella,06,,-18.8166667,28.65
+zw,dahlia,Dahlia,06,,-18.6166667,27.1666667
+zw,daisyfield,Daisyfield,07,,-19.7166667,29.5
+zw,dangamvura,Dangamvura,04,,-19.0,32.5833333
+zw,darwendale,Darwendale,04,,-17.7166667,30.55
+zw,darwin,Darwin,03,,-16.7833333,31.5833333
+zw,dawn hill,Dawn Hill,04,,-17.8186111,31.1169444
+zw,dawsons,Dawsons,03,,-17.0333333,30.85
+zw,delmore,Delmore,06,,-20.1058333,28.6605556
+zw,dema business centre,Dema Business Centre,04,,-18.0833333,31.2166667
+zw,dema,Dema,04,,-18.0833333,31.2166667
+zw,derbyshire township,Derbyshire Township,04,,-17.9344444,31.0105556
+zw,dete,Dete,06,,-18.6166667,26.8666667
+zw,dett,Dett,06,,-18.6166667,26.8666667
+zw,dewsbury,Dewsbury,06,,-20.2405556,28.3827778
+zw,dhlakapiya,Dhlakapiya,06,,-19.5166667,27.4833333
+zw,dhlamini,Dhlamini,06,,-19.5,27.4
+zw,dingandawo,Dingandawo,06,,-19.65,27.0833333
+zw,dingindawa,Dingindawa,06,,-19.65,27.0833333
+zw,disi,Disi,04,,-16.9166667,30.7
+zw,doma,Doma,04,,-16.75,30.2333333
+zw,dombo,Dombo,06,,-19.7166667,27.7666667
+zw,domboshawa,Domboshawa,04,,-17.605,31.14
+zw,dombosnawa,Dombosnawa,04,,-17.605,31.14
+zw,donnington,Donnington,06,,-20.1855556,28.5591667
+zw,donnybrook,Donnybrook,04,,-17.8122222,31.1477778
+zw,dorowa claims,Dorowa Claims,04,,-19.0666667,31.75
+zw,dorowa,Dorowa,04,,-19.0666667,31.75
+zw,dorowa mining lease,Dorowa Mining Lease,04,,-19.0666667,31.75
+zw,douglasdale,Douglasdale,06,,-20.24,28.6419444
+zw,downlands park,Downlands Park,04,,-17.7980556,31.1411111
+zw,duchess hill,Duchess Hill,04,,-18.3,30.2166667
+zw,dungarven,Dungarven,04,,-17.7563889,31.0930556
+zw,dunkirk,Dunkirk,06,,-20.1833333,28.4166667
+zw,dunowen,Dunowen,04,,-17.8913889,31.1166667
+zw,dzivareskwa,Dzivareskwa,04,,-17.8052778,30.9266667
+zw,dzorora,Dzorora,07,,-20.3166667,32.7333333
+zw,eastlea,Eastlea,04,,-17.8244444,31.0736111
+zw,eastlea north,Eastlea North,04,,-17.8244444,31.0736111
+zw,eastlea south,Eastlea South,04,,-17.83,31.0755556
+zw,eastnor,Eastnor,06,,-19.4833333,28.5666667
+zw,east queens park,East Queens Park,06,,-20.1163889,28.6152778
+zw,ebabeni,Ebabeni,06,,-19.5666667,27.1333333
+zw,ebizeni,Ebizeni,06,,-19.8166667,27.6833333
+zw,egagwini,Egagwini,06,,-19.3666667,27.05
+zw,egomeni,Egomeni,06,,-19.6166667,27.0333333
+zw,ehampeni,Ehampeni,06,,-19.85,27.7166667
+zw,eiffel flats,Eiffel Flats,04,,-18.3166667,29.9833333
+zw,elandshoek,Elandshoek,06,,-18.8166667,27.1666667
+zw,elangeni,Elangeni,06,,-19.4666667,27.0333333
+zw,eldorado,Eldorado,04,,-17.35,30.2333333
+zw,eloana,Eloana,06,,-20.22,28.5786111
+zw,emakhandeni,Emakhandeni,06,,-20.1138889,28.5277778
+zw,emanaleni,Emanaleni,06,,-19.3833333,27.0166667
+zw,emangweni,Emangweni,06,,-19.4333333,27.1333333
+zw,emateshaneni,Emateshaneni,06,,-19.4,27.0666667
+zw,ematetshaneni,Ematetshaneni,06,,-19.4,27.0666667
+zw,emerald hill,Emerald Hill,04,,-17.775,31.0311111
+zw,emfelabuso,Emfelabuso,07,,-20.5333333,29.2833333
+zw,emgolweni,Emgolweni,06,,-19.2333333,27.6
+zw,emgomeni,Emgomeni,06,,-19.6166667,27.0333333
+zw,emkayeni,Emkayeni,06,,-19.6666667,27.5666667
+zw,empafeni,Empafeni,06,,-19.7166667,27.5833333
+zw,empisini,Empisini,06,,-19.5333333,27.1333333
+zw,empress mine township,Empress Mine Township,00,,-18.45,29.45
+zw,emqolweni,Emqolweni,06,,-19.2333333,27.6
+zw,emvana,Emvana,06,,-19.2166667,27.5333333
+zw,emyana,Emyana,06,,-19.2166667,27.5333333
+zw,enhlangano,Enhlangano,06,,-19.85,27.8666667
+zw,enkeldoorn,Enkeldoorn,04,,-19.0166667,30.9
+zw,enqameni,Enqameni,06,,-20.1202778,28.5111111
+zw,enqotsheni,Enqotsheni,06,,-20.1041667,28.5175
+zw,ensedhlwini,Ensedhlwini,06,,-19.7,27.4666667
+zw,entumbane,Entumbane,06,,-20.1252778,28.5438889
+zw,epworth,Epworth,04,,-17.89,31.1475
+zw,esibomvu,Esibomvu,06,,-20.4,28.9
+zw,esigodini,Esigodini,06,,-20.3,28.9333333
+zw,esimbomvu,Esimbomvu,06,,-20.4,28.9
+zw,esinganeni,Esinganeni,06,,-19.4333333,27.4
+zw,essexvale,Essexvale,06,,-20.3,28.9333333
+zw,eversley,Eversley,06,,-20.2127778,28.2630556
+zw,excelsior,Excelsior,04,,-18.1,30.9
+zw,ezanguweni,Ezanguweni,06,,-19.4166667,27.0333333
+zw,fagadola,Fagadola,06,,-20.0986111,28.6116667
+zw,fairland,Fairland,06,,-20.2244444,28.7025
+zw,fairstar,Fairstar,06,,-20.1005556,28.7061111
+zw,famona,Famona,06,,-20.1844444,28.5861111
+zw,featherstone,Featherstone,04,,-18.7166667,30.8166667
+zw,felixburg,Felixburg,04,,-19.4333333,30.8333333
+zw,felixburg,Felixburg,07,,-19.4833333,30.7833333
+zw,figtree,Figtree,06,,-20.3666667,28.3333333
+zw,filabusi,Filabusi,07,,-20.5333333,29.2833333
+zw,filimons village,Filimons Village,06,,-18.8833333,27.4166667
+zw,fishan,Fishan,07,,-21.4333333,32.0333333
+zw,folosi,Folosi,06,,-19.6,27.1666667
+zw,fombe,Fombe,04,,-17.3333333,32.9833333
+zw,(( forestvale )),(( Forestvale )),06,,-20.1216667,28.5286111
+zw,fort rixon,Fort Rixon,06,,-20.0166667,29.2666667
+zw,fortunes gate,Fortunes Gate,06,,-20.1994444,28.6319444
+zw,fort usher,Fort Usher,06,,-20.4166667,28.6
+zw,fort victoria,Fort Victoria,07,,-20.0833333,30.8333333
+zw,four winds,Four Winds,06,,-20.2222222,28.5836111
+zw,fred mine,Fred Mine,07,,-20.5166667,29.3166667
+zw,freelands,Freelands,04,,-18.2166667,30.9333333
+zw,fresnaye,Fresnaye,07,,-20.2372222,28.7461111
+zw,fumabatshena,Fumabatshena,06,,-19.2166667,27.5666667
+zw,fumbatshena,Fumbatshena,06,,-19.2166667,27.5666667
+zw,funda,Funda,06,,-19.1833333,27.6
+zw,fura,Fura,03,,-16.7833333,31.5833333
+zw,gadzema,Gadzema,04,,-18.0333333,30.15
+zw,gagwini,Gagwini,06,,-19.3666667,27.05
+zw,gambisa,Gambisa,04,,-18.1333333,29.6
+zw,gambiza,Gambiza,04,,-18.1333333,29.6
+zw,gampagalale,Gampagalale,06,,-18.8,28.4666667
+zw,gaths mine,Gaths Mine,07,,-20.0166667,30.5166667
+zw,gatooma,Gatooma,04,,-18.35,29.9166667
+zw,gawa,Gawa,06,,-19.5,27.7333333
+zw,gempo,Gempo,06,,-20.1,27.6666667
+zw,georgia,Georgia,04,,-18.2,29.9166667
+zw,gevstein park,Gevstein Park,04,,-17.8155556,30.9425
+zw,gibixegu,Gibixegu,06,,-19.4,26.9666667
+zw,glass block,Glass Block,07,,-20.6491667,29.1513889
+zw,glenavon est,Glenavon Est,04,,-17.7491667,31.0916667
+zw,glencoe,Glencoe,06,,-20.1638889,28.6525
+zw,glencova,Glencova,07,,-19.9666667,31.4333333
+zw,glendale,Glendale,03,,-17.3605556,31.0597222
+zw,glendevon,Glendevon,07,,-20.6986111,31.625
+zw,glendye,Glendye,04,,-18.9333333,30.05
+zw,gleneagles,Gleneagles,04,,-17.8658333,30.9052778
+zw,glenearn,Glenearn,04,,-18.1166667,29.85
+zw,glengarry,Glengarry,06,,-20.1283333,28.6311111
+zw,glenlivet,Glenlivet,07,,-20.1666667,31.0833333
+zw,glen lorne,Glen Lorne,04,,-17.7419444,31.1661111
+zw,glen norah,Glen Norah,04,,-17.9083333,30.9727778
+zw,glenview,Glenview,04,,-17.9077778,30.9480556
+zw,glenville,Glenville,06,,-20.0988889,28.5588889
+zw,glenwood,Glenwood,04,,-17.7516667,31.1580556
+zw,gletwyn a,Gletwyn A,04,,-17.7666667,31.1613889
+zw,gletwyn,Gletwyn,04,,-17.7666667,31.1613889
+zw,gokwe,Gokwe,00,,-18.2166667,28.9333333
+zw,golden valley,Golden Valley,04,,-18.2166667,29.8
+zw,good hope,Good Hope,04,,-17.7355556,30.9552778
+zw,goredema district chief camp,Goredema District Chief Camp,00,,-17.85,28.9
+zw,gorodema,Gorodema,00,,-17.85,28.9
+zw,goromonzi,Goromonzi,04,,-17.8583333,31.3822222
+zw,granite park,Granite Park,06,,-20.2186111,28.5891667
+zw,graniteside,Graniteside,04,,-17.8508333,31.0513889
+zw,greencroft,Greencroft,04,,-17.775,31.0063889
+zw,greendale,Greendale,04,,-17.8141667,31.1272222
+zw,green grove,Green Grove,04,,-17.8313889,31.1366667
+zw,greenhill,Greenhill,06,,-20.1944444,28.5816667
+zw,greenspan,Greenspan,06,,-20.1277778,28.5786111
+zw,greystone a,Greystone A,04,,-17.7475,31.1208333
+zw,greystone,Greystone,04,,-17.7475,31.1208333
+zw,greystone,Greystone,07,,-20.15,29.5333333
+zw,greystone park,Greystone Park,04,,-17.7475,31.1208333
+zw,grobbie park,Grobbie Park,04,,-17.9211111,30.9897222
+zw,groombridge,Groombridge,04,,-17.7683333,31.0536111
+zw,guinea fowl,Guinea Fowl,07,,-19.5333333,29.9333333
+zw,gulakabili,Gulakabili,06,,-19.7,27.0666667
+zw,gulakibili,Gulakibili,06,,-19.7,27.0666667
+zw,gumtree,Gumtree,06,,-20.2222222,28.7111111
+zw,gun hill,Gun Hill,04,,-17.7963889,31.0691667
+zw,guruwe,Guruwe,04,,-16.6666667,30.7
+zw,gutu,Gutu,07,,-19.65,31.1666667
+zw,guwa,Guwa,03,,-17.595,31.4077778
+zw,gwaai,Gwaai,06,,-19.2833333,27.65
+zw,gwabalanda,Gwabalanda,06,,-20.1083333,28.4988889
+zw,gwai,Gwai,06,,-19.2833333,27.65
+zw,gwanda,Gwanda,06,20731,-20.9333333,29.0
+zw,gwangwari,Gwangwari,04,,-17.6833333,31.0833333
+zw,gwelo,Gwelo,06,,-19.45,29.8166667
+zw,gwelutshena,Gwelutshena,06,,-18.6666667,28.6833333
+zw,gwembgwa,Gwembgwa,06,,-19.2666667,27.4
+zw,gwemga,Gwemga,06,,-19.2666667,27.4
+zw,gweru,Gweru,06,201879,-19.45,29.8166667
+zw,gwesi,Gwesi,06,,-19.9333333,27.7
+zw,gxobonolo,Gxobonolo,06,,-19.4333333,27.2333333
+zw,haig park,Haig Park,04,,-17.7977778,30.9927778
+zw,halale,Halale,06,,-20.6833333,28.4166667
+zw,hamilton,Hamilton,03,,-17.3666667,31.1
+zw,hampeni,Hampeni,06,,-19.85,27.7166667
+zw,handsworth,Handsworth,03,,-17.0333333,30.8666667
+zw,hangapu,Hangapu,06,,-19.5166667,27.5333333
+zw,harare african township,Harare African Township,04,,-17.8638889,31.0297222
+zw,harare,Harare,04,2213701,-17.8177778,31.0447222
+zw,harari,Harari,04,,-17.8638889,31.0297222
+zw,harrisvale,Harrisvale,06,,-20.0905556,28.5822222
+zw,harrisville,Harrisville,06,,-20.0905556,28.5822222
+zw,hartlands,Hartlands,04,,-17.9441667,30.9775
+zw,hartley,Hartley,04,,-18.1333333,30.15
+zw,hatcliffe,Hatcliffe,04,,-17.6883333,31.1097222
+zw,hatfield,Hatfield,04,,-17.8722222,31.0955556
+zw,haydon,Haydon,04,,-17.7536111,30.9366667
+zw,headlands,Headlands,04,,-18.2833333,32.05
+zw,heany,Heany,06,,-20.0833333,28.7833333
+zw,heany junction,Heany Junction,06,,-20.0833333,28.7833333
+zw,helensvale,Helensvale,04,,-17.7291667,31.145
+zw,hewu,Hewu,06,,-19.8,27.65
+zw,highfield,Highfield,04,,-17.8894444,30.985
+zw,highfield native village,Highfield Native Village,04,,-17.8894444,30.985
+zw,highlands estate,Highlands Estate,04,,-17.8075,31.0880556
+zw,highlands,Highlands,04,,-17.8075,31.0880556
+zw,highmount,Highmount,06,,-20.1019444,28.5780556
+zw,hillcrest,Hillcrest,06,,-20.1877778,28.5938889
+zw,hillside east,Hillside East,06,,-20.19,28.6205556
+zw,hillside,Hillside,04,,-17.8375,31.0816667
+zw,hillside,Hillside,06,,-20.1991667,28.6
+zw,hillside south,Hillside South,06,,-20.2147222,28.5952778
+zw,hillside west,Hillside West,06,,-20.2063889,28.5819444
+zw,hingwe,Hingwe,06,,-20.15,27.3
+zw,hippo valley,Hippo Valley,07,,-21.1666667,31.55
+zw,hlananisas,Hlananisas,06,,-19.8333333,27.4
+zw,hlangano,Hlangano,06,,-19.85,27.8666667
+zw,hogerty hill,Hogerty Hill,04,,-17.6977778,31.1341667
+zw,homefield,Homefield,04,,-17.7497222,30.9152778
+zw,hope valley,Hope Valley,06,,-20.1858333,28.7355556
+zw,hopley,Hopley,04,,-17.9313889,30.9897222
+zw,hot springs,Hot Springs,07,,-19.65,32.4666667
+zw,houghton park,Houghton Park,04,,-17.8836111,31.0166667
+zw,howard institute,Howard Institute,03,,-17.2333333,31.0
+zw,hoyuyu,Hoyuyu,04,,-17.6166667,32.0166667
+zw,hume park,Hume Park,06,,-20.1494444,28.5952778
+zw,hundred acre lots,Hundred Acre Lots,06,,-20.0933333,28.5861111
+zw,hunters road,Hunters Road,06,,-19.15,29.8
+zw,hunts road halt,Hunts Road Halt,06,,-19.7666667,28.7666667
+zw,hwali,Hwali,07,,-21.7,29.2
+zw,hwange,Hwange,00,41632,-18.3666667,26.4833333
+zw,hwe hwe,Hwe Hwe,04,,-18.9166667,29.8166667
+zw,hyde park estate,Hyde Park Estate,06,,-20.1127778,28.4563889
+zw,hyde park,Hyde Park,06,,-20.0777778,28.4294444
+zw,iiunkub,Iiunkub,06,,-20.1166667,27.65
+zw,ilanda,Ilanda,06,,-20.1794444,28.6097222
+zw,ilunkubo,Ilunkubo,06,,-20.1166667,27.65
+zw,imbesu park,Imbesu Park,06,,-20.0327778,28.7491667
+zw,iminyela,Iminyela,06,,-20.1491667,28.5294444
+zw,impampa,Impampa,00,,-17.6166667,27.7166667
+zw,impampas,Impampas,00,,-17.6166667,27.7166667
+zw,induna,Induna,04,,-17.9216667,30.9972222
+zw,ingesi,Ingesi,07,,-20.5666667,30.4
+zw,ingezi,Ingezi,07,,-20.5666667,30.4
+zw,ingwe,Ingwe,06,,-19.4666667,27.0666667
+zw,inkubusi,Inkubusi,04,,-17.9336111,30.9744444
+zw,inoro,Inoro,04,,-18.4666667,31.5166667
+zw,insiza,Insiza,06,,-19.7833333,29.2
+zw,insukamini,Insukamini,06,,-19.3833333,29.6
+zw,intabayezinduna,Intabayezinduna,06,,-20.0166667,28.85
+zw,intini,Intini,06,,-20.2286111,28.6183333
+zw,inyanga,Inyanga,04,,-18.2166667,32.75
+zw,inyati,Inyati,06,,-19.6833333,28.85
+zw,inyazura,Inyazura,04,,-18.7166667,32.1666667
+zw,ireland,Ireland,06,,-20.1833333,28.2833333
+zw,irene,Irene,04,,-18.9333333,32.5833333
+zw,irisvale halt,Irisvale Halt,07,,-20.5163889,29.0555556
+zw,ivorie,Ivorie,07,,-20.3666667,32.6
+zw,jacaranda,Jacaranda,06,,-20.1,28.6383333
+zw,jakalasi,Jakalasi,06,,-19.2666667,27.6
+zw,jalume,Jalume,06,,-19.7666667,27.4
+zw,james,James,00,,-17.9,27.3
+zw,janisa,Janisa,06,,-19.2833333,27.45
+zw,janiza,Janiza,06,,-19.2833333,27.45
+zw,jawunda,Jawunda,06,,-20.9333333,29.0
+zw,jerera,Jerera,07,,-20.4,31.45
+zw,jimila,Jimila,06,,-19.5,27.7166667
+zw,jirira,Jirira,04,,-18.2666667,31.1
+zw,jissi,Jissi,06,,-19.1,27.9666667
+zw,jojos village,Jojos Village,06,,-18.9666667,27.4166667
+zw,jolume,Jolume,06,,-19.7666667,27.4
+zw,jowa,Jowa,06,,-19.6,27.5666667
+zw,juliasdale,Juliasdale,04,,-18.3666667,32.6666667
+zw,jumbo,Jumbo,04,,-17.4666667,30.9166667
+zw,junction gate,Junction Gate,07,,-20.1666667,32.7833333
+zw,junction tea room,Junction Tea Room,07,,-19.5166667,32.55
+zw,juru,Juru,04,,-17.6830556,31.4744444
+zw,kadelas village,Kadelas Village,06,,-18.8666667,27.4333333
+zw,kadoma,Kadoma,04,100276,-18.35,29.9166667
+zw,kalane,Kalane,06,,-19.6666667,27.3333333
+zw,kalugus village,Kalugus Village,06,,-18.9,27.4666667
+zw,kamativi,Kamativi,00,,-18.3166667,27.0666667
+zw,kambanji,Kambanji,04,,-17.7622222,31.1311111
+zw,kambuzuma,Kambuzuma,04,,-17.8544444,30.9672222
+zw,kame,Kame,06,,-20.0758333,28.4066667
+zw,kamitivi,Kamitivi,00,,-18.3166667,27.0666667
+zw,kandana,Kandana,06,,-20.2166667,27.7666667
+zw,kanukamwe school,Kanukamwe School,03,,-17.1255556,31.0030556
+zw,kanyemba,Kanyemba,03,,-15.7,30.3166667
+zw,kanyonga camp,Kanyonga Camp,00,,-17.1333333,29.2
+zw,kapane,Kapane,06,,-19.2666667,27.5166667
+zw,kapateni,Kapateni,07,,-21.6333333,32.1
+zw,kapoka,Kapoka,00,,-17.1,28.4
+zw,kariba,Kariba,00,34797,-16.5166667,28.8
+zw,kariyangwe,Kariyangwe,00,,-17.9666667,27.5
+zw,karoi,Karoi,04,24981,-16.8166667,29.6833333
+zw,karoyi,Karoyi,04,,-16.8166667,29.6833333
+zw,kashambi,Kashambi,07,,-20.0327778,29.8847222
+zw,katoma,Katoma,04,,-18.35,29.9166667
+zw,kawahove,Kawahove,04,,-17.4166667,30.1666667
+zw,kayisa,Kayisa,06,,-19.85,27.65
+zw,kazangarare,Kazangarare,03,,-16.5,29.9333333
+zw,kelvin east,Kelvin East,06,,-20.1625,28.5388889
+zw,kelvin north,Kelvin North,06,,-20.1547222,28.5252778
+zw,kelvin west,Kelvin West,06,,-20.1641667,28.525
+zw,kenilworth estates,Kenilworth Estates,06,,-19.4333333,28.95
+zw,kenilworth,Kenilworth,06,,-20.1194444,28.5894444
+zw,kensington,Kensington,04,,-17.8061111,31.0297222
+zw,kenyandavu camp,Kenyandavu Camp,00,,-18.3,27.9833333
+zw,kenyandavu,Kenyandavu,00,,-18.3,27.9833333
+zw,kenyungu,Kenyungu,00,,-17.1333333,29.2
+zw,keynshamburg,Keynshamburg,06,,-19.2833333,29.6166667
+zw,kezi,Kezi,06,,-20.9166667,28.4666667
+zw,kilallo,Kilallo,06,,-20.0833333,28.5905556
+zw,killarney,Killarney,06,,-20.1338889,28.6505556
+zw,kimberley reefs,Kimberley Reefs,03,,-17.2963889,31.3297222
+zw,king mine,King Mine,07,,-20.0833333,30.5333333
+zw,kingsdale,Kingsdale,06,,-20.1008333,28.6102778
+zw,kingsmead,Kingsmead,04,,-17.7569444,31.1025
+zw,kings mine,Kings Mine,07,,-20.0833333,30.5333333
+zw,kopje,Kopje,04,,-17.8366667,31.0402778
+zw,korodziba,Korodziba,06,,-19.3833333,26.9166667
+zw,kubiko,Kubiko,07,,-19.7166667,31.8333333
+zw,kudjwara,Kudjwara,04,,-16.7,31.9666667
+zw,kumalo,Kumalo,06,,-20.15,28.6166667
+zw,kumalo north,Kumalo North,06,,-20.1433333,28.6161111
+zw,kutsaga village,Kutsaga Village,04,,-17.9188889,31.1455556
+zw,kuwadzana 3,Kuwadzana 3,04,,-17.8119444,30.9311111
+zw,kuwadzana 4,Kuwadzana 4,04,,-17.8255556,30.8852778
+zw,kuwadzana,Kuwadzana,04,,-17.8252778,30.9263889
+zw,kwekwe,Kwekwe,04,116332,-18.9166667,29.8166667
+zw,lakeside,Lakeside,06,,-20.1988889,28.62
+zw,lalapansi,Lalapansi,04,,-19.3333333,30.1833333
+zw,lalapanzi,Lalapanzi,04,,-19.3333333,30.1833333
+zw,lancaster,Lancaster,06,,-20.2166667,29.3
+zw,legion,Legion,07,,-21.4166667,28.5333333
+zw,legion mine,Legion Mine,07,,-21.4166667,28.5333333
+zw,letombo park,Letombo Park,04,,-17.8355556,31.1202778
+zw,lewisam,Lewisam,04,,-17.7880556,31.1138889
+zw,lewisham,Lewisham,04,,-17.7880556,31.1138889
+zw,lichendale,Lichendale,04,,-17.8033333,31.1555556
+zw,limbeck,Limbeck,03,,-17.2833333,31.05
+zw,lincoln green,Lincoln Green,04,,-17.83,31.0075
+zw,lingombenetshankwe,Lingombenetshankwe,06,,-19.55,27.1666667
+zw,lions den,Lions Den,04,,-17.2666667,30.0333333
+zw,little norfolk,Little Norfolk,04,,-17.7716667,31.0375
+zw,lobengula,Lobengula,06,,-20.1361111,28.5172222
+zw,lobenvale,Lobenvale,06,,-20.1002778,28.5963889
+zw,lochinvar,Lochinvar,04,,-17.8694444,30.9877778
+zw,lockview,Lockview,06,,-20.1872222,28.6677778
+zw,logan park,Logan Park,04,,-17.8841667,31.0761111
+zw,lonely mine,Lonely Mine,06,,-19.5,28.75
+zw,lorelei,Lorelei,04,,-17.8488889,31.1288889
+zw,lower gwelo,Lower Gwelo,06,,-19.2333333,29.25
+zw,lower nondwene,Lower Nondwene,06,,-20.0355556,28.7044444
+zw,lower rangemore,Lower Rangemore,06,,-20.1752778,28.4652778
+zw,lubesi,Lubesi,06,,-19.6333333,27.1833333
+zw,lucu,Lucu,06,,-19.5,27.7333333
+zw,luhonja,Luhonja,06,,-19.5166667,27.75
+zw,luhotswa,Luhotswa,06,,-19.5166667,27.75
+zw,luipaards vlei,Luipaards Vlei,07,,-20.3166667,32.65
+zw,luna,Luna,04,,-17.7011111,31.1747222
+zw,lundi,Lundi,07,,-20.8994444,30.7861111
+zw,lupando,Lupando,06,,-19.4833333,27.2333333
+zw,lupane,Lupane,06,,-18.9333333,27.7666667
+zw,lupani,Lupani,06,,-18.9333333,27.7666667
+zw,lupinde,Lupinde,06,,-19.75,27.7833333
+zw,lupindi,Lupindi,06,,-19.75,27.7833333
+zw,lupondo,Lupondo,06,,-19.4833333,27.2333333
+zw,lusulu,Lusulu,00,,-18.0666667,27.8333333
+zw,lusulu settlement,Lusulu Settlement,00,,-18.0666667,27.8333333
+zw,lutombe,Lutombe,07,,-22.0833333,30.15
+zw,lutsha,Lutsha,06,,-19.0333333,28.6
+zw,luveve,Luveve,06,,-20.1,28.5
+zw,luveve native village,Luveve Native Village,06,,-20.1,28.5
+zw,mabalanas,Mabalanas,06,,-19.85,27.4166667
+zw,mabaye,Mabaye,06,,-19.0833333,28.7166667
+zw,mabele,Mabele,06,,-19.6666667,27.4166667
+zw,mabelreign,Mabelreign,04,,-17.7905556,31.0013889
+zw,mabiriya,Mabiriya,06,,-19.6666667,27.25
+zw,mabutweni,Mabutweni,06,,-20.1425,28.5316667
+zw,mabuze,Mabuze,07,,-20.9277778,29.4416667
+zw,mabvuku,Mabvuku,04,,-17.8388889,31.1858333
+zw,machachuta,Machachuta,07,,-21.85,29.35
+zw,macheke,Macheke,04,,-18.15,31.85
+zw,machendu,Machendu,08,,-21.4666667,31.5833333
+zw,machihiri,Machihiri,00,,-17.3333333,28.9333333
+zw,machiroli,Machiroli,04,,-17.7666667,30.4
+zw,machrole,Machrole,04,,-17.7666667,30.4
+zw,maclear,Maclear,04,,-16.5166667,31.1833333
+zw,madadzi,Madadzi,04,,-16.9,29.75
+zw,mademauli,Mademauli,06,,-19.35,27.6333333
+zw,madhlosi,Madhlosi,06,,-19.4,27.6666667
+zw,madioma,Madioma,04,,-17.8166667,32.7666667
+zw,madona,Madona,06,,-19.75,27.7666667
+zw,madonga,Madonga,07,,-21.9166667,29.3666667
+zw,madubus,Madubus,06,,-19.85,27.3833333
+zw,madziwa,Madziwa,03,,-16.9166667,31.5333333
+zw,mafayfa,Mafayfa,06,,-19.4,28.4
+zw,mafusini,Mafusini,06,,-19.8833333,27.6166667
+zw,mafuto,Mafuto,03,,-16.7166667,32.7666667
+zw,magazi,Magazi,06,,-19.0166667,28.5333333
+zw,magodi masili,Magodi Masili,06,,-19.7666667,27.3166667
+zw,magunge,Magunge,00,,-16.85,29.4166667
+zw,magwegwe,Magwegwe,06,,-20.1369444,28.5058333
+zw,magwegwe north,Magwegwe North,06,,-20.1225,28.4955556
+zw,magwegwe west,Magwegwe West,06,,-20.1316667,28.4947222
+zw,mahanzwa,Mahanzwa,06,,-19.8,27.8333333
+zw,mahlalayedwa,Mahlalayedwa,06,,-19.35,27.0166667
+zw,mahlosi,Mahlosi,06,,-19.4,27.6666667
+zw,mahusekwa,Mahusekwa,04,,-18.3166667,31.2
+zw,mahusekwa township,Mahusekwa Township,04,,-18.3166667,31.2
+zw,maimi,Maimi,04,,-16.6666667,29.7666667
+zw,mainway meadows,Mainway Meadows,04,,-17.9002778,31.0416667
+zw,majabane,Majabane,06,,-19.3833333,27.4666667
+zw,majabani,Majabani,06,,-19.4333333,27.5
+zw,majumi,Majumi,06,,-19.2166667,27.7
+zw,makabusi,Makabusi,04,,-17.8563889,31.1305556
+zw,makado,Makado,07,,-21.9666667,29.5833333
+zw,makaha,Makaha,04,,-17.2833333,32.6166667
+zw,makhaza,Makhaza,06,,-19.9333333,27.65
+zw,makokoba,Makokoba,06,,-20.1419444,28.5752778
+zw,makokwe,Makokwe,07,,-21.4333333,28.8555556
+zw,mako,Mako,06,,-19.4666667,27.6666667
+zw,makonis,Makonis,04,,-18.7166667,31.9833333
+zw,makosa business centre,Makosa Business Centre,04,,-17.2833333,32.4666667
+zw,makosa township,Makosa Township,04,,-17.2833333,32.4666667
+zw,makose,Makose,04,,-17.2166667,32.7166667
+zw,makulugusi,Makulugusi,06,,-19.7333333,27.6
+zw,makulukusa,Makulukusa,06,,-19.7333333,27.6
+zw,makuti,Makuti,00,,-16.3,29.25
+zw,makvlela,Makvlela,06,,-19.9333333,27.2333333
+zw,makwino,Makwino,04,,-17.9666667,30.4333333
+zw,makwira,Makwira,04,,-17.9666667,30.4333333
+zw,makwiro,Makwiro,04,,-17.9666667,30.4333333
+zw,malanda,Malanda,06,,-19.8333333,27.6333333
+zw,malapati,Malapati,07,,-22.0666667,31.4166667
+zw,malhera,Malhera,07,,-20.3833333,32.25
+zw,malila,Malila,06,,-19.2,27.6666667
+zw,malindela,Malindela,06,,-20.185,28.6011111
+zw,malindi,Malindi,06,,-19.5166667,27.65
+zw,maloba,Maloba,06,,-19.3,27.6333333
+zw,malube,Malube,04,,-18.3,30.6833333
+zw,malvern,Malvern,04,,-17.9013889,31.0002778
+zw,malvulashaba,Malvulashaba,06,,-19.2833333,27.3333333
+zw,manala,Manala,06,,-19.3666667,26.9833333
+zw,mananzwa,Mananzwa,06,,-19.8,27.8333333
+zw,mandamambge,Mandamambge,07,,-20.1166667,30.3666667
+zw,mandamombge,Mandamombge,07,,-20.1166667,30.3666667
+zw,mandara,Mandara,04,,-17.7913889,31.15
+zw,mandau,Mandau,06,,-20.0833333,28.2677778
+zw,mandidzudzure,Mandidzudzure,07,,-19.8,32.8666667
+zw,mangula,Mangula,04,,-16.9,30.15
+zw,manguta,Manguta,06,,-19.4166667,27.3333333
+zw,mangwalu,Mangwalu,06,,-19.1833333,27.6833333
+zw,mangwatu,Mangwatu,06,,-19.1833333,27.6833333
+zw,mangwe,Mangwe,06,,-20.7,28.0666667
+zw,mangwende,Mangwende,04,,-18.3833333,31.35
+zw,mangwendi,Mangwendi,04,,-18.3833333,31.35
+zw,mangweni,Mangweni,06,,-19.4333333,27.1333333
+zw,manjelengwa,Manjelengwa,06,,-19.2666667,27.3666667
+zw,mankonekaze,Mankonekaze,06,,-19.4833333,27.55
+zw,mankonekazi,Mankonekazi,06,,-19.4833333,27.55
+zw,manningdale,Manningdale,06,,-20.2122222,28.6816667
+zw,manondweni,Manondweni,06,,-19.4833333,27.2833333
+zw,manresa,Manresa,04,,-17.8191667,31.1975
+zw,manubvu,Manubvu,07,,-20.2166667,31.4166667
+zw,manyati,Manyati,04,,-16.5166667,29.9833333
+zw,manzamahle,Manzamahle,06,,-19.4333333,27.6333333
+zw,manzemuhle,Manzemuhle,06,,-19.4333333,27.6333333
+zw,mapengula,Mapengula,06,,-19.3666667,27.4333333
+zw,mapili,Mapili,06,,-19.4166667,27.7166667
+zw,mapolisa,Mapolisa,07,,-21.5,28.0833333
+zw,mapulubusi,Mapulubusi,06,,-19.6,27.7666667
+zw,maramani,Maramani,07,,-22.0166667,29.3666667
+zw,maranami,Maranami,07,,-22.0166667,29.3666667
+zw,marandellas,Marandellas,04,,-18.1833333,31.55
+zw,marimba park,Marimba Park,04,,-17.8608333,30.9461111
+zw,mari phumbi,Mari Phumbi,03,,-17.2666667,31.0666667
+zw,marlands,Marlands,06,,-20.1683333,28.6713889
+zw,marlborough,Marlborough,04,,-17.7522222,31.0036111
+zw,marondera,Marondera,04,82294,-18.1833333,31.55
+zw,marongwe,Marongwe,03,,-16.2333333,31.5333333
+zw,marshbrook,Marshbrook,04,,-18.5666667,31.05
+zw,marvel a,Marvel A,06,,-20.1369444,28.6508333
+zw,marvel,Marvel,06,,-20.1191667,28.6447222
+zw,maryland junction,Maryland Junction,04,,-17.65,30.4833333
+zw,maryland,Maryland,04,,-17.65,30.4833333
+zw,masachuta,Masachuta,07,,-21.85,29.35
+zw,mashaba,Mashaba,07,,-20.05,30.4833333
+zw,mashachuta,Mashachuta,07,,-21.85,29.35
+zw,mashambahaka school,Mashambahaka School,03,,-17.5975,31.3563889
+zw,mashami,Mashami,00,,-17.0666667,28.8
+zw,mashava,Mashava,07,,-20.05,30.4833333
+zw,mashula,Mashula,06,,-19.35,27.3833333
+zw,mashule,Mashule,06,,-19.35,27.3833333
+zw,masilingana,Masilingana,06,,-19.4166667,27.1666667
+zw,masole,Masole,07,,-21.85,29.4
+zw,masvingo,Masvingo,07,86772,-20.0833333,30.8333333
+zw,maswi,Maswi,06,,-19.3,27.5166667
+zw,mataga,Mataga,07,,-20.85,30.2
+zw,matapula,Matapula,06,,-19.4333333,27.7
+zw,matemaganya,Matemaganya,06,,-19.4666667,27.4666667
+zw,matemawule,Matemawule,06,,-19.35,27.6333333
+zw,matibi,Matibi,07,,-22.0833333,30.65
+zw,matibis,Matibis,08,,-21.6833333,31.3166667
+zw,matidoda park,Matidoda Park,04,,-17.8063889,30.9686111
+zw,matinka,Matinka,00,,-17.4833333,27.9833333
+zw,matiwaza,Matiwaza,06,,-19.9666667,27.4
+zw,matoba,Matoba,07,,-19.8944444,30.7583333
+zw,matobo,Matobo,06,,-20.4166667,28.4833333
+zw,matole,Matole,06,,-19.65,27.55
+zw,matombo,Matombo,06,,-20.4166667,28.4833333
+zw,matopos,Matopos,06,,-20.4166667,28.4833333
+zw,matorashangu,Matorashangu,04,,-17.15,30.6666667
+zw,matsai township,Matsai Township,07,,-20.4666667,31.8666667
+zw,matsheumhlope lots,Matsheumhlope Lots,06,,-20.1833333,28.6333333
+zw,matsheumhlope,Matsheumhlope,06,,-20.1930556,28.6361111
+zw,matshobana,Matshobana,06,,-20.1380556,28.5525
+zw,matshwaheni,Matshwaheni,06,,-19.7666667,27.6166667
+zw,matswaheni,Matswaheni,06,,-19.7666667,27.6166667
+zw,matswaire,Matswaire,04,,-18.1833333,30.7
+zw,matupula,Matupula,06,,-19.4333333,27.7
+zw,mavele,Mavele,06,,-18.6166667,27.1666667
+zw,mayfield park,Mayfield Park,04,,-17.7886111,31.0138889
+zw,mazabisa,Mazabisa,06,,-19.7,27.65
+zw,mazabiza,Mazabiza,06,,-19.7,27.65
+zw,mazanzi,Mazanzi,06,,-19.3333333,27.6333333
+zw,mazhula,Mazhula,06,,-19.5,28.75
+zw,mazibulala,Mazibulala,06,,-19.4666667,27.3166667
+zw,mazilingana,Mazilingana,06,,-19.4166667,27.1666667
+zw,mazoe,Mazoe,04,,-17.4666667,30.9166667
+zw,mazowe,Mazowe,04,,-17.5166667,30.9666667
+zw,mazunga,Mazunga,07,,-21.7333333,29.8666667
+zw,mazunga ranch headquarters,Mazunga Ranch Headquarters,07,,-21.7333333,29.8666667
+zw,mbalabala,Mbalabala,07,,-20.45,29.05
+zw,mbamba,Mbamba,06,,-19.9166667,27.7833333
+zw,mbanuana,Mbanuana,06,,-19.3333333,27.65
+zw,mbanyana,Mbanyana,06,,-19.3333333,27.65
+zw,mbare,Mbare,04,,-17.8580556,31.0372222
+zw,mbembezi,Mbembezi,06,,-20.0,28.9333333
+zw,mberengwa,Mberengwa,07,,-20.4833333,29.9166667
+zw,mbiriya,Mbiriya,06,,-19.6666667,27.25
+zw,mbiza,Mbiza,06,,-19.2166667,27.5166667
+zw,mbizi,Mbizi,08,,-21.3833333,31.0166667
+zw,mbizo,Mbizo,06,,-19.2166667,27.5166667
+zw,mbizo,Mbizo,07,,-21.5166667,28.8666667
+zw,mbizo township,Mbizo Township,04,,-18.9166667,29.8333333
+zw,mbungu settlement,Mbungu Settlement,00,,-18.4166667,28.0166667
+zw,mcetshwa,Mcetshwa,06,,-19.35,27.6
+zw,melfort,Melfort,04,,-17.9952778,31.3194444
+zw,melsetter junction,Melsetter Junction,07,,-19.5166667,32.55
+zw,melsetter,Melsetter,07,,-19.8,32.8666667
+zw,melton,Melton,04,,-18.1,29.9333333
+zw,mendamu,Mendamu,04,,-18.3,31.3666667
+zw,meyrick park,Meyrick Park,04,,-17.8025,31.0033333
+zw,mgadzi,Mgadzi,03,,-16.9333333,31.7166667
+zw,mgodi masili,Mgodi Masili,06,,-19.7666667,27.3166667
+zw,mhanda,Mhanda,03,,-17.3666667,30.95
+zw,mhangura,Mhangura,04,,-16.9,30.15
+zw,miami,Miami,04,,-16.6666667,29.7666667
+zw,miasi,Miasi,06,,-20.0511111,28.2694444
+zw,midlands,Midlands,04,,-17.9044444,31.0141667
+zw,miketwa,Miketwa,06,,-19.2833333,27.6666667
+zw,milan,Milan,04,,-18.1333333,29.9166667
+zw,millievale,Millievale,06,,-20.2047222,28.3422222
+zw,milton park,Milton Park,04,,-17.8147222,31.0247222
+zw,mjumi,Mjumi,06,,-19.2166667,27.7
+zw,mkasa,Mkasa,07,,-20.6666667,32.2666667
+zw,mkauzaan,Mkauzaan,06,,-19.5666667,27.0666667
+zw,mkayeni,Mkayeni,06,,-19.6666667,27.5666667
+zw,mketwa,Mketwa,06,,-19.2833333,27.6666667
+zw,mkoba,Mkoba,06,,-19.4666667,29.75
+zw,mkombo,Mkombo,06,,-19.6333333,27.7166667
+zw,mkubazi,Mkubazi,06,,-19.6333333,27.6833333
+zw,mnene,Mnene,07,,-20.6166667,30.05
+zw,mneni,Mneni,07,,-20.6166667,30.05
+zw,mon abri,Mon Abri,04,,-17.745,31.0933333
+zw,monavale,Monavale,04,,-17.8047222,31.0166667
+zw,monema,Monema,06,,-19.4833333,27.45
+zw,monovale,Monovale,04,,-17.8047222,31.0166667
+zw,montgomery,Montgomery,06,,-20.0977778,28.6808333
+zw,montrose,Montrose,06,,-20.2008333,28.5675
+zw,mormon hill,Mormon Hill,04,,-16.7333333,29.8833333
+zw,morningside,Morningside,06,,-20.2019444,28.5772222
+zw,mount darwin,Mount Darwin,03,11963,-16.7833333,31.5833333
+zw,mount fura,Mount Fura,03,,-16.7833333,31.5833333
+zw,mount hampden junction,Mount Hampden Junction,04,,-17.7416667,30.9388889
+zw,mount hampden,Mount Hampden,04,,-17.7416667,30.9388889
+zw,mount hampton,Mount Hampton,04,,-17.7416667,30.9388889
+zw,mount pleasant,Mount Pleasant,04,,-17.7769444,31.0486111
+zw,mount pleasant park,Mount Pleasant Park,04,,-17.7566667,31.0419444
+zw,mowonema,Mowonema,06,,-19.4833333,27.45
+zw,moyeni,Moyeni,06,,-19.4833333,27.6166667
+zw,mpafani,Mpafani,06,,-19.7166667,27.5833333
+zw,mpate,Mpate,06,,-20.6166667,28.4
+zw,mphoeng,Mphoeng,06,,-21.2,27.85
+zw,mphoengs,Mphoengs,06,,-21.2,27.85
+zw,mphoweng,Mphoweng,06,,-21.2,27.85
+zw,mpilo,Mpilo,06,,-19.6666667,26.9666667
+zw,mpinjwana,Mpinjwana,06,,-19.1333333,27.65
+zw,mpinjwani,Mpinjwani,06,,-19.1333333,27.65
+zw,mpopoma,Mpopoma,06,,-20.145,28.5408333
+zw,mpopomo south,Mpopomo South,06,,-20.1525,28.5366667
+zw,mpulubuzi,Mpulubuzi,06,,-19.6,27.7666667
+zw,mrazor,Mrazor,00,,-16.9,29.4166667
+zw,mrewa,Mrewa,04,,-17.6469444,31.7775
+zw,msasa,Msasa,04,,-17.8405556,31.1161111
+zw,msasa park,Msasa Park,04,,-17.855,31.1097222
+zw,msonedi,Msonedi,03,,-17.1333333,30.9
+zw,msonneddi,Msonneddi,03,,-17.1333333,30.9
+zw,mswiganas kraal,Mswiganas Kraal,06,,-19.5833333,27.4666667
+zw,mtampane,Mtampane,06,,-19.4833333,27.3666667
+zw,mtawalos village,Mtawalos Village,06,,-18.95,27.5166667
+zw,mtemaganyu,Mtemaganyu,06,,-19.4666667,27.4666667
+zw,mtendere,Mtendere,04,,-17.7505556,31.1
+zw,mtepatepa,Mtepatepa,03,,-16.95,31.3333333
+zw,mtoko,Mtoko,04,,-17.4,32.2166667
+zw,mtole,Mtole,06,,-19.65,27.55
+zw,mtorashangu,Mtorashangu,04,,-17.15,30.6666667
+zw,mtoroshanga,Mtoroshanga,04,,-17.15,30.6666667
+zw,mtshayeli,Mtshayeli,06,,-19.3166667,27.3333333
+zw,mtsuli,Mtsuli,06,,-19.9666667,27.4166667
+zw,mubayira,Mubayira,04,,-18.3333333,30.6
+zw,mubayira township reserve,Mubayira Township Reserve,04,,-18.3166667,30.6
+zw,mucheke township,Mucheke Township,07,,-20.0833333,30.8166667
+zw,mucheki,Mucheki,04,,-18.15,31.85
+zw,mucibwa,Mucibwa,07,,-20.6138889,31.1138889
+zw,mufakose,Mufakose,04,,-17.8666667,30.9225
+zw,muhlonga,Muhlonga,07,,-19.9111111,29.6916667
+zw,mukuvisi,Mukuvisi,04,,-17.8563889,31.1305556
+zw,mukuvisi park,Mukuvisi Park,04,,-17.8461111,31.1086111
+zw,mukuvisi woodlands,Mukuvisi Woodlands,04,,-17.8430556,31.095
+zw,mulujawane,Mulujawane,06,,-20.3666667,28.9833333
+zw,mulujawane siding,Mulujawane Siding,06,,-20.3666667,28.9833333
+zw,mulungwane,Mulungwane,06,,-20.3666667,28.9833333
+zw,munda,Munda,06,,-20.2294444,28.6111111
+zw,munene,Munene,07,,-20.6166667,30.05
+zw,munyati,Munyati,04,,-18.65,29.7833333
+zw,murehwa,Murehwa,04,,-17.6469444,31.7775
+zw,murewa,Murewa,04,,-17.6469444,31.7775
+zw,muri pumbi,Muri Pumbi,03,,-17.2666667,31.0666667
+zw,musitkwe,Musitkwe,04,,-17.7416667,30.9388889
+zw,musondzo,Musondzo,04,,-18.3833333,30.6833333
+zw,musonza,Musonza,04,,-18.3833333,30.6833333
+zw,muswewenhede,Muswewenhede,03,,-17.1333333,30.9
+zw,mutambara,Mutambara,07,,-19.55,32.6666667
+zw,mutare,Mutare,04,253449,-18.9666667,32.6666667
+zw,mutepatepa,Mutepatepa,03,,-16.95,31.3333333
+zw,mutoko,Mutoko,04,11380,-17.4,32.2166667
+zw,mutorashanga,Mutorashanga,04,,-17.15,30.6666667
+zw,muvumi,Muvumi,04,,-19.2833333,30.5333333
+zw,muvuti,Muvuti,07,,-19.9361111,31.6361111
+zw,mvudhlana,Mvudhlana,06,,-19.7833333,27.7833333
+zw,mvuma,Mvuma,04,6498,-19.2833333,30.5333333
+zw,mvundhlana,Mvundhlana,06,,-19.7833333,27.7833333
+zw,mvurwi,Mvurwi,03,,-17.0333333,30.85
+zw,mwami,Mwami,04,,-16.6666667,29.7666667
+zw,mwanezi,Mwanezi,07,,-20.7491667,29.7013889
+zw,mwenezi,Mwenezi,07,,-20.7491667,29.7013889
+zw,mwenezi,Mwenezi,08,,-21.4166667,30.7333333
+zw,mzenzi,Mzenzi,06,,-19.4833333,27.05
+zw,mzilikazi,Mzilikazi,06,,-19.5833333,27.1333333
+zw,nakabindana,Nakabindana,06,,-19.5166667,27.2333333
+zw,nandi mill,Nandi Mill,07,,-20.9666667,31.7333333
+zw,nandi,Nandi,07,,-20.9666667,31.7333333
+zw,napemando,Napemando,06,,-20.1666667,27.6
+zw,narakati,Narakati,04,,-17.3166667,30.5166667
+zw,narira,Narira,04,,-19.0833333,31.1666667
+zw,nbira district chief camp,Nbira District Chief Camp,00,,-17.0833333,28.4
+zw,nbira,Nbira,00,,-17.0833333,28.4
+zw,ndanga,Ndanga,07,,-20.1833333,31.3333333
+zw,ndolwane,Ndolwane,06,,-19.95,27.3333333
+zw,nembe,Nembe,06,,-19.6666667,27.7
+zw,nembudzia,Nembudzia,00,,-17.6833333,29.0166667
+zw,nembudziya,Nembudziya,00,,-17.6833333,29.0166667
+zw,nenyuka,Nenyuka,00,,-17.45,28.2666667
+zw,nenyunka,Nenyunka,00,,-17.45,28.2666667
+zw,neuso business centre,Neuso Business Centre,04,,-18.5333333,30.5333333
+zw,new alexandra park,New Alexandra Park,04,,-17.7872222,31.0661111
+zw,new ardbennie,New Ardbennie,04,,-17.8830556,31.0063889
+zw,newbiggin,Newbiggin,04,,-18.1,29.9
+zw,new bromley,New Bromley,04,,-18.0833333,31.3333333
+zw,new hartley,New Hartley,04,,-18.1333333,30.15
+zw,newlands,Newlands,04,,-17.8080556,31.0816667
+zw,newmansford,Newmansford,06,,-20.1063889,28.6058333
+zw,new marlborough,New Marlborough,04,,-17.7394444,30.9730556
+zw,newton,Newton,06,,-20.2216667,28.5738889
+zw,newton west,Newton West,06,,-20.2141667,28.5583333
+zw,ngadza,Ngadza,07,,-20.1777778,30.8361111
+zw,ngesi,Ngesi,04,,-18.3833333,29.8666667
+zw,ngesi,Ngesi,07,,-20.5666667,30.4
+zw,ngezi,Ngezi,07,,-20.5666667,30.4
+zw,ngezi siding,Ngezi Siding,07,,-20.5666667,30.4
+zw,ngiki,Ngiki,06,,-19.35,28.4666667
+zw,ngoku,Ngoku,06,,-19.7,27.5
+zw,ngomahura leper settlement,Ngomahura Leper Settlement,07,,-20.4333333,30.7333333
+zw,ngomahuru,Ngomahuru,07,,-20.4333333,30.7333333
+zw,ngoma,Ngoma,06,,-19.6166667,27.5166667
+zw,nguboyenia,Nguboyenia,06,,-20.1402778,28.5644444
+zw,ngulalikashi,Ngulalikashi,06,,-19.7,27.0833333
+zw,ngundu halt,Ngundu Halt,07,,-20.8,30.8
+zw,nigonenanse,Nigonenanse,06,,-19.4666667,27.2
+zw,ningombeneshango,Ningombeneshango,06,,-19.55,27.1666667
+zw,ningombenonzi,Ningombenonzi,06,,-19.4666667,27.2
+zw,nintila,Nintila,06,,-19.5333333,27.1
+zw,nintili,Nintili,06,,-19.5333333,27.1
+zw,nizhou,Nizhou,06,,-19.4666667,27.3666667
+zw,nizhowu,Nizhowu,06,,-19.4666667,27.3666667
+zw,njube,Njube,06,,-20.1361111,28.5325
+zw,nkai,Nkai,06,,-19.0,28.9
+zw,nkanzaan,Nkanzaan,06,,-19.5666667,27.0666667
+zw,nkarakati,Nkarakati,04,,-17.3166667,30.5166667
+zw,nkayi,Nkayi,06,,-19.0,28.9
+zw,nketa,Nketa,06,,-20.1975,28.5319444
+zw,nkosikazi,Nkosikazi,06,,-19.45,27.25
+zw,nkulumane,Nkulumane,06,,-20.185,28.5169444
+zw,nkwichu,Nkwichu,06,,-19.55,27.75
+zw,nkwisi park,Nkwisi Park,04,,-17.8127778,30.965
+zw,nkwizhu,Nkwizhu,06,,-19.55,27.75
+zw,north end,North End,06,,-20.1316667,28.5911111
+zw,northgate,Northgate,06,,-20.1033333,28.6066667
+zw,northlea,Northlea,06,,-20.1013889,28.6452778
+zw,north lynne,North Lynne,06,,-20.0936111,28.5977778
+zw,north trenance estate,North Trenance Estate,06,,-20.0811111,28.5688889
+zw,north trenance,North Trenance,06,,-20.0811111,28.5688889
+zw,northwood,Northwood,04,,-17.7511111,31.0505556
+zw,norton,Norton,04,19519,-17.8833333,30.7
+zw,npuma,Npuma,06,,-20.6,28.3833333
+zw,nsukumini,Nsukumini,06,,-19.3833333,29.6
+zw,ntaba moya,Ntaba Moya,06,,-20.2277778,28.6380556
+zw,ntabazinduna,Ntabazinduna,06,,-20.0166667,28.85
+zw,ntakwa,Ntakwa,06,,-19.4,27.2833333
+zw,ntampane,Ntampane,06,,-19.4833333,27.3666667
+zw,ntawha,Ntawha,06,,-19.4,27.2833333
+zw,ntulula,Ntulula,06,,-19.3333333,27.5
+zw,ntumbuwamayi,Ntumbuwamayi,06,,-19.2833333,27.6333333
+zw,ntumbuyamai,Ntumbuyamai,06,,-19.2833333,27.6333333
+zw,nuanetsi,Nuanetsi,08,,-21.4166667,30.7333333
+zw,nxabamude,Nxabamude,06,,-19.3,27.4166667
+zw,nyabira,Nyabira,04,,-17.6666667,30.8
+zw,nyadzi,Nyadzi,06,,-19.5,27.0666667
+zw,nyakatha,Nyakatha,06,,-19.85,27.7833333
+zw,nyala,Nyala,07,,-21.9447222,31.6277778
+zw,nyamandhlovu,Nyamandhlovu,06,,-19.8666667,28.2666667
+zw,nyamandholovu,Nyamandholovu,06,,-19.8666667,28.2666667
+zw,nyamapanda customs post,Nyamapanda Customs Post,04,,-16.9666667,32.8666667
+zw,nyamapanda,Nyamapanda,04,,-16.9666667,32.8666667
+zw,nyamapande,Nyamapande,04,,-16.9666667,32.8666667
+zw,nyamkoho township,Nyamkoho Township,04,,-17.1,32.35
+zw,nyamwanga,Nyamwanga,03,,-17.2547222,31.5202778
+zw,nyamweda,Nyamweda,04,,-18.1833333,30.7
+zw,nyanda,Nyanda,07,,-20.0833333,30.8333333
+zw,nyandoros,Nyandoros,04,,-17.3666667,32.9833333
+zw,nyanga,Nyanga,04,,-18.2166667,32.75
+zw,nyanganyeni,Nyanganyeni,06,,-19.5,27.1
+zw,nyanganyuni,Nyanganyuni,06,,-19.5,27.1
+zw,nyangwene,Nyangwene,04,,-18.3166667,30.5833333
+zw,nyangweni,Nyangweni,04,,-18.3166667,30.5833333
+zw,nyanyadzi business center,Nyanyadzi Business Center,07,,-19.7666667,32.4166667
+zw,nyanyadzi,Nyanyadzi,07,,-19.7666667,32.4166667
+zw,nyariba,Nyariba,04,,-17.6666667,30.8
+zw,nyautare,Nyautare,04,,-18.9666667,32.6666667
+zw,nyazura,Nyazura,04,,-18.7166667,32.1666667
+zw,nyazure,Nyazure,04,,-18.7166667,32.1666667
+zw,nykasikana,Nykasikana,03,,-16.7333333,31.7833333
+zw,odzi,Odzi,04,,-18.9666667,32.3833333
+zw,one hundred acre lots,One Hundred Acre Lots,06,,-20.2086111,28.7213889
+zw,orange grove,Orange Grove,06,,-20.1033333,28.6219444
+zw,otto beit bridge,Otto Beit Bridge,00,,-16.0333333,28.85
+zw,oval park,Oval Park,04,,-17.8183333,31.0933333
+zw,paddonhurst,Paddonhurst,06,,-20.1411111,28.6
+zw,pakana,Pakana,06,,-19.0166667,28.55
+zw,pambuka african township,Pambuka African Township,07,,-20.4333333,29.6833333
+zw,pambuka,Pambuka,07,,-20.4333333,29.6833333
+zw,pamula,Pamula,06,,-20.1444444,28.4733333
+zw,parklands,Parklands,06,,-20.1422222,28.6227778
+zw,park meadowlands,Park Meadowlands,04,,-17.8677778,31.1152778
+zw,parkridge estate,Parkridge Estate,04,,-17.8383333,30.9158333
+zw,parktown,Parktown,04,,-17.8916667,31.03
+zw,parkview,Parkview,06,,-20.1458333,28.5947222
+zw,pashu,Pashu,00,,-18.2166667,27.4
+zw,pashus,Pashus,00,,-18.2166667,27.4
+zw,patalika,Patalika,06,,-19.65,27.05
+zw,pearson settlement,Pearson Settlement,04,,-17.6333333,30.95
+zw,pelandaba,Pelandaba,06,,-20.1483333,28.5211111
+zw,pelela,Pelela,06,,-19.65,27.15
+zw,pelendaba,Pelendaba,06,,-19.5333333,26.9166667
+zw,pembe,Pembe,06,,-19.9333333,27.2666667
+zw,pendennis,Pendennis,06,,-20.2333333,28.3333333
+zw,penhalonga,Penhalonga,04,,-18.8833333,32.6833333
+zw,pfupajena,Pfupajena,04,,-18.1333333,30.1333333
+zw,philadelphia,Philadelphia,04,,-17.7119444,31.1225
+zw,plumtree,Plumtree,06,,-20.4833333,27.8166667
+zw,pomona,Pomona,04,,-17.7541667,31.0863889
+zw,pondo,Pondo,06,,-19.5833333,27.6666667
+zw,poomula,Poomula,04,,-18.1833333,31.4
+zw,poorte river,Poorte River,03,,-17.33,31.4955556
+zw,prospect park,Prospect Park,04,,-17.8736111,31.0636111
+zw,prospect,Prospect,04,,-17.8852778,31.0525
+zw,protea,Protea,03,,-17.3333333,31.0333333
+zw,pumula african township,Pumula African Township,06,,-20.1444444,28.4733333
+zw,pumula east,Pumula East,06,,-20.1469444,28.4922222
+zw,pumula north,Pumula North,06,,-20.1375,28.4858333
+zw,pumula,Pumula,06,,-19.3333333,27.5333333
+zw,qedajaha,Qedajaha,06,,-19.2666667,27.4333333
+zw,quedajaha,Quedajaha,06,,-19.2666667,27.4333333
+zw,queensdale,Queensdale,04,,-17.8541667,31.0922222
+zw,queensdale,Queensdale,06,,-20.095,28.6127778
+zw,queens mine,Queens Mine,06,,-19.8,28.75
+zw,que que,Que Que,04,,-18.9166667,29.8166667
+zw,quinnington,Quinnington,04,,-17.7347222,31.1219444
+zw,raffingora,Raffingora,04,,-17.0333333,30.4333333
+zw,rangemore,Rangemore,06,,-20.1852778,28.495
+zw,raylton,Raylton,06,,-20.1627778,28.5686111
+zw,redcliffe,Redcliffe,06,38231,-19.0333333,29.7833333
+zw,redcliff,Redcliff,06,,-19.0333333,29.7833333
+zw,reigate,Reigate,06,,-20.0875,28.635
+zw,rhodesville,Rhodesville,04,,-17.8241667,31.0986111
+zw,richmond,Richmond,06,,-20.085,28.5519444
+zw,ridgeview,Ridgeview,04,,-17.8375,31.0163889
+zw,rietfontein,Rietfontein,04,,-17.7819444,31.0994444
+zw,rimuka,Rimuka,04,,-18.35,29.8833333
+zw,riverside estates,Riverside Estates,06,,-20.1883333,28.6516667
+zw,riverside north,Riverside North,06,,-20.1808333,28.6491667
+zw,riverside south,Riverside South,06,,-20.2144444,28.6525
+zw,robert sinyoka,Robert Sinyoka,06,,-20.1366667,28.4569444
+zw,robert sinyoka suburb,Robert Sinyoka Suburb,06,,-20.1366667,28.4569444
+zw,rocky spruit,Rocky Spruit,04,,-18.3166667,31.1333333
+zw,rolfe valley,Rolfe Valley,04,,-17.7672222,31.1152778
+zw,rolf valley,Rolf Valley,04,,-17.7672222,31.1152778
+zw,romney park,Romney Park,06,,-20.1230556,28.6097222
+zw,rosa,Rosa,03,,-17.135,31.0441667
+zw,rosmalind,Rosmalind,06,,-19.3666667,29.5666667
+zw,rowa,Rowa,07,,-19.1666667,32.6166667
+zw,rowena,Rowena,06,,-20.1194444,28.5838889
+zw,rugare,Rugare,04,,-17.8547222,30.99
+zw,rugari,Rugari,04,,-17.8547222,30.99
+zw,rukodora,Rukodora,04,,-17.8608333,30.9461111
+zw,runiville,Runiville,04,,-17.8088889,31.0988889
+zw,runnivale,Runnivale,04,,-17.8088889,31.0988889
+zw,rupepwe,Rupepwe,07,,-19.7333333,30.6666667
+zw,rupisi,Rupisi,07,,-20.3666667,32.4
+zw,rurgwe,Rurgwe,07,,-20.05,31.2666667
+zw,rurwi,Rurwi,07,,-20.05,31.2666667
+zw,rusape,Rusape,04,23761,-18.5333333,32.1166667
+zw,rusapi,Rusapi,04,,-18.5333333,32.1166667
+zw,rutenga,Rutenga,08,,-21.25,30.7333333
+zw,ruwa,Ruwa,04,,-17.8875,31.2444444
+zw,rwatsumbu,Rwatsumbu,04,,-18.6833333,32.6333333
+zw,ryelands,Ryelands,04,,-17.7461111,31.0925
+zw,saba,Saba,00,,-18.0166667,27.1333333
+zw,sablevale,Sablevale,06,,-20.9166667,28.95
+zw,sableville,Sableville,06,,-20.9166667,28.95
+zw,sadza,Sadza,04,,-18.9,31.2833333
+zw,sahlupeka,Sahlupeka,06,,-19.6333333,27.1
+zw,saint andrews park,Saint Andrews Park,04,,-17.8069444,30.9955556
+zw,saint martins,Saint Martins,04,,-17.8597222,31.0611111
+zw,saint marys,Saint Marys,04,,-17.9833333,31.0666667
+zw,sakubva,Sakubva,04,,-18.9833333,32.6166667
+zw,salagushle,Salagushle,00,,-18.4833333,29.4166667
+zw,salankomo,Salankomo,06,,-19.55,27.05
+zw,salisbury park,Salisbury Park,04,,-17.8586111,30.95
+zw,salisbury,Salisbury,04,,-17.8177778,31.0447222
+zw,salukwe,Salukwe,07,,-19.6666667,30.0
+zw,samlupeka,Samlupeka,06,,-19.6333333,27.1
+zw,sandawana,Sandawana,06,,-19.6833333,27.3833333
+zw,sanyati,Sanyati,04,,-18.65,29.7833333
+zw,sanyatwe,Sanyatwe,04,,-18.3666667,32.6
+zw,sauers,Sauers,06,,-20.1111111,28.5969444
+zw,sauers town,Sauers Town,06,,-20.1111111,28.5969444
+zw,sauers township,Sauers Township,06,,-20.1111111,28.5969444
+zw,sauers town west,Sauers Town West,06,,-20.1075,28.5919444
+zw,sava,Sava,00,,-18.0166667,27.1333333
+zw,sawa sawa,Sawa Sawa,07,,-20.9666667,30.2666667
+zw,sawmills,Sawmills,06,,-19.5833333,28.0333333
+zw,science park,Science Park,04,,-17.6963889,31.0905556
+zw,seboza,Seboza,07,,-21.6669444,29.1247222
+zw,sedhlwini,Sedhlwini,06,,-19.7,27.4666667
+zw,seke,Seke,04,,-18.1,31.1666667
+zw,seki african township,Seki African Township,04,,-18.0333333,31.1
+zw,seki,Seki,04,,-18.0166667,31.1
+zw,seki township,Seki Township,04,,-18.0166667,31.1
+zw,selous,Selous,04,,-18.0833333,30.45
+zw,selukwe,Selukwe,07,,-19.6666667,30.0
+zw,semawuru,Semawuru,06,,-19.4833333,27.1833333
+zw,senka,Senka,06,,-19.5,29.75
+zw,sentosa,Sentosa,04,,-17.7908333,31.01
+zw,setana,Setana,07,,-22.1333333,30.6666667
+zw,sewela,Sewela,06,,-19.1833333,27.5166667
+zw,shabani,Shabani,07,,-20.3333333,30.0333333
+zw,shaba,Shaba,06,,-20.05,27.7666667
+zw,shagari,Shagari,04,,-18.0666667,29.85
+zw,shamaburu,Shamaburu,07,,-19.7,29.6666667
+zw,shamva,Shamva,03,,-17.3155556,31.5705556
+zw,shangani,Shangani,06,,-19.0,28.9
+zw,shavani,Shavani,07,,-20.3333333,30.0333333
+zw,shawasha hills,Shawasha Hills,04,,-17.7533333,31.1986111
+zw,shawila,Shawila,06,,-20.2166667,27.2833333
+zw,sheleni,Sheleni,06,,-21.0833333,27.7166667
+zw,sherwood park,Sherwood Park,04,,-17.7797222,31.0180556
+zw,sherwood,Sherwood,04,,-17.7183333,31.1172222
+zw,shingwe,Shingwe,06,,-20.15,27.3
+zw,shololezhou,Shololezhou,06,,-19.7666667,27.75
+zw,shortson,Shortson,04,,-17.9044444,31.0141667
+zw,shoteli,Shoteli,07,,-21.9666667,29.3666667
+zw,shurugwi,Shurugwi,07,17107,-19.6666667,30.0
+zw,siabuwa,Siabuwa,00,,-17.4666667,28.05
+zw,sibanjiba,Sibanjiba,06,,-19.35,27.4
+zw,sibunkululu,Sibunkululu,06,,-19.6666667,27.6166667
+zw,sigwini,Sigwini,06,,-19.45,27.0666667
+zw,sihazela,Sihazela,06,,-19.4,27.2
+zw,sikende,Sikende,06,,-19.8333333,27.2166667
+zw,silisi,Silisi,06,,-20.2333333,27.3
+zw,silobela,Silobela,06,,-18.9833333,29.3
+zw,silonkwe,Silonkwe,06,,-19.5666667,27.0333333
+zw,simchembo,Simchembo,00,,-17.4833333,27.8833333
+zw,sinamatella camp,Sinamatella Camp,00,,-18.5833333,26.3166667
+zw,sinamatila camp,Sinamatila Camp,00,,-18.5833333,26.3166667
+zw,sinangeti,Sinangeti,06,,-19.4333333,27.4
+zw,sinoia,Sinoia,04,,-17.3666667,30.2
+zw,sinyoni,Sinyoni,07,,-22.2,30.35
+zw,sipolilo,Sipolilo,04,,-16.6666667,30.7
+zw,sipongweni,Sipongweni,06,,-19.25,27.7166667
+zw,siqwini,Siqwini,06,,-19.45,27.0666667
+zw,siringa,Siringa,06,,-19.9166667,27.3666667
+zw,sitambala,Sitambala,06,,-19.1666667,27.5166667
+zw,sitambarara,Sitambarara,06,,-19.1666667,27.5166667
+zw,sitauze,Sitauze,07,,-21.5166667,29.5333333
+zw,sitauzis,Sitauzis,07,,-21.5166667,29.5333333
+zw,siwela,Siwela,06,,-19.1833333,27.5166667
+zw,siwila,Siwila,06,,-19.7333333,27.7166667
+zw,siwile,Siwile,06,,-19.7333333,27.7166667
+zw,siyangiya,Siyangiya,06,,-20.0333333,27.7666667
+zw,sizinda,Sizinda,06,,-20.1727778,28.5427778
+zw,sodaka,Sodaka,06,,-19.4,27.0833333
+zw,solonkwe,Solonkwe,06,,-19.5666667,27.0333333
+zw,somabhula,Somabhula,07,,-19.7,29.6666667
+zw,somabula,Somabula,07,,-19.7,29.6666667
+zw,somkaya,Somkaya,06,,-19.2,27.6166667
+zw,somlata,Somlata,06,,-19.55,27.4166667
+zw,somlota,Somlota,06,,-19.55,27.4166667
+zw,somqibe,Somqibe,06,,-19.7,27.6833333
+zw,somquibe,Somquibe,06,,-19.7,27.6833333
+zw,sontamba,Sontamba,06,,-19.7833333,27.6833333
+zw,sontambo,Sontambo,06,,-19.7833333,27.6833333
+zw,sosera,Sosera,07,,-20.0166667,31.4666667
+zw,sote source,Sote Source,04,,-19.4666667,31.2166667
+zw,soti source,Soti Source,04,,-19.4666667,31.2166667
+zw,southdale,Southdale,06,,-20.2280556,28.6294444
+zw,southerton,Southerton,04,,-17.8636111,31.0191667
+zw,southwold,Southwold,06,,-20.1980556,28.5586111
+zw,spingwini,Spingwini,06,,-19.8333333,27.7833333
+zw,springfontein,Springfontein,07,,-20.24,28.2563889
+zw,st. andrews park,St. Andrews Park,04,,-17.8069444,30.9955556
+zw,stapleford,Stapleford,04,,-18.7333333,32.8
+zw,steeldale,Steeldale,06,,-20.1591667,28.56
+zw,st. martins,St. Martins,04,,-17.8597222,31.0611111
+zw,stortford,Stortford,04,,-17.7977778,30.9655556
+zw,strathaven,Strathaven,04,,-17.7919444,31.0236111
+zw,strathmore,Strathmore,04,,-17.7483333,31.0269444
+zw,stubbington park,Stubbington Park,04,,-17.7525,31.0516667
+zw,suburbs,Suburbs,06,,-20.1583333,28.6011111
+zw,sunningdale,Sunningdale,04,,-17.8677778,31.0561111
+zw,sunninghill,Sunninghill,06,,-20.1747222,28.6627778
+zw,sunnyside,Sunnyside,06,,-20.1311111,28.6030556
+zw,sunridge,Sunridge,04,,-17.7738889,30.9997222
+zw,sunrise,Sunrise,04,,-17.7708333,30.9977778
+zw,susmani,Susmani,06,,-19.65,27.65
+zw,susumani,Susumani,06,,-19.65,27.65
+zw,suswe,Suswe,04,,-17.15,32.3833333
+zw,sutskwe township,Sutskwe Township,04,,-17.15,32.3833333
+zw,sweswe,Sweswe,04,,-18.45,29.8166667
+zw,tabas induna,Tabas Induna,06,,-20.0619444,28.7194444
+zw,tafara,Tafara,04,,-17.8352778,31.2111111
+zw,taikoo,Taikoo,04,,-16.7166667,30.9
+zw,tamhla,Tamhla,06,,-19.3166667,27.6833333
+zw,tamuhle,Tamuhle,06,,-19.3166667,27.6833333
+zw,tandaai,Tandaai,07,,-19.6,32.8
+zw,tandai,Tandai,07,,-19.6,32.8
+zw,tandayi,Tandayi,07,,-19.6,32.8
+zw,tankahokwe,Tankahokwe,06,,-19.6333333,27.0666667
+zw,tankahukwe,Tankahukwe,06,,-19.6333333,27.0666667
+zw,tegela,Tegela,06,,-20.1230556,28.6027778
+zw,tembile,Tembile,06,,-19.7,27.0333333
+zw,tembili,Tembili,06,,-19.7,27.0333333
+zw,teneriffe,Teneriffe,04,,-17.7352778,30.9152778
+zw,the grange,The Grange,04,,-17.7733333,31.1405556
+zw,the helenvale block,The Helenvale Block,06,,-20.0297222,28.4641667
+zw,the jungle,The Jungle,06,,-20.0927778,28.5744444
+zw,the range,The Range,04,,-19.0,31.0333333
+zw,the springs,The Springs,06,,-20.1491667,28.7372222
+zw,theydon,Theydon,04,,-18.1666667,31.6833333
+zw,thistle etna,Thistle Etna,04,,-18.3666667,30.0833333
+zw,thorngrove,Thorngrove,06,,-20.1472222,28.5644444
+zw,tizoras,Tizoras,04,,-17.4,32.9333333
+zw,tjagacuhle,Tjagacuhle,06,,-19.2666667,27.55
+zw,tjolotjo,Tjolotjo,06,,-19.7666667,27.75
+zw,tongwe,Tongwe,07,,-21.9172222,30.0272222
+zw,torwood,Torwood,06,,-19.0166667,29.7333333
+zw,towla,Towla,07,,-21.4333333,29.9
+zw,trelawney,Trelawney,04,,-17.5333333,30.45
+zw,trenance,Trenance,06,,-20.0811111,28.5688889
+zw,triangle ranch,Triangle Ranch,07,,-20.95,31.3666667
+zw,triangle,Triangle,07,,-20.95,31.3666667
+zw,tsambvi,Tsambvi,03,,-17.3155556,31.5705556
+zw,tsamvi,Tsamvi,03,,-17.3155556,31.5705556
+zw,tsetana,Tsetana,07,,-22.1333333,30.6666667
+zw,tsetseri,Tsetseri,06,,-19.6666667,27.1333333
+zw,tshabalala,Tshabalala,06,,-20.1788889,28.5341667
+zw,tshabanda,Tshabanda,06,,-20.1166667,27.9
+zw,tshakapika,Tshakapika,06,,-19.25,27.6333333
+zw,tshayile,Tshayile,06,,-19.3166667,27.3333333
+zw,tshefu tshefu,Tshefu Tshefu,06,,-19.1666667,27.5833333
+zw,tshibizena,Tshibizena,06,,-19.5333333,27.2833333
+zw,tshibizina,Tshibizina,06,,-19.5333333,27.2833333
+zw,tshino,Tshino,06,,-19.4166667,27.6333333
+zw,tshinu,Tshinu,06,,-19.4166667,27.6333333
+zw,tshitashwana,Tshitashwana,06,,-19.6833333,27.4333333
+zw,tshitatshawa,Tshitatshawa,06,,-19.6833333,27.4333333
+zw,tshiturapadsi,Tshiturapadsi,07,,-22.2,30.7833333
+zw,tshiyakwakiwe,Tshiyakwakiwe,06,,-19.45,27.0166667
+zw,tshiyakwakwe,Tshiyakwakwe,06,,-19.45,27.0166667
+zw,tsholotsho,Tsholotsho,06,,-19.7666667,27.75
+zw,tstetseri,Tstetseri,06,,-19.6666667,27.1333333
+zw,tswiza,Tswiza,08,,-21.8152778,31.5708333
+zw,tudeley,Tudeley,04,,-17.7680556,31.0475
+zw,tulamela,Tulamela,06,,-19.5333333,27.2166667
+zw,tulamila,Tulamila,06,,-19.5333333,27.2166667
+zw,tuli,Tuli,07,,-21.9166667,29.2
+zw,tullichewan,Tullichewan,04,,-18.0333333,31.3166667
+zw,turk mine,Turk Mine,06,,-19.7166667,28.8
+zw,tynwald south,Tynwald South,04,,-17.8080556,30.9425
+zw,tynwald,Tynwald,04,,-17.8102778,30.955
+zw,uhera,Uhera,04,,-19.3333333,31.4333333
+zw,umganine,Umganine,06,,-20.2016667,28.5344444
+zw,umganin,Umganin,06,,-20.2016667,28.5344444
+zw,umgusa estate,Umgusa Estate,06,,-20.075,28.5852778
+zw,umgusa,Umgusa,06,,-20.075,28.5852778
+zw,umguza estate,Umguza Estate,06,,-20.075,28.5852778
+zw,umguza,Umguza,06,,-20.075,28.5852778
+zw,umsweswe siding,Umsweswe Siding,04,,-18.45,29.8166667
+zw,umsweswe,Umsweswe,04,,-18.45,29.8166667
+zw,umtali,Umtali,04,,-18.9666667,32.6666667
+zw,umvukwes,Umvukwes,03,,-17.0333333,30.85
+zw,umvuma,Umvuma,04,,-19.2833333,30.5333333
+zw,umvutcha a,Umvutcha A,06,,-20.0519444,28.5886111
+zw,umvutcha,Umvutcha,06,,-20.0669444,28.5813889
+zw,umwinsidale,Umwinsidale,04,,-17.7161111,31.1872222
+zw,uplands,Uplands,04,,-17.9205556,31.0291667
+zw,upper glenville,Upper Glenville,06,,-20.0930556,28.5538889
+zw,upper rangemore,Upper Rangemore,06,,-20.1986111,28.4891667
+zw,ushehwokunze,Ushehwokunze,04,,-18.1666667,31.2333333
+zw,usher institute,Usher Institute,06,,-20.3833333,28.2166667
+zw,ushewokunze,Ushewokunze,04,,-18.1666667,31.2333333
+zw,vainona,Vainona,04,,-17.7569444,31.0744444
+zw,valencedene,Valencedene,04,,-17.7933333,31.0102778
+zw,valence dene,Valence Dene,04,,-17.7933333,31.0102778
+zw,vengere,Vengere,04,,-18.55,32.1166667
+zw,ventersburg,Ventersburg,04,,-17.8633333,31.1672222
+zw,verona,Verona,03,,-17.2833333,31.0666667
+zw,victoria falls,Victoria Falls,00,36702,-17.9333333,25.8333333
+zw,villa franca,Villa Franca,03,,-17.2666667,31.05
+zw,vozheka,Vozheka,06,,-19.1333333,27.5333333
+zw,vozueka,Vozueka,06,,-19.1333333,27.5333333
+zw,vrede,Vrede,04,,-18.95,30.2833333
+zw,vulashaba,Vulashaba,06,,-19.2833333,27.3333333
+zw,wallace block,Wallace Block,04,,-17.7411111,31.1361111
+zw,wange,Wange,00,,-18.3666667,26.4833333
+zw,wankie,Wankie,00,,-18.3666667,26.4833333
+zw,warren park d,Warren Park D,04,,-17.8316667,30.9622222
+zw,warren park north,Warren Park North,04,,-17.8158333,30.975
+zw,warren park,Warren Park,04,,-17.8302778,30.9822222
+zw,warren,Warren,04,,-17.8302778,30.9822222
+zw,waterfalls,Waterfalls,04,,-17.9186111,31.0016667
+zw,waterfall,Waterfall,04,,-17.9186111,31.0016667
+zw,waterford,Waterford,06,,-20.2280556,28.6594444
+zw,waterlea,Waterlea,06,,-20.0961111,28.6227778
+zw,watsomba,Watsomba,04,,-18.6833333,32.6333333
+zw,wedza,Wedza,04,,-18.6166667,31.5666667
+zw,welcome,Welcome,06,,-20.2255556,28.2788889
+zw,westgate,Westgate,06,,-20.1675,28.5563889
+zw,west nicholson,West Nicholson,07,,-21.0666667,29.3666667
+zw,westondale,Westondale,06,,-20.1555556,28.5538889
+zw,west queens park,West Queens Park,06,,-20.1136111,28.6047222
+zw,westwood,Westwood,04,,-17.8494444,30.9808333
+zw,west wood,West Wood,04,,-17.8494444,30.9808333
+zw,wha wha,Wha Wha,06,,-19.3666667,30.0166667
+zw,whitecairns,Whitecairns,06,,-20.205,28.595
+zw,white star,White Star,06,,-20.2069444,28.6097222
+zw,willowvale,Willowvale,04,,-17.8805556,30.9744444
+zw,willow vale,Willow Vale,04,,-17.8805556,30.9744444
+zw,willsgrove,Willsgrove,06,,-20.1652778,28.6794444
+zw,wilmington park,Wilmington Park,04,,-17.8502778,31.0838889
+zw,wilton,Wilton,04,,-18.4,31.7666667
+zw,winchendon,Winchendon,04,,-17.7183333,31.1172222
+zw,windsor park,Windsor Park,06,,-20.1,28.55
+zw,woodlands,Woodlands,06,,-20.1708333,28.6180556
+zw,woodville park,Woodville Park,06,,-20.1063889,28.6527778
+zw,woodville south,Woodville South,06,,-20.1005556,28.6527778
+zw,woodville,Woodville,06,,-20.08,28.6583333
+zw,workington,Workington,04,,-17.8480556,31.015
+zw,worringham,Worringham,07,,-20.2336111,28.7466667
+zw,xabamude,Xabamude,06,,-19.3,27.4166667
+zw,xanixani,Xanixani,06,,-19.4833333,27.4333333
+zw,xhani xhani,Xhani Xhani,06,,-19.4833333,27.4333333
+zw,xoboholo,Xoboholo,06,,-19.4333333,27.2333333
+zw,xotjeni,Xotjeni,06,,-19.3,27.5333333
+zw,zabagwadi,Zabagwadi,06,,-19.5833333,27.7333333
+zw,zaka,Zaka,07,,-20.35,31.45
+zw,zamqaweni,Zamqaweni,06,,-19.4166667,27.0333333
+zw,zandile,Zandile,06,,-19.1833333,27.4666667
+zw,zandi,Zandi,06,,-19.1833333,27.4666667
+zw,zanyika,Zanyika,04,,-17.55,31.8166667
+zw,zemalapala,Zemalapala,06,,-19.4333333,27.55
+zw,zemandana,Zemandana,06,,-19.4333333,27.5166667
+zw,zemanda,Zemanda,06,,-19.45,27.5166667
+zw,zibalonkwe,Zibalonkwe,06,,-19.8333333,27.4666667
+zw,zibunkululu,Zibunkululu,06,,-19.6666667,27.6166667
+zw,ziga,Ziga,06,,-19.2166667,27.4833333
+zw,zikamanas village,Zikamanas Village,00,,-18.2166667,27.95
+zw,zimbabwe,Zimbabwe,07,,-20.2666667,30.9166667
+zw,zimre park,Zimre Park,04,,-17.8661111,31.2136111
+zw,ziyakamanas,Ziyakamanas,00,,-18.2166667,27.95
+zw,zizalisari,Zizalisari,04,,-17.7588889,31.0105556
+zw,zuzumba,Zuzumba,06,,-20.0333333,27.9333333
+zw,zvishavane,Zvishavane,07,79876,-20.3333333,30.0333333

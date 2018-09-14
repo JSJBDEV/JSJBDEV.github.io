@@ -1,0 +1,85 @@
+vc,adelphi,Adelphi,01,,13.1833333,-61.1333333
+vc,arnos vale,Arnos Vale,04,,13.1333333,-61.2
+vc,ashton,Ashton,06,,12.5833333,-61.4333333
+vc,baiabu,Baiabu,01,,13.2,-61.1333333
+vc,barawally,Barawally,05,,13.2333333,-61.2666667
+vc,barroualie,Barroualie,05,1902,13.2333333,-61.2666667
+vc,barrouallie,Barrouallie,05,,13.2333333,-61.2666667
+vc,barrualli,Barrualli,05,,13.2333333,-61.2666667
+vc,bednoe,Bednoe,06,,12.95,-61.25
+vc,belle vue,Belle Vue,01,,13.2333333,-61.1166667
+vc,belmont,Belmont,04,,13.15,-61.1833333
+vc,bequia,Bequia,01,,13.2833333,-61.1333333
+vc,biabou,Biabou,01,1050,13.2,-61.1333333
+vc,brighton,Brighton,04,,13.1333333,-61.1666667
+vc,brighton village,Brighton Village,04,,13.1333333,-61.1666667
+vc,byera village,Byera Village,01,,13.25,-61.1166667
+vc,caliaqua,Caliaqua,04,,13.1166667,-61.1833333
+vc,calliagda,Calliagda,04,,13.1166667,-61.1833333
+vc,calliaqua,Calliaqua,04,,13.1166667,-61.1833333
+vc,camden park,Camden Park,02,,13.1666667,-61.2333333
+vc,chapmans,Chapmans,01,,13.2833333,-61.1166667
+vc,charlestown,Charlestown,06,,12.6833333,-61.3333333
+vc,chateaubelair,Chateaubelair,03,735,13.2833333,-61.25
+vc,chauncey,Chauncey,02,,13.1666667,-61.2333333
+vc,cheltenham,Cheltenham,06,,12.8833333,-61.1833333
+vc,clare valley,Clare Valley,02,,13.1666667,-61.25
+vc,clifton,Clifton,06,,12.5833333,-61.4166667
+vc,cliftons,Cliftons,06,,12.5833333,-61.4166667
+vc,colonarie,Colonarie,01,,13.2333333,-61.1166667
+vc,derrick,Derrick,06,,12.9833333,-61.25
+vc,dovers,Dovers,06,525,12.8833333,-61.1833333
+vc,dubois,Dubois,02,,13.1833333,-61.2333333
+vc,edinboro,Edinboro,02,,13.1575,-61.2444444
+vc,fancy,Fancy,01,,13.3666667,-61.1666667
+vc,francois,Francois,02,,13.2,-61.2166667
+vc,friendly,Friendly,01,,13.2333333,-61.1166667
+vc,friendship,Friendship,06,,12.9833333,-61.2333333
+vc,georgetown,Georgetown,01,1708,13.2666667,-61.1166667
+vc,greathead,Greathead,04,,13.1441667,-61.2208333
+vc,greiggs,Greiggs,01,,13.2,-61.15
+vc,hermitage,Hermitage,05,,13.2333333,-61.2166667
+vc,kingstown,Kingstown,04,17995,13.1333333,-61.2166667
+vc,kingstown park,Kingstown Park,04,,13.1583333,-61.235
+vc,layou,Layou,05,1609,13.2,-61.2666667
+vc,liberty lodge,Liberty Lodge,02,,13.1658333,-61.2316667
+vc,lovell village,Lovell Village,06,,12.8833333,-61.1833333
+vc,mesopatamia,Mesopatamia,01,,13.1666667,-61.1666667
+vc,mesopotamia,Mesopotamia,01,,13.1666667,-61.1666667
+vc,montrose,Montrose,02,,13.1666667,-61.2333333
+vc,new sandy bay village,New Sandy Bay Village,01,,13.35,-61.1333333
+vc,north union,North Union,01,,13.2166667,-61.1333333
+vc,o'briens,O'Briens,01,,13.2833333,-61.1333333
+vc,old wall,Old Wall,06,,12.6333333,-61.3833333
+vc,orange hill,Orange Hill,01,,13.3166667,-61.1166667
+vc,paget farm,Paget Farm,06,,12.9833333,-61.25
+vc,pembroke,Pembroke,02,,13.1833333,-61.25
+vc,peruvian vale,Peruvian Vale,01,,13.1666667,-61.1333333
+vc,port-elisabeth,Port-Elisabeth,06,,13.0166667,-61.2333333
+vc,port elizabeth,Port Elizabeth,06,839,13.0166667,-61.2333333
+vc,princes town,Princes Town,05,,13.2333333,-61.2666667
+vc,questelles,Questelles,02,,13.1666667,-61.2333333
+vc,rabaca,Rabaca,01,,13.3,-61.15
+vc,rabacca,Rabacca,01,,13.3,-61.15
+vc,rabaka,Rabaka,01,,13.3,-61.15
+vc,redemption,Redemption,02,,13.1644444,-61.2294444
+vc,ribishi,Ribishi,04,,13.1333333,-61.1833333
+vc,richland park,Richland Park,01,,13.2,-61.1666667
+vc,richmond,Richmond,03,,13.2833333,-61.25
+vc,richmond town,Richmond Town,03,,13.2833333,-61.25
+vc,richmond vale,Richmond Vale,03,,13.2833333,-61.2333333
+vc,rosehall,Rosehall,03,,13.2666667,-61.2333333
+vc,rutland vale,Rutland Vale,05,,13.2,-61.2833333
+vc,rutland vale village,Rutland Vale Village,05,,13.2,-61.2833333
+vc,sans souci,Sans Souci,01,,13.2166667,-61.1166667
+vc,south rivers,South Rivers,01,,13.2333333,-61.1333333
+vc,spring village,Spring Village,05,,13.25,-61.2333333
+vc,stubbs,Stubbs,04,,13.1333333,-61.15
+vc,tourama,Tourama,01,,13.3333333,-61.15
+vc,troumaka,Troumaka,03,,13.2666667,-61.25
+vc,turema,Turema,01,,13.3333333,-61.15
+vc,union,Union,06,,13.0,-61.2333333
+vc,vermont,Vermont,02,,13.2,-61.2166667
+vc,wallibou,Wallibou,03,,13.3166667,-61.2166667
+vc,wallibu,Wallibu,03,,13.3166667,-61.2166667
+vc,waterloo,Waterloo,01,,13.3,-61.1333333

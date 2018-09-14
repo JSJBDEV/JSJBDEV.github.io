@@ -1,0 +1,22 @@
+vi,anderson,Anderson,00,,18.4333333,-64.6333333
+vi,belle vue,Belle Vue,00,,18.45,-64.7333333
+vi,cane garden bay,Cane Garden Bay,00,,18.4166667,-64.65
+vi,creek village,Creek Village,00,,18.4911111,-64.3811111
+vi,freshwater pond,Freshwater Pond,00,,18.3833333,-64.6666667
+vi,great carrot bay,Great Carrot Bay,00,,18.4,-64.6666667
+vi,great mountain,Great Mountain,00,,18.4333333,-64.6166667
+vi,hannah,Hannah,00,,18.4,-64.6333333
+vi,kingstown,Kingstown,00,,18.4166667,-64.5833333
+vi,leonards,Leonards,00,,18.4166667,-64.6333333
+vi,lettsome settlement,Lettsome Settlement,00,,18.45,-64.7166667
+vi,little carrot bay,Little Carrot Bay,00,,18.4,-64.6666667
+vi,little harbour,Little Harbour,00,,18.4333333,-64.7166667
+vi,long swamp,Long Swamp,00,,18.4333333,-64.5666667
+vi,maya cove,Maya Cove,00,,18.4166667,-64.5666667
+vi,road town,Road Town,00,,18.4166667,-64.6166667
+vi,south sound,South Sound,00,,18.4833333,-64.3833333
+vi,spanish town,Spanish Town,00,,18.45,-64.4333333
+vi,the mill,The Mill,00,,18.45,-64.5333333
+vi,the settlement,The Settlement,00,,18.7166667,-64.3166667
+vi,threllfall,Threllfall,00,,18.4,-64.6333333
+vi,wesley will,Wesley Will,00,,18.4333333,-64.6

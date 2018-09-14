@@ -1,0 +1,122 @@
+yt,accua,Accua,00,,-12.7225,45.0563889
+yt,acoua,Acoua,00,5350,-12.7225,45.0563889
+yt,andrema,Andréma,00,,-12.6786111,45.0977778
+yt,apandzo,Apandzo,00,,-12.8305556,45.1302778
+yt,bambo est,Bambo Est,00,,-12.9261111,45.1738889
+yt,bambo ouest,Bambo Ouest,00,,-12.9219444,45.0872222
+yt,bandraboua,Bandraboua,00,7882,-12.7016667,45.1205556
+yt,bandrajou,Bandrajou,00,,-12.7452778,45.2186111
+yt,bandrani,Bandrani,00,,-12.845,45.1019444
+yt,bandrele,Bandrélé,00,6352,-12.9066667,45.1913889
+yt,barakani,Barakani,00,,-12.835,45.1280556
+yt,boueni,Bouéni,00,5335,-12.9025,45.0761111
+yt,bouilloni,Bouilloni,00,,-12.7355556,45.1383333
+yt,bouyouni,Bouyouni,00,,-12.7355556,45.1383333
+yt,chembenioumba,Chembénioumba,00,,-12.7622222,45.0752778
+yt,chembenyoumba,Chembényoumba,00,,-12.7622222,45.0752778
+yt,chiconi,Chiconi,00,7205,-12.8333333,45.1105556
+yt,chirongui,Chirongui,00,6174,-12.9319444,45.1483333
+yt,choungui,Choungui,00,,-12.9594444,45.1244444
+yt,choungui keli,Choungui Kéli,00,,-12.9686111,45.1308333
+yt,coconi,Coconi,00,,-12.8330556,45.1347222
+yt,combani,Combani,00,,-12.7863889,45.1336111
+yt,dapani,Dapani,00,,-12.9691667,45.1588889
+yt,djivani,Djivani,00,,-12.8313889,45.12
+yt,doujani,Doujani,00,,-12.7908333,45.2138889
+yt,dzaoudzi,Dzaoudzi,00,14144,-12.7794444,45.2536111
+yt,dzoumogne,Dzoumogne,00,,-12.7172222,45.1127778
+yt,dzoumonye,Dzoumonyé,00,,-12.7172222,45.1127778
+yt,florence,Florence,00,,-12.8597222,45.1916667
+yt,foungoujou,Foungoujou,00,,-12.7838889,45.2588889
+yt,gnambo,Gnambo,00,,-12.7069444,45.1205556
+yt,hachenoua,Hachénoua,00,,-12.7872222,45.1111111
+yt,hajangoua,Hajangoua,00,,-12.8655556,45.1933333
+yt,hamjago,Hamjago,00,,-12.6858333,45.0719444
+yt,hamouro,Hamouro,00,,-12.8786111,45.2133333
+yt,handrema,Handréma,00,,-12.6786111,45.0977778
+yt,hanyoundrou,Hanyoundrou,00,,-12.9005556,45.0986111
+yt,iloni,Iloni,00,,-12.8411111,45.1888889
+yt,ironi be,Ironi Bé,00,,-12.8305556,45.1886111
+yt,kahani,Kahani,00,,-12.8208333,45.1294444
+yt,kangani,Kangani,00,,-12.7272222,45.185
+yt,kani be,Kani Bé,00,,-12.9613889,45.1091667
+yt,kani keli,Kani Kéli,00,,-12.9536111,45.1033333
+yt,kaoueni,Kaouéni,00,,-12.7702778,45.2180556
+yt,karoni,Karoni,00,,-12.9288889,45.1172222
+yt,kavani,Kavani,00,,-12.7788889,45.2188889
+yt,kongo,Kongo,00,,-12.7336111,45.2041667
+yt,kouale,Koualé,00,,-12.7952778,45.1641667
+yt,kouale-legion,Koualé-Légion,00,,-12.795,45.1861111
+yt,koungou,Koungou,00,18121,-12.7336111,45.2041667
+yt,labattoir,Labattoir,00,,-12.785,45.2702778
+yt,la ferme,La Ferme,00,,-12.7844444,45.2775
+yt,longoni,Longoni,00,,-12.7316667,45.1611111
+yt,maboungani,Maboungani,00,,-12.8705556,45.1975
+yt,majikavo 1,Majikavo 1,00,,-12.7497222,45.2286111
+yt,majikavo 2,Majikavo 2,00,,-12.7413889,45.2169444
+yt,majikavo koropa,Majikavo Koropa,00,,-12.7413889,45.2169444
+yt,majikavo lamir,Majikavo Lamir,00,,-12.7497222,45.2286111
+yt,majimeouni,Majiméouni,00,,-12.9222222,45.1058333
+yt,malamani,Malamani,00,,-12.9169444,45.1563889
+yt,mambutzou,Mambutzou,00,,-12.7794444,45.2272222
+yt,mamoudzou,Mamoudzou,00,54837,-12.7794444,45.2272222
+yt,mamoutzou,Mamoutzou,00,,-12.7794444,45.2272222
+yt,mamutzu,Mamutzu,00,,-12.7794444,45.2272222
+yt,mangajou,Mangajou,00,,-12.8416667,45.1138889
+yt,manyassini,Manyassini,00,,-12.8888889,45.1411111
+yt,mboueanatsa,Mbouéanatsa,00,,-12.9416667,45.0997222
+yt,mbouini,Mbouini,00,,-12.9875,45.1347222
+yt,mbouyouni,Mbouyouni,00,,-12.9027778,45.1486111
+yt,m'gombani,M'Gombani,00,,-12.7016667,45.1205556
+yt,mirereni,Miréréni,00,,-12.7863889,45.1386111
+yt,mitseni,Mitséni,00,,-12.7358333,45.1438889
+yt,m'jago,M'Jago,00,,-12.7069444,45.1205556
+yt,mliha,Mliha,00,,-12.7483333,45.0530556
+yt,mouanatrindi,Mouanatrindi,00,,-12.8969444,45.0952778
+yt,mounadzini,Mounadzini,00,,-12.8930556,45.14
+yt,moutsamoudou,Moutsamoudou,00,,-12.9605556,45.1733333
+yt,moutsatoundou,Moutsatoundou,00,,-12.9152778,45.1827778
+yt,moutsoumbatsou,Moutsoumbatsou,00,,-12.7408333,45.0505556
+yt,mramadoudou,Mramadoudou,00,,-12.9252778,45.1511111
+yt,mrereni be,Mréréni Bé,00,,-12.9030556,45.1527778
+yt,mrereni,Mréréni,00,,-12.9022222,45.1491667
+yt,mronaleia,Mronaléia,00,,-12.9769444,45.1216667
+yt,mronyombeni,Mronyombéni,00,,-12.7847222,45.2622222
+yt,mrowale,Mrowalé,00,,-12.7866667,45.1252778
+yt,mtsahara,Mtsahara,00,,-12.6791667,45.0797222
+yt,mtsamboro,Mtsamboro,00,7725,-12.6966667,45.0666667
+yt,mtsamgamouji,Mtsamgamouji,00,,-12.7594444,45.0836111
+yt,mtsangachehi,Mtsangachéhi,00,,-12.8833333,45.1294444
+yt,m'tsangadoi,M'Tsangadoi,00,,-12.7080556,45.0477778
+yt,mtsangadoua,Mtsangadoua,00,,-12.7080556,45.0477778
+yt,m'tsangamboi,M'Tsangamboi,00,,-12.6883333,45.1075
+yt,mtsangamboua,Mtsangamboua,00,,-12.6883333,45.1075
+yt,m'tsangamouji,M'Tsangamouji,00,,-12.7594444,45.0836111
+yt,mtsapere,Mtsapéré,00,,-12.7877778,45.2183333
+yt,musicale plage,Musicale Plage,00,,-12.9152778,45.1827778
+yt,m'zamboro,M'Zamboro,00,,-12.6966667,45.0666667
+yt,mzouazia,Mzouazia,00,,-12.9255556,45.1011111
+yt,ngouja,Ngouja,00,,-12.9591667,45.0836111
+yt,nyambadao,Nyambadao,00,,-12.8905556,45.2008333
+yt,nyambo,Nyambo,00,,-12.7069444,45.1205556
+yt,ongojou,Ongojou,00,,-12.8347222,45.1563889
+yt,ouangani,Ouangani,00,7273,-12.8463889,45.1361111
+yt,pamandzi,Pamandzi,00,,-12.7963889,45.2736111
+yt,passamainti,Passamaïnti,00,,-12.7988889,45.2102778
+yt,passi keli,Passi Kéli,00,,-12.9833333,45.1244444
+yt,poroani,Poroani,00,,-12.8894444,45.1383333
+yt,rampe cannelle,Rampe Cannelle,00,,-12.9363889,45.14
+yt,sada,Sada,00,9834,-12.8480556,45.0975
+yt,sazile,Sazilé,00,,-12.9819444,45.1788889
+yt,sohoa kavani,Sohoa Kavani,00,,-12.8186111,45.1061111
+yt,sohoa keli,Sohoa Kéli,00,,-12.8211111,45.1033333
+yt,sohoa,Sohoa,00,,-12.8197222,45.1036111
+yt,tanaraki,Tanaraki,00,,-12.7561111,45.0666667
+yt,trevani,Trévani,00,,-12.7308333,45.1961111
+yt,trotrondjeou,Trotrondjéou,00,,-12.8041667,45.2036111
+yt,tsararano,Tsararano,00,,-12.8338889,45.1725
+yt,tsimkoura,Tsimkoura,00,,-12.9372222,45.1352778
+yt,tsingoni,Tsingoni,00,7603,-12.7872222,45.1027778
+yt,tsoundzou 1,Tsoundzou 1,00,,-12.8041667,45.2036111
+yt,tsoundzou 2,Tsoundzou 2,00,,-12.8133333,45.1966667
+yt,vahibeni,Vahibéni,00,,-12.7819444,45.1705556
