@@ -1,0 +1,91 @@
+dj,adi adda,Adi Adda,01,,11.1333333,42.8858333
+dj,airolaf,Airolaf,05,,11.7702778,42.6519444
+dj,airoli,Airoli,02,,11.0036111,42.1025
+dj,alaili dadda`,Alaili Dadda`,04,,12.4216667,42.8955556
+dj,alayli dadda`,Alayli Dadda`,04,,12.4216667,42.8955556
+dj,ali ada,Ali Ada,01,,11.1333333,42.8858333
+dj,ali adda,Ali Adda,01,,11.1333333,42.8858333
+dj,ali adda courant,Ali Adda Courant,01,,11.1333333,42.8858333
+dj,`ali `adde,`Ali `Addé,01,,11.1333333,42.8858333
+dj,aliadh,Aliadh,01,,11.1333333,42.8858333
+dj,ali sabie,Ali Sabiè,01,,11.1558333,42.7125
+dj,`ali sabieh,`Ali Sabieh,01,,11.1558333,42.7125
+dj,ali sabiet,Ali Sabiet,01,,11.1558333,42.7125
+dj,`ali sabih,`Ali Sabih,01,,11.1558333,42.7125
+dj,ambabbo,Ambabbo,05,,11.7511111,42.8144444
+dj,amboua,Amboua,03,,11.5694444,43.1366667
+dj,ambouli,Ambouli,03,,11.5694444,43.1366667
+dj,ambua,Ambua,03,,11.5694444,43.1366667
+dj,angarou,Angârou,04,,12.3866667,43.3347222
+dj,anghar,Anghar,04,,12.3866667,43.3347222
+dj,`arta,`Arta,08,,11.5222222,42.8419444
+dj,`as `ela,`As `Êla,02,,11.0036111,42.1025
+dj,assa-ela,Assa-ela,02,,11.0036111,42.1025
+dj,`assa gaila,`Assa Gaïla,05,,12.1916667,42.6416667
+dj,ass'eyla,Ass'èyla,02,,11.0036111,42.1025
+dj,balho,Balho,05,,12.0583333,42.1955556
+dj,bankouale,Bankoualé,05,,11.8227778,42.6736111
+dj,bankouwale,Bankouwâle,05,,11.8227778,42.6736111
+dj,bissidiro,Bissîdiro,04,,12.645,42.9733333
+dj,boul'aos,Boûl'aos,03,,11.5833333,43.15
+dj,boulaos camp,Boulaos Camp,03,,11.5833333,43.15
+dj,boulas,Boulas,03,,11.5833333,43.15
+dj,boul`aws,Boûl`aws,03,,11.5833333,43.15
+dj,bulaos,Bulaos,03,,11.5833333,43.15
+dj,camp boulaos,Camp Boulaos,03,,11.5833333,43.15
+dj,dadda`to,Dadda`to,04,,12.3727778,42.7113889
+dj,damerdjog,Damêrdjôg,03,,11.4855556,43.1872222
+dj,danan,Danan,01,,11.1833333,42.9333333
+dj,dicchil,Dicchil,06,,11.1086111,42.3738889
+dj,digri,Digri,01,,11.2975,42.8533333
+dj,dikhil,Dikhil,06,,11.1086111,42.3738889
+dj,dikil,Dikil,06,,11.1086111,42.3738889
+dj,dikkil,Dikkil,06,,11.1086111,42.3738889
+dj,dikri,Dikri,01,,11.2975,42.8533333
+dj,djibouti,Djibouti,03,,11.595,43.1480556
+dj,djibuti,Djibuti,03,,11.595,43.1480556
+dj,dorra,Dorra,05,,12.1494444,42.4775
+dj,gaherre,Gaherré,04,,12.2869444,43.3555556
+dj,galafi,Gâlâfi,02,,11.7158333,41.8361111
+dj,gibuti,Gibuti,03,,11.595,43.1480556
+dj,goubatto,Goubatto,01,,11.4238889,43.0002778
+dj,goubeto,Goubéto,01,,11.4166667,42.9833333
+dj,goubeto station,Goubeto Station,01,,11.4166667,42.9833333
+dj,goubetto,Goubétto,01,,11.4238889,43.0002778
+dj,hayyou,Hayyou,04,,11.9630556,43.2905556
+dj,hi±oumbouli,HÌ±oumbouli,03,,11.5694444,43.1366667
+dj,holhol,Holhol,01,,11.3102778,42.9294444
+dj,hol holl,Hol Holl,01,,11.3102778,42.9294444
+dj,holl-holl,Holl-Holl,01,,11.3102778,42.9294444
+dj,jibouti,Jibouti,03,,11.595,43.1480556
+dj,jibuti,Jibuti,03,623891,11.595,43.1480556
+dj,khor `angar,Khôr `Angar,04,,12.3866667,43.3347222
+dj,khor-anghar,Khor-Anghar,04,,12.3866667,43.3347222
+dj,kouta bouyya,Koûta Boûyya,02,,11.0161111,41.9619444
+dj,la`assa,Lâ`assa,04,,12.3558333,43.1563889
+dj,la plaine,La Plaine,03,,11.6,43.15
+dj,la-waada,La-waada,03,,11.4611111,43.2527778
+dj,loya ada,Loya Ada,03,,11.4611111,43.2527778
+dj,loyada,Loyada,03,,11.4611111,43.2527778
+dj,loyi ada,Loyi Ada,03,,11.4611111,43.2527778
+dj,medeho,Médého,04,,11.9730556,43.0261111
+dj,mee doho,Méé Dôho,04,,11.9730556,43.0261111
+dj,mouddo,Mouddo,05,,12.3,42.4333333
+dj,moulhoule,Moulhoulé,04,,12.5916667,43.2
+dj,obock,Obock,04,,11.9630556,43.2905556
+dj,obok,Obok,04,,11.9630556,43.2905556
+dj,oue`a,Ouê`a,03,,11.5030556,42.8552778
+dj,oue`a,Ouê`a,05,,11.6905556,42.6866667
+dj,poste d' anghor,Poste d' Anghor,04,,12.3866667,43.3347222
+dj,randa,Randa,05,,11.8469444,42.6605556
+dj,sedorre,Sêdorre,04,,12.3633333,43.1891667
+dj,tadjoura,Tadjoura,05,,11.7852778,42.8844444
+dj,tadjura,Tadjura,05,,11.7852778,42.8844444
+dj,tagiura,Tagiura,05,,11.7852778,42.8844444
+dj,tajura,Tajura,05,,11.7852778,42.8844444
+dj,teoao,Teoao,02,,11.4383333,42.0572222
+dj,tewao,Tewao,02,,11.4383333,42.0572222
+dj,tew`o,Tew`o,02,,11.4383333,42.0572222
+dj,we`a,Wê`a,03,,11.5030556,42.8552778
+dj,we`a,Wê`a,05,,11.6905556,42.6866667
+dj,yoboki,Yoboki,02,,11.5113889,42.1063889

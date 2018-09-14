@@ -1,0 +1,317 @@
+gd,adelphia,Adelphia,01,,12.1,-61.6666667
+gd,adelphi,Adelphi,01,,12.1,-61.6666667
+gd,amber belair,Amber Belair,03,,12.0,-61.75
+gd,apres tout,Après Tout,02,,12.05,-61.6666667
+gd,argyle,Argyle,06,,12.45,-61.4833333
+gd,arthur seat,Arthur Seat,06,,12.1666667,-61.6333333
+gd,baillies bacolet,Baillies Bacolet,02,,12.0333333,-61.6833333
+gd,bamboo,Bamboo,03,,12.0,-61.7833333
+gd,barique,Barique,06,,12.1666667,-61.65
+gd,barrow,Barrow,02,,12.05,-61.7
+gd,battle hill,Battle Hill,01,,12.1,-61.6166667
+gd,beaton,Beaton,02,,12.0333333,-61.7
+gd,beaulieu,Beaulieu,03,,12.0666667,-61.7333333
+gd,beauregard,Beauregard,01,,12.1,-61.6666667
+gd,becke moui,Becke Moui,02,,12.0166667,-61.7
+gd,belair,Belair,01,,12.15,-61.6166667
+gd,belair,Belair,06,,12.4833333,-61.4333333
+gd,belle isle,Belle Isle,02,,12.0333333,-61.65
+gd,belle plain,Belle Plain,02,,12.0333333,-61.7166667
+gd,bellevue,Bellevue,01,,12.1,-61.65
+gd,bellevue,Bellevue,02,,12.05,-61.65
+gd,bellevue,Bellevue,05,,12.1833333,-61.6833333
+gd,belmont,Belmont,03,,12.0333333,-61.75
+gd,belmont,Belmont,05,,12.1833333,-61.6833333
+gd,belmont,Belmont,06,,12.1666667,-61.6333333
+gd,belvedere,Belvedere,06,,12.5,-61.4333333
+gd,belvidere,Belvidere,01,,12.1333333,-61.7
+gd,birch grove,Birch Grove,01,,12.1,-61.6666667
+gd,blaize,Blaize,01,,12.15,-61.65
+gd,blow hole,Blow Hole,03,,11.9833333,-61.7833333
+gd,boca,Boca,03,,12.0666667,-61.7166667
+gd,bogles,Bogles,06,,12.5,-61.4333333
+gd,bois de gannes,Bois de Gannes,02,,12.0333333,-61.7
+gd,brandon hall,Brandon Hall,01,,12.1166667,-61.6333333
+gd,brisant,Brisant,03,,12.1,-61.75
+gd,brizan,Brizan,03,,12.1,-61.75
+gd,bylands,Bylands,01,,12.1333333,-61.6666667
+gd,cafe,Café,03,,12.0333333,-61.7333333
+gd,calivigny,Calivigny,03,,12.0166667,-61.7333333
+gd,calliste,Calliste,03,,12.0,-61.7666667
+gd,calliste land settlement,Calliste Land Settlement,03,,12.0,-61.7666667
+gd,canne fond,Canne Fond,03,,12.0166667,-61.7166667
+gd,carriere,Carriere,06,,12.1666667,-61.6333333
+gd,castaigne,Castaigne,01,,12.1166667,-61.6666667
+gd,castle hill,Castle Hill,06,,12.1833333,-61.6666667
+gd,celeste,Celeste,06,,12.2166667,-61.6333333
+gd,chadeau,Chadeau,01,,12.1333333,-61.6833333
+gd,champs fleurs,Champs Fleurs,02,,12.05,-61.6833333
+gd,chantimelle,Chantimelle,06,,12.2,-61.65
+gd,charlotte town,Charlotte Town,04,,12.1666667,-61.7333333
+gd,charlotte vale,Charlotte Vale,02,,12.0333333,-61.7
+gd,chutz,Chutz,01,,12.1,-61.65
+gd,clabony,Clabony,01,,12.1333333,-61.6666667
+gd,clarkes court,Clarkes Court,03,,12.0333333,-61.7333333
+gd,clozier,Clozier,01,,12.1333333,-61.6833333
+gd,concord,Concord,04,,12.1166667,-61.7333333
+gd,confer,Confer,03,,12.0166667,-61.7166667
+gd,conference,Conference,01,,12.15,-61.6166667
+gd,constantine,Constantine,03,,12.0666667,-61.7166667
+gd,content,Content,02,,12.0333333,-61.6666667
+gd,corbeau town,Corbeau Town,02,,12.0333333,-61.7166667
+gd,corinth,Corinth,02,,12.0333333,-61.6666667
+gd,crayfish,Crayfish,05,,12.2,-61.6833333
+gd,crochu,Crochu,02,,12.05,-61.65
+gd,d'arbeau,D'Arbeau,03,,12.05,-61.75
+gd,deblando,Deblando,01,,12.1,-61.6333333
+gd,des isles,Des Isles,06,,12.2166667,-61.6666667
+gd,diego piece,Diego Piece,06,,12.2,-61.6666667
+gd,dothan,Dothan,04,,12.1333333,-61.7333333
+gd,dover,Dover,06,,12.5,-61.4333333
+gd,dumfermline,Dumfermline,01,,12.1333333,-61.6166667
+gd,dumfries,Dumfries,06,,12.4666667,-61.4666667
+gd,dunfermline,Dunfermline,01,,12.1333333,-61.6166667
+gd,duquesne,Duquesne,06,,12.2,-61.6666667
+gd,egmont,Egmont,03,,12.0,-61.7166667
+gd,elie hall,Elie Hall,06,,12.2,-61.6333333
+gd,epping forest,Epping Forest,02,,12.0333333,-61.7
+gd,fairfield,Fairfield,02,,12.05,-61.65
+gd,falaise,Falaise,03,,12.0333333,-61.75
+gd,falege,Falege,03,,12.0333333,-61.75
+gd,felix park,Felix Park,01,,12.0666667,-61.65
+gd,florida,Florida,04,,12.15,-61.7
+gd,fontenoy,Fontenoy,03,,12.0666667,-61.75
+gd,ford,Ford,01,,12.1166667,-61.6166667
+gd,fort jeudy,Fort Jeudy,03,,12.0,-61.7
+gd,fort royal,Fort Royal,03,,12.05,-61.75
+gd,frequente,Frequente,03,,12.0,-61.7666667
+gd,georgetown,Georgetown,03,,12.05,-61.75
+gd,golflands,Golflands,03,,12.0166667,-61.75
+gd,gouave,Gouave,04,,12.1666667,-61.7333333
+gd,gouyave,Gouyave,04,3378,12.1666667,-61.7333333
+gd,goyave,Goyave,04,,12.1666667,-61.7333333
+gd,grand ance,Grand Ance,03,,12.0166667,-61.75
+gd,grand anse,Grand Anse,03,,12.0166667,-61.75
+gd,grand bay,Grand Bay,06,,12.4833333,-61.4333333
+gd,grand bra,Grand Bra,01,,12.1333333,-61.6333333
+gd,grand bras,Grand Bras,01,,12.1166667,-61.6333333
+gd,grand mal,Grand Mal,03,,12.0666667,-61.75
+gd,grand pauve,Grand Pauve,05,,12.1833333,-61.7
+gd,grand pauvre,Grand Pauvre,05,,12.1833333,-61.7
+gd,grand roy,Grand Roy,04,,12.1166667,-61.75
+gd,granton,Granton,03,,12.0833333,-61.7166667
+gd,grenada city,Grenada City,03,,12.05,-61.75
+gd,grenville,Grenville,01,2476,12.1166667,-61.6166667
+gd,gretna green,Gretna Green,03,,12.05,-61.75
+gd,guyave,Guyave,04,,12.1666667,-61.7333333
+gd,gwa kay,Gwa Kay,03,,12.0166667,-61.7666667
+gd,happy hill,Happy Hill,03,,12.0833333,-61.75
+gd,harford village,Harford Village,01,,12.1166667,-61.6333333
+gd,helvellyn,Helvellyn,06,,12.2166667,-61.6333333
+gd,hermitage,Hermitage,03,,12.0666667,-61.7333333
+gd,hermitage,Hermitage,06,,12.1666667,-61.6333333
+gd,hermon,Hermon,01,,12.15,-61.6166667
+gd,hillsborough,Hillsborough,06,770,12.4833333,-61.4666667
+gd,hope bacolet,Hope Bacolet,01,,12.0833333,-61.6166667
+gd,horne,Horne,03,,12.0,-61.75
+gd,hyde park,Hyde Park,03,,12.05,-61.7333333
+gd,industry,Industry,06,,12.2166667,-61.6833333
+gd,ka-fe beau,Ka-fe Beau,03,,12.0333333,-61.75
+gd,la baye,La Baye,01,,12.1166667,-61.6166667
+gd,laborie,Laborie,02,,12.0333333,-61.7166667
+gd,la didue,La Didue,01,,12.1,-61.6333333
+gd,la digue,La Digue,01,,12.1,-61.6333333
+gd,la femme,La Femme,02,,12.0333333,-61.7
+gd,la filette,La Filette,01,,12.1333333,-61.6333333
+gd,la fortune,La Fortune,06,,12.2166667,-61.6333333
+gd,la mode,La Mode,03,,12.0666667,-61.7333333
+gd,la mode,La Mode,06,,12.2,-61.6333333
+gd,lance aux epines,Lance aux Épines,03,,11.9833333,-61.75
+gd,la poterie,La Poterie,01,,12.1666667,-61.6
+gd,l'appelle,L'Appelle,06,,12.5166667,-61.4333333
+gd,la taste,La Taste,06,,12.1833333,-61.6166667
+gd,laura,Laura,02,,12.0333333,-61.7
+gd,le sausos,Le Sausos,06,,12.2166667,-61.6666667
+gd,l'esperance,L'Esperance,05,,12.1833333,-61.7
+gd,l'esterre,L'Esterre,01,,12.1166667,-61.6333333
+gd,l'esterre,L'Esterre,06,,12.4666667,-61.4833333
+gd,l'etage,L'Etage,06,,12.1833333,-61.6333333
+gd,levera development,Levera Development,06,,12.2,-61.6166667
+gd,levera,Levera,06,,12.2166667,-61.6333333
+gd,lewis,Lewis,03,,12.05,-61.75
+gd,lower capitol,Lower Capitol,01,,12.1166667,-61.6666667
+gd,lower la tante,Lower La Tante,01,,12.05,-61.6333333
+gd,lower la taste,Lower La Taste,06,,12.1833333,-61.6166667
+gd,lower pearl,Lower Pearl,01,,12.1333333,-61.6166667
+gd,lower pearls,Lower Pearls,01,,12.1333333,-61.6166667
+gd,lower woburn,Lower Woburn,03,,12.0166667,-61.7333333
+gd,mabouya,Mabouya,04,,12.15,-61.7333333
+gd,mahot,Mahot,01,,12.05,-61.6333333
+gd,maliniere,Maliniere,03,,12.0833333,-61.75
+gd,mamma cannes,Mamma Cannes,01,,12.0666667,-61.65
+gd,mango,Mango,03,,12.0833333,-61.7166667
+gd,maran,Maran,05,,12.1666667,-61.7166667
+gd,mardigras,Mardigras,02,,12.05,-61.7
+gd,mardigras,Mardigras,03,,12.05,-61.7166667
+gd,marian,Marian,03,,12.0166667,-61.7166667
+gd,marigot,Marigot,04,,12.1166667,-61.75
+gd,marli,Marli,06,,12.2166667,-61.6333333
+gd,marlmount,Marlmount,02,,12.05,-61.65
+gd,marquis,Marquis,01,,12.0833333,-61.6166667
+gd,maulti,Maulti,02,,12.0333333,-61.6666667
+gd,meldrum,Meldrum,06,,12.5,-61.4333333
+gd,merebeau,Merebeau,01,,12.1166667,-61.65
+gd,mirabeau,Mirabeau,01,,12.1166667,-61.65
+gd,moliniere,Molinière,03,,12.0833333,-61.75
+gd,mon plaisir,Mon Plaisir,04,,12.1166667,-61.7166667
+gd,mon repos,Mon Repos,02,,12.0333333,-61.6666667
+gd,mont carmel,Mont Carmel,01,,12.0833333,-61.6333333
+gd,mont moritz,Mont Moritz,03,,12.0666667,-61.7333333
+gd,montreuil,Montreuil,06,,12.1833333,-61.6333333
+gd,mont tout,Mont Tout,03,,12.0166667,-61.75
+gd,morne docteur,Morne Docteur,03,,12.1,-61.75
+gd,morne fendue,Morne Fendue,06,,12.2,-61.6333333
+gd,morne fondue,Morne Fondue,06,,12.2,-61.6333333
+gd,morne jaloux,Morne Jaloux,01,,12.1333333,-61.6833333
+gd,morne jaloux,Morne Jaloux,03,,12.0166667,-61.7333333
+gd,morne jaloux ridge,Morne Jaloux Ridge,03,,12.0333333,-61.7333333
+gd,morne longue,Morne Longue,01,,12.1166667,-61.6833333
+gd,morne rouge,Morne Rouge,03,,12.0166667,-61.7666667
+gd,morne tranquille,Morne Tranquille,02,,12.05,-61.7
+gd,mount agnes,Mount Agnes,01,,12.0666667,-61.6666667
+gd,mount airy,Mount Airy,02,,12.0333333,-61.7166667
+gd,mount alexander,Mount Alexander,06,,12.2166667,-61.65
+gd,mount carmel,Mount Carmel,01,,12.0833333,-61.6333333
+gd,mount cassell land settlement,Mount Cassell Land Settlement,01,,12.0666667,-61.65
+gd,mount cenis,Mount Cenis,05,,12.1666667,-61.7
+gd,mount craven,Mount Craven,06,,12.2166667,-61.65
+gd,mount desir,Mount Desir,03,,12.0166667,-61.7333333
+gd,mount fann,Mount Fann,01,,12.0833333,-61.6333333
+gd,mount gay,Mount Gay,03,,12.05,-61.7333333
+gd,mount helicon,Mount Helicon,03,,12.05,-61.7333333
+gd,mount hope,Mount Hope,01,,12.15,-61.6666667
+gd,mount horne,Mount Horne,01,,12.1333333,-61.6333333
+gd,mount marice,Mount Marice,03,,12.0666667,-61.7333333
+gd,mount morice,Mount Morice,03,,12.0666667,-61.7333333
+gd,mount moritz land settlement,Mount Moritz Land Settlement,03,,12.0833333,-61.7333333
+gd,mount moritz,Mount Moritz,03,,12.0666667,-61.7333333
+gd,mount nesbit land settlement,Mount Nesbit Land Settlement,04,,12.1333333,-61.7166667
+gd,mount nesbit,Mount Nesbit,04,,12.1333333,-61.7166667
+gd,mount pleasant,Mount Pleasant,02,,12.05,-61.7
+gd,mount pleasant,Mount Pleasant,06,,12.4666667,-61.4333333
+gd,mount rich,Mount Rich,06,,12.1833333,-61.6333333
+gd,mount rose,Mount Rose,02,,12.0333333,-61.7166667
+gd,mount rose,Mount Rose,06,,12.1833333,-61.6166667
+gd,mount royal,Mount Royal,03,,12.05,-61.75
+gd,mount stanhope,Mount Stanhope,05,,12.1833333,-61.6833333
+gd,mount weldale,Mount Weldale,03,,12.05,-61.75
+gd,mount william,Mount William,01,,12.0666667,-61.6666667
+gd,mount william,Mount William,06,,12.2166667,-61.6666667
+gd,moya,Moya,01,,12.15,-61.6166667
+gd,munich,Munich,01,,12.0833333,-61.6333333
+gd,new hampshire,New Hampshire,03,,12.0833333,-61.7166667
+gd,nianganfoix,Nianganfoix,01,,12.1166667,-61.6666667
+gd,nonpareil,Nonpareil,05,,12.2,-61.6833333
+gd,paddock,Paddock,03,,12.0333333,-61.7333333
+gd,panorama,Panorama,06,,12.2166667,-61.65
+gd,paraclete,Paraclete,01,,12.15,-61.6333333
+gd,parade,Parade,03,,12.05,-61.7333333
+gd,paradise,Paradise,01,,12.1333333,-61.6166667
+gd,paradise,Paradise,01,,12.1333333,-61.6833333
+gd,pearls,Pearls,01,,12.15,-61.6166667
+gd,pecher,Pêcher,01,,12.1166667,-61.6833333
+gd,peggys whim,Peggys Whim,06,,12.1666667,-61.6333333
+gd,perdmontemps,Perdmontemps,02,,12.05,-61.7
+gd,petit bacaye,Petit Bacaye,02,,12.0166667,-61.6833333
+gd,petit balthazar,Petit Balthazar,01,,12.1,-61.6666667
+gd,petit bouc,Petit Bouc,03,,12.0166667,-61.75
+gd,petit calivigny,Petit Calivigny,03,,12.0,-61.7166667
+gd,petit etang,Petit Étang,02,,12.05,-61.6833333
+gd,pierre marie,Pierre Marie,01,,12.0666667,-61.65
+gd,plaisance land settlement,Plaisance Land Settlement,01,,12.1333333,-61.6833333
+gd,plaisance,Plaisance,01,,12.1,-61.6333333
+gd,pomme rose,Pomme Rose,02,,12.05,-61.65
+gd,port louis,Port Louis,03,,12.05,-61.75
+gd,port royal,Port Royal,03,,12.05,-61.75
+gd,post royal,Post Royal,01,,12.1,-61.6333333
+gd,prospect,Prospect,06,,12.2166667,-61.6666667
+gd,providence,Providence,02,,12.05,-61.6666667
+gd,pyrenees,Pyrénées,01,,12.1333333,-61.6666667
+gd,radix,Radix,03,,12.05,-61.7166667
+gd,ravine,Ravine,03,,12.05,-61.7333333
+gd,retreat,Retreat,01,,12.0666667,-61.6666667
+gd,retreat,Retreat,03,,12.0666667,-61.7166667
+gd,richmond hill,Richmond Hill,03,,12.05,-61.7333333
+gd,richmond,Richmond,01,,12.1,-61.65
+gd,richmond,Richmond,03,,12.1,-61.7333333
+gd,river sallee,River Sallee,06,,12.2,-61.6166667
+gd,riviere sallee,Rivière Sallee,06,,12.2,-61.6166667
+gd,rose hill,Rose Hill,06,,12.2,-61.6166667
+gd,rosemont,Rosemont,04,,12.15,-61.7
+gd,ruth howard,Ruth Howard,03,,12.0166667,-61.75
+gd,saint cloud,Saint Cloud,01,,12.1166667,-61.6333333
+gd,saint cyr,Saint Cyr,01,,12.1166667,-61.65
+gd,saint david's,Saint David's,02,,12.0333333,-61.6666667
+gd,saint george,Saint George,03,,12.05,-61.75
+gd,saint george's,Saint George's,03,,12.05,-61.75
+gd,saint james,Saint James,01,,12.1,-61.65
+gd,saint john,Saint John,01,,12.1166667,-61.6333333
+gd,saint margaret,Saint Margaret,01,,12.1,-61.6833333
+gd,saint mark,Saint Mark,05,,12.1833333,-61.7
+gd,saint marks,Saint Marks,05,,12.1833333,-61.7
+gd,saint mark village,Saint Mark Village,05,,12.1833333,-61.7
+gd,saint mary,Saint Mary,04,,12.15,-61.7
+gd,saint omer,Saint Omer,01,,12.1333333,-61.6666667
+gd,saint paul's,Saint Paul's,02,,12.0333333,-61.7166667
+gd,saint paul's,Saint Paul's,03,,12.05,-61.7166667
+gd,sans souci,Sans Souci,03,,12.05,-61.75
+gd,sauteurs,Sauteurs,06,1320,12.2166667,-61.6333333
+gd,sautiers,Sautiers,06,,12.2166667,-61.6333333
+gd,simon,Simon,01,,12.1333333,-61.6166667
+gd,six roads,Six Roads,06,,12.4666667,-61.45
+gd,snug corner,Snug Corner,03,,12.0666667,-61.7333333
+gd,soubise,Soubise,01,,12.1,-61.6166667
+gd,springs,Springs,03,,12.0333333,-61.7333333
+gd,syracuse,Syracuse,02,,12.0333333,-61.6833333
+gd,tanteen,Tanteen,03,,12.0333333,-61.7333333
+gd,telescope,Telescope,01,,12.1166667,-61.6166667
+gd,tempe,Tempe,03,,12.05,-61.7333333
+gd,temple,Temple,03,,12.05,-61.7333333
+gd,terre cannes,Terre Cannes,01,,12.0666667,-61.6666667
+gd,thebaide,Thebaide,02,,12.05,-61.6666667
+gd,thebaid,Thebaid,02,,12.05,-61.6666667
+gd,the bocas,The Bocas,03,,12.0333333,-61.7333333
+gd,the cliff,The Cliff,03,,12.0166667,-61.7333333
+gd,the lance,The Lance,05,,12.1666667,-61.7166667
+gd,the lime,The Lime,03,,12.0166667,-61.7666667
+gd,the park,The Park,03,,12.05,-61.7166667
+gd,tivoli,Tivoli,01,,12.1666667,-61.6166667
+gd,trevellan,Trevellan,06,,12.2166667,-61.6333333
+gd,tricolar,Tricolar,06,,12.1833333,-61.65
+gd,true blue,True Blue,03,,12.0,-61.7666667
+gd,union,Union,01,,12.1,-61.6333333
+gd,union,Union,06,,12.2,-61.65
+gd,union village,Union Village,01,,12.1,-61.6333333
+gd,upper capitol,Upper Capitol,01,,12.1166667,-61.6666667
+gd,upper conference,Upper Conference,01,,12.15,-61.6166667
+gd,upper la tante,Upper La Tante,02,,12.05,-61.65
+gd,upper la taste,Upper La Taste,06,,12.1833333,-61.6166667
+gd,upper pearls,Upper Pearls,01,,12.15,-61.6166667
+gd,upper pearl,Upper Pearl,01,,12.15,-61.6166667
+gd,vendome,Vendôme,03,,12.0666667,-61.7166667
+gd,victoria,Victoria,05,2256,12.1833333,-61.7
+gd,vincennes,Vincennes,02,,12.05,-61.6833333
+gd,vineyard,Vineyard,02,,12.05,-61.7
+gd,waltham,Waltham,05,,12.2,-61.7
+gd,welcome hall,Welcome Hall,06,,12.2,-61.65
+gd,westerhall land settlement,Westerhall Land Settlement,02,,12.0166667,-61.7
+gd,westerhall point,Westerhall Point,03,,12.0,-61.7
+gd,westerhall,Westerhall,03,,12.0,-61.7
+gd,white gun,White Gun,03,,12.05,-61.7333333
+gd,willis,Willis,03,,12.0833333,-61.7166667
+gd,windsor castle,Windsor Castle,02,,12.0333333,-61.7
+gd,windsor forest,Windsor Forest,02,,12.05,-61.6833333
+gd,windsor,Windsor,01,,12.1333333,-61.6666667
+gd,windward,Windward,06,,12.5166667,-61.4333333
+gd,woborn,Woborn,03,,12.0166667,-61.7333333
+gd,woburn,Woburn,03,,12.0166667,-61.7333333

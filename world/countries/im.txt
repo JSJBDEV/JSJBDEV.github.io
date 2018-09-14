@@ -1,0 +1,45 @@
+im,andreas,Andreas,00,,54.366667,-4.433333
+im,ballabeg,Ballabeg,00,,54.1,-4.683333
+im,ballakinnag,Ballakinnag,00,,54.333333,-4.55
+im,ballasalla,Ballasalla,00,,54.1,-4.633333
+im,bride,Bride,00,,54.383333,-4.383333
+im,castletown,Castletown,00,,54.083333,-4.65
+im,colby,Colby,00,,54.1,-4.716667
+im,conchan,Conchan,00,,54.183333,-4.45
+im,cranstal,Cranstal,00,,54.4,-4.366667
+im,cranstall,Cranstall,00,,54.4,-4.366667
+im,cregneish,Cregneish,00,,54.066667,-4.766667
+im,crosby,Crosby,00,,54.183333,-4.566667
+im,dalby,Dalby,00,,54.166667,-4.733333
+im,derbyhaven,Derbyhaven,00,,54.083333,-4.616667
+im,dog mills,Dog Mills,00,,54.35,-4.383333
+im,douglas,Douglas,00,,54.15,-4.483333
+im,foxdale,Foxdale,00,,54.166667,-4.616667
+im,glen maye,Glen Maye,00,,54.183333,-4.7
+im,jurby,Jurby,00,,54.35,-4.533333
+im,kirk braddan,Kirk Braddan,00,,54.166667,-4.516667
+im,kirk braddon,Kirk Braddon,00,,54.166667,-4.516667
+im,kirkmichael,Kirkmichael,00,,54.283333,-4.583333
+im,laxey,Laxey,00,,54.233333,-4.4
+im,lezayre,Lezayre,00,,54.316667,-4.416667
+im,maughold,Maughold,00,,54.3,-4.316667
+im,onchan,Onchan,00,,54.183333,-4.45
+im,patrick,Patrick,00,,54.2,-4.7
+im,peel,Peel,00,,54.233333,-4.7
+im,port douglas,Port Douglas,00,,54.15,-4.483333
+im,port erin,Port Erin,00,,54.1,-4.783333
+im,port mary,Port Mary,00,,54.066667,-4.733333
+im,port saint mary,Port Saint Mary,00,,54.066667,-4.733333
+im,port soderick,Port Soderick,00,,54.116667,-4.533333
+im,ramsey,Ramsey,00,,54.316667,-4.4
+im,ronaldsway,Ronaldsway,00,,54.083333,-4.616667
+im,saint anne,Saint Anne,00,,54.116667,-4.583333
+im,saint braddon,Saint Braddon,00,,54.166667,-4.516667
+im,saint johns,Saint Johns,00,,54.2,-4.633333
+im,saint mark,Saint Mark,00,,54.133333,-4.6
+im,saint marks,Saint Marks,00,,54.133333,-4.6
+im,saint maughold,Saint Maughold,00,,54.3,-4.316667
+im,saint patrick,Saint Patrick,00,,54.2,-4.7
+im,santon,Santon,00,,54.116667,-4.583333
+im,sulby,Sulby,00,,54.316667,-4.483333
+im,union mills,Union Mills,00,,54.166667,-4.516667

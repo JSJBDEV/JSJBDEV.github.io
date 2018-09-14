@@ -1,0 +1,127 @@
+dm,anse du me,Anse Du Mé,02,,15.6,-61.3833333
+dm,atkinson,Atkinson,03,2506,15.5166667,-61.2666667
+dm,au parc,Au Parc,02,,15.6166667,-61.4
+dm,baroui,Baroui,06,,15.4333333,-61.45
+dm,barroui,Barroui,06,1498,15.4333333,-61.45
+dm,basin will,Basin Will,06,,15.4333333,-61.3666667
+dm,bassinville,Bassinville,06,,15.4333333,-61.3666667
+dm,bataka,Bataka,03,,15.5,-61.2666667
+dm,bellevue chopin,Bellevue Chopin,04,,15.2666667,-61.35
+dm,bells,Bells,06,,15.4166667,-61.35
+dm,belmanier,Belmanier,02,,15.5833333,-61.4
+dm,belvidere,Belvidere,09,,15.2833333,-61.25
+dm,bense,Bense,02,,15.5833333,-61.3666667
+dm,berekua,Berekua,09,3195,15.2333333,-61.3166667
+dm,bioche,Bioche,11,,15.5,-61.4666667
+dm,boetica,Boetica,09,,15.3,-61.2666667
+dm,bornes,Bornes,05,,15.5833333,-61.4166667
+dm,cachacrou,Cachacrou,08,,15.2,-61.3833333
+dm,calibishi,Calibishi,02,,15.5833333,-61.35
+dm,calibishie,Calibishie,02,,15.5833333,-61.35
+dm,capucin,Capucin,05,,15.6333333,-61.4666667
+dm,castle bruce,Castle Bruce,03,1997,15.4333333,-61.2666667
+dm,charlotte town,Charlotte Town,04,,15.3,-61.4
+dm,charlotte ville,Charlotte Ville,04,,15.2833333,-61.4
+dm,clifton,Clifton,05,,15.5833333,-61.4666667
+dm,cochrane,Cochrane,10,,15.3333333,-61.3666667
+dm,cocoyer,Cocoyer,05,,15.6166667,-61.45
+dm,colihaut,Colihaut,11,,15.4833333,-61.4833333
+dm,cottage,Cottage,05,,15.6166667,-61.4666667
+dm,coulibistri,Coulibistri,06,,15.45,-61.4666667
+dm,coulihaut,Coulihaut,11,1604,15.4833333,-61.4833333
+dm,crayfish river,Crayfish River,03,,15.5,-61.2666667
+dm,delices,Délices,09,,15.2833333,-61.2666667
+dm,demitrie,Demitrie,02,,15.6333333,-61.4166667
+dm,docteur,Docteur,04,,15.3,-61.35
+dm,dos d'ane,Dos D'Âne,05,,15.5833333,-61.4166667
+dm,dublanc,Dublanc,11,,15.5166667,-61.4666667
+dm,dubuc,Dubuc,09,,15.25,-61.3166667
+dm,fond cani,Fond Cani,04,,15.3166667,-61.3666667
+dm,fond saint jean,Fond Saint Jean,09,,15.25,-61.2833333
+dm,galion,Galion,08,,15.2166667,-61.3666667
+dm,gaulette,Gaulette,03,,15.4833333,-61.2666667
+dm,geneva,Geneva,09,,15.25,-61.3166667
+dm,gillon,Gillon,04,,15.2833333,-61.3833333
+dm,giraudel,Giraudel,04,,15.2833333,-61.3666667
+dm,giraudet,Giraudet,04,,15.2833333,-61.3666667
+dm,glanville,Glanville,05,,15.5666667,-61.4666667
+dm,glanvillia,Glanvillia,05,,15.5666667,-61.4666667
+dm,gommier,Gommier,02,,15.6,-61.4
+dm,good hope,Good Hope,03,,15.4,-61.2666667
+dm,goodwill,Goodwill,04,,15.3,-61.4
+dm,grand-anse,Grand-Anse,05,,15.5833333,-61.4666667
+dm,grand baie,Grand Baie,09,,15.2333333,-61.3166667
+dm,grand bay,Grand Bay,09,,15.2333333,-61.3166667
+dm,grand fond,Grand Fond,03,,15.3666667,-61.2833333
+dm,griaudel,Griaudel,04,,15.2833333,-61.3666667
+dm,guillet,Guillet,05,,15.6,-61.4666667
+dm,hampstead,Hampstead,02,,15.6,-61.3833333
+dm,itassi,Itassi,02,,15.6166667,-61.4
+dm,kulihao,Kulihao,11,,15.4833333,-61.4833333
+dm,lagon,Lagon,05,,15.5833333,-61.4666667
+dm,la haut,Là Haut,02,,15.6333333,-61.4166667
+dm,la plaine,La Plaine,09,2504,15.3333333,-61.25
+dm,la pointe,La Pointe,07,,15.25,-61.3833333
+dm,larieu,Larieu,02,,15.5833333,-61.3333333
+dm,la soie,La Soie,02,,15.5666667,-61.3166667
+dm,la source,La Source,02,,15.5833333,-61.4
+dm,laudat,Laudat,04,,15.3333333,-61.3333333
+dm,layou,Layou,06,,15.3833333,-61.4333333
+dm,loubiere,Loubiere,04,,15.2666667,-61.3833333
+dm,madjini,Madjini,03,,15.4666667,-61.2666667
+dm,mahaut,Mahaut,10,2405,15.35,-61.4
+dm,marigot,Marigot,02,2907,15.5333333,-61.3
+dm,massacre,Massacre,10,,15.35,-61.4
+dm,mero,Méro,06,,15.4166667,-61.4333333
+dm,meudon,Meudon,04,,15.3333333,-61.3333333
+dm,monkey hill,Monkey Hill,03,,15.5,-61.2666667
+dm,morne aux fregates,Morne Aux Frégates,03,,15.35,-61.2666667
+dm,morne jaune,Morne Jaune,03,,15.35,-61.2666667
+dm,morne prosper,Morne Prosper,04,,15.3,-61.35
+dm,morne raquette,Morne Raquette,06,,15.45,-61.45
+dm,morne soleil,Morne Soleil,05,,15.6166667,-61.4666667
+dm,morpo,Morpo,03,,15.4166667,-61.2666667
+dm,new town,New Town,04,,15.2833333,-61.4
+dm,northern loop,Northern Loop,02,,15.6166667,-61.4
+dm,paix bouche,Paix Bouche,02,,15.6,-61.4166667
+dm,peineville,Peineville,02,,15.6333333,-61.4166667
+dm,petite savane,Petite Savane,09,,15.25,-61.2833333
+dm,petite savanne,Petite Savanne,09,,15.25,-61.2833333
+dm,petite soufriere,Petite Soufrière,03,,15.3833333,-61.2666667
+dm,petit marigot,Petit Marigot,02,,15.5333333,-61.3
+dm,pichelin,Pichelin,09,,15.2666667,-61.3333333
+dm,pointe michel,Pointe Michel,07,1202,15.25,-61.3833333
+dm,pont casse,Pont Cassé,10,702,15.3666667,-61.35
+dm,portsmouth,Portsmouth,05,3608,15.5833333,-61.4666667
+dm,potters ville,Potters Ville,04,,15.3,-61.4
+dm,riversdale,Riversdale,06,,15.4166667,-61.3666667
+dm,riviere ciriques,Rivière Ciriques,03,,15.35,-61.2666667
+dm,roger,Roger,10,,15.3333333,-61.4
+dm,rosalie,Rosalie,03,,15.3666667,-61.2666667
+dm,roseau,Roseau,04,16571,15.3,-61.4
+dm,saint cyr,Saint Cyr,03,,15.4833333,-61.2666667
+dm,saint joseph,Saint Joseph,06,,15.4,-61.4333333
+dm,saint sauveur,Saint Sauveur,03,,15.4,-61.2666667
+dm,salibia,Salibia,03,,15.4833333,-61.2666667
+dm,salisbury,Salisbury,06,,15.4333333,-61.45
+dm,salybia,Salybia,03,,15.4833333,-61.2666667
+dm,scotts head village,Scotts Head Village,08,,15.2,-61.3833333
+dm,sibouli,Sibouli,07,,15.25,-61.3833333
+dm,sineku,Sineku,03,,15.4666667,-61.25
+dm,soufriere,Soufrière,08,,15.2333333,-61.3666667
+dm,stowe,Stowe,09,,15.25,-61.3
+dm,tanetane,Tanetane,05,,15.6,-61.4666667
+dm,tarou,Tarou,10,,15.3833333,-61.4166667
+dm,tete morne,Tête Morne,09,,15.2333333,-61.35
+dm,the cross,The Cross,03,,15.3666667,-61.2833333
+dm,thibaud,Thibaud,02,,15.6,-61.4
+dm,tobino,Tobino,02,,15.6166667,-61.4
+dm,toucari,Toucari,05,,15.6166667,-61.4666667
+dm,trafalgar,Trafalgar,04,,15.3166667,-61.35
+dm,veille case,Veille Case,02,,15.6166667,-61.4
+dm,vieille case,Vieille Case,02,,15.6166667,-61.4
+dm,vielle case,Vielle Case,02,,15.6166667,-61.4
+dm,wall house,Wall House,04,,15.2833333,-61.3833333
+dm,warakal,Warakal,03,,15.5166667,-61.2666667
+dm,wesley,Wesley,02,1997,15.5666667,-61.3166667
+dm,woodford hill,Woodford Hill,02,,15.5666667,-61.3333333

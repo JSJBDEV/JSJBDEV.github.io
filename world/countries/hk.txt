@@ -1,0 +1,1261 @@
+hk,aberdeen,Aberdeen,00,,22.25,114.15
+hk,a kung ngam,A Kung Ngam,00,,22.2833333,114.2333333
+hk,a kung tin,A Kung Tin,00,,22.45,114.1
+hk,a kung wan,A Kung Wan,00,,22.3333333,114.2666667
+hk,a ma wat,A Ma Wat,00,,22.5166667,114.25
+hk,a po long,A Po Long,00,,22.2833333,114.0
+hk,a shan,A Shan,00,,22.4666667,114.2
+hk,a shan san wai,A Shan San Wai,00,,22.4666667,114.2
+hk,a shan shan tsiu lam,A Shan Shan Tsiu Lam,00,,22.4666667,114.2
+hk,a shan tseng tau,A Shan Tseng Tau,00,,22.4666667,114.2
+hk,a shan tsiu lam,A Shan Tsiu Lam,00,,22.4666667,114.2
+hk,au ha,Au Ha,00,,22.5333333,114.2
+hk,au pui tong,Au Pui Tong,00,,22.55,114.2833333
+hk,au pui wan,Au Pui Wan,00,,22.4,114.1666667
+hk,au tau,Au Tau,00,,22.3333333,114.25
+hk,caroline hill,Caroline Hill,00,,22.2833333,114.1833333
+hk,castle peak new town,Castle Peak New Town,00,,22.4,113.9666667
+hk,causeway bay,Causeway Bay,00,,22.2833333,114.1833333
+hk,central district,Central District,00,,22.2833333,114.15
+hk,chai kek,Chai Kek,00,,22.45,114.1166667
+hk,chai kek wai,Chai Kek Wai,00,,22.45,114.1166667
+hk,chai wan,Chai Wan,00,,22.2666667,114.2333333
+hk,chai wan kok,Chai Wan Kok,00,,22.3833333,114.1
+hk,chai wan resettlement area,Chai Wan Resettlement Area,00,,22.2666667,114.2333333
+hk,cha kwo ling,Cha Kwo Ling,00,,22.3,114.2333333
+hk,ch'ang-sha,Ch'ang-sha,00,,22.2333333,113.95
+hk,chan ji,Chan ji,00,,22.3333333,114.25
+hk,chan uk po,Chan Uk Po,00,,22.4833333,114.1166667
+hk,chap mun tau,Chap Mun Tau,00,,22.2666667,113.9333333
+hk,chap wai kon,Chap Wai Kon,00,,22.3833333,114.2
+hk,chau tau,Chau Tau,00,,22.5166667,114.0833333
+hk,che ha,Che Ha,00,,22.4333333,114.2666667
+hk,chek chue,Chek Chue,00,,22.2166667,114.2
+hk,che keng tuk,Che Keng Tuk,00,,22.3666667,114.2666667
+hk,chek keng,Chek Keng,00,,22.4166667,114.35
+hk,chek kok tau,Chek Kok Tau,00,,22.55,114.2833333
+hk,chek nai ping,Chek Nai Ping,00,,22.4166667,114.2
+hk,che kung miu,Che Kung Miu,00,,22.3666667,114.1833333
+hk,cheung chau,Cheung Chau,00,,22.2166667,114.0166667
+hk,cheung kang,Cheung Kang,00,,22.4333333,114.2333333
+hk,cheung kong,Cheung Kong,00,,22.45,114.0666667
+hk,cheung kwan,Cheung Kwan,00,,22.3333333,114.25
+hk,cheung kwan o,Cheung Kwan O,00,,22.3333333,114.25
+hk,cheung lek,Cheung Lek,00,,22.4833333,114.1
+hk,cheung lek mei,Cheung Lek Mei,00,,22.4166667,114.1833333
+hk,cheung muk tau,Cheung Muk Tau,00,,22.4333333,114.25
+hk,cheung pei shan,Cheung Pei Shan,00,,22.3833333,114.1333333
+hk,cheung po,Cheung Po,00,,22.4166667,114.0666667
+hk,cheung sha,Cheung Sha,00,,22.2333333,113.95
+hk,cheung sha lan,Cheung Sha Lan,00,,22.3,114.0166667
+hk,cheung sha wan,Cheung Sha Wan,00,,22.2333333,114.0
+hk,cheung shek pai,Cheung Shek Pai,00,,22.1666667,114.25
+hk,cheung sheung,Cheung Sheung,00,,22.4333333,114.3
+hk,cheung shue tan,Cheung Shue Tan,00,,22.4333333,114.2
+hk,cheung shue tau,Cheung Shue Tau,00,,22.3666667,114.1
+hk,cheung shui tan,Cheung Shui Tan,00,,22.4333333,114.2
+hk,cheung sok,Cheung Sok,00,,22.3333333,114.0166667
+hk,cheung ting,Cheung Ting,00,,22.25,113.8833333
+hk,cheung uk,Cheung Uk,00,,22.4833333,114.1833333
+hk,cheung uk wai,Cheung Uk Wai,00,,22.4166667,114.3666667
+hk,cheung wo,Cheung Wo,00,,22.5,114.3
+hk,chik chu,Chik Chu,00,,22.2166667,114.2
+hk,chik kang,Chik Kang,00,,22.4166667,114.35
+hk,chikking,Chikking,00,,22.4166667,114.35
+hk,chiktsui,Chiktsui,00,,22.2166667,114.2
+hk,chi ma hang,Chi Ma Hang,00,,22.2,114.0333333
+hk,chin lan chun,Chin Lan Chun,00,,22.3333333,114.2333333
+hk,chiu-lung,Chiu-lung,00,,22.3166667,114.1833333
+hk,chiu-lung-ku-ch'eng,Chiu-lung-ku-ch'eng,00,,22.3333333,114.1833333
+hk,choi hung,Choi Hung,00,,22.3333333,114.2
+hk,choong wan,Choong Wan,00,,22.2833333,114.15
+hk,ch'uan-wan,Ch'üan-wan,00,,22.3666667,114.1
+hk,chuen lung,Chuen Lung,00,,22.4,114.1
+hk,chuk hang,Chuk Hang,00,,22.45,114.1
+hk,chuk kok,Chuk Kok,00,,22.35,114.25
+hk,chuk un,Chuk Un,00,,22.35,114.1833333
+hk,chuk yuen,Chuk Yuen,00,,22.35,114.1833333
+hk,chun fa lok,Chun Fa Lok,00,,22.3333333,114.1
+hk,chung hau,Chung Hau,00,,22.2333333,114.0
+hk,chung ji,Chung Ji,00,,22.3333333,114.25
+hk,chung kwai chung,Chung Kwai Chung,00,,22.3666667,114.1333333
+hk,chung mei,Chung Mei,00,,22.5,114.2333333
+hk,chung mei kok,Chung Mei Kok,00,,22.4666667,114.3666667
+hk,chung mei kok sheung wai,Chung Mei Kok Sheung Wai,00,,22.4666667,114.3666667
+hk,chung pui,Chung Pui,00,,22.4833333,114.2333333
+hk,chung sam wai,Chung Sam Wai,00,,22.45,114.0166667
+hk,chung uk,Chung Uk,00,,22.25,113.8666667
+hk,chung uk tsuen,Chung Uk Tsuen,00,,22.4333333,113.9833333
+hk,chung wai,Chung Wai,00,,22.4666667,114.35
+hk,chung wan,Chung Wan,00,,22.2833333,114.15
+hk,dills corner,Dills Corner,00,,22.5,114.1
+hk,epworth village,Epworth Village,00,,22.2666667,114.2333333
+hk,fan kwai tong,Fan Kwai Tong,00,,22.25,113.8666667
+hk,fan leng ching wai,Fan Leng Ching Wai,00,,22.5,114.1333333
+hk,fan leng,Fan Leng,00,,22.5,114.1333333
+hk,fan leng lau,Fan Leng Lau,00,,22.5,114.1333333
+hk,fan leng nam wai,Fan Leng Nam Wai,00,,22.5,114.1333333
+hk,fan leng pak wai,Fan Leng Pak Wai,00,,22.5,114.1333333
+hk,fan leng tai wai,Fan Leng Tai Wai,00,,22.5,114.1333333
+hk,fanling,Fanling,00,,22.5,114.1333333
+hk,fan shui au,Fan Shui Au,00,,22.5166667,114.25
+hk,fan tin tsuen,Fan Tin Tsuen,00,,22.5,114.0666667
+hk,fa peng,Fa Peng,00,,22.2,114.0333333
+hk,fa sam hang,Fa Sam Hang,00,,22.3833333,114.2166667
+hk,fat tong mun,Fat Tong Mun,00,,22.2666667,114.2833333
+hk,fa yuen,Fa Yuen,00,,22.2833333,114.2166667
+hk,fen-ling,Fen-ling,00,,22.5,114.1333333
+hk,fong ma po,Fong Ma Po,00,,22.45,114.1333333
+hk,fong pin sho,Fong Pin Sho,00,,22.2,114.0333333
+hk,fong yuen,Fong Yuen,00,,22.2666667,113.9333333
+hk,fo tan,Fo Tan,00,,22.4,114.2
+hk,fui sha wai,Fui Sha Wai,00,,22.4333333,114.0
+hk,fui yiu,Fui Yiu,00,,22.35,114.1333333
+hk,fui yiu ha,Fui Yiu Ha,00,,22.2833333,113.9333333
+hk,fuk hing lei,Fuk Hing Lei,00,,22.4666667,114.05
+hk,fuk hing tsuen,Fuk Hing Tsuen,00,,22.45,114.0166667
+hk,fuk lok tsuen,Fuk Lok Tsuen,00,,22.3833333,114.1666667
+hk,fuk lo tsuen,Fuk Lo Tsuen,00,,22.4666667,113.9833333
+hk,fuk tak kung,Fuk Tak Kung,00,,22.5333333,114.1
+hk,fung chi heung,Fung Chi Heung,00,,22.45,114.0166667
+hk,fung hang,Fung Hang,00,,22.5333333,114.2166667
+hk,fung kat heung,Fung Kat Heung,00,,22.45,114.05
+hk,fung ka wai,Fung Ka Wai,00,,22.4666667,114.0166667
+hk,fung kong tsuen,Fung Kong Tsuen,00,,22.4666667,113.9833333
+hk,fung shue wo,Fung Shue Wo,00,,22.35,114.1
+hk,fung wong village,Fung Wong Village,00,,22.35,114.2
+hk,fung wong wu,Fung Wong Wu,00,,22.5333333,114.15
+hk,fung yuen,Fung Yuen,00,,22.4666667,114.1833333
+hk,fung yuen lo tsuen,Fung Yuen Lo Tsuen,00,,22.4666667,114.1833333
+hk,fu tau pun chau,Fu Tau Pun Chau,00,,22.3333333,114.3666667
+hk,fu tau wat,Fu Tau Wat,00,,22.2833333,114.2166667
+hk,fu tei,Fu Tei,00,,22.4166667,113.9833333
+hk,fu tei kok,Fu Tei Kok,00,,22.35,114.1
+hk,fu tei pai,Fu Tei Pai,00,,22.5,114.1666667
+hk,fu tei wan,Fu Tei Wan,00,,22.3,113.9333333
+hk,fu yung pit,Fu Yung Pit,00,,22.3833333,114.25
+hk,fu yung shan,Fu Yung Shan,00,,22.3833333,114.1166667
+hk,ha che,Ha Che,00,,22.45,114.0833333
+hk,ha chuk yuen,Ha Chuk Yuen,00,,22.4833333,114.05
+hk,ha chung mei,Ha Chung Mei,00,,22.35,114.1
+hk,ha fa shan,Ha Fa Shan,00,,22.3833333,114.0833333
+hk,ha hang,Ha Hang,00,,22.4666667,114.1833333
+hk,ha heung yuen,Ha Heung Yuen,00,,22.55,114.1666667
+hk,ha hung,Ha Hung,00,,22.4666667,114.1833333
+hk,ha keng,Ha Keng,00,,22.2166667,114.0
+hk,ha keng hau,Ha Keng Hau,00,,22.3666667,114.1666667
+hk,ha ko tan,Ha Ko Tan,00,,22.35,114.1
+hk,ha kwai chung,Ha Kwai Chung,00,,22.35,114.1333333
+hk,ha ling pei,Ha Ling Pei,00,,22.2833333,113.9333333
+hk,ha loi tung,Ha Loi Tung,00,,22.5166667,114.1666667
+hk,ha mei san tsuen,Ha Mei San Tsuen,00,,22.45,114.0
+hk,ham hang mei,Ham Hang Mei,00,,22.5166667,114.2166667
+hk,ha miu tin,Ha Miu Tin,00,,22.5,114.2666667
+hk,ham tin,Ham Tin,00,,22.2333333,113.9833333
+hk,hang ha po,Hang Ha Po,00,,22.45,114.1333333
+hk,hang hau,Hang Hau,00,,22.3166667,114.2666667
+hk,hang hau town,Hang Hau Town,00,,22.3166667,114.2666667
+hk,hang hau tsuen,Hang Hau Tsuen,00,,22.4666667,113.9833333
+hk,hang mei,Hang Mei,00,,22.25,113.8666667
+hk,hang mei tsuen,Hang Mei Tsuen,00,,22.45,114.0
+hk,hang pui,Hang Pui,00,,22.2333333,113.8833333
+hk,hang tau,Hang Tau,00,,22.45,114.0
+hk,hang tau tai po,Hang Tau Tai Po,00,,22.5,114.1
+hk,han hui,Han Hui,00,,22.4,113.9666667
+hk,happy valley,Happy Valley,00,,22.2666667,114.1833333
+hk,ha san wai,Ha San Wai,00,,22.4666667,114.05
+hk,ha shan kai wat,Ha Shan Kai Wat,00,,22.5166667,114.15
+hk,ha tam shui hang,Ha Tam Shui Hang,00,,22.55,114.2166667
+hk,ha tei ha,Ha Tei Ha,00,,22.4666667,114.2
+hk,ha tsat muk kiu,Ha Tsat Muk Kiu,00,,22.5166667,114.2166667
+hk,ha tsuen,Ha Tsuen,00,,22.1666667,113.9166667
+hk,ha wai,Ha Wai,00,,22.45,114.1
+hk,ha wan tsuen,Ha Wan Tsuen,00,,22.5166667,114.0666667
+hk,ha wo che,Ha Wo Che,00,,22.3833333,114.1833333
+hk,ha wo hang,Ha Wo Hang,00,,22.5333333,114.2
+hk,ha wong yi au,Ha Wong Yi Au,00,,22.4333333,114.1666667
+hk,ha wun yiu,Ha Wun Yiu,00,,22.4333333,114.1666667
+hk,ha yau tin,Ha Yau Tin,00,,22.4333333,114.0333333
+hk,ha yeung,Ha Yeung,00,,22.3,114.2833333
+hk,ha yuen leng,Ha Yuen Leng,00,,22.3333333,114.2
+hk,hei tsz wan,Hei Tsz Wan,00,,22.3833333,114.3166667
+hk,heung chung,Heung Chung,00,,22.35,114.25
+hk,heung fan liu,Heung Fan Liu,00,,22.3833333,114.1666667
+hk,heung kong tsai,Heung Kong Tsai,00,,22.25,114.15
+hk,heung yuen wai,Heung Yuen Wai,00,,22.55,114.1666667
+hk,hing lung tsuen,Hing Lung Tsuen,00,,22.45,114.1666667
+hk,hing wah tsuen,Hing Wah Tsuen,00,,22.2666667,114.2333333
+hk,hin tin,Hin Tin,00,,22.3666667,114.1666667
+hk,ho chung,Ho Chung,00,,22.35,114.25
+hk,hoi ha,Hoi Ha,00,,22.4666667,114.3333333
+hk,hoi pa,Hoi Pa,00,,22.3666667,114.1166667
+hk,hoi pong kai,Hoi Pong Kai,00,,22.4666667,114.35
+hk,hoi pui leng,Hoi Pui Leng,00,,22.5333333,114.2
+hk,hok tau,Hok Tau,00,,22.5,114.1666667
+hk,hok tau pai,Hok Tau Pai,00,,22.5166667,114.1833333
+hk,hok tau wai,Hok Tau Wai,00,,22.5,114.1666667
+hk,hok tsui wan,Hok Tsui Wan,00,,22.2166667,114.25
+hk,ho lek pui,Ho Lek Pui,00,,22.4166667,114.1833333
+hk,holy cross path village,Holy Cross Path Village,00,,22.2833333,114.2166667
+hk,ho man tin,Ho Man Tin,00,,22.3166667,114.1833333
+hk,hong kong,Hong Kong,00,,22.2833333,114.15
+hk,hong lok tsuen,Hong Lok Tsuen,00,,22.4666667,114.15
+hk,hong mei tsuen,Hong Mei Tsuen,00,,22.45,113.9833333
+hk,ho pui,Ho Pui,00,,22.4166667,114.0666667
+hk,ho sheung heung,Ho Sheung Heung,00,,22.5166667,114.1
+hk,ho tin,Ho Tin,00,,22.4,113.9666667
+hk,ho tung lau,Ho Tung Lau,00,,22.4,114.2
+hk,hung fa ngan,Hung Fa Ngan,00,,22.2833333,113.9833333
+hk,hung hom,Hung Hom,00,,22.3,114.1833333
+hk,hung-k'an,Hung-k'an,00,,22.3,114.1833333
+hk,hung leng,Hung Leng,00,,22.5166667,114.1666667
+hk,hung shing ye,Hung Shing Ye,00,,22.2166667,114.1166667
+hk,hung shui,Hung Shui,00,,22.2833333,114.0
+hk,hung tin,Hung Tin,00,,22.45,114.0333333
+hk,hung tso tin,Hung Tso Tin,00,,22.4333333,114.0333333
+hk,hung uk tsuen,Hung Uk Tsuen,00,,22.4333333,114.0
+hk,i o tsuen,I O Tsuen,00,,22.2333333,113.85
+hk,i pak,I Pak,00,,22.3,114.0166667
+hk,jardines lookout,Jardines Lookout,00,,22.2666667,114.1833333
+hk,jordan valley,Jordan Valley,00,,22.3333333,114.2166667
+hk,kai ham,Kai Ham,00,,22.3666667,114.2333333
+hk,kai kuk shue ha,Kai Kuk Shue Ha,00,,22.5333333,114.2166667
+hk,kai leng,Kai Leng,00,,22.5,114.1333333
+hk,kai yi wan,Kai Yi Wan,00,,22.3333333,114.3666667
+hk,kak hang tun,Kak Hang Tun,00,,22.4,114.2666667
+hk,kak tin,Kak Tin,00,,22.3666667,114.1833333
+hk,ka loon tsuen,Ka Loon Tsuen,00,,22.3580556,114.0338889
+hk,kam cheuk pai,Kam Cheuk Pai,00,,22.4833333,114.2666667
+hk,kam chuk pai,Kam Chuk Pai,00,,22.4833333,114.2666667
+hk,kam hing wai,Kam Hing Wai,00,,22.45,114.0666667
+hk,kam shan,Kam Shan,00,,22.45,114.15
+hk,kam tin hui,Kam Tin Hui,00,,22.4333333,114.0666667
+hk,kamtinhu,Kamtinhu,00,,22.4333333,114.0666667
+hk,kam tin san tsuen,Kam Tin San Tsuen,00,,22.45,114.0666667
+hk,kam tin shi,Kam Tin Shi,00,,22.4333333,114.0666667
+hk,kam tsin,Kam Tsin,00,,22.5,114.1166667
+hk,kam tsin wai,Kam Tsin Wai,00,,22.4333333,114.0666667
+hk,kam tsta wai,Kam Tsta Wai,00,,22.4333333,114.0666667
+hk,kan tau tsuen,Kan Tau Tsuen,00,,22.5166667,114.1666667
+hk,kan tau wai,Kan Tau Wai,00,,22.5333333,114.15
+hk,kaosai,Kaosai,00,,22.35,114.3166667
+hk,kap pin long,Kap Pin Long,00,,22.3833333,114.2666667
+hk,kat hing wai,Kat Hing Wai,00,,22.45,114.0666667
+hk,kat o,Kat O,00,,22.55,114.2833333
+hk,kat o sheung wai,Kat O Sheung Wai,00,,22.55,114.2833333
+hk,kau lau wan,Kau Lau Wan,00,,22.4666667,114.3666667
+hk,kau liu ha,Kau Liu Ha,00,,22.4666667,114.15
+hk,kau lung hang,Kau Lung Hang,00,,22.4833333,114.1666667
+hk,kau lung hang lo wai,Kau Lung Hang Lo Wai,00,,22.4833333,114.1666667
+hk,kau lung hang san wai,Kau Lung Hang San Wai,00,,22.4833333,114.15
+hk,kau lung sheng,Kau Lung Sheng,00,,22.3333333,114.1833333
+hk,kau lung tong,Kau Lung Tong,00,,22.3333333,114.1833333
+hk,kau man,Kau Man,00,,22.2833333,114.2166667
+hk,kau pa kang,Kau Pa Kang,00,,22.35,114.1333333
+hk,kau sai,Kau Sai,00,,22.35,114.3166667
+hk,kau san tei,Kau San Tei,00,,22.2666667,113.8666667
+hk,kau shat wan,Kau Shat Wan,00,,22.2666667,114.0166667
+hk,kau shi wai,Kau Shi Wai,00,,22.4666667,114.1833333
+hk,kau tam tso,Kau Tam Tso,00,,22.5,114.25
+hk,kau to,Kau To,00,,22.4166667,114.2
+hk,kau tsin uk,Kau Tsin Uk,00,,22.35,114.2333333
+hk,kau wa kang,Kau Wa Kang,00,,22.35,114.1333333
+hk,kau wa keng,Kau Wa Keng,00,,22.35,114.1333333
+hk,kau wa keng san tsuen,Kau Wa Keng San Tsuen,00,,22.35,114.1333333
+hk,kei ling ha,Kei Ling Ha,00,,22.4166667,114.2666667
+hk,kei ling ha lo wai,Kei Ling Ha Lo Wai,00,,22.4166667,114.2666667
+hk,kei ling ha lo wei,Kei Ling Ha Lo Wei,00,,22.4166667,114.2666667
+hk,kei ling ha san wai,Kei Ling Ha San Wai,00,,22.4166667,114.2666667
+hk,kei ling ha san wei,Kei Ling Ha San Wei,00,,22.4166667,114.2666667
+hk,kei lun wai,Kei Lun Wai,00,,22.4166667,113.9666667
+hk,kei pik shan,Kei Pik Shan,00,,22.3666667,114.25
+hk,keng hau,Keng Hau,00,,22.3666667,114.1666667
+hk,keng pang ha,Keng Pang Ha,00,,22.4,114.2666667
+hk,kennedy town,Kennedy Town,00,,22.2833333,114.1166667
+hk,keung shan,Keung Shan,00,,22.25,113.8833333
+hk,kik yeung tsuen,Kik Yeung Tsuen,00,,22.45,114.0166667
+hk,ki ling ha,Ki Ling Ha,00,,22.4166667,114.2666667
+hk,kings park,Kings Park,00,,22.3166667,114.1666667
+hk,kiu sai,Kiu Sai,00,,22.4333333,114.0
+hk,kiu tau,Kiu Tau,00,,22.4833333,114.15
+hk,kiu tau wai,Kiu Tau Wai,00,,22.45,114.0
+hk,kiu tsui,Kiu Tsui,00,,22.3666667,114.2833333
+hk,ko long,Ko Long,00,,22.2166667,114.1
+hk,kong ha,Kong Ha,00,,22.55,114.2166667
+hk,kong pui tsuen,Kong Pui Tsuen,00,,22.3666667,114.2166667
+hk,kong tau san tsuen,Kong Tau San Tsuen,00,,22.4333333,114.0333333
+hk,kong tau tsuen,Kong Tau Tsuen,00,,22.4333333,114.0333333
+hk,kon hang,Kon Hang,00,,22.4333333,114.2
+hk,kon tong,Kon Tong,00,,22.3166667,114.2166667
+hk,ko po,Ko Po,00,,22.5166667,114.1666667
+hk,ko po tsuen,Ko Po Tsuen,00,,22.45,114.05
+hk,kop tong,Kop Tong,00,,22.5166667,114.25
+hk,ko tin hom,Ko Tin Hom,00,,22.45,114.1333333
+hk,ko tong ha yeung,Ko Tong Ha Yeung,00,,22.4333333,114.3333333
+hk,ko tong,Ko Tong,00,,22.4333333,114.3166667
+hk,kowloon city,Kowloon City,00,,22.3333333,114.1833333
+hk,kowloon,Kowloon,00,,22.3166667,114.1833333
+hk,kowloon tong,Kowloon Tong,00,,22.3333333,114.1833333
+hk,k'uai-huo ku,K'uai-huo Ku,00,,22.2666667,114.1833333
+hk,kuan t'ang,Kuan T'ang,00,,22.3166667,114.2166667
+hk,kuk liu,Kuk Liu,00,,22.3833333,114.1666667
+hk,kuk po,Kuk Po,00,,22.5333333,114.2333333
+hk,kung man tsuen,Kung Man Tsuen,00,,22.2833333,114.1166667
+hk,kung miu,Kung Miu,00,,22.3666667,114.1833333
+hk,kung tong,Kung Tong,00,,22.3166667,114.2166667
+hk,kun tong,Kun Tong,00,,22.3166667,114.2166667
+hk,kwai chung,Kwai Chung,00,,22.35,114.1333333
+hk,kwai po lau,Kwai Po Lau,00,,22.4333333,114.2333333
+hk,kwai tau leng,Kwai Tau Leng,00,,22.5,114.1833333
+hk,kwai tau ling,Kwai Tau Ling,00,,22.5,114.1833333
+hk,kwan tei,Kwan Tei,00,,22.5166667,114.15
+hk,kwo lo wan,Kwo Lo Wan,00,,22.3,113.9333333
+hk,kwun hang,Kwun Hang,00,,22.4333333,114.25
+hk,kwun tong,Kwun Tong,00,,22.3166667,114.2166667
+hk,kwun yam keng,Kwun Yam Keng,00,,22.4333333,114.1166667
+hk,kwun yam shan,Kwun Yam Shan,00,,22.3666667,114.2166667
+hk,kwu tung,Kwu Tung,00,,22.5,114.1
+hk,lai chee chong,Lai Chee Chong,00,,22.45,114.3
+hk,lai chi chong,Lai Chi Chong,00,,22.45,114.3
+hk,lai chi kok,Lai Chi Kok,00,,22.3333333,114.1333333
+hk,lai chi shan,Lai Chi Shan,00,,22.4333333,114.1666667
+hk,lai chi wo,Lai Chi Wo,00,,22.5333333,114.25
+hk,lai chi yuen,Lai Chi Yuen,00,,22.3833333,114.1833333
+hk,lai pek shan,Lai Pek Shan,00,,22.4833333,114.2166667
+hk,lai tau shek,Lai Tau Shek,00,,22.5166667,114.2666667
+hk,lak ma chau,Lak Ma Chau,00,,22.5166667,114.0833333
+hk,lam che,Lam Che,00,,22.2666667,113.9166667
+hk,lam hau,Lam Hau,00,,22.4333333,114.0166667
+hk,lam tei,Lam Tei,00,,22.4166667,113.9833333
+hk,lam tin,Lam Tin,00,,22.35,114.1
+hk,lam tsuen san tsuen,Lam Tsuen San Tsuen,00,,22.45,114.1333333
+hk,lam uk wai,Lam Uk Wai,00,,22.4166667,114.3666667
+hk,lan nai wan,Lan Nai Wan,00,,22.25,114.2333333
+hk,lan-nai-wan,Lan-nai-wan,00,,22.3833333,114.3333333
+hk,lan nai wan lei uk,Lan Nai Wan Lei Uk,00,,22.3833333,114.3333333
+hk,lan nai wan man uk,Lan Nai Wan Man Uk,00,,22.3833333,114.3333333
+hk,lan nai wan tsau uk,Lan Nai Wan Tsau Uk,00,,22.3833333,114.3333333
+hk,lap wo tsuen,Lap Wo Tsuen,00,,22.5333333,114.2166667
+hk,lau fau sha,Lau Fau Sha,00,,22.2833333,113.9333333
+hk,lau hang,Lau Hang,00,,22.4666667,114.1833333
+hk,lau nai wan,Lau Nai Wan,00,,22.3833333,114.3333333
+hk,lau shui heung,Lau Shui Heung,00,,22.5,114.1666667
+hk,lawkong,Lawkong,00,,22.5166667,114.2166667
+hk,leighton hill,Leighton Hill,00,,22.2833333,114.1833333
+hk,lei uk,Lei Uk,00,,22.5333333,114.15
+hk,lei uk tsuen,Lei Uk Tsuen,00,,22.4333333,114.0
+hk,lei u mun,Lei U Mun,00,,22.2833333,114.2333333
+hk,lei yue mun,Lei Yue Mun,00,,22.2833333,114.2333333
+hk,lek mei,Lek Mei,00,,22.5333333,114.2
+hk,leng pei tsuen,Leng Pei Tsuen,00,,22.5166667,114.1833333
+hk,leng tsai,Leng Tsai,00,,22.5166667,114.1666667
+hk,leung fai tin,Leung Fai Tin,00,,22.3,114.2833333
+hk,leung shuen wan,Leung Shuen Wan,00,,22.35,114.35
+hk,leung shui tseng,Leung Shui Tseng,00,,22.45,114.1333333
+hk,leung tin tsuen,Leung Tin Tsuen,00,,22.4166667,113.9666667
+hk,leung uk,Leung Uk,00,,22.25,113.8666667
+hk,lin au,Lin Au,00,,22.45,114.15
+hk,lin fa tei,Lin Fa Tei,00,,22.4333333,114.0833333
+hk,ling nam san tsuen,Ling Nam San Tsuen,00,,22.3,114.2333333
+hk,lin ma hang,Lin Ma Hang,00,,22.55,114.1833333
+hk,lin tong mei,Lin Tong Mei,00,,22.4833333,114.1166667
+hk,lin tong mei tsoi yuen,Lin Tong Mei Tsoi Yuen,00,,22.4833333,114.1166667
+hk,liu pok,Liu Pok,00,,22.5333333,114.1
+hk,liu to,Liu To,00,,22.35,114.1
+hk,lo fu ngam,Lo Fu Ngam,00,,22.3333333,114.1833333
+hk,loi tung,Loi Tung,00,,22.5166667,114.1833333
+hk,loi tung tsuen,Loi Tung Tsuen,00,,22.5166667,114.1833333
+hk,lok kang po,Lok Kang Po,00,,22.2666667,114.25
+hk,lok lo ha,Lok Lo Ha,00,,22.4,114.2
+hk,lok ma chau,Lok Ma Chau,00,,22.5166667,114.0833333
+hk,lok wo sha,Lok Wo Sha,00,,22.4333333,114.2333333
+hk,lo lau uk,Lo Lau Uk,00,,22.4333333,114.1666667
+hk,long kau tang,Long Kau Tang,00,,22.4,113.9166667
+hk,long ke,Long Ke,00,,22.3833333,114.3666667
+hk,long keng,Long Keng,00,,22.4,114.2833333
+hk,long mei,Long Mei,00,,22.3833333,114.2666667
+hk,lo shue ling,Lo Shue Ling,00,,22.5333333,114.15
+hk,lo shue tin,Lo Shue Tin,00,,22.3666667,114.2166667
+hk,lo so shing,Lo So Shing,00,,22.2,114.1166667
+hk,lo tik wan,Lo Tik Wan,00,,22.2333333,114.1166667
+hk,lo tsuen,Lo Tsuen,00,,22.5,114.15
+hk,lo tsz tin,Lo Tsz Tin,00,,22.4666667,114.2166667
+hk,lo uk,Lo Uk,00,,22.2666667,114.2333333
+hk,lo uk tsuen,Lo Uk Tsuen,00,,22.25,113.9666667
+hk,lo wai,Lo Wai,00,,22.3833333,114.1166667
+hk,lower keung shan,Lower Keung Shan,00,,22.25,113.8833333
+hk,lo wu,Lo Wu,00,,22.5333333,114.1166667
+hk,lu-ching,Lu-ching,00,,22.5166667,114.2166667
+hk,luen wo market,Luen Wo Market,00,,22.5,114.1333333
+hk,luen wo san tsuen,Luen Wo San Tsuen,00,,22.5,114.1333333
+hk,luk chau,Luk Chau,00,,22.2166667,114.1333333
+hk,luk keng chan uk,Luk Keng Chan Uk,00,,22.5166667,114.2166667
+hk,luk keng,Luk Keng,00,,22.3333333,114.0333333
+hk,luk keng wong uk,Luk Keng Wong Uk,00,,22.5166667,114.2166667
+hk,luk tei tong,Luk Tei Tong,00,,22.2666667,113.9833333
+hk,luk wu,Luk Wu,00,,22.25,113.8833333
+hk,lung a pai,Lung A Pai,00,,22.45,114.1333333
+hk,lung ching tau,Lung Ching Tau,00,,22.2833333,113.9333333
+hk,lung mei,Lung Mei,00,,22.2333333,114.0
+hk,lung mei tau,Lung Mei Tau,00,,22.4166667,114.3666667
+hk,lung tin tsuen,Lung Tin Tsuen,00,,22.4333333,114.0166667
+hk,lung ti tong,Lung Ti Tong,00,,22.2666667,113.9833333
+hk,lung tsai,Lung Tsai,00,,22.3833333,113.9166667
+hk,lung tseng tau,Lung Tseng Tau,00,,22.2833333,113.9333333
+hk,lung wo tsuen,Lung Wo Tsuen,00,,22.3333333,114.2333333
+hk,lung yeuk tau,Lung Yeuk Tau,00,,22.5,114.15
+hk,lye mun,Lye Mun,00,,22.2833333,114.2333333
+hk,mai po lo wai,Mai Po Lo Wai,00,,22.5,114.0666667
+hk,mai po san tsuen,Mai Po San Tsuen,00,,22.5,114.0666667
+hk,mak uk,Mak Uk,00,,22.4666667,114.1833333
+hk,ma kwu lam,Ma Kwu Lam,00,,22.4333333,114.2666667
+hk,ma lau tong,Ma Lau Tong,00,,22.3166667,114.2333333
+hk,ma liu shui,Ma Liu Shui,00,,22.4166667,114.2166667
+hk,ma mei ha leng tsui,Ma Mei Ha Leng Tsui,00,,22.5166667,114.1666667
+hk,ma mei ha,Ma Mei Ha,00,,22.5166667,114.1666667
+hk,ma nam wat,Ma Nam Wat,00,,22.35,114.2666667
+hk,man cheung po,Man Cheung Po,00,,22.2333333,113.8666667
+hk,mang kung uk,Mang Kung Uk,00,,22.3166667,114.2666667
+hk,mang tong,Mang Tong,00,,22.2666667,114.0
+hk,man hang,Man Hang,00,,22.4,114.1833333
+hk,ma niu,Ma Niu,00,,22.4166667,114.2
+hk,ma niu shui,Ma Niu Shui,00,,22.5,114.2833333
+hk,man kam to,Man Kam To,00,,22.5333333,114.1333333
+hk,man kok,Man Kok,00,,22.2666667,114.0166667
+hk,man uk pin,Man Uk Pin,00,,22.5333333,114.1833333
+hk,man wo,Man Wo,00,,22.35,114.2333333
+hk,ma on kong,Ma On Kong,00,,22.4166667,114.0666667
+hk,ma on shan,Ma On Shan,00,,22.4,114.2333333
+hk,ma on shan tsuen,Ma On Shan Tsuen,00,,22.4,114.2333333
+hk,ma po mei,Ma Po Mei,00,,22.45,114.1333333
+hk,ma shan,Ma Shan,00,,22.2833333,114.2166667
+hk,ma shi po,Ma Shi Po,00,,22.5,114.15
+hk,ma tau kok,Ma Tau Kok,00,,22.3166667,114.1833333
+hk,ma tau wai,Ma Tau Wai,00,,22.3166667,114.1833333
+hk,ma tin tsuen,Ma Tin Tsuen,00,,22.4333333,114.0166667
+hk,ma tseuk leng,Ma Tseuk Leng,00,,22.5333333,114.2
+hk,ma tseuk leng san uk ha,Ma Tseuk Leng San Uk Ha,00,,22.5333333,114.2
+hk,ma tso lung,Ma Tso Lung,00,,22.5333333,114.0833333
+hk,ma tso lung san tsuen,Ma Tso Lung San Tsuen,00,,22.5333333,114.1
+hk,mau ping lo uk,Mau Ping Lo Uk,00,,22.3833333,114.2333333
+hk,mau ping,Mau Ping,00,,22.3833333,114.2333333
+hk,mau ping san uk,Mau Ping San Uk,00,,22.3833333,114.2333333
+hk,mau po,Mau Po,00,,22.3,114.2833333
+hk,mau tat,Mau Tat,00,,22.2,114.15
+hk,mau tat wan,Mau Tat Wan,00,,22.2166667,114.15
+hk,mau tin,Mau Tin,00,,22.35,114.2666667
+hk,mau tso ngam,Mau Tso Ngam,00,,22.3666667,114.2166667
+hk,mau wu tsai,Mau Wu Tsai,00,,22.3166667,114.25
+hk,ma wan chung,Ma Wan Chung,00,,22.2833333,113.9333333
+hk,ma wan,Ma Wan,00,,22.2833333,113.9333333
+hk,ma wan tsuen,Ma Wan Tsuen,00,,22.2833333,114.2333333
+hk,ma wat,Ma Wat,00,,22.5,114.15
+hk,ma wat tsuen,Ma Wat Tsuen,00,,22.5,114.15
+hk,ma wat wai,Ma Wat Wai,00,,22.5,114.15
+hk,ma wo,Ma Wo,00,,22.45,114.15
+hk,ma yau tong,Ma Yau Tong,00,,22.3166667,114.2333333
+hk,ma yin tung pai chong,Ma Yin Tung Pai Chong,00,,22.2,114.0333333
+hk,ma yiu,Ma Yiu,00,,22.45,114.2333333
+hk,mid levels,Mid Levels,00,,22.2833333,114.15
+hk,min fong,Min Fong,00,,22.4,114.1833333
+hk,mok ka,Mok Ka,00,,22.2666667,113.9333333
+hk,mok tse che,Mok Tse Che,00,,22.35,114.25
+hk,mong kok,Mong Kok,00,,22.3166667,114.1666667
+hk,mong tseng tsuen,Mong Tseng Tsuen,00,,22.4833333,114.0
+hk,mong tseng wai,Mong Tseng Wai,00,,22.4833333,114.0
+hk,mong tung hang,Mong Tung Hang,00,,22.3333333,114.0333333
+hk,mong tung wan,Mong Tung Wan,00,,22.2166667,113.9833333
+hk,mor li shan,Mor Li Shan,00,,22.2833333,114.1833333
+hk,morrison hill,Morrison Hill,00,,22.2833333,114.1833333
+hk,mo tat,Mo Tat,00,,22.2,114.15
+hk,mo tat wan,Mo Tat Wan,00,,22.2166667,114.15
+hk,mo to tang,Mo To Tang,00,,22.5333333,114.2666667
+hk,mount davis,Mount Davis,00,,22.2833333,114.1166667
+hk,mui shue hang,Mui Shue Hang,00,,22.45,114.15
+hk,mui shui hang,Mui Shui Hang,00,,22.45,114.15
+hk,mui tsz lam,Mui Tsz Lam,00,,22.4,114.2333333
+hk,mui wo kau tsuen,Mui Wo Kau Tsuen,00,,22.2666667,113.9833333
+hk,mui wo,Mui Wo,00,,22.2666667,113.9833333
+hk,muk kiu tau,Muk Kiu Tau,00,,22.4333333,114.0166667
+hk,muk min ha,Muk Min Ha,00,,22.3833333,114.1166667
+hk,muk min shan,Muk Min Shan,00,,22.3833333,114.2666667
+hk,muk min tau,Muk Min Tau,00,,22.55,114.2166667
+hk,muk wu chuen yiu,Muk Wu Chuen Yiu,00,,22.55,114.1333333
+hk,muk wu,Muk Wu,00,,22.55,114.1333333
+hk,nai chung,Nai Chung,00,,22.4333333,114.25
+hk,nai tong kok,Nai Tong Kok,00,,22.5,114.25
+hk,nai wai,Nai Wai,00,,22.4166667,113.9833333
+hk,nam a,Nam A,00,,22.4,114.2666667
+hk,nam chung cheng uk,Nam Chung Cheng Uk,00,,22.5166667,114.2
+hk,nam chung cheung uk,Nam Chung Cheung Uk,00,,22.5166667,114.2166667
+hk,nam chung lam uk,Nam Chung Lam Uk,00,,22.5166667,114.2166667
+hk,nam chung lei uk,Nam Chung Lei Uk,00,,22.5166667,114.2166667
+hk,nam chung lo uk,Nam Chung Lo Uk,00,,22.5166667,114.2
+hk,nam chung,Nam Chung,00,,22.25,113.8666667
+hk,nam chung yeung uk,Nam Chung Yeung Uk,00,,22.5166667,114.2
+hk,nam fung chau,Nam Fung Chau,00,,22.35,114.35
+hk,nam fung wan,Nam Fung Wan,00,,22.3833333,114.3333333
+hk,nam hang,Nam Hang,00,,22.4333333,114.0333333
+hk,nam long,Nam Long,00,,22.4,113.9166667
+hk,nam on fong,Nam On Fong,00,,22.2833333,114.2166667
+hk,nam pin wai,Nam Pin Wai,00,,22.35,114.25
+hk,nam shan mei,Nam Shan Mei,00,,22.4833333,114.2
+hk,nam shan,Nam Shan,00,,22.3833333,114.2166667
+hk,nam shan tung,Nam Shan Tung,00,,22.45,114.3
+hk,nam sha po,Nam Sha Po,00,,22.4833333,114.0
+hk,nam she,Nam She,00,,22.4333333,114.3666667
+hk,nam wai,Nam Wai,00,,22.35,114.25
+hk,nam wan,Nam Wan,00,,22.35,114.0833333
+hk,nam wa po,Nam Wa Po,00,,22.4833333,114.15
+hk,new kowloon,New Kowloon,00,,22.3333333,114.15
+hk,new tung chung hang,New Tung Chung Hang,00,,22.2833333,113.95
+hk,ngan hang,Ngan Hang,00,,22.2333333,114.2333333
+hk,nga tsin wai,Nga Tsin Wai,00,,22.3333333,114.1833333
+hk,ngau au,Ngau Au,00,,22.2833333,113.9333333
+hk,ngau chi wan,Ngau Chi Wan,00,,22.3333333,114.2
+hk,ngau hom,Ngau Hom,00,,22.4666667,113.9833333
+hk,ngau hom sha,Ngau Hom Sha,00,,22.45,113.9666667
+hk,ngau hom shek,Ngau Hom Shek,00,,22.45,113.9666667
+hk,ngau keng,Ngau Keng,00,,22.4333333,114.0833333
+hk,ngau kok wan,Ngau Kok Wan,00,,22.3666667,114.0833333
+hk,ngau kwo tin,Ngau Kwo Tin,00,,22.2333333,113.8666667
+hk,ngau kwu long,Ngau Kwu Long,00,,22.3,113.9666667
+hk,ngau kwu wan,Ngau Kwu Wan,00,,22.25,114.0
+hk,ngau liu ha,Ngau Liu Ha,00,,22.45,114.2166667
+hk,ngau liu,Ngau Liu,00,,22.35,114.2333333
+hk,ngau pei sha,Ngau Pei Sha,00,,22.3833333,114.2
+hk,ngau pui wo,Ngau Pui Wo,00,,22.35,114.2333333
+hk,ngau shi wu,Ngau Shi Wu,00,,22.5166667,114.2666667
+hk,ngau tam mei,Ngau Tam Mei,00,,22.4833333,114.05
+hk,ngau tau kok,Ngau Tau Kok,00,,22.3166667,114.2166667
+hk,ngau wu tok,Ngau Wu Tok,00,,22.4,114.1833333
+hk,nga yiu ha,Nga Yiu Ha,00,,22.55,114.15
+hk,nga yiu tau,Nga Yiu Tau,00,,22.4166667,114.2666667
+hk,ng ka tsuen,Ng Ka Tsuen,00,,22.4333333,114.0666667
+hk,ngo ki,Ngo Ki,00,,22.3,113.9666667
+hk,ngong ping,Ngong Ping,00,,22.25,113.9
+hk,ngong shuen au,Ngong Shuen Au,00,,22.3333333,114.0333333
+hk,ngong wo,Ngong Wo,00,,22.4,114.2833333
+hk,ng tung chai,Ng Tung Chai,00,,22.4333333,114.1333333
+hk,ng uk tsuen,Ng Uk Tsuen,00,,22.4666667,114.0166667
+hk,nim au,Nim Au,00,,22.4166667,114.2
+hk,nim shue wan,Nim Shue Wan,00,,22.3,114.0166667
+hk,nim shue wan tsuen,Nim Shue Wan Tsuen,00,,22.3,114.0166667
+hk,nim wan,Nim Wan,00,,22.4166667,113.9333333
+hk,nim yuen,Nim Yuen,00,,22.2666667,113.9333333
+hk,niu-tzu-wan,Niu-tzu-wan,00,,22.3333333,114.2
+hk,north point estate,North Point Estate,00,,22.3,114.2
+hk,north point,North Point,00,,22.3,114.2
+hk,old tung chung hang,Old Tung Chung Hang,00,,22.2833333,113.95
+hk,on lok tsuen,On Lok Tsuen,00,,22.5,114.1333333
+hk,on lung tsuen,On Lung Tsuen,00,,22.5,114.0666667
+hk,o pui lung,O Pui Lung,00,,22.2833333,114.2166667
+hk,o tau,O Tau,00,,22.4,114.2833333
+hk,pai chong,Pai Chong,00,,22.2166667,114.0166667
+hk,pai mun,Pai Mun,00,,22.4166667,114.2
+hk,pai tau hang,Pai Tau Hang,00,,22.3833333,114.1833333
+hk,pai tau,Pai Tau,00,,22.3833333,114.1833333
+hk,pak a,Pak A,00,,22.35,114.35
+hk,pak hok chau,Pak Hok Chau,00,,22.4833333,114.05
+hk,pak kiu,Pak Kiu,00,,22.45,114.1666667
+hk,pak kok kau tsuen,Pak Kok Kau Tsuen,00,,22.2333333,114.1166667
+hk,pak kok,Pak Kok,00,,22.3,114.2
+hk,pak kok san tsuen,Pak Kok San Tsuen,00,,22.2333333,114.1166667
+hk,pak kok tsuen,Pak Kok Tsuen,00,,22.2333333,114.1166667
+hk,pak kong au,Pak Kong Au,00,,22.3833333,114.2666667
+hk,pak kong,Pak Kong,00,,22.3833333,114.25
+hk,pak kong tsun,Pak Kong Tsun,00,,22.3833333,114.25
+hk,pak kung au,Pak Kung Au,00,,22.3333333,114.2333333
+hk,pak lap,Pak Lap,00,,22.35,114.35
+hk,pak long,Pak Long,00,,22.4,113.9166667
+hk,pak mong,Pak Mong,00,,22.3,113.9666667
+hk,pak nai,Pak Nai,00,,22.45,113.95
+hk,pak ngan heung,Pak Ngan Heung,00,,22.2666667,113.9833333
+hk,pak ngau heung,Pak Ngau Heung,00,,22.2666667,113.9833333
+hk,pak ngau shek,Pak Ngau Shek,00,,22.45,114.1166667
+hk,pak sha au,Pak Sha Au,00,,22.45,114.3166667
+hk,pak sha o ha yeung,Pak Sha O Ha Yeung,00,,22.45,114.3166667
+hk,pak sha o,Pak Sha O,00,,22.45,114.3166667
+hk,pak sha tau,Pak Sha Tau,00,,22.5333333,114.2833333
+hk,pak sha tsai,Pak Sha Tsai,00,,22.45,114.0166667
+hk,pak sha tsuen,Pak Sha Tsuen,00,,22.4166667,114.0166667
+hk,pak sha wo liu,Pak Sha Wo Liu,00,,22.4166667,114.0166667
+hk,pak shek au,Pak Shek Au,00,,22.5,114.0833333
+hk,pak shek kiu,Pak Shek Kiu,00,,22.4,114.1
+hk,pak shek,Pak Shek,00,,22.3666667,114.1666667
+hk,pak shek wo,Pak Shek Wo,00,,22.3333333,114.2333333
+hk,pak shin kok,Pak Shin Kok,00,,22.3166667,114.2666667
+hk,pak tam au,Pak Tam Au,00,,22.4166667,114.3333333
+hk,pak tam chung,Pak Tam Chung,00,,22.4,114.3166667
+hk,pak tam,Pak Tam,00,,22.4166667,114.3166667
+hk,pak tin,Pak Tin,00,,22.3333333,114.1666667
+hk,pak tin pa,Pak Tin Pa,00,,22.3833333,114.1166667
+hk,pak tin pa san tsuen,Pak Tin Pa San Tsuen,00,,22.3833333,114.1166667
+hk,pak waii,Pak Waii,00,,22.3666667,114.25
+hk,pak wai,Pak Wai,00,,22.3666667,114.25
+hk,pak wan,Pak Wan,00,,22.35,114.0666667
+hk,pa-lo-wang,Pa-lo-wang,00,,22.2833333,113.9
+hk,pa mei san tsuen,Pa Mei San Tsuen,00,,22.2833333,113.9333333
+hk,pan chung,Pan Chung,00,,22.45,114.1666667
+hk,pan chung san tsuen,Pan Chung San Tsuen,00,,22.45,114.1666667
+hk,pang ka tsuen,Pang Ka Tsuen,00,,22.45,114.0666667
+hk,pan long wan,Pan Long Wan,00,,22.3166667,114.2833333
+hk,pa tau kwu,Pa Tau Kwu,00,,22.3166667,114.05
+hk,pat tsz wo,Pat Tsz Wo,00,,22.4,114.1833333
+hk,peang,Peang,00,,22.2833333,114.0333333
+hk,pei-lang,Pei-lang,00,,22.4,113.9166667
+hk,peng chau,Peng Chau,00,,22.2833333,114.0333333
+hk,pik uk,Pik Uk,00,,22.35,114.25
+hk,ping chau,Ping Chau,00,,22.2833333,114.0333333
+hk,ping che,Ping Che,00,,22.5333333,114.1666667
+hk,ping kong,Ping Kong,00,,22.4833333,114.1166667
+hk,ping long,Ping Long,00,,22.45,114.1333333
+hk,ping long wan,Ping Long Wan,00,,22.3166667,114.2833333
+hk,ping shan chai,Ping Shan Chai,00,,22.4833333,114.1833333
+hk,p'ing-shan-hsu,P'ing-shan-hsü,00,,22.45,114.0
+hk,ping shan,Ping Shan,00,,22.45,114.0
+hk,ping shan tsai,Ping Shan Tsai,00,,22.4833333,114.1833333
+hk,ping shek,Ping Shek,00,,22.3333333,114.2
+hk,ping tun,Ping Tun,00,,22.4166667,114.3
+hk,ping yeung,Ping Yeung,00,,22.5333333,114.1666667
+hk,po chue tam,Po Chue Tam,00,,22.2666667,113.8666667
+hk,po kat tsai,Po Kat Tsai,00,,22.5,114.1666667
+hk,pok wai,Pok Wai,00,,22.4666667,114.05
+hk,po lo shan,Po Lo Shan,00,,22.4166667,114.0833333
+hk,po min,Po Min,00,,22.4166667,114.2
+hk,port stanley,Port Stanley,00,,22.2166667,114.2
+hk,po sam pai,Po Sam Pai,00,,22.4666667,114.2
+hk,po toi o,Po Toi O,00,,22.2833333,114.3
+hk,po tong ha,Po Tong Ha,00,,22.4166667,113.9666667
+hk,pui o kau tsuen,Pui O Kau Tsuen,00,,22.25,113.9833333
+hk,pui o,Pui O,00,,22.25,113.9666667
+hk,pui o san tsuen,Pui O San Tsuen,00,,22.25,113.9666667
+hk,pun chun yuen,Pun Chun Yuen,00,,22.45,114.15
+hk,pun shan chau,Pun Shan Chau,00,,22.4333333,114.1666667
+hk,pun shan tsuen,Pun Shan Tsuen,00,,22.3833333,114.1
+hk,pun uk tsuen,Pun Uk Tsuen,00,,22.5166667,114.0833333
+hk,quarry bay,Quarry Bay,00,,22.2833333,114.2166667
+hk,rennie's mill camp,Rennie's Mill Camp,00,,22.3,114.25
+hk,rennie's mill,Rennie's Mill,00,,22.3,114.25
+hk,rennie's mill village,Rennie's Mill Village,00,,22.3,114.25
+hk,repulse bay,Repulse Bay,00,,22.2333333,114.2
+hk,sai chuk tsuen,Sai Chuk Tsuen,00,,22.5,114.15
+hk,sai kang,Sai Kang,00,,22.4166667,114.2666667
+hk,sai keng,Sai Keng,00,,22.4166667,114.2666667
+hk,sai king,Sai King,00,,22.4166667,114.2666667
+hk,saiki,Saiki,00,,22.2833333,114.2166667
+hk,sai kung,Sai Kung,00,,22.3833333,114.2666667
+hk,sai kung tuk,Sai Kung Tuk,00,,22.3833333,114.2666667
+hk,sai lau kok,Sai Lau Kok,00,,22.3833333,114.1166667
+hk,sai o,Sai O,00,,22.4333333,114.25
+hk,sai pin wai,Sai Pin Wai,00,,22.45,114.0333333
+hk,sai,Sai,00,,22.2833333,114.2166667
+hk,sai shan,Sai Shan,00,,22.35,114.1166667
+hk,sai shan tsuen,Sai Shan Tsuen,00,,22.45,113.9833333
+hk,sai tau wai,Sai Tau Wai,00,,22.45,114.0166667
+hk,sai tso wan,Sai Tso Wan,00,,22.2666667,113.8833333
+hk,sai tsuen,Sai Tsuen,00,,22.2833333,113.9833333
+hk,sai wan estate,Sai Wan Estate,00,,22.2833333,114.1333333
+hk,sai wan ho,Sai Wan Ho,00,,22.2833333,114.2166667
+hk,sai wan,Sai Wan,00,,22.4,114.3666667
+hk,sai ying poon,Sai Ying Poon,00,,22.2833333,114.1333333
+hk,sai ying pun,Sai Ying Pun,00,,22.2833333,114.1333333
+hk,sam a chung,Sam A Chung,00,,22.5166667,114.2666667
+hk,sam a tsuen,Sam A Tsuen,00,,22.5166667,114.2666667
+hk,sam cheung,Sam Cheung,00,,22.3666667,114.05
+hk,sam chuen,Sam Chuen,00,,22.35,114.05
+hk,sam chung,Sam Chung,00,,22.45,114.2833333
+hk,sam fai tin,Sam Fai Tin,00,,22.3666667,114.25
+hk,sam ka tsuen,Sam Ka Tsuen,00,,22.2833333,114.2333333
+hk,sam long tsuen,Sam Long Tsuen,00,,22.3333333,114.2333333
+hk,sam mun tsai,Sam Mun Tsai,00,,22.45,114.25
+hk,sam pak,Sam Pak,00,,22.3166667,114.0166667
+hk,sam shing hiu,Sam Shing Hiu,00,,22.3833333,113.9833333
+hk,sam shing hui,Sam Shing Hui,00,,22.3833333,113.9833333
+hk,sam shui po,Sam shui po,00,,22.3333333,114.15
+hk,sam tsuen,Sam Tsuen,00,,22.3666667,114.1166667
+hk,sam tung uk,Sam Tung Uk,00,,22.3666667,114.1166667
+hk,san hei tsuen,San Hei Tsuen,00,,22.4333333,114.0
+hk,san hing tsuen,San Hing Tsuen,00,,22.4166667,113.9833333
+hk,san hui,San Hui,00,,22.4,113.9666667
+hk,san keng,San Keng,00,,22.2666667,113.9333333
+hk,san kwai tin,San Kwai Tin,00,,22.55,114.1833333
+hk,san lei uk tsuen,San Lei Uk Tsuen,00,,22.4333333,113.9833333
+hk,san lung tsuen,San Lung Tsuen,00,,22.5,114.0666667
+hk,san lung wai,San Lung Wai,00,,22.45,114.1
+hk,san po kong,San Po Kong,00,,22.3333333,114.2
+hk,san shek wan,San Shek Wan,00,,22.2333333,113.9666667
+hk,san tau kok,San Tau Kok,00,,22.4666667,114.2
+hk,san tau,San Tau,00,,22.2833333,113.9166667
+hk,san tau yiu,San Tau Yiu,00,,22.5,114.2333333
+hk,san tin hang,San Tin Hang,00,,22.4,114.2833333
+hk,san tin,San Tin,00,,22.5,114.0666667
+hk,san tin san wai,San Tin San Wai,00,,22.4666667,114.05
+hk,san tin wai,San Tin Wai,00,,22.3666667,114.1833333
+hk,san tong po,San Tong Po,00,,22.5166667,114.1666667
+hk,san tong,San Tong,00,,22.45,114.1333333
+hk,san tsuen,San Tsuen,00,,22.3833333,114.1166667
+hk,san tsun,San Tsun,00,,22.25,113.9666667
+hk,san uk ha,San Uk Ha,00,,22.4333333,114.1666667
+hk,san uk ling,San Uk Ling,00,,22.5333333,114.1333333
+hk,san uk,San Uk,00,,22.4,114.2666667
+hk,san uk tsai,San Uk Tsai,00,,22.45,114.1333333
+hk,san uk tsuen,San Uk Tsuen,00,,22.3666667,114.1
+hk,san wai,San Wai,00,,22.45,113.9833333
+hk,san wai tsai,San Wai Tsai,00,,22.4166667,113.9666667
+hk,sau ke wan,Sau Ke Wan,00,,22.2833333,114.2166667
+hk,sau ki wan,Sau Ki Wan,00,,22.2833333,114.2166667
+hk,sau mau ping,Sau Mau Ping,00,,22.3166667,114.2333333
+hk,sei ying poon,Sei Ying Poon,00,,22.2833333,114.1333333
+hk,sek kong,Sek Kong,00,,22.4333333,114.1
+hk,sek kong wai,Sek Kong Wai,00,,22.45,113.9833333
+hk,sha ha,Sha Ha,00,,22.3833333,114.2666667
+hk,sha kok mei,Sha Kok Mei,00,,22.3833333,114.2666667
+hk,sha kok mi,Sha Kok Mi,00,,22.3833333,114.2666667
+hk,sha kong miu,Sha Kong Miu,00,,22.4666667,113.9833333
+hk,sha kong tsuen,Sha Kong Tsuen,00,,22.4666667,113.9833333
+hk,sha kong wai,Sha Kong Wai,00,,22.4666667,113.9833333
+hk,sha kong wai tsai,Sha Kong Wai Tsai,00,,22.4666667,113.9833333
+hk,sha lan,Sha Lan,00,,22.4666667,114.2
+hk,sha ling,Sha Ling,00,,22.5333333,114.1166667
+hk,sha lo tung lo wai,Sha Lo Tung Lo Wai,00,,22.4833333,114.1833333
+hk,sha lo tung,Sha Lo Tung,00,,22.4833333,114.1833333
+hk,sha lo wan,Sha Lo Wan,00,,22.2833333,113.9
+hk,sham chung,Sham Chung,00,,22.4333333,114.0333333
+hk,sham shui po,Sham Shui Po,00,,22.3333333,114.15
+hk,sham tseng,Sham Tseng,00,,22.3666667,114.05
+hk,sham wan tsuen,Sham Wan Tsuen,00,,22.3166667,113.9333333
+hk,sham wat,Sham Wat,00,,22.2666667,113.8833333
+hk,shan ha,Shan Ha,00,,22.2833333,113.9333333
+hk,shan ha tsuen,Shan Ha Tsuen,00,,22.4333333,114.0166667
+hk,shan ha wai,Shan Ha Wai,00,,22.3833333,114.1833333
+hk,shan kai wat,Shan Kai Wat,00,,22.4166667,113.9666667
+hk,shan liu,Shan Liu,00,,22.1666667,114.2666667
+hk,shan mei,Shan Mei,00,,22.4,114.1833333
+hk,shan pui,Shan Pui,00,,22.45,114.0333333
+hk,shan shin po,Shan Shin Po,00,,22.3333333,114.15
+hk,shan tau kok,Shan Tau Kok,00,,22.4666667,114.2
+hk,shan ting tsuen,Shan Ting Tsuen,00,,22.2833333,114.0333333
+hk,shan tseng,Shan Tseng,00,,22.3666667,114.05
+hk,shan tsui,Shan Tsui,00,,22.55,114.2166667
+hk,sha pa,Sha Pa,00,,22.45,114.1333333
+hk,shap long kau tsuen,Shap Long Kau Tsuen,00,,22.2333333,113.9833333
+hk,shap long san tsuen,Shap Long San Tsuen,00,,22.25,113.9833333
+hk,sha po kong,Sha Po Kong,00,,22.3833333,113.9166667
+hk,sha po ng tsuen,Sha Po Ng Tsuen,00,,22.45,114.05
+hk,sha po,Sha Po,00,,22.2166667,114.1166667
+hk,sha tau kok,Sha Tau Kok,00,,22.55,114.2166667
+hk,sha tau kok tan ka,Sha Tau Kok Tan Ka,00,,22.55,114.2166667
+hk,sha tau,Sha Tau,00,,22.4166667,114.35
+hk,sha tin new town,Sha Tin New Town,00,,22.3833333,114.1833333
+hk,sha tin,Sha Tin,00,,22.3833333,114.1833333
+hk,sha tin tau,Sha Tin Tau,00,,22.3833333,114.1833333
+hk,sha tin wai,Sha Tin Wai,00,,22.3833333,114.2
+hk,sha-t'ou-chiao,Sha-t'ou-chiao,00,,22.55,114.2166667
+hk,shatoujiao,Shatoujiao,00,,22.55,114.2166667
+hk,sha tsiu,Sha Tsiu,00,,22.3666667,114.35
+hk,shau kei wan,Shau Kei Wan,00,,22.2833333,114.2166667
+hk,shau ki wan,Shau Ki Wan,00,,22.2833333,114.2166667
+hk,sheh tong tsui,Sheh Tong Tsui,00,,22.2833333,114.1333333
+hk,shek chung au,Shek Chung Au,00,,22.5333333,114.2166667
+hk,shek hang,Shek Hang,00,,22.4166667,114.3
+hk,shek kip mei,Shek Kip Mei,00,,22.3333333,114.1666667
+hk,shek kip mi resettlement area,Shek Kip Mi Resettlement Area,00,,22.3333333,114.1666667
+hk,shek kip mi village,Shek Kip Mi Village,00,,22.3333333,114.1666667
+hk,shek kiu tau,Shek Kiu Tau,00,,22.5333333,114.2
+hk,shek kok tsui,Shek Kok Tsui,00,,22.3833333,113.95
+hk,shek ko lung,Shek Ko Lung,00,,22.45,114.15
+hk,shek kong,Shek Kong,00,,22.4333333,114.1
+hk,shek kwu lung,Shek Kwu Lung,00,,22.3833333,114.2166667
+hk,shek lau po,Shek Lau Po,00,,22.2833333,113.9333333
+hk,shek lau tung,Shek Lau Tung,00,,22.4166667,114.1666667
+hk,shek lei,Shek Lei,00,,22.3666667,114.1333333
+hk,shek lung tsai,Shek Lung Tsai,00,,22.4,114.2333333
+hk,shek mun kap,Shek Mun Kap,00,,22.2666667,113.9333333
+hk,shek o village,Shek O Village,00,,22.2333333,114.25
+hk,shek pai tau,Shek Pai Tau,00,,22.4,113.9666667
+hk,shek pai wan resettlement estate,Shek Pai Wan Resettlement Estate,00,,22.25,114.1666667
+hk,shekpaiwan,Shekpaiwan,00,,22.25,114.15
+hk,shek pan tam,Shek Pan Tam,00,,22.5166667,114.2166667
+hk,shek pik au,Shek Pik Au,00,,22.2666667,113.9333333
+hk,shek pok wai,Shek Pok Wai,00,,22.35,114.2333333
+hk,shek po tsuen,Shek Po Tsuen,00,,22.45,114.0
+hk,shek tau wai,Shek Tau Wai,00,,22.4333333,114.1
+hk,shek tong tsui,Shek Tong Tsui,00,,22.2833333,114.1333333
+hk,shek tsai po,Shek Tsai Po,00,,22.25,113.85
+hk,shek wai kok,Shek Wai Kok,00,,22.3833333,114.1166667
+hk,shek wo hui,Shek Wo Hui,00,,22.5,114.1166667
+hk,shek wu hui,Shek Wu Hui,00,,22.5,114.1166667
+hk,shek wu tong,Shek Wu Tong,00,,22.4333333,114.0666667
+hk,shek wu wai,Shek Wu Wai,00,,22.5,114.0666667
+hk,shep kip mei,Shep Kip Mei,00,,22.3333333,114.1666667
+hk,she shan,She Shan,00,,22.45,114.1333333
+hk,she tau,She Tau,00,,22.4,114.3
+hk,sheung che,Sheung Che,00,,22.45,114.1
+hk,sheung cheung wai,Sheung Cheung Wai,00,,22.45,114.0
+hk,sheung chuk yuen,Sheung Chuk Yuen,00,,22.4833333,114.05
+hk,sheung chung mei,Sheung Chung Mei,00,,22.35,114.1
+hk,sheung fa shan,Sheung Fa Shan,00,,22.3833333,114.0833333
+hk,sheung hoi pa,Sheung Hoi Pa,00,,22.3666667,114.1166667
+hk,sheung keng hau,Sheung Keng Hau,00,,22.3666667,114.1666667
+hk,sheung king hau,Sheung King Hau,00,,22.3666667,114.1666667
+hk,sheung ko tan,Sheung Ko Tan,00,,22.35,114.1
+hk,sheung kwai chung wai,Sheung Kwai Chung Wai,00,,22.3833333,114.1333333
+hk,sheung lau wan,Sheung Lau Wan,00,,22.2833333,114.2833333
+hk,sheung ling pei,Sheung Ling Pei,00,,22.2833333,113.9333333
+hk,sheung miu tin,Sheung Miu Tin,00,,22.5,114.25
+hk,sheung san wai,Sheung San Wai,00,,22.4666667,114.05
+hk,sheung shan kai wat,Sheung Shan Kai Wat,00,,22.5166667,114.15
+hk,sheung shui choi yuen tsuen,Sheung Shui Choi Yuen Tsuen,00,,22.5,114.1333333
+hk,sheung shui,Sheung Shui,00,,22.5166667,114.1166667
+hk,sheung shui tsuen,Sheung Shui Tsuen,00,,22.5166667,114.1166667
+hk,sheung shui wa shan,Sheung Shui Wa Shan,00,,22.5166667,114.1333333
+hk,sheung sz wan,Sheung Sz Wan,00,,22.3166667,114.2833333
+hk,sheung tam shui hang,Sheung Tam Shui Hang,00,,22.55,114.2166667
+hk,sheung tong,Sheung Tong,00,,22.4,114.0833333
+hk,sheung tsat muk kiu,Sheung Tsat Muk Kiu,00,,22.5,114.2166667
+hk,sheung tsuen lai ka tsz,Sheung Tsuen Lai Ka Tsz,00,,22.4333333,114.0833333
+hk,sheung tsuen,Sheung Tsuen,00,,22.1666667,113.9
+hk,sheung wan,Sheung Wan,00,,22.2833333,114.15
+hk,sheung wo hang,Sheung Wo Hang,00,,22.5333333,114.2
+hk,sheung wong yi au,Sheung Wong Yi Au,00,,22.4333333,114.1833333
+hk,sheung wun yiu,Sheung Wun Yiu,00,,22.4333333,114.1666667
+hk,sheung yau tin,Sheung Yau Tin,00,,22.4333333,114.0333333
+hk,sheung yeung,Sheung Yeung,00,,22.3166667,114.2833333
+hk,sheung yiu,Sheung Yiu,00,,22.4,114.3166667
+hk,sheung yuen leng,Sheung Yuen Leng,00,,22.3333333,114.2
+hk,shing on,Shing On,00,,22.2833333,114.2166667
+hk,shing uk,Shing Uk,00,,22.2666667,114.2333333
+hk,shing uk tsuen,Shing Uk Tsuen,00,,22.4666667,114.0166667
+hk,shouson hill,Shouson Hill,00,,22.25,114.1833333
+hk,shuen wan chan uk,Shuen Wan Chan Uk,00,,22.4666667,114.2
+hk,shuen wan chim uk,Shuen Wan Chim Uk,00,,22.4666667,114.2
+hk,shuen wan lei uk,Shuen Wan Lei Uk,00,,22.4666667,114.2
+hk,shuen wan,Shuen Wan,00,,22.4666667,114.2
+hk,shui hau,Shui Hau,00,,22.2166667,113.9166667
+hk,shui lau tin,Shui Lau Tin,00,,22.4333333,114.0833333
+hk,shui mei,Shui Mei,00,,22.45,114.0666667
+hk,shui mong tin,Shui Mong Tin,00,,22.45,114.2166667
+hk,shui pin tsuen,Shui Pin Tsuen,00,,22.45,114.0166667
+hk,shui pin wai,Shui Pin Wai,00,,22.45,114.0166667
+hk,shui tau,Shui Tau,00,,22.45,114.0666667
+hk,shui tin tsuen,Shui Tin Tsuen,00,,22.45,114.0166667
+hk,shui tsan tin,Shui Tsan Tin,00,,22.4333333,114.0833333
+hk,shui tseng wan,Shui Tseng Wan,00,,22.25,114.0
+hk,shui tsiu lo wai,Shui Tsiu Lo Wai,00,,22.4333333,114.0333333
+hk,shui tsiu san tsuen,Shui Tsiu San Tsuen,00,,22.4333333,114.0333333
+hk,shui wo,Shui Wo,00,,22.45,114.1166667
+hk,shung him tong,Shung Him Tong,00,,22.5,114.15
+hk,sik kong tsuen,Sik Kong Tsuen,00,,22.45,113.9833333
+hk,sik kong wai,Sik Kong Wai,00,,22.45,113.9833333
+hk,sin yan tseng,Sin Yan Tseng,00,,22.2,114.0166667
+hk,siu a chau tsuen,Siu A Chau Tsuen,00,,22.1833333,113.9
+hk,siu chik sha,Siu Chik Sha,00,,22.3,114.2666667
+hk,siu hang hau,Siu Hang Hau,00,,22.3,114.2833333
+hk,siu hang san tsuen,Siu Hang San Tsuen,00,,22.5166667,114.15
+hk,siu hang tsuen,Siu Hang Tsuen,00,,22.4166667,113.9666667
+hk,siu kau,Siu Kau,00,,22.4833333,114.2833333
+hk,siu lang shui,Siu Lang Shui,00,,22.3666667,113.9333333
+hk,siu lek yuen,Siu Lek Yuen,00,,22.3833333,114.2166667
+hk,siu lik yuen,Siu Lik Yuen,00,,22.3833333,114.2166667
+hk,siu om shan,Siu Om Shan,00,,22.4333333,114.1333333
+hk,sok kwu wan,Sok Kwu Wan,00,,22.2,114.1333333
+hk,so kon po,So Kon Po,00,,22.2833333,114.1833333
+hk,so kun wat,So Kun Wat,00,,22.3833333,114.0
+hk,so kwun po,So Kwun Po,00,,22.5,114.1333333
+hk,so kwun wat san tsuen,So Kwun Wat San Tsuen,00,,22.3833333,114.0
+hk,so kwun wat,So Kwun Wat,00,,22.3833333,114.0
+hk,so lo pun,So Lo Pun,00,,22.5333333,114.25
+hk,sookung poo,Sookung Poo,00,,22.2833333,114.1833333
+hk,soo kun poo,Soo Kun Poo,00,,22.2833333,114.1833333
+hk,stanley,Stanley,00,,22.2166667,114.2
+hk,stanley village,Stanley Village,00,,22.2166667,114.2
+hk,sui lam,Sui Lam,00,,22.3666667,114.0166667
+hk,sun fung wai,Sun Fung Wai,00,,22.4333333,113.9833333
+hk,sze pak,Sze Pak,00,,22.3166667,114.0333333
+hk,sz pak,Sz Pak,00,,22.3166667,114.0333333
+hk,sz tsz uk,Sz Tsz Uk,00,,22.45,114.0333333
+hk,ta-chiao tsui,Ta-chiao Tsui,00,,22.3166667,114.1666667
+hk,ta-hao,Ta-hao,00,,22.3,113.9666667
+hk,ta ho tun,Ta Ho Tun,00,,22.3666667,114.2666667
+hk,tai au mun,Tai Au Mun,00,,22.3,114.2833333
+hk,tai chau to,Tai Chau To,00,,22.5166667,114.3
+hk,tai che,Tai Che,00,,22.3833333,114.2166667
+hk,tai chik sha,Tai Chik Sha,00,,22.3,114.2833333
+hk,tai ching cheung,Tai Ching Cheung,00,,22.35,114.1333333
+hk,tai chuen,Tai Chuen,00,,22.35,114.05
+hk,tai hang hau,Tai Hang Hau,00,,22.3,114.3
+hk,tai hang mei,Tai Hang Mei,00,,22.1666667,114.25
+hk,tai hang,Tai Hang,00,,22.2833333,114.1833333
+hk,tai hang tsun,Tai hang tsun,00,,22.2833333,114.1833333
+hk,tai hang village,Tai Hang Village,00,,22.2833333,114.1833333
+hk,tai hom,Tai Hom,00,,22.4333333,114.3
+hk,tai hom village,Tai Hom Village,00,,22.35,114.2
+hk,tai hong tsuen,Tai Hong Tsuen,00,,22.4333333,114.0666667
+hk,tai hong wai,Tai Hong Wai,00,,22.45,114.0666667
+hk,tai ho,Tai ho,00,,22.25,113.8666667
+hk,tai kau,Tai Kau,00,,22.5,114.2833333
+hk,tai kei leng,Tai Kei Leng,00,,22.4333333,114.0333333
+hk,tai kek,Tai Kek,00,,22.4166667,114.0666667
+hk,tai kok tsui,Tai Kok Tsui,00,,22.3166667,114.1666667
+hk,tai kok tsu,Tai Kok Tsu,00,,22.3166667,114.1666667
+hk,tai kong po,Tai Kong Po,00,,22.45,114.0666667
+hk,tai lam chung,Tai Lam Chung,00,,22.3666667,114.0166667
+hk,tai lam chung tsuen,Tai Lam Chung Tsuen,00,,22.3666667,114.0166667
+hk,tai lam chung wong uk,Tai Lam Chung Wong Uk,00,,22.3666667,114.0166667
+hk,tai lam chung wu uk,Tai Lam Chung Wu Uk,00,,22.3666667,114.0166667
+hk,tai lam liu,Tai Lam Liu,00,,22.3833333,114.2166667
+hk,tai lam wu,Tai Lam Wu,00,,22.35,114.2333333
+hk,tai lang shui,Tai Lang Shui,00,,22.4,113.9333333
+hk,tai lin pai,Tai Lin Pai,00,,22.3666667,114.1333333
+hk,tai long ham tin,Tai Long Ham Tin,00,,22.4166667,114.3666667
+hk,tai long,Tai Long,00,,22.2166667,114.0
+hk,tai long wan,Tai Long Wan,00,,22.2166667,113.8833333
+hk,tai mei tuk,Tai Mei Tuk,00,,22.4666667,114.2333333
+hk,tai mong che,Tai Mong Che,00,,22.45,114.1333333
+hk,tai mong tsai,Tai Mong Tsai,00,,22.4,114.3
+hk,tai no sheung yeung,Tai No Sheung Yeung,00,,22.3666667,114.2333333
+hk,tai no,Tai No,00,,22.3666667,114.2333333
+hk,tai om shan,Tai Om Shan,00,,22.4333333,114.1333333
+hk,tai om,Tai Om,00,,22.45,114.1333333
+hk,tai o,Tai O,00,,22.25,113.8666667
+hk,tai o town,Tai O Town,00,,22.25,113.8666667
+hk,tai pak,Tai Pak,00,,22.3,114.0166667
+hk,tai peng,Tai Peng,00,,22.2333333,114.1166667
+hk,tai ping shan,Tai Ping Shan,00,,22.2833333,114.15
+hk,tai-po-hui,Tai-po-hui,00,,22.45,114.1666667
+hk,tai po kau hui,Tai Po Kau Hui,00,,22.45,114.1666667
+hk,tai po kau lo wai,Tai Po Kau Lo Wai,00,,22.4333333,114.1833333
+hk,tai po kau residential area,Tai Po Kau Residential Area,00,,22.4333333,114.1833333
+hk,tai po kau san wai,Tai Po Kau San Wai,00,,22.4333333,114.1833333
+hk,tai po kau,Tai Po Kau,00,,22.4333333,114.1833333
+hk,tai po market,Tai Po Market,00,,22.45,114.1666667
+hk,tai po mei,Tai Po Mei,00,,22.4166667,114.2
+hk,tai po old market,Tai Po Old Market,00,,22.45,114.1666667
+hk,tai po,Tai Po,00,,22.3,113.95
+hk,tai po tau lo wai,Tai Po Tau Lo Wai,00,,22.45,114.15
+hk,tai po tau,Tai Po Tau,00,,22.45,114.15
+hk,tai po tin,Tai Po Tin,00,,22.5333333,114.15
+hk,tai po tsai,Tai Po Tsai,00,,22.3333333,114.25
+hk,tai shang wai,Tai Shang Wai,00,,22.4833333,114.0333333
+hk,tai shek hau,Tai Shek Hau,00,,22.2,114.0166667
+hk,tai she wan,Tai She Wan,00,,22.35,114.3333333
+hk,tai shui hang,Tai Shui Hang,00,,22.4,114.2166667
+hk,tai tam,Tai Tam,00,,22.2166667,114.2166667
+hk,tai tan,Tai Tan,00,,22.4333333,114.3333333
+hk,tai tau leng,Tai Tau Leng,00,,22.5,114.1166667
+hk,tai tau ling,Tai Tau Ling,00,,22.5,114.1166667
+hk,tai tei tong,Tai Tei Tong,00,,22.2666667,113.9833333
+hk,tai ti tong,Tai Ti Tong,00,,22.2666667,113.9833333
+hk,tai tong,Tai Tong,00,,22.4166667,114.0166667
+hk,tai tseng wai,Tai Tseng Wai,00,,22.4666667,114.0166667
+hk,tai tsing chau,Tai Tsing Chau,00,,22.3333333,114.0333333
+hk,tai tsoi yuen kui,Tai Tsoi Yuen Kui,00,,22.2,114.0333333
+hk,tai tung,Tai Tung,00,,22.4333333,114.2666667
+hk,tai tung wo liu,Tai Tung Wo Liu,00,,22.4166667,114.2666667
+hk,tai uk,Tai Uk,00,,22.3833333,114.1833333
+hk,tai uk wai,Tai Uk Wai,00,,22.3666667,114.1166667
+hk,tai wai,Tai Wai,00,,22.3833333,114.1833333
+hk,tai wan kau tsuen,Tai Wan Kau Tsuen,00,,22.2166667,114.1166667
+hk,tai wan san tsuen,Tai Wan San Tsuen,00,,22.2166667,114.1166667
+hk,tai wan,Tai Wan,00,,22.1666667,114.25
+hk,tai wan tau,Tai Wan Tau,00,,22.3,114.3
+hk,tai wan to,Tai Wan To,00,,22.2166667,114.1166667
+hk,tai wan tsan,Tai Wan Tsan,00,,22.2166667,114.1166667
+hk,tai wan tsuen,Tai Wan Tsuen,00,,22.2166667,114.1166667
+hk,tai wan tsun,Tai Wan Tsun,00,,22.2166667,114.1166667
+hk,tai wo hau resettlement area,Tai Wo Hau Resettlement Area,00,,22.3666667,114.1333333
+hk,tai wo hau,Tai Wo Hau,00,,22.3666667,114.1333333
+hk,tai wong ha,Tai Wong Ha,00,,22.35,114.1
+hk,tai wong sheung,Tai Wong Sheung,00,,22.35,114.1
+hk,tai wong,Tai Wong,00,,22.35,114.1
+hk,tai wo ping,Tai Wo Ping,00,,22.35,114.1666667
+hk,tai-wo-shi,Tai-wo-shi,00,,22.45,114.1666667
+hk,tai wo,Tai Wo,00,,22.35,114.1333333
+hk,tak yuet lau,Tak Yuet Lau,00,,22.5333333,114.1166667
+hk,ta-lang,Ta-lang,00,,22.2166667,114.0
+hk,tam kon chau,Tam Kon Chau,00,,22.5,114.05
+hk,tam kon shan,Tam Kon Shan,00,,22.3666667,114.1
+hk,tam shui hang,Tam Shui Hang,00,,22.55,114.2166667
+hk,tam wat,Tam Wat,00,,22.4,114.3
+hk,tan cheung,Tan Cheung,00,,22.3833333,114.2666667
+hk,tan chuk hang lo wai,Tan Chuk Hang Lo Wai,00,,22.5166667,114.1666667
+hk,tan chuk hang,Tan Chuk Hang,00,,22.5166667,114.1833333
+hk,tan ka wan,Tan Ka Wan,00,,22.45,114.35
+hk,tan kwai tsuen,Tan Kwai Tsuen,00,,22.4333333,114.0
+hk,tanner hill estate,Tanner Hill Estate,00,,22.2833333,114.2
+hk,tan shan tsuen,Tan Shan Tsuen,00,,22.3333333,114.2333333
+hk,tao feng shan,Tao Feng Shan,00,,22.3833333,114.1833333
+hk,ta pang po,Ta Pang Po,00,,22.3333333,114.0166667
+hk,tap mun shi,Tap Mun Shi,00,,22.4666667,114.35
+hk,tap mun,Tap Mun,00,,22.4666667,114.35
+hk,ta shek wu,Ta Shek Wu,00,,22.4666667,114.1
+hk,ta-shui-k'eng,Ta-shui-k'eng,00,,22.4166667,113.9333333
+hk,ta tit yan,Ta Tit Yan,00,,22.4166667,114.1666667
+hk,tei tong tsai,Tei Tong Tsai,00,,22.2666667,113.9166667
+hk,tei tong tsui,Tei Tong Tsui,00,,22.2666667,114.2833333
+hk,tin fu tsai,Tin Fu Tsai,00,,22.4,114.0666667
+hk,tingkao,Tingkao,00,,22.3666667,114.0833333
+hk,ting kau,Ting Kau,00,,22.3666667,114.0833333
+hk,ting kaw,Ting Kaw,00,,22.3666667,114.0833333
+hk,ting kok,Ting Kok,00,,22.4666667,114.2166667
+hk,tin ha,Tin Ha,00,,22.2833333,114.2833333
+hk,tin hau miu,Tin Hau Miu,00,,22.2166667,114.0166667
+hk,tin ha wan,Tin Ha Wan,00,,22.2833333,114.2833333
+hk,tin liu ha,Tin Liu Ha,00,,22.45,114.1333333
+hk,tin liu,Tin Liu,00,,22.3,113.9833333
+hk,tin liu tsuen,Tin Liu Tsuen,00,,22.4333333,114.0166667
+hk,tin sam,Tin Sam,00,,22.3666667,114.1833333
+hk,tin shui wai,Tin Shui Wai,00,,22.4666667,114.0
+hk,tin wan resettlement estate,Tin Wan Resettlement Estate,00,,22.25,114.15
+hk,tin wan,Tin Wan,00,,22.25,114.15
+hk,tit hang,Tit Hang,00,,22.5166667,114.0833333
+hk,tit kim hang,Tit Kim Hang,00,,22.4,114.3
+hk,tiu keng leng,Tiu Keng Leng,00,,22.3,114.25
+hk,tiu keng wan,Tiu Keng Wan,00,,22.3,114.25
+hk,to fung shan,To Fung Shan,00,,22.3833333,114.1833333
+hk,toh shek,Toh shek,00,,22.3833333,114.2
+hk,tok wah wan,Tok Wah Wan,00,,22.3166667,114.1833333
+hk,to kwa peng,To Kwa Peng,00,,22.4333333,114.3333333
+hk,to kwa wan,To Kwa Wan,00,,22.3166667,114.1833333
+hk,tolamchin,Tolamchin,00,,22.3666667,114.0166667
+hk,tong fong,Tong Fong,00,,22.5333333,114.15
+hk,tong fong tsuen,Tong Fong Tsuen,00,,22.45,114.0
+hk,tong fuk,Tong Fuk,00,,22.2333333,113.9333333
+hk,tong hang,Tong Hang,00,,22.4833333,114.15
+hk,tong kai tseng,Tong Kai Tseng,00,,22.45,114.2166667
+hk,tong kung leng,Tong Kung Leng,00,,22.4833333,114.1
+hk,tong lo wan,Tong Lo Wan,00,,22.2833333,114.1833333
+hk,tong min tsuen,Tong Min Tsuen,00,,22.45,114.1333333
+hk,tong tau po,Tong Tau Po,00,,22.4333333,114.0333333
+hk,tong to,Tong To,00,,22.55,114.2166667
+hk,tong yan san tsuen,Tong Yan San Tsuen,00,,22.4333333,114.0
+hk,tong yau san tsuen,Tong Yau San Tsuen,00,,22.4333333,114.0
+hk,to shek,To Shek,00,,22.3833333,114.2
+hk,to tau,To Tau,00,,22.4333333,114.2333333
+hk,to tei wan,To Tei Wan,00,,22.2333333,114.2333333
+hk,to yuen tung,To Yuen Tung,00,,22.45,114.1666667
+hk,to yuen wai,To Yuen Wai,00,,22.4166667,113.9833333
+hk,tsai muk kiu,Tsai muk kiu,00,,22.5166667,114.2166667
+hk,tsak yue wu,Tsak Yue Wu,00,,22.4,114.3166667
+hk,tsam chuk wan,Tsam Chuk Wan,00,,22.4,114.3
+hk,tsang kok,Tsang Kok,00,,22.4166667,113.9166667
+hk,tsang tai uk,Tsang Tai Uk,00,,22.3833333,114.1833333
+hk,tsat muk kiu,Tsat Muk Kiu,00,,22.5166667,114.2166667
+hk,tsat sing kong,Tsat Sing Kong,00,,22.45,114.0833333
+hk,tsat tsz mui,Tsat Tsz Mui,00,,22.3,114.2
+hk,tseng lan shue,Tseng Lan Shue,00,,22.3333333,114.2333333
+hk,tseng lan shu,Tseng Lan Shu,00,,22.3333333,114.2333333
+hk,tseng tau san tsuen,Tseng Tau San Tsuen,00,,22.2666667,113.9833333
+hk,tseng tau,Tseng Tau,00,,22.4333333,114.2666667
+hk,tseng tau wai,Tseng Tau Wai,00,,22.4,113.9833333
+hk,tseung kong wai,Tseung Kong Wai,00,,22.45,113.9833333
+hk,tseung kwan o,Tseung Kwan O,00,,22.3333333,114.25
+hk,tsim sha tsui,Tsim Sha Tsui,00,,22.3,114.1666667
+hk,tsing chau tsai,Tsing Chau Tsai,00,,22.3333333,114.0333333
+hk,tsing chau wan,Tsing Chau Wan,00,,22.3333333,114.0333333
+hk,tsing chuen wai,Tsing Chuen Wai,00,,22.4333333,113.9833333
+hk,tsing fai tong,Tsing Fai Tong,00,,22.3833333,114.0666667
+hk,tsing leng tsui,Tsing Leng Tsui,00,,22.35,114.1166667
+hk,tsing lung tau,Tsing Lung Tau,00,,22.36,114.0444444
+hk,tsing lung tsuen,Tsing Lung Tsuen,00,,22.5,114.0666667
+hk,tsing shan tsuen,Tsing Shan Tsuen,00,,22.4,113.9666667
+hk,tsing tau,Tsing Tau,00,,22.4333333,114.2666667
+hk,tsing yi town,Tsing Yi Town,00,,22.35,114.1
+hk,tsin shui ma tau,Tsin Shui Ma Tau,00,,22.2833333,114.2333333
+hk,tsin shui wan,Tsin Shui Wan,00,,22.2333333,114.2
+hk,tsin yue wan,Tsin Yue Wan,00,,22.2166667,113.8333333
+hk,tsiu hang hau,Tsiu Hang Hau,00,,22.3666667,114.2666667
+hk,tsiu hang,Tsiu Hang,00,,22.3666667,114.2666667
+hk,tsiu keng lo wai,Tsiu Keng Lo Wai,00,,22.4833333,114.1
+hk,tsiu keng pang uk,Tsiu Keng Pang Uk,00,,22.4833333,114.1
+hk,tsiu lam,Tsiu Lam,00,,22.4666667,114.2
+hk,tsiu lung,Tsiu Lung,00,,22.3833333,114.2666667
+hk,tsiu wo,Tsiu Wo,00,,22.3,114.2833333
+hk,tsoi yuen kok,Tsoi Yuen Kok,00,,22.55,114.2166667
+hk,tsoi yuen tsuen,Tsoi Yuen Tsuen,00,,22.2666667,113.9833333
+hk,tsok pok hang,Tsok Pok Hang,00,,22.3833333,114.2
+hk,tso kung tam,Tso Kung Tam,00,,22.3833333,114.1
+hk,tso tui ha,Tso Tui Ha,00,,22.3666667,114.2166667
+hk,tso wan,Tso Wan,00,,22.3166667,114.05
+hk,tso wo hang,Tso Wo Hang,00,,22.4,114.2833333
+hk,tsuen wan,Tsuen Wan,00,,22.3666667,114.1
+hk,tsui king lo wai,Tsui King Lo Wai,00,,22.4833333,114.1
+hk,tsung pak long,Tsung Pak Long,00,,22.5,114.1166667
+hk,tsung tau ha,Tsung Tau Ha,00,,22.4,114.2
+hk,tsung tsai yuen,Tsung Tsai Yuen,00,,22.4333333,114.1833333
+hk,tsung yuen ha,Tsung Yuen Ha,00,,22.55,114.15
+hk,tsung yuen,Tsung Yuen,00,,22.5166667,114.1166667
+hk,tsun wan,Tsun Wan,00,,22.3666667,114.1
+hk,tsun wan wai,Tsun Wan Wai,00,,22.3666667,114.1
+hk,tsz tin tsuen,Tsz Tin Tsuen,00,,22.4166667,113.9666667
+hk,tsz tong tsuen,Tsz Tong Tsuen,00,,22.4333333,114.0666667
+hk,tsz wan shan,Tsz Wan Shan,00,,22.35,114.2
+hk,tuen mun kau hui,Tuen Mun Kau Hui,00,,22.3833333,113.9666667
+hk,tuen mun san hui,Tuen Mun San Hui,00,,22.4,113.9666667
+hk,tuen mun,Tuen Mun,00,,22.4,113.9833333
+hk,tuen tsz wai,Tuen Tsz Wai,00,,22.4166667,113.9833333
+hk,tuk mei chung,Tuk Mei Chung,00,,22.3833333,113.9166667
+hk,tung chan wai,Tung Chan Wai,00,,22.5,114.0666667
+hk,tung chung hang,Tung Chung Hang,00,,22.2833333,113.95
+hk,tung chung,Tung Chung,00,,22.2833333,113.95
+hk,tung hing,Tung Hing,00,,22.2833333,113.9333333
+hk,tung kok wai,Tung Kok Wai,00,,22.5,114.15
+hk,tung lo wan,Tung Lo Wan,00,,22.2833333,114.1833333
+hk,tung o,Tung O,00,,22.2,114.1333333
+hk,tung sam kei,Tung Sam Kei,00,,22.4333333,114.35
+hk,tung shan ha,Tung Shan Ha,00,,22.5,114.1833333
+hk,tung shing lei,Tung Shing Lei,00,,22.45,114.05
+hk,tung tau tsuen,Tung Tau Tsuen,00,,22.3333333,114.1833333
+hk,tung tau tsun,Tung Tau Tsun,00,,22.3333333,114.1833333
+hk,tung tau,Tung Tau,00,,22.3333333,114.1833333
+hk,tung tau village,Tung Tau Village,00,,22.3333333,114.1833333
+hk,tung tsai,Tung Tsai,00,,22.4666667,114.2
+hk,tung tsz,Tung Tsz,00,,22.4666667,114.2
+hk,tung wan tau,Tung Wan Tau,00,,22.2666667,114.0
+hk,tung wan,Tung Wan,00,,22.5166667,114.3166667
+hk,uk cheung,Uk Cheung,00,,22.3833333,114.25
+hk,uk tau,Uk Tau,00,,22.4333333,114.3333333
+hk,un long hui,Un long hui,00,,22.45,114.0333333
+hk,un long,Un Long,00,,22.45,114.0333333
+hk,upper keung shan,Upper Keung Shan,00,,22.25,113.8833333
+hk,victoria,Victoria,00,,22.2875,114.1441667
+hk,wah fu estate,Wah Fu Estate,00,,22.25,114.1333333
+hk,wah fu,Wah Fu,00,,22.25,114.1333333
+hk,wai ha,Wai Ha,00,,22.4666667,114.2
+hk,wai tau tsuen,Wai Tau Tsuen,00,,22.4666667,114.15
+hk,wai tau,Wai Tau,00,,22.4666667,114.15
+hk,wai tsai,Wai Tsai,00,,22.4833333,114.05
+hk,wa mei shan,Wa Mei Shan,00,,22.4833333,114.1333333
+hk,wan chai,Wan Chai,00,,22.1666667,114.25
+hk,wang che,Wang Che,00,,22.3666667,114.2333333
+hk,wang-chia-wei,Wang-chia-wei,00,,22.4,113.9833333
+hk,wang hang,Wang Hang,00,,22.2833333,114.2166667
+hk,wang leng tau,Wang Leng Tau,00,,22.4833333,114.25
+hk,wang ling chui,Wang Ling Chui,00,,22.4833333,114.25
+hk,wang ling tau,Wang Ling Tau,00,,22.4833333,114.25
+hk,wang ling,Wang Ling,00,,22.4833333,114.25
+hk,wang long,Wang Long,00,,22.2166667,114.1166667
+hk,wang shan keuk san tsuen,Wang Shan Keuk San Tsuen,00,,22.5333333,114.1666667
+hk,wang shan keuk,Wang Shan Keuk,00,,22.5,114.2166667
+hk,wang tau hom,Wang Tau Hom,00,,22.35,114.1833333
+hk,wang toi shan,Wang Toi Shan,00,,22.45,114.1
+hk,wang tong,Wang Tong,00,,22.25,114.0
+hk,wan tau kok,Wan Tau Kok,00,,22.45,114.1666667
+hk,wan tau tong,Wan Tau Tong,00,,22.45,114.1666667
+hk,wan tsai,Wan Tsai,00,,22.1666667,114.25
+hk,wa shan keuk,Wa Shan Keuk,00,,22.5,114.2166667
+hk,wing ling tsuen,Wing Ling Tsuen,00,,22.5,114.15
+hk,wing lung wai,Wing Lung Wai,00,,22.4333333,114.0666667
+hk,wing ning lei,Wing Ning Lei,00,,22.45,114.1
+hk,wing ning tsuen,Wing Ning Tsuen,00,,22.45,114.0166667
+hk,wing ning wai,Wing Ning Wai,00,,22.5,114.15
+hk,wing ning,Wing Ning,00,,22.5,114.15
+hk,wing ping tsuen,Wing Ping Tsuen,00,,22.5,114.0666667
+hk,wo che,Wo Che,00,,22.3833333,114.1833333
+hk,wo hang tai long,Wo Hang Tai Long,00,,22.5333333,114.2
+hk,wo hop shek,Wo Hop Shek,00,,22.4833333,114.15
+hk,wo keng shan,Wo Keng Shan,00,,22.5333333,114.1666667
+hk,wo lei hop,Wo lei hop,00,,22.3833333,114.1333333
+hk,wo li hop,Wo Li Hop,00,,22.3833333,114.1333333
+hk,wo liu hang,Wo Liu Hang,00,,22.4,114.2
+hk,wo liu,Wo Liu,00,,22.25,113.9833333
+hk,wo mei,Wo Mei,00,,22.35,114.25
+hk,wong chuk hang kau wai,Wong Chuk Hang Kau Wai,00,,22.25,114.1833333
+hk,wong chuk hang san wai,Wong Chuk Hang San Wai,00,,22.25,114.1666667
+hk,wong chuk hang,Wong Chuk Hang,00,,22.3833333,114.35
+hk,wong chuk long,Wong Chuk Long,00,,22.4333333,114.3166667
+hk,wong chuk shan,Wong Chuk Shan,00,,22.3833333,114.2333333
+hk,wong chuk tsuen,Wong Chuk Tsuen,00,,22.4666667,114.2333333
+hk,wong chuk wan,Wong Chuk Wan,00,,22.4,114.2833333
+hk,wong chuk yeung,Wong Chuk Yeung,00,,22.4,114.1666667
+hk,wong fung leng,Wong Fung Leng,00,,22.4,113.9833333
+hk,wong fung tin,Wong Fung Tin,00,,22.2833333,113.9833333
+hk,wong ka wai,Wong Ka Wai,00,,22.2833333,113.9333333
+hk,wong keng tei,Wong Keng Tei,00,,22.4,114.3166667
+hk,wong keng tsai,Wong Keng Tsai,00,,22.35,114.2333333
+hk,wong ling,Wong Ling,00,,22.4833333,114.25
+hk,wong lung hang,Wong Lung Hang,00,,22.2666667,113.95
+hk,wong mau kok,Wong Mau Kok,00,,22.45,114.35
+hk,wong mo ying,Wong Mo Ying,00,,22.4,114.3
+hk,wong nai fai,Wong Nai Fai,00,,22.4333333,114.2
+hk,wong nai phong valley,Wong Nai Phong Valley,00,,22.2666667,114.1833333
+hk,wong nai tau,Wong Nai Tau,00,,22.3833333,114.2166667
+hk,wong nai tun,Wong Nai Tun,00,,22.4166667,114.0166667
+hk,wong nai uk,Wong Nai Uk,00,,22.2833333,113.9333333
+hk,wong tai sin,Wong Tai Sin,00,,22.35,114.1833333
+hk,wong uk,Wong Uk,00,,22.3666667,114.0166667
+hk,wong wan,Wong Wan,00,,22.5166667,114.3
+hk,wong yi chau,Wong Yi Chau,00,,22.3833333,114.3166667
+hk,wong yue tan,Wong Yue Tan,00,,22.4666667,114.2
+hk,won yiu,Won Yiu,00,,22.4333333,114.1666667
+hk,wo shang wai,Wo Shang Wai,00,,22.4833333,114.05
+hk,wo sha,Wo Sha,00,,22.4333333,114.2333333
+hk,wo sheung au,Wo Sheung Au,00,,22.2833333,113.9833333
+hk,wo sheung tun,Wo Sheung Tun,00,,22.4166667,114.1833333
+hk,wo tin,Wo Tin,00,,22.2833333,113.9833333
+hk,wo tong kong,Wo Tong Kong,00,,22.3166667,114.2666667
+hk,wo yi hop,Wo Yi Hop,00,,22.3833333,114.1333333
+hk,wu chau tong,Wu Chau Tong,00,,22.5,114.3
+hk,wu kau tang,Wu Kau Tang,00,,22.5,114.2333333
+hk,wu lei kiu,Wu Lei Kiu,00,,22.4333333,114.35
+hk,wu lei tau,Wu Lei Tau,00,,22.3666667,114.25
+hk,wu nga lok yeung,Wu Nga Lok Yeung,00,,22.5,114.1333333
+hk,wu shek kok,Wu Shek Kok,00,,22.5333333,114.2166667
+hk,wu uk,Wu Uk,00,,22.3666667,114.0166667
+hk,yam o,Yam O,00,,22.3333333,114.0166667
+hk,yam tsai,Yam Tsai,00,,22.3333333,114.0166667
+hk,yan shau wai,Yan Shau Wai,00,,22.5,114.0666667
+hk,yaoyuwan,Yaoyuwan,00,,22.3333333,114.25
+hk,yau kom tau,Yau Kom Tau,00,,22.35,114.0833333
+hk,yau ma hom,Yau Ma Hom,00,,22.3666667,114.1333333
+hk,yau ma po,Yau Ma Po,00,,22.3833333,114.2666667
+hk,yau ma tei,Yau Ma Tei,00,,22.3166667,114.1666667
+hk,yau ma ti,Yau Ma Ti,00,,22.3166667,114.1666667
+hk,yau tam mei,Yau Tam Mei,00,,22.4833333,114.05
+hk,yau tong,Yau Tong,00,,22.3,114.2333333
+hk,yau ue wan,Yau Ue Wan,00,,22.3333333,114.25
+hk,yau uk tsuen,Yau Uk Tsuen,00,,22.4333333,114.0833333
+hk,yau yat tsuen,Yau Yat Tsuen,00,,22.3333333,114.1666667
+hk,yau yue wan,Yau Yue Wan,00,,22.3333333,114.25
+hk,yeung shu au,Yeung Shu Au,00,,22.4333333,114.2833333
+hk,yeung siu hang,Yeung Siu Hang,00,,22.4,113.9666667
+hk,yeung uk tsuen,Yeung Uk Tsuen,00,,22.45,114.0166667
+hk,yi chuen,Yi Chuen,00,,22.35,114.05
+hk,yim liu ha,Yim Liu Ha,00,,22.55,114.2166667
+hk,yim tin,Yim Tin,00,,22.25,113.8666667
+hk,yim tso ha,Yim Tso Ha,00,,22.5333333,114.2
+hk,ying pun ha,Ying Pun Ha,00,,22.4666667,114.15
+hk,ying pun,Ying Pun,00,,22.4666667,114.1166667
+hk,yin kong,Yin Kong,00,,22.5,114.1166667
+hk,yin ngam,Yin Ngam,00,,22.4333333,114.1333333
+hk,yi o hau,Yi O Hau,00,,22.2333333,113.85
+hk,yi o kau tsuen,Yi O Kau Tsuen,00,,22.2333333,113.85
+hk,yi o san tsuen,Yi O San Tsuen,00,,22.2333333,113.85
+hk,yi pak,Yi Pak,00,,22.3,114.0166667
+hk,yi pei chun,Yi Pei Chun,00,,22.3833333,114.1166667
+hk,yiu tsz kin,Yiu Tsz Kin,00,,22.4333333,114.1666667
+hk,yuan-lang-hsin-hsu,Yüan-lang-hsin-hsü,00,,22.4333333,114.0333333
+hk,yuan-lang-hsu,Yuan-lang-hsü,00,,22.45,114.0333333
+hk,yue kok,Yue Kok,00,,22.4666667,114.1833333
+hk,yue kwong chuen,Yue Kwong Chuen,00,,22.25,114.15
+hk,yuen chau kok,Yuen Chau Kok,00,,22.3833333,114.2
+hk,yuen kong san tsuen,Yuen Kong San Tsuen,00,,22.4166667,114.0833333
+hk,yuen kong,Yuen Kong,00,,22.4333333,114.0666667
+hk,yuen leng,Yuen Leng,00,,22.4833333,114.15
+hk,yuen long kau hui,Yuen Long Kau Hui,00,,22.45,114.0333333
+hk,yuen long kou hui,Yuen long kou hui,00,,22.45,114.0333333
+hk,yuen long market,Yuen Long Market,00,,22.4333333,114.0333333
+hk,yuen long old town,Yuen Long Old Town,00,,22.45,114.0333333
+hk,yuen long san hui,Yuen Long San Hui,00,,22.4333333,114.0333333
+hk,yuen long town,Yuen Long Town,00,,22.4333333,114.0333333
+hk,yuen long,Yuen Long,00,,22.4333333,114.0333333
+hk,yuen ng fan,Yuen Ng Fan,00,,22.3833333,114.3333333
+hk,yuen tun ha,Yuen Tun Ha,00,,22.4333333,114.15
+hk,yuen tun,Yuen Tun,00,,22.3666667,114.05
+hk,yung long,Yung Long,00,,22.4166667,113.9166667
+hk,yung shue au,Yung Shue Au,00,,22.4333333,114.2833333
+hk,yung shue ha,Yung Shue Ha,00,,22.2,114.1333333
+hk,yung shue long,Yung Shue Long,00,,22.2333333,114.1166667
+hk,yung shue wan,Yung Shue Wan,00,,22.2333333,114.1166667
+hk,yung shu wan,Yung Shu Wan,00,,22.2333333,114.1166667

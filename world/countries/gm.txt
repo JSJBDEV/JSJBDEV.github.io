@@ -1,0 +1,2505 @@
+gm,abeokuta,Abeokuta,03,,13.3666667,-14.6166667
+gm,abuko,Abuko,05,,13.4041667,-16.6558333
+gm,ahalulie,Ahalulie,03,,13.4666667,-14.9166667
+gm,alaji yoro,Alaji Yoro,05,,13.5230556,-16.2838889
+gm,alakounda,Alakounda,05,,13.1666667,-15.9666667
+gm,albadarr,Albadarr,05,,13.3344444,-16.3866667
+gm,albreda,Albreda,05,,13.3344444,-16.3866667
+gm,alhaji abdoulie liegh,Alhaji Abdoulie Liegh,05,,13.7,-15.2833333
+gm,alhaji bajonkoto,Alhaji Bajonkoto,07,,13.5333333,-15.8166667
+gm,alhaji dembo,Alhaji Dembo,03,,13.4666667,-14.8833333
+gm,alicali kunda,Alicali Kunda,07,,13.5333333,-15.7333333
+gm,alical kunda,Alical Kunda,07,,13.5333333,-15.7333333
+gm,alijamadu,Alijamadu,05,,13.4,-16.4555556
+gm,alimaka,Alimaka,03,,13.4666667,-14.4833333
+gm,aljamdu,Aljamdu,05,,13.4,-16.4555556
+gm,aljamdu kamara kunda,Aljamdu Kamara Kunda,05,,13.4,-16.45
+gm,aljamdu kanteh kunda,Aljamdu Kanteh Kunda,05,,13.4,-16.45
+gm,allahein,Allahein,05,,13.0727778,-16.7469444
+gm,alla kunda,Alla Kunda,05,,13.1672222,-16.0113889
+gm,alla tenta,Alla Tenta,03,,13.45,-14.6666667
+gm,alohungari,Alohungari,04,,13.3166667,-14.2333333
+gm,alohungari banta,Alohungari Banta,04,,13.2666667,-14.1333333
+gm,alpha,Alpha,05,,13.4666667,-16.35
+gm,alpha hamjatu,Alpha Hamjatu,05,,13.4666667,-16.3166667
+gm,alpha n'ding,Alpha N'Ding,05,,13.4666667,-16.35
+gm,amdalai,Amdalai,05,,13.4319444,-16.7225
+gm,amdallai,Amdallai,05,,13.5883333,-16.4227778
+gm,amdulai,Amdulai,05,,13.4319444,-16.7225
+gm,amdulay,Amdulay,05,,13.4319444,-16.7225
+gm,ampaya,Ampaya,05,,13.4525,-16.6908333
+gm,anias kunda,Anias Kunda,05,,13.5666667,-15.1833333
+gm,anulie,Anulie,03,,13.4666667,-14.9166667
+gm,arangalain,Arangalain,05,,13.2066667,-16.1469444
+gm,arankon kunda,Arankon Kunda,05,,13.2333333,-15.9166667
+gm,arongkoli kunda,Arongkoli Kunda,05,,13.2333333,-15.8666667
+gm,baba,Baba,02,,13.4333333,-15.45
+gm,babilon gunjur,Babilon Gunjur,05,,13.2133333,-16.7461111
+gm,babou jobe,Babou Jobe,05,,13.6,-15.3
+gm,badari,Badari,04,,13.3333333,-14.1
+gm,badja kunda,Badja Kunda,04,,13.4666667,-14.05
+gm,ba duma,Ba Duma,05,,13.35,-16.3333333
+gm,badume,Badume,02,,13.4,-15.3666667
+gm,bafuloto,Bafuloto,05,,13.3188889,-16.6275
+gm,bafulotor,Bafulotor,05,,13.4397222,-16.3163889
+gm,bahdad,Bahdad,05,,13.6166667,-15.1
+gm,bahen,Bahen,02,,13.5833333,-15.4166667
+gm,bahoom,Bahoom,05,,13.5713889,-16.3286111
+gm,bahwa,Bahwa,04,,13.2666667,-14.2833333
+gm,baiaba,Baiaba,03,,13.5,-14.5
+gm,bai ba,Bai Ba,03,,13.5,-14.5
+gm,baien,Baien,07,,13.5666667,-16.05
+gm,baijana,Baijana,05,,13.1869444,-16.3983333
+gm,baijangkortor,Baijangkortor,05,,13.2666667,-15.9
+gm,bai n'ding,Bai N'Ding,03,,13.5,-14.5
+gm,baintengkay,Baintengkay,05,,13.6666667,-15.4
+gm,baipal,Baipal,05,,13.1761111,-16.0997222
+gm,bai tenda,Bai Tenda,02,,13.45,-15.4166667
+gm,baitit mamu fana,Baitit Mamu Fana,05,,13.6,-15.1166667
+gm,bajagar,Bajagar,05,,13.1933333,-16.1813889
+gm,bajagar dumbutu,Bajagar Dumbutu,05,,13.2094444,-16.1180556
+gm,bajagar jola,Bajagar Jola,05,,13.1944444,-16.1188889
+gm,bajana,Bajana,05,,13.1869444,-16.3983333
+gm,bajankoto,Bajankoto,04,,13.3833333,-14.25
+gm,baji kunda,Baji Kunda,05,,13.2152778,-16.0558333
+gm,bajilo,Bajilo,05,,13.21,-16.2141667
+gm,bajiran,Bajiran,05,,13.2833333,-15.9666667
+gm,bajong koto,Bajong Koto,05,,13.2297222,-16.6494444
+gm,bajong kotor,Bajong Kotor,05,,13.4116667,-16.6616667
+gm,bajon koto,Bajon Koto,02,,13.3666667,-15.6166667
+gm,bajonkoto,Bajonkoto,05,,13.23,-16.0955556
+gm,bajon kotor,Bajon Kotor,05,,13.4116667,-16.6616667
+gm,bakadagy,Bakadagy,03,,13.7166667,-15.0166667
+gm,bakadagy,Bakadagy,04,,13.3,-14.3833333
+gm,bakadaji,Bakadaji,03,,13.65,-14.8333333
+gm,bakadaji,Bakadaji,04,,13.3,-14.3833333
+gm,bakadaji kunda,Bakadaji Kunda,03,,13.65,-14.8333333
+gm,bakalari,Bakalari,05,,13.4216667,-16.4266667
+gm,bakalarr,Bakalarr,05,,13.4216667,-16.4266667
+gm,bakang,Bakang,07,,13.5044444,-16.1444444
+gm,bakary sambou,Bakary Sambou,05,,13.2388889,-16.6441667
+gm,bakau,Bakau,05,47654,13.4780556,-16.6819444
+gm,bakau kunku,Bakau Kunku,05,,13.3244444,-16.8008333
+gm,bakau nding,Bakau NDing,05,,13.47,-16.6836111
+gm,bakendik,Bakendik,05,,13.4561111,-16.4536111
+gm,bakkendik,Bakkendik,05,,13.4561111,-16.4536111
+gm,bakolar,Bakolar,05,,13.4216667,-16.4266667
+gm,bakote,Bakote,05,,13.4658333,-16.7002778
+gm,bakoteh,Bakoteh,05,,13.43,-16.6983333
+gm,bakoti,Bakoti,05,,13.43,-16.6983333
+gm,bakotti,Bakotti,05,,13.43,-16.6983333
+gm,ba kunda,Ba Kunda,05,,13.2833333,-15.25
+gm,balangar,Balangar,05,,13.6666667,-15.3666667
+gm,balanghar,Balanghar,05,,13.6666667,-15.3666667
+gm,balanghar ker n'derry,Balanghar Ker N'Derry,05,,13.6666667,-15.4
+gm,balanghar njoben,Balanghar Njoben,05,,13.6666667,-15.4166667
+gm,balanghar wharf town,Balanghar Wharf Town,05,,13.6666667,-15.3666667
+gm,bala silla,Bala Silla,04,,13.45,-14.1333333
+gm,bali,Bali,07,,13.5675,-16.1172222
+gm,bali hali hawah,Bali Hali Hawah,07,,13.59,-16.1116667
+gm,bali hali howeh,Bali Hali Howeh,07,,13.59,-16.1116667
+gm,balingho,Balingho,02,,13.4833333,-15.6166667
+gm,balingo,Balingo,02,,13.4833333,-15.6166667
+gm,ballangar,Ballangar,05,,13.6666667,-15.4
+gm,ballen,Ballen,05,,13.1661111,-16.0947222
+gm,balli,Balli,07,,13.5675,-16.1172222
+gm,balo ibra,Balo Ibra,02,,13.5833333,-15.4166667
+gm,balo omar,Balo Omar,02,,13.5833333,-15.4333333
+gm,bamba,Bamba,05,,13.6333333,-15.2833333
+gm,bamba jallow,Bamba Jallow,05,,13.5666667,-15.3166667
+gm,bambaka,Bambaka,05,,13.4,-15.7666667
+gm,bambako,Bambako,05,,13.4,-15.7666667
+gm,bambako kura,Bambako Kura,05,,13.6166667,-15.3
+gm,bamba kolon,Bamba Kolon,05,,13.6,-15.1333333
+gm,bamba kolong,Bamba Kolong,05,,13.6,-15.1333333
+gm,bambale,Bambale,02,,13.4833333,-15.3333333
+gm,bambali,Bambali,02,,13.4833333,-15.3333333
+gm,bambatenda,Bambatenda,02,,13.5166667,-15.5833333
+gm,banatenda,Banatenda,04,,13.3833333,-14.4833333
+gm,bandinto,Bandinto,05,,13.0841667,-16.7436111
+gm,banenko,Banenko,04,,13.2833333,-14.1333333
+gm,banenko simaila,Banenko Simaila,04,,13.2833333,-14.1333333
+gm,bangali,Bangali,05,,13.5061111,-16.4122222
+gm,bangaly,Bangaly,05,,13.4833333,-16.45
+gm,bangasiya fali,Bangasiya Fali,04,,13.2666667,-14.1333333
+gm,bangherr,Bangherr,05,,13.7,-15.2666667
+gm,baniakan,Baniakan,05,,13.3255556,-16.7475
+gm,baniakang,Baniakang,05,,13.3255556,-16.7475
+gm,bani bajenko,Bani Bajenko,05,,13.4166667,-15.2333333
+gm,bani,Bani,03,,13.5166667,-14.6
+gm,bani,Bani,04,,13.3833333,-13.8666667
+gm,banicuba yoroyel,Banicuba Yoroyel,03,,13.4333333,-14.5333333
+gm,baniko,Baniko,04,,13.2666667,-14.4333333
+gm,banja,Banja,04,,13.2666667,-14.2833333
+gm,banjul,Banjul,01,34598,13.4530556,-16.5775
+gm,banjul nding,Banjul NDing,05,,13.3733333,-16.6572222
+gm,bankuba samboido,Bankuba Samboido,03,,13.4333333,-14.5333333
+gm,bankulling,Bankulling,02,,13.2966667,-16.0725
+gm,bankuwule,Bankuwule,04,,13.4833333,-14.1333333
+gm,banna tenda,Banna Tenda,04,,13.3833333,-14.4833333
+gm,banniba jonki,Banniba Jonki,05,,13.4166667,-15.2333333
+gm,banni,Banni,03,,13.55,-14.7333333
+gm,banni,Banni,07,,13.5213889,-16.0069444
+gm,bansang,Bansang,03,7152,13.4333333,-14.65
+gm,bansang tenda,Bansang Tenda,03,,13.4333333,-14.65
+gm,banta killi,Banta Killi,07,,13.5833333,-15.7
+gm,bantam bilo,Bantam Bilo,05,,13.3441667,-16.7152778
+gm,bantanding,Bantanding,05,,13.5880556,-16.2552778
+gm,bantanding sancha,Bantanding Sancha,05,,13.5833333,-16.2833333
+gm,bantanding toranka,Bantanding Toranka,05,,13.5880556,-16.2552778
+gm,bantang killing,Bantang Killing,05,,13.3452778,-16.4147222
+gm,bantang killing,Bantang Killing,07,,13.5833333,-15.7
+gm,bantang koto,Bantang Koto,05,,13.65,-15.3
+gm,bantang kotor,Bantang Kotor,04,,13.3166667,-14.2166667
+gm,bantango koto,Bantango Koto,03,,13.55,-14.55
+gm,bantanjang,Bantanjang,05,,13.2833333,-15.95
+gm,bantanta,Bantanta,05,,13.7,-15.25
+gm,bantanto,Bantanto,03,,13.4166667,-14.65
+gm,bantanto,Bantanto,05,,13.5833333,-15.15
+gm,bantanto ebrima kah,Bantanto Ebrima Kah,05,,13.7,-15.25
+gm,bantanto jawara jallow,Bantanto Jawara Jallow,05,,13.7,-15.25
+gm,bantanto ker daburi,Bantanto Ker Daburi,05,,13.6833333,-15.2333333
+gm,bantanto ker daburie,Bantanto Ker Daburie,05,,13.7,-15.25
+gm,bantanto ker ebrima kah,Bantanto Ker Ebrima Kah,05,,13.7,-15.25
+gm,bantanto ker olai,Bantanto Ker Olai,05,,13.7,-15.2333333
+gm,bantanto ker oldi,Bantanto Ker Oldi,05,,13.7,-15.2666667
+gm,bantanto ker samba olo,Bantanto Ker Samba Olo,05,,13.6833333,-15.2333333
+gm,bantanto ker sulay,Bantanto Ker Sulay,05,,13.7,-15.2333333
+gm,bantanto musa bah,Bantanto Musa Bah,05,,13.7,-15.25
+gm,bantan yima,Bantan Yima,03,,13.4666667,-14.9
+gm,bantasu,Bantasu,02,,13.3213889,-16.1
+gm,banta su,Banta Su,02,,13.55,-15.5166667
+gm,banto nding,Banto Nding,04,,13.4666667,-14.0833333
+gm,banu kunda,Banu Kunda,04,,13.3833333,-14.0166667
+gm,barajali,Barajali,03,,13.6,-14.95
+gm,barajali kunda,Barajali Kunda,04,,13.4,-14.0
+gm,barajali tenda,Barajali Tenda,03,,13.5833333,-14.95
+gm,baraji kunda,Baraji Kunda,04,,13.4,-14.0
+gm,baria,Baria,05,,13.3333333,-16.4
+gm,baria,Baria,07,,13.5333333,-16.1333333
+gm,baro kunda,Baro Kunda,04,,13.4833333,-14.1166667
+gm,baro kunda,Baro Kunda,05,,13.4833333,-15.2666667
+gm,baro kunda tenda,Baro Kunda Tenda,05,,13.4833333,-15.3
+gm,barra,Barra,07,5323,13.4827778,-16.5455556
+gm,barrajalli,Barrajalli,03,,13.6,-14.95
+gm,barrakunda,Barrakunda,04,,13.4833333,-14.1166667
+gm,barra kunda,Barra Kunda,04,,13.55,-13.8
+gm,barria,Barria,07,,13.5333333,-16.1333333
+gm,barrinding,Barrinding,05,,13.4902778,-16.4644444
+gm,barrow kunda,Barrow Kunda,05,,13.2302778,-16.0669444
+gm,barry narbeh,Barry Narbeh,04,,13.45,-14.3833333
+gm,barsangsang,Barsangsang,03,,13.4333333,-14.65
+gm,barukunda,Barukunda,05,,13.4833333,-15.2666667
+gm,base nding,Base Nding,04,,13.3,-14.2
+gm,basori,Basori,05,,13.2255556,-16.5919444
+gm,basse,Basse,04,16190,13.3166667,-14.2166667
+gm,bassen,Bassen,07,,13.1738889,-16.2752778
+gm,bassen kansana,Bassen Kansana,05,,13.1663889,-16.0627778
+gm,basse santa su,Basse Santa Su,04,,13.3166667,-14.2166667
+gm,bassik,Bassik,02,,13.5333333,-15.5
+gm,bassori,Bassori,05,,13.2255556,-16.5919444
+gm,batelling,Batelling,05,,13.4,-15.85
+gm,batena,Batena,05,,13.1819444,-16.2163889
+gm,batending,Batending,07,,13.2566667,-16.3177778
+gm,batending kajara,Batending Kajara,07,,13.2566667,-16.3177778
+gm,bathurst,Bathurst,01,,13.4530556,-16.5775
+gm,bati,Bati,05,,13.5833333,-15.1333333
+gm,bati hai,Bati Hai,05,,13.7,-15.2
+gm,bati jaha,Bati Jaha,05,,13.75,-15.1166667
+gm,bati jama gen,Bati Jama Gen,05,,13.7166667,-15.2
+gm,bati n'da,Bati N'Da,05,,13.7,-15.2
+gm,bati ndar,Bati Ndar,05,,13.7,-15.2
+gm,bati yungo,Bati Yungo,05,,13.7166667,-15.2
+gm,batori sateh,Batori Sateh,05,,13.1530556,-16.7788889
+gm,bator sateh,Bator Sateh,05,,13.1530556,-16.7788889
+gm,battabut,Battabut,05,,13.2063889,-16.16
+gm,battabut denelu,Battabut Denelu,05,,13.1936111,-16.1536111
+gm,battabut kantora,Battabut Kantora,05,,13.2063889,-16.16
+gm,battelling,Battelling,05,,13.4,-15.85
+gm,battending,Battending,05,,13.1819444,-16.2163889
+gm,battending,Battending,07,,13.2566667,-16.3177778
+gm,batti n'dau,Batti N'Dau,05,,13.7,-15.2
+gm,batukunku,Batukunku,05,,13.3244444,-16.8008333
+gm,bayarr,Bayarr,05,,13.2833333,-16.25
+gm,beeta,Beeta,07,,13.1905556,-16.2875
+gm,beeta bukafungi,Beeta Bukafungi,07,,13.1905556,-16.2875
+gm,belal,Belal,03,,13.3666667,-14.65
+gm,berending,Berending,05,,13.4902778,-16.4644444
+gm,beretto,Beretto,02,,13.55,-15.5833333
+gm,berrending,Berrending,05,,13.14,-16.7433333
+gm,berry narbeh,Berry Narbeh,04,,13.45,-14.3833333
+gm,bessi,Bessi,07,,13.1952778,-16.3619444
+gm,bessi nding,Bessi Nding,05,,13.2191667,-16.5013889
+gm,bia hamady,Bia Hamady,04,,13.4666667,-14.4333333
+gm,bijiba,Bijiba,05,,13.5166667,-16.3166667
+gm,bijilo,Bijilo,05,,13.4180556,-16.73
+gm,bintang,Bintang,05,,13.2497222,-16.2141667
+gm,bintinki,Bintinki,05,,13.6666667,-15.4
+gm,biram giddo ya,Biram Giddo Ya,07,,13.5833333,-15.85
+gm,biram kardo ya,Biram Kardo Ya,07,,13.5833333,-15.85
+gm,biram kunda,Biram Kunda,07,,13.5833333,-15.7833333
+gm,biram yacin,Biram Yacin,02,,13.65,-15.4333333
+gm,biranoya,Biranoya,02,,13.4166667,-15.5333333
+gm,birom,Birom,04,,13.2666667,-14.4333333
+gm,birong,Birong,02,,13.3266667,-16.1794444
+gm,birong kunda,Birong Kunda,07,,13.5833333,-15.7833333
+gm,bisandugu,Bisandugu,04,,13.3,-14.0833333
+gm,bissari bajongkoto,Bissari Bajongkoto,05,,13.2,-15.9
+gm,bissari,Bissari,05,,13.2,-15.9
+gm,bissari madi,Bissari Madi,05,,13.2,-15.9
+gm,bita,Bita,07,,13.1905556,-16.2875
+gm,bluntu,Bluntu,05,,13.1752778,-16.0188889
+gm,bolum,Bolum,04,,13.5666667,-13.9333333
+gm,bombale,Bombale,02,,13.4833333,-15.3333333
+gm,bonda,Bonda,05,,13.25,-15.8833333
+gm,bondali,Bondali,05,,13.2333333,-15.9166667
+gm,bondali jola,Bondali Jola,05,,13.2333333,-15.9166667
+gm,bondali tenda,Bondali Tenda,05,,13.25,-15.9
+gm,bonto,Bonto,05,,13.2780556,-16.5594444
+gm,boraba,Boraba,03,,13.5166667,-14.7333333
+gm,boroba,Boroba,03,,13.5166667,-14.7333333
+gm,boro kandakase,Boro Kandakase,04,,13.4166667,-14.0333333
+gm,boro majang kunda,Boro Majang Kunda,04,,13.4166667,-14.0333333
+gm,boro manjang kunda,Boro Manjang Kunda,04,,13.4166667,-14.0333333
+gm,boro modi bane,Boro Modi Bane,04,,13.4333333,-14.0333333
+gm,borong kunda,Borong Kunda,03,,13.6333333,-14.6
+gm,boro sambakabaya,Boro Sambakabaya,04,,13.4166667,-14.0333333
+gm,boro sambaya,Boro Sambaya,04,,13.4166667,-14.0333333
+gm,bosa,Bosa,05,,13.2322222,-16.7211111
+gm,bottending,Bottending,07,,13.2566667,-16.3177778
+gm,bowe,Bowe,03,,13.4833333,-14.9166667
+gm,brefet,Brefet,04,,13.3333333,-14.2666667
+gm,brefet,Brefet,05,,13.2433333,-16.3813889
+gm,brekana,Brekana,03,,13.5333333,-14.9333333
+gm,brifu,Brifu,04,,13.5,-13.9333333
+gm,brikama ba,Brikama Ba,03,,13.5333333,-14.9333333
+gm,brikama,Brikama,03,,13.5333333,-14.9333333
+gm,brikama,Brikama,05,101805,13.2675,-16.6461111
+gm,brikama,Brikama,07,,13.5833333,-15.8833333
+gm,brikama nding,Brikama Nding,03,,13.5333333,-14.9333333
+gm,brufut,Brufut,05,9332,13.3841667,-16.7513889
+gm,brufut manjago,Brufut Manjago,05,,13.3730556,-16.7430556
+gm,brumen,Brumen,05,,13.25,-15.8333333
+gm,buchilling,Buchilling,05,,13.2102778,-16.0280556
+gm,budayell,Budayell,05,,13.3833333,-15.2666667
+gm,buduck maila secka,Buduck Maila Secka,05,,13.7,-15.3666667
+gm,buduk,Buduk,05,,13.75,-15.1
+gm,buiba,Buiba,02,,13.4333333,-15.45
+gm,buiba jalo kunda,Buiba Jalo Kunda,02,,13.4333333,-15.45
+gm,buiba mandinka,Buiba Mandinka,02,,13.4333333,-15.45
+gm,buiba musa njadoh,Buiba Musa Njadoh,02,,13.4333333,-15.45
+gm,buiba musa sallah,Buiba Musa Sallah,02,,13.45,-15.45
+gm,bukafungi,Bukafungi,07,,13.2,-16.2833333
+gm,bukari kunda,Bukari Kunda,03,,13.5,-14.7166667
+gm,bulangor,Bulangor,07,,13.2666667,-16.2666667
+gm,bulanjor,Bulanjor,05,,13.2797222,-16.2483333
+gm,bulanjor,Bulanjor,07,,13.2666667,-16.2666667
+gm,bulengart,Bulengart,05,,13.2,-15.9166667
+gm,bulghurk,Bulghurk,05,,13.75,-15.2833333
+gm,bulgurk,Bulgurk,05,,13.75,-15.2833333
+gm,bullelai,Bullelai,05,,13.1922222,-16.2372222
+gm,bullellai,Bullellai,05,,13.1922222,-16.2372222
+gm,bulok,Bulok,05,,13.1766667,-16.4158333
+gm,bulufula,Bulufula,05,,13.2833333,-15.9166667
+gm,bulufulla,Bulufulla,05,,13.2833333,-15.9166667
+gm,bumari,Bumari,05,,13.3666667,-15.7666667
+gm,bundali,Bundali,05,,13.2333333,-15.9166667
+gm,bungiga,Bungiga,05,,13.2044444,-16.0897222
+gm,buniadu,Buniadu,02,,13.55,-15.3333333
+gm,buniadu,Buniadu,05,,13.1969444,-16.1980556
+gm,bunkilling,Bunkilling,05,,13.3330556,-16.7791667
+gm,bunobor,Bunobor,05,,13.1833333,-15.9833333
+gm,buntung,Buntung,05,,13.7333333,-15.2
+gm,bunubor brikama,Bunubor Brikama,05,,13.1883333,-16.0308333
+gm,bunubor,Bunubor,05,,13.1838889,-16.0533333
+gm,bununka kunda,Bununka Kunda,05,,13.4272222,-16.6852778
+gm,bunyai,Bunyai,05,,13.2241667,-16.0469444
+gm,buraing,Buraing,05,,13.4166667,-15.2833333
+gm,buramba,Buramba,05,,13.2333333,-15.9166667
+gm,buram,Buram,05,,13.2580556,-16.2227778
+gm,burang ya,Burang Ya,07,,13.5666667,-15.85
+gm,burelai,Burelai,05,,13.1922222,-16.2372222
+gm,bureng,Bureng,05,,13.4166667,-15.2833333
+gm,burock,Burock,05,,13.2413889,-16.0416667
+gm,burrong,Burrong,02,,13.3266667,-16.1794444
+gm,buruku,Buruku,03,,13.4833333,-14.7
+gm,busanehkai,Busanehkai,05,,13.2333333,-16.1166667
+gm,busongai,Busongai,05,,13.2333333,-15.8166667
+gm,busumbala,Busumbala,05,,13.3330556,-16.6708333
+gm,busumbata,Busumbata,05,,13.3330556,-16.6708333
+gm,busura,Busura,03,,13.6333333,-15.0833333
+gm,busura,Busura,04,,13.3166667,-14.5
+gm,busura,Busura,05,,13.1825,-16.635
+gm,busure,Busure,04,,13.3166667,-14.5
+gm,bwiam,Bwiam,05,,13.2352778,-16.0863889
+gm,carrols wharf,Carrols Wharf,05,,13.6833333,-15.1666667
+gm,chabai,Chabai,05,,13.2,-15.8666667
+gm,cha kunda,Cha Kunda,03,,13.3833333,-14.5333333
+gm,chalen,Chalen,03,,13.7833333,-15.0
+gm,chalen ker bakari salla,Chalen Ker Bakari Salla,03,,13.7833333,-15.0
+gm,chalen ker bakary salla,Chalen Ker Bakary Salla,03,,13.7833333,-15.0
+gm,chamaya,Chamaya,07,,13.5833333,-15.8333333
+gm,chamen baka,Chamen Baka,05,,13.7166667,-15.3833333
+gm,chamen,Chamen,05,,13.5194444,-16.3888889
+gm,chamen,Chamen,07,,13.55,-15.6833333
+gm,chamen sosseh,Chamen Sosseh,05,,13.4913889,-16.2625
+gm,chamoi,Chamoi,04,,13.3166667,-14.1666667
+gm,changai,Changai,03,,13.5833333,-14.6666667
+gm,changally,Changally,04,,13.35,-14.3333333
+gm,changally chewdu,Changally Chewdu,04,,13.3666667,-14.3333333
+gm,changally lankadi,Changally Lankadi,04,,13.35,-14.3333333
+gm,charen,Charen,03,,13.35,-14.6666667
+gm,chargel,Chargel,03,,13.45,-14.55
+gm,charjel,Charjel,03,,13.45,-14.55
+gm,charmen,Charmen,05,,13.7,-15.1666667
+gm,charno musa,Charno Musa,03,,13.4166667,-14.65
+gm,charnum,Charnum,04,,13.4166667,-13.95
+gm,checken,Checken,02,,13.5833333,-15.45
+gm,cheedi laibe ya,Cheedi Laibe Ya,07,,13.5833333,-15.85
+gm,cheedy wollof,Cheedy Wollof,07,,13.5833333,-15.85
+gm,cheken,Cheken,03,,13.6,-15.05
+gm,chermo omar,Chermo Omar,05,,13.4558333,-16.3397222
+gm,cherna musa,Cherna Musa,03,,13.4166667,-14.65
+gm,cherno omar,Cherno Omar,05,,13.4558333,-16.3397222
+gm,chewal bessell,Chewal Bessell,04,,13.3666667,-14.4666667
+gm,chilla,Chilla,05,,13.55,-16.2833333
+gm,chisay,Chisay,05,,13.5,-16.3
+gm,choya,Choya,05,,13.55,-15.25
+gm,choyen,Choyen,05,,13.65,-15.4166667
+gm,cibagnari,Cibagnari,05,,13.2094444,-16.1180556
+gm,daba kunda,Daba Kunda,04,,13.3166667,-14.3
+gm,dabaly,Dabaly,05,,13.5166667,-15.2333333
+gm,dabatu,Dabatu,05,,13.3666667,-15.3
+gm,dafa,Dafa,02,,13.6,-15.4
+gm,dai,Dai,07,,13.55,-15.8166667
+gm,dai mandinka,Dai Mandinka,07,,13.55,-15.8166667
+gm,dalaba,Dalaba,05,,13.6,-15.2166667
+gm,damfa kunda,Damfa Kunda,04,,13.3333333,-14.1833333
+gm,dandugu,Dandugu,04,,13.2833333,-14.1333333
+gm,dankadanka,Dankadanka,02,,13.5166667,-15.6333333
+gm,dankunko,Dankunko,05,,13.5666667,-15.3166667
+gm,dankunku,Dankunku,05,,13.5666667,-15.3166667
+gm,dankunku fula,Dankunku Fula,05,,13.5666667,-15.3166667
+gm,daranka,Daranka,05,,13.3769444,-16.6286111
+gm,daresalama,Daresalama,05,,13.6666667,-15.1
+gm,darselameh,Darselameh,05,,13.4833333,-15.2333333
+gm,darselami,Darselami,05,,13.2666667,-16.0
+gm,darsilam,Darsilam,05,,13.5883333,-16.4227778
+gm,darsilame,Darsilame,04,,13.3333333,-14.0666667
+gm,darsilame ker koro,Darsilame Ker Koro,04,,13.2666667,-14.15
+gm,darsilame key koro,Darsilame Key Koro,04,,13.2666667,-14.15
+gm,darsilami,Darsilami,04,,13.4,-14.2666667
+gm,darsilami,Darsilami,05,,13.1758333,-16.6580556
+gm,darsilami,Darsilami,07,,13.5305556,-16.1363889
+gm,darsilami jimara,Darsilami Jimara,04,,13.3666667,-14.45
+gm,darsilami tenda,Darsilami Tenda,04,,13.3666667,-14.2833333
+gm,darsilane ker koro,Darsilane Ker Koro,04,,13.2666667,-14.15
+gm,daru,Daru,03,,13.3666667,-14.6166667
+gm,daru,Daru,05,,13.5516667,-16.2516667
+gm,daru,Daru,07,,13.5919444,-16.0183333
+gm,daru fatiho,Daru Fatiho,02,,13.4,-15.3833333
+gm,darule barakatu,Darule Barakatu,07,,13.55,-15.7166667
+gm,daru lohen,Daru Lohen,07,,13.5936111,-16.1322222
+gm,daru mbaien,Daru Mbaien,05,,13.8,-15.1
+gm,daru rilwan,Daru Rilwan,07,,13.55,-15.9833333
+gm,darusalam,Darusalam,05,,13.2802778,-16.0161111
+gm,darusalam,Darusalam,07,,13.5277778,-16.0808333
+gm,darusalameh,Darusalameh,03,,13.7,-14.9
+gm,darusalem,Darusalem,05,,13.7333333,-15.1333333
+gm,dasalami,Dasalami,05,,13.2666667,-15.95
+gm,dasalami,Dasalami,07,,13.5305556,-16.1363889
+gm,dasilame,Dasilame,03,,13.5333333,-14.9333333
+gm,dasilami,Dasilami,02,,13.5666667,-15.55
+gm,dasilami,Dasilami,04,,13.4833333,-13.9333333
+gm,dasilami,Dasilami,05,,13.4833333,-15.2333333
+gm,dasilami,Dasilami,07,,13.5305556,-16.1363889
+gm,dau dula,Dau Dula,05,,13.1444444,-16.7758333
+gm,dekordeh bah,Dekordeh Bah,05,,13.4458333,-16.3805556
+gm,demati kunda,Demati Kunda,05,,13.3833333,-15.2666667
+gm,demba cheesay,Demba Cheesay,05,,13.7166667,-15.2833333
+gm,demba chippo,Demba Chippo,05,,13.5166667,-16.3
+gm,demba darboe,Demba Darboe,05,,13.55,-15.3166667
+gm,demba hainey,Demba Hainey,05,,13.4666667,-16.3833333
+gm,demba kale,Demba Kale,03,,13.5833333,-14.65
+gm,demba kali,Demba Kali,03,,13.5833333,-14.65
+gm,demba koumbel,Demba Koumbel,04,,13.4666667,-13.85
+gm,demba kumbale,Demba Kumbale,04,,13.4666667,-13.85
+gm,demba kunda,Demba Kunda,03,,13.6166667,-14.6666667
+gm,demba kunda,Demba Kunda,04,,13.25,-14.2666667
+gm,demba kunda,Demba Kunda,05,,13.55,-15.3166667
+gm,demban,Demban,07,,13.2077778,-16.3452778
+gm,demba njai ya,Demba Njai Ya,05,,13.2369444,-16.6205556
+gm,dembaso,Dembaso,03,,13.45,-14.5333333
+gm,demba waddu,Demba Waddu,03,,13.5,-14.4666667
+gm,demba wanda,Demba Wanda,03,,13.5,-14.4666667
+gm,demba wendu,Demba Wendu,04,,13.45,-14.3333333
+gm,dembel jawor,Dembel Jawor,04,,13.3166667,-14.4
+gm,dembo kumbel,Dembo Kumbel,04,,13.4666667,-13.85
+gm,demfai,Demfai,03,,13.6166667,-14.65
+gm,demfai karim,Demfai Karim,03,,13.6333333,-14.65
+gm,demfai njaga,Demfai Njaga,03,,13.6166667,-14.65
+gm,denton,Denton,03,,13.5,-14.9333333
+gm,dewru,Dewru,05,,13.2627778,-16.6277778
+gm,deya,Deya,05,,13.2427778,-16.7491667
+gm,diabugu basilla,Diabugu Basilla,04,,13.3333333,-13.95
+gm,diabugu,Diabugu,04,,13.3666667,-13.9833333
+gm,diabugu tenda,Diabugu Tenda,04,,13.3833333,-14.4166667
+gm,diemballa ker cherno,Diemballa Ker Cherno,05,,13.75,-15.4
+gm,diemballa ker madi,Diemballa Ker Madi,05,,13.7333333,-15.4
+gm,diemballa ker musa,Diemballa Ker Musa,05,,13.75,-15.4
+gm,digante,Digante,02,,13.3666667,-15.4333333
+gm,diganteh,Diganteh,02,,13.3666667,-15.4333333
+gm,dimbaga,Dimbaga,05,,13.5438889,-16.3641667
+gm,dingarai,Dingarai,03,,13.7666667,-14.9166667
+gm,dingirie,Dingirie,03,,13.75,-14.9166667
+gm,dinguiri,Dinguiri,04,,13.2833333,-14.0666667
+gm,dinguirin,Dinguirin,04,,13.2833333,-14.0666667
+gm,dinkirai,Dinkirai,05,,13.3833333,-15.2666667
+gm,dipa kunda,Dipa Kunda,02,,13.5666667,-15.4666667
+gm,dipa kunda,Dipa Kunda,05,,13.4402778,-16.6869444
+gm,dipa kunda wollof,Dipa Kunda Wollof,02,,13.5666667,-15.4666667
+gm,dippa kunda,Dippa Kunda,05,,13.4402778,-16.6869444
+gm,dirboko,Dirboko,04,,13.3833333,-14.4
+gm,djalabango,Djalabango,05,,13.2805556,-16.6786111
+gm,djan counda,Djan Counda,04,,13.4166667,-13.8666667
+gm,djifanga,Djifanga,05,,13.1705556,-16.1922222
+gm,doba kunda,Doba Kunda,04,,13.3166667,-14.3
+gm,dobang kunda,Dobang Kunda,03,,13.4166667,-14.6333333
+gm,dobbo,Dobbo,03,,13.4666667,-14.6333333
+gm,dobo,Dobo,03,,13.4666667,-14.6333333
+gm,dobo,Dobo,07,,13.55,-15.9666667
+gm,dobong,Dobong,05,,13.2416667,-16.0738889
+gm,doke alla,Doke Alla,03,,13.7166667,-14.9
+gm,doki alla,Doki Alla,03,,13.7166667,-14.9
+gm,dongoro ba,Dongoro Ba,05,,13.3666667,-15.35
+gm,dongoro,Dongoro,05,,13.3833333,-15.2833333
+gm,dongoro nding,Dongoro Nding,05,,13.4666667,-15.2166667
+gm,douassu,Douassu,05,,13.1944444,-16.5508333
+gm,dramane,Dramane,04,,13.4333333,-14.1166667
+gm,drame joka,Drame Joka,07,,13.5652778,-16.1577778
+gm,drame joku,Drame Joku,07,,13.5652778,-16.1577778
+gm,dula kunda,Dula Kunda,04,,13.3166667,-14.3
+gm,duma sansang,Duma Sansang,05,,13.5166667,-15.2833333
+gm,dumbutto,Dumbutto,05,,13.2561111,-16.0444444
+gm,dumbuttu,Dumbuttu,05,,13.35,-15.8333333
+gm,dumbutu,Dumbutu,05,,13.35,-15.8333333
+gm,dumfoya,Dumfoya,04,,13.4166667,-14.2166667
+gm,dumungkareh,Dumungkareh,05,,13.3833333,-16.3
+gm,dungal,Dungal,03,,13.5,-14.8333333
+gm,dungu,Dungu,05,,13.5586111,-16.3516667
+gm,duniajoe,Duniajoe,05,,13.5702778,-16.4669444
+gm,dunyo joyo,Dunyo Joyo,05,,13.5702778,-16.4669444
+gm,duonki,Duonki,05,,13.1666667,-15.8166667
+gm,dutabulu,Dutabulu,02,,13.5666667,-15.6166667
+gm,dutta bullu,Dutta Bullu,02,,13.5666667,-15.6166667
+gm,ebadong,Ebadong,03,,13.4,-14.6
+gm,eboe town,Eboe Town,05,,13.4352778,-16.6763889
+gm,eloi,Eloi,07,,13.25,-16.2672222
+gm,elol,Elol,07,,13.25,-16.2672222
+gm,erangalain,Erangalain,05,,13.2066667,-16.1469444
+gm,essau,Essau,07,4997,13.4838889,-16.5347222
+gm,faarla,Faarla,05,,13.2847222,-16.7644444
+gm,fadia kunda,Fadia Kunda,03,,13.6,-15.0333333
+gm,fadiya kunda,Fadiya Kunda,04,,13.4833333,-14.2
+gm,fafanding,Fafanding,05,,13.5652778,-16.3791667
+gm,fafending,Fafending,05,,13.5652778,-16.3791667
+gm,fajara,Fajara,05,,13.47,-16.6963889
+gm,faji kunda,Faji Kunda,05,,13.4177778,-16.6666667
+gm,famori,Famori,07,,13.55,-16.0833333
+gm,fantumbu,Fantumbu,04,,13.4,-13.8666667
+gm,faraba banta,Faraba Banta,05,,13.2472222,-16.5263889
+gm,faraba bantang,Faraba Bantang,05,,13.2613889,-16.52
+gm,faraba,Faraba,03,,13.5333333,-14.8166667
+gm,faraba soto,Faraba Soto,05,,13.2033333,-16.4844444
+gm,faraba sutu,Faraba Sutu,05,,13.2033333,-16.4844444
+gm,farafenni,Farafenni,02,36831,13.5666667,-15.6
+gm,farakunda,Farakunda,05,,13.3091667,-16.7786111
+gm,fara kunku,Fara Kunku,05,,13.3091667,-16.7786111
+gm,faranabe,Faranabe,03,,13.3833333,-14.5666667
+gm,farato,Farato,02,,13.55,-15.4333333
+gm,farato,Farato,03,,13.3333333,-14.55
+gm,farato,Farato,04,,13.4,-14.2166667
+gm,farato,Farato,05,,13.315,-16.665
+gm,farba n' daw,Farba N' Daw,05,,13.65,-15.4166667
+gm,farem-toumbo,Farem-Toumbo,04,,13.4,-13.8666667
+gm,farintumbu,Farintumbu,04,,13.4,-13.8666667
+gm,farlah,Farlah,05,,13.2847222,-16.7644444
+gm,faro ya,Faro Ya,02,,13.4,-15.45
+gm,fas abdou,Fas Abdou,03,,13.4666667,-14.9166667
+gm,fas,Fas,03,,13.4666667,-14.9166667
+gm,fas,Fas,05,,13.8,-15.0666667
+gm,fas maundeh,Fas Maundeh,03,,13.6,-14.85
+gm,fas omar sahor,Fas Omar Sahor,05,,13.4613889,-16.3825
+gm,fass bamba,Fass Bamba,05,,13.8,-15.0666667
+gm,fass,Fass,02,,13.5833333,-15.6166667
+gm,fass,Fass,03,,13.3666667,-14.65
+gm,fass,Fass,05,,13.5636111,-16.4252778
+gm,fass mbaien,Fass Mbaien,05,,13.7166667,-15.4333333
+gm,fass njama,Fass Njama,05,,13.7666667,-15.1833333
+gm,fass omar sahor,Fass Omar Sahor,05,,13.4613889,-16.3825
+gm,fatako,Fatako,04,,13.35,-14.4
+gm,fatotenda,Fatotenda,04,,13.45,-14.0666667
+gm,fatoto,Fatoto,04,,13.4,-13.9
+gm,fattatenda,Fattatenda,04,,13.45,-14.0666667
+gm,felleng kotor,Felleng Kotor,05,,13.4666667,-15.2333333
+gm,felling kotor,Felling Kotor,05,,13.4666667,-15.2333333
+gm,findefeto,Findefeto,04,,13.3833333,-14.1166667
+gm,findofato,Findofato,04,,13.3833333,-14.1166667
+gm,firdausy,Firdausy,03,,13.7833333,-14.9333333
+gm,fitu,Fitu,03,,13.6,-14.7
+gm,fitu fula,Fitu Fula,03,,13.5833333,-14.7
+gm,fitu wollof,Fitu Wollof,03,,13.6,-14.7
+gm,fode kounda,Fode Kounda,04,,13.5,-13.9333333
+gm,fode kunda,Fode Kunda,04,,13.5,-13.9333333
+gm,fody biran,Fody Biran,07,,13.5883333,-16.0091667
+gm,folonko,Folonko,05,,13.0908333,-16.7616667
+gm,fonkoi kunda,Fonkoi Kunda,02,,13.3833333,-15.5666667
+gm,fori,Fori,03,,13.35,-14.6666667
+gm,forlolor,Forlolor,02,,13.4,-15.4
+gm,fuka,Fuka,03,,13.4666667,-14.7
+gm,fula bantang,Fula Bantang,03,,13.5,-14.8333333
+gm,fula,Fula,04,,13.35,-14.0166667
+gm,fula kolon,Fula Kolon,05,,13.6333333,-15.1166667
+gm,fula kolong,Fula Kolong,05,,13.6333333,-15.1166667
+gm,fula kulda,Fula Kulda,05,,13.2691667,-16.6311111
+gm,fula kunda,Fula Kunda,03,,13.5833333,-14.8333333
+gm,fula kunda,Fula Kunda,04,,13.2833333,-14.0666667
+gm,fula kunda,Fula Kunda,05,,13.195,-16.4697222
+gm,fula kunku,Fula Kunku,05,,13.2733333,-16.7494444
+gm,fula more boche,Fula More Boche,04,,13.3,-14.35
+gm,funtang,Funtang,05,,13.17,-16.0797222
+gm,futa yel,Futa Yel,03,,13.4333333,-14.7
+gm,gadafaro,Gadafaro,04,,13.4,-13.9
+gm,galleh jolloff,Galleh Jolloff,03,,13.4333333,-14.8
+gm,galleh jollof,Galleh Jollof,03,,13.4333333,-14.8
+gm,galleh manda,Galleh Manda,03,,13.4333333,-14.7833333
+gm,galleh wollof,Galleh Wollof,03,,13.4333333,-14.8
+gm,gallo-ya,Gallo-ya,05,,13.3311111,-16.6175
+gm,gallo ya,Gallo Ya,07,,13.5833333,-15.8
+gm,galowya,Galowya,05,,13.3311111,-16.6175
+gm,gambissara bondoh,Gambissara Bondoh,04,,13.2666667,-14.3
+gm,gambissara fula,Gambissara Fula,04,,13.2666667,-14.3
+gm,gambissara,Gambissara,04,6755,13.2333333,-14.3166667
+gm,gambissara jawo,Gambissara Jawo,04,,13.25,-14.3
+gm,gambissara jawor,Gambissara Jawor,04,,13.25,-14.3
+gm,gambissar,Gambissar,04,,13.3166667,-13.95
+gm,garawol,Garawol,04,,13.4166667,-13.95
+gm,gauwa,Gauwa,05,,13.6,-15.15
+gm,gayen pate gaie,Gayen Pate Gaie,03,,13.35,-14.6833333
+gm,gayo,Gayo,04,,13.5333333,-14.1
+gm,gebangarr,Gebangarr,05,,13.2025,-16.1072222
+gm,gembissara,Gembissara,04,,13.3166667,-13.95
+gm,genge,Genge,05,,13.7166667,-15.3833333
+gm,genge tukulor,Genge Tukulor,05,,13.7333333,-15.3833333
+gm,genge wollof,Genge Wollof,05,,13.7166667,-15.3833333
+gm,genieri,Genieri,02,,13.4166667,-15.6166667
+gm,georgetown,Georgetown,03,,13.5333333,-14.7666667
+gm,ghana town,Ghana Town,05,,13.3844444,-16.7711111
+gm,gibanak,Gibanak,05,,13.2141667,-16.1408333
+gm,gidda,Gidda,03,,13.4666667,-14.8833333
+gm,giffin,Giffin,02,,13.4166667,-15.5833333
+gm,gikis dandon,Gikis Dandon,05,,13.1705556,-16.0663889
+gm,gikis,Gikis,05,,13.1705556,-16.0663889
+gm,gikis,Gikis,07,,13.1827778,-16.2822222
+gm,gillangel,Gillangel,04,,13.3333333,-14.45
+gm,ginak kajata,Ginak Kajata,07,,13.5813889,-16.5275
+gm,ginak niji,Ginak Niji,07,,13.5744444,-16.525
+gm,giniah,Giniah,05,,13.2280556,-16.0913889
+gm,ginoi,Ginoi,02,,13.4833333,-15.5666667
+gm,giroba,Giroba,04,,13.3,-14.2
+gm,giroba kunda,Giroba Kunda,04,,13.3,-14.2
+gm,gissay,Gissay,02,,13.3108333,-16.0883333
+gm,guidi musa,Guidi Musa,03,,13.4666667,-14.8333333
+gm,gui jahanka,Gui Jahanka,05,,13.7333333,-15.2166667
+gm,gungorong,Gungorong,03,,13.7166667,-14.8666667
+gm,gunjur,Gunjur,03,,13.6666667,-15.0333333
+gm,gunjur,Gunjur,05,12530,13.1816667,-16.7583333
+gm,gunjur,Gunjur,07,,13.5227778,-16.0277778
+gm,gunjur kuta,Gunjur Kuta,04,,13.5333333,-14.1166667
+gm,gunkeru,Gunkeru,05,,13.7166667,-15.3833333
+gm,gunkoru ker hamet,Gunkoru Ker Hamet,05,,13.7166667,-15.3833333
+gm,gunkoru tukulor,Gunkoru Tukulor,05,,13.7166667,-15.3833333
+gm,gunkoru wolloff,Gunkoru Wolloff,05,,13.7166667,-15.3833333
+gm,gunkoru wollof,Gunkoru Wollof,05,,13.7166667,-15.3833333
+gm,hai-rewan,Hai-Rewan,03,,13.65,-15.0833333
+gm,hamadalie,Hamadalie,04,,13.3833333,-14.2666667
+gm,hamawda,Hamawda,05,,13.4883333,-16.4108333
+gm,hamdalae,Hamdalae,03,,13.5,-14.95
+gm,hamdalae,Hamdalae,05,,13.2113889,-16.4930556
+gm,hamdalai,Hamdalai,02,,13.3833333,-15.3666667
+gm,hamdalai,Hamdalai,03,,13.7166667,-15.0166667
+gm,hamdalai,Hamdalai,04,,13.4333333,-13.8
+gm,hamdalai,Hamdalai,05,,13.4427778,-16.2936111
+gm,hamdalai,Hamdalai,07,,13.5630556,-16.0225
+gm,hamdalie,Hamdalie,03,,13.7833333,-14.8666667
+gm,hela kunda,Hela Kunda,04,,13.3,-14.3666667
+gm,herabeh konoh,Herabeh Konoh,05,,13.4833333,-16.4333333
+gm,heramakono,Heramakono,04,,13.4333333,-13.85
+gm,hibra,Hibra,05,,13.7333333,-15.3833333
+gm,hoi,Hoi,05,,13.6666667,-15.4
+gm,hosnan,Hosnan,03,,13.8,-15.0166667
+gm,how ba,How Ba,05,,13.2722222,-16.7994444
+gm,ibo town,Ibo Town,05,,13.4352778,-16.6763889
+gm,ida,Ida,03,,13.6666667,-14.9333333
+gm,illiassa,Illiassa,07,,13.5666667,-15.75
+gm,india baddibu,India Baddibu,07,,13.5666667,-15.75
+gm,india,India,07,,13.5666667,-15.75
+gm,inoman,Inoman,05,,13.4333333,-16.35
+gm,jababa,Jababa,04,,13.3666667,-14.3666667
+gm,jaba,Jaba,05,,13.4333333,-15.2166667
+gm,jabang,Jabang,05,,13.3594444,-16.7094444
+gm,jabbi kunda,Jabbi Kunda,02,,13.5,-15.6166667
+gm,jabel kunda,Jabel Kunda,03,,13.4,-14.65
+gm,jabisa,Jabisa,02,,13.4666667,-15.4666667
+gm,jabis,Jabis,02,,13.4666667,-15.4666667
+gm,jafai,Jafai,03,,13.6666667,-15.0833333
+gm,jafini,Jafini,02,,13.4166667,-15.4166667
+gm,jagel,Jagel,07,,13.1916667,-16.3688889
+gm,jaggle,Jaggle,05,,13.75,-15.25
+gm,jaggli,Jaggli,05,,13.75,-15.25
+gm,jagle,Jagle,05,,13.75,-15.2666667
+gm,jago,Jago,07,,13.5333333,-16.2
+gm,jahabi,Jahabi,04,,13.3666667,-14.3666667
+gm,jaha,Jaha,04,,13.4166667,-14.1166667
+gm,jahajan,Jahajan,07,,13.5833333,-15.75
+gm,jahajari,Jahajari,07,,13.5833333,-15.75
+gm,jaha madina,Jaha Madina,04,,13.35,-14.3166667
+gm,jahatuje,Jahatuje,04,,13.5333333,-14.1
+gm,jahawur mandinka,Jahawur Mandinka,05,,13.7,-15.3666667
+gm,jahawur tukulor,Jahawur Tukulor,05,,13.7,-15.3666667
+gm,jaidina,Jaidina,02,,13.4,-15.5166667
+gm,jailan,Jailan,03,,13.7166667,-15.0166667
+gm,jaiteh kunda,Jaiteh Kunda,05,,13.5333333,-15.2666667
+gm,jakaba,Jakaba,03,,13.65,-14.8833333
+gm,jakaba,Jakaba,04,,13.3666667,-14.3666667
+gm,jakadia,Jakadia,07,,13.5833333,-15.75
+gm,jakau,Jakau,05,,13.7,-15.35
+gm,jakau-ur,Jakau-ur,05,,13.7,-15.35
+gm,jakau-ur sinchu,Jakau-ur Sinchu,05,,13.7,-15.35
+gm,jakhaly,Jakhaly,03,,13.55,-14.9666667
+gm,jakin,Jakin,05,,13.1672222,-16.2316667
+gm,jakisu,Jakisu,05,,13.1861111,-16.2430556
+gm,jakoe,Jakoe,05,,13.2280556,-16.1752778
+gm,jakoi bintang,Jakoi Bintang,05,,13.2269444,-16.2438889
+gm,jakoi,Jakoi,07,,13.2333333,-16.3
+gm,jakoi sibrik,Jakoi Sibrik,07,,13.2708333,-16.2922222
+gm,jako kanjeru,Jako Kanjeru,05,,13.2280556,-16.1752778
+gm,ja koto,Ja Koto,05,,13.65,-15.3166667
+gm,jakotto,Jakotto,05,,13.65,-15.3166667
+gm,jalaba,Jalaba,02,,13.3833333,-15.3666667
+gm,jalaba,Jalaba,07,,13.55,-15.7
+gm,jala koto,Jala Koto,03,,13.55,-14.6666667
+gm,jalakoto,Jalakoto,07,,13.205,-16.2886111
+gm,jala kunda,Jala Kunda,04,,13.2333333,-14.3333333
+gm,jalambantang,Jalambantang,05,,13.1958333,-16.6280556
+gm,jalangbereh,Jalangbereh,02,,13.3833333,-15.4
+gm,jalato ali,Jalato Ali,05,,13.6666667,-15.4166667
+gm,jalato nderry,Jalato Nderry,05,,13.6666667,-15.4166667
+gm,jalato sololi mena,Jalato Sololi Mena,05,,13.6666667,-15.4
+gm,jalew,Jalew,05,,13.1833333,-15.9333333
+gm,jali,Jali,02,,13.35,-15.9666667
+gm,jali kunda,Jali Kunda,07,,13.5666667,-15.85
+gm,jallakotto,Jallakotto,05,,13.6333333,-15.3166667
+gm,jallal,Jallal,03,,13.6166667,-14.5
+gm,jallo koto,Jallo Koto,05,,13.6333333,-15.3166667
+gm,jallow koto,Jallow Koto,05,,13.6333333,-15.3166667
+gm,jallow kunda,Jallow Kunda,02,,13.35,-15.3833333
+gm,jallow kunda,Jallow Kunda,05,,13.2508333,-16.6388889
+gm,jally kunda,Jally Kunda,07,,13.55,-15.75
+gm,jalo kunda abdu secka,Jalo Kunda Abdu Secka,03,,13.7666667,-14.9833333
+gm,jalo kunda bakari sabali,Jalo Kunda Bakari Sabali,03,,13.75,-14.9666667
+gm,jalo kunda demba sira,Jalo Kunda Demba Sira,03,,13.7666667,-14.9666667
+gm,jalo kunda fula,Jalo Kunda Fula,03,,13.75,-14.9666667
+gm,jalo kunda,Jalo Kunda,03,,13.7833333,-15.0
+gm,jalo kunda malick n'yang,Jalo Kunda Malick N'Yang,03,,13.75,-14.9666667
+gm,jalo kunda mat mbye,Jalo Kunda Mat Mbye,03,,13.7666667,-14.9833333
+gm,jalo kunda sering ceesay,Jalo Kunda Sering Ceesay,03,,13.75,-14.9833333
+gm,jaluby,Jaluby,03,,13.5833333,-14.5833333
+gm,jaluby koto,Jaluby Koto,03,,13.6,-14.6166667
+gm,jaluby tukulor,Jaluby Tukulor,03,,13.55,-14.55
+gm,jamagain,Jamagain,03,,13.7666667,-15.0166667
+gm,jamagen,Jamagen,02,,13.5666667,-15.45
+gm,jamagen,Jamagen,03,,13.4833333,-14.8166667
+gm,jama gen,Jama Gen,03,,13.65,-14.65
+gm,jamagen,Jamagen,03,,13.7166667,-14.8166667
+gm,jamagen,Jamagen,05,,13.5336111,-16.2530556
+gm,jama gen,Jama Gen,05,,13.5869444,-16.4747222
+gm,jama,Jama,05,,13.65,-15.3
+gm,jama ken,Jama Ken,05,,13.5336111,-16.2530556
+gm,jamali babou,Jamali Babou,03,,13.5666667,-14.7666667
+gm,jamali bere jallow,Jamali Bere Jallow,03,,13.5833333,-14.7666667
+gm,jamali ganiado njie,Jamali Ganiado Njie,03,,13.5666667,-14.75
+gm,jamali,Jamali,05,,13.5833333,-15.1833333
+gm,jamali momodou kuta,Jamali Momodou Kuta,03,,13.5833333,-14.75
+gm,jamali tamsin musa,Jamali Tamsin Musa,03,,13.5833333,-14.7666667
+gm,jamali tamsir secka,Jamali Tamsir Secka,03,,13.5666667,-14.7666667
+gm,jamal mballo,Jamal Mballo,02,,13.5833333,-15.5166667
+gm,jamaly,Jamaly,03,,13.5833333,-14.75
+gm,jamara,Jamara,05,,13.6,-15.2166667
+gm,jamara nema,Jamara Nema,05,,13.6,-15.2166667
+gm,jamara wollof,Jamara Wollof,05,,13.6,-15.2333333
+gm,jamari,Jamari,03,,13.5833333,-14.75
+gm,jamarli,Jamarli,03,,13.5833333,-14.75
+gm,jambanjali,Jambanjali,05,,13.2802778,-16.7294444
+gm,jambanjeli,Jambanjeli,05,,13.2802778,-16.7294444
+gm,jambanya,Jambanya,02,,13.5333333,-15.5166667
+gm,jambaruya,Jambaruya,04,,13.5,-14.1833333
+gm,jambour,Jambour,05,,13.3155556,-16.7019444
+gm,jambur,Jambur,05,,13.3155556,-16.7019444
+gm,jamisa,Jamisa,05,,13.4166667,-16.7166667
+gm,jammeh kunda,Jammeh Kunda,07,,13.5,-16.0
+gm,jammi kunda,Jammi Kunda,07,,13.5,-16.0
+gm,jamu,Jamu,03,,13.3833333,-14.7333333
+gm,jamweley,Jamweley,05,,13.2508333,-16.6388889
+gm,jamwell,Jamwell,05,,13.55,-15.3166667
+gm,jamwelly,Jamwelly,04,,13.4666667,-14.45
+gm,jamwelly,Jamwelly,05,,13.2508333,-16.6388889
+gm,jamwilli,Jamwilli,05,,13.7166667,-15.35
+gm,janack,Janack,05,,13.1666667,-16.2333333
+gm,jana kuyel,Jana Kuyel,07,,13.1677778,-16.2677778
+gm,janding ba,Janding Ba,05,,13.2,-15.9333333
+gm,janding jilahar,Janding Jilahar,05,,13.1866667,-16.0086111
+gm,janeck,Janeck,05,,13.1666667,-16.2333333
+gm,janeh kunda,Janeh Kunda,03,,13.65,-14.6166667
+gm,jane kunda,Jane Kunda,05,,13.7166667,-15.3333333
+gm,jangmarr,Jangmarr,05,,13.3,-15.9333333
+gm,jang-maru,Jang-maru,05,,13.3,-15.9333333
+gm,janna kunda,Janna Kunda,02,,13.3802778,-16.1383333
+gm,janneh kunda,Janneh Kunda,02,,13.3802778,-16.1383333
+gm,janweley,Janweley,05,,13.2508333,-16.6388889
+gm,jappeni,Jappeni,02,,13.4166667,-15.4166667
+gm,jarbang,Jarbang,05,,13.3594444,-16.7094444
+gm,jareng ker modou warr,Jareng Ker Modou Warr,05,,13.7166667,-15.2833333
+gm,jareng ker sait sowe,Jareng Ker Sait Sowe,05,,13.7166667,-15.2666667
+gm,jaring alieu m'boge,Jaring Alieu M'Boge,05,,13.7166667,-15.2666667
+gm,jaring madi jama,Jaring Madi Jama,05,,13.7166667,-15.2666667
+gm,jaring mandinka,Jaring Mandinka,05,,13.7,-15.2666667
+gm,jarjangfara,Jarjangfara,05,,13.2666667,-15.9
+gm,jarju kunda,Jarju Kunda,07,,13.1961111,-16.3444444
+gm,jar kunda,Jar Kunda,04,,13.4666667,-14.1833333
+gm,jarlang,Jarlang,07,,13.2308333,-16.2783333
+gm,jarreng,Jarreng,05,,13.6166667,-15.1833333
+gm,jarrol,Jarrol,05,,13.25,-15.85
+gm,jarrume koto,Jarrume Koto,03,,13.5833333,-14.7833333
+gm,jarrume kuta,Jarrume Kuta,03,,13.5666667,-14.8666667
+gm,jarume koto,Jarume Koto,03,,13.5833333,-14.7833333
+gm,jarume kuta,Jarume Kuta,03,,13.5666667,-14.8666667
+gm,jasobo,Jasobo,02,,13.4666667,-15.6666667
+gm,jassong,Jassong,05,,13.4,-15.3166667
+gm,jatabba,Jatabba,05,,13.2666667,-15.8333333
+gm,jata,Jata,04,,13.2833333,-14.3166667
+gm,jataly,Jataly,03,,13.6166667,-14.7166667
+gm,jata sutu,Jata Sutu,05,,13.55,-15.25
+gm,jatikoi,Jatikoi,05,,13.2833333,-15.9833333
+gm,jattaba,Jattaba,05,,13.2666667,-15.8333333
+gm,jatta kunda,Jatta Kunda,05,,13.4,-15.7
+gm,jatta sutu,Jatta Sutu,05,,13.55,-15.25
+gm,jau kunda,Jau Kunda,04,,13.4166667,-13.8666667
+gm,jawbeh madeh,Jawbeh Madeh,04,,13.35,-14.4166667
+gm,jawbeh modeh,Jawbeh Modeh,04,,13.35,-14.4166667
+gm,jawbe,Jawbe,03,,13.4166667,-14.7166667
+gm,jawla,Jawla,04,,13.4166667,-14.1833333
+gm,jda,Jda,03,,13.6666667,-14.9333333
+gm,jekka,Jekka,04,,13.5333333,-14.1166667
+gm,jendeh,Jendeh,04,,13.4,-14.2833333
+gm,jenoi,Jenoi,02,,13.4833333,-15.5666667
+gm,jenun kunda,Jenun Kunda,05,,13.1883333,-16.5488889
+gm,jereh kungoto,Jereh Kungoto,05,,13.3708333,-16.4988889
+gm,jeriko,Jeriko,07,,13.5833333,-15.6666667
+gm,jessadi,Jessadi,05,,13.6333333,-15.3
+gm,jessadi tenda,Jessadi Tenda,05,,13.65,-15.2666667
+gm,jessadi wharf town,Jessadi Wharf Town,05,,13.65,-15.2833333
+gm,jessida tenda,Jessida Tenda,05,,13.65,-15.2666667
+gm,jeswang,Jeswang,05,,13.4425,-16.6813889
+gm,jiboroh,Jiboroh,05,,13.1794444,-16.5761111
+gm,jiboroh kotor,Jiboroh Kotor,05,,13.1794444,-16.5761111
+gm,jiboroh kuta,Jiboroh Kuta,05,,13.1883333,-16.5736111
+gm,jida,Jida,05,,13.1877778,-16.5972222
+gm,jifarong,Jifarong,05,,13.3,-15.8666667
+gm,jiffarong,Jiffarong,05,,13.3,-15.8666667
+gm,jiffet,Jiffet,07,,13.4847222,-16.5013889
+gm,jiffin,Jiffin,02,,13.4166667,-15.5833333
+gm,jifoni,Jifoni,05,,13.2666667,-15.9333333
+gm,jigimar,Jigimar,02,,13.5666667,-15.6
+gm,jillimfara,Jillimfara,05,,13.1722222,-16.1180556
+gm,jimara,Jimara,04,,13.2666667,-14.4333333
+gm,jimbala fel n'goh,Jimbala Fel N'Goh,05,,13.75,-15.3833333
+gm,jimbala ker chandou,Jimbala Ker Chandou,05,,13.7333333,-15.3833333
+gm,jimbala ker kara,Jimbala Ker Kara,05,,13.7333333,-15.3833333
+gm,jimbana,Jimbana,05,,13.4197222,-16.4486111
+gm,jinak,Jinak,07,,13.5813889,-16.5275
+gm,jingory manga,Jingory Manga,03,,13.7166667,-14.8666667
+gm,jingory mustapha,Jingory Mustapha,03,,13.7333333,-14.8666667
+gm,jiroff,Jiroff,05,,13.4166667,-15.7
+gm,jiroff tenda,Jiroff Tenda,05,,13.4333333,-15.7166667
+gm,jirong,Jirong,07,,13.5333333,-15.7
+gm,jirrong,Jirrong,07,,13.5333333,-15.7
+gm,jissa,Jissa,07,,13.5736111,-16.2088889
+gm,joba,Joba,05,,13.4333333,-15.2166667
+gm,jobe kunda,Jobe Kunda,02,,13.4166667,-15.4166667
+gm,jockul,Jockul,05,,13.6166667,-15.1666667
+gm,jogdu,Jogdu,03,,13.5166667,-14.6
+gm,jokul,Jokul,03,,13.7666667,-14.9833333
+gm,jokul ndowen,Jokul Ndowen,03,,13.7833333,-14.9
+gm,joli kah,Joli Kah,03,,13.6166667,-14.6666667
+gm,jollofin,Jollofin,05,,13.3666667,-15.65
+gm,jomarr,Jomarr,02,,13.4333333,-15.6666667
+gm,jombiya,Jombiya,05,,13.2166667,-16.7333333
+gm,jom kunda,Jom Kunda,05,,13.2666667,-16.0
+gm,jongerr,Jongerr,05,,13.2833333,-15.9833333
+gm,jorem bunda kunda,Jorem Bunda Kunda,05,,13.25,-15.8833333
+gm,jorem drameh kunda,Jorem Drameh Kunda,05,,13.2333333,-15.8833333
+gm,jorem,Jorem,05,,13.2166667,-15.9666667
+gm,joren,Joren,05,,13.2333333,-15.8833333
+gm,jowara,Jowara,07,,13.5766667,-16.08
+gm,juburruya,Juburruya,04,,13.3,-14.35
+gm,jufureh,Jufureh,05,,13.3386111,-16.3825
+gm,jufuri,Jufuri,05,,13.3386111,-16.3825
+gm,jula kunda,Jula Kunda,02,,13.3305556,-16.1769444
+gm,juma kunda,Juma Kunda,05,,13.2419444,-16.0172222
+gm,jumakunda,Jumakunda,05,,13.2802778,-16.0161111
+gm,jumansari,Jumansari,07,,13.5333333,-15.75
+gm,jumansari korto,Jumansari Korto,07,,13.5,-15.7333333
+gm,jumansari koto,Jumansari Koto,07,,13.5,-15.7333333
+gm,jumaru,Jumaru,05,,13.3,-15.9333333
+gm,jum bakary,Jum Bakary,04,,13.3166667,-14.45
+gm,jum mankama,Jum Mankama,04,,13.3333333,-14.45
+gm,junku,Junku,03,,13.4166667,-14.6666667
+gm,juoli,Juoli,02,,13.4005556,-16.0955556
+gm,jurro kunda,Jurro Kunda,04,,13.2833333,-14.3833333
+gm,jurunku,Jurunku,05,,13.4183333,-16.2563889
+gm,jwenkelly,Jwenkelly,05,,13.1833333,-15.8333333
+gm,ka-ai,Ka-ai,03,,13.5833333,-14.8833333
+gm,kabakama,Kabakama,04,,13.3,-14.2
+gm,kaba kotor,Kaba Kotor,05,,13.4833333,-16.2833333
+gm,kabamba,Kabamba,05,,13.6166667,-15.2833333
+gm,kabekel,Kabekel,05,,13.2033333,-16.6572222
+gm,kabokor,Kabokor,07,,13.2069444,-16.2708333
+gm,kabomb,Kabomb,05,,13.1666667,-15.8
+gm,kachow nding,Kachow NDing,05,,13.3377778,-16.7047222
+gm,kachuma,Kachuma,05,,13.2288889,-16.7605556
+gm,kafaya,Kafaya,05,,13.1305556,-16.7786111
+gm,kafenkena,Kafenkena,05,,13.1716667,-16.0022222
+gm,kafenkeng,Kafenkeng,05,,13.1716667,-16.0022222
+gm,kaffenkeng,Kaffenkeng,05,,13.1833333,-15.9166667
+gm,kafuta,Kafuta,05,,13.1966667,-16.4588889
+gm,kafuta tubung,Kafuta Tubung,05,,13.1741667,-16.4605556
+gm,kafuta tumbung,Kafuta Tumbung,05,,13.1741667,-16.4605556
+gm,kahan,Kahan,03,,13.5,-14.8166667
+gm,kahone,Kahone,03,,13.7166667,-15.0166667
+gm,kahow,Kahow,03,,13.4833333,-14.8166667
+gm,kaiaf,Kaiaf,02,,13.4,-15.6166667
+gm,kaianga,Kaianga,05,,13.1761111,-16.2038889
+gm,kaie,Kaie,07,,13.2077778,-16.3452778
+gm,kai hai fula kunda,Kai Hai Fula Kunda,03,,13.5833333,-14.8666667
+gm,kai hai,Kai Hai,03,,13.5833333,-14.8833333
+gm,kai hai,Kai Hai,05,,13.7333333,-15.1166667
+gm,kaijara,Kaijara,07,,13.25,-16.3166667
+gm,kaimbalaing,Kaimbalaing,05,,13.3833333,-16.3
+gm,kaimbujae,Kaimbujae,05,,13.3,-16.6166667
+gm,kaimbujae nding,Kaimbujae NDing,05,,13.285,-16.6213889
+gm,kaiyabor,Kaiyabor,05,,13.25,-15.95
+gm,kajabina,Kajabina,07,,13.1702778,-16.3225
+gm,kajata,Kajata,07,,13.5813889,-16.5275
+gm,kakudia,Kakudia,05,,13.2252778,-16.7427778
+gm,kalagi,Kalagi,05,,13.25,-15.8333333
+gm,kalaja,Kalaja,05,,13.25,-15.8333333
+gm,kalaji,Kalaji,05,,13.25,-15.8333333
+gm,kalang,Kalang,05,,13.25,-15.95
+gm,kalataba,Kalataba,02,,13.55,-15.6166667
+gm,kalem pol,Kalem Pol,03,,13.5833333,-14.65
+gm,kaleng,Kaleng,05,,13.1747222,-16.0563889
+gm,kalikajara,Kalikajara,05,,13.6166667,-15.3166667
+gm,kali kunda,Kali Kunda,03,,13.4666667,-14.5833333
+gm,kalimu,Kalimu,05,,13.2166667,-16.0166667
+gm,kaling,Kaling,05,,13.1747222,-16.0563889
+gm,kallang,Kallang,05,,13.25,-15.95
+gm,kamamudu,Kamamudu,05,,13.1833333,-15.8
+gm,kambagali,Kambagali,05,,13.1847222,-16.0822222
+gm,kambagol,Kambagol,05,,13.1847222,-16.0822222
+gm,kambalayba,Kambalayba,05,,13.2333333,-15.8666667
+gm,kambalin,Kambalin,05,,13.18,-16.0525
+gm,kambele,Kambele,04,,13.5166667,-13.9166667
+gm,kambi,Kambi,03,,13.7166667,-14.8
+gm,kambong,Kambong,05,,13.2122222,-16.1072222
+gm,kambuji,Kambuji,05,,13.2544444,-16.5955556
+gm,kamemero,Kamemero,05,,13.2166667,-15.8166667
+gm,kamenero,Kamenero,05,,13.2166667,-15.8166667
+gm,kamessen,Kamessen,05,,13.1666667,-15.9666667
+gm,kamessing,Kamessing,05,,13.1833333,-15.8333333
+gm,kamfenda,Kamfenda,05,,13.2152778,-16.0558333
+gm,kamos,Kamos,05,,13.1855556,-16.2225
+gm,kampant,Kampant,05,,13.2022222,-16.1097222
+gm,kampassa,Kampassa,05,,13.1833333,-15.8166667
+gm,kamunakore,Kamunakore,04,,13.2666667,-14.3833333
+gm,kanape,Kanape,04,,13.5666667,-13.9333333
+gm,kanau,Kanau,05,,13.25,-16.2333333
+gm,kandimai,Kandimai,04,,13.4,-14.2833333
+gm,kandong,Kandong,07,,13.245,-16.3136111
+gm,kandonk,Kandonk,07,,13.245,-16.3136111
+gm,kanfinda,Kanfinda,05,,13.2152778,-16.0558333
+gm,kangalabata,Kangalabata,05,,13.1669444,-16.0680556
+gm,kangiramba,Kangiramba,05,,13.2,-15.8666667
+gm,kangwalli,Kangwalli,05,,13.2,-15.9333333
+gm,kanifing industrial estate,Kanifing Industrial Estate,05,,13.4530556,-16.6697222
+gm,kanifing,Kanifing,05,,13.4463889,-16.6744444
+gm,kani kunda,Kani Kunda,02,,13.45,-15.5166667
+gm,kani kunda wharf town,Kani Kunda Wharf Town,02,,13.55,-15.3833333
+gm,kanilai,Kanilai,05,,13.1763889,-16.0169444
+gm,kanjabina,Kanjabina,07,,13.1702778,-16.3225
+gm,kanjending,Kanjending,05,,13.2333333,-15.9666667
+gm,kanjeramba,Kanjeramba,05,,13.2,-15.8666667
+gm,kanjibat,Kanjibat,05,,13.2333333,-15.9166667
+gm,kanjiramba,Kanjiramba,05,,13.1683333,-16.4163889
+gm,kanjundu,Kanjundu,05,,13.2,-16.1333333
+gm,kankuntu,Kankuntu,05,,13.2391667,-16.0863889
+gm,kankuran,Kankuran,05,,13.1833333,-15.9166667
+gm,kansala,Kansala,05,,13.25,-16.1
+gm,kansambou,Kansambou,05,,13.1666667,-15.8
+gm,kantale kunda,Kantale Kunda,04,,13.4,-13.8833333
+gm,kantimba,Kantimba,05,,13.1647222,-16.0252778
+gm,kantong kunda,Kantong Kunda,05,,13.3333333,-15.95
+gm,kanton kunda,Kanton Kunda,05,,13.3333333,-15.95
+gm,kantora,Kantora,05,,13.2166667,-16.15
+gm,kanube,Kanube,04,,13.3166667,-14.3
+gm,kanube tenda,Kanube Tenda,04,,13.3333333,-14.3
+gm,kanuma,Kanuma,02,,13.4166667,-15.4
+gm,kanuma,Kanuma,05,,13.2241667,-16.7752778
+gm,kanuma,Kanuma,07,,13.2305556,-16.2733333
+gm,kaolang,Kaolang,03,,13.5666667,-15.0666667
+gm,kapongah,Kapongah,05,,13.1719444,-16.4163889
+gm,kara,Kara,03,,13.5833333,-14.75
+gm,karanai,Karanai,05,,13.2177778,-16.1538889
+gm,karantaba dutu koto,Karantaba Dutu Koto,03,,13.5833333,-14.5666667
+gm,karantaba,Karantaba,02,,13.3525,-16.1544444
+gm,karantaba,Karantaba,03,,13.55,-14.5666667
+gm,karantaba,Karantaba,04,,13.35,-14.0166667
+gm,karantaba,Karantaba,07,,13.5038889,-16.1486111
+gm,karantaba tabokoto,Karantaba Tabokoto,03,,13.5666667,-14.5666667
+gm,karantaba tenda,Karantaba Tenda,03,,13.55,-14.5666667
+gm,karantaba tukulor,Karantaba Tukulor,03,,13.55,-14.5666667
+gm,karantaba wolloff,Karantaba Wolloff,03,,13.5666667,-14.5666667
+gm,karantaba woloff,Karantaba Woloff,03,,13.5666667,-14.5666667
+gm,karaoli,Karaoli,04,,13.4166667,-13.95
+gm,karewan,Karewan,05,,13.3683333,-16.6258333
+gm,karmanka,Karmanka,05,,13.25,-15.85
+gm,karrol,Karrol,05,,13.1727778,-16.0797222
+gm,karsi kunda,Karsi Kunda,04,,13.3833333,-13.85
+gm,kartung,Kartung,05,,13.0947222,-16.7622222
+gm,kasa kunda,Kasa Kunda,05,,13.25,-16.6833333
+gm,kashan,Kashan,07,,13.5,-15.75
+gm,kasila,Kasila,07,,13.2269444,-16.2752778
+gm,kas malal bah,Kas Malal Bah,03,,13.7833333,-14.9333333
+gm,kas n'jaibal,Kas N'Jaibal,03,,13.7666667,-14.9333333
+gm,kassagne,Kassagne,05,,13.2319444,-16.2297222
+gm,kassang,Kassang,05,,13.2319444,-16.2297222
+gm,kass,Kass,03,,13.7833333,-14.9333333
+gm,kass malal bah,Kass Malal Bah,03,,13.7833333,-14.9333333
+gm,kass n'jaibal,Kass N'Jaibal,03,,13.7666667,-14.9333333
+gm,kass perom,Kass Perom,03,,13.7833333,-14.9333333
+gm,kass wollof,Kass Wollof,03,,13.7833333,-14.9333333
+gm,kass yallal,Kass Yallal,03,,13.7833333,-14.9
+gm,kas yallal,Kas Yallal,03,,13.7833333,-14.9
+gm,kataba,Kataba,02,,13.55,-15.5166667
+gm,kataba,Kataba,03,,13.6833333,-14.8166667
+gm,kataba mandinka,Kataba Mandinka,02,,13.55,-15.5333333
+gm,kataba mbap,Kataba Mbap,02,,13.55,-15.5166667
+gm,kataba omar ndow,Kataba Omar Ndow,03,,13.6833333,-14.8166667
+gm,kataba sering kah,Kataba Sering Kah,03,,13.6666667,-14.8
+gm,katabatata,Katabatata,02,,13.55,-15.5166667
+gm,katamina,Katamina,05,,13.55,-15.2833333
+gm,katchang,Katchang,07,,13.5,-15.75
+gm,katchang tenda,Katchang Tenda,07,,13.4833333,-15.7666667
+gm,katimina,Katimina,05,,13.75,-15.0833333
+gm,katokorr,Katokorr,05,,13.2394444,-16.2247222
+gm,kattaba,Kattaba,03,,13.6833333,-14.8166667
+gm,kaur,Kaur,07,,13.1780556,-16.3461111
+gm,kau-ur,Kau-ur,05,,13.7,-15.3166667
+gm,kawali,Kawali,05,,13.2,-16.0
+gm,kayabor,Kayabor,05,,13.25,-15.95
+gm,kayainding,Kayainding,03,,13.6,-14.85
+gm,kayimu bintang,Kayimu Bintang,05,,13.1933333,-16.1813889
+gm,kayimu,Kayimu,05,,13.1666667,-16.2
+gm,kayrang,Kayrang,05,,13.1880556,-16.0605556
+gm,kebbe,Kebbe,04,,13.4333333,-13.9666667
+gm,kebbe,Kebbe,05,,13.5402778,-16.3219444
+gm,kebbe kunda,Kebbe Kunda,04,,13.4333333,-13.9666667
+gm,kekuta kunda,Kekuta Kunda,07,,13.5666667,-15.85
+gm,kembuje,Kembuje,05,,13.285,-16.6213889
+gm,kemoto,Kemoto,02,,13.4325,-16.1475
+gm,kendalu,Kendalu,04,,13.4666667,-14.2
+gm,keneba,Keneba,02,,13.3288889,-16.015
+gm,keninding saibali,Keninding Saibali,05,,13.2886111,-16.7805556
+gm,kenniang,Kenniang,02,,13.3538889,-16.07
+gm,kenniba,Kenniba,02,,13.3288889,-16.015
+gm,kenniba,Kenniba,04,,13.3,-14.1
+gm,keno koto,Keno Koto,02,,13.2891667,-16.0822222
+gm,ker abdou fady,Ker Abdou Fady,05,,13.5530556,-16.2966667
+gm,ker abdu,Ker Abdu,03,,13.4833333,-14.7
+gm,ker ali,Ker Ali,02,,13.5833333,-15.6166667
+gm,keralima,Keralima,03,,13.4666667,-14.4833333
+gm,ker alpha,Ker Alpha,05,,13.7166667,-15.1666667
+gm,ker alpha sana,Ker Alpha Sana,05,,13.7,-15.3166667
+gm,ker ardo,Ker Ardo,07,,13.5788889,-16.0463889
+gm,ker bakary,Ker Bakary,05,,13.4,-16.7333333
+gm,ker bakary salla,Ker Bakary Salla,03,,13.8,-15.0
+gm,ker bamba,Ker Bamba,05,,13.6166667,-15.1666667
+gm,ker bamba lowe,Ker Bamba Lowe,02,,13.55,-15.4166667
+gm,ker bambo lowe,Ker Bambo Lowe,02,,13.55,-15.4166667
+gm,ker banno,Ker Banno,07,,13.5766667,-16.04
+gm,ker batch,Ker Batch,05,,13.75,-15.0666667
+gm,ker batram yasin,Ker Batram Yasin,07,,13.5833333,-16.0
+gm,ker bessenti,Ker Bessenti,05,,13.2758333,-16.715
+gm,ker biggie,Ker Biggie,05,,13.5130556,-16.3255556
+gm,ker biram kardo,Ker Biram Kardo,07,,13.5833333,-15.9
+gm,ker biram yasin,Ker Biram Yasin,07,,13.5833333,-16.0
+gm,ker biram yassin,Ker Biram Yassin,02,,13.65,-15.4333333
+gm,ker biram yassin,Ker Biram Yassin,07,,13.5833333,-16.0
+gm,ker biran kani,Ker Biran Kani,05,,13.495,-16.3180556
+gm,ker biran,Ker Biran,05,,13.6,-15.1666667
+gm,ker biran yassin,Ker Biran Yassin,02,,13.65,-15.4333333
+gm,ker chaindu,Ker Chaindu,05,,13.7666667,-15.3333333
+gm,ker chandeh,Ker Chandeh,05,,13.5786111,-16.44
+gm,ker chende,Ker Chende,05,,13.5786111,-16.44
+gm,ker dekordeh,Ker Dekordeh,05,,13.4666667,-16.3166667
+gm,ker demba gabu,Ker Demba Gabu,05,,13.7,-15.3
+gm,ker demba,Ker Demba,05,,13.7,-15.2333333
+gm,ker-dobally,Ker-Dobally,05,,13.3886111,-16.6777778
+gm,ker dobaly,Ker Dobaly,05,,13.3886111,-16.6777778
+gm,kerevane,Kerevane,07,,13.4894444,-16.0911111
+gm,kerewan duto koto,Kerewan Duto Koto,03,,13.5833333,-14.5666667
+gm,kerewan,Kerewan,03,,13.4,-14.6
+gm,kerewan,Kerewan,04,,13.3666667,-14.2166667
+gm,kerewan,Kerewan,05,,13.3683333,-16.6258333
+gm,kerewan,Kerewan,07,3017,13.4894444,-16.0911111
+gm,kerewan samba sira,Kerewan Samba Sira,03,,13.5166667,-14.9
+gm,ker famara,Ker Famara,07,,13.5666667,-16.0166667
+gm,ker ganyado,Ker Ganyado,05,,13.5927778,-16.2897222
+gm,ker geryado,Ker Geryado,07,,13.5833333,-16.1833333
+gm,ker gido,Ker Gido,05,,13.5486111,-16.2725
+gm,ker goolgor,Ker Goolgor,05,,13.27,-16.7188889
+gm,ker gumalo,Ker Gumalo,07,,13.5833333,-15.8666667
+gm,ker halli,Ker Halli,02,,13.5833333,-15.6166667
+gm,ker hardo,Ker Hardo,07,,13.5788889,-16.0463889
+gm,ker ibra,Ker Ibra,05,,13.7333333,-15.3833333
+gm,ker illo buya,Ker Illo Buya,07,,13.5833333,-15.9
+gm,ker jabel,Ker Jabel,05,,13.7166667,-15.2833333
+gm,ker jah,Ker Jah,05,,13.75,-15.3833333
+gm,ker jaho,Ker Jaho,05,,13.75,-15.4
+gm,ker janko,Ker Janko,05,,13.75,-15.1
+gm,ker jarga,Ker Jarga,05,,13.6666667,-15.4166667
+gm,ker jarga,Ker Jarga,07,,13.5388889,-16.2044444
+gm,ker jatta,Ker Jatta,05,,13.5533333,-16.4427778
+gm,ker jawbe,Ker Jawbe,07,,13.5833333,-15.9166667
+gm,ker jibby,Ker Jibby,05,,13.7166667,-15.2833333
+gm,ker jibel,Ker Jibel,05,,13.6666667,-15.4166667
+gm,ker juma,Ker Juma,05,,13.5,-16.3166667
+gm,ker kalim,Ker Kalim,07,,13.5833333,-15.8833333
+gm,ker katim,Ker Katim,05,,13.5833333,-15.1833333
+gm,ker katim,Ker Katim,07,,13.5833333,-15.8833333
+gm,ker kossa,Ker Kossa,05,,13.7166667,-15.3
+gm,ker lelly,Ker Lelly,07,,13.5833333,-15.8
+gm,ker lien,Ker Lien,05,,13.6166667,-15.2833333
+gm,ker mademba,Ker Mademba,05,,13.4183333,-16.43
+gm,ker madi,Ker Madi,05,,13.75,-15.4
+gm,ker maila,Ker Maila,05,,13.7333333,-15.3333333
+gm,ker majara,Ker Majara,05,,13.6666667,-15.4
+gm,ker majojo,Ker Majojo,07,,13.5794444,-16.16
+gm,ker maka,Ker Maka,05,,13.8166667,-15.0666667
+gm,ker maka tukulor,Ker Maka Tukulor,05,,13.8166667,-15.0666667
+gm,ker malick abdou njie,Ker Malick Abdou Njie,05,,13.75,-15.3833333
+gm,ker malick,Ker Malick,05,,13.6833333,-15.2333333
+gm,ker malick sarr,Ker Malick Sarr,05,,13.5869444,-16.3611111
+gm,ker malima,Ker Malima,05,,13.5833333,-15.1833333
+gm,ker mama hugo,Ker Mama Hugo,05,,13.4333333,-16.4
+gm,ker mama,Ker Mama,05,,13.4191667,-16.3558333
+gm,ker mamour fatim,Ker Mamour Fatim,05,,13.7166667,-15.2666667
+gm,ker mari,Ker Mari,07,,13.5833333,-15.9
+gm,ker marjow,Ker Marjow,07,,13.5794444,-16.16
+gm,ker mata jeme,Ker Mata Jeme,07,,13.5833333,-16.0
+gm,ker m'bouguma,Ker M'Bouguma,05,,13.5191667,-16.4058333
+gm,ker mod hali,Ker Mod Hali,05,,13.75,-15.2333333
+gm,ker modi hali,Ker Modi Hali,05,,13.75,-15.2333333
+gm,ker modi teddy,Ker Modi Teddy,07,,13.5833333,-15.9666667
+gm,ker mod,Ker Mod,05,,13.75,-15.2333333
+gm,ker momodou fana,Ker Momodou Fana,05,,13.6833333,-15.2333333
+gm,ker musa,Ker Musa,05,,13.7333333,-15.3833333
+gm,ker n'gaien,Ker N'Gaien,03,,13.6333333,-14.9166667
+gm,ker ngaien,Ker Ngaien,03,,13.7166667,-14.9166667
+gm,ker n'gatta,Ker N'Gatta,05,,13.55,-16.3833333
+gm,ker n'gissay,Ker N'Gissay,05,,13.6,-16.2666667
+gm,ker n'gojan,Ker N'Gojan,05,,13.5333333,-16.2805556
+gm,ker ngonyan,Ker Ngonyan,05,,13.5363889,-16.2847222
+gm,ker ngor,Ker Ngor,05,,13.5675,-16.2633333
+gm,ker n'gor,Ker N'Gor,07,,13.5555556,-16.2422222
+gm,ker ngumbo,Ker Ngumbo,05,,13.4294444,-16.3522222
+gm,ker niada,Ker Niada,03,,13.7333333,-14.8166667
+gm,ker n'jugari,Ker N'Jugari,05,,13.5833333,-16.2833333
+gm,ker njugar ndure,Ker Njugar Ndure,02,,13.5333333,-15.3333333
+gm,ker omar dahor,Ker Omar Dahor,03,,13.6166667,-15.0666667
+gm,ker omar mane,Ker Omar Mane,05,,13.5833333,-16.2666667
+gm,ker omar saine,Ker Omar Saine,07,,13.5788889,-16.2238889
+gm,ker ousman buso,Ker Ousman Buso,05,,13.4994444,-16.2666667
+gm,ker pateh,Ker Pateh,02,,13.3666667,-15.3833333
+gm,ker pate kore,Ker Pate Kore,07,,13.5833333,-15.9666667
+gm,ker patteh,Ker Patteh,05,,13.5791667,-16.3155556
+gm,kerr sait maram,Kerr Sait Maram,03,,13.6666667,-14.85
+gm,ker saderr jobe,Ker Saderr Jobe,05,,13.55,-16.3
+gm,ker sain musa,Ker Sain Musa,05,,13.6666667,-15.4
+gm,ker sait cham,Ker Sait Cham,05,,13.4855556,-16.355
+gm,ker sait maram,Ker Sait Maram,03,,13.6166667,-14.8333333
+gm,ker sait maram,Ker Sait Maram,05,,13.8,-15.0333333
+gm,ker samba kalla,Ker Samba Kalla,05,,13.5244444,-16.3586111
+gm,ker samba,Ker Samba,03,,13.75,-15.05
+gm,ker samba,Ker Samba,07,,13.5833333,-15.9333333
+gm,ker samba kumda,Ker Samba Kumda,07,,13.5833333,-15.9
+gm,ker samba n'jabeh,Ker Samba N'Jabeh,05,,13.5047222,-16.3452778
+gm,ker samba n'jobbeh,Ker Samba N'Jobbeh,05,,13.5047222,-16.3452778
+gm,ker samba sowe,Ker Samba Sowe,03,,13.7166667,-15.0166667
+gm,ker samba sow,Ker Samba Sow,07,,13.5833333,-15.9
+gm,ker samba yassin,Ker Samba Yassin,05,,13.5911111,-16.3536111
+gm,ker sam boye,Ker Sam Boye,05,,13.7166667,-15.3833333
+gm,ker saniang,Ker Saniang,05,,13.5744444,-16.4613889
+gm,ker selleh,Ker Selleh,05,,13.5333333,-16.2805556
+gm,ker serigne njaga,Ker Serigne Njaga,05,,13.4319444,-16.7225
+gm,ker sering jabel,Ker Sering Jabel,05,,13.7666667,-15.05
+gm,ker sering n'jie,Ker Sering N'Jie,05,,13.7833333,-15.0833333
+gm,ker shikh taal,Ker Shikh Taal,07,,13.5666667,-15.9833333
+gm,ker sidyke,Ker Sidyke,05,,13.5152778,-16.2666667
+gm,ker sidy,Ker Sidy,05,,13.75,-15.1
+gm,ker silla,Ker Silla,07,,13.5333333,-15.9833333
+gm,ker singarteh,Ker Singarteh,04,,13.3666667,-14.0666667
+gm,ker sirrai,Ker Sirrai,05,,13.5,-16.35
+gm,ker tamsir,Ker Tamsir,05,,13.6833333,-15.2333333
+gm,ker tiendu,Ker Tiendu,05,,13.7666667,-15.3333333
+gm,ker tiern,Ker Tiern,05,,13.75,-15.4
+gm,ker tierno,Ker Tierno,05,,13.75,-15.4
+gm,ker waka,Ker Waka,05,,13.6666667,-15.2333333
+gm,ker wally,Ker Wally,05,,13.5186111,-16.4275
+gm,ker werrigo,Ker Werrigo,05,,13.5166667,-16.3
+gm,ker yoro bah,Ker Yoro Bah,05,,13.5211111,-16.3291667
+gm,ker yoro jallow,Ker Yoro Jallow,05,,13.75,-15.0833333
+gm,ker yoro sowe,Ker Yoro Sowe,02,,13.55,-15.3333333
+gm,kesereh,Kesereh,03,,13.5166667,-14.7333333
+gm,ket kuli,Ket Kuli,07,,13.5666667,-15.8833333
+gm,kewal,Kewal,03,,13.45,-14.7
+gm,kewel,Kewel,03,,13.45,-14.7
+gm,khayell bessell,Khayell Bessell,04,,13.3666667,-14.4666667
+gm,khewal,Khewal,03,,13.5166667,-14.8333333
+gm,kiberi,Kiberi,03,,13.6166667,-14.7166667
+gm,kidi kunda,Kidi Kunda,05,,13.3333333,-15.9166667
+gm,kidi kunda,Kidi Kunda,07,,13.5833333,-15.85
+gm,killa,Killa,05,,13.4613889,-16.2702778
+gm,killing,Killing,05,,13.2166667,-16.2333333
+gm,killy,Killy,05,,13.2075,-16.2325
+gm,kinteh kunda,Kinteh Kunda,07,,13.5072222,-16.0672222
+gm,kinti kunda,Kinti Kunda,07,,13.5072222,-16.0672222
+gm,kiskisi,Kiskisi,04,,13.3,-14.15
+gm,kissay,Kissay,05,,13.5222222,-16.4247222
+gm,kiti,Kiti,05,,13.2311111,-16.6666667
+gm,kiti manjago,Kiti Manjago,05,,13.2461111,-16.6655556
+gm,kobotor,Kobotor,04,,13.3833333,-14.0833333
+gm,kofa,Kofa,05,,13.75,-15.2
+gm,kohel,Kohel,02,,13.4,-15.55
+gm,koina,Koina,04,,13.4833333,-13.8666667
+gm,koina tenda,Koina Tenda,04,,13.4833333,-13.9
+gm,kolibantang,Kolibantang,04,,13.4333333,-14.2
+gm,koli kunda,Koli Kunda,03,,13.4666667,-14.5833333
+gm,koli kunda,Koli Kunda,04,,13.3666667,-14.0833333
+gm,koli kunda,Koli Kunda,05,,13.6,-15.2333333
+gm,kolinto,Kolinto,04,,13.2833333,-14.1166667
+gm,kolior,Kolior,02,,13.4166667,-15.6666667
+gm,kololi,Kololi,05,,13.4438889,-16.7161111
+gm,komansor,Komansor,05,,13.1833333,-16.2166667
+gm,konko fulla,Konko Fulla,03,,13.5333333,-14.8
+gm,konkohdoma,Konkohdoma,03,,13.55,-14.7166667
+gm,konko koto,Konko Koto,03,,13.7166667,-14.9166667
+gm,konteh,Konteh,05,,13.7166667,-15.1666667
+gm,konti kunda,Konti Kunda,07,,13.5666667,-15.8
+gm,konti kunda niji,Konti Kunda Niji,07,,13.5666667,-15.7833333
+gm,konti kunda sukoto,Konti Kunda Sukoto,07,,13.5666667,-15.8
+gm,kora,Kora,03,,13.5833333,-14.75
+gm,koro numa kunda,Koro Numa Kunda,04,,13.3333333,-14.5
+gm,korro jula kunda,Korro Jula Kunda,04,,13.35,-14.4833333
+gm,kossema,Kossema,04,,13.3333333,-14.3833333
+gm,kossema,Kossema,05,,13.1730556,-16.1755556
+gm,kossemar dembell,Kossemar Dembell,04,,13.3166667,-14.3833333
+gm,kossemar,Kossemar,04,,13.3333333,-14.3833333
+gm,kossemar mamodu sutu,Kossemar Mamodu Sutu,04,,13.3166667,-14.3833333
+gm,kossemar momadu sutu,Kossemar Momadu Sutu,04,,13.3166667,-14.3833333
+gm,kotu,Kotu,05,,13.4594444,-16.7052778
+gm,kristi kunda,Kristi Kunda,04,,13.4166667,-13.8666667
+gm,kuari,Kuari,04,,13.3333333,-13.8833333
+gm,kubariko,Kubariko,05,,13.3322222,-16.6325
+gm,kubendar,Kubendar,02,,13.5333333,-15.6333333
+gm,kubune,Kubune,05,,13.3241667,-16.6052778
+gm,kubuni,Kubuni,05,,13.3241667,-16.6052778
+gm,kucha,Kucha,03,,13.7666667,-15.0166667
+gm,kudang,Kudang,03,,13.6666667,-15.0666667
+gm,kudang,Kudang,05,,13.6833333,-15.0833333
+gm,kudang tenda,Kudang Tenda,05,,13.6833333,-15.0833333
+gm,kudang wharf,Kudang Wharf,05,,13.6833333,-15.0833333
+gm,kuiran,Kuiran,03,,13.6666667,-14.8333333
+gm,kujew,Kujew,03,,13.55,-14.7
+gm,kukuyal,Kukuyal,04,,13.4,-13.9
+gm,kukuyel,Kukuyel,04,,13.4,-13.9
+gm,kulari,Kulari,04,,13.4,-14.0833333
+gm,kular,Kular,04,,13.4666667,-14.2166667
+gm,kulibanta,Kulibanta,03,,13.6666667,-15.0
+gm,kuli kunda,Kuli Kunda,05,,13.3333333,-15.9166667
+gm,kulkulel,Kulkulel,04,,13.3,-14.15
+gm,kuloro,Kuloro,05,,13.2805556,-16.5780556
+gm,kulukoch,Kulukoch,05,,13.1675,-16.7636111
+gm,kumbaney,Kumbaney,05,,13.6,-15.2166667
+gm,kumbani,Kumbani,05,,13.6,-15.2166667
+gm,kumbijae,Kumbijae,02,,13.5333333,-15.4333333
+gm,kumbija,Kumbija,02,,13.5333333,-15.4333333
+gm,kumbija,Kumbija,04,,13.2666667,-14.1833333
+gm,kumbija,Kumbija,05,,13.6,-15.2333333
+gm,kumbita,Kumbita,04,,13.2666667,-14.1833333
+gm,kumbul,Kumbul,04,,13.3833333,-13.9666667
+gm,kunda,Kunda,04,,13.55,-13.8833333
+gm,kunda,Kunda,05,,13.7833333,-15.1166667
+gm,kundam demba,Kundam Demba,04,,13.3333333,-14.1166667
+gm,kundam fode,Kundam Fode,04,,13.3333333,-14.1166667
+gm,kundam,Kundam,04,,13.3333333,-14.1166667
+gm,kundum,Kundum,04,,13.4,-14.2833333
+gm,kungeru,Kungeru,07,,13.5227778,-16.0277778
+gm,kunjala,Kunjala,04,,13.25,-14.1833333
+gm,kunjenjen,Kunjenjen,05,,13.1675,-16.025
+gm,kunjetta,Kunjetta,02,,13.5,-15.4
+gm,kunjung,Kunjung,02,,13.5666667,-15.5833333
+gm,kunkujang jattaya,Kunkujang Jattaya,05,,13.3472222,-16.6005556
+gm,kunkujang,Kunkujang,05,,13.2252778,-16.7427778
+gm,kunkujang manjago,Kunkujang Manjago,05,,13.2566667,-16.7322222
+gm,kunkujang nding,Kunkujang NDing,05,,13.2916667,-16.7647222
+gm,kunkujan jataya,Kunkujan Jataya,05,,13.3472222,-16.6005556
+gm,kunkujan,Kunkujan,05,,13.2252778,-16.7427778
+gm,kunong fula kunda,Kunong Fula Kunda,05,,13.4166667,-15.7333333
+gm,kunong mansasansang,Kunong Mansasansang,05,,13.4166667,-15.7333333
+gm,kunong numu kunda,Kunong Numu Kunda,05,,13.4166667,-15.7166667
+gm,kuntair,Kuntair,07,,13.5363889,-16.2244444
+gm,kuntaur fula kunda,Kuntaur Fula Kunda,03,,13.65,-14.8666667
+gm,kuntaur,Kuntaur,03,11399,13.65,-14.8666667
+gm,kunting,Kunting,03,,13.5333333,-14.6666667
+gm,kununku,Kununku,03,,13.6666667,-15.0
+gm,kuoba kunda,Kuoba Kunda,04,,13.3166667,-14.2333333
+gm,kuoba,Kuoba,04,,13.3166667,-14.2333333
+gm,kuonko,Kuonko,04,,13.4166667,-14.3166667
+gm,kurang kotor,Kurang Kotor,02,,13.3013889,-16.1875
+gm,kurau bakari,Kurau Bakari,04,,13.4,-14.4166667
+gm,kurau kemo arfang,Kurau Kemo Arfang,04,,13.4,-14.4166667
+gm,kurau,Kurau,04,,13.4,-14.4166667
+gm,kurinulain,Kurinulain,05,,13.2266667,-16.0855556
+gm,kur kur yoro mballow,Kur Kur Yoro Mballow,03,,13.4833333,-14.8833333
+gm,kurong kortor,Kurong Kortor,02,,13.3166667,-16.1
+gm,kurong kotor,Kurong Kotor,02,,13.3013889,-16.1875
+gm,kurop,Kurop,03,,13.5,-14.7166667
+gm,kurup,Kurup,03,,13.5,-14.7166667
+gm,kuryande,Kuryande,04,,13.4666667,-13.8166667
+gm,kusa burey,Kusa Burey,04,,13.35,-14.1333333
+gm,kusaie,Kusaie,04,,13.55,-13.9
+gm,kusalang,Kusalang,03,,13.45,-14.8666667
+gm,kusamai,Kusamai,05,,13.1730556,-16.1755556
+gm,kusassa,Kusassa,02,,13.5666667,-15.5833333
+gm,kusi,Kusi,04,,13.45,-14.1166667
+gm,kussamai,Kussamai,05,,13.1730556,-16.1755556
+gm,kusun,Kusun,04,,13.3833333,-13.9333333
+gm,kutcha,Kutcha,03,,13.7666667,-15.0166667
+gm,kuyang,Kuyang,02,,13.3336111,-16.1025
+gm,kuyarang,Kuyarang,03,,13.6666667,-14.8333333
+gm,kwinella,Kwinella,05,,13.4,-15.8
+gm,labba korreh,Labba Korreh,05,,13.3527778,-16.7258333
+gm,laliya,Laliya,07,,13.5833333,-15.8666667
+gm,lama,Lama,03,,13.4833333,-14.8
+gm,lameng,Lameng,05,,13.3869444,-16.6447222
+gm,lamin beretto,Lamin Beretto,05,,13.3869444,-16.6447222
+gm,lamin koto,Lamin Koto,03,,13.55,-14.7666667
+gm,lamin,Lamin,03,,13.55,-14.7666667
+gm,lamin,Lamin,05,16525,13.3522222,-16.4338889
+gm,lamoi,Lamoi,03,,13.4333333,-14.5833333
+gm,lang sarr,Lang Sarr,02,,13.5833333,-15.6333333
+gm,lang sarr,Lang Sarr,05,,13.5761111,-16.3625
+gm,larlagoi,Larlagoi,03,,13.4166667,-14.5833333
+gm,latra kunda,Latra Kunda,05,,13.4486111,-16.6852778
+gm,latra sabiji,Latra Sabiji,05,,13.4133333,-16.6788889
+gm,latra sibige,Latra Sibige,05,,13.4133333,-16.6788889
+gm,latri kunda,Latri Kunda,05,,13.4486111,-16.6852778
+gm,latri kundal,Latri Kundal,05,,13.4486111,-16.6852778
+gm,latrikunda sabiji,Latrikunda Sabiji,05,,13.4133333,-16.6788889
+gm,latri,Latri,05,,13.4133333,-16.6788889
+gm,latri sabiji,Latri Sabiji,05,,13.4133333,-16.6788889
+gm,leba biji,Leba Biji,05,,13.75,-15.1833333
+gm,leba,Leba,05,,13.75,-15.1666667
+gm,leba mali mbye,Leba Mali Mbye,05,,13.75,-15.1666667
+gm,leba pegail,Leba Pegail,05,,13.75,-15.1833333
+gm,leba samba,Leba Samba,05,,13.75,-15.1833333
+gm,leba sasuna,Leba Sasuna,05,,13.75,-15.1833333
+gm,leese ya,Leese Ya,05,,13.2166667,-16.6627778
+gm,legi kunda,Legi Kunda,04,,13.35,-14.5166667
+gm,lewna,Lewna,05,,13.5383333,-16.4733333
+gm,limbambulu,Limbambulu,04,,13.4166667,-14.1166667
+gm,linjanya,Linjanya,05,,13.2297222,-16.7516667
+gm,little banjul,Little Banjul,05,,13.3733333,-16.6572222
+gm,logo moji,Logo Moji,03,,13.3833333,-14.55
+gm,lohen,Lohen,05,,13.5438889,-16.3641667
+gm,luluchore,Luluchore,05,,13.1844444,-16.1033333
+gm,lumang,Lumang,07,,13.1833333,-16.25
+gm,lumen,Lumen,02,,13.5666667,-15.4166667
+gm,mabali kotor,Mabali Kotor,03,,13.4166667,-14.6666667
+gm,mabali kuta,Mabali Kuta,03,,13.4,-14.6666667
+gm,macca,Macca,05,,13.4,-16.1333333
+gm,mademba,Mademba,05,,13.4183333,-16.43
+gm,madiana,Madiana,03,,13.4833333,-14.5
+gm,madiana,Madiana,05,,13.3533333,-16.7630556
+gm,madi,Madi,07,,13.5833333,-15.8833333
+gm,madina adam,Madina Adam,05,,13.7333333,-15.2833333
+gm,madina alpha,Madina Alpha,03,,13.4833333,-14.8833333
+gm,madina bafuloto,Madina Bafuloto,05,,13.4558333,-16.3397222
+gm,madina bala,Madina Bala,04,,13.4166667,-13.85
+gm,madina dabo kunda,Madina Dabo Kunda,05,,13.3413889,-16.7102778
+gm,madina demba,Madina Demba,03,,13.4333333,-14.75
+gm,madina fula balde,Madina Fula Balde,03,,13.4,-14.6333333
+gm,madina fula kunda,Madina Fula Kunda,04,,13.4166667,-13.8333333
+gm,madina jawbeh,Madina Jawbeh,03,,13.4833333,-14.8666667
+gm,madina kuru,Madina Kuru,04,,13.35,-14.5
+gm,madina kuta,Madina Kuta,04,,13.3833333,-13.8666667
+gm,madina madi,Madina Madi,05,,13.5833333,-15.1833333
+gm,madina,Madina,02,,13.3577778,-16.1716667
+gm,madina,Madina,03,,13.3666667,-14.5333333
+gm,madina,Madina,04,,13.3,-14.0166667
+gm,madina,Madina,05,,13.2575,-16.6477778
+gm,madina,Madina,07,,13.25,-16.3166667
+gm,madina mbaien,Madina Mbaien,05,,13.75,-15.0666667
+gm,madina n'jaien,Madina N'Jaien,03,,13.75,-14.8833333
+gm,madina njaien,Madina Njaien,05,,13.6666667,-15.4166667
+gm,madina njaine,Madina Njaine,03,,13.75,-14.8833333
+gm,madina njugari,Madina Njugari,05,,13.65,-15.3166667
+gm,madina n'yang-en,Madina N'Yang-en,03,,13.75,-14.9166667
+gm,madina sadda,Madina Sadda,04,,13.2666667,-14.4
+gm,madina sey kunda,Madina Sey Kunda,05,,13.3747222,-16.6844444
+gm,madina sinchu yoro,Madina Sinchu Yoro,03,,13.5,-14.8666667
+gm,madina talakoto,Madina Talakoto,05,,13.2077778,-16.5883333
+gm,madina tenda,Madina Tenda,04,,13.3833333,-14.2
+gm,madina tujeng,Madina Tujeng,03,,13.4333333,-14.75
+gm,madina tunjang,Madina Tunjang,03,,13.4333333,-14.75
+gm,madina umfally,Madina Umfally,03,,13.5333333,-14.95
+gm,madina yoro sowe,Madina Yoro Sowe,03,,13.6,-15.0166667
+gm,maga geyor,Maga Geyor,05,,13.5833333,-16.2833333
+gm,mahmuda,Mahmuda,05,,13.4477778,-16.415
+gm,mahnyinah,Mahnyinah,05,,13.2086111,-16.2080556
+gm,maidi,Maidi,07,,13.5833333,-15.95
+gm,maimeh,Maimeh,07,,13.1916667,-16.3458333
+gm,maindina ba,Maindina Ba,05,,13.2811111,-16.5936111
+gm,majama kunda,Majama Kunda,07,,13.5666667,-15.85
+gm,maka bala mana,Maka Bala Mana,05,,13.5786111,-16.3105556
+gm,maka farafenni,Maka Farafenni,02,,13.5833333,-15.6333333
+gm,maka gui,Maka Gui,03,,13.75,-14.9
+gm,maka gui,Maka Gui,05,,13.7833333,-15.15
+gm,makajan kunda,Makajan Kunda,04,,13.5666667,-13.9166667
+gm,makajan,Makajan,04,,13.5666667,-13.9166667
+gm,maka,Maka,03,,13.7,-14.8833333
+gm,maka,Maka,04,,13.4166667,-14.0333333
+gm,maka,Maka,05,,13.6,-15.3
+gm,makama,Makama,05,,13.6,-15.3166667
+gm,maka njen jam,Maka Njen Jam,05,,13.5913889,-16.2816667
+gm,maka omar manneh,Maka Omar Manneh,05,,13.5788889,-16.2697222
+gm,maka wollof,Maka Wollof,05,,13.8166667,-15.0666667
+gm,makka,Makka,05,,13.4,-16.1333333
+gm,makumbaya,Makumbaya,05,,13.3316667,-16.6252778
+gm,male kunda,Male Kunda,05,,13.55,-15.3
+gm,maliky mansong,Maliky Mansong,04,,13.3333333,-14.5
+gm,malubaliya,Malubaliya,04,,13.5,-14.0833333
+gm,mamadi ceesay,Mamadi Ceesay,04,,13.5,-14.45
+gm,mamadi sisi,Mamadi Sisi,04,,13.5166667,-14.4333333
+gm,mampata yeli,Mampata Yeli,04,,13.2333333,-14.2166667
+gm,mamu fana,Mamu Fana,05,,13.6,-15.1166667
+gm,manar,Manar,02,,13.3586111,-16.1522222
+gm,manda,Manda,03,,13.4333333,-14.7833333
+gm,mandina bah,Mandina Bah,05,,13.2811111,-16.5936111
+gm,mandinaba,Mandinaba,05,,13.2811111,-16.5936111
+gm,mandina ba,Mandina Ba,05,,13.2811111,-16.5936111
+gm,mandina,Mandina,02,,13.3577778,-16.1716667
+gm,mandina,Mandina,05,,13.18,-16.0202778
+gm,mandinari,Mandinari,05,,13.3727778,-16.6027778
+gm,mandingko,Mandingko,04,,13.35,-14.0166667
+gm,mandingo,Mandingo,03,,13.5333333,-14.55
+gm,mandori,Mandori,07,,13.5,-15.9333333
+gm,mandua,Mandua,02,,13.3538889,-16.07
+gm,manduari,Manduari,05,,13.2455556,-16.6369444
+gm,manduar,Manduar,02,,13.3538889,-16.07
+gm,manduar,Manduar,05,,13.2455556,-16.6369444
+gm,mane kunda,Mane Kunda,04,,13.3,-14.2166667
+gm,mangiumba,Mangiumba,03,,13.7166667,-14.9333333
+gm,manjaharr,Manjaharr,05,,13.7166667,-15.3666667
+gm,manjai kunda,Manjai Kunda,05,,13.4452778,-16.7027778
+gm,manjal kunda,Manjal Kunda,05,,13.4452778,-16.7027778
+gm,mankajang,Mankajang,03,,13.5,-14.8666667
+gm,manna,Manna,03,,13.5333333,-14.95
+gm,manneh kunda,Manneh Kunda,04,,13.3,-14.2166667
+gm,mano kotor,Mano Kotor,04,,13.5,-14.1166667
+gm,manong,Manong,05,,13.1908333,-16.0641667
+gm,manor koto,Manor Koto,04,,13.5,-14.1166667
+gm,mansajang kunda,Mansajang Kunda,04,,13.3,-14.2166667
+gm,mansa konko,Mansa Konko,02,,13.4666667,-15.55
+gm,mansa kunda,Mansa Kunda,04,,13.4,-13.9833333
+gm,mansakunda,Mansakunda,05,,13.3644444,-16.73
+gm,mansal,Mansal,05,,13.2491667,-16.6669444
+gm,mansong,Mansong,04,,13.3333333,-14.4
+gm,marakissa,Marakissa,05,,13.2111111,-16.6497222
+gm,mara magai,Mara Magai,03,,13.5166667,-14.9166667
+gm,mariama kunda,Mariama Kunda,05,,13.3644444,-16.73
+gm,marige,Marige,05,,13.2,-15.9
+gm,marka farafenni,Marka Farafenni,02,,13.5833333,-15.6333333
+gm,marrong kunda,Marrong Kunda,07,,13.5333333,-15.9166667
+gm,marsai,Marsai,05,,13.7166667,-15.3666667
+gm,massembe chandere,Massembe Chandere,03,,13.4333333,-14.7666667
+gm,massembe,Massembe,02,,13.4166667,-15.6333333
+gm,maundeh kunda,Maundeh Kunda,03,,13.6333333,-15.0333333
+gm,mauwhunda kunda,Mauwhunda Kunda,05,,13.4036111,-16.6852778
+gm,mayamba,Mayamba,07,,13.4941667,-16.5169444
+gm,mayork,Mayork,05,,13.2333333,-15.9666667
+gm,m'baia,M'Baia,04,,13.3833333,-14.2833333
+gm,mbaien burama,Mbaien Burama,05,,13.75,-15.0666667
+gm,mbaien chand mbye,Mbaien Chand Mbye,05,,13.7166667,-15.2666667
+gm,m'baien fulla,M'Baien Fulla,03,,13.7166667,-14.8166667
+gm,mbaien ker nyang,Mbaien Ker Nyang,05,,13.7166667,-15.2666667
+gm,mbaien maka,Mbaien Maka,05,,13.6166667,-15.1
+gm,mbaien,Mbaien,02,,13.5333333,-15.6166667
+gm,mbaien,Mbaien,05,,13.5455556,-16.3908333
+gm,mbaien sara kumba kah,Mbaien Sara Kumba Kah,03,,13.7333333,-14.8
+gm,mbaien wollof,Mbaien Wollof,03,,13.7333333,-14.8166667
+gm,mballo kunda,Mballo Kunda,04,,13.3166667,-14.5
+gm,mbamori kunda,Mbamori Kunda,07,,13.5816667,-16.0036111
+gm,mbange ndarra,Mbange Ndarra,02,,13.5833333,-15.55
+gm,mbangkama,MBangkama,07,,13.5441667,-16.5055556
+gm,mban,Mban,03,,13.4833333,-14.75
+gm,mbap ba,Mbap Ba,02,,13.5833333,-15.4833333
+gm,mbap marigay,Mbap Marigay,02,,13.5833333,-15.4833333
+gm,mbaro,Mbaro,03,,13.75,-15.0166667
+gm,mbarra kunku,Mbarra Kunku,05,,13.4058333,-16.7333333
+gm,m'bawarr,M'Bawarr,03,,13.5833333,-14.6
+gm,m'bengkama,M'Bengkama,07,,13.5441667,-16.5055556
+gm,mbogen,Mbogen,05,,13.7166667,-15.2833333
+gm,mbol bouk,Mbol Bouk,03,,13.6166667,-14.8
+gm,m'bolett,M'Bolett,07,,13.5166667,-16.5
+gm,mbolgoh,Mbolgoh,05,,13.75,-15.2333333
+gm,mbollet bah,Mbollet Bah,07,,13.5166667,-16.5
+gm,m'bollet,M'Bollet,07,,13.5166667,-16.5
+gm,m'bollet n'ding,M'Bollet N'Ding,05,,13.5236111,-16.4663889
+gm,m'bowen,M'Bowen,05,,13.5333333,-16.2666667
+gm,mbulgurk,Mbulgurk,05,,13.75,-15.2833333
+gm,mbul manda,Mbul Manda,03,,13.45,-14.8
+gm,mbulum,Mbulum,05,,13.5355556,-16.4066667
+gm,m'bulum,M'Bulum,05,,13.5422222,-16.4055556
+gm,mbye kunda,Mbye Kunda,04,,13.3833333,-14.2833333
+gm,mbye niake,Mbye Niake,02,,13.5833333,-15.4166667
+gm,medina dudu,Medina Dudu,05,,13.4283333,-16.3475
+gm,medina-duisi,Medina-Duisi,05,,13.7333333,-15.2833333
+gm,medina jambol,Medina Jambol,04,,13.2833333,-14.3166667
+gm,medina kanuma,Medina Kanuma,07,,13.4927778,-16.5233333
+gm,medina manneh,Medina Manneh,05,,13.5586111,-16.3944444
+gm,medina mannen,Medina Mannen,05,,13.8,-15.05
+gm,medina,Medina,03,,13.45,-14.4833333
+gm,medina,Medina,04,,13.4,-14.3
+gm,medina,Medina,05,,13.2152778,-16.1047222
+gm,medina modum,Medina Modum,05,,13.5766667,-16.2819444
+gm,medina njama,Medina Njama,05,,13.5391667,-16.2588889
+gm,medina njammeh sise,Medina Njammeh Sise,05,,13.7333333,-15.1833333
+gm,medina njien,Medina Njien,05,,13.7833333,-15.05
+gm,medina sacheboe,Medina Sacheboe,05,,13.4022222,-16.3683333
+gm,medina sedia,Medina Sedia,05,,13.4205556,-16.4333333
+gm,medina seringe mass,Medina Seringe Mass,05,,13.4883333,-16.4108333
+gm,medina sering mas,Medina Sering Mas,05,,13.4883333,-16.4108333
+gm,medina sering mass,Medina Sering Mass,05,,13.4883333,-16.4108333
+gm,medina sering njie,Medina Sering Njie,05,,13.7833333,-15.0833333
+gm,medina sotokoi,Medina Sotokoi,05,,13.55,-16.4569444
+gm,medina suware kunda,Medina Suware Kunda,05,,13.315,-16.665
+gm,memmeh,Memmeh,07,,13.5197222,-16.2311111
+gm,memme,Memme,07,,13.5197222,-16.2311111
+gm,mendy kunda,Mendy Kunda,05,,13.2688889,-16.7055556
+gm,meris,Meris,05,,13.2413889,-16.0416667
+gm,mesaith sayan,Mesaith Sayan,03,,13.45,-14.5833333
+gm,mina,Mina,02,,13.55,-15.4833333
+gm,minjang,Minjang,05,,13.3833333,-15.9
+gm,minti kunda,Minti Kunda,07,,13.5666667,-15.8666667
+gm,misera fafa jow,Misera Fafa Jow,05,,13.7,-15.2333333
+gm,misera,Misera,03,,13.4,-14.6666667
+gm,misera,Misera,04,,13.3333333,-13.95
+gm,misera,Misera,05,,13.8166667,-15.0666667
+gm,misira alhaji,Misira Alhaji,07,,13.5886111,-16.1913889
+gm,misira fafa jow,Misira Fafa Jow,05,,13.7,-15.2333333
+gm,misira,Misira,02,,13.3833333,-15.5333333
+gm,misira,Misira,03,,13.55,-14.95
+gm,misira,Misira,05,,13.5833333,-15.2
+gm,misira,Misira,07,,13.5666667,-15.6666667
+gm,misira sambail cham,Misira Sambail Cham,05,,13.8166667,-15.0666667
+gm,misira toben,Misira Toben,03,,13.6166667,-15.0666667
+gm,missera amadou badjan,Missera Amadou Badjan,05,,13.7166667,-15.3166667
+gm,missira mbaien,Missira Mbaien,03,,13.5333333,-14.9166667
+gm,missira,Missira,04,,13.3666667,-14.35
+gm,missira ngain tanu,Missira Ngain Tanu,03,,13.6166667,-14.7666667
+gm,missira patteh,Missira Patteh,05,,13.6333333,-15.2833333
+gm,missira tenda,Missira Tenda,02,,13.3013889,-16.1875
+gm,missir,Missir,04,,13.3666667,-14.35
+gm,modi kulo,Modi Kulo,05,,13.3666667,-15.35
+gm,modouya,Modouya,05,,13.2191667,-16.6461111
+gm,modu jawo kunda,Modu Jawo Kunda,04,,13.55,-13.9
+gm,momadu kunda,Momadu Kunda,04,,13.3333333,-14.2666667
+gm,momodu kunda,Momodu Kunda,04,,13.3333333,-14.2666667
+gm,monong,Monong,05,,13.1908333,-16.0641667
+gm,morbugu,Morbugu,04,,13.25,-14.2666667
+gm,mousa nding kunda,Mousa Nding Kunda,04,,13.35,-14.45
+gm,m'palen,M'Palen,02,,13.5666667,-15.4333333
+gm,mukumbaya,Mukumbaya,05,,13.3316667,-16.6252778
+gm,mundong,Mundong,03,,13.3666667,-14.5666667
+gm,munku talla,Munku Talla,02,,13.3833333,-15.6
+gm,munya gen,Munya Gen,07,,13.5302778,-16.1788889
+gm,mure kunda,Mure Kunda,04,,13.55,-14.0666667
+gm,muritabeh,Muritabeh,03,,13.4833333,-14.8166667
+gm,musa deba,Musa Deba,05,,13.5833333,-16.4833333
+gm,musa kunda,Musa Kunda,04,,13.55,-13.95
+gm,myamba,Myamba,07,,13.4941667,-16.5169444
+gm,nafugan,Nafugan,04,,13.3333333,-14.2833333
+gm,nafuka,Nafuka,04,,13.3333333,-14.2833333
+gm,nana,Nana,05,,13.5833333,-15.2
+gm,naneko,Naneko,02,,13.4,-15.3666667
+gm,nanetto,Nanetto,05,,13.1825,-16.635
+gm,naningkoi,Naningkoi,05,,13.3833333,-15.8833333
+gm,napoli,Napoli,05,,13.1833333,-16.1833333
+gm,naude,Naude,04,,13.4666667,-14.45
+gm,n'baien,N'Baien,03,,13.7166667,-14.8166667
+gm,n'daharr,N'Daharr,02,,13.55,-15.4666667
+gm,ndakar angleh,Ndakar Angleh,05,,13.75,-15.2833333
+gm,ndakaru,Ndakaru,05,,13.5666667,-15.3333333
+gm,ndangen,Ndangen,05,,13.65,-15.4
+gm,ndanka ndanka,Ndanka Ndanka,02,,13.5166667,-15.6333333
+gm,ndemban ba,Ndemban Ba,07,,13.2077778,-16.3452778
+gm,ndemban chapechum,Ndemban Chapechum,07,,13.2019444,-16.3436111
+gm,n'demba n'ding,N'Demba N'Ding,07,,13.5833333,-15.6833333
+gm,ndemban jola,Ndemban Jola,07,,13.1852778,-16.3461111
+gm,n'demban,N'Demban,07,,13.2077778,-16.3452778
+gm,ndimbo,Ndimbo,04,,13.3333333,-14.0333333
+gm,ndimbuya romba,Ndimbuya Romba,05,,13.2794444,-16.7036111
+gm,ndimo,Ndimo,04,,13.3333333,-14.0333333
+gm,n'ding madina,N'Ding Madina,04,,13.3666667,-14.2
+gm,n'dofan,N'Dofan,05,,13.5291667,-16.4363889
+gm,n'dorna,N'Dorna,03,,13.3833333,-14.55
+gm,n'dorrna,N'Dorrna,03,,13.6666667,-14.9666667
+gm,ndowen,Ndowen,02,,13.5666667,-15.4166667
+gm,ndrammeh,Ndrammeh,05,,13.7666667,-15.05
+gm,n'dungu charen,N'Dungu Charen,05,,13.5586111,-16.3516667
+gm,n'dungu kebbeh,N'Dungu Kebbeh,05,,13.5402778,-16.3219444
+gm,n'dungu kebbe,N'Dungu Kebbe,05,,13.5402778,-16.3219444
+gm,nduren,Nduren,07,,13.5666667,-15.95
+gm,nema kunda,Nema Kunda,03,,13.65,-14.8333333
+gm,nema kunku,Nema Kunku,05,,13.25,-15.8833333
+gm,nemakunku,Nemakunku,05,,13.4036111,-16.6852778
+gm,nema kunku,Nema Kunku,05,,13.4125,-16.43
+gm,nema kuta,Nema Kuta,05,,13.4166667,-15.7
+gm,nema,Nema,02,,13.4166667,-15.4
+gm,nema,Nema,03,,13.5333333,-14.8166667
+gm,nema,Nema,05,,13.4166667,-15.75
+gm,nema,Nema,07,,13.55,-15.6833333
+gm,neman kunda,Neman Kunda,05,,13.2666667,-15.9
+gm,nemasamba,Nemasamba,05,,13.7333333,-15.1166667
+gm,nemataba,Nemataba,03,,13.4166667,-14.5833333
+gm,nettebiri,Nettebiri,02,,13.5333333,-15.6166667
+gm,new kembuji,New Kembuji,05,,13.285,-16.6213889
+gm,ngaien beretto,Ngaien Beretto,02,,13.55,-15.5833333
+gm,n'gaien,N'Gaien,03,,13.7666667,-15.0333333
+gm,n' gai golore,N' Gai Golore,04,,13.5,-14.4333333
+gm,n'gale kunda,N'Gale Kunda,03,,13.45,-14.55
+gm,ngallen,Ngallen,04,,13.2666667,-14.2833333
+gm,nganingkoi,Nganingkoi,05,,13.3833333,-15.8833333
+gm,ngawar,Ngawar,05,,13.6,-15.15
+gm,n'gawarr,N'Gawarr,05,,13.6,-15.15
+gm,ngayene,Ngayene,03,,13.4,-14.7333333
+gm,n'gayen,N'Gayen,03,,13.4,-14.7333333
+gm,ngeden,Ngeden,05,,13.75,-15.0833333
+gm,n'geyen fula,N'Geyen Fula,02,,13.5833333,-15.4333333
+gm,n'geyen ker farba n'daw,N'Geyen Ker Farba N'Daw,05,,13.65,-15.4166667
+gm,n'geyen,N'Geyen,05,,13.5166667,-16.35
+gm,n'geyen sabach,N'Geyen Sabach,02,,13.6,-15.45
+gm,n'geyen sanjal,N'Geyen Sanjal,02,,13.5833333,-15.4333333
+gm,nghato norr,Nghato Norr,07,,13.5833333,-15.9666667
+gm,n'gien beretto,N'Gien Beretto,02,,13.55,-15.5833333
+gm,n'gien,N'Gien,02,,13.5666667,-15.5333333
+gm,ngike,Ngike,05,,13.6666667,-15.4166667
+gm,ngooka,Ngooka,02,,13.55,-15.4666667
+gm,ngueur,Ngueur,02,,13.5833333,-15.65
+gm,niahen,Niahen,03,,13.6166667,-14.8
+gm,niakoi,Niakoi,03,,13.75,-14.9
+gm,niambalon,Niambalon,07,,13.1711111,-16.2533333
+gm,niambolon,Niambolon,07,,13.1711111,-16.2533333
+gm,niana farra,Niana Farra,05,,13.4883333,-16.4108333
+gm,nianga,Nianga,03,,13.7833333,-15.0166667
+gm,nianha,Nianha,03,,13.7833333,-15.0166667
+gm,niani baia,Niani Baia,03,,13.5,-14.5
+gm,niani bantang,Niani Bantang,03,,13.7833333,-15.0166667
+gm,nianija,Nianija,05,,13.75,-15.2166667
+gm,niani kunda,Niani Kunda,04,,13.4333333,-14.4833333
+gm,niani marigo,Niani Marigo,03,,13.7,-15.0
+gm,niani maro,Niani Maro,03,,13.7,-15.0
+gm,niani maru,Niani Maru,03,,13.7,-15.0
+gm,niankui,Niankui,04,,13.4333333,-14.4833333
+gm,niankwi,Niankwi,04,,13.4333333,-14.4833333
+gm,niawoorulung,Niawoorulung,05,,13.45,-15.2166667
+gm,nibras,Nibras,03,,13.4333333,-14.6
+gm,niji,Niji,04,,13.3,-14.0833333
+gm,niji,Niji,05,,13.18,-16.5097222
+gm,niji,Niji,07,,13.5666667,-15.7833333
+gm,nila koto,Nila Koto,05,,13.2572222,-16.6677778
+gm,nimsat,Nimsat,05,,13.2752778,-16.7522222
+gm,nioro bamba,Nioro Bamba,05,,13.8,-15.05
+gm,nioro buba njie,Nioro Buba Njie,05,,13.8,-15.0333333
+gm,nioro demba njie,Nioro Demba Njie,03,,13.7833333,-15.0333333
+gm,nioro ebrima won,Nioro Ebrima Won,05,,13.7833333,-15.05
+gm,nioro jattaba,Nioro Jattaba,05,,13.3,-15.8333333
+gm,nioro,Nioro,05,,13.35,-15.75
+gm,nioro tukulore,Nioro Tukulore,05,,13.7833333,-15.05
+gm,nioro wollof,Nioro Wollof,05,,13.8,-15.05
+gm,nirabaya,Nirabaya,07,,13.5833333,-15.8666667
+gm,n'jaba kunda,N'jaba Kunda,07,,13.55,-15.9166667
+gm,njabba kunda,Njabba Kunda,07,,13.55,-15.9166667
+gm,njabo,Njabo,02,,13.55,-15.4166667
+gm,njaga jarry,Njaga Jarry,04,,13.4166667,-14.4833333
+gm,n'jagga jarry,N'Jagga Jarry,04,,13.4166667,-14.4833333
+gm,n'jaien,N'Jaien,02,,13.55,-15.4166667
+gm,njai kunda,Njai Kunda,03,,13.4833333,-14.8
+gm,njai kunda,Njai Kunda,05,,13.6166667,-15.1
+gm,n'ja kunda,N'Ja Kunda,04,,13.4666667,-14.1833333
+gm,nja kunda,Nja Kunda,07,,13.55,-15.9166667
+gm,n'ja kunda,N'Ja Kunda,07,,13.55,-15.9166667
+gm,n'jalal,N'Jalal,03,,13.6166667,-14.5
+gm,n'jalal pole,N'Jalal Pole,03,,13.6166667,-14.5333333
+gm,njalal tukulor,Njalal Tukulor,03,,13.6,-14.55
+gm,njallal,Njallal,03,,13.6166667,-14.5
+gm,n'jal mbye,N'Jal Mbye,04,,13.2666667,-14.3666667
+gm,njama fafa sise,Njama Fafa Sise,05,,13.7666667,-15.1833333
+gm,n'jama,N'Jama,05,,13.7666667,-15.15
+gm,njambour,Njambour,05,,13.445,-16.3983333
+gm,njamburr,Njamburr,02,,13.5,-15.6166667
+gm,n'jameng kunda,N'Jameng Kunda,03,,13.4333333,-14.5833333
+gm,njangen,Njangen,02,,13.5833333,-15.55
+gm,n'jareng kunda,N'Jareng Kunda,03,,13.4333333,-14.5833333
+gm,njarinjofa,Njarinjofa,04,,13.3,-14.0166667
+gm,njarinjota,Njarinjota,04,,13.3,-14.0166667
+gm,njarinjufa,Njarinjufa,04,,13.3,-14.0166667
+gm,n'jarry njoffa,N'Jarry Njoffa,04,,13.2833333,-14.3833333
+gm,njau jahu,Njau Jahu,05,,13.7333333,-15.15
+gm,n'jau,N'Jau,05,,13.7333333,-15.15
+gm,njau,Njau,05,,13.75,-15.2166667
+gm,njayel,Njayel,04,,13.3333333,-14.0166667
+gm,n'jeng-en,N'Jeng-en,05,,13.7833333,-15.1333333
+gm,n'jenghen,N'Jenghen,02,,13.5333333,-15.5166667
+gm,njenghen njie kunda,Njenghen Njie Kunda,02,,13.5333333,-15.5166667
+gm,n'jie kunda,N'Jie Kunda,02,,13.5333333,-15.5166667
+gm,njie kunda,Njie Kunda,03,,13.45,-14.4833333
+gm,njie kunda,Njie Kunda,05,,13.75,-15.15
+gm,n'jie kunda,N'Jie Kunda,07,,13.5666667,-15.85
+gm,njie kundaring,Njie Kundaring,07,,13.5511111,-16.0702778
+gm,njoba kunda,Njoba Kunda,05,,13.5166667,-15.25
+gm,n'joben fula,N'Joben Fula,03,,13.7833333,-14.9666667
+gm,n'joben,N'Joben,03,,13.35,-14.6833333
+gm,njoben,Njoben,03,,13.4833333,-14.95
+gm,n'joben,N'Joben,03,,13.7833333,-14.9666667
+gm,n'joben,N'Joben,05,,13.5833333,-16.3333333
+gm,njoben samba narr bah,Njoben Samba Narr Bah,05,,13.7166667,-15.35
+gm,njoben tukulor,Njoben Tukulor,03,,13.7833333,-14.9666667
+gm,njoben wollof,Njoben Wollof,03,,13.7833333,-14.9666667
+gm,njogoben,Njogoben,05,,13.75,-15.2333333
+gm,njohnen,Njohnen,07,,13.5833333,-15.95
+gm,n'jok,N'Jok,05,,13.6666667,-15.4
+gm,njolfen,Njolfen,05,,13.3666667,-15.65
+gm,njongon,Njongon,05,,13.5333333,-16.4780556
+gm,n'joofain,N'Joofain,05,,13.5361111,-16.3022222
+gm,n'joren,N'Joren,03,,13.35,-14.6333333
+gm,njugar kunda,Njugar Kunda,02,,13.5333333,-15.3333333
+gm,nkea kunda,Nkea Kunda,04,,13.45,-14.1833333
+gm,nobakunda,Nobakunda,04,,13.25,-14.3833333
+gm,no kunda fula,No Kunda Fula,07,,13.5833333,-15.8333333
+gm,no kunda,No Kunda,07,,13.5666667,-15.8333333
+gm,nowleru,Nowleru,07,,13.5833333,-15.9333333
+gm,n'toro alasan,N'Toro Alasan,07,,13.5625,-16.1958333
+gm,n'toro baien,N'Toro Baien,07,,13.5580556,-16.0705556
+gm,n'toro taim,N'Toro Taim,07,,13.5616667,-16.0483333
+gm,n'toro tem,N'Toro Tem,07,,13.5616667,-16.0483333
+gm,numu kunda kotor,Numu Kunda Kotor,04,,13.3333333,-14.5
+gm,numu kunda,Numu Kunda,02,,13.5833333,-15.55
+gm,numu kunda,Numu Kunda,04,,13.3333333,-14.5
+gm,numu kunda,Numu Kunda,05,,13.4166667,-15.7166667
+gm,numyell,Numyell,04,,13.2833333,-14.3
+gm,nyaffy,Nyaffy,05,,13.2,-16.0
+gm,nyafui,Nyafui,05,,13.2213889,-16.015
+gm,nyamanari,Nyamanari,04,,13.3333333,-13.8666667
+gm,nyanga bantang,Nyanga Bantang,03,,13.7833333,-15.0166667
+gm,nyangan,Nyangan,03,,13.7833333,-14.9833333
+gm,n'yang-en baba n'yang,N'Yang-en Baba N'Yang,03,,13.7833333,-14.9833333
+gm,n'yang-en,N'Yang-en,03,,13.7833333,-14.9833333
+gm,nyangit,Nyangit,07,,13.2397222,-16.2911111
+gm,n'yang kunda,N'Yang Kunda,02,,13.5333333,-15.4833333
+gm,nyirba,Nyirba,07,,13.5833333,-15.8666667
+gm,nyofellah madina,Nyofellah Madina,05,,13.2258333,-16.7091667
+gm,nyofellah manjago,Nyofellah Manjago,05,,13.2333333,-16.7
+gm,nyofelleh madina,Nyofelleh Madina,05,,13.2258333,-16.7091667
+gm,nyofelleh manjago,Nyofelleh Manjago,05,,13.2333333,-16.7
+gm,nyofelleh,Nyofelleh,05,,13.2161111,-16.7191667
+gm,nyorro,Nyorro,05,,13.7333333,-15.15
+gm,oceesay kunday,Oceesay Kunday,05,,13.7166667,-15.1333333
+gm,old-busumbala,Old-Busumbala,05,,13.3391667,-16.6875
+gm,old fort george,Old Fort George,03,,13.5333333,-14.7666667
+gm,old jeshwang,Old Jeshwang,05,,13.4586111,-16.6633333
+gm,old jeswang,Old Jeswang,05,,13.4586111,-16.6633333
+gm,old kembuji,Old Kembuji,05,,13.3,-16.6166667
+gm,old yundum,Old Yundum,05,,13.3625,-16.6861111
+gm,omar jowara,Omar Jowara,05,,13.5722222,-16.3377778
+gm,omortoh,Omortoh,05,,13.1697222,-16.5272222
+gm,pachari konoh ba,Pachari Konoh Ba,03,,13.5,-14.8333333
+gm,pachari sana,Pachari Sana,03,,13.5,-14.85
+gm,pacholi,Pacholi,05,,13.2869444,-16.7541667
+gm,pachunko,Pachunko,04,,13.3333333,-14.3833333
+gm,paima,Paima,07,,13.25,-16.3
+gm,pakala,Pakala,02,,13.55,-15.6666667
+gm,pakala,Pakala,05,,13.6,-15.1666667
+gm,pakali ba,Pakali Ba,05,,13.5166667,-15.2333333
+gm,pakali nding,Pakali Nding,02,,13.4666667,-15.55
+gm,pakan,Pakan,05,,13.5833333,-15.1666667
+gm,pakao ibrai,Pakao Ibrai,05,,13.3944444,-16.3919444
+gm,pakao penku,Pakao Penku,05,,13.3755556,-16.3816667
+gm,pakau ba,Pakau Ba,05,,13.3944444,-16.3919444
+gm,pakau penku,Pakau Penku,05,,13.3755556,-16.3816667
+gm,pakela demba colleh,Pakela Demba Colleh,05,,13.43,-16.3944444
+gm,pakkau,Pakkau,05,,13.3755556,-16.3816667
+gm,pakolar,Pakolar,05,,13.43,-16.3944444
+gm,pakuba,Pakuba,02,,13.4666667,-15.4833333
+gm,palaka,Palaka,05,,13.6833333,-15.2333333
+gm,palelai,Palelai,05,,13.75,-15.1333333
+gm,palen fula,Palen Fula,02,,13.5666667,-15.4333333
+gm,palen n'dimba,Palen N'Dimba,05,,13.65,-15.4166667
+gm,palen,Palen,07,,13.55,-16.0333333
+gm,palen sanjal,Palen Sanjal,02,,13.5666667,-15.4333333
+gm,palen wollof,Palen Wollof,02,,13.5666667,-15.4333333
+gm,pallan mandinka,Pallan Mandinka,03,,13.6666667,-14.8666667
+gm,pallan,Pallan,03,,13.6666667,-14.8666667
+gm,pallan toranka,Pallan Toranka,03,,13.6666667,-14.85
+gm,pallol,Pallol,03,,13.7666667,-14.8666667
+gm,pallol pol ollof,Pallol Pol Ollof,03,,13.7666667,-14.8666667
+gm,panchang madi fana,Panchang Madi Fana,05,,13.7833333,-15.15
+gm,panchang,Panchang,05,,13.7833333,-15.15
+gm,panchari sana,Panchari Sana,03,,13.5,-14.85
+gm,pancholi,Pancholi,05,,13.2869444,-16.7541667
+gm,panne ba,Panne Ba,07,,13.5863889,-16.0705556
+gm,panne,Panne,07,,13.5863889,-16.0705556
+gm,pappa,Pappa,05,,13.6166667,-15.2333333
+gm,passi challi,Passi Challi,05,,13.4991667,-16.2927778
+gm,passi mamut,Passi Mamut,05,,13.4486111,-16.3072222
+gm,passimu,Passimu,04,,13.45,-13.9166667
+gm,passi mut,Passi Mut,02,,13.5666667,-15.5
+gm,passi,Passi,05,,13.7166667,-15.2833333
+gm,patchari,Patchari,03,,13.5,-14.8333333
+gm,patchari sana,Patchari Sana,03,,13.5,-14.85
+gm,patchunko,Patchunko,04,,13.3333333,-14.3833333
+gm,pateh sam,Pateh Sam,03,,13.6166667,-15.0666667
+gm,pateh ya,Pateh Ya,05,,13.3713889,-16.7272222
+gm,pate,Pate,03,,13.6166667,-15.0666667
+gm,payama,Payama,07,,13.2666667,-16.3166667
+gm,pelngo,Pelngo,05,,13.7333333,-15.3833333
+gm,penjem,Penjem,05,,13.2166667,-16.6266667
+gm,penjemu,Penjemu,05,,13.2166667,-16.6266667
+gm,perai memadi,Perai Memadi,04,,13.3833333,-14.25
+gm,perai,Perai,04,,13.3833333,-14.0333333
+gm,perai tenda,Perai Tenda,04,,13.3833333,-14.0333333
+gm,pignai,Pignai,05,,13.55,-15.2833333
+gm,pimak,Pimak,05,,13.75,-15.3333333
+gm,piniai fula kunda,Piniai Fula Kunda,05,,13.55,-15.2833333
+gm,piniai mandinka,Piniai Mandinka,05,,13.55,-15.2833333
+gm,piniai,Piniai,05,,13.55,-15.2833333
+gm,pirai,Pirai,04,,13.3833333,-14.0333333
+gm,pirang,Pirang,05,,13.2725,-16.5352778
+gm,plinky bakary,Plinky Bakary,04,,13.35,-14.3166667
+gm,plinky woppa,Plinky Woppa,04,,13.3666667,-14.3
+gm,plinky wopp,Plinky Wopp,04,,13.3666667,-14.3
+gm,pokalle ding,Pokalle Ding,02,,13.4666667,-15.55
+gm,polga,Polga,02,,13.55,-15.4666667
+gm,polodi,Polodi,02,,13.6166667,-15.4
+gm,porli,Porli,05,,13.7833333,-15.1166667
+gm,priakunda,Priakunda,04,,13.3833333,-14.0333333
+gm,prince,Prince,05,,13.4597222,-16.3011111
+gm,ramatulai,Ramatulai,03,,13.7666667,-14.9833333
+gm,ramatulie,Ramatulie,03,,13.7666667,-14.9833333
+gm,renerru,Renerru,03,,13.6333333,-14.55
+gm,runeru,Runeru,03,,13.6333333,-14.55
+gm,sabach ngaien,Sabach Ngaien,02,,13.5666667,-15.5333333
+gm,sabally kunda,Sabally Kunda,04,,13.3333333,-14.4
+gm,sabari,Sabari,03,,13.35,-14.5333333
+gm,saba,Saba,07,,13.5163889,-16.0491667
+gm,sabigending,Sabigending,05,,13.4319444,-16.6758333
+gm,sabiji,Sabiji,05,,13.4113889,-16.7088889
+gm,sabi,Sabi,04,7738,13.2333333,-14.2
+gm,sabu kunda,Sabu Kunda,05,,13.2833333,-16.6166667
+gm,sabuseri,Sabuseri,04,,13.3,-14.1666667
+gm,sabu sirae,Sabu Sirae,03,,13.5,-14.8833333
+gm,sabu sirde,Sabu Sirde,03,,13.5,-14.8833333
+gm,safalu,Safalu,03,,13.7166667,-14.9833333
+gm,sainala,Sainala,05,,13.7,-15.3833333
+gm,saja kunda,Saja Kunda,04,,13.35,-14.0166667
+gm,sakura,Sakura,05,,13.7166667,-15.2666667
+gm,salanding,Salanding,05,,13.3511111,-16.7747222
+gm,sala,Sala,05,,13.1666667,-16.7166667
+gm,salekaine,Salekaine,07,,13.4833333,-15.9666667
+gm,salekini,Salekini,07,,13.4833333,-15.9666667
+gm,salikene,Salikene,04,,13.35,-14.0166667
+gm,salikene,Salikene,07,,13.4833333,-15.9666667
+gm,salikeni,Salikeni,03,,13.5833333,-14.8333333
+gm,salikeni,Salikeni,07,,13.4833333,-15.9666667
+gm,salikenye,Salikenye,04,,13.35,-14.0166667
+gm,samantalu,Samantalu,04,,13.3,-14.0666667
+gm,sambai kunda,Sambai Kunda,03,,13.5166667,-14.6666667
+gm,samba jowala,Samba Jowala,04,,13.3166667,-14.3166667
+gm,samba kabude,Samba Kabude,04,,13.4333333,-14.1833333
+gm,samba koi,Samba Koi,04,,13.3,-14.3166667
+gm,sambakubasu,Sambakubasu,04,,13.4,-13.8833333
+gm,samba kunda,Samba Kunda,04,,13.3333333,-14.0833333
+gm,samba musa,Samba Musa,07,,13.5908333,-16.0583333
+gm,samba musu,Samba Musu,07,,13.5908333,-16.0583333
+gm,samba ndama,Samba Ndama,05,,13.3666667,-15.3
+gm,sambang,Sambang,02,,13.5333333,-15.3333333
+gm,sambang tenda,Sambang Tenda,02,,13.5166667,-15.35
+gm,sambang wolloff,Sambang Wolloff,02,,13.55,-15.3333333
+gm,sambantalu,Sambantalu,04,,13.3,-14.0666667
+gm,samba n'yang,Samba N'Yang,03,,13.7833333,-14.9333333
+gm,samba secka,Samba Secka,05,,13.45,-16.4166667
+gm,samba so,Samba So,03,,13.7166667,-15.0166667
+gm,samba sotor,Samba Sotor,02,,13.6,-15.4
+gm,samba tako,Samba Tako,03,,13.5166667,-14.6
+gm,samba ya nding,Samba Ya Nding,02,,13.3666667,-15.6
+gm,samba ya,Samba Ya,02,,13.3666667,-15.5833333
+gm,samba yerro,Samba Yerro,04,,13.3166667,-14.5333333
+gm,sambeli kunda,Sambeli Kunda,05,,13.55,-15.2666667
+gm,sambel kunda,Sambel Kunda,03,,13.6666667,-14.9833333
+gm,sambel kunda,Sambel Kunda,04,,13.2833333,-14.3833333
+gm,sambuya,Sambuya,05,,13.2091667,-16.7575
+gm,sameh,Sameh,05,,13.3316667,-16.6252778
+gm,same,Samé,03,,13.5333333,-14.4666667
+gm,same,Same,05,,13.6333333,-15.3166667
+gm,sami bajonkoto,Sami Bajonkoto,05,,13.3952778,-16.3230556
+gm,sami fati,Sami Fati,03,,13.6166667,-14.6333333
+gm,sami koto,Sami Koto,05,,13.3883333,-16.3166667
+gm,sami madina,Sami Madina,03,,13.55,-14.4833333
+gm,sami omar jula,Sami Omar Jula,03,,13.5333333,-14.4666667
+gm,sami pachonki,Sami Pachonki,03,,13.55,-14.5166667
+gm,sami,Sami,03,,13.5333333,-14.4666667
+gm,sami,Sami,04,,13.45,-13.9666667
+gm,sami,Sami,05,,13.3883333,-16.3166667
+gm,sami surwa kunda,Sami Surwa Kunda,03,,13.55,-14.4833333
+gm,sami wharf town,Sami Wharf Town,03,,13.5166667,-14.4666667
+gm,sam joben,Sam Joben,05,,13.5597222,-16.3772222
+gm,sam ngaien,Sam Ngaien,03,,13.45,-14.7833333
+gm,sanchabari,Sanchabari,03,,13.35,-14.6333333
+gm,sanchabari,Sanchabari,04,,13.4833333,-14.1833333
+gm,sanchaba,Sanchaba,05,,13.3058333,-16.7894444
+gm,sancha madina,Sancha Madina,02,,13.6,-15.4166667
+gm,sancha palen,Sancha Palen,02,,13.5333333,-15.4166667
+gm,sanchi,Sanchi,05,,13.2241667,-16.7302778
+gm,sanda,Sanda,03,,13.6833333,-14.8
+gm,sandefu,Sandefu,04,,13.3333333,-13.95
+gm,sandehmunku,Sandehmunku,07,,13.1777778,-16.2547222
+gm,sandeng,Sandeng,05,,13.2666667,-15.8166667
+gm,saneh kunda,Saneh Kunda,05,,13.2333333,-15.8666667
+gm,saneykunda,Saneykunda,05,,13.2333333,-15.8833333
+gm,sangajor jiramba,Sangajor Jiramba,05,,13.2538889,-16.0161111
+gm,sangajor,Sangajor,05,,13.2291667,-16.0402778
+gm,sangkarang,Sangkarang,05,,13.25,-16.0211111
+gm,sanguleh,Sanguleh,03,,13.7166667,-14.9833333
+gm,sanianga,Sanianga,05,,13.1908333,-16.4466667
+gm,saniang kunda,Saniang Kunda,05,,13.1666667,-15.9
+gm,saniang kunda,Saniang Kunda,07,,13.2166667,-16.3
+gm,saniang,Saniang,05,,13.2666667,-16.7605556
+gm,sankabarry,Sankabarry,04,,13.4666667,-14.4166667
+gm,sankalang,Sankalang,02,,13.5833333,-15.55
+gm,sankandi,Sankandi,05,,13.3,-15.8333333
+gm,sankuia,Sankuia,02,,13.4666667,-15.5166667
+gm,sankulejang,Sankulejang,03,,13.5333333,-14.8
+gm,sankulekunda,Sankulekunda,04,,13.3,-14.35
+gm,sankuli kunda,Sankuli Kunda,03,,13.5166667,-14.7666667
+gm,sankwia,Sankwia,02,,13.4666667,-15.5166667
+gm,sankwia tenda,Sankwia Tenda,02,,13.4833333,-15.5166667
+gm,sanneh kunda,Sanneh Kunda,05,,13.2333333,-15.8666667
+gm,sansa nding,Sansa Nding,05,,13.2422222,-16.7611111
+gm,santamba,Santamba,02,,13.3166667,-16.1333333
+gm,santamba wharf,Santamba Wharf,02,,13.2961111,-16.1333333
+gm,santang ba,Santang Ba,02,,13.3166667,-16.1333333
+gm,santangba,Santangba,05,,13.2419444,-16.1261111
+gm,santang ba wharf,Santang Ba Wharf,02,,13.2961111,-16.1333333
+gm,santangkoto,Santangkoto,05,,13.1833333,-15.8166667
+gm,santanto bubu tabanding,Santanto Bubu Tabanding,03,,13.3666667,-14.5666667
+gm,santanto jamuya kande,Santanto Jamuya Kande,03,,13.3666667,-14.55
+gm,santanto-koto,Santanto-Koto,03,,13.3833333,-14.5333333
+gm,santanto kuta,Santanto Kuta,03,,13.3833333,-14.5333333
+gm,santanto mawdo bambe,Santanto Mawdo Bambe,03,,13.3666667,-14.5666667
+gm,santanto omar kande,Santanto Omar Kande,03,,13.3833333,-14.5666667
+gm,santanto serifu m'balo,Santanto Serifu M'Balo,03,,13.3833333,-14.5333333
+gm,santanto yoba jallow,Santanto Yoba Jallow,03,,13.3666667,-14.5666667
+gm,sanunding,Sanunding,04,,13.2833333,-14.1166667
+gm,sanya kunda,Sanya Kunda,05,,13.1666667,-15.9
+gm,sanyang,Sanyang,05,,13.2666667,-16.7605556
+gm,sapu,Sapu,03,,13.55,-14.9
+gm,sara debo,Sara Debo,03,,13.35,-14.65
+gm,sara job kunda,Sara Job Kunda,05,,13.4361111,-16.6886111
+gm,sara juma,Sara Juma,05,,13.4313889,-16.3652778
+gm,sara kunda,Sara Kunda,02,,13.5333333,-15.4166667
+gm,sara mama,Sara Mama,05,,13.4191667,-16.3558333
+gm,sare abdou,Sare Abdou,03,,13.5,-14.9833333
+gm,sare adama,Sare Adama,03,,13.45,-14.8833333
+gm,sare ali,Sare Ali,03,,13.45,-14.55
+gm,sare ali,Sare Ali,04,,13.55,-13.9166667
+gm,sare alpha,Sare Alpha,04,,13.3666667,-13.9833333
+gm,sare amady jabel,Sare Amady Jabel,03,,13.3166667,-14.55
+gm,sare amady jebel,Sare Amady Jebel,03,,13.3166667,-14.55
+gm,sare babu jimby,Sare Babu Jimby,03,,13.4833333,-14.8833333
+gm,sare babu,Sare Babu,02,,13.4,-15.65
+gm,sare bacha,Sare Bacha,04,,13.4333333,-13.8
+gm,sare bakare demba,Sare Bakare Demba,03,,13.4,-14.6
+gm,sare bakare,Sare Bakare,04,,13.3166667,-14.5166667
+gm,sare bakary demba,Sare Bakary Demba,03,,13.4,-14.6
+gm,sare bakary,Sare Bakary,04,,13.3166667,-14.5166667
+gm,sare balla,Sare Balla,03,,13.4666667,-14.85
+gm,sare belali,Sare Belali,04,,13.5166667,-14.1666667
+gm,sare beru,Sare Beru,04,,13.4333333,-13.85
+gm,sare biram,Sare Biram,04,,13.2833333,-14.45
+gm,sare bocchi,Sare Bocchi,04,,13.25,-14.3333333
+gm,sare bohum,Sare Bohum,04,,13.55,-13.95
+gm,sare boja demmo,Sare Boja Demmo,04,,13.3166667,-14.5333333
+gm,sare boja,Sare Boja,04,,13.3166667,-14.5333333
+gm,sare bojo,Sare Bojo,04,,13.3166667,-14.5333333
+gm,sare bona,Sare Bona,04,,13.2833333,-14.1666667
+gm,sare boutie,Sare Boutie,03,,13.4666667,-14.9
+gm,sare buhum,Sare Buhum,04,,13.55,-13.95
+gm,sare buluma,Sare Buluma,04,,13.35,-14.1166667
+gm,sare cherno,Sare Cherno,04,,13.25,-14.4166667
+gm,sare chikam,Sare Chikam,05,,13.4688889,-16.3477778
+gm,sare dabatu,Sare Dabatu,05,,13.3666667,-15.3
+gm,sare dabo,Sare Dabo,04,,13.4333333,-14.25
+gm,sare dadeh,Sare Dadeh,04,,13.2666667,-14.4166667
+gm,sare dadi,Sare Dadi,03,,13.35,-14.6833333
+gm,sare dadi,Sare Dadi,04,,13.3833333,-14.2333333
+gm,sare debo,Sare Debo,03,,13.35,-14.65
+gm,sare demba dardoh,Sare Demba Dardoh,04,,13.3,-14.45
+gm,sare demba,Sare Demba,04,,13.4333333,-14.3166667
+gm,sare dene,Sare Dene,04,,13.3166667,-14.5333333
+gm,sare dumfoya,Sare Dumfoya,04,,13.4166667,-14.2166667
+gm,sare duto,Sare Duto,03,,13.5333333,-14.5833333
+gm,sare fally,Sare Fally,03,,13.4833333,-14.8166667
+gm,sare fodigey,Sare Fodigey,04,,13.4,-14.3666667
+gm,sare fonkoi,Sare Fonkoi,02,,13.3833333,-15.5666667
+gm,sare fosary,Sare Fosary,03,,13.5,-14.8166667
+gm,sare futa,Sare Futa,03,,13.4833333,-14.8833333
+gm,sare galaja,Sare Galaja,05,,13.6833333,-15.2333333
+gm,sare galajo,Sare Galajo,05,,13.6833333,-15.2333333
+gm,sare ganardu,Sare Ganardu,04,,13.4333333,-14.3
+gm,sare ganya,Sare Ganya,04,,13.3333333,-14.4833333
+gm,sare geda,Sare Geda,04,,13.5166667,-14.0833333
+gm,sare gela,Sare Gela,04,,13.3166667,-14.0166667
+gm,sare gelel,Sare Gelel,04,,13.45,-14.2
+gm,sare goral bah,Sare Goral Bah,03,,13.4166667,-14.5833333
+gm,sare gubbu,Sare Gubbu,04,,13.45,-14.3666667
+gm,sare hamady,Sare Hamady,02,,13.3666667,-15.6166667
+gm,sare hamady,Sare Hamady,04,,13.4833333,-14.2166667
+gm,sare hande,Sare Hande,04,,13.3333333,-13.9166667
+gm,sareh mowndeh,Sareh Mowndeh,05,,13.4036111,-16.6852778
+gm,sareh,Sareh,05,,13.4036111,-16.6852778
+gm,sare jabel,Sare Jabel,03,,13.3833333,-14.7
+gm,sare jallow,Sare Jallow,04,,13.45,-14.4333333
+gm,sare jam gido,Sare Jam Gido,02,,13.5833333,-15.55
+gm,sare jarje,Sare Jarje,03,,13.4333333,-14.5333333
+gm,sare jatta,Sare Jatta,04,,13.2833333,-14.3166667
+gm,sare jawbeh,Sare Jawbeh,04,,13.25,-14.3833333
+gm,sare jideh,Sare Jideh,03,,13.55,-14.7166667
+gm,sare jide,Sare Jide,03,,13.3833333,-14.6333333
+gm,sare jowbe,Sare Jowbe,04,,13.3166667,-14.35
+gm,sare jula,Sare Jula,04,,13.45,-14.4333333
+gm,sare juley,Sare Juley,04,,13.3333333,-14.0666667
+gm,sare jutah,Sare Jutah,05,,13.25,-16.6333333
+gm,sare kanaman,Sare Kanaman,03,,13.3666667,-14.7
+gm,sare kannen,Sare Kannen,03,,13.4666667,-14.85
+gm,sare kinte,Sare Kinte,03,,13.3666667,-14.6666667
+gm,sare koki,Sare Koki,04,,13.3166667,-14.4
+gm,sare kuba,Sare Kuba,04,,13.45,-14.3666667
+gm,sare kunda,Sare Kunda,05,,13.6,-15.2166667
+gm,sare lalla,Sare Lalla,04,,13.3833333,-14.3666667
+gm,sare lalu,Sare Lalu,04,,13.2666667,-14.1333333
+gm,sare louba,Sare Louba,03,,13.5333333,-15.0333333
+gm,sare luntang,Sare Luntang,04,,13.2833333,-14.45
+gm,sare madi,Sare Madi,03,,13.4,-14.6833333
+gm,sare malang,Sare Malang,03,,13.55,-15.0166667
+gm,sare mala,Sare Mala,04,,13.4333333,-13.8
+gm,sare malik,Sare Malik,03,,13.4166667,-14.7
+gm,sare mamoudou,Sare Mamoudou,05,,13.3666667,-15.7166667
+gm,sare mamoudu,Sare Mamoudu,05,,13.3666667,-15.7166667
+gm,sare mansala,Sare Mansala,04,,13.3333333,-14.4666667
+gm,sare mansong,Sare Mansong,04,,13.3333333,-14.5166667
+gm,sare marie,Sare Marie,05,,13.4780556,-16.3744444
+gm,sare maundeh,Sare Maundeh,03,,13.45,-14.8666667
+gm,sare maunde,Sare Maunde,04,,13.25,-14.4166667
+gm,sare m'bunka,Sare M'Bunka,03,,13.3833333,-14.6833333
+gm,sare mbye,Sare Mbye,04,,13.25,-14.3666667
+gm,sare modi kah,Sare Modi Kah,05,,13.6333333,-15.2833333
+gm,sare modi kulo,Sare Modi Kulo,05,,13.3666667,-15.35
+gm,sare modu bah,Sare Modu Bah,03,,13.3833333,-14.6
+gm,sare mowdeh,Sare Mowdeh,03,,13.45,-14.8666667
+gm,sare muntaha,Sare Muntaha,04,,13.4333333,-14.3666667
+gm,sare musa,Sare Musa,04,,13.2333333,-14.25
+gm,sare naba,Sare Naba,03,,13.4833333,-14.8
+gm,sare ndala,Sare Ndala,05,,13.3833333,-15.7
+gm,sare nfali,Sare Nfali,05,,13.3833333,-15.2833333
+gm,sare ngaba,Sare Ngaba,04,,13.4666667,-14.2166667
+gm,sare ngabba,Sare Ngabba,04,,13.4666667,-14.2166667
+gm,sare ngai,Sare Ngai,03,,13.4666667,-14.8333333
+gm,sare n'gai,Sare N'Gai,04,,13.5,-14.4333333
+gm,sare n'gatam,Sare N'Gatam,04,,13.3166667,-14.5333333
+gm,sare njagga,Sare Njagga,03,,13.5,-14.8166667
+gm,sare n'joba,Sare N'Joba,05,,13.4333333,-15.2166667
+gm,sare n'jobo,Sare N'Jobo,03,,13.3833333,-14.6833333
+gm,sare nyagna,Sare Nyagna,03,,13.6166667,-14.8
+gm,sare parteh jameh,Sare Parteh Jameh,04,,13.2666667,-14.4333333
+gm,sare pateh jameh,Sare Pateh Jameh,04,,13.2666667,-14.4333333
+gm,sare pateh,Sare Pateh,02,,13.3666667,-15.3833333
+gm,sare pateh,Sare Pateh,05,,13.5833333,-15.1833333
+gm,sare pate,Sare Pate,03,,13.35,-14.6666667
+gm,sare ram,Sare Ram,03,,13.5,-14.9333333
+gm,sare sabo,Sare Sabo,03,,13.45,-14.5666667
+gm,sare saidy,Sare Saidy,02,,13.3666667,-15.5666667
+gm,sare sajor biloh,Sare Sajor Biloh,04,,13.25,-14.4
+gm,sare sajo,Sare Sajo,05,,13.3666667,-15.7
+gm,sare salieu,Sare Salieu,04,,13.45,-14.35
+gm,sare samba jidah,Sare Samba Jidah,04,,13.3,-14.4666667
+gm,sare samba kah,Sare Samba Kah,03,,13.6166667,-14.8
+gm,sare samba ngai,Sare Samba Ngai,03,,13.6166667,-14.55
+gm,sare sambaro,Sare Sambaro,03,,13.45,-14.7833333
+gm,sare sambaru,Sare Sambaru,04,,13.45,-14.4166667
+gm,sare samba,Sare Samba,03,,13.6,-15.0333333
+gm,sare samba,Sare Samba,04,,13.45,-14.3333333
+gm,sare samba sumaleh,Sare Samba Sumaleh,03,,13.6,-15.0333333
+gm,sare samba takor,Sare Samba Takor,05,,13.35,-15.3666667
+gm,sare samba taku,Sare Samba Taku,03,,13.4166667,-14.6
+gm,sare samba tene m'balde,Sare Samba Tene M'Balde,04,,13.3166667,-14.5166667
+gm,sare sambel kunda,Sare Sambel Kunda,05,,13.55,-15.25
+gm,sare sambuldu,Sare Sambuldu,03,,13.4833333,-14.8
+gm,sare sandi,Sare Sandi,04,,13.5333333,-13.8833333
+gm,sare saoma,Sare Saoma,03,,13.6333333,-14.65
+gm,sare saouma,Sare Saouma,03,,13.6333333,-14.65
+gm,sare sarjo biloh,Sare Sarjo Biloh,04,,13.25,-14.4
+gm,sare sarko,Sare Sarko,04,,13.2833333,-14.3166667
+gm,sare silere,Sare Silere,04,,13.45,-14.3666667
+gm,sare sofi,Sare Sofi,03,,13.4166667,-14.5166667
+gm,sare suna,Sare Suna,05,,13.4,-15.7333333
+gm,sare talata,Sare Talata,04,,13.3333333,-14.5
+gm,sare timbo,Sare Timbo,04,,13.3666667,-14.4666667
+gm,sare tobi,Sare Tobi,04,,13.4166667,-13.8166667
+gm,sare tuluwuleng,Sare Tuluwuleng,04,,13.3333333,-14.5
+gm,sare vesu,Sare Vesu,04,,13.3833333,-13.9666667
+gm,sare wonku,Sare Wonku,04,,13.4166667,-14.3166667
+gm,sare yesu,Sare Yesu,04,,13.3833333,-13.9666667
+gm,sare yewtu,Sare Yewtu,03,,13.4833333,-14.8833333
+gm,sare yora beri,Sare Yora Beri,03,,13.5166667,-14.7333333
+gm,sare yoro beri,Sare Yoro Beri,03,,13.5166667,-14.7333333
+gm,sare yoro buka,Sare Yoro Buka,03,,13.45,-14.85
+gm,sare yoro egge,Sare Yoro Egge,03,,13.3833333,-14.6333333
+gm,sare yoro golori,Sare Yoro Golori,03,,13.4,-14.6
+gm,sare yorori,Sare Yorori,04,,13.4333333,-14.3166667
+gm,sare yoro,Sare Yoro,03,,13.4666667,-14.8666667
+gm,sare yoro taker,Sare Yoro Taker,03,,13.4666667,-14.8666667
+gm,sare yoro takor,Sare Yoro Takor,03,,13.4666667,-14.8666667
+gm,sare yoro tako,Sare Yoro Tako,03,,13.4666667,-14.85
+gm,sare yoro yeli,Sare Yoro Yeli,03,,13.35,-14.5333333
+gm,sare yorrori,Sare Yorrori,04,,13.4333333,-14.3166667
+gm,saringa,Saringa,05,,13.2213889,-16.1069444
+gm,sarin n'jaga,Sarin N'Jaga,05,,13.4319444,-16.7225
+gm,sarkuli kunda,Sarkuli Kunda,04,,13.55,-13.8833333
+gm,sarm,Sarm,05,,13.7833333,-15.0833333
+gm,sarra kunda,Sarra Kunda,02,,13.5333333,-15.4166667
+gm,sarre kunda,Sarre Kunda,05,,13.4,-15.7833333
+gm,saruja,Saruja,03,,13.55,-14.9166667
+gm,sasita,Sasita,02,,13.4,-15.45
+gm,satakoi,Satakoi,05,,13.65,-15.1
+gm,sawadi kunda,Sawadi Kunda,03,,13.45,-14.55
+gm,seleri kunda,Seleri Kunda,03,,13.4666667,-14.5833333
+gm,selete,Selete,05,,13.17,-16.5752778
+gm,selety,Selety,05,,13.1833333,-16.5666667
+gm,semangara,Semangara,05,,13.1825,-16.0680556
+gm,sendebo,Sendebo,04,,13.3333333,-14.0166667
+gm,seno bajonki,Seno Bajonki,02,,13.4,-15.5166667
+gm,seno ba,Seno Ba,02,,13.4,-15.5166667
+gm,sepu,Sepu,03,,13.55,-14.9
+gm,sere kunda nding,Sere Kunda NDing,05,,13.285,-16.6058333
+gm,sere kunda,Sere Kunda,05,,13.4383333,-16.6780556
+gm,serekunda,Serekunda,05,218790,13.4425,-16.6813889
+gm,sering sahor,Sering Sahor,03,,13.45,-14.8333333
+gm,sering saho,Sering Saho,03,,13.45,-14.8333333
+gm,serrekunda,Serrekunda,05,,13.4383333,-16.6780556
+gm,sey kunda,Sey Kunda,05,,13.6666667,-15.4
+gm,sharm,Sharm,05,,13.5236111,-16.4663889
+gm,shindifula,Shindifula,05,,13.2333333,-16.1
+gm,shindifulla,Shindifulla,05,,13.2333333,-16.1
+gm,sibanor,Sibanor,03,,13.5333333,-14.9166667
+gm,sibanor,Sibanor,05,,13.2080556,-16.1963889
+gm,sibi nding,Sibi Nding,05,,13.3833333,-15.3166667
+gm,sibito,Sibito,05,,13.3833333,-15.7333333
+gm,sibitto,Sibitto,05,,13.3833333,-15.7333333
+gm,sidiya,Sidiya,05,,13.2369444,-16.6205556
+gm,sifa,Sifa,05,,13.1836111,-16.6975
+gm,sifoe,Sifoe,05,,13.1836111,-16.6975
+gm,sifula,Sifula,04,,13.3833333,-14.4333333
+gm,sika baduma,Sika Baduma,05,,13.35,-16.3383333
+gm,sika bajonkoto,Sika Bajonkoto,05,,13.3547222,-16.3458333
+gm,sika,Sika,05,,13.3547222,-16.3458333
+gm,sikon,Sikon,05,,13.2055556,-16.1766667
+gm,si kunda,Si Kunda,02,,13.4333333,-15.5666667
+gm,si kunda,Si Kunda,05,,13.6166667,-15.3166667
+gm,sileria,Sileria,03,,13.4666667,-14.5833333
+gm,sileri ba,Sileri Ba,03,,13.4666667,-14.5833333
+gm,silla kunda,Silla Kunda,04,,13.35,-14.3166667
+gm,simbadu,Simbadu,04,,13.2333333,-14.25
+gm,simbara hai,Simbara Hai,05,,13.7333333,-15.35
+gm,simbara kai,Simbara Kai,05,,13.7333333,-15.35
+gm,simbara ker chaindu,Simbara Ker Chaindu,05,,13.7333333,-15.3333333
+gm,simbara ker mafaal,Simbara Ker Mafaal,05,,13.7333333,-15.3333333
+gm,simbara madi sisi,Simbara Madi Sisi,05,,13.7333333,-15.3333333
+gm,simbara ngor,Simbara Ngor,05,,13.7333333,-15.35
+gm,simbara sinchu manjai,Simbara Sinchu Manjai,05,,13.7333333,-15.35
+gm,simbara tukulor,Simbara Tukulor,05,,13.75,-15.3333333
+gm,simbarre kai,Simbarre Kai,05,,13.7333333,-15.35
+gm,sinchang keykala,Sinchang Keykala,04,,13.2666667,-14.1333333
+gm,sinchang njokala,Sinchang Njokala,04,,13.2833333,-14.1666667
+gm,sinchang saradu,Sinchang Saradu,04,,13.3,-14.1333333
+gm,sinchang,Sinchang,04,,13.4,-13.8833333
+gm,sinchu alpha saine,Sinchu Alpha Saine,03,,13.6,-15.0333333
+gm,sinchu alpha sain,Sinchu Alpha Sain,03,,13.6,-15.0333333
+gm,sinchu bachi,Sinchu Bachi,03,,13.4666667,-14.8333333
+gm,sinchu bachy,Sinchu Bachy,04,,13.4833333,-14.4166667
+gm,sinchu balla,Sinchu Balla,03,,13.6,-15.0333333
+gm,sinchu bamba,Sinchu Bamba,03,,13.5333333,-14.9166667
+gm,sinchu baya,Sinchu Baya,05,,13.75,-15.0666667
+gm,sinchu boggal,Sinchu Boggal,03,,13.4833333,-14.8333333
+gm,sinchu bora,Sinchu Bora,03,,13.5,-14.8333333
+gm,sinchu chamalel,Sinchu Chamalel,03,,13.45,-14.7666667
+gm,sinchu danku,Sinchu Danku,03,,13.4666667,-14.8166667
+gm,sinchu demba,Sinchu Demba,05,,13.75,-15.0666667
+gm,sinchu dembel,Sinchu Dembel,03,,13.5,-14.8833333
+gm,sinchu dumbe,Sinchu Dumbe,03,,13.7166667,-14.9833333
+gm,sinchu fye,Sinchu Fye,04,,13.45,-13.8666667
+gm,sinchu garba,Sinchu Garba,03,,13.6666667,-14.8333333
+gm,sinchu garber,Sinchu Garber,03,,13.6666667,-14.8333333
+gm,sinchu garrba,Sinchu Garrba,03,,13.6666667,-14.8333333
+gm,sinchu gundo,Sinchu Gundo,03,,13.6166667,-15.0333333
+gm,sinchu jajeh sagnia,Sinchu Jajeh Sagnia,03,,13.45,-14.85
+gm,sinchu jenun touray,Sinchu Jenun Touray,03,,13.7,-14.9
+gm,sinchu kai-hai,Sinchu Kai-Hai,05,,13.7333333,-15.1
+gm,sinchu kali,Sinchu Kali,04,,13.5333333,-13.9333333
+gm,sinchu kusalang,Sinchu Kusalang,03,,13.45,-14.8666667
+gm,sinchu medina,Sinchu Medina,02,,13.5333333,-15.45
+gm,sinchu musa,Sinchu Musa,03,,13.6333333,-14.65
+gm,sinchu omar see,Sinchu Omar See,03,,13.45,-14.85
+gm,sinchu omar,Sinchu Omar,05,,13.7333333,-15.15
+gm,sinchu ousman,Sinchu Ousman,03,,13.6166667,-14.55
+gm,sinchu samba koumbel,Sinchu Samba Koumbel,03,,13.45,-14.8666667
+gm,sinchu sambar,Sinchu Sambar,04,,13.5166667,-14.1833333
+gm,sinchu sara,Sinchu Sara,04,,13.35,-14.4666667
+gm,sinchu tamsir,Sinchu Tamsir,05,,13.7333333,-15.1166667
+gm,sinchu wallbeh,Sinchu Wallbeh,04,,13.4833333,-14.4166667
+gm,sinchu yoro,Sinchu Yoro,05,,13.5833333,-15.1666667
+gm,sinki,Sinki,05,,13.3930556,-16.6797222
+gm,sinsu demba,Sinsu Demba,04,,13.3666667,-14.3333333
+gm,sinsu kusala,Sinsu Kusala,04,,13.4666667,-14.45
+gm,sinsu mousa,Sinsu Mousa,04,,13.4666667,-14.45
+gm,sinsu njiebeh,Sinsu Njiebeh,04,,13.4666667,-14.45
+gm,sintchi kattaba,Sintchi Kattaba,03,,13.6666667,-14.8166667
+gm,sintet,Sintet,05,,13.2333333,-15.8166667
+gm,sise kunda,Sise Kunda,04,,13.35,-14.0833333
+gm,sissora,Sissora,05,,13.4216667,-16.4266667
+gm,sita bantang,Sita Bantang,07,,13.55,-15.8166667
+gm,sitafuma,Sitafuma,02,,13.4166667,-15.4
+gm,sita nunku,Sita Nunku,05,,13.3838889,-16.4636111
+gm,sita,Sita,05,,13.2336111,-16.1622222
+gm,sito,Sito,05,,13.1836111,-16.6975
+gm,sittanunka,Sittanunka,05,,13.1858333,-16.1302778
+gm,sittanunku,Sittanunku,05,,13.1858333,-16.1302778
+gm,sitta,Sitta,05,,13.2336111,-16.1622222
+gm,sobaly,Sobaly,05,,13.6,-15.3
+gm,sofi kunda,Sofi Kunda,03,,13.4166667,-14.5166667
+gm,sohm,Sohm,05,,13.1802778,-16.495
+gm,sololo,Sololo,03,,13.45,-14.6666667
+gm,soma,Soma,02,,13.4333333,-15.5333333
+gm,somita saniang kunda,Somita Saniang Kunda,07,,13.2166667,-16.3
+gm,somita selelew,Somita Selelew,07,,13.2166667,-16.3
+gm,somita,Somita,07,,13.2058333,-16.3055556
+gm,sondeh densay,Sondeh Densay,05,,13.55,-15.3166667
+gm,song kunda,Song Kunda,04,,13.3833333,-13.85
+gm,sor kunda,Sor Kunda,05,,13.55,-15.3
+gm,sortokoi,Sortokoi,05,,13.3705556,-16.7444444
+gm,sotokoi,Sotokoi,05,,13.2272222,-16.5047222
+gm,sotoma n'ding,Sotoma N'ding,04,,13.3,-14.3166667
+gm,sotoma,Sotoma,04,,13.3,-14.3166667
+gm,sotuma sainy,Sotuma Sainy,04,,13.3,-14.3333333
+gm,sotuma sairey,Sotuma Sairey,04,,13.3166667,-14.3333333
+gm,sotuma sairy,Sotuma Sairy,04,,13.3,-14.3333333
+gm,sotuma samba koi,Sotuma Samba Koi,04,,13.3,-14.3166667
+gm,sotuma samba,Sotuma Samba,04,,13.3,-14.3166667
+gm,sotuma,Sotuma,04,,13.3,-14.3166667
+gm,suara kunda,Suara Kunda,07,,13.5069444,-16.0822222
+gm,suarra kunda,Suarra Kunda,07,,13.5069444,-16.0822222
+gm,subundu,Subundu,02,,13.3833333,-15.5333333
+gm,sudowol,Sudowol,04,,13.3666667,-13.9666667
+gm,sukoto fula,Sukoto Fula,02,,13.5666667,-15.55
+gm,sukotto,Sukotto,02,,13.5666667,-15.5333333
+gm,sukotto,Sukotto,05,,13.4,-15.3166667
+gm,sukur,Sukur,03,,13.5333333,-14.95
+gm,sukuta,Sukuta,03,,13.5,-14.6
+gm,sukuta,Sukuta,05,15131,13.4113889,-16.7088889
+gm,sukuto,Sukuto,05,,13.4113889,-16.7088889
+gm,sukutta,Sukutta,03,,13.6166667,-14.9166667
+gm,sukutta,Sukutta,05,,13.4113889,-16.7088889
+gm,sulolor fula kunda,Sulolor Fula Kunda,03,,13.45,-14.6833333
+gm,sulolor,Sulolor,03,,13.45,-14.6666667
+gm,sumakunda bakary,Sumakunda Bakary,04,,13.2833333,-14.4333333
+gm,sumakunda fye,Sumakunda Fye,04,,13.2833333,-14.45
+gm,suma kunda koto,Suma Kunda Koto,05,,13.2266667,-16.4933333
+gm,sumakunda mamudu,Sumakunda Mamudu,04,,13.3833333,-14.3
+gm,sumakunda samba,Sumakunda Samba,04,,13.3833333,-14.3
+gm,suma kunda,Suma Kunda,04,,13.25,-14.3833333
+gm,suma kunda,Suma Kunda,05,,13.2266667,-16.4933333
+gm,sumbundu,Sumbundu,02,,13.3833333,-15.5333333
+gm,sun kunda,Sun Kunda,04,,13.3833333,-13.85
+gm,suol,Suol,05,,13.1663889,-16.1508333
+gm,surukung,Surukung,05,,13.4666667,-15.2666667
+gm,sutukoba,Sutukoba,04,,13.5,-14.0166667
+gm,sutuko,Sutuko,04,,13.3833333,-14.2166667
+gm,sutukung,Sutukung,05,,13.4666667,-15.2666667
+gm,suturah,Suturah,05,,13.5,-16.3333333
+gm,sutu sinjang,Sutu Sinjang,05,,13.1869444,-16.3877778
+gm,sututa,Sututa,04,,13.4,-14.1166667
+gm,tabafulanding,Tabafulanding,05,,13.3,-15.9333333
+gm,tabaiel,Tabaiel,05,,13.2333333,-15.85
+gm,tabajang kisimasu,Tabajang Kisimasu,04,,13.5333333,-14.0833333
+gm,tabajang,Tabajang,04,,13.35,-14.4166667
+gm,tabajan,Tabajan,04,,13.5333333,-14.0833333
+gm,taba nani,Taba Nani,03,,13.5333333,-14.8166667
+gm,tabanani,Tabanani,03,,13.6333333,-14.5833333
+gm,tabanani,Tabanani,05,,13.3666667,-15.7666667
+gm,tabanding sakbo,Tabanding Sakbo,04,,13.2833333,-14.3166667
+gm,taba nding,Taba Nding,03,,13.4833333,-14.9333333
+gm,tabanding,Tabanding,04,,13.3166667,-13.95
+gm,tabaworo kunda,Tabaworo Kunda,05,,13.6666667,-15.3833333
+gm,taba woro,Taba Woro,02,,13.3225,-16.1794444
+gm,taba woro,Taba Woro,05,,13.6666667,-15.3666667
+gm,tabba nanna,Tabba Nanna,03,,13.5333333,-14.8166667
+gm,tabba nanni,Tabba Nanni,03,,13.5333333,-14.8166667
+gm,tabo kotor,Tabo Kotor,05,,13.4075,-16.6672222
+gm,tabokoto,Tabokoto,05,,13.1933333,-16.7741667
+gm,tabo koto,Tabo Koto,05,,13.4616667,-16.4566667
+gm,taburo koto,Taburo Koto,02,,13.3225,-16.1794444
+gm,taiba,Taiba,02,,13.55,-15.5333333
+gm,taiba,Taiba,03,,13.4666667,-14.9
+gm,taiba,Taiba,05,,13.4166667,-16.4
+gm,taiba,Taiba,07,,13.4813889,-16.5125
+gm,taibatu n'yang-en,Taibatu N'Yang-en,03,,13.75,-14.95
+gm,taibatu,Taibatu,04,,13.3666667,-14.2166667
+gm,taibatu,Taibatu,05,,13.2344444,-16.7391667
+gm,taifa amadou,Taifa Amadou,03,,13.4666667,-14.9
+gm,taifa seekou,Taifa Seekou,03,,13.5,-14.8833333
+gm,taimang,Taimang,03,,13.6333333,-15.0666667
+gm,taindaitor,Taindaitor,02,,13.5166667,-15.4166667
+gm,talen pol,Talen Pol,07,,13.5833333,-15.9833333
+gm,talen wollof,Talen Wollof,07,,13.5833333,-15.9833333
+gm,talinding kunjang,Talinding Kunjang,05,,13.4272222,-16.6736111
+gm,talindin kunda,Talindin Kunda,05,,13.4272222,-16.6736111
+gm,talito luntang,Talito Luntang,04,,13.2666667,-14.2833333
+gm,talito musa,Talito Musa,04,,13.2833333,-14.2833333
+gm,talito,Talito,04,,13.2666667,-14.2833333
+gm,tallen,Tallen,07,,13.5786111,-16.1761111
+gm,tally ya,Tally Ya,07,,13.5833333,-15.7166667
+gm,tamanso kunda,Tamanso Kunda,03,,13.4166667,-14.6333333
+gm,tamba koto,Tamba Koto,02,,13.5333333,-15.5166667
+gm,tambakunda,Tambakunda,05,,13.1658333,-16.1361111
+gm,tamba kunda,Tamba Kunda,05,,13.2166667,-15.9666667
+gm,tamba nani,Tamba Nani,05,,13.55,-15.2333333
+gm,tambana,Tambana,07,,13.5052778,-16.1744444
+gm,tambasansan,Tambasansan,04,,13.3833333,-14.1666667
+gm,tambasensan,Tambasensan,04,,13.3833333,-14.1666667
+gm,tampoto koto,Tampoto Koto,07,,13.2186111,-16.2738889
+gm,tampoto,Tampoto,07,,13.2036111,-16.2511111
+gm,tandi kunda,Tandi Kunda,03,,13.5333333,-14.55
+gm,tandi,Tandi,03,,13.3666667,-14.6166667
+gm,tandi wolloff,Tandi Wolloff,03,,13.5166667,-14.55
+gm,tandi wollof,Tandi Wollof,03,,13.5166667,-14.55
+gm,tanene,Tanene,05,,13.2341667,-16.5052778
+gm,tanjen,Tanjen,05,,13.3488889,-16.7908333
+gm,tanje,Tanje,05,,13.3488889,-16.7908333
+gm,tanji manjago,Tanji Manjago,05,,13.3508333,-16.7811111
+gm,tanji,Tanji,05,,13.3488889,-16.7908333
+gm,tankanto,Tankanto,02,,13.5333333,-15.6666667
+gm,tankong kunda,Tankong Kunda,03,,13.5,-14.65
+gm,tankon kunda,Tankon Kunda,03,,13.5,-14.65
+gm,tankular,Tankular,02,,13.4177778,-16.0369444
+gm,tankural,Tankural,02,,13.4177778,-16.0369444
+gm,tarbu chindeh,Tarbu Chindeh,04,,13.4666667,-14.3833333
+gm,tarburung kotor,Tarburung Kotor,02,,13.3225,-16.1794444
+gm,tasali,Tasali,03,,13.5666667,-14.6166667
+gm,tasili,Tasili,03,,13.5666667,-14.6166667
+gm,tawah,Tawah,05,,13.5166667,-16.35
+gm,tawa kaltu,Tawa Kaltu,07,,13.5936111,-16.0416667
+gm,tawtoh,Tawtoh,05,,13.3563889,-16.6933333
+gm,temanto demba jamang,Temanto Demba Jamang,04,,13.3166667,-14.4833333
+gm,temanto demba,Temanto Demba,04,,13.3333333,-14.5
+gm,temanto sana,Temanto Sana,04,,13.2333333,-14.1666667
+gm,temanto,Temanto,03,,13.6,-15.0333333
+gm,temanto,Temanto,04,,13.3833333,-13.9166667
+gm,tembetto,Tembetto,02,,13.4166667,-15.4166667
+gm,tendaba,Tendaba,05,,13.4333333,-15.8166667
+gm,tendaito,Tendaito,02,,13.5166667,-15.4166667
+gm,tenda,Tenda,02,,13.3013889,-16.1875
+gm,tendeba,Tendeba,05,,13.4333333,-15.8166667
+gm,tende,Tende,03,,13.5333333,-14.55
+gm,tendito,Tendito,02,,13.5166667,-15.4166667
+gm,tenenfara,Tenenfara,03,,13.6166667,-15.0166667
+gm,teneng fara,Teneng Fara,03,,13.6166667,-15.0166667
+gm,tengkul,Tengkul,04,,13.3333333,-14.0333333
+gm,tenkoli,Tenkoli,04,,13.3166667,-14.0166667
+gm,tento madi,Tento Madi,05,,13.7833333,-15.1
+gm,tento malick bah,Tento Malick Bah,05,,13.7833333,-15.0833333
+gm,tento,Tento,05,,13.7833333,-15.0833333
+gm,tiaba,Tiaba,07,,13.5938889,-16.0488889
+gm,tia,Tia,04,,13.3833333,-14.4833333
+gm,tiembasisi,Tiembasisi,04,,13.3833333,-14.1666667
+gm,timbing kortor,Timbing Kortor,07,,13.5833333,-15.8666667
+gm,timbinto,Timbinto,04,,13.3833333,-14.4666667
+gm,timbintu,Timbintu,04,,13.3833333,-14.4666667
+gm,timpa,Timpa,03,,13.6166667,-14.6333333
+gm,tinkinjo,Tinkinjo,04,,13.3,-14.1666667
+gm,tintiba,Tintiba,05,,13.2675,-16.0369444
+gm,tintinto,Tintinto,05,,13.2955556,-16.7886111
+gm,toben,Toben,03,,13.75,-14.85
+gm,tomba koto,Tomba Koto,02,,13.5333333,-15.5166667
+gm,toniataba,Toniataba,02,,13.4333333,-15.5833333
+gm,tonitaba,Tonitaba,02,,13.4333333,-15.5833333
+gm,toranka bantang,Toranka Bantang,02,,13.4,-15.6666667
+gm,toranko bantang,Toranko Bantang,02,,13.4,-15.6666667
+gm,torbeh chindeh,Torbeh Chindeh,04,,13.4666667,-14.3833333
+gm,torben,Torben,05,,13.7833333,-15.1
+gm,toro mbaien,Toro Mbaien,07,,13.5580556,-16.0705556
+gm,toro tayem,Toro Tayem,07,,13.5616667,-16.0483333
+gm,torro,Torro,05,,13.6,-15.15
+gm,trankill,Trankill,05,,13.4030556,-16.7380556
+gm,tranquil,Tranquil,05,,13.1691667,-16.6586111
+gm,tuba burey,Tuba Burey,04,,13.4666667,-14.2
+gm,tuba demba sama,Tuba Demba Sama,03,,13.6666667,-14.9833333
+gm,tuba demba,Tuba Demba,05,,13.55,-15.2666667
+gm,tuba gumbuya,Tuba Gumbuya,07,,13.5608333,-16.1275
+gm,tuba kata,Tuba Kata,04,,13.3666667,-14.0
+gm,tuba kolong,Tuba Kolong,05,,13.3661111,-16.4652778
+gm,tubakolon,Tubakolon,05,,13.3661111,-16.4652778
+gm,tuba koto,Tuba Koto,03,,13.6333333,-14.9
+gm,tuba kuta,Tuba Kuta,03,,13.65,-14.8833333
+gm,tuba kuta,Tuba Kuta,04,,13.3666667,-14.0
+gm,tubakuta,Tubakuta,05,,13.2544444,-16.5955556
+gm,tubakuta,Tubakuta,07,,13.25,-16.2833333
+gm,tuba kuta,Tuba Kuta,07,,13.27,-16.2666667
+gm,tubamadadi,Tubamadadi,05,,13.7666667,-15.1333333
+gm,tuba mbakeh,Tuba Mbakeh,05,,13.5833333,-15.3166667
+gm,tubanding,Tubanding,04,,13.4166667,-13.8833333
+gm,tuba ousman boye,Tuba Ousman Boye,03,,13.4,-14.75
+gm,tuba pakala,Tuba Pakala,05,,13.7,-15.2666667
+gm,tuba sandu kotor,Tuba Sandu Kotor,04,,13.4333333,-14.25
+gm,tuba tafsir,Tuba Tafsir,04,,13.2833333,-14.15
+gm,tuba,Tuba,03,,13.4666667,-14.6833333
+gm,tuba,Tuba,04,,13.2833333,-14.15
+gm,tuba,Tuba,05,,13.5780556,-16.3919444
+gm,tuba,Tuba,07,,13.1986111,-16.3558333
+gm,tuba wappa,Tuba Wappa,04,,13.4666667,-14.2333333
+gm,tuba wollof,Tuba Wollof,02,,13.55,-15.3333333
+gm,tuba-wuli,Tuba-Wuli,04,,13.4333333,-14.25
+gm,tubaya,Tubaya,05,,13.3480556,-16.7288889
+gm,tubeya,Tubeya,05,,13.4530556,-16.4394444
+gm,tujereng,Tujereng,05,,13.3163889,-16.7888889
+gm,tujering,Tujering,05,,13.3163889,-16.7888889
+gm,tujurei,Tujurei,05,,13.3163889,-16.7888889
+gm,tumani fati,Tumani Fati,03,,13.5333333,-14.8
+gm,tuman tenda,Tuman Tenda,05,,13.2166667,-16.4747222
+gm,tumbul tanga,Tumbul Tanga,04,,13.3166667,-13.9
+gm,tunjina,Tunjina,05,,13.2944444,-16.5680556
+gm,turan,Turan,07,,13.5833333,-15.7166667
+gm,ture kunda,Ture Kunda,04,,13.3333333,-14.5166667
+gm,turi kunda,Turi Kunda,05,,13.7,-15.3333333
+gm,turu kunda,Turu Kunda,04,,13.3333333,-14.5166667
+gm,tyba,Tyba,05,,13.7166667,-15.2666667
+gm,upert,Upert,05,,13.1669444,-16.2480556
+gm,vintang,Vintang,05,,13.2497222,-16.2141667
+gm,wakilarr,Wakilarr,03,,13.5333333,-14.55
+gm,walalan,Walalan,07,,13.5833333,-15.6833333
+gm,waliba kunda,Waliba Kunda,04,,13.3666667,-14.0166667
+gm,walliba kunda,Walliba Kunda,04,,13.3666667,-14.0166667
+gm,walli kunda,Walli Kunda,03,,13.5666667,-14.9166667
+gm,wallikunda,Wallikunda,04,,13.5333333,-13.9333333
+gm,wassadung demba,Wassadung Demba,04,,13.3,-14.45
+gm,wassadung,Wassadung,04,,13.3,-14.45
+gm,wassadun,Wassadun,05,,13.2,-15.8666667
+gm,wassu,Wassu,03,,13.6833333,-14.8833333
+gm,wayahon,Wayahon,07,,13.5666667,-15.95
+gm,welingara,Welingara,05,,13.4036111,-16.6736111
+gm,wellingara adama,Wellingara Adama,03,,13.45,-14.8833333
+gm,wellingara alhaji alpha,Wellingara Alhaji Alpha,05,,13.7333333,-15.1166667
+gm,wellingara ba,Wellingara Ba,02,,13.4166667,-15.4
+gm,wellingara bubacarr bah,Wellingara Bubacarr Bah,05,,13.7333333,-15.15
+gm,wellingara ello,Wellingara Ello,05,,13.5833333,-15.3166667
+gm,wellingara galo,Wellingara Galo,03,,13.45,-14.7833333
+gm,wellingara mansak,Wellingara Mansak,04,,13.25,-14.3666667
+gm,wellingara mansal,Wellingara Mansal,04,,13.25,-14.3666667
+gm,wellingara momodou,Wellingara Momodou,05,,13.6,-15.2333333
+gm,wellingara nding,Wellingara Nding,02,,13.45,-15.45
+gm,wellingara,Wellingara,03,,13.6333333,-15.0333333
+gm,wellingara,Wellingara,05,,13.4036111,-16.6736111
+gm,wellingara,Wellingara,07,,13.5833333,-15.9166667
+gm,wellingara yoro,Wellingara Yoro,03,,13.5,-14.8
+gm,wessedung,Wessedung,05,,13.2,-15.9166667
+gm,willimissa,Willimissa,05,,13.4166667,-16.1166667
+gm,willingara ba,Willingara Ba,05,,13.4,-15.2666667
+gm,willingara kejaw,Willingara Kejaw,03,,13.55,-14.9333333
+gm,willingara samba tako,Willingara Samba Tako,04,,13.3,-14.2
+gm,willingara,Willingara,02,,13.3833333,-15.55
+gm,willingara,Willingara,03,,13.35,-14.65
+gm,willingara,Willingara,04,,13.3,-14.2
+gm,willingara,Willingara,05,,13.4036111,-16.6736111
+gm,wirdeba,Wirdeba,05,,13.3166667,-15.8166667
+gm,woi buray,Woi Buray,03,,13.7,-14.8166667
+gm,wulem kunda,Wulem Kunda,04,,13.35,-14.4666667
+gm,wulumisa,Wulumisa,05,,13.4166667,-16.1166667
+gm,wurokang,Wurokang,05,,13.3833333,-15.8166667
+gm,yala,Yala,05,,13.5066667,-16.3988889
+gm,yallal bah ker de kumba,Yallal Bah Ker De Kumba,07,,13.5666667,-16.0
+gm,yallal ba,Yallal Ba,02,,13.5833333,-15.5666667
+gm,yallal,Yallal,02,,13.4,-15.55
+gm,yallal,Yallal,07,,13.55,-15.7
+gm,yallol ba,Yallol Ba,02,,13.5833333,-15.5666667
+gm,yallol,Yallol,07,,13.55,-15.7
+gm,yamadu,Yamadu,04,,13.4166667,-14.1333333
+gm,yambur,Yambur,05,,13.3155556,-16.7019444
+gm,yarobawal,Yarobawal,04,,13.4333333,-14.2166667
+gm,yarry njoffa,Yarry Njoffa,04,,13.2833333,-14.3833333
+gm,yelitenda,Yelitenda,02,,13.5166667,-15.5666667
+gm,yida,Yida,03,,13.6666667,-14.9333333
+gm,yolof,Yolof,05,,13.35,-16.3383333
+gm,yonah,Yonah,03,,13.5333333,-14.6833333
+gm,yona,Yona,03,,13.5333333,-14.6833333
+gm,yora jula,Yora Jula,02,,13.4166667,-15.6666667
+gm,yoro beri kunda,Yoro Beri Kunda,03,,13.5,-14.75
+gm,yoro cheke,Yoro Cheke,04,,13.25,-14.2
+gm,yoro ya,Yoro Ya,05,,13.6333333,-15.2833333
+gm,yorro pendeh,Yorro Pendeh,04,,13.3166667,-14.45
+gm,yorubawal,Yorubawal,04,,13.4333333,-14.2166667
+gm,yuma,Yuma,07,,13.5833333,-15.7
+gm,yumdum,Yumdum,05,,13.3625,-16.6861111
+gm,yuna,Yuna,07,,13.5833333,-15.7
+gm,yundum,Yundum,05,,13.3455556,-16.6727778
+gm,yundun,Yundun,05,,13.3625,-16.6861111
+gm,yungo,Yungo,05,,13.7166667,-15.2

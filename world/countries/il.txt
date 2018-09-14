@@ -1,0 +1,3735 @@
+il,aavroun,Aavroun,03,,33.047892,35.179946
+il,aba hillel,Aba Hillel,01,,31.673194,34.611831
+il,abba hillel,Abba Hillel,01,,31.673194,34.611831
+il,`abbasiya,`Abbasiya,02,,32.035,34.886111
+il,abbirim,Abbirim,03,,33.03837,35.286893
+il,abu fadl,Abu Fadl,02,,31.95,34.85
+il,abu ghaush,Abu Ghaush,06,,31.805925,35.1093
+il,abu-ghawsh,Abu-Ghawsh,06,,31.805925,35.1093
+il,abu ghosh,Abu Ghosh,06,5570,31.805925,35.1093
+il,abu jabir,Abu Jabir,01,,31.553852,34.770088
+il,abu kabir,Abu Kabir,05,,32.05,34.766667
+il,abu kebir,Abu Kebir,05,,32.05,34.766667
+il,abu senan,Abu Senan,03,,32.958905,35.171519
+il,abu-senan,Abu-Senan,03,,32.958905,35.171519
+il,abu shusha,Abu Shusha,02,,31.85,34.916667
+il,abu-shushah,Abu-Shushah,02,,31.85,34.916667
+il,abu sinan,Abu Sinan,03,,32.958905,35.171519
+il,accho,Accho,03,,32.923611,35.072778
+il,acre,Acre,03,,32.923611,35.072778
+il,acri,Acri,03,,32.923611,35.072778
+il,adamit,Adamit,03,,33.079713,35.211026
+il,adamith,Adamith,03,,33.079713,35.211026
+il,`adanim,`Adanim,02,,32.139722,34.906389
+il,adderet,Adderet,06,,31.660713,34.995637
+il,addirim,Addirim,03,,32.549101,35.271903
+il,adirim,Adirim,03,,32.549101,35.271903
+il,admit,Admit,03,,33.079713,35.211026
+il,afeq,Afeq,03,,32.838889,35.124722
+il,affula,Affula,03,,32.611111,35.291667
+il,afikim,Afikim,03,,32.68046,35.577762
+il,afiqim,Afiqim,03,,32.68046,35.577762
+il,afridar,Afridar,01,,31.675643,34.566553
+il,`afula,`Afula,03,,32.611111,35.291667
+il,`afula `elit,`Afula `Elit,03,,32.633233,35.325216
+il,`afulah `ilith,`Afulah `Ilith,03,,32.633233,35.325216
+il,`afula `illit,`Afula `Illit,03,,32.633233,35.325216
+il,afula illit,Afula Illit,03,,32.633233,35.325216
+il,afule,Afule,03,,32.611111,35.291667
+il,afuli,Afuli,03,,32.611111,35.291667
+il,`afulla `illit,`Afulla `Illit,03,,32.633233,35.325216
+il,agudat israel,Agudat Israel,01,,31.762134,34.794456
+il,`agur,`Agur,06,,31.697719,34.912354
+il,ahawa,Ahawa,01,,31.743281,34.768796
+il,ahi`ezer,Ahi`ezer,02,,31.981111,34.871667
+il,ahihud,Ahihud,03,,32.907778,35.171111
+il,ahisamakh,Ahisamakh,02,,31.935556,34.908056
+il,ahituv,Ahituv,02,,32.388735,34.990722
+il,ahutzasamuel,Ahutzasamuel,04,,32.783333,34.983333
+il,ahuzam,Ahuzam,01,,31.553852,34.770088
+il,ahuzam b.,Ahuzam B.,01,,31.564396,34.767595
+il,ahuzat samuel,Ahuzat Samuel,04,,32.783333,34.983333
+il,ahuzat sir herbert samuel,Ahuzat Sir Herbert Samuel,04,,32.783333,34.983333
+il,ahuzza,Ahuzza,04,,32.783333,34.983333
+il,ahuzzam,Ahuzzam,01,,31.553852,34.770088
+il,ahuzzam bet,Ahuzzam Bet,01,,31.564396,34.767595
+il,ahuzzat baraq,Ahuzzat Baraq,03,,32.640715,35.337911
+il,ahuzzat naftali,Ahuzzat Naftali,03,,32.793373,35.470464
+il,ahuzzat shemu`el,Ahuzzat Shemu`el,04,,32.783333,34.983333
+il,ahuzzat sir herbert samuel,Ahuzzat Sir Herbert Samuel,04,,32.783333,34.983333
+il,`ailabun,`Ailabun,03,,32.83622,35.400399
+il,ain ayala,Ain Ayala,04,,32.633333,34.933333
+il,`ain birya,`Ain Birya,03,,32.978319,35.499727
+il,ain ghazil,Ain Ghazil,04,,32.620833,34.9775
+il,ain hod,Ain Hod,04,,32.7,34.983333
+il,ain karim,Ain Karim,01,,31.767787,35.163101
+il,`ain katab,`Ain Katab,03,,32.789963,35.509258
+il,ain yaaqoub,Ain Yaaqoub,03,,33.009766,35.229821
+il,ain yahav,Ain Yahav,01,,30.653333,35.238611
+il,aiyelet hashahar,Aiyelet Hashahar,03,,33.022236,35.577162
+il,aiyelet hash shahar,Aiyelet Hash Shahar,03,,33.022236,35.577162
+il,ajami quarter,Ajami Quarter,05,,32.05,34.75
+il,`ajjur,`Ajjur,06,,31.697719,34.912354
+il,`akbara,`Akbara,03,,32.941316,35.495455
+il,akbara,Akbara,03,,32.941316,35.495455
+il,`akhbera,`Akhbera,03,,32.941316,35.495455
+il,akhberah,Akhberah,03,,32.941316,35.495455
+il,akhsanit kare deshe,Akhsanit Kare Deshe,03,,32.868877,35.541298
+il,akhsanya,Akhsanya,03,,32.748987,35.554959
+il,akir,Akir,02,,31.860833,34.826667
+il,`akka,`Akka,03,,32.923611,35.072778
+il,akkada,Akkada,04,,32.541721,35.170236
+il,akkia,Akkia,03,,32.923611,35.072778
+il,`akko,`Akko,03,,32.923611,35.072778
+il,akre,Akre,03,,32.923611,35.072778
+il,al `amarah,Al `Amarah,01,,30.491389,35.179722
+il,al `awja',Al `Awja',01,,30.885365,34.422768
+il,al bassa,Al Bassa,03,,33.068467,35.135874
+il,al bi`na,Al Bi`na,03,,32.934722,35.270833
+il,al-binah,Al-Binah,03,,32.934722,35.270833
+il,al buqei`a,Al Buqei`a,03,,32.977465,35.333448
+il,al fureidis,Al Fureidis,04,,32.6,34.95
+il,al haditha,Al Haditha,02,,31.968333,34.934444
+il,al haram,Al Haram,05,,32.187222,34.805833
+il,al huzail,Al Huzail,01,,31.416667,34.75
+il,al `imara,Al `Imara,01,,31.316667,34.516667
+il,al jiya,Al Jiya,01,,31.626965,34.603343
+il,al judeida,Al Judeida,03,,32.925556,35.155
+il,al kababir,Al Kababir,04,,32.8,34.966667
+il,al kabiri,Al Kabiri,03,,33.020903,35.148346
+il,al kabri,Al Kabri,03,,33.020903,35.148346
+il,al khalisa,Al Khalisa,03,,33.207334,35.572118
+il,`allar,`Allar,06,,31.718112,35.061408
+il,allona,Allona,04,,32.531953,34.993601
+il,allonah,Allonah,04,,32.531953,34.993601
+il,allone abba,Allone Abba,03,,32.729444,35.170556
+il,allonei-yitzhak,Allonei-Yitzhak,04,,32.51027,35.002763
+il,allone yitshak,Allone Yitshak,04,,32.51027,35.002763
+il,allone yizhaq,Allone Yizhaq,04,,32.51027,35.002763
+il,allonim,Allonim,03,,32.72,35.141944
+il,`alma,`Alma,03,,33.051596,35.499645
+il,alma,Alma,03,,33.051596,35.499645
+il,almagor,Almagor,03,,32.912459,35.602196
+il,al majdal,Al Majdal,01,,31.669256,34.57149
+il,al malha,Al Malha,06,,31.752313,35.183156
+il,al maliha,Al Maliha,06,,31.752313,35.183156
+il,al manara,Al Manara,03,,32.763846,35.553061
+il,al manawat,Al Manawat,03,,33.038927,35.195437
+il,al marah,Al Marah,04,,32.519075,35.00602
+il,al mas`udiya,Al Mas`udiya,05,,32.083333,34.783333
+il,al mazar,Al Mazar,04,,32.683333,34.966667
+il,al mazra`a,Al Mazra`a,03,,32.983383,35.09837
+il,al muharraqa,Al Muharraqa,01,,31.466667,34.616667
+il,al musrarah,Al Musrarah,06,,31.783333,35.216667
+il,alona,Alona,04,,32.531953,34.993601
+il,alonah,Alonah,04,,32.531953,34.993601
+il,alonei-yitshaq,Alonei-Yitshaq,04,,32.51027,35.002763
+il,alone yitzhak,Alone Yitzhak,04,,32.51027,35.002763
+il,alonim,Alonim,03,,32.72,35.141944
+il,al qubab,Al Qubab,02,,31.870278,34.941667
+il,al qubeiba,Al Qubeiba,02,,31.883333,34.766667
+il,alro'i,Alro'i,04,,32.709167,35.104722
+il,al tabieh,Al Tabieh,06,,31.766667,35.233333
+il,al `ulmaniya,Al `Ulmaniya,03,,33.083333,35.583333
+il,`alumim,`Alumim,01,,31.452321,34.513838
+il,alumim,Alumim,01,,31.452321,34.513838
+il,alumma,Alumma,01,,31.651676,34.744073
+il,alummot,Alummot,03,,32.706542,35.546218
+il,alumot,Alumot,03,,32.706542,35.546218
+il,al yahudiya,Al Yahudiya,02,,32.035,34.886111
+il,amatsya,Amatsya,01,,31.532478,34.914044
+il,amazya,Amazya,01,,31.532478,34.914044
+il,`amelim,`Amelim,02,,31.85,34.916667
+il,ami`ad,Ami`ad,03,,32.928237,35.54154
+il,`aminadav,`Aminadav,06,,31.752123,35.147335
+il,amioz,Amioz,01,,31.248334,34.413287
+il,`amir,`Amir,03,,33.178669,35.620834
+il,amir,Amir,03,,33.178669,35.620834
+il,amirim,Amirim,03,,32.937731,35.45302
+il,amka,Amka,03,,32.979866,35.163315
+il,`ammi`ad,`Ammi`ad,03,,32.928237,35.54154
+il,ammi'ad,Ammi'ad,03,,32.928237,35.54154
+il,ammikam,Ammikam,04,,32.563484,35.020779
+il,`amminadav,`Amminadav,06,,31.752123,35.147335
+il,amminadav,Amminadav,06,,31.752123,35.147335
+il,`ammi`oz,`Ammi`oz,01,,31.248334,34.413287
+il,ammi'oz,Ammi'oz,01,,31.248334,34.413287
+il,`ammiqam,`Ammiqam,04,,32.563484,35.020779
+il,am misgav,Am Misgav,03,,33.247445,35.548908
+il,`ammishav,`Ammishav,05,,32.071389,34.917222
+il,amnun,Amnun,03,,32.904586,35.571507
+il,`amqa,`Amqa,03,,32.979866,35.163315
+il,`amqah,`Amqah,03,,32.979866,35.163315
+il,an nawaqir,An Nawaqir,03,,33.090632,35.213501
+il,annouqar,Annouqar,03,,33.090632,35.213501
+il,`aqada,`Aqada,04,,32.541721,35.170236
+il,`aqbarah,`Aqbarah,03,,32.941316,35.495455
+il,`aqir,`Aqir,02,,31.860833,34.826667
+il,`aqqada,`Aqqada,04,,32.541721,35.170236
+il,`ara,`Ara,04,,32.503685,35.079836
+il,`araba,`Araba,03,,32.850935,35.337072
+il,`arabah,`Arabah,03,,32.850935,35.337072
+il,`arad,`Arad,01,,31.25,35.216667
+il,`arah,`Arah,04,,32.503685,35.079836
+il,`aramsha,`Aramsha,03,,33.087808,35.228356
+il,aramsha,Aramsha,03,,33.087808,35.228356
+il,`ar`ara,`Ar`ara,04,,32.495535,35.094108
+il,ar'ara,Ar'ara,04,,32.495535,35.094108
+il,`ar`arah,`Ar`arah,04,,32.495535,35.094108
+il,`arav,`Arav,03,,32.850935,35.337072
+il,arbel,Arbel,03,,32.812123,35.485663
+il,arki,Arki,03,,32.953755,35.211998
+il,`arraba,`Arraba,03,,32.850935,35.337072
+il,`arrabe,`Arrabe,03,,32.850935,35.337072
+il,ar rama,Ar Rama,03,,32.938442,35.367502
+il,ar reina,Ar Reina,03,,32.723611,35.3125
+il,arsuf,Arsuf,02,,32.213242,34.815735
+il,`arugot,`Arugot,01,,31.733094,34.776033
+il,arugot,Arugot,01,,31.733094,34.776033
+il,`arugot,`Arugot,02,,31.84429,34.803677
+il,asafiyah,Asafiyah,04,,32.717222,35.062778
+il,`aseret,`Aseret,02,,31.825079,34.747385
+il,aseret,Aseret,02,,31.825079,34.747385
+il,ashalim,Ashalim,01,,30.963889,34.700278
+il,ashdod alef,Ashdod Alef,01,,31.736056,34.655944
+il,ashdod,Ashdod,01,202681,31.736056,34.655944
+il,ashdod,Ashdod,02,202681,31.792133,34.649656
+il,ashdod c,Ashdod C,01,,31.744438,34.680931
+il,ashdod dalet,Ashdod Dalet,01,,31.75612,34.677871
+il,ashdod gimel,Ashdod Gimel,01,,31.744438,34.680931
+il,ashdod gimmel c,Ashdod Gimmel C,01,,31.744438,34.680931
+il,ashdod on the sea,Ashdod on the Sea,02,,31.792133,34.649656
+il,ashdod yam,Ashdod Yam,02,,31.792133,34.649656
+il,ashdoth ya`aqov,Ashdoth Ya`aqov,03,,32.65,35.566667
+il,ashdot-ya'acov,Ashdot-Ya'acov,03,,32.660131,35.58193
+il,ashdot yaakov meuhad,Ashdot Yaakov Meuhad,03,,32.65,35.566667
+il,ashdot ya`aqov alef,Ashdot Ya`aqov Alef,03,,32.666667,35.566667
+il,ashdot ya`aqov,Ashdot Ya`aqov,03,,32.660131,35.58193
+il,ashdot ya`aqov bet,Ashdot Ya`aqov Bet,03,,32.65,35.566667
+il,ashdot ya`aqov ihud,Ashdot Ya`aqov Ihud,03,,32.666667,35.566667
+il,ashdot ya`aqov me'uhad,Ashdot Ya`aqov Me'uhad,03,,32.65,35.566667
+il,ashdot yaccov,Ashdot Yaccov,03,,32.660131,35.58193
+il,asher,Asher,03,,32.96308,35.095022
+il,asherat,Asherat,03,,32.970978,35.155343
+il,ashkelon,Ashkelon,01,,31.669256,34.57149
+il,ashmura,Ashmura,03,,33.05,35.65
+il,ashqelon,Ashqelon,01,108342,31.669256,34.57149
+il,ashquelon,Ashquelon,01,,31.669256,34.57149
+il,ash shajara,Ash Shajara,03,,32.754667,35.408371
+il,ash sheikh muwannis,Ash Sheikh Muwannis,05,,32.1,34.8
+il,as sarafand,As Sarafand,04,,32.65,34.933333
+il,`athlit,`Athlit,04,,32.683333,34.933333
+il,`athlith,`Athlith,04,,32.683333,34.933333
+il,`atlit,`Atlit,04,,32.683333,34.933333
+il,at taiyiba,At Taiyiba,02,,32.266161,35.008932
+il,at tira,At Tira,02,,32.014167,34.9325
+il,at tira,At Tira,04,,32.761667,34.971944
+il,auja al hafir,Auja al Hafir,01,,30.885365,34.422768
+il,auja al khafir,Auja al Khafir,01,,30.885365,34.422768
+il,auja,Auja,01,,30.885365,34.422768
+il,`avdon,`Avdon,03,,33.047892,35.179946
+il,avdon,Avdon,03,,33.047892,35.179946
+il,avi'el,Avi'el,04,,32.531953,34.993601
+il,avi`ezer,Avi`ezer,06,,31.681614,35.01767
+il,avi'ezer,Avi'ezer,06,,31.681614,35.01767
+il,avigdor,Avigdor,01,,31.710831,34.744403
+il,avigedor,Avigedor,01,,31.710831,34.744403
+il,avihayil,Avihayil,02,,32.350398,34.871192
+il,avital,Avital,03,,32.558522,35.305803
+il,avivim,Avivim,03,,33.08892,35.472282
+il,avot,Avot,04,,32.484993,34.968069
+il,avshalom,Avshalom,01,,31.195311,34.330756
+il,avtah,Avtah,06,,31.763188,35.134216
+il,avtalyon,Avtalyon,03,,32.836192,35.349323
+il,avuka,Avuka,03,,32.466667,35.533333
+il,avuqa,Avuqa,03,,32.466667,35.533333
+il,avuqah,Avuqah,03,,32.466667,35.533333
+il,ayaltah,Ayaltah,01,,31.264891,34.847665
+il,`ayanot,`Ayanot,02,,31.916389,34.768056
+il,`ayanot,`Ayanot,03,,32.6775,35.2025
+il,'ayanot-ramat david,'Ayanot-Ramat David,03,,32.6775,35.2025
+il,ayelet hashahar,Ayelet Hashahar,03,,33.022236,35.577162
+il,`aylabun,`Aylabun,03,,32.83622,35.400399
+il,ayn al-asad,Ayn Al-Asad,03,,32.94137,35.39639
+il,`ayn karim,`Ayn Karim,01,,31.767787,35.163101
+il,`ayn mahil,`Ayn Mahil,03,,32.723035,35.353034
+il,`ayn waybah,`Ayn Waybah,01,,30.653333,35.238611
+il,ayun kara,Ayun Kara,02,,31.964167,34.804444
+il,ayyelet hashahar,Ayyelet HaShahar,03,,33.022236,35.577162
+il,`azarya,`Azarya,02,,31.894444,34.909167
+il,`azaryah,`Azaryah,02,,31.894444,34.909167
+il,azata,Azata,01,,31.42215,34.588581
+il,`azir,`Azir,03,,32.792124,35.329841
+il,azor,Azor,05,,32.019167,34.810556
+il,azotos,Azotos,01,,31.75,34.666667
+il,azotus,Azotus,01,,31.75,34.666667
+il,`azri'el,`Azri'el,02,,32.261367,34.970061
+il,azri'el,Azri'el,02,,32.261367,34.970061
+il,azrikam,Azrikam,01,,31.751118,34.697562
+il,`azriqam,`Azriqam,01,,31.751118,34.697562
+il,azur,Azur,05,10338,32.019167,34.810556
+il,azzata,Azzata,01,,31.42215,34.588581
+il,bahan,Bahan,02,,32.350816,35.018622
+il,baiyada,Baiyada,04,,32.555036,35.160699
+il,baka-el-garbiya,Baka-el-Garbiya,04,,32.418065,35.043119
+il,balad ash-shaykh,Balad Ash-Shaykh,04,,32.774722,35.031667
+il,balad esh sheikh,Balad esh Sheikh,04,,32.774722,35.031667
+il,balfouria,Balfouria,03,,32.633333,35.295833
+il,balfouriya,Balfouriya,03,,32.633333,35.295833
+il,balfouriyya,Balfouriyya,03,,32.633333,35.295833
+il,balfourya,Balfourya,03,,32.633333,35.295833
+il,balfouryah,Balfouryah,03,,32.633333,35.295833
+il,balfuriya,Balfuriya,03,,32.633333,35.295833
+il,balfuryah,Balfuryah,03,,32.633333,35.295833
+il,bamaavaq,Bamaavaq,03,,32.729444,35.170556
+il,bammaavaq,Bammaavaq,03,,32.729444,35.170556
+il,bani darom,Bani Darom,02,,31.820337,34.692351
+il,baqa al gharbiya,Baqa al Gharbiya,04,,32.418065,35.043119
+il,baqa al-gharbiyah,Baqa al-Gharbiyah,04,,32.418065,35.043119
+il,baqa al-gharbiyye,Baqa Al-Gharbiyye,04,,32.418065,35.043119
+il,baqa,Baqa,04,,32.418065,35.043119
+il,baqa el garbiyya,Baqa el Garbiyya,04,,32.418065,35.043119
+il,baqa el garbiyye,Baqa el Garbiyye,04,,32.418065,35.043119
+il,baq'a el gharbia,Baq'a el Gharbia,04,,32.418065,35.043119
+il,baqa el gharbiya,Baqa el Gharbiya,04,,32.418065,35.043119
+il,baqa el gharbiyya,Baqa el Gharbiyya,04,,32.418065,35.043119
+il,barak,Barak,03,,32.542769,35.265196
+il,bar`am,Bar`am,03,,33.059188,35.433769
+il,bar'am,Bar'am,03,,33.059188,35.433769
+il,baraq,Baraq,03,,32.542769,35.265196
+il,barbara,Barbara,01,,31.622069,34.57817
+il,barbarah,Barbarah,01,,31.622069,34.57817
+il,barbarit,Barbarit,01,,31.622069,34.57817
+il,bareket,Bareket,02,,32.018611,34.944722
+il,bareqet,Bareqet,02,,32.018611,34.944722
+il,bar giyyora,Bar Giyyora,06,,31.729727,35.072964
+il,bariyah,Bariyah,02,,31.894444,34.909167
+il,barkai,Barkai,04,,32.475097,35.029658
+il,barkay,Barkay,04,,32.475097,35.029658
+il,barnea`,Barnea`,01,,31.685169,34.579971
+il,barnea,Barnea,01,,31.685169,34.579971
+il,barqa`i,Barqa`i,04,,32.475097,35.029658
+il,barq`ay,Barq`ay,04,,32.475097,35.029658
+il,barqay,Barqay,04,,32.475097,35.029658
+il,barriya,Barriya,02,,31.894444,34.909167
+il,barta`a,Barta`a,04,,32.476158,35.088459
+il,barta`ah,Barta`ah,04,,32.476158,35.088459
+il,bar yoha'y,Bar Yoha'y,03,,32.998477,35.444189
+il,bar yohay,Bar Yohay,03,,32.998477,35.444189
+il,bash-shit 3,Bash-shit 3,02,,31.834388,34.743659
+il,basirah,Basirah,02,,32.211389,34.874722
+il,basmat tab`un,Basmat Tab`un,04,,32.734444,35.145833
+il,bassa,Bassa,03,,33.068467,35.135874
+il,bassah,Bassah,03,,33.068467,35.135874
+il,bassi,Bassi,03,,33.068467,35.135874
+il,bat gallim,Bat Gallim,04,,32.833333,34.983333
+il,bat hadar,Bat Hadar,01,,31.647727,34.596614
+il,bat hefer,Bat Hefer,02,,32.333069,35.012717
+il,bath shelomo,Bath Shelomo,04,,32.596667,35.001944
+il,batsah,Batsah,03,,33.068467,35.135874
+il,bat shelomo,Bat Shelomo,04,,32.596667,35.001944
+il,bat shelomoh,Bat Shelomoh,04,,32.596667,35.001944
+il,batshlomo,Batshlomo,04,,32.596667,35.001944
+il,batsirah,Batsirah,02,,32.211389,34.874722
+il,batsrah,Batsrah,02,,32.211389,34.874722
+il,bat yam,Bat Yam,05,130973,32.023056,34.750278
+il,bayit vegan,Bayit Vegan,06,,31.769821,35.184543
+il,bayit wegan,Bayit Wegan,06,,31.769821,35.184543
+il,bayt dajan,Bayt Dajan,02,,32.001389,34.830278
+il,bayt jann,Bayt Jann,03,,32.964638,35.381522
+il,bayt jibrin,Bayt Jibrin,01,,31.612172,34.895499
+il,bayt jinn,Bayt Jinn,03,,32.713302,35.497755
+il,bayt jirjah,Bayt Jirjah,01,,31.6,34.583333
+il,bayt mahsir,Bayt Mahsir,06,,31.793926,35.03689
+il,bayt naballah,Bayt Naballah,02,,31.976389,34.954444
+il,bayt naqqubah,Bayt Naqqubah,06,,31.804521,35.125955
+il,bayt safafa,Bayt Safafa,,,31.742667,35.203036
+il,bayt susin,Bayt Susin,06,,31.801237,34.975038
+il,bazra,Bazra,02,,32.211389,34.874722
+il,beer ganim,Beer Ganim,02,,32.271616,34.879556
+il,be'er gannim,Be'er Gannim,02,,32.271616,34.879556
+il,be'eri,Be'eri,01,,31.424258,34.491634
+il,be'er menuha,Be'er Menuha,01,,30.288056,35.103056
+il,be'er ora,Be'er Ora,01,,29.7125,34.979444
+il,beerotayim alef,Beerotayim Alef,02,,32.321109,34.983237
+il,be'erotayim,Be'erotayim,02,,32.321109,34.983237
+il,beerothayim bet,Beerothayim Bet,02,,32.331993,34.985577
+il,be'erot yitshak,Be'erot Yitshak,01,,31.460291,34.499792
+il,beerot yitshak,Beerot Yitshak,01,,31.460291,34.499792
+il,beerot yitshaq,Beerot Yitshaq,01,,31.460291,34.499792
+il,beerot yitshaq,Beerot Yitshaq,02,,32.040833,34.911111
+il,beerot yitzhak,Beerot Yitzhak,01,,31.460291,34.499792
+il,be'erot yizhaq,Be'erot Yizhaq,01,,31.460291,34.499792
+il,be'erot yizhaq,Be'erot Yizhaq,02,,32.040833,34.911111
+il,beer shalom,Beer Shalom,02,,31.922778,34.825833
+il,beersheba,Beersheba,01,,31.251641,34.786281
+il,be'er sheva`,Be'er Sheva`,01,,31.251641,34.786281
+il,be'er sheva,Be'er Sheva,01,,31.251641,34.786281
+il,beer toviya b.,Beer Toviya B.,01,,31.741032,34.73517
+il,beer to*viya,Beer To*viya,01,,31.73501,34.723887
+il,beer toviyah,Beer Toviyah,01,,31.73501,34.723887
+il,be'er toviyya,Be'er Toviyya,01,,31.73501,34.723887
+il,be'er tovya,Be'er Tovya,01,,31.73501,34.723887
+il,beer tuvya,Beer Tuvya,01,,31.73501,34.723887
+il,beer tuvyah,Beer Tuvyah,01,,31.73501,34.723887
+il,be'er ya`aqov,Be'er Ya`aqov,02,,31.941944,34.8375
+il,behadraga,Behadraga,02,,32.065833,34.884722
+il,behadragah,Behadragah,02,,32.065833,34.884722
+il,beilinson,Beilinson,02,,32.083889,34.915556
+il,beisan,Beisan,03,,32.5,35.5
+il,beit alfa,Beit Alfa,03,,32.516667,35.425
+il,beitanya,Beitanya,03,,32.699995,35.566653
+il,beit `arif,Beit `Arif,02,,31.954444,34.922222
+il,beit arif,Beit Arif,02,,31.996389,34.935
+il,beit dagon,Beit Dagon,02,,32.001389,34.830278
+il,beit dajan,Beit Dajan,02,,32.001389,34.830278
+il,beit el`azari,Beit El`azari,02,,31.84429,34.803677
+il,beit gan,Beit Gan,03,,32.713302,35.497755
+il,beit gemal,Beit Gemal,06,,31.724863,34.975777
+il,beit govrin,Beit Govrin,01,,31.612172,34.895499
+il,beit guvrin,Beit Guvrin,01,,31.612172,34.895499
+il,beit ha`emeq,Beit Ha`Emeq,03,,32.970748,35.145064
+il,beit hagaddi,Beit Hagaddi,01,,31.425159,34.606013
+il,beit hagadi,Beit Hagadi,01,,31.425159,34.606013
+il,beit hageddi,Beit Hageddi,01,,31.425159,34.606013
+il,beit hagedi,Beit Hagedi,01,,31.425159,34.606013
+il,beit hakerem,Beit Hakerem,03,,32.919444,35.267222
+il,beit hakerem,Beit Hakerem,06,,31.77953,35.190036
+il,beit halevi,Beit Halevi,02,,32.352846,34.930115
+il,beit halewi,Beit Halewi,02,,32.352846,34.930115
+il,beit hanan,Beit Hanan,02,,31.938611,34.776667
+il,beit hananya,Beit Hananya,04,,32.529128,34.925955
+il,beit hananyah,Beit Hananyah,04,,32.529128,34.925955
+il,beithaniya,Beithaniya,03,,32.699995,35.566653
+il,beit hashitah,Beit Hashitah,03,,32.554167,35.4375
+il,beit hashitta,Beit Hashitta,03,,32.554167,35.4375
+il,beit hash shitta,Beit Hash Shitta,03,,32.554167,35.4375
+il,beith gan,Beith Gan,03,,32.713302,35.497755
+il,beit hilkiya,Beit Hilkiya,02,,31.792813,34.810478
+il,beit hillel,Beit Hillel,03,,33.208554,35.606975
+il,beit hilqiya,Beit Hilqiya,02,,31.792813,34.810478
+il,beith shean,Beith Shean,03,,32.5,35.5
+il,beit-jamal,Beit-Jamal,06,,31.724863,34.975777
+il,beit jann,Beit Jann,03,10001,32.964638,35.381522
+il,beit jemal,Beit Jemal,06,,31.724863,34.975777
+il,beit jibrin,Beit Jibrin,01,,31.612172,34.895499
+il,beit jimal,Beit Jimal,06,,31.724863,34.975777
+il,beit jirja,Beit Jirja,01,,31.6,34.583333
+il,beit jiz,Beit Jiz,06,,31.809062,34.948653
+il,beit lahm,Beit Lahm,03,,32.733889,35.188611
+il,beit lehem hagelilit,Beit Lehem Hagelilit,03,,32.733889,35.188611
+il,beit lehem haglilit,Beit Lehem Haglilit,03,,32.733889,35.188611
+il,beit lid,Beit Lid,02,,32.318236,34.911789
+il,beit lidd,Beit Lidd,02,,32.318236,34.911789
+il,beit mahsir,Beit Mahsir,06,,31.793926,35.03689
+il,beit ma'on,Beit Ma'on,03,,32.783333,35.5
+il,beit mazmil,Beit Mazmil,06,,31.766667,35.166667
+il,beit meir,Beit Meir,06,,31.793926,35.03689
+il,beit nabala,Beit Nabala,02,,31.976389,34.954444
+il,beit naqquba,Beit Naqquba,06,,31.804521,35.125955
+il,beit nehemya,Beit Nehemya,02,,31.976389,34.954444
+il,beit neqofa,Beit Neqofa,06,,31.804521,35.125955
+il,beit neqofah,Beit Neqofah,06,,31.804521,35.125955
+il,beit niqova,Beit Niqova,06,,31.804521,35.125955
+il,beit oren,Beit Oren,04,,32.730556,35.005556
+il,beit `oved,Beit `Oved,02,,31.921944,34.771944
+il,beit qama,Beit Qama,01,,31.44553,34.761851
+il,beit qamah,Beit Qamah,01,,31.385301,34.459428
+il,beit qeshet,Beit Qeshet,03,,32.718692,35.395162
+il,beit-raban,Beit-Raban,02,,31.816774,34.729369
+il,beit re`im,Beit Re`im,01,,31.385301,34.459428
+il,beit safafa,Beit Safafa,,,31.742667,35.203036
+il,beit shean,Beit Shean,03,,32.5,35.5
+il,beit she`arim,Beit She`arim,03,,32.695556,35.18
+il,beit-shemesh,Beit-Shemesh,06,,31.749587,34.988768
+il,beit shemuel,Beit Shemuel,02,,32.033333,34.883333
+il,beit shiqma,Beit Shiqma,01,,31.635888,34.60636
+il,beit shiqmah,Beit Shiqmah,01,,31.635888,34.60636
+il,beit susin,Beit Susin,06,,31.801237,34.975038
+il,beit-tsevi,Beit-Tsevi,04,,32.718889,34.966944
+il,beit yanai,Beit Yanai,02,,32.38091,34.863502
+il,beit yannai,Beit Yannai,02,,32.38091,34.863502
+il,beit yehoshua`,Beit Yehoshua`,02,,32.25942,34.864141
+il,beit yits-haq,Beit Yits-haq,02,,32.327511,34.88878
+il,beit yitzak,Beit Yitzak,02,,32.327511,34.88878
+il,beit yosef,Beit Yosef,03,,32.383333,35.55
+il,beit zayit,Beit Zayit,02,,31.78233,35.161611
+il,beit zera`,Beit Zera`,03,,32.688603,35.572813
+il,beka`,Beka`,03,,32.666623,35.555001
+il,bekoa,Bekoa,06,,31.829019,34.92579
+il,ben aami,Ben Aami,03,,33.004497,35.121916
+il,benai beraq,Benai Beraq,05,,32.090278,34.839722
+il,ben `ami,Ben `Ami,03,,33.004497,35.121916
+il,ben `ammi,Ben `Ammi,03,,33.004497,35.121916
+il,ben ammi,Ben Ammi,03,,33.004497,35.121916
+il,benaya,Benaya,02,,31.843408,34.753978
+il,benayah,Benayah,02,,31.843408,34.753978
+il,bene `atarot,Bene `Atarot,02,,32.0225,34.91
+il,bene `ayish,Bene `Ayish,01,,31.789593,34.760655
+il,bene ayish,Bene Ayish,01,8193,31.789593,34.760655
+il,bene beraq,Bene Beraq,05,140849,32.090278,34.839722
+il,bene berit,Bene Berit,03,,32.586129,35.442007
+il,bene darom,Bené Darom,02,,31.820337,34.692351
+il,bene deror,Bené Deror,02,,32.261504,34.901961
+il,benei `atarot,Benei `Atarot,02,,32.0225,34.91
+il,benei beraq,Benei Beraq,05,,32.090278,34.839722
+il,benei berit,Benei Berit,03,,32.586129,35.442007
+il,benei brit,Benei Brit,03,,32.586129,35.442007
+il,benei deror,Benei Deror,02,,32.261504,34.901961
+il,benei dror,Benei Dror,02,,32.261504,34.901961
+il,benei geulim,Benei Geulim,02,,32.299618,34.945141
+il,benei har-el,Benei Har-el,02,,31.980556,34.921667
+il,benei reem,Benei Reem,02,,31.770285,34.79105
+il,benei tsion,Benei Tsion,02,,32.221208,34.869649
+il,benei tsiyon,Benei Tsiyon,02,,32.221208,34.869649
+il,benei zion,Benei Zion,02,,32.221208,34.869649
+il,bene re'em,Bene Re'em,02,,31.770285,34.79105
+il,bene tsiyyon,Bené Tsiyyon,02,,32.221208,34.869649
+il,beney beraq,Beney Beraq,05,,32.090278,34.839722
+il,bene zefat,Bene Zefat,03,,33.003333,35.598056
+il,bene ziyyon,Bene Ziyyon,02,,32.221208,34.869649
+il,ben shamen,Ben Shamen,02,,31.954444,34.922222
+il,ben shemen,Ben Shemen,02,,31.954444,34.922222
+il,ben shemen gimel,Ben Shemen Gimel,02,,31.954444,34.922222
+il,ben zakai,Ben Zakai,02,,31.8575,34.728056
+il,ben zakkay,Ben Zakkay,02,,31.8575,34.728056
+il,ben zakki,Ben Zakki,02,,31.8575,34.728056
+il,beqe`ah,Beqe`ah,03,,32.977465,35.333448
+il,beqoa`,Beqoa`,06,,31.829019,34.92579
+il,berekhya,Berekhya,01,,31.668282,34.625553
+il,berekhyah,Berekhyah,01,,31.668282,34.625553
+il,beria,Beria,03,,32.978319,35.499727
+il,berit ahim,Berit Ahim,03,,32.948616,35.076096
+il,beror hayil,Beror Hayil,01,,31.557636,34.646636
+il,berosh,Berosh,01,,31.371207,34.63395
+il,bersabee,Bersabée,01,,31.251641,34.786281
+il,berseba,Berséba,01,,31.251641,34.786281
+il,bertovia,Bertovia,01,,31.73501,34.723887
+il,berur hayil,Berur Hayil,01,,31.557636,34.646636
+il,berurim,Berurim,01,,31.767704,34.777319
+il,beryacob,Beryacob,02,,31.941944,34.8375
+il,besan,Besan,03,,32.5,35.5
+il,bet-alefa,Bet-Alefa,03,,32.516667,35.425
+il,bet alfa,Bet Alfa,03,,32.516667,35.425
+il,betanya,Betanya,03,,32.699995,35.566653
+il,bet arif alef,Bet Arif Alef,02,,31.963611,34.914167
+il,bet `arif,Bet `Arif,02,,31.996389,34.935
+il,bet dagan,Bet Dagan,02,5990,32.001389,34.830278
+il,bet dagan,Bet Dagan,03,,32.964638,35.381522
+il,bet elazar,Bet Elazar,02,,31.84429,34.803677
+il,bet el`azari,Bet El`azari,02,,31.84429,34.803677
+il,bet el'azari,Bet El'azari,02,,31.84429,34.803677
+il,beten,Beten,04,,32.761667,35.100833
+il,bet `ezra,Bet `Ezra,01,,31.736056,34.655944
+il,bet ezra,Bet Ezra,01,,31.736056,34.655944
+il,bet gamli'el,Bet Gamli'el,02,,31.855833,34.760556
+il,bet gan,Bet Gan,03,,32.713302,35.497755
+il,bet guvrin,Bet Guvrin,01,,31.612172,34.895499
+il,bet haemek,Bet HaEmek,03,,32.970748,35.145064
+il,bet ha`emeq,Bet Ha`Emeq,03,,32.970748,35.145064
+il,bet hagaddi,Bet HaGaddi,01,,31.425159,34.606013
+il,bet hakerem,Bet HaKerem,06,,31.77953,35.190036
+il,bet halevi,Bet HaLevi,02,,32.352846,34.930115
+il,bet halewi,Bet HaLewi,02,,32.352846,34.930115
+il,bet hanan,Bet Hanan,02,,31.938611,34.776667
+il,bet hananya,Bet Hananya,04,,32.529128,34.925955
+il,bethanyah,Bethanyah,03,,32.699995,35.566653
+il,beth areof,Beth Areof,02,,31.954444,34.922222
+il,bet hashitta,Bet HaShitta,03,,32.554167,35.4375
+il,bet hashmonay,Bet Hashmonay,02,,31.887222,34.9175
+il,beth-el`azari,Beth-El`azari,02,,31.84429,34.803677
+il,bet herut,Bet Herut,02,,32.379659,34.869915
+il,bethgan,Bethgan,03,,32.713302,35.497755
+il,bet hilkiyya,Bet Hilkiyya,02,,31.792813,34.810478
+il,bet hillel,Bet Hillel,03,,33.208554,35.606975
+il,bet hilqiya,Bet Hilqiya,02,,31.792813,34.810478
+il,bet hilqiyya,Bet Hilqiyya,02,,31.792813,34.810478
+il,bethlehem-waldheim,Bethlehem-Waldheim,03,,32.729444,35.170556
+il,beth shan,Beth Shan,03,,32.5,35.5
+il,bet kama,Bet Kama,01,,31.44553,34.761851
+il,bet kerem,Bet Kerem,03,,32.919444,35.267222
+il,bet keshet,Bet Keshet,03,,32.718692,35.395162
+il,bet lehem hagelilit,Bet Lehem HaGelilit,03,,32.733889,35.188611
+il,bet ma`on,Bet Ma`on,03,,32.783333,35.5
+il,bet me'ir,Bet Me'ir,06,,31.793926,35.03689
+il,bet mirsham,Bet Mirsham,01,,31.45,34.916667
+il,bet nehemya,Bet Nehemya,02,,31.976389,34.954444
+il,bet neqofa,Bet Neqofa,06,,31.804521,35.125955
+il,bet nir,Bet Nir,01,,31.647473,34.873815
+il,bet olim pardes hanna,Bet Olim Pardes Hanna,04,,32.484993,34.968069
+il,bet oren,Bet Oren,04,,32.730556,35.005556
+il,bet `oved,Bet `Oved,02,,31.921944,34.771944
+il,bet qama,Bet Qama,01,,31.44553,34.761851
+il,bet qeshet,Bet Qeshet,03,,32.718692,35.395162
+il,bet rabban,Bet Rabban,02,,31.816774,34.729369
+il,bet re`im,Bet Re`im,01,,31.385301,34.459428
+il,bet rimmon,Bet Rimmon,03,,32.779947,35.327658
+il,betset,Betset,03,,33.068467,35.135874
+il,bet she'an,Bet She'an,03,,32.5,35.5
+il,bet she`arim,Bet She`arim,03,,32.695556,35.18
+il,bet shemesh,Bet Shemesh,06,64838,31.749587,34.988768
+il,bet shemu'el,Bet Shemu'el,02,,32.033333,34.883333
+il,bet shikma,Bet Shikma,01,,31.635888,34.60636
+il,bet shiqma,Bet Shiqma,01,,31.635888,34.60636
+il,bet `uzi'el,Bet `Uzi'el,02,,31.870278,34.905833
+il,bet uzzi'el,Bet Uzzi'el,02,,31.870278,34.905833
+il,bet yannay,Bet Yannay,02,,32.38091,34.863502
+il,bet yehoshua`,Bet Yehoshua`,02,,32.25942,34.864141
+il,bet yehoshua,Bet Yehoshua,02,,32.25942,34.864141
+il,bet yitshak,Bet Yitshak,02,,32.327511,34.88878
+il,bet yitshak sha'ar hefer,Bet Yitshak Sha'ar Hefer,02,,32.334618,34.890519
+il,bet yizhaq,Bet Yizhaq,02,1674,32.327511,34.88878
+il,bet yizhaq sha`ar hefer,Bet Yizhaq Sha`ar Hefer,02,,32.334618,34.890519
+il,bet yosef,Bet Yosef,03,,32.383333,35.55
+il,bet zayit,Bet Zayit,02,,31.78233,35.161611
+il,bet zera`,Bet Zera`,03,,32.688603,35.572813
+il,bet zera,Bet Zera,03,,32.688603,35.572813
+il,bet zevi,Bet Zevi,04,,32.718889,34.966944
+il,b`eyr-ganim,B`eyr-Ganim,02,,32.271616,34.879556
+il,b'eyrot yish,B'eyrot Yish,01,,31.460291,34.499792
+il,b'eyr-sheva',B'eyr-Sheva',01,,31.251641,34.786281
+il,beyt-'arif,Beyt-'Arif,02,,31.996389,34.935
+il,beyt-guvrin,Beyt-Guvrin,01,,31.612172,34.895499
+il,beyt-lehem haglilit,Beyt-Lehem Haglilit,03,,32.733889,35.188611
+il,beyt-meyir,Beyt-Meyir,06,,31.793926,35.03689
+il,beyt-nabala,Beyt-Nabala,02,,31.976389,34.954444
+il,bezet,Bezet,03,,33.068467,35.135874
+il,bi`na,Bi`na,03,,32.934722,35.270833
+il,bi`nah,Bi`nah,03,,32.934722,35.270833
+il,binetiv hamoledet,Binetiv Hamoledet,01,,31.425159,34.606013
+il,bintiv hamoledet,Bintiv Hamoledet,01,,31.425159,34.606013
+il,binyamina,Binyamina,04,,32.523198,34.944994
+il,binyaminah,Binyaminah,04,,32.523198,34.944994
+il,biraam,Biraam,03,,33.059188,35.433769
+il,bir adas,Bir Adas,02,,32.15,34.916667
+il,bir`am,Bir`am,03,,33.043914,35.414492
+il,bir as-sikkah,Bir as-Sikkah,02,,32.362646,35.028177
+il,bir as-sikke,Bir as-Sikke,02,,32.362646,35.028177
+il,bir birin,Bir Birin,02,,32.321109,34.983237
+il,birburin d,Birburin D,02,,32.290668,34.998405
+il,bir el maksur,Bir el Maksur,03,,32.75,35.233333
+il,bir el saba,Bir el Saba,01,,31.251641,34.786281
+il,bir es sab`,Bir es Sab`,01,,31.251641,34.786281
+il,bir es sabe,Bir es Sabe,01,,31.251641,34.786281
+il,bir es sikka,Bir es Sikka,02,,32.362646,35.028177
+il,bir es sikke,Bir es Sikke,02,,32.362646,35.028177
+il,bir ghanim,Bir Ghanim,02,,32.271616,34.879556
+il,biria,Biria,03,,32.978319,35.499727
+il,biri,Biri,03,,32.978319,35.499727
+il,biriggeta,Biriggeta,02,,32.326352,34.962356
+il,bir`im,Bir`im,03,,33.043914,35.414492
+il,biriya bet,Biriya Bet,03,,32.978319,35.499727
+il,biriya,Biriya,03,,32.978319,35.499727
+il,biriyah,Biriyah,03,,32.978319,35.499727
+il,biriyya,Biriyya,03,,32.978319,35.499727
+il,bir jacob,Bir Jacob,02,,31.941944,34.8375
+il,bir qattar,Bir Qattar,01,,29.584298,34.882801
+il,bir salam,Bir Salam,02,,31.922778,34.825833
+il,bir salim,Bir Salim,02,,31.922778,34.825833
+il,bir tabiyah,Bir Tabiyah,01,,31.73501,34.723887
+il,birya,Birya,03,,32.978319,35.499727
+il,biryah,Biryah,03,,32.978319,35.499727
+il,biryyah,Biryyah,03,,32.978319,35.499727
+il,bismat taba'un,Bismat Taba'un,04,,32.734444,35.145833
+il,bitan aharon,Bitan Aharon,02,,32.365669,34.86956
+il,bitan,Bitan,02,,32.365669,34.86956
+il,bitaniya,Bitaniya,03,,32.699995,35.566653
+il,bitaniya haderomit,Bitaniya Haderomit,01,,31.773998,34.683049
+il,bitaniyah,Bitaniyah,03,,32.699995,35.566653
+il,bitaniyah hadromit,Bitaniyah Hadromit,01,,31.773998,34.683049
+il,bitaniyah `ilit,Bitaniyah `Ilit,03,,32.706542,35.546218
+il,bitanya,Bitanya,03,,32.699995,35.566653
+il,bitanya ha-deromit,Bitanya Ha-Deromit,01,,31.773998,34.683049
+il,bitanyah,Bitanyah,03,,32.699995,35.566653
+il,bitha,Bitha,01,,31.334313,34.633712
+il,bithah,Bithah,01,,31.334313,34.633712
+il,bitsaron,Bitsaron,01,,31.792298,34.726916
+il,biyar `adas,Biyar `Adas,02,,32.15,34.916667
+il,bizzaron,Bizzaron,01,,31.792298,34.726916
+il,bney-brit,Bney-Brit,03,,32.586129,35.442007
+il,borgata,Borgata,02,,32.326352,34.962356
+il,borgatah,Borgatah,02,,32.326352,34.962356
+il,bosmat tivon,Bosmat Tivon,04,,32.734444,35.145833
+il,botsra,Botsra,02,,32.211389,34.874722
+il,bozra,Bozra,02,,32.211389,34.874722
+il,brer,Brer,01,,31.557636,34.646636
+il,bror hayil,Bror Hayil,01,,31.557636,34.646636
+il,brosh,Brosh,01,,31.371207,34.63395
+il,brur hayil,Brur Hayil,01,,31.557636,34.646636
+il,bu`aynah,Bu`aynah,03,,32.806362,35.364858
+il,bu`eina,Bu`eina,03,,32.806362,35.364858
+il,bu`eine,Bu`eine,03,,32.806362,35.364858
+il,bukaa,Bukaa,03,,32.666623,35.555001
+il,bukei'a,Bukei'a,03,,32.977465,35.333448
+il,buqay`ah,Buqay`ah,03,,32.977465,35.333448
+il,buqei`a,Buqei`a,03,,32.977465,35.333448
+il,buregan,Buregan,03,,32.863457,35.374917
+il,buregeta,Buregeta,02,,32.326352,34.962356
+il,bureir,Bureir,01,,31.566667,34.65
+il,burgata,Burgata,02,,32.326352,34.962356
+il,burgatah,Burgatah,02,,32.326352,34.962356
+il,burgeta,Burgeta,02,,32.326352,34.962356
+il,burj el baiyara,Burj el Baiyara,01,,31.433333,34.9
+il,bustan,Bustan,03,,32.953851,35.080763
+il,bustan hagalil,Bustan HaGalil,03,,32.953851,35.080763
+il,byar `adas,Byar `Adas,02,,32.15,34.916667
+il,caesarea,Caesarea,04,,32.492125,34.892243
+il,caiffa,Caiffa,04,,32.815556,34.989167
+il,camp tel litwinsky,Camp Tel Litwinsky,02,,32.053889,34.848056
+il,carmel,Carmel,04,,32.8,34.983333
+il,carmiel,Carmiel,03,,32.917222,35.304167
+il,chelomi,Chelomi,03,,33.074719,35.146075
+il,choumra,Choumra,03,,33.084335,35.284948
+il,dabburiya,Dabburiya,03,,32.692562,35.371229
+il,dabburiyah,Dabburiyah,03,,32.692562,35.371229
+il,dabburye,Dabburye,03,,32.692562,35.371229
+il,daburiyah,Daburiyah,03,,32.692562,35.371229
+il,dafna,Dafna,03,,33.230133,35.638666
+il,dafnah,Dafnah,03,,33.230133,35.638666
+il,dafneh,Dafneh,03,,33.230133,35.638666
+il,dahi,Dahi,03,,32.620945,35.344535
+il,dalia,Dalia,03,,32.590278,35.075556
+il,daliah,Daliah,03,,32.590278,35.075556
+il,daliya,Daliya,03,,32.590278,35.075556
+il,daliyah,Daliyah,03,,32.590278,35.075556
+il,daliyah,Daliyah,04,,32.693611,35.040833
+il,daliyat ad-druz,Daliyat ad-Druz,04,,32.693611,35.040833
+il,daliyat al-karmil,Daliyat al-Karmil,04,,32.693611,35.040833
+il,daliyat ar-ruhah,Daliyat Ar-Ruhah,03,,32.6,35.066667
+il,daliyat at karmil,Daliyat at Karmil,04,,32.693611,35.040833
+il,daliyat el karmil,Daliyat el Karmil,04,,32.693611,35.040833
+il,daliyat er ruha,Daliyat er Ruha,03,,32.6,35.066667
+il,daliyya,Daliyya,03,,32.590278,35.075556
+il,dalton,Dalton,03,,33.016347,35.489019
+il,daltoun,Daltoun,03,,33.016347,35.489019
+il,damon,Damon,04,,32.405387,34.993266
+il,damun,Damun,03,,32.896944,35.175278
+il,dan,Dan,03,,33.239793,35.653354
+il,daniel,Daniel,02,,31.933333,34.931111
+il,daniyal,Daniyal,02,,31.933333,34.931111
+il,daniyel,Daniyel,02,,31.933333,34.931111
+il,dannun,Dannun,03,,32.992306,35.147901
+il,danun,Danun,03,,32.992306,35.147901
+il,danyal,Danyal,02,,31.933333,34.931111
+il,dardara,Dardara,03,,33.05,35.65
+il,daverat,Daverat,03,,32.64753,35.349674
+il,davrat,Davrat,03,,32.64753,35.349674
+il,dayr aban alef,Dayr Aban Alef,06,,31.748536,35.007044
+il,dayr aban bet,Dayr Aban Bet,06,,31.733333,34.966667
+il,dayr al-`asad,Dayr Al-`Asad,03,,32.933333,35.266667
+il,dayr al-hawah,Dayr al-Hawah,06,,31.74547,35.057398
+il,dayr al-qasi,Dayr al-Qasi,03,,33.033456,35.324426
+il,dayr hannah,Dayr Hannah,03,,32.861963,35.363652
+il,dayr sunayd,Dayr Sunayd,01,,31.566667,34.55
+il,dayr tarif,Dayr Tarif,02,,31.996389,34.935
+il,dayr yasin,Dayr Yasin,06,,31.785992,35.175586
+il,dayshum,Dayshum,03,,33.081425,35.517385
+il,deganim,Deganim,01,,31.7,34.7
+il,deganiya alef,Deganiya Alef,03,,32.707984,35.57487
+il,deganiya bet,Deganiya Bet,03,,32.699868,35.575961
+il,deganiya,Deganiya,03,,32.699868,35.575961
+il,deganiyah,Deganiyah,03,,32.699868,35.575961
+il,deganya alef,Deganya Alef,03,,32.707984,35.57487
+il,deganya bet,Deganya Bet,03,,32.699868,35.575961
+il,deganya,Deganya,03,,32.707984,35.57487
+il,deganyah alef,Deganyah Alef,03,,32.707984,35.57487
+il,deganyah bet,Deganyah Bet,03,,32.699868,35.575961
+il,deganyah,Deganyah,03,,32.707984,35.57487
+il,deir ad dubban bet,Deir ad Dubban Bet,01,,31.647473,34.873815
+il,deir dubban,Deir Dubban,06,,31.687153,34.886492
+il,deir el asad,Deir el Asad,03,,32.933333,35.266667
+il,deir el assad,Deir el Assad,03,,32.933333,35.266667
+il,deir el hawa,Deir el Hawa,06,,31.74547,35.057398
+il,deir el qasi,Deir el Qasi,03,,33.033456,35.324426
+il,deir el qassi,Deir el Qassi,03,,33.033456,35.324426
+il,deir hanna,Deir Hanna,03,8658,32.861963,35.363652
+il,deir rafat,Deir Rafat,06,,31.771177,34.944458
+il,deir sneid,Deir Sneid,01,,31.566667,34.55
+il,deir suneid,Deir Suneid,01,,31.566667,34.55
+il,deir tarif,Deir Tarif,02,,31.996389,34.935
+il,deir yasin,Deir Yasin,06,,31.785992,35.175586
+il,deishum,Deishum,03,,33.081425,35.517385
+il,deqel,Deqel,01,,31.19572,34.347705
+il,devira,Devira,01,,31.412216,34.825402
+il,devir,Devir,01,,31.412216,34.825402
+il,devora,Devora,03,,32.553094,35.264185
+il,dganiya alef,Dganiya Alef,03,,32.707984,35.57487
+il,dganiya,Dganiya,03,,32.707984,35.57487
+il,dilb,Dilb,06,,31.81082,35.12035
+il,dimona,Dimona,01,33354,31.066667,35.033333
+il,dimra,Dimra,01,,31.560238,34.566609
+il,dimrah,Dimrah,01,,31.560238,34.566609
+il,dishon,Dishon,03,,33.081425,35.517385
+il,djelil,Djelil,05,,32.159167,34.812778
+il,dobeh,Dobeh,03,,32.993424,35.13538
+il,dohan,Dohan,01,,31.738963,34.630369
+il,domona,Domona,01,,31.066667,35.033333
+il,dor,Dor,04,,32.608889,34.920556
+il,dorot,Dorot,01,,31.506839,34.645638
+il,dova,Dova,03,,32.993424,35.13538
+il,dovay,Dovay,03,,32.993424,35.13538
+il,dove',Dove',03,,32.993424,35.13538
+il,dovev,Dovev,03,,33.052216,35.40809
+il,dovrat,Dovrat,03,,32.64753,35.349674
+il,eastern shoval 1,Eastern Shoval 1,01,,31.478123,34.632039
+il,eastern shoval 5,Eastern Shoval 5,01,,31.448955,34.712913
+il,eastern shoval 6,Eastern Shoval 6,01,,31.439284,34.694782
+il,ed dahi,Ed Dahi,03,,32.620945,35.344535
+il,eden farm,Eden Farm,03,,32.472222,35.486111
+il,ef`al,Ef`al,02,,32.05,34.833333
+il,`eilabun,`Eilabun,03,,32.83622,35.400399
+il,'eilabun,'Eilabun,03,,32.83622,35.400399
+il,eilat,Eilat,01,,29.558049,34.948212
+il,eilon,Eilon,03,,33.063654,35.220086
+il,eilot,Eilot,01,,29.581193,34.963295
+il,`ein aiyala,`Ein Aiyala,04,,32.633333,34.933333
+il,`ein al mansi,`Ein al Mansi,03,,32.593056,35.180278
+il,`ein asad,`Ein Asad,03,,32.94137,35.39639
+il,einat,Einat,02,,32.082778,34.939444
+il,'ein ayala,'Ein Ayala,04,,32.633333,34.933333
+il,`ein ayalah,`Ein Ayalah,04,,32.633333,34.933333
+il,`ein dor,`Ein Dor,03,,32.656137,35.417029
+il,`ein el asad,`Ein el Asad,03,,32.94137,35.39639
+il,`ein el ma`lqa,`Ein el Ma`lqa,04,,32.500762,35.115928
+il,`ein es sahla,`Ein es Sahla,04,,32.489623,35.118901
+il,ein ganim,Ein Ganim,02,,32.0925,34.897222
+il,ein gedi,Ein Gedi,01,,31.45,35.383333
+il,`ein gev,`Ein Gev,03,,32.783411,35.638329
+il,`ein ghazal,`Ein Ghazal,04,,32.620833,34.9775
+il,`ein ha`emeq,`Ein Ha`emeq,03,,32.631667,35.084167
+il,`ein hahoresh,`Ein Hahoresh,02,,32.386285,34.939668
+il,`ein hai,`Ein Hai,02,,32.169167,34.895278
+il,`ein hakarmel,`Ein Hakarmel,04,,32.666667,34.95
+il,`ein hamifrats,`Ein Hamifrats,03,,32.903611,35.096111
+il,`ein hamifratz,`Ein Hamifratz,03,,32.903611,35.096111
+il,`ein hanatsiv,`Ein Hanatsiv,03,,32.4675,35.501667
+il,`ein hanatziv,`Ein Hanatziv,03,,32.4675,35.501667
+il,`ein ha`oved,`Ein Ha`oved,02,,32.350398,34.871192
+il,`ein harod,`Ein Harod,03,,32.55,35.383333
+il,`ein hashelosha,`Ein Hashelosha,01,,31.35109,34.401649
+il,`ein hasheloshah,`Ein Hasheloshah,01,,31.35109,34.401649
+il,`ein hashofet,`Ein Hashofet,03,,32.594722,35.099167
+il,`ein hash shofet,`Ein Hash Shofet,03,,32.594722,35.099167
+il,`ein haud,`Ein Haud,04,,32.7,34.983333
+il,`ein hayam,`Ein Hayam,04,,32.666667,34.95
+il,`ein hay,`Ein Hay,02,,32.169167,34.895278
+il,`ein hod,`Ein Hod,04,,32.7,34.983333
+il,`ein ibrahim,`Ein Ibrahim,04,,32.534094,35.148112
+il,`ein `iron,`Ein `Iron,04,,32.48478,35.006866
+il,`ein karim,`Ein Karim,01,,31.767787,35.163101
+il,`ein karmel,`Ein Karmel,04,,32.666667,34.95
+il,`ein kerem,`Ein Kerem,01,,31.767787,35.163101
+il,`ein mahel,`Ein Mahel,03,,32.723035,35.353034
+il,`ein mahil,`Ein Mahil,03,,32.723035,35.353034
+il,`ein na`amin,`Ein Na`amin,03,,32.832778,35.1025
+il,`ein naquba,`Ein Naquba,06,,31.793664,35.120642
+il,`ein netafim,`Ein Netafim,01,,29.584298,34.882801
+il,`ein rafa,`Ein Rafa,06,,31.790202,35.115283
+il,`ein sara,`Ein Sara,03,,32.988295,35.093203
+il,ein sara,Ein Sara,03,,32.988295,35.093203
+il,`ein sarah,`Ein Sarah,03,,32.988295,35.093203
+il,`ein shemer,`Ein Shemer,04,,32.463226,35.006866
+il,`ein tsurim,`Ein Tsurim,01,,31.694637,34.719396
+il,`ein vared,`Ein Vared,02,,32.264538,34.931472
+il,`ein vered,`Ein Vered,02,,32.264538,34.931472
+il,`ein wered,`Ein Wered,02,,32.264538,34.931472
+il,ein ya'akov,Ein Ya'akov,03,,33.009766,35.229821
+il,`ein ya`aqov,`Ein Ya`aqov,03,,33.009766,35.229821
+il,`ein yahav,`Ein Yahav,01,,30.653333,35.238611
+il,`ein zeitim,`Ein Zeitim,03,,32.994785,35.485127
+il,ein zetim,Ein Zetim,03,,32.994785,35.485127
+il,eitan,Eitan,01,,31.572765,34.74809
+il,eitanim,Eitanim,06,,31.778931,35.095744
+il,ekron,Ekron,02,,31.853889,34.838611
+il,el `affule,El `Affule,03,,32.611111,35.291667
+il,el `ajami,El `Ajami,05,,32.05,34.75
+il,el `amara,El `Amara,01,,30.491389,35.179722
+il,elat,Elat,01,46707,29.558049,34.948212
+il,elath,Elath,01,,29.558049,34.948212
+il,el audja,El Audja,01,,30.885365,34.422768
+il,el `auja,El `Auja,01,,30.885365,34.422768
+il,el auja el hafir,El Auja el Hafir,01,,30.885365,34.422768
+il,el bassa,El Bassa,03,,33.068467,35.135874
+il,el bukeiah,El Bukeiah,03,,32.977465,35.333448
+il,el buqei`a,El Buqei`a,03,,32.977465,35.333448
+il,el fahm,El Fahm,04,,32.517246,35.15349
+il,el fule,El Fule,03,,32.6,35.316667
+il,el fureidis,El Fureidis,04,,32.6,34.95
+il,el ghamr,El Ghamr,01,,30.491389,35.179722
+il,el haram,El Haram,05,,32.187222,34.805833
+il,el houmeima,El Houmeima,03,,33,35.1
+il,el humeima,El Humeima,03,,33,35.1
+il,el huzaiyil,El Huzaiyil,01,,31.416667,34.75
+il,el huzeil encampment,El Huzeil Encampment,01,,31.416667,34.75
+il,elifelet,Elifelet,03,,32.947224,35.547906
+il,el `imara,El `Imara,01,,31.316667,34.516667
+il,elisama,Elisama,02,,32.149167,34.923889
+il,elishama`,Elishama`,02,,32.149167,34.923889
+il,el ja`une,El Ja`une,03,,32.968938,35.542584
+il,el jiye,El Jiye,01,,31.626965,34.603343
+il,el kababir,El Kababir,04,,32.8,34.966667
+il,el khalisa,El Khalisa,03,,33.207334,35.572118
+il,el khudeira,El Khudeira,04,,32.436449,34.919562
+il,elkosh,Elkosh,03,,33.033456,35.324426
+il,el kubab,El Kubab,02,,31.870278,34.941667
+il,el majdal,El Majdal,01,,31.669256,34.57149
+il,el makr,El Makr,03,,32.934722,35.137222
+il,el manaouat,El Manaouat,03,,33.038927,35.195437
+il,el manara,El Manara,03,,32.763846,35.553061
+il,el manshiya,El Manshiya,05,,32.066667,34.766667
+il,el mansura,El Mansura,03,,32.889843,35.407034
+il,el marah,El Marah,04,,32.519075,35.00602
+il,el mas`udiya,El Mas`udiya,05,,32.083333,34.783333
+il,el mazar,El Mazar,04,,32.683333,34.966667
+il,el mazra`a,El Mazra`a,03,,32.983383,35.09837
+il,el mazra'a,El Mazra'a,03,,32.983383,35.09837
+il,el medjdel,El Medjdel,01,,31.669256,34.57149
+il,el mezra`a,El Mezra`a,03,,32.658333,35.3
+il,el mezra,El Mezra,03,,32.983383,35.09837
+il,el muharraqa,El Muharraqa,01,,31.466667,34.616667
+il,el murtafi`a,El Murtafi`a,04,,32.545448,35.175785
+il,el musheirifa el fauqa,El Musheirifa el Fauqa,04,,32.55,35.15
+il,el musheirifa,El Musheirifa,04,,32.553011,35.156245
+il,el musheirifa et tahta,El Musheirifa et Tahta,04,,32.55,35.15
+il,el musherifa,El Musherifa,04,,32.551843,35.159238
+il,el musrara,El Musrara,06,,31.783333,35.216667
+il,el mutille,El Mutille,03,,33.279182,35.579501
+il,elon,Elon,03,,33.063654,35.220086
+il,elot,Elot,01,,29.581193,34.963295
+il,eloth,Eloth,01,,29.581193,34.963295
+il,elqosh,Elqosh,03,,33.033456,35.324426
+il,el qubab,El Qubab,02,,31.870278,34.941667
+il,el qubeiba,El Qubeiba,02,,31.883333,34.766667
+il,el qubeibe,El Qubeibe,02,,31.883333,34.766667
+il,el quhab,El Quhab,02,,31.870278,34.941667
+il,el ras el ahmar,El Ras el Ahmar,03,,33.038335,35.468716
+il,elro'i,Elro'i,04,,32.709167,35.104722
+il,elroy,Elroy,04,,32.709167,35.104722
+il,el taiyiba,El Taiyiba,02,,32.266161,35.008932
+il,el `ulmaniya,El `Ulmaniya,03,,33.083333,35.583333
+il,el wardiye,El Wardiye,04,,32.8,35
+il,elyakhin,Elyakhin,02,2728,32.407931,34.924332
+il,elyaqim,Elyaqim,03,,32.629722,35.064722
+il,elyashiv,Elyashiv,02,,32.381079,34.908827
+il,el yehudiye,El Yehudiye,02,,32.035,34.886111
+il,emara,Emara,01,,31.316667,34.516667
+il,emunim,Emunim,01,,31.744438,34.680931
+il,`enat,`Enat,02,,32.082778,34.939444
+il,en ayala,En Ayala,04,,32.633333,34.933333
+il,`en ayyala,`En Ayyala,04,,32.633333,34.933333
+il,enbokeko,EnBokeko,01,,31.201389,35.363889
+il,`en boqeq,`En Boqeq,01,,31.201389,35.363889
+il,`en dor,`En Dor,03,,32.656137,35.417029
+il,en dor,En Dor,03,,32.656137,35.417029
+il,en el asad,En el Asad,03,,32.94137,35.39639
+il,`en gannim,`En Gannim,02,,32.0925,34.897222
+il,engeddi,Engeddi,01,,31.45,35.383333
+il,`en gedi,`En Gedi,01,,31.45,35.383333
+il,`en gev,`En Gev,03,,32.783411,35.638329
+il,`en habesor,`En HaBesor,01,,31.281934,34.448343
+il,en habesor,En HaBesor,01,,31.281934,34.448343
+il,`en ha`emeq,`En Ha`Emeq,03,,32.631667,35.084167
+il,`en hahoresh,`En HaHoresh,02,,32.386285,34.939668
+il,en hahoresh,En HaHoresh,02,,32.386285,34.939668
+il,`en hamifraz,`En HaMifraz,03,,32.903611,35.096111
+il,en hanatsiv,En Hanatsiv,03,,32.4675,35.501667
+il,`en hanaziv,`En HaNaziv,03,,32.4675,35.501667
+il,`en harod,`En Harod,03,,32.55,35.383333
+il,`en harod ihud,`En Harod Ihud,03,,32.566667,35.383333
+il,`en harod me'uhad,`En Harod Me'uhad,03,,32.55,35.383333
+il,`en hashelosha,`En HaShelosha,01,,31.35109,34.401649
+il,en hashelosha,En HaShelosha,01,,31.35109,34.401649
+il,`en hashofet,`En HaShofet,03,,32.594722,35.099167
+il,`en hitkhelet,`En Hitkhelet,02,,32.351234,34.863748
+il,en hitkhelet,En Hitkhelet,02,,32.351234,34.863748
+il,`en hod,`En Hod,04,,32.7,34.983333
+il,`en ibrahim,`En Ibrahim,04,,32.534094,35.148112
+il,`en `iron,`En `Iron,04,,32.48478,35.006866
+il,en iron,En Iron,04,,32.48478,35.006866
+il,`en karmel,`En Karmel,04,,32.666667,34.95
+il,`en kerem,`En Kerem,01,,31.767787,35.163101
+il,en kerem,En Kerem,01,,31.767787,35.163101
+il,`en mahil,`En Mahil,03,,32.723035,35.353034
+il,`en na`aman,`En Na`aman,03,,32.832778,35.1025
+il,en nakuba,En Nakuba,06,,31.793664,35.120642
+il,en nasira,En Nasira,03,,32.703611,35.295556
+il,en nawaqir,En Nawaqir,03,,33.090632,35.213501
+il,`en netafim,`En Netafim,01,,29.584298,34.882801
+il,en nuqeib,En Nuqeib,03,,32.783333,35.633333
+il,`en sara,`En Sara,03,,32.988295,35.093203
+il,`en sarid,`En Sarid,02,,32.273665,34.935703
+il,en sarid,En Sarid,02,,32.273665,34.935703
+il,`en shemer,`En Shemer,04,,32.463226,35.006866
+il,en shemer,En Shemer,04,,32.463226,35.006866
+il,en tsurim,En Tsurim,01,,31.694637,34.719396
+il,en vered,En Vered,02,,32.264538,34.931472
+il,`en wered,`En Wered,02,,32.264538,34.931472
+il,`en ya`aqov,`En Ya`aqov,03,,33.009766,35.229821
+il,`en yahav,`En Yahav,01,,30.653333,35.238611
+il,`en zetim,`En Zetim,03,,32.994785,35.485127
+il,`en zurim,`En Zurim,01,,31.694637,34.719396
+il,`eqron,`Eqron,02,,31.853889,34.838611
+il,eqron ha-hadasha,Eqron Ha-Hadasha,02,,31.84429,34.803677
+il,`eqron hehadashah,`Eqron Hehadashah,02,,31.84429,34.803677
+il,eres,Eres,01,,31.560238,34.566609
+il,erets naftali,Erets Naftali,03,,32.793373,35.470464
+il,erez,Erez,01,,31.560238,34.566609
+il,er rame,Er Rame,03,,32.938442,35.367502
+il,er ramle,Er Ramle,02,,31.925278,34.866944
+il,er reina,Er Reina,03,,32.723611,35.3125
+il,esdud,Esdud,01,,31.75,34.666667
+il,eshbol,Eshbol,01,,31.44677,34.667202
+il,eshel hanasi,Eshel HaNasi,01,,31.325672,34.69744
+il,eshhar,Eshhar,03,,32.886111,35.301389
+il,eshkolot,Eshkolot,01,,31.683333,34.666667
+il,esh shajara,Esh Shajara,03,,32.754667,35.408371
+il,esh sheikh bureik,Esh Sheikh Bureik,04,,32.666667,34.933333
+il,esh sheikh dannun,Esh Sheikh Dannun,03,,32.992306,35.147901
+il,esh sheikh daud,Esh Sheikh Daud,03,,32.994924,35.148337
+il,esh sheikh dawud,Esh Sheikh Dawud,03,,32.994924,35.148337
+il,esh sheikh jarrah,Esh Sheikh Jarrah,06,,31.8,35.233333
+il,esh sheikh muwannis,Esh Sheikh Muwannis,05,,32.1,34.8
+il,esh shejara,Esh Shejara,03,,32.754667,35.408371
+il,eshta'ol,Eshta'ol,06,,31.780719,35.009944
+il,esneid,Esneid,01,,31.566667,34.55
+il,etan,Etan,01,,31.572765,34.74809
+il,etanim,Etanim,06,,31.778931,35.095744
+il,e-tayibe,E-Tayibe,02,,32.266161,35.008932
+il,`ets haiyim,`Ets Haiyim,02,,31.930278,34.942778
+il,et taiyba,Et Taiyba,03,,32.604153,35.444835
+il,et taiyiba,Et Taiyiba,02,,32.266161,35.008932
+il,et taiyiba,Et Taiyiba,03,,32.604153,35.444835
+il,et taiyibe,Et Taiyibe,02,,32.266161,35.008932
+il,et tayyibeh,Et Tayyibeh,02,,32.266161,35.008932
+il,et tira,Et Tira,02,,32.234097,34.950232
+il,et tire,Et Tire,02,,32.234097,34.950232
+il,etzion geber,Etzion Geber,01,,29.558049,34.948212
+il,even menahem,Even Menahem,03,,33.073913,35.294496
+il,even pelet,Even Pelet,03,,32.939094,35.568394
+il,even sapir,Even Sapir,06,,31.763188,35.134216
+il,even sappir,Even Sappir,06,,31.763188,35.134216
+il,even shemu'el,Even Shemu'el,01,,31.57572,34.762972
+il,even yahuda,Even Yahuda,02,,32.269593,34.887592
+il,even yehuda,Even Yehuda,02,9091,32.269593,34.887592
+il,even yehudah,Even Yehudah,02,,32.269593,34.887592
+il,even yitshak,Even Yitshak,03,,32.557157,35.077036
+il,even yitshaq,Even Yitshaq,03,,32.557157,35.077036
+il,even yizhaq,Even Yizhaq,03,,32.557157,35.077036
+il,evlayim,Evlayim,03,,32.820556,35.189167
+il,`evron,`Evron,03,,32.995558,35.100917
+il,evron,Evron,03,,32.995558,35.100917
+il,eyal,Eyal,02,,32.209444,34.978611
+il,`eyn-`ibrahim,`Eyn-`Ibrahim,04,,32.534094,35.148112
+il,'eys hayim,'Eys Hayim,02,,31.930278,34.942778
+il,`ezer,`Ezer,01,,31.742952,34.673061
+il,ezer,Ézer,01,,31.742952,34.673061
+il,`ezrah uvitsaron,`Ezrah Uvitsaron,02,,31.983333,34.783333
+il,ezra u bizaron,Ezra u Bizaron,02,,31.983333,34.783333
+il,`ezra uvitsaron,`Ezra Uvitsaron,02,,31.983333,34.783333
+il,`ezra uvitzaron,`Ezra Uvitzaron,02,,31.983333,34.783333
+il,`ezra uvizzaron,`Ezra Uvizzaron,02,,31.983333,34.783333
+il,`ezra ve bitsaron,`Ezra ve Bitsaron,02,,31.983333,34.783333
+il,`ezuz,`Ezuz,01,,30.792445,34.472671
+il,ezuz,Ezuz,01,,30.792445,34.472671
+il,faradia,Faradia,03,,32.932693,35.433793
+il,far`am,Far`am,03,,32.983333,35.533333
+il,fardisiya,Fardisiya,02,,32.277081,35.011032
+il,fardis nabulsi,Fardis Nabulsi,02,,32.306271,34.950303
+il,farradiya,Farradiya,03,,32.932693,35.433793
+il,farradiyah,Farradiyah,03,,32.932693,35.433793
+il,farwana alef,Farwana Alef,03,,32.45,35.497222
+il,farwanah c,Farwanah C,03,,32.441667,35.4875
+il,fassuta,Fassuta,03,2985,33.048952,35.308935
+il,fassutah,Fassutah,03,,33.048952,35.308935
+il,fir`im,Fir`im,03,,32.983333,35.533333
+il,freidis,Freidis,04,,32.6,34.95
+il,fulah,Fulah,03,,32.608333,35.308333
+il,furaydis,Furaydis,04,,32.6,34.95
+il,fureidis,Fureidis,04,9805,32.6,34.95
+il,ga`ash,Ga`ash,02,,32.228544,34.823879
+il,ga`aton,Ga`aton,03,,32.995558,35.100917
+il,gadish,Gadish,03,,32.558735,35.244706
+il,gadot,Gadot,03,,33.016667,35.616667
+il,gal`ed,Gal`ed,03,,32.557157,35.077036
+il,gal'on,Gal'on,01,,31.633663,34.847584
+il,gane`am,Gane`am,02,,32.156667,34.914722
+il,ganei`am,Ganei`am,02,,32.156667,34.914722
+il,gane yehuda,Gane Yehuda,02,,32.044722,34.885833
+il,gan,Gan,05,,32.080556,34.814167
+il,gan hadarom,Gan HaDarom,02,,31.804131,34.699937
+il,gan haiyim,Gan Haiyim,02,,32.192778,34.898611
+il,gan hasharon,Gan HaSharon,02,,32.19,34.908611
+il,gan hashomron,Gan Hashomron,04,,32.467111,34.995743
+il,gan hayim,Gan Hayim,02,,32.192778,34.898611
+il,gan hayyim,Gan Hayyim,02,,32.192778,34.898611
+il,gan hefer,Gan Hefer,02,,32.334618,34.890519
+il,ganne`am,Ganne`am,02,,32.156667,34.914722
+il,gannei`am,Gannei`am,02,,32.156667,34.914722
+il,ganne tiqwa,Ganne Tiqwa,02,12408,32.060278,34.874722
+il,ganne yehuda,Ganne Yehuda,02,,32.044722,34.885833
+il,ganne yohanan,Ganne Yohanan,02,,31.858889,34.837778
+il,ganne-yona,Ganne-Yona,02,,31.858889,34.837778
+il,gannot,Gannot,05,,32.018611,34.829167
+il,gannot hadar,Gannot Hadar,02,,32.32244,34.901784
+il,gannot-yakhin,Gannot-Yakhin,02,,32.044722,34.885833
+il,ganot,Ganot,05,,32.018611,34.829167
+il,gan shelom,Gan Shelom,02,,31.876944,34.798333
+il,gan shelomo,Gan Shelomo,02,,31.876944,34.798333
+il,gan shelomoh,Gan Shelomoh,02,,31.876944,34.798333
+il,gan shemu'el,Gan Shemu'el,04,,32.449202,34.952342
+il,gan shlomoh,Gan Shlomoh,02,,31.876944,34.798333
+il,ganshmuel,Ganshmuel,04,,32.449202,34.952342
+il,gan shomeron,Gan Shomeron,04,,32.467111,34.995743
+il,gan shomron,Gan Shomron,04,,32.467111,34.995743
+il,gan-shoriq,Gan-Shoriq,02,,31.944444,34.757222
+il,gan soreq,Gan Soreq,02,,31.944444,34.757222
+il,gan yavne,Gan Yavne,02,14830,31.787373,34.706592
+il,gan yavneh,Gan Yavneh,02,,31.787373,34.706592
+il,gan yoshiya,Gan Yoshiya,02,,32.349283,34.993976
+il,gan yoshiyya,Gan Yoshiyya,02,,32.349283,34.993976
+il,gardosh,Gardosh,03,,32.932693,35.433793
+il,gat 3a,Gat 3A,01,,31.656902,34.776928
+il,gat b,Gat B,01,,31.658233,34.794704
+il,gat carmel,Gat Carmel,04,,32.398428,35.039328
+il,gat c,Gat C,01,,31.670899,34.779749
+il,gat,Gat,01,,31.627482,34.793975
+il,gath hepher,Gath Hepher,03,,32.739382,35.324799
+il,gat karmel,Gat Karmel,04,,32.398428,35.039328
+il,ga`ton,Ga`ton,03,,33.006283,35.214769
+il,ga'ton,Ga'ton,03,,33.006283,35.214769
+il,gat rimmon,Gat Rimmon,02,,32.069722,34.883056
+il,gat rimon,Gat Rimon,02,,32.069722,34.883056
+il,gat shalosh gimel,Gat Shalosh Gimel,01,,31.670899,34.779749
+il,gazit,Gazit,03,,32.638931,35.446902
+il,ge'a,Ge'a,01,,31.626965,34.603343
+il,geah,Geah,01,,31.626965,34.603343
+il,gealya,Gealya,01,,31.688096,34.637802
+il,ge'alya,Ge'alya,02,,31.882222,34.762222
+il,gealyah,Gealyah,01,,31.688096,34.637802
+il,gedera,Gedera,02,14267,31.814561,34.779979
+il,gederah,Gederah,02,,31.814561,34.779979
+il,gefen,Gefen,06,,31.740846,34.87926
+il,geia,Geia,01,,31.626965,34.603343
+il,geiah,Geiah,01,,31.626965,34.603343
+il,gelilo,Gelilo,05,,32.159167,34.812778
+il,gelilot,Gelilot,05,,32.159167,34.812778
+il,gelil yam,Gelil Yam,05,,32.158611,34.830278
+il,genossar,Genossar,03,,32.847128,35.523352
+il,gerofit,Gerofit,01,,29.933333,35.066667
+il,gesher,Gesher,03,,32.6211,35.551339
+il,gesher haziv,Gesher Haziv,03,,33.041419,35.11165
+il,gesher haziw,Gesher HaZiw,03,,33.041419,35.11165
+il,gesher naharayim,Gesher Naharayim,03,,32.6211,35.551339
+il,gesher zarka,Gesher Zarka,04,,32.536845,34.912703
+il,geulim,Geulim,02,,32.299618,34.945141
+il,ge'ulim,Ge'ulim,06,,31.766667,35.216667
+il,ge'ulle teman,Ge'ulle Teman,02,,32.392555,34.902148
+il,ge'ullim,Ge'ullim,02,,32.299618,34.945141
+il,ge'ullim,Ge'ullim,06,,31.766667,35.216667
+il,geva` carmel,Geva` Carmel,04,,32.65,34.95
+il,geva`,Geva`,03,,32.569444,35.373611
+il,geva` hakarmel,Geva` Hakarmel,04,,32.65,34.95
+il,geva` karmel,Geva` Karmel,04,,32.65,34.95
+il,gevar`am,Gevar`am,01,,31.592116,34.612401
+il,gevar'am,Gevar'am,01,,31.592116,34.612401
+il,gevataym,Gevataym,05,,32.069722,34.811667
+il,gevat,Gevat,03,,32.673889,35.208056
+il,gevim,Gevim,01,,31.507557,34.598686
+il,gevulot,Gevulot,01,,31.210719,34.465529
+il,gezer,Gezer,02,,31.876111,34.9225
+il,gharbiya,Gharbiya,04,,32.418065,35.043119
+il,ghorein,Ghorein,03,,33.056598,35.237724
+il,giaffa,Giaffa,05,,32.033333,34.75
+il,gi`at `ada,Gi`at `Ada,04,,32.519075,35.00602
+il,gibbeton,Gibbeton,02,,31.889722,34.796667
+il,gibton,Gibton,02,,31.889722,34.796667
+il,gid`ona,Gid`ona,03,,32.547222,35.358333
+il,gidron,Gidron,01,,30.774167,35.238611
+il,gil`am,Gil`am,03,,32.819444,35.143611
+il,gilat,Gilat,01,,31.327605,34.652016
+il,gilboa`,Gilboa`,03,,32.547222,35.358333
+il,gilgal,Gilgal,02,,32.155833,34.952778
+il,gimzo,Gimzo,02,,31.930278,34.942778
+il,gimzu,Gimzu,02,,31.930278,34.942778
+il,ginegar,Ginegar,03,,32.663056,35.258333
+il,gineigar,Gineigar,03,,32.663056,35.258333
+il,ginnaton,Ginnaton,02,,31.963611,34.914167
+il,ginnegar,Ginnegar,03,,32.663056,35.258333
+il,ginneigar,Ginneigar,03,,32.663056,35.258333
+il,ginneisar,Ginneisar,03,,32.847128,35.523352
+il,ginnosar,Ginnosar,03,,32.847128,35.523352
+il,ginosar,Ginosar,03,,32.847128,35.523352
+il,ginton,Ginton,02,,31.996389,34.935
+il,giscala,Giscala,03,,33.022157,35.446941
+il,gishala,Gishala,03,,33.022157,35.446941
+il,gitta,Gitta,03,,32.967541,35.249266
+il,giv`at `ada,Giv`at `Ada,04,,32.519075,35.00602
+il,giv'at ada,Giv'at Ada,04,,32.519075,35.00602
+il,giv`at `adah,Giv`at `Adah,04,,32.519075,35.00602
+il,giv`at adda,Giv`at Adda,04,,32.519075,35.00602
+il,giv`at avni,Giv`at Avni,03,,32.776817,35.437466
+il,giv`atayim,Giv`atayim,05,,32.069722,34.811667
+il,giv`at-brener,Giv`at-Brener,02,,31.866667,34.802222
+il,giv`at brenner,Giv`at Brenner,02,,31.866667,34.802222
+il,giv`ath `ada,Giv`ath `Ada,04,,32.519075,35.00602
+il,givat hahamisch,Givat Hahamisch,06,,31.771177,34.944458
+il,givat hahamscha,Givat Hahamscha,06,,31.771177,34.944458
+il,givat haim,Givat Haim,02,,32.395306,34.931871
+il,giv`at haiyim,Giv`at Haiyim,02,,32.395306,34.931871
+il,giv`at hapo`alim,Giv`at HaPo`alim,04,,32.52571,34.93656
+il,giv'at hapo'alim,Giv'at HaPo'alim,04,,32.52571,34.93656
+il,giv`at hashelosha,Giv`at HaShelosha,02,,32.096667,34.920278
+il,giv`at hasheloshah,Giv`at Hasheloshah,02,,32.096667,34.920278
+il,giv`at hashloshah,Giv`at Hashloshah,02,,32.096667,34.920278
+il,giv`at haviva,Giv`at Haviva,04,,32.4573,35.021444
+il,giv'at haviva,Giv'at Haviva,04,,32.4573,35.021444
+il,givat hayim,Givat Hayim,02,,32.395306,34.931871
+il,giv`at hayyim,Giv`at Hayyim,02,,32.395306,34.931871
+il,giv`ath binyamin,Giv`ath Binyamin,04,,32.523198,34.944994
+il,giv`at hen,Giv`at Hen,02,,32.1675,34.875
+il,giv`at herzl,Giv`at Herzl,05,,32.05,34.766667
+il,giv`ati,Giv`ati,01,,31.732996,34.679946
+il,giv`at koah,Giv`at Koah,02,,32.030278,34.936667
+il,giv`at mordekhay,Giv`at Mordekhay,06,,31.766667,35.2
+il,giv`at nili,Giv`at Nili,04,,32.548642,35.040262
+il,giv'at nili,Giv'at Nili,04,,32.548642,35.040262
+il,giv`at olga,Giv`at Olga,04,,32.438425,34.886072
+il,giv'at olga,Giv'at Olga,04,,32.438425,34.886072
+il,giv`at `oz,Giv`at `Oz,03,,32.555382,35.198778
+il,giv'at oz,Giv'at Oz,03,,32.555382,35.198778
+il,giv'at rahel,Giv'at Rahel,01,,30.876467,34.459653
+il,giv`at rambam,Giv`at Rambam,05,,32.066667,34.8
+il,giv`at ramban,Giv`At Ramban,05,,32.066667,34.8
+il,giv`at ram,Giv`at Ram,06,,31.783333,35.2
+il,giv`at shapira,Giv`at Shapira,02,,32.357439,34.876008
+il,giv`at shappira,Giv`at Shappira,02,,32.357439,34.876008
+il,giv`at sharet,Giv`at Sharet,06,,31.738217,34.978998
+il,giv'at sharet,Giv'at Sharet,06,,31.738217,34.978998
+il,giv`at shaul bet,Giv`at Shaul Bet,06,,31.785992,35.175586
+il,giv`at sha'ul,Giv`at Sha'ul,06,,31.788315,35.190557
+il,giv`at shemesh,Giv`at Shemesh,06,,31.771177,34.944458
+il,giv'at shemesh,Giv'at Shemesh,06,,31.771177,34.944458
+il,giv`at shemu'el,Giv`at Shemu'el,02,,32.075278,34.846667
+il,giv`at shloshah,Giv`at Shloshah,02,,32.096667,34.920278
+il,giv`at shmuel,Giv`at Shmuel,02,,32.075278,34.846667
+il,giv`at ye`arim,Giv`at Ye`arim,06,,31.786526,35.091823
+il,giv'at ye'arim,Giv'at Ye'arim,06,,31.786526,35.091823
+il,giv`at yesha`yaha,Giv`at Yesha`yaha,06,,31.671186,34.944724
+il,giv`at yesha`yahu,Giv`at Yesha`yahu,06,,31.671186,34.944724
+il,giv'at yesha'yahu,Giv'at Yesha'yahu,06,,31.671186,34.944724
+il,giv`olim,Giv`olim,01,,31.39658,34.591361
+il,giv`ot mordekhay,Giv`ot Mordekhay,06,,31.75,35.166667
+il,giv`ot zaid,Giv`ot Zaid,04,,32.699167,35.106944
+il,giv`ot zayd,Giv`ot Zayd,04,,32.699167,35.106944
+il,giv`ot zed,Giv`ot Zed,04,,32.699167,35.106944
+il,giv`ot zeid,Giv`ot Zeid,04,,32.699167,35.106944
+il,givton,Givton,02,,31.889722,34.796667
+il,gizo,Gizo,06,,31.804736,34.938518
+il,glil yam,Glil Yam,05,,32.158611,34.830278
+il,gnigar,Gnigar,03,,32.663056,35.258333
+il,gonen,Gonen,03,,33.123561,35.647553
+il,gonen,Gonen,06,,31.760229,35.20684
+il,goren,Goren,03,,33.056598,35.237724
+il,gornot hagalil,Gornot HaGalil,03,,33.059392,35.249817
+il,grofit,Grofit,01,,29.933333,35.066667
+il,groufite,Groufite,01,,29.933333,35.066667
+il,gulis,Gulis,03,,32.942671,35.182781
+il,gush halab,Gush Halab,03,,33.022157,35.446941
+il,gush halav,Gush Halav,03,,33.022157,35.446941
+il,gush-halaw,Gush-Halaw,03,,33.022157,35.446941
+il,gvat,Gvat,03,,32.673889,35.208056
+il,habonim,Habonim,03,,32.974472,35.603947
+il,habonim,HaBonim,04,,32.633333,34.933333
+il,habth,Habth,03,,33.022157,35.446941
+il,hada ramatayim,Hada Ramatayim,02,,32.150833,34.888333
+il,hadar `am,Hadar `Am,02,,32.350371,34.899922
+il,hadar am,Hadar Am,02,,32.350371,34.899922
+il,hadar hacarmel,Hadar Hacarmel,04,,32.8,35
+il,hadar,Hadar,02,,32.166667,34.883333
+il,hadar hakarmel,Hadar HaKarmel,04,,32.8,35
+il,hadar ramataim,Hadar Ramataim,02,,32.150833,34.888333
+il,hadar ramatayim,Hadar Ramatayim,02,,32.150833,34.888333
+il,hadar yosef,Hadar Yosef,05,,32.109722,34.82
+il,hadasha peki'in,Hadasha Peki'in,03,,32.982934,35.322821
+il,hadasim,Hadasim,02,,32.285719,34.884825
+il,hadassim,Hadassim,02,,32.285719,34.884825
+il,hadassin,Hadassin,02,,32.285719,34.884825
+il,hadera,Hadera,04,,32.436449,34.919562
+il,haderah,Haderah,04,,32.436449,34.919562
+il,hadeyra,Hadeyra,04,,32.436449,34.919562
+il,hadid,Hadid,02,,31.968333,34.934444
+il,hadid illit,Hadid Illit,02,,31.968333,34.934444
+il,haditha,Haditha,02,,31.968333,34.934444
+il,hadithah,Hadithah,02,,31.968333,34.934444
+il,hafets haiyim,Hafets Haiyim,02,,31.788315,34.800109
+il,hafets hayim,Hafets Hayim,02,,31.788315,34.800109
+il,hafets hayyim,Hafets Hayyim,02,,31.788315,34.800109
+il,hafez hayyim,Hafez Hayyim,02,,31.788315,34.800109
+il,hagar`in habavli,Hagar`in Habavli,03,,32.588796,35.553574
+il,hageshamah,Hageshamah,06,,31.79711,35.065251
+il,hagor,Hagor,02,,32.1375,34.946667
+il,hagosherim,HaGosherim,03,,33.220607,35.623312
+il,hagoshrim,HaGoshrim,03,,33.220607,35.623312
+il,ha-goverim,Ha-Goverim,03,,33.016667,35.616667
+il,hagshama,Hagshama,06,,31.79711,35.065251
+il,hagshamah,Hagshamah,06,,31.79711,35.065251
+il,hahar haadom,Hahar Haadom,03,,33.038335,35.468716
+il,hahoshlim,Hahoshlim,03,,32.928237,35.54154
+il,hahoterim,HaHoterim,04,,32.75,34.95
+il,hahotrim,Hahotrim,04,,32.75,34.95
+il,haifa,Haifa,04,269961,32.815556,34.989167
+il,hakarmel,HaKarmel,04,,32.8,34.983333
+il,hakiriah,Hakiriah,05,,32.066667,34.783333
+il,hakiriyah,Hakiriyah,05,,32.066667,34.783333
+il,hakirya,Hakirya,05,,32.066667,34.783333
+il,hakiryah,HaKiryah,05,,32.066667,34.783333
+il,halasa,Halasa,03,,33.207334,35.572118
+il,halsa,Halsa,03,,33.207334,35.572118
+il,haluts,Haluts,03,,32.949944,35.311131
+il,haluz,Haluz,03,,32.949944,35.311131
+il,hama`apil,Hama`apil,02,,32.378019,34.983366
+il,hamadiyah,Hamadiyah,03,,32.518333,35.518333
+il,hamadya,Hamadya,03,,32.518333,35.518333
+il,hamaginim,Hamaginim,03,,32.994785,35.485127
+il,hamam,Hamam,03,,32.829545,35.491945
+il,hama`pil,HaMa`pil,02,,32.378019,34.983366
+il,hama'pil,HaMa'pil,02,,32.378019,34.983366
+il,hammat,Hammat,03,,32.768875,35.54811
+il,haniel,Haniel,02,,32.333057,34.950506
+il,hanieyl,Hanieyl,02,,32.333057,34.950506
+il,hanita,Hanita,03,,33.087457,35.17364
+il,hanitah,Hanitah,03,,33.087457,35.17364
+il,hanni'el,Hanni'el,02,,32.333057,34.950506
+il,hannita,Hannita,03,,33.087457,35.17364
+il,hanuta,Hanuta,03,,33.087457,35.17364
+il,ha`ogen,Ha`Ogen,02,,32.362105,34.923918
+il,haogen,HaOgen,02,,32.362105,34.923918
+il,haon,HaOn,03,,32.724167,35.621667
+il,haqirya,HaQirya,05,,32.066667,34.783333
+il,hararit,Hararit,03,,32.845724,35.368232
+il,harashim,Harashim,03,,32.956892,35.327909
+il,har'el,Har'el,06,,31.809062,34.948653
+il,harish,Harish,04,,32.460962,35.043501
+il,harosh ha'adom,Harosh Ha'adom,03,,33.038335,35.468716
+il,har tov,Har Tov,06,,31.764278,34.999705
+il,hartuv,Hartuv,06,,31.764278,34.999705
+il,harutsim,Harutsim,02,,32.227594,34.864859
+il,haruvit,Haruvit,01,,31.75,34.85
+il,haruzim,Haruzim,02,,32.227594,34.864859
+il,hasharon,Hasharon,03,,32.6775,35.2025
+il,hasharon ramat david,Hasharon Ramat David,03,,32.6775,35.2025
+il,hashomer farm,Hashomer Farm,03,,32.757497,35.404267
+il,hashomer haza`ir,HaShomer HaZa`ir,01,,31.335586,34.395069
+il,hash sharon,Hash Sharon,03,,32.6775,35.2025
+il,hasolelim,HaSolelim,03,,32.750556,35.235556
+il,hassolelim,Hassolelim,03,,32.750556,35.235556
+il,hatikva,Hatikva,05,,32.05,34.783333
+il,hatsav,Hatsav,01,,31.780518,34.76915
+il,hatserim,Hatserim,01,,31.24057,34.713901
+il,hatsofim alef,Hatsofim Alef,04,,32.555491,34.916375
+il,hatsofim bet,Hatsofim Bet,01,,31.424258,34.491634
+il,hatsofim dalet,Hatsofim Dalet,02,,31.933056,34.707222
+il,hatsofim gimel,Hatsofim Gimel,01,,31.24057,34.713901
+il,hatsor ashdod,Hatsor Ashdod,01,,31.770759,34.719846
+il,hatsor hagelilit,Hatsor HaGelilit,03,,32.980486,35.542425
+il,hatsor,Hatsor,01,,31.770759,34.719846
+il,hatsrot yasaf,Hatsrot Yasaf,03,,32.960732,35.08061
+il,hatzeva,Hatzeva,01,,30.8,35.25
+il,hatzor,Hatzor,01,,31.770759,34.719846
+il,hatzor,Hatzor,03,,32.980486,35.542425
+il,havatselet hasharon,Havatselet Hasharon,02,,32.362632,34.859345
+il,havatselet,Havatselet,02,,31.878889,34.818056
+il,havat-shalem,Havat-Shalem,05,,32.045,34.811389
+il,havat-shemuel,Havat-Shemuel,03,,32.566667,35.55
+il,havazelet,Havazelet,02,,31.878889,34.818056
+il,havazzelet hasharon,Havazzelet HaSharon,02,,32.362632,34.859345
+il,havazzelet,Havazzelet,02,,31.878889,34.818056
+il,hawwat `eden,Hawwat `Eden,03,,32.472222,35.486111
+il,hawwat hashomer,Hawwat HaShomer,03,,32.757497,35.404267
+il,hawwat maresha,Hawwat Maresha,02,,31.616667,34.866667
+il,hawwat shalem,Hawwat Shalem,05,,32.045,34.811389
+il,hawwat shemu'el,Hawwat Shemu'el,03,,32.566667,35.55
+il,hayogev,HaYogev,03,,32.608889,35.199444
+il,hayy al musrarah,Hayy al Musrarah,06,,31.783333,35.216667
+il,hazav,Hazav,01,,31.780518,34.76915
+il,hazefim dalet,Hazefim Dalet,02,,31.933056,34.707222
+il,hazerim,Hazerim,01,,31.24057,34.713901
+il,hazerot yasaf,Hazerot Yasaf,03,,32.960732,35.08061
+il,hazeva,Hazeva,01,,30.8,35.25
+il,hazon,Hazon,03,,32.906594,35.395305
+il,hazor ashdod,Hazor Ashdod,01,,31.770759,34.719846
+il,hazorea`,HaZorea`,03,,32.644722,35.120833
+il,hazore`im,HaZore`im,03,,32.747073,35.502741
+il,hazore'im,HaZore'im,03,,32.747073,35.502741
+il,hazor hagelilit,Hazor HaGelilit,03,,32.980486,35.542425
+il,hazor,Hazor,03,,32.980486,35.542425
+il,hazor`im,Hazor`im,03,,32.747073,35.502741
+il,hazrot yasaf,Hazrot Yasaf,03,,32.960732,35.08061
+il,hedera,Hedera,04,,32.436449,34.919562
+il,hedora,Hedora,04,,32.436449,34.919562
+il,hefa,Hefa,04,,32.815556,34.989167
+il,hefsi-bah,Hefsi-bah,04,,32.459288,34.898153
+il,heftsi bah,Heftsi Bah,03,,32.516667,35.420833
+il,heftsi bah,Heftsi Bah,04,,32.459288,34.898153
+il,heftsi vah,Heftsi Vah,03,,32.516667,35.420833
+il,heftsi vah,Heftsi Vah,04,,32.459288,34.898153
+il,hefzi bah,Hefzi Bah,03,,32.516667,35.420833
+il,hefzi bah,Hefzi Bah,04,,32.459288,34.898153
+il,heifa,Heifa,04,,32.815556,34.989167
+il,heila,Heila,03,,32.791457,35.483343
+il,hela,Hela,03,,32.791457,35.483343
+il,heles,Heles,01,,31.577883,34.658307
+il,helets,Helets,01,,31.577883,34.658307
+il,heletz,Heletz,01,,31.577883,34.658307
+il,helez,Helez,01,,31.577883,34.658307
+il,hemdat yamim,Hemdat Yamim,03,,32.94895,35.424763
+il,hemed,Hemed,02,,32.017778,34.844167
+il,hephzibah,Hephzibah,04,,32.459288,34.898153
+il,herbya,Herbya,01,,31.604387,34.542596
+il,herev laet,Herev Laet,02,,32.401359,34.916162
+il,herev le'et,Herev Le'et,02,,32.401359,34.916162
+il,hermonim,Hermonim,03,,32.518333,35.518333
+il,herseliya,Herseliya,05,,32.165833,34.836667
+il,hertsliyah,Hertsliyah,05,,32.165833,34.836667
+il,herut america bet,Herut America Bet,02,,32.379659,34.869915
+il,herut bet,Herut Bet,02,,32.379659,34.869915
+il,herut c,Herut C,02,,32.350371,34.899922
+il,herut gimel,Herut Gimel,02,,32.350371,34.899922
+il,herut,Herut,02,,32.240178,34.915833
+il,hervlia b,Hervlia B,05,,32.165833,34.836667
+il,hervlia,Hervlia,05,,32.165833,34.836667
+il,herzlia b,Herzlia B,05,,32.165833,34.836667
+il,herzliya b,Herzliya B,05,,32.166667,34.816667
+il,herzliya,Herzliya,05,,32.165833,34.836667
+il,herzliyah,Herzliyah,05,,32.165833,34.836667
+il,herzliyya b,Herzliyya B,05,,32.166667,34.816667
+il,herzliyya,Herzliyya,05,,32.165833,34.836667
+il,hever,Hever,03,,32.547346,35.264504
+il,hevronah,Hevronah,01,,31.264891,34.847665
+il,heyla,Heyla,03,,32.791457,35.483343
+il,hibat tsion,Hibat Tsion,02,,32.397314,34.91249
+il,hibat tsiyon,Hibat Tsiyon,02,,32.397314,34.91249
+il,hibat zion,Hibat Zion,02,,32.397314,34.91249
+il,hibbat zion,Hibbat Zion,02,,32.397314,34.91249
+il,hibbat ziyyon,Hibbat Ziyyon,02,,32.397314,34.91249
+il,hilla,Hilla,03,,33.035803,35.24565
+il,himmah,Himmah,03,,32.768875,35.54811
+il,hirbet mayser,Hirbet Mayser,04,,32.444445,35.04134
+il,hirbiyah,Hirbiyah,01,,31.604387,34.542596
+il,hirbiya,Hirbiya,01,,31.604387,34.542596
+il,hirbya,Hirbya,01,,31.604387,34.542596
+il,hittin,Hittin,03,,32.799613,35.502759
+il,hodayot,Hodayot,03,,32.788567,35.43486
+il,hod hasharon,Hod HaSharon,02,42996,32.150833,34.888333
+il,hodiyah,Hodiyah,01,,31.673513,34.637749
+il,hodiya,Hodiya,01,,31.673513,34.637749
+il,hodiyya,Hodiyya,01,,31.673513,34.637749
+il,hofit,Hofit,02,,32.385646,34.874253
+il,hoglah,Hoglah,02,,32.387669,34.927587
+il,hogla,Hogla,02,,32.387669,34.927587
+il,holit,Holit,01,,31.229635,34.325924
+il,holon,Holon,05,,32.011389,34.772222
+il,horbat mesar,Horbat Mesar,04,,32.444445,35.04134
+il,horbat mezer,Horbat Mezer,04,,32.444445,35.04134
+il,horeshim,Horeshim,02,,32.133333,34.966667
+il,hoseifa,Hoseifa,04,,32.717222,35.062778
+il,hosen,Hosen,03,,32.998244,35.298074
+il,hosfeyah,Hosfeyah,04,,32.717222,35.062778
+il,hosfeya,Hosfeya,04,,32.717222,35.062778
+il,hosha`ya,Hosha`ya,03,,32.756944,35.298611
+il,hoter,Hoter,02,,31.930556,34.825
+il,hourfeich,Hourfeich,03,,33.017108,35.348352
+il,hudeira,Hudeira,04,,32.436449,34.919562
+il,hukok,Hukok,03,,32.879178,35.495548
+il,hulatah,Hulatah,03,,33.051517,35.609814
+il,hulata,Hulata,03,,33.051517,35.609814
+il,hulayqat,Hulayqat,01,,31.577883,34.658307
+il,huldah,Huldah,02,,31.831764,34.882314
+il,hulda,Hulda,02,,31.831764,34.882314
+il,huleiqat,Huleiqat,01,,31.577883,34.658307
+il,hulyot,Hulyot,03,,32.555382,35.198778
+il,hunin,Hunin,03,,33.214715,35.544987
+il,huqoq,Huqoq,03,,32.879178,35.495548
+il,huqqoq,Huqqoq,03,,32.879178,35.495548
+il,hurfaysh,Hurfaysh,03,,33.017108,35.348352
+il,hurfeish,Hurfeish,03,5252,33.017108,35.348352
+il,huseifa,Huseifa,04,,32.717222,35.062778
+il,husha,Husha,04,,32.795278,35.114722
+il,husifa,Husifa,04,,32.717222,35.062778
+il,husifyah,Husifyah,04,,32.717222,35.062778
+il,huzaiyil,Huzaiyil,01,,31.416667,34.75
+il,huzei,Huzei,01,,31.416667,34.75
+il,hykeria,Hykeria,05,,32.066667,34.783333
+il,iamnia,Iamnia,02,,31.866667,34.75
+il,ibbim,Ibbim,01,,31.533559,34.610265
+il,i`billin,I`billin,03,,32.820556,35.189167
+il,ibim,Ibim,01,,31.533559,34.610265
+il,ibtan,Ibtan,02,,32.365716,35.046765
+il,ibthan,Ibthan,02,,32.365716,35.046765
+il,ibtin,Ibtin,04,2020,32.761667,35.100833
+il,ijlil,Ijlil,05,,32.159167,34.812778
+il,ijzim,Ijzim,04,,32.65,34.983333
+il,iksal,Iksal,03,11213,32.68164,35.323646
+il,ilania,Ilania,03,,32.754667,35.408371
+il,ilaniyah,Ilaniyah,03,,32.754667,35.408371
+il,`ilaniya,`Ilaniya,03,,32.754667,35.408371
+il,ilaniyya,Ilaniyya,03,,32.754667,35.408371
+il,ilanya,Ilanya,03,,32.754667,35.408371
+il,`illut,`Illut,03,,32.716389,35.259444
+il,`ilut,`Ilut,03,,32.716389,35.259444
+il,`imara,`Imara,01,,31.316667,34.516667
+il,immara,Immara,01,,31.316667,34.516667
+il,`inab,`Inab,06,,31.805925,35.1093
+il,intisar,Intisar,03,,32.990489,35.311862
+il,iope,Iope,05,,32.033333,34.75
+il,`ir ganim,`Ir Ganim,04,,32.805,35.073333
+il,`ir gannim,`Ir Gannim,04,,32.805,35.073333
+il,`ir gannim,`Ir Gannim,06,,31.75,35.15
+il,irgun ben `ami,Irgun Ben `Ami,03,,33.004497,35.121916
+il,irgun daroma,Irgun Daroma,01,,31.469939,34.646335
+il,irgun ezra,Irgun Ezra,03,,32.558522,35.305803
+il,irgun hahoresh,Irgun Hahoresh,03,,32.733889,35.188611
+il,irgun hawetiqim,Irgun Hawetiqim,02,,31.944444,34.774444
+il,irgun nitsana,Irgun Nitsana,01,,31.448955,34.712913
+il,irgun reuven,Irgun Reuven,02,,32.349283,34.993976
+il,irgun shibbolet,Irgun Shibbolet,01,,31.439284,34.694782
+il,irgun simhah,Irgun Simhah,02,,32.15,34.966667
+il,irgun simha,Irgun Simha,02,,32.15,34.966667
+il,irgun yad ha-arba`a asar,Irgun Yad Ha-Arba`a Asar,04,,32.531953,34.993601
+il,`ir hamifrats,`Ir Hamifrats,03,,32.837778,35.106667
+il,`ir hamifraz,`Ir HaMifraz,03,,32.837778,35.106667
+il,`iriq es sabav,`Iriq es Sabav,04,,32.520171,35.144023
+il,`ir ovot,`Ir Ovot,01,,30.806944,35.243611
+il,`ir shalom,`Ir Shalom,05,,32.147222,34.841667
+il,`isawiya,`Isawiya,06,,31.8,35.25
+il,isdud,Isdud,01,,31.75,34.666667
+il,`isfiyah,`Isfiyah,04,,32.717222,35.062778
+il,`isfiya,`Isfiya,04,,32.717222,35.062778
+il,isfiyeh,Isfiyeh,04,,32.717222,35.062778
+il,isifiya,Isifiya,04,,32.717222,35.062778
+il,`isifyah,`Isifyah,04,,32.717222,35.062778
+il,issfiyah,Issfiyah,04,,32.717222,35.062778
+il,issfiya,Issfiya,04,,32.717222,35.062778
+il,iven manahim,Iven Manahim,03,,33.073913,35.294496
+il,jaba`,Jaba`,04,,32.65,34.95
+il,jaba,Jaba,06,,31.786526,35.091823
+il,jabata,Jabata,03,,32.673889,35.208056
+il,jabneh,Jabneh,02,,31.866667,34.75
+il,jadah,Jadah,03,,32.700556,35.179722
+il,jaffa,Jaffa,05,,32.033333,34.75
+il,jaffa-tel aviv,Jaffa-Tel Aviv,05,,32.067778,34.764722
+il,jaladiya,Jaladiya,01,,31.682235,34.745237
+il,jaladiyyah,Jaladiyyah,01,,31.682235,34.745237
+il,jalil,Jalil,05,,32.159167,34.812778
+il,jaljuliya,Jaljuliya,02,,32.155833,34.952778
+il,jaljulyah,Jaljulyah,02,,32.155833,34.952778
+il,jaljulya,Jaljulya,02,,32.155833,34.952778
+il,jaljulye,Jaljulye,02,7580,32.155833,34.952778
+il,jammama,Jammama,01,,31.497434,34.706115
+il,jamnia,Jamnia,02,,31.866667,34.75
+il,jarah,Jarah,03,,32.6,35.1
+il,j`ara,J`ara,03,,32.6,35.1
+il,jarak,Jarak,03,,32.6,35.1
+il,jat,Jat,03,,32.97256,35.231855
+il,jatt,Jatt,03,,32.97256,35.231855
+il,jatt,Jatt,04,,32.398428,35.039328
+il,ja`unah,Ja`unah,03,,32.968938,35.542584
+il,ja`una,Ja`una,03,,32.968938,35.542584
+il,jeida,Jeida,03,,32.700556,35.179722
+il,jelil,Jelil,05,,32.159167,34.812778
+il,jerusalem,Jerusalem,06,714685,31.78,35.23
+il,jezreel,Jezreel,03,,32.5625,35.322222
+il,ji`ara,Ji`ara,03,,32.6,35.1
+il,jiljulieh,Jiljulieh,02,,32.155833,34.952778
+il,jimzu,Jimzu,02,,31.930278,34.942778
+il,jindas,Jindas,02,,31.963611,34.914167
+il,jinujar,Jinujar,03,,32.663056,35.258333
+il,jisayr,Jisayr,01,,31.658366,34.761203
+il,jish,Jish,03,2684,33.022157,35.446941
+il,jisr al majami`,Jisr al Majami`,03,,32.6211,35.551339
+il,jisr el majami`,Jisr el Majami`,03,,32.6211,35.551339
+il,jisr ez zarqa,Jisr ez Zarqa,04,,32.536845,34.912703
+il,jisr ez zib,Jisr ez Zib,03,,33.041419,35.11165
+il,jisr zarqa,Jisr Zarqa,04,,32.536845,34.912703
+il,jiyah,Jiyah,01,,31.626965,34.603343
+il,jiya,Jiya,01,,31.626965,34.603343
+il,jlil,Jlil,05,,32.159167,34.812778
+il,joppa,Joppa,05,,32.033333,34.75
+il,joppe,Joppe,05,,32.033333,34.75
+il,jorah,Jorah,06,,31.755189,35.156134
+il,jourdeih,Jourdeih,03,,33.1,35.216667
+il,jubilee town,Jubilee Town,06,,31.766667,35.166667
+il,judaydah,Judaydah,03,,32.925556,35.155
+il,judeida,Judeida,03,,32.925556,35.155
+il,julis b,Julis B,01,,31.683333,34.666667
+il,julis,Julis,01,,31.635888,34.60636
+il,julis,Julis,03,,32.942671,35.182781
+il,julius,Julius,01,,31.683333,34.65
+il,jurah,Jurah,06,,31.755189,35.156134
+il,jura,Jura,06,,31.755189,35.156134
+il,jurdeih,Jurdeih,03,,33.1,35.216667
+il,jurde,Jurde,03,,33.1,35.216667
+il,juseir,Juseir,01,,31.658366,34.761203
+il,kababir,Kababir,04,,32.8,34.966667
+il,kabberi,Kabberi,03,,33.020903,35.148346
+il,kabiri,Kabiri,03,,33.020903,35.148346
+il,kabri,Kabri,03,,33.020903,35.148346
+il,kabritah,Kabritah,03,,33.020903,35.148346
+il,kabrita,Kabrita,03,,33.020903,35.148346
+il,kabul,Kabul,03,9301,32.866667,35.213056
+il,kadimah,Kadimah,02,,32.282747,34.910548
+il,kadima,Kadima,02,,32.282747,34.910548
+il,kafar kama,Kafar Kama,03,2990,32.721288,35.441217
+il,kafar manda,Kafar Manda,03,14771,32.807222,35.260278
+il,kafar qasem,Kafar Qasem,02,17189,32.114167,34.973889
+il,kafer-kama,Kafer-Kama,03,,32.721288,35.441217
+il,kafer-kassim,Kafer-Kassim,02,,32.114167,34.973889
+il,kafer-manda,Kafer-Manda,03,,32.807222,35.260278
+il,kafr `anah,Kafr `Anah,02,,32.063611,34.855278
+il,kafr `anah,Kafr `Anah,05,,32.022222,34.866667
+il,kafr `ana,Kafr `Ana,05,,32.022222,34.866667
+il,kafr barah,Kafr Barah,02,,32.133333,34.966667
+il,kafr bara,Kafr Bara,02,,32.133333,34.966667
+il,kafr bar`am,Kafr Bar`am,03,,33.043914,35.414492
+il,kafr birim,Kafr Birim,03,,33.043914,35.414492
+il,kafr far`am,Kafr Far`am,03,,32.983333,35.533333
+il,kafr hanagid,Kafr Hanagid,02,,31.883333,34.766667
+il,kafr jil`ad,Kafr Jil`ad,03,,33.242283,35.575146
+il,kafr kama,Kafr Kama,03,,32.721288,35.441217
+il,kafr kamma,Kafr Kamma,03,,32.721288,35.441217
+il,kafr kanna,Kafr Kanna,03,,32.7466,35.342419
+il,kafr lam,Kafr Lam,04,,32.633333,34.933333
+il,kafr manda,Kafr Manda,03,,32.807222,35.260278
+il,kafr masr,Kafr Masr,03,,32.645207,35.421467
+il,kafr misr,Kafr Misr,03,,32.645207,35.421467
+il,kafr qamah,Kafr Qamah,03,,32.721288,35.441217
+il,kafr qanah,Kafr Qanah,03,,32.7466,35.342419
+il,kafr qara`,Kafr Qara`,04,,32.506656,35.053915
+il,kafr qari`,Kafr Qari`,04,,32.506656,35.053915
+il,kafr qari,Kafr Qari,04,,32.506656,35.053915
+il,kafr qasim,Kafr Qasim,02,,32.114167,34.973889
+il,kafr saba,Kafr Saba,02,,32.175,34.906944
+il,kafr sumay`a,Kafr Sumay`a,03,,32.981363,35.306047
+il,kafr sumei`,Kafr Sumei`,03,,32.981363,35.306047
+il,kafr sumei,Kafr Sumei,03,,32.981363,35.306047
+il,kafr yasif,Kafr Yasif,03,,32.954512,35.162303
+il,kahal,Kahal,03,,32.892311,35.510495
+il,kakon,Kakon,02,,32.370156,34.993385
+il,kalansuva,Kalansuva,02,,32.284929,34.981064
+il,kallanit,Kallanit,03,,32.875402,35.453259
+il,kalmaniya,Kalmaniya,02,,32.201944,34.924167
+il,kalmaniyya,Kalmaniyya,02,,32.201944,34.924167
+il,kammon,Kammon,03,,32.908907,35.360748
+il,kannir,Kannir,04,,32.523911,35.034116
+il,kannot,Kannot,01,,31.802632,34.752022
+il,kare deshe,Kare Deshe,03,,32.868877,35.541298
+il,karei-deshe,Karei-Deshé,03,,32.868877,35.541298
+il,karei-naaman,Karei-Naaman,03,,32.883333,35.1
+il,karem yavne,Karem Yavne,02,,31.81555,34.7208
+il,kare na`aman,Kare Na`aman,03,,32.883333,35.1
+il,karkom,Karkom,02,,32.05,34.866667
+il,karkom,Karkom,03,,32.928615,35.60774
+il,karkur,Karkur,04,,32.466667,35
+il,karme yosef,Karmé Yosef,02,,31.848335,34.92024
+il,karm iben zamra,Karm Iben Zamra,03,,33.038335,35.468716
+il,karmi'el,Karmi'el,03,,32.917222,35.304167
+il,karmiyah,Karmiyah,01,,31.604387,34.542596
+il,karmiya,Karmiya,01,,31.604387,34.542596
+il,karmiyya,Karmiyya,01,,31.604387,34.542596
+il,karmon,Karmon,01,,31.683333,34.666667
+il,kasim,Kasim,02,,32.114167,34.973889
+il,katrah,Katrah,02,,31.814051,34.797137
+il,katsir,Katsir,04,,32.482545,35.109268
+il,kaukab abu el hija,Kaukab Abu el Hija,03,,32.833333,35.25
+il,kaukaba,Kaukaba,01,,31.633333,34.666667
+il,kaukab,Kaukab,03,,32.833333,35.25
+il,kavul,Kavul,03,,32.866667,35.213056
+il,kawkab abu-al-hij,Kawkab Abu-al-Hij,03,,32.833333,35.25
+il,kawkabah`,Kawkabah`,01,,31.628038,34.669036
+il,kawkabah,Kawkabah,01,,31.633333,34.666667
+il,kawkab,Kawkab,03,,32.833333,35.25
+il,kedmah,Kedmah,01,,31.70101,34.775069
+il,kedma,Kedma,01,,31.70101,34.775069
+il,kefar aharon,Kefar Aharon,02,,31.911111,34.792778
+il,kefar ahim,Kefar Ahim,01,,31.744403,34.756112
+il,kefar-ahim,Kefar-Ahim,03,,32.948616,35.076096
+il,kefar argentina,Kefar Argentina,02,,31.956944,34.862222
+il,kefar `atah,Kefar `Atah,04,,32.800556,35.106389
+il,kefar `atta,Kefar `Atta,04,,32.800556,35.106389
+il,kefar avdon,Kefar Avdon,03,,33.047892,35.179946
+il,kefar aviv,Kefar Aviv,02,,31.831437,34.721755
+il,kefar `avoda,Kefar `Avoda,03,,32.719816,35.546673
+il,kefar avoda,Kefar Avoda,03,,32.719816,35.546673
+il,kefar avoda rantiya,Kefar Avoda Rantiya,02,,32.043611,34.92
+il,kefar azar,Kefar Azar,02,,32.056111,34.840556
+il,kefar `azza,Kefar `Azza,01,,31.483958,34.534152
+il,kefar azza,Kefar Azza,01,,31.483958,34.534152
+il,kefar bar`am,Kefar Bar`am,03,,33.043914,35.414492
+il,kefar bar'am,Kefar Bar'am,03,,33.043914,35.414492
+il,kefar barukh,Kefar Barukh,03,,32.644444,35.193611
+il,kefar-beyaliq,Kefar-Beyaliq,04,,32.816667,35.087222
+il,kefar bialik,Kefar Bialik,04,,32.816667,35.087222
+il,kefar bialiq,Kefar Bialiq,04,,32.816667,35.087222
+il,kefar bilu,Kefar Bilu,02,,31.876667,34.823056
+il,kefar bin nun,Kefar Bin Nun,02,,31.863889,34.945556
+il,kefar bir`am,Kefar Bir`am,03,,33.043914,35.414492
+il,kefar bitsaron,Kefar Bitsaron,01,,31.792298,34.726916
+il,kefar blum,Kefar Blum,03,,33.171724,35.609818
+il,kefar brandeis,Kefar Brandeis,04,,32.423097,34.921272
+il,kefar daniel,Kefar Daniel,02,,31.933333,34.931111
+il,kefar daniyyel,Kefar Daniyyel,02,,31.933333,34.931111
+il,kefar darom,Kefar Darom,02,,31.820337,34.692351
+il,kefar eliyyahu,Kefar Eliyyahu,02,,31.803037,34.777519
+il,kefar `eqron,Kefar `Eqron,02,,31.860833,34.826667
+il,kefar gallim,Kefar Gallim,04,,32.766667,34.95
+il,kefar gannim,Kefar Gannim,02,,32.080833,34.875556
+il,kefar gevirol,Kefar Gevirol,02,,31.883333,34.766667
+il,kefar gideion,Kefar Gideion,03,,32.641667,35.291667
+il,kefar gid`on,Kefar Gid`on,03,,32.641667,35.291667
+il,kefar gil`adi,Kefar Gil`adi,03,,33.242283,35.575146
+il,kefar gil'adi,Kefar Gil'adi,03,,33.242283,35.575146
+il,kefar gile`adi,Kefar Gile`adi,03,,33.242283,35.575146
+il,kefar glickson,Kefar Glickson,04,,32.505486,35.005053
+il,kefar glikson,Kefar Glikson,04,,32.505486,35.005053
+il,kefar gliqson,Kefar Gliqson,04,,32.505486,35.005053
+il,kefar habad,Kefar Habad,02,4771,31.986667,34.851111
+il,kefar habbad,Kefar Habbad,02,,31.986667,34.851111
+il,kefar hahoresh,Kefar HaHoresh,03,,32.704167,35.272222
+il,kefar hahotsevim,Kefar Hahotsevim,02,,31.968333,34.934444
+il,kefar haiyim,Kefar Haiyim,02,,32.353458,34.901252
+il,kefar hakoremim,Kefar Hakoremim,01,,31.683333,34.666667
+il,kefar hamaccabi,Kefar HaMaccabi,04,,32.791111,35.116389
+il,kefar hamakabi,Kefar Hamakabi,04,,32.791111,35.116389
+il,kefar hamakkabbi,Kefar HaMakkabbi,04,,32.791111,35.116389
+il,kefar hanagid,Kefar HaNagid,02,,31.883333,34.766667
+il,kefar hananya,Kefar Hananya,03,,32.910018,35.422977
+il,kefar hanasi,Kefar HaNasi,03,,32.974472,35.603947
+il,kefar hano`ar hadati,Kefar HaNo`ar HaDati,04,,32.743056,35.096111
+il,kefar hano'ar hayaroq,Kefar Hano'ar Hayaroq,05,,32.134167,34.827778
+il,kefar hano`ar,Kefar Hano`ar,02,,31.960278,34.928056
+il,kefar hano`ar nizzanim,Kefar HaNo`ar Nizzanim,01,,31.733333,34.633333
+il,kefar hano`ar philadelphia,Kefar HaNo`ar Philadelphia,03,,32.948616,35.076096
+il,kefar harif,Kefar HaRif,01,,31.746966,34.79089
+il,kefar haroeh,Kefar Haroeh,02,,32.392445,34.911632
+il,kefar haro'e,Kefar HaRo'e,02,,32.392445,34.911632
+il,kefar hasidim,Kefar Hasidim,04,,32.752778,35.095556
+il,kefar hassidim,Kefar Hassidim,04,,32.752778,35.095556
+il,kefar hayaroq,Kefar HaYaroq,05,,32.134167,34.827778
+il,kefar haye'or,Kefar HaYe'or,02,,31.831437,34.721755
+il,kefar hayim,Kefar Hayim,02,,32.353458,34.901252
+il,kefar hayyim,Kefar Hayyim,02,,32.353458,34.901252
+il,kefar hess,Kefar Hess,02,,32.246434,34.934984
+il,kefar hitim,Kefar Hitim,03,,32.799613,35.502759
+il,kefar hittim bet,Kefar Hittim Bet,03,,32.811369,35.463594
+il,kefar hittim,Kefar Hittim,03,,32.799613,35.502759
+il,kefar hittin,Kefar Hittin,03,,32.799613,35.502759
+il,kefar hoglah,Kefar Hoglah,02,,32.387669,34.927587
+il,kefar ivri,Kefar Ivri,06,,31.8,35.233333
+il,kefar kisch,Kefar Kisch,03,,32.666857,35.448933
+il,kefar kish,Kefar Kish,03,,32.666857,35.448933
+il,kefar maharal,Kefar Maharal,04,,32.65,34.983333
+il,kefar malal,Kefar Malal,02,,32.169167,34.895278
+il,kefar mallal,Kefar Mallal,02,,32.169167,34.895278
+il,kefar mandi,Kefar Mandi,03,,32.807222,35.260278
+il,kefar marmorek,Kefar Marmorek,02,,31.882778,34.810556
+il,kefar marmoreq,Kefar Marmoreq,02,,31.882778,34.810556
+il,kefar masariq,Kefar Masariq,03,,32.888333,35.096944
+il,kefar masaryk,Kefar Masaryk,03,,32.888333,35.096944
+il,kefar-massariq,Kefar-Massariq,03,,32.888333,35.096944
+il,kefar maymon,Kefar Maymon,01,,31.432861,34.536723
+il,kefar menahem,Kefar Menahem,01,,31.731387,34.835468
+il,kefar monash,Kefar Monash,02,,32.347098,34.916277
+il,kefar mordecai,Kefar Mordecai,02,,31.829974,34.757128
+il,kefar mordekhai,Kefar Mordekhai,02,,31.816135,34.752927
+il,kefar mordekhay,Kefar Mordekhay,02,,31.829974,34.757128
+il,kefar nahaman,Kefar Nahaman,02,,32.076667,34.928333
+il,kefar nahaman syrkin,Kefar Nahaman Syrkin,02,,32.076667,34.928333
+il,kefar nahman syrkin,Kefar Nahman Syrkin,02,,32.076667,34.928333
+il,kefar natan,Kefar Natan,03,,32.688603,35.572813
+il,kefar natan laski,Kefar Natan Laski,03,,32.688603,35.572813
+il,kefar nathan,Kefar Nathan,03,,32.688603,35.572813
+il,kefar neter,Kefar Neter,02,,32.273,34.873489
+il,kefar netter,Kefar Netter,02,,32.273,34.873489
+il,kefar ono,Kefar Ono,02,,32.063611,34.855278
+il,kefar ono,Kefar Ono,05,,32.022222,34.866667
+il,kefar pines,Kefar Pines,04,,32.482385,35.001331
+il,kefar pinnes,Kefar Pinnes,04,,32.482385,35.001331
+il,kefar pir`am,Kefar Pir`am,03,,32.983333,35.533333
+il,kefar qesem,Kefar Qesem,02,,32.114167,34.973889
+il,kefar qish,Kefar Qish,03,,32.666857,35.448933
+il,kefar rosh haniqra,Kefar Rosh HaNiqra,03,,33.085445,35.114523
+il,kefar ruppin,Kefar Ruppin,03,,32.457222,35.555278
+il,kefar saba,Kefár Saba,02,,32.175,34.906944
+il,kefar salma,Kefar Salma,06,,31.758513,35.155392
+il,kefar sava,Kefar Sava,02,80922,32.175,34.906944
+il,kefar-selma,Kefar-Selma,06,,31.758513,35.155392
+il,kefar shalem,Kefar Shalem,05,,32.052222,34.796667
+il,kefar shamai,Kefar Shamai,03,,32.957407,35.457419
+il,kefar shamir,Kefar Shamir,04,,32.8,34.95
+il,kefar shammai,Kefar Shammai,03,,32.957407,35.457419
+il,kefar shammay,Kefar Shammay,03,,32.957407,35.457419
+il,kefar sha'ul,Kefar Sha'ul,06,,31.785992,35.175586
+il,kefar shemaryahu,Kefar Shemaryahu,05,1774,32.185556,34.821944
+il,kefar shemu'el,Kefar Shemu'el,02,,31.893611,34.928056
+il,kefar shmaryahu,Kefar Shmaryahu,05,,32.185556,34.821944
+il,kefar shmuel,Kefar Shmuel,02,,31.893611,34.928056
+il,kefar sima-i,Kefar Sima-i,03,,32.981363,35.306047
+il,kefar sirkin,Kefar Sirkin,02,,32.076667,34.928333
+il,kefar sold,Kefar Sold,02,,31.788315,34.800109
+il,kefar sold,Kefar Sold,03,,33.195913,35.658357
+il,kefar syrkin,Kefar Syrkin,02,,32.076667,34.928333
+il,kefar szold,Kefar Szold,03,,33.195913,35.658357
+il,kefar tabor,Kefar Tabor,03,,32.686555,35.421177
+il,kefar tavor,Kefar Tavor,03,2323,32.686555,35.421177
+il,kefar truman,Kefar Truman,02,,31.980556,34.921667
+il,kefar uriyah bet,Kefar Uriyah Bet,06,,31.804616,34.932105
+il,kefar uriya,Kefar Uriya,06,,31.793121,34.947524
+il,kefar uriyya "b",Kefar Uriyya "B",06,,31.804616,34.932105
+il,kefar uriyya,Kefar Uriyya,06,,31.793121,34.947524
+il,kefar veradim,Kefar Veradim,03,,32.993849,35.277933
+il,kefar vitkin,Kefar Vitkin,02,,32.381256,34.877366
+il,kefar warburg,Kefar Warburg,01,,31.719453,34.724047
+il,kefar weradim,Kefar Weradim,03,5559,32.993849,35.277933
+il,kefar witkin,Kefar Witkin,02,,32.381256,34.877366
+il,kefar witqin,Kefar Witqin,02,,32.381256,34.877366
+il,kefar ya`abets,Kefar Ya`abets,02,,32.273826,34.965963
+il,kefar ya`avets,Kefar Ya`avets,02,,32.273826,34.965963
+il,kefar ya`bets,Kefar Ya`bets,02,,32.273826,34.965963
+il,kefar yabetz,Kefar Yabetz,02,,32.273826,34.965963
+il,kefar ya`bez,Kefar Ya`bez,02,,32.273826,34.965963
+il,kefar yamma,Kefar Yamma,03,,32.703563,35.506616
+il,kefar yarqanim,Kefar Yarqanim,02,,32.132222,34.922222
+il,kefar-yasif,Kefar-Yasif,03,,32.954512,35.162303
+il,kefar ya`vets,Kefar Ya`vets,02,,32.273826,34.965963
+il,kefar ya`vetz,Kefar Ya`vetz,02,,32.273826,34.965963
+il,kefar yavne,Kefar Yavne,02,,31.876389,34.74
+il,kefar yedidyah,Kefar Yedidyah,02,,32.346273,34.899363
+il,kefar yehezkel,Kefar Yehezkel,03,,32.570833,35.3625
+il,kefar yehezqel,Kefar Yehezqel,03,,32.570833,35.3625
+il,kefar yehoshua`,Kefar Yehoshua`,03,,32.680556,35.151667
+il,kefar yehud,Kefar Yehud,02,,32.035,34.886111
+il,kefar yeladim,Kefar Yeladim,03,,32.622222,35.325
+il,kefar yeroham,Kefar Yeroham,01,,30.987222,34.931389
+il,kefar yohanah,Kefar Yohanah,03,,32.861963,35.363652
+il,kefar yonah,Kefar Yonah,02,,32.316692,34.935073
+il,kefar yona,Kefar Yona,02,12771,32.316692,34.935073
+il,kefar-yuval,Kefar-Yuval,03,,33.247483,35.598112
+il,kefar zekhariya,Kefar Zekhariya,06,,31.709267,34.944885
+il,kefar zekharyah,Kefar Zekharyah,06,,31.709267,34.944885
+il,kefar zekharya,Kefar Zekharya,06,,31.709267,34.944885
+il,kefar zetim,Kefar Zetim,03,,32.811369,35.463594
+il,kefar ziv,Kefar Ziv,02,,32.255216,34.915471
+il,kefar ziw,Kefar Ziw,02,,32.255216,34.915471
+il,kefer uriah,Kefer Uriah,06,,31.793121,34.947524
+il,kefr ata,Kefr Ata,04,,32.800556,35.106389
+il,kefr saba,Kefr Saba,02,,32.181667,34.935833
+il,kefr sabba,Kefr Sabba,02,,32.181667,34.935833
+il,kefrurieh,Kefrurieh,06,,31.793121,34.947524
+il,kefr uryeh,Kefr Uryeh,06,,31.793121,34.947524
+il,kefr yehoshua,Kefr Yehoshua,03,,32.680556,35.151667
+il,kelahim,Kelahim,01,,31.451106,34.677793
+il,kelil,Kelil,03,,32.985101,35.199821
+il,kemehin,Kemehin,01,,30.910861,34.431845
+il,kerem ben zimra,Kerem Ben Zimra,03,,33.038335,35.468716
+il,kerem maharal,Kerem Maharal,04,,32.65,34.983333
+il,kerem shalom,Kerem Shalom,01,,31.227767,34.28459
+il,keren,Keren,03,,33.094746,35.556216
+il,kerkur,Kerkur,04,,32.466667,35
+il,kesalon,Kesalon,06,,31.77498,35.048378
+il,kesaraviv,Kesaraviv,02,,31.831437,34.721755
+il,kesar shenaryahu,Kesar Shenaryahu,05,,32.185556,34.821944
+il,kesarya,Kesarya,04,,32.507982,34.904867
+il,kesseifim,Kesseifim,01,,31.374932,34.398404
+il,kessulot,Kessulot,03,,32.68164,35.323646
+il,kesulot,Kesulot,03,,32.68164,35.323646
+il,ketsi'ot,Ketsi'ot,01,,30.876467,34.459653
+il,kevutsat yavne,Kevutsat Yavne,02,,31.81555,34.7208
+il,kfar ahim,Kfar Ahim,01,,31.744403,34.756112
+il,kfar avdon,Kfar Avdon,03,,33.047892,35.179946
+il,kfar biraam,Kfar Biraam,03,,33.043914,35.414492
+il,kfargileady,Kfargileady,03,,33.242283,35.575146
+il,kfar habad,Kfar Habad,02,,31.986667,34.851111
+il,kfar hamaccabi,Kfar HaMaccabi,04,,32.791111,35.116389
+il,kfar hano'ar,Kfar Hano'ar,05,,32.134167,34.827778
+il,kfar hitim bet,Kfar Hitim Bet,03,,32.811369,35.463594
+il,kfar hitim,Kfar Hitim,03,,32.799613,35.502759
+il,kfar maimon,Kfar Maimon,01,,31.432861,34.536723
+il,kfar malal,Kfar Malal,02,,32.169167,34.895278
+il,kfar mordekhai,Kfar Mordekhai,02,,31.829974,34.757128
+il,kfar pir'am,Kfar Pir'am,03,,32.983333,35.533333
+il,kfar ras en naqoura,Kfar Ras en Naqoura,03,,33.085445,35.114523
+il,kfar reshef,Kfar Reshef,05,,32.187222,34.805833
+il,kfar ro'im,Kfar Ro'im,01,,31.371944,34.643591
+il,kfar rosen,Kfar Rosen,03,,33.099546,35.288903
+il,kfar saba,Kfar Saba,02,,32.181667,34.935833
+il,kfar shaul,Kfar Shaul,06,,31.785992,35.175586
+il,kfar syrkin,Kfar Syrkin,02,,32.076667,34.928333
+il,kfar tavor,Kfar Tavor,03,,32.686555,35.421177
+il,kfar vitkin,Kfar Vitkin,02,,32.381256,34.877366
+il,kfar yasif,Kfar Yasif,03,,32.954512,35.162303
+il,kfar yavneh,Kfar Yavneh,02,,31.876389,34.74
+il,kfar yavne,Kfar Yavne,02,,31.876389,34.74
+il,kfar yeroham,Kfar Yeroham,01,,30.987222,34.931389
+il,kfar yona,Kfar Yona,02,,32.316692,34.935073
+il,khalasah,Khalasah,03,,33.207334,35.572118
+il,khayriyyah,Khayriyyah,05,,32.033333,34.833333
+il,khederah,Khederah,04,,32.436449,34.919562
+il,kheiriya,Kheiriya,05,,32.033333,34.833333
+il,khirba `ein el asad,Khirba `Ein el Asad,03,,32.94137,35.39639
+il,khirbat al burj,Khirbat al Burj,01,,31.433333,34.9
+il,khirbat al mazra`a,Khirbat al Mazra`a,03,,33.099546,35.288903
+il,khirbat beit mirsim,Khirbat Beit Mirsim,01,,31.45,34.916667
+il,khirbat `ein al arad,Khirbat `Ein al Arad,03,,32.94137,35.39639
+il,khirbat husein al a'mar,Khirbat Husein al A'mar,02,,32.360233,35.042309
+il,khirbat husein el a'mar,Khirbat Husein el A'mar,02,,32.360233,35.042309
+il,khirbat ibthan,Khirbat Ibthan,02,,32.365716,35.046765
+il,khirbat meisar,Khirbat Meisar,04,,32.444445,35.04134
+il,khirbat meisir,Khirbat Meisir,04,,32.444445,35.04134
+il,khirbat mir`i,Khirbat Mir`i,03,,33.079713,35.211026
+il,khirbat musrara,Khirbat Musrara,06,,31.783333,35.216667
+il,khirbat sakarya,Khirbat Sakarya,02,,31.820337,34.692351
+il,khirbat sheikh meiser,Khirbat Sheikh Meiser,04,,32.444445,35.04134
+il,khirbat yammah,Khirbat Yammah,02,,32.3689,35.031329
+il,khirbat zalafa,Khirbat Zalafa,02,,32.407931,34.924332
+il,khirbet ash sheikh meisar,Khirbet ash Sheikh Meisar,04,,32.444445,35.04134
+il,khirbet' aziya,Khirbet' Aziya,04,,32.405387,34.993266
+il,khirbet bir es sikka,Khirbet Bir es Sikka,02,,32.362646,35.028177
+il,khirbet deiran,Khirbet Deiran,02,,31.896944,34.818611
+il,khirbet el huzaiyil,Khirbet el Huzaiyil,01,,31.416667,34.75
+il,khirbet el jemmame,Khirbet el Jemmame,01,,31.497434,34.706115
+il,khirbet ibyar el leimun,Khirbet Ibyar el Leimun,02,,31.941944,34.8375
+il,khirbet kafrurye,Khirbet Kafrurye,06,,31.793121,34.947524
+il,khirbet kusiya,Khirbet Kusiya,04,,32.423064,35.005133
+il,khirbet luz,Khirbet Luz,06,,31.763188,35.134216
+il,khirbet meisar,Khirbet Meisar,04,,32.444445,35.04134
+il,khirbet meissar,Khirbet Meissar,04,,32.444445,35.04134
+il,khirbet umm el jemal,Khirbet Umm el Jemal,04,,32.596667,35.001944
+il,khirbet yamma,Khirbet Yamma,02,,32.3689,35.031329
+il,khirbet zubeid,Khirbet Zubeid,03,,33.059204,35.610327
+il,khulda,Khulda,02,,31.8228,34.900507
+il,kibbutz afikim,Kibbutz Afikim,03,,32.68046,35.577762
+il,kibbutz palmah,Kibbutz Palmah,06,,31.783775,35.119263
+il,kidron,Kidron,02,,31.814051,34.797137
+il,kineret,Kineret,03,,32.713802,35.563011
+il,kinneret group,Kinneret Group,03,,32.713802,35.563011
+il,kinneret,Kinneret,03,,32.713802,35.563011
+il,kiria,Kiria,06,,31.81082,35.12035
+il,kiriat arieh,Kiriat Arieh,02,,32.083333,34.883333
+il,kiriat hayim,Kiriat Hayim,04,,32.831944,35.056111
+il,kiriat moshe,Kiriat Moshe,06,,31.785573,35.194753
+il,kiriyat sara,Kiriyat Sara,03,,32.981125,35.508941
+il,kiryat-amal,Kiryat-Amal,04,,32.706667,35.130278
+il,kiryat anavim,Kiryat Anavim,06,,31.81082,35.12035
+il,kiryat-ata,Kiryat-Ata,04,,32.800556,35.106389
+il,kiryat gat,Kiryat Gat,01,,31.609981,34.764224
+il,kiryat hatechion,Kiryat Hatechion,04,,32.783333,35.016667
+il,kiryat hayim,Kiryat Hayim,04,,32.831944,35.056111
+il,kiryat-hayovel,Kiryat-Hayovel,06,,31.766667,35.166667
+il,kiryat malachi,Kiryat Malachi,01,,31.729954,34.746532
+il,kiryat mal'akhi,Kiryat Mal'akhi,01,,31.729954,34.746532
+il,kiryat-malakhi,Kiryat-Malakhi,01,,31.729954,34.746532
+il,kiryat moshe,Kiryat Moshe,06,,31.785573,35.194753
+il,kiryat-natsrat,Kiryat-Natsrat,03,,32.708162,35.324685
+il,kiryat norda'u,Kiryat Norda'u,02,,32.282189,34.852773
+il,kiryat shalom,Kiryat Shalom,05,,32.041667,34.778333
+il,kiryat shemoneh,Kiryat Shemoneh,03,,33.207334,35.572118
+il,kiryat tivon,Kiryat Tivon,04,,32.723889,35.127222
+il,kiryat ye'arim,Kiryat Ye'arim,06,,31.803625,35.100549
+il,kiryat-yearim,Kiryat-Yearim,06,,31.803625,35.100549
+il,kishor,Kishor,03,,32.946988,35.249211
+il,kislot tavor,Kislot Tavor,03,,32.68164,35.323646
+il,kisrah,Kisrah,03,,32.961775,35.302792
+il,kisra,Kisra,03,,32.961775,35.302792
+il,kissuffim,Kissuffim,01,,31.374932,34.398404
+il,kissufim,Kissufim,01,,31.374932,34.398404
+il,kisufim,Kisufim,01,,31.374932,34.398404
+il,kokhav,Kokhav,01,,31.628038,34.669036
+il,kokhav mikha'el sobell,Kokhav Mikha'el Sobell,01,,31.628038,34.669036
+il,kokhav ya'ir,Kokhav Ya'ir,02,,32.226232,35.002219
+il,kokho,Kokho,01,,31.628038,34.669036
+il,kokhva,Kokhva,03,,32.833333,35.25
+il,komemiut b,Komemiut B,01,,31.652102,34.705908
+il,komemiyut,Komemiyut,06,,31.766667,35.233333
+il,kufritta,Kufritta,04,,32.800556,35.106389
+il,kufr qasim,Kufr Qasim,02,,32.114167,34.973889
+il,kufr saba,Kufr Saba,02,,32.181667,34.935833
+il,kurdani,Kurdani,04,,32.852778,35.096111
+il,kuryat bialik,Kuryat Bialik,04,,32.816667,35.087222
+il,kuryet el enab,Kuryet el Enab,06,,31.805925,35.1093
+il,kvutsat schiller,Kvutsat Schiller,02,,31.876944,34.798333
+il,kvutsat shiller,Kvutsat Shiller,02,,31.876944,34.798333
+il,lahat,Lahat,01,,31.616495,34.61288
+il,lahav,Lahav,01,,31.37953,34.869558
+il,lahavot habashan,Lahavot HaBashan,03,,33.141655,35.646782
+il,lahavot havivah,Lahavot Havivah,04,,32.395172,35.009775
+il,lahavot haviva,Lahavot Haviva,04,,32.395172,35.009775
+il,lahovot habashan,Lahovot Habashan,03,,33.141655,35.646782
+il,lakhish 1.,Lakhish 1.,01,,31.636852,34.703954
+il,lakhish,Lakhish,01,,31.561292,34.843133
+il,lakiyya,Lakiyya,01,,31.317993,34.859081
+il,lappidot,Lappidot,03,,32.958725,35.261603
+il,laqiyya,Laqiyya,01,,31.317993,34.859081
+il,lavi,Lavi,03,,32.786542,35.439419
+il,lavon,Lavon,03,,32.941652,35.284456
+il,lehageshamah,Lehageshamah,06,,31.79711,35.065251
+il,lehagshama,Lehagshama,06,,31.79711,35.065251
+il,lehavim,Lehavim,01,,31.370075,34.814523
+il,le tsiyon,Le Tsiyon,02,,31.964167,34.804444
+il,lidd,Lidd,02,,31.951389,34.895278
+il,liftah,Liftah,06,,31.796963,35.192395
+il,lifta,Lifta,06,,31.796963,35.192395
+il,liman,Liman,03,,33.06018,35.112683
+il,li on,Li On,06,,31.677436,34.934642
+il,little tel aviv,Little Tel Aviv,05,,32.066667,34.766667
+il,livnim,Livnim,03,,32.864039,35.494674
+il,lod alef,Lod Alef,02,,31.976111,34.888889
+il,lod bet,Lod Bet,02,,31.988611,34.880833
+il,lod c,Lod C,02,,31.981111,34.871667
+il,lod gimel,Lod Gimel,02,,31.981111,34.871667
+il,lod,Lod,02,68095,31.951389,34.895278
+il,lohame hageta'ot,Lohame HaGeta'ot,03,,32.96308,35.095022
+il,lohamei hageitaot,Lohamei Hageitaot,03,,32.96308,35.095022
+il,lohmei hagettot,Lohmei Hagettot,03,,32.96308,35.095022
+il,lotem,Lotem,03,,32.881785,35.358818
+il,lower motsa,Lower Motsa,06,,31.792894,35.168466
+il,ludd,Ludd,02,,31.951389,34.895278
+il,lud,Lud,02,,31.951389,34.895278
+il,luzim,Luzim,06,,31.763188,35.134216
+il,luzit,Luzit,06,,31.687153,34.886492
+il,lyal,Lyal,02,,32.209444,34.978611
+il,lydda alef,Lydda Alef,02,,31.976111,34.888889
+il,lydda bet,Lydda Bet,02,,31.988611,34.880833
+il,lydda c,Lydda C,02,,31.981111,34.871667
+il,lydda gimel,Lydda Gimel,02,,31.981111,34.871667
+il,lydda,Lydda,02,,31.951389,34.895278
+il,ma`abarah ramat hayal,Ma`abarah Ramat Hayal,05,,32.115556,34.836667
+il,ma'abara merkazit emeq hefer,Ma'abara Merkazit Emeq Hefer,02,,32.407931,34.924332
+il,maabarat hartuv,Maabarat Hartuv,06,,31.749587,34.988768
+il,maabarat kastel,Maabarat Kastel,06,,31.79261,35.143393
+il,ma`abarat mansi,Ma`abarat Mansi,03,,32.593056,35.180278
+il,ma`abarat tirah,Ma`abarat Tirah,03,,32.766667,34.966667
+il,ma'abaroth,Ma'abaroth,02,,32.363667,34.905451
+il,ma`abarot,Ma`abarot,02,,32.363667,34.905451
+il,maagan michael,Maagan Michael,04,,32.555491,34.916375
+il,ma`agan mikha'el,Ma`agan Mikha'el,04,,32.555491,34.916375
+il,ma`ale gilboa`,Ma`ale Gilboa`,03,,32.480556,35.418056
+il,ma`ale habashan,Ma`ale Habashan,03,,33.141655,35.646782
+il,maale-hagilbo`a,Maale-Hagilbo`a,03,,32.480556,35.418056
+il,ma`ale hahamisha,Ma`ale HaHamisha,06,,31.817876,35.112925
+il,ma'ale hahamisha,Ma'ale HaHamisha,06,,31.817876,35.112925
+il,ma`aleh habashan,Ma`aleh Habashan,03,,33.141655,35.646782
+il,ma`aleh hahamishah,Ma`aleh Hahamishah,06,,31.817876,35.112925
+il,ma'aleh hahamisha,Ma'aleh Hahamisha,06,,31.817876,35.112925
+il,ma`ale,Ma`ale,06,,31.817876,35.112925
+il,maaliya,Maaliya,03,,33.027813,35.256584
+il,ma`alot,Ma`alot,03,,33.013363,35.283721
+il,ma`alot tarshiha,Ma`alot Tarshiha,03,,33.013363,35.283721
+il,ma'alot tarshiha,Ma'alot Tarshiha,03,,33.013363,35.283721
+il,ma`anit,Ma`anit,04,,32.456169,35.028885
+il,ma'anit,Ma'anit,04,,32.456169,35.028885
+il,ma`anit narbatah,Ma`anit Narbatah,04,,32.456169,35.028885
+il,ma`apilim,Ma`apilim,04,,32.678333,34.931944
+il,ma`ariyah,Ma`ariyah,03,,32.889843,35.407034
+il,ma`as,Ma`as,02,,32.065833,34.884722
+il,ma`asub,Ma`asub,03,,33.063753,35.157614
+il,maavaq,Maavaq,03,,32.729444,35.170556
+il,ma`ayan barukh,Ma`ayan Barukh,03,,33.240325,35.608996
+il,ma`ayan,Ma`ayan,04,,32.5686,34.940634
+il,ma`ayan tsevi,Ma`ayan Tsevi,04,,32.5686,34.940634
+il,ma`ayan tsvi,Ma`ayan Tsvi,04,,32.5686,34.940634
+il,ma`ayan zvi,Ma`ayan Zvi,04,,32.5686,34.940634
+il,ma`barah,Ma`barah,03,,32.766667,34.966667
+il,ma`barah ramath-hayal,Ma`barah Ramath-Hayal,05,,32.115556,34.836667
+il,ma`bara,Ma`bara,03,,32.593056,35.180278
+il,ma`bara,Ma`bara,06,,31.79261,35.143393
+il,mabara ramat-hayal,Mabara Ramat-Hayal,05,,32.115556,34.836667
+il,ma`bara ywhanan,Ma`bara Ywhanan,02,,31.833333,34.733333
+il,ma`barot,Ma`barot,02,,32.363667,34.905451
+il,ma'barot,Ma'barot,02,,32.363667,34.905451
+il,mabbu`im,Mabbu`im,01,,31.449655,34.654767
+il,ma`bereth mansi,Ma`bereth Mansi,03,,32.593056,35.180278
+il,ma`beret mansi,Ma`beret Mansi,03,,32.593056,35.180278
+il,ma`beret megiddo,Ma`beret Megiddo,03,,32.593056,35.180278
+il,mabua`,Mabua`,01,,30.653333,35.238611
+il,mabuim,Mabuim,01,,31.449655,34.654767
+il,mafshatah,Mafshatah,03,,33.048952,35.308935
+il,ma`galim,Ma`galim,01,,31.396875,34.599497
+il,ma'galim,Ma'galim,01,,31.396875,34.599497
+il,magal,Magal,04,,32.385062,35.036801
+il,ma`gan mikhael,Ma`gan Mikhael,04,,32.555491,34.916375
+il,magdi`al,Magdi`al,02,,32.161667,34.903611
+il,magdi'el,Magdi'el,02,,32.161667,34.903611
+il,magen,Magen,01,,31.29908,34.427496
+il,magen sha'ul,Magen Sha'ul,03,,32.521742,35.307761
+il,maggal,Maggal,04,,32.385062,35.036801
+il,maghar,Maghar,03,,32.889843,35.407034
+il,magidal,Magidal,03,,32.671389,35.240556
+il,magshimim,Magshimim,02,,32.048611,34.902222
+il,mahanayim,Mahanayim,03,,32.988981,35.570595
+il,mahane en shemer,Mahane En Shemer,04,,32.4498,35.015611
+il,mahaneh yisrael,Mahaneh Yisrael,02,,32,34.916667
+il,mahane ramon,Mahane Ramon,01,,30.609444,34.801111
+il,mahane yisra'el,Mahane Yisra'el,02,,32,34.916667
+il,mahane zofar,Mahane Zofar,01,,30.488611,35.167778
+il,mahaseyah,Mahaseyah,06,,31.748536,35.007044
+il,mahaseya,Mahaseya,06,,31.748536,35.007044
+il,mahnayim,Mahnayim,03,,32.988981,35.570595
+il,mahne israel,Mahne Israel,02,,32,34.916667
+il,mahseh,Mahseh,06,,31.748536,35.007044
+il,mahse,Mahse,06,,31.748536,35.007044
+il,mahsevet-gevem,Mahsevet-Gevem,01,,30.6,34.883333
+il,mahseya,Mahseya,06,,31.748536,35.007044
+il,mahzevet geves,Mahzevet Geves,01,,30.6,34.883333
+il,majdal `asqalan,Majdal `Asqalan,01,,31.669256,34.57149
+il,majdal as sadiq,Majdal as Sadiq,02,,32.083333,34.95
+il,majdal krum,Majdal Krum,03,,32.919444,35.267222
+il,majd al kurum,Majd al Kurum,03,,32.919444,35.267222
+il,majdal,Majdal,01,,31.669256,34.57149
+il,majdal-sadek,Majdal-Sadek,02,,32.083333,34.95
+il,majdal sadiq,Majdal Sadiq,02,,32.083333,34.95
+il,majdal yaba,Majdal Yaba,02,,32.083333,34.95
+il,majd el kirum,Majd el Kirum,03,,32.919444,35.267222
+il,maj'd el krum,Maj'd el Krum,03,,32.919444,35.267222
+il,majd el kurum,Majd el Kurum,03,,32.919444,35.267222
+il,ma`kara,Ma`Kara,03,,33,35.1
+il,makar,Makar,03,,32.934722,35.137222
+il,maker,Maker,03,,32.934722,35.137222
+il,makhfar al ghamr,Makhfar al Ghamr,01,,30.491389,35.179722
+il,makr,Makr,03,,32.934722,35.137222
+il,makura,Makura,04,,32.633333,35
+il,malahah,Malahah,03,,33.083333,35.583333
+il,malakiyah,Malakiyah,03,,33.098295,35.510786
+il,malhah,Malhah,06,,31.752313,35.183156
+il,malha,Malha,06,,31.752313,35.183156
+il,maliha,Maliha,06,,31.752313,35.183156
+il,malkiyah,Malkiyah,03,,33.098295,35.510786
+il,malkiyya,Malkiyya,03,,33.098295,35.510786
+il,mallahah,Mallahah,03,,33.083333,35.583333
+il,mallaha,Mallaha,03,,32.722636,35.566205
+il,manahat,Manahat,06,,31.752313,35.183156
+il,manara,Manara,03,,32.763846,35.553061
+il,mannarah,Mannarah,03,,33.195833,35.543056
+il,manot,Manot,03,,33.038927,35.195437
+il,manshiek,Manshiek,05,,32.066667,34.766667
+il,manshiya,Manshiya,05,,32.066667,34.766667
+il,mansi,Mansi,03,,32.592222,35.156944
+il,mansurah,Mansurah,03,,32.974472,35.603947
+il,mantsurah,Mantsurah,03,,32.974472,35.603947
+il,mantur,Mantur,03,,32.970516,35.614118
+il,ma`on,Ma`on,01,,31.335586,34.395069
+il,ma`on nirim,Ma`on Nirim,01,,31.335586,34.395069
+il,ma'or,Ma'or,04,,32.423064,35.005133
+il,ma`oz haiyim,Ma`oz Haiyim,03,,32.483333,35.55
+il,ma`oz hayim,Ma`oz Hayim,03,,32.483333,35.55
+il,ma`oz hayyim,Ma`oz Hayyim,03,,32.483333,35.55
+il,maoz,Maoz,03,,32.483333,35.55
+il,ma'oz tsiyon,Ma'oz Tsiyon,06,,31.80277,35.159524
+il,ma'oz tsiyyon,Ma'oz Tsiyyon,06,,31.79261,35.143393
+il,ma`oz ziyyon,Ma`oz Ziyyon,06,,31.79261,35.143393
+il,ma`pilim,Ma`pilim,04,,32.678333,34.931944
+il,maqura,Maqura,04,,32.633333,35
+il,marah,Marah,04,,32.519075,35.00602
+il,margaliyot,Margaliyot,03,,33.214715,35.544987
+il,margaliyyot,Margaliyyot,03,,33.214715,35.544987
+il,mar`it,Mar`it,01,,31.510561,34.623826
+il,mar'it,Mar'it,01,,31.510561,34.623826
+il,marja,Marja,02,,32.360233,35.042309
+il,marj,Marj,02,,32.360233,35.042309
+il,masadah,Masadah,03,,32.683733,35.598482
+il,masada,Masada,03,,32.683733,35.598482
+il,mash'abbe sade,Mash'abbe Sade,01,,31,34.783333
+il,mashabei sade,Mashabei Sade,01,,31,34.783333
+il,mashabim,Mashabim,01,,31,34.783333
+il,mashad,Mashad,03,,32.739382,35.324799
+il,mashah,Mashah,03,,32.686555,35.421177
+il,mas-ha,Mas-ha,03,,32.686555,35.421177
+il,mash'avei sade,Mash'avei Sade,01,,31,34.783333
+il,masheabim,Masheabim,01,,31,34.783333
+il,mash`en,Mash`en,01,,31.657907,34.623086
+il,mash had,Mash Had,03,,32.739382,35.324799
+il,mashmia` shalom,Mashmia` Shalom,01,,31.75879,34.787165
+il,mashmia shalom,Mashmia Shalom,01,,31.75879,34.787165
+il,mashrafiyyah,Mashrafiyyah,04,,32.553011,35.156245
+il,maslul,Maslul,01,,31.324847,34.590563
+il,masmieh c.,Masmieh C.,01,,31.74199,34.782295
+il,masmiya bet,Masmiya Bet,01,,31.752102,34.763163
+il,masmiya b,Masmiya B,01,,31.752102,34.763163
+il,masmiya hadasha,Masmiya Hadasha,01,,31.780518,34.76915
+il,masmiyah bet,Masmiyah Bet,01,,31.752102,34.763163
+il,masmiyah hadashah,Masmiyah Hadashah,01,,31.780518,34.76915
+il,masmiyah hahadashah,Masmiyah Hahadashah,01,,31.780518,34.76915
+il,massadah,Massadah,03,,32.683733,35.598482
+il,massada,Massada,03,,32.683733,35.598482
+il,massad,Massad,03,,32.843827,35.422125
+il,massouba,Massouba,03,,33.063753,35.157614
+il,massu'a,Massu'a,06,,31.683333,34.9
+il,massu'ot yitshak,Massu'ot Yitshak,01,,31.702971,34.69129
+il,massu'ot yizhaq,Massu'ot Yizhaq,01,,31.702971,34.69129
+il,masua,Masua,06,,31.683333,34.9
+il,mas`udiya,Mas`udiya,05,,32.083333,34.783333
+il,mas`udiyyah,Mas`udiyyah,05,,32.083333,34.783333
+il,masuot yits-haq,Masuot Yits-haq,01,,31.702971,34.69129
+il,masu'ot yizhaq,Masu'ot Yizhaq,01,,31.702971,34.69129
+il,mata`,Mata`,06,,31.718112,35.061408
+il,matsliah,Matsliah,02,,31.906111,34.873056
+il,matsova,Matsova,03,,33.063753,35.157614
+il,matsuvah,Matsuvah,03,,33.063753,35.157614
+il,matsuva,Matsuva,03,,33.063753,35.157614
+il,matta`,Matta`,06,,31.718112,35.061408
+il,mattat,Mattat,03,,33.041338,35.358582
+il,maveqi`im,Maveqi`im,01,,31.622069,34.57817
+il,mavqi`im,Mavqi`im,01,,31.622069,34.57817
+il,mavu`a,Mavu`a,01,,30.653333,35.238611
+il,mayan baruch,Mayan Baruch,03,,33.240325,35.608996
+il,ma`yan barukh,Ma`yan Barukh,03,,33.240325,35.608996
+il,ma'yan barukh,Ma'yan Barukh,03,,33.240325,35.608996
+il,ma`yan tsevi,Ma`yan Tsevi,04,,32.5686,34.940634
+il,ma'yan tsevi,Ma'yan Tsevi,04,,32.5686,34.940634
+il,ma`yan tsvi,Ma`yan Tsvi,04,,32.5686,34.940634
+il,ma`yan zevi,Ma`yan Zevi,04,,32.5686,34.940634
+il,ma`yan zvi,Ma`yan Zvi,04,,32.5686,34.940634
+il,mayrun,Mayrun,03,,32.987803,35.440866
+il,mazar,Mazar,04,,32.683333,34.966667
+il,mazkeret batyah,Mazkeret Batyah,02,,31.853889,34.838611
+il,mazkeret batya,Mazkeret Batya,02,8283,31.853889,34.838611
+il,mazliah,Mazliah,02,,31.906111,34.873056
+il,mazor,Mazor,02,,32.053333,34.9275
+il,mazra`ah,Mazra`ah,03,,32.983383,35.09837
+il,mazra`a,Mazra`a,03,,32.983383,35.09837
+il,mazzuva,Mazzuva,03,,33.063753,35.157614
+il,me `ammi,Me `Ammi,04,,32.505031,35.148685
+il,me`elya,Me`elya,03,,33.027813,35.256584
+il,mefallesim,Mefallesim,01,,31.501251,34.563703
+il,mefallsim,Mefallsim,01,,31.501251,34.563703
+il,mefalsim,Mefalsim,01,,31.501251,34.563703
+il,megadim,Megadim,04,,32.716667,34.95
+il,megiddo,Megiddo,03,,32.574722,35.175556
+il,megido,Megido,03,,32.574722,35.175556
+il,mei`ami,Mei`Ami,04,,32.505031,35.148685
+il,mei neftoah,Mei Neftoah,06,,31.796963,35.192395
+il,meiron,Meiron,03,,32.987803,35.440866
+il,meir shefeyah,Meir Shefeyah,04,,32.583333,34.95
+il,me'ir shefeya,Me'ir Shefeya,04,,32.583333,34.95
+il,meir shfeyah,Meir Shfeyah,04,,32.583333,34.95
+il,meirun,Meirun,03,,32.987803,35.440866
+il,meisar,Meisar,04,,32.444445,35.04134
+il,meishar,Meishar,02,,31.816135,34.752927
+il,meisir,Meisir,04,,32.444445,35.04134
+il,meitsar,Meitsar,04,,32.444445,35.04134
+il,mejamia,Mejamia,03,,32.6211,35.551339
+il,mejamie,Mejamie,03,,32.6211,35.551339
+il,mekor haim,Mekor Haim,06,,31.752919,35.214957
+il,mekor hayyim,Mekor Hayyim,06,,31.752919,35.214957
+il,mele'a,Mele'a,03,,32.563312,35.237469
+il,melhamia,Melhamia,03,,32.666623,35.555001
+il,melilot,Melilot,01,,31.390153,34.596608
+il,menahamiya,Menahamiya,03,,32.666623,35.555001
+il,menahemiya,Menahemiya,03,,32.666623,35.555001
+il,menahemyah,Menahemyah,03,,32.666623,35.555001
+il,menahemya,Menahemya,03,,32.666623,35.555001
+il,menara,Menara,03,,32.763846,35.553061
+il,me neftoah,Me Neftoah,06,,31.796963,35.192395
+il,menora,Menora,03,,32.763846,35.553061
+il,menshieh,Menshieh,05,,32.066667,34.766667
+il,menuha,Menuha,01,,31.656902,34.776928
+il,me`ona `ironit,Me`ona `Ironit,03,,33.016667,35.266667
+il,me`ona,Me`ona,03,,33.016613,35.262568
+il,me'ona,Me'ona,03,,33.016613,35.262568
+il,meqor hayyim,Meqor Hayyim,06,,31.752919,35.214957
+il,merchavia,Merchavia,03,,32.608333,35.308333
+il,merghelyout,Merghelyout,03,,33.214715,35.544987
+il,merhabyah,Merhabyah,03,,32.6,35.316667
+il,merhaviah,Merhaviah,03,,32.608333,35.308333
+il,merhavyah,Merhavyah,03,,32.608333,35.308333
+il,merhavya,Merhavya,03,,32.608333,35.308333
+il,merion,Merion,03,,32.987803,35.440866
+il,merkaz hanukhi,Merkaz Hanukhi,02,,31.797403,34.820834
+il,merkaz sappir,Merkaz Sappir,01,,30.609167,35.185833
+il,merkaz shapira,Merkaz Shapira,01,,31.696417,34.70704
+il,meron,Meron,03,,32.987803,35.440866
+il,meshar,Meshar,02,,31.816135,34.752927
+il,meshek hapo'alot,Meshek Hapo'alot,03,,32.6,35.266667
+il,mesheq hapo`alot,Mesheq HaPo`alot,03,,32.6,35.266667
+il,meshullam,Meshullam,02,,31.804131,34.699937
+il,mesilat tsiyon,Mesilat Tsiyon,06,,31.802004,35.010946
+il,mesilat zion,Mesilat Zion,06,,31.802004,35.010946
+il,mesillat oz,Mesillat Oz,01,,31.732996,34.679946
+il,mesillat tsiyon,Mesillat Tsiyon,06,,31.802004,35.010946
+il,mesillat tsiyyon,Mesillat Tsiyyon,06,,31.802004,35.010946
+il,mesillat zion,Mesillat Zion,06,,31.802004,35.010946
+il,mesillat ziyyon,Mesillat Ziyyon,06,,31.802004,35.010946
+il,mesillot,Mesillot,03,,32.495833,35.475
+il,mesilot,Mesilot,03,,32.495833,35.475
+il,messilot,Messilot,03,,32.495833,35.475
+il,metav,Metav,03,,32.545909,35.301066
+il,metser,Metser,04,,32.440098,35.04811
+il,metsudat menahem ussishkin alef,Metsudat Menahem Ussishkin Alef,03,,33.230133,35.638666
+il,metsudat menahem ussishkin bet,Metsudat Menahem Ussishkin Bet,03,,33.239793,35.653354
+il,metulah,Metulah,03,,33.279182,35.579501
+il,metula,Metula,03,,33.279182,35.579501
+il,metullah,Metullah,03,,33.279182,35.579501
+il,metulla,Metulla,03,,33.279182,35.579501
+il,me'uhadi,Me'uhadi,02,,32.325607,35.007451
+il,me'uhad,Me'uhad,02,,32.325607,35.007451
+il,mevasserettsiyyon,MevasseretTsiyyon,06,,31.80277,35.159524
+il,mevasseret yerushalayim,Mevasseret Yerushalayim,06,,31.807487,35.151868
+il,mevasseret yerushalim,Mevasseret Yerushalim,06,,31.807487,35.151868
+il,mevasseret ziyyon,Mevasseret Ziyyon,06,,31.80277,35.159524
+il,mevo beitar,Mevo Beitar,06,,31.721767,35.106691
+il,mevo beiter,Mevo Beiter,06,,31.721767,35.106691
+il,mevo betar,Mevo Betar,06,,31.721767,35.106691
+il,mevo beter,Mevo Beter,06,,31.721767,35.106691
+il,mevo modi`im,Mevo Modi`im,02,,31.933889,34.985556
+il,mevoot beitar,Mevoot Beitar,06,,31.721767,35.106691
+il,mevoot beiter,Mevoot Beiter,06,,31.721767,35.106691
+il,mevoot betar,Mevoot Betar,06,,31.721767,35.106691
+il,meyshar,Meyshar,02,,31.816135,34.752927
+il,mezer,Mezer,04,,32.440098,35.04811
+il,midrakh `oz,Midrakh `Oz,03,,32.592222,35.156944
+il,midrakh oz,Midrakh Oz,03,,32.593056,35.180278
+il,mi'elya,Mi'elya,03,,33.027813,35.256584
+il,mifshata,Mifshata,03,,33.048952,35.308935
+il,migdal afeq,Migdal Afeq,02,,32.083333,34.95
+il,migdal ascalon,Migdal Ascalon,01,,31.669256,34.57149
+il,migdal ashqelon,Migdal Ashqelon,01,,31.669256,34.57149
+il,migdal gad,Migdal Gad,01,,31.669256,34.57149
+il,migdal haemeqck,Migdal Haemeqck,03,,32.671389,35.240556
+il,migdal ha`emeq,Migdal Ha`Emeq,03,,32.671389,35.240556
+il,migdal hameq,Migdal Hameq,03,,32.671389,35.240556
+il,migdal,Migdal,03,,32.839204,35.501447
+il,migdal tefen,Migdal Tefen,03,,32.978742,35.272831
+il,migdal tsedek,Migdal Tsedek,02,,32.083333,34.95
+il,migdal tsedeq,Migdal Tsedeq,02,,32.083333,34.95
+il,migdal tzedek,Migdal Tzedek,02,,32.083333,34.95
+il,migdal yafo,Migdal Yafo,02,,32.083333,34.95
+il,migdal zedek,Migdal Zedek,02,,32.083333,34.95
+il,mihraqa,Mihraqa,01,,31.466667,34.616667
+il,mi`ilya,Mi`ilya,03,,33.027813,35.256584
+il,mi'ilya,Mi'ilya,03,,33.027813,35.256584
+il,mikhmannim,Mikhmannim,03,,32.90591,35.328151
+il,mikhmoret,Mikhmoret,02,,32.405353,34.870909
+il,mikveh israel,Mikveh Israel,05,,32.026944,34.778611
+il,mikweh israel,Mikweh Israel,05,,32.026944,34.778611
+il,milhamiah,Milhamiah,03,,32.666623,35.555001
+il,milhamiye,Milhamiye,03,,32.666623,35.555001
+il,milhamiyyah,Milhamiyyah,03,,32.666623,35.555001
+il,miqve yisrael,Miqve Yisrael,05,,32.026944,34.778611
+il,miqweh yisrael,Miqweh Yisrael,05,,32.026944,34.778611
+il,miqwe yisra'el,Miqwe Yisra'el,05,,32.026944,34.778611
+il,misgav `am,Misgav `Am,03,,33.247445,35.548908
+il,misgav dov,Misgav Dov,02,,31.816667,34.733333
+il,misgav,Misgav,03,,32.861111,35.256944
+il,misgav palmah,Misgav Palmah,06,,31.783775,35.119263
+il,mishmar aiyalon,Mishmar Aiyalon,02,,31.870278,34.941667
+il,mishmar-'ayalon,Mishmar-'Ayalon,02,,31.870278,34.941667
+il,mishmar ayalon qubab,Mishmar Ayalon Qubab,02,,31.870278,34.941667
+il,mishmar ayyalon,Mishmar Ayyalon,02,,31.870278,34.941667
+il,mishmar david,Mishmar David,02,,31.8228,34.900507
+il,mishmar dawid,Mishmar Dawid,02,,31.8228,34.900507
+il,mishmar ha`emeq,Mishmar Ha`Emeq,03,,32.611944,35.144722
+il,mishmar hanegev,Mishmar HaNegev,01,,31.364155,34.718699
+il,mishmar hasharon,Mishmar HaSharon,02,,32.35689,34.903594
+il,mishmar hasheloshah,Mishmar Hasheloshah,03,,32.710854,35.502571
+il,mishmar hashelosha,Mishmar HaShelosha,03,,32.710854,35.502571
+il,mishmar hashiv`ah,Mishmar Hashiv`ah,05,,32.010556,34.825
+il,mishmar hashiv`a,Mishmar HaShiv`a,05,,32.010556,34.825
+il,mishmar hashloshah,Mishmar Hashloshah,03,,32.710854,35.502571
+il,mishmar hayam,Mishmar Hayam,03,,32.838889,35.124722
+il,mishmar hayarden,Mishmar HaYarden,03,,33.003333,35.598056
+il,mishmar hayardin,Mishmar Hayardin,03,,33.003333,35.598056
+il,mishmarot,Mishmarot,04,,32.487175,34.983237
+il,mishmeret,Mishmeret,02,,32.22818,34.918345
+il,mispah,Mispah,03,,32.789963,35.509258
+il,misrara,Misrara,06,,31.783333,35.216667
+il,mitspah,Mitspah,03,,32.789963,35.509258
+il,mitspa,Mitspa,03,,32.789963,35.509258
+il,mitspe hagalil,Mitspe Hagalil,03,,32.748879,35.42185
+il,mitspeh hagalil,Mitspeh Hagalil,03,,32.748879,35.42185
+il,mitspe netofa,Mitspe Netofa,03,,32.802869,35.382908
+il,mitspe ramon,Mitspe Ramon,01,,30.609444,34.801111
+il,mitspe-yodfat,Mitspé-Yodfat,03,,32.836111,35.269444
+il,mitulla,Mitulla,03,,33.279182,35.579501
+il,mitze ramon,Mitze Ramon,01,,30.609444,34.801111
+il,mivhor,Mivhor,01,,31.62049,34.77161
+il,mivtahim,Mivtahim,01,,31.241739,34.407612
+il,mivtah,Mivtah,01,,31.805909,34.739609
+il,mizpa,Mizpa,03,,32.789963,35.509258
+il,mizpe netofa,Mizpe Netofa,03,,32.802869,35.382908
+il,mizpe ramon,Mizpe Ramon,01,4769,30.609444,34.801111
+il,mizpe yodefat,Mizpe Yodefat,03,,32.836111,35.269444
+il,mizpe yodfat,Mizpe Yodfat,03,,32.836111,35.269444
+il,mizrah yarkona,Mizrah Yarkona,02,,32.149167,34.923889
+il,mizra`,Mizra`,03,,32.655556,35.2875
+il,m'lia,M'lia,03,,32.563312,35.237469
+il,modi`in,Modi`in,02,,31.933889,34.985556
+il,moledet,Moledet,03,,32.586129,35.442007
+il,moledet,Moledet,05,,32.001111,34.800556
+il,monosson,Monosson,05,,32.03,34.870833
+il,montefiore,Montefiore,05,,32.066667,34.783333
+il,montefiore,Montefiore,06,,31.785573,35.194753
+il,moran,Moran,03,,32.919343,35.396626
+il,morasha,Morasha,05,,32.130278,34.856389
+il,mosa,Mosa,06,,31.792894,35.168466
+il,moshava,Moshava,03,,32.722636,35.566205
+il,motsa `ilit,Motsa `Ilit,06,,31.793572,35.157755
+il,motsa `illit,Motsa `Illit,06,,31.793572,35.157755
+il,motsa illit,Motsa Illit,06,,31.793572,35.157755
+il,motsa,Motsa,06,,31.792894,35.168466
+il,motsa tahtit,Motsa Tahtit,06,,31.792894,35.168466
+il,mozah,Mozah,06,,31.792894,35.168466
+il,moza `illit,Moza `Illit,06,,31.793572,35.157755
+il,moza,Moza,06,,31.792894,35.168466
+il,moza tahtit,Moza Tahtit,06,,31.792894,35.168466
+il,mqeible,Mqeible,03,,32.514243,35.29617
+il,msilot,Msilot,03,,32.495833,35.475
+il,mu`awiyah,Mu`awiyah,03,,32.53076,35.104265
+il,mu`awiya,Mu`awiya,03,,32.53076,35.104265
+il,mu`awyah,Mu`awyah,03,,32.53076,35.104265
+il,mu'awye,Mu'awye,03,,32.53076,35.104265
+il,mughallis b,Mughallis B,06,,31.749947,34.886338
+il,mughar,Mughar,03,,32.889843,35.407034
+il,muharakah alef,Muharakah Alef,01,,31.443967,34.609491
+il,muharakah,Muharakah,01,,31.466667,34.616667
+il,muharraqa,Muharraqa,01,,31.466667,34.616667
+il,mujame,Mujame,03,,32.6211,35.551339
+il,mukeibileh,Mukeibileh,03,,32.514243,35.29617
+il,mulebbis,Mulebbis,02,,32.088611,34.872222
+il,mull azza,Mull Azza,01,,31.47319,34.497824
+il,muqeibila,Muqeibila,03,,32.514243,35.29617
+il,muqeibile,Muqeibile,03,,32.514243,35.29617
+il,murtafi`a,Murtafi`a,04,,32.545448,35.175785
+il,mushayrifah,Mushayrifah,04,,32.553011,35.156245
+il,musheirfe,Musheirfe,04,,32.553011,35.156245
+il,musheirifa,Musheirifa,04,,32.553011,35.156245
+il,musmus,Musmus,04,,32.543576,35.156186
+il,musrara,Musrara,06,,31.783333,35.216667
+il,na`aliyyah,Na`aliyyah,01,,31.633333,34.566667
+il,na`amah,Na`amah,02,,31.866667,34.866667
+il,na`ama,Na`ama,02,,31.866667,34.866667
+il,na`ana,Na`ana,02,,31.866667,34.866667
+il,naaneh,Naaneh,02,,31.866667,34.866667
+il,na`an,Na`an,02,,31.880833,34.859444
+il,nabi el haram,Nabi el Haram,05,,32.187222,34.805833
+il,nabi rubin,Nabi Rubin,02,,31.933056,34.707222
+il,nabi yamin,Nabi Yamin,02,,32.168611,34.935278
+il,nabi yunis,Nabi Yunis,02,,31.825417,34.682816
+il,nadi rubin,Nadi Rubin,02,,31.933056,34.707222
+il,nahaf,Nahaf,03,,32.933333,35.316667
+il,nahala'im a,Nahala'im A,01,,31.47319,34.497824
+il,nahalal,Nahalal,03,,32.69,35.196667
+il,nahal amittay,Nahal Amittay,01,,31.203056,34.284709
+il,nahala,Nahala,01,,31.658233,34.794704
+il,nahala'ot,Nahala'ot,03,,32.633333,35.126944
+il,nahalath yehuda,Nahalath Yehuda,02,,31.984167,34.803889
+il,nahalat reuven,Nahalat Reuven,02,,31.926389,34.803333
+il,nahalat yehudah,Nahalat Yehudah,02,,31.984167,34.803889
+il,nahalat yehuda,Nahalat Yehuda,02,,31.984167,34.803889
+il,nahalat yitshak,Nahalat Yitshak,05,,32.066667,34.8
+il,nahalat yitshaq,Nahalat Yitshaq,05,,32.066667,34.8
+il,nahalat yizhaq,Nahalat Yizhaq,05,,32.066667,34.8
+il,nahal-malkichoua,Nahal-Malkichoua,03,,32.433333,35.4
+il,nahal malkishua`,Nahal Malkishua`,03,,32.433333,35.4
+il,nahal `oz,Nahal `Oz,01,,31.47319,34.497824
+il,nahal oz,Nahal Oz,01,,31.47319,34.497824
+il,nahal rubin,Nahal Rubin,02,,31.933056,34.707222
+il,nahal shittim,Nahal Shittim,01,,30.179444,35.0175
+il,nahal sorek 3,Nahal Sorek 3,02,,31.792813,34.810478
+il,nahal sorek,Nahal Sorek,02,,31.933056,34.707222
+il,nahal soreq c,Nahal Soreq C,02,,31.792813,34.810478
+il,nahal soreq,Nahal Soreq,01,,31.789593,34.760655
+il,nahal soreq,Nahal Soreq,02,,31.933056,34.707222
+il,nahal ya`alon,Nahal Ya`alon,01,,30.052778,35.054444
+il,nahal zofar,Nahal Zofar,01,,30.488611,35.167778
+il,naham,Naham,06,,31.766578,35.003715
+il,nahariyah,Nahariyah,03,,33.005855,35.094087
+il,nahariya,Nahariya,03,,33.005855,35.094087
+il,nahariyya,Nahariyya,03,50881,33.005855,35.094087
+il,nahar,Nahar,03,,33.004497,35.121916
+il,nahasholim,Nahasholim,04,,32.616667,34.916667
+il,nahashonim,Nahashonim,02,,32.058889,34.948333
+il,nahashon,Nahashon,06,,31.831171,34.955482
+il,nahef,Nahef,03,10077,32.933333,35.316667
+il,nahf,Nahf,03,,32.933333,35.316667
+il,nahla'ot,Nahla'ot,03,,32.633333,35.126944
+il,nahlat yits-haq,Nahlat Yits-Haq,05,,32.066667,34.8
+il,nahsholim,Nahsholim,04,,32.616667,34.916667
+il,nahshonim,Nahshonim,02,,32.058889,34.948333
+il,nahshon,Nahshon,06,,31.831171,34.955482
+il,na`im,Na`im,03,,32.630634,35.348847
+il,nakubah,Nakubah,06,,31.804521,35.125955
+il,na'lia,Na'lia,01,,31.633333,34.566667
+il,na`nah,Na`nah,02,,31.866667,34.866667
+il,narbatah,Narbatah,04,,32.456169,35.028885
+il,narbata,Narbata,04,,32.456169,35.028885
+il,natanya,Natanya,02,,32.332915,34.859918
+il,nathanya,Nathanya,02,,32.332915,34.859918
+il,nativ bamoledet,Nativ Bamoledet,01,,31.425159,34.606013
+il,natseret,Natséret,03,,32.703611,35.295556
+il,natsrat ilit,Natsrat Ilit,03,,32.708162,35.324685
+il,natsrat,Natsrat,03,,32.703611,35.295556
+il,natzrath ilith,Natzrath Ilith,03,,32.708162,35.324685
+il,na`urah,Na`urah,03,,32.614033,35.391679
+il,na`ura,Na`ura,03,,32.614033,35.391679
+il,nave sha`anan,Nave Sha`anan,05,,32.05,34.783333
+il,nayn,Nayn,03,,32.630634,35.348847
+il,nazareth illit,Nazareth Illit,03,,32.708162,35.324685
+il,nazareth-la-haute,Nazareth-la-Haute,03,,32.708162,35.324685
+il,nazareth,Nazareth,03,,32.703611,35.295556
+il,nazerat `ilit,Nazerat `Ilit,03,,32.708162,35.324685
+il,nazerat `illit,Nazerat `Illit,03,,32.708162,35.324685
+il,nazerat,Nazerat,03,,32.703611,35.295556
+il,nazrath illit,Nazrath Illit,03,,32.708162,35.324685
+il,nazzerat,Nazzerat,03,,32.703611,35.295556
+il,ne`ane,Ne`ane,02,,31.866667,34.866667
+il,nebi rubin,Nebi Rubin,02,,31.933056,34.707222
+il,neftoah,Neftoah,06,,31.796963,35.192395
+il,negbah,Negbah,01,,31.662046,34.682968
+il,negba,Negba,01,,31.662046,34.682968
+il,nehalim,Nehalim,02,2061,32.061944,34.913889
+il,nehalim,Nehalim,03,,33.220607,35.623312
+il,nehora,Nehora,01,,31.622681,34.705456
+il,nehusha,Nehusha,06,,31.630641,34.953096
+il,neim,Neim,03,,32.630634,35.348847
+il,nein,Nein,03,1588,32.630634,35.348847
+il,neiter,Neiter,05,,32.026944,34.778611
+il,ne`oran,Ne`oran,03,,32.614033,35.391679
+il,ne'ot hakikar,Ne'ot HaKikar,01,,30.95,35.366667
+il,neot mordekhai,Neot Mordekhai,03,,33.16034,35.596628
+il,ne'ot mordekhay,Ne'ot Mordekhay,03,,33.16034,35.596628
+il,ne'ot sadeh,Ne'ot Sadeh,02,,32.195556,34.879167
+il,ne'ot sade,Ne'ot Sade,02,,32.195556,34.879167
+il,nephtoah,Nephtoah,06,,31.796963,35.192395
+il,neriyya,Neriyya,03,,33.011129,35.391363
+il,nes amim,Nes Amim,03,,32.965782,35.121235
+il,nes `ammim,Nes `Ammim,03,,32.965782,35.121235
+il,nes ammim,Nes Ammim,03,,32.965782,35.121235
+il,nes harim,Nes Harim,06,,31.74547,35.057398
+il,nesher,Nesher,04,21811,32.765,35.05
+il,nes siyona,Nes Siyona,02,,31.926389,34.803333
+il,ness siona,Ness Siona,02,,31.926389,34.803333
+il,ness ziona,Ness Ziona,02,,31.926389,34.803333
+il,nes tsiyonah,Nes Tsiyonah,02,,31.926389,34.803333
+il,nes tsiyona,Nes Tsiyona,02,,31.926389,34.803333
+il,nes ziyona,Nes Ziyona,02,,31.926389,34.803333
+il,nes ziyyona,Nes Ziyyona,02,,31.926389,34.803333
+il,neta`im,Neta`im,02,,31.944444,34.774444
+il,neta'im training unit,Neta'im Training Unit,01,,31.371207,34.63395
+il,netanya,Netanya,02,172405,32.332915,34.859918
+il,netivah,Netivah,01,,31.762134,34.794456
+il,netiva,Netiva,01,,31.762134,34.794456
+il,netiva,Netiva,02,,31.797403,34.820834
+il,netiv ha`asara,Netiv Ha`Asara,01,,31.572012,34.539554
+il,netiv haasara,Netiv HaAsara,01,,31.572012,34.539554
+il,netiv halah,Netiv Halah,06,,31.687548,34.982724
+il,netiv halamed-hei,Netiv Halamed-hei,06,,31.687548,34.982724
+il,netiv halamed he,Netiv HaLamed He,06,,31.687548,34.982724
+il,netiv hashayara,Netiv Hashayara,03,,32.993424,35.13538
+il,netiv hashayyara,Netiv HaShayyara,03,,32.993424,35.13538
+il,netiv lah,Netiv Lah,06,,31.687548,34.982724
+il,netivot,Netivot,01,24933,31.42215,34.588581
+il,netivot,Netivot,02,,31.820337,34.692351
+il,netser,Netser,02,,31.922778,34.825833
+il,netu`a,Netu`a,03,,33.064638,35.323401
+il,netu'a,Netu'a,03,,33.064638,35.323401
+il,ne'uirim,Ne'uirim,02,,32.376386,34.862438
+il,ne`urim,Ne`urim,02,,32.376386,34.862438
+il,ne'urim,Ne'urim,02,,32.376386,34.862438
+il,nevala,Nevala,02,,31.976389,34.954444
+il,nevalat,Nevalat,02,,31.976389,34.954444
+il,nevallat,Nevallat,02,,31.976389,34.954444
+il,nevatim,Nevatim,01,,31.224155,34.882077
+il,neve-amiel,Nevé-Amiel,03,,32.698611,35.142222
+il,neve avot,Neve Avot,04,,32.484993,34.968069
+il,neve efram monosson,Neve Efram Monosson,05,,32.03,34.870833
+il,neve efrayime,Neve Efrayime,05,,32.03,34.870833
+il,neve eitan,Neve Eitan,03,,32.483333,35.533333
+il,neve haiyim,Neve Haiyim,04,,32.45,34.9
+il,neveh amiel,Neveh Amiel,03,,32.698611,35.142222
+il,neveh avot,Neveh Avot,04,,32.484993,34.968069
+il,neveh oved,Neveh Oved,03,,32.743108,35.538159
+il,neveh tsedek,Neveh Tsedek,05,,32.066667,34.766667
+il,neveh-zohar,Neveh-Zohar,01,,31.152778,35.366667
+il,neve ilan,Neve Ilan,06,,31.808136,35.080856
+il,neve itamar,Nevé Itamar,02,,32.320504,34.875284
+il,neve or,Neve Or,03,,32.588796,35.553574
+il,neve shaanan,Neve Shaanan,04,,32.785278,35.013889
+il,neve sha'anan,Neve Sha'anan,05,,32.05,34.783333
+il,neve shalom,Nevé Shalom,02,,32.348452,34.856021
+il,neve tsedek,Neve Tsedek,05,,32.066667,34.766667
+il,neve yaakov,Neve Yaakov,06,,31.8,35.233333
+il,neve yam,Neve Yam,04,,32.678333,34.931944
+il,neve zedek quarter,Neve Zedek Quarter,05,,32.066667,34.766667
+il,neve-zohar,Nevé-Zohar,01,,31.152778,35.366667
+il,newe ami'el,Newe Ami'el,03,,32.698611,35.142222
+il,newe `ammi'el,Newe `Ammi'el,03,,32.698611,35.142222
+il,newe avot,Newé Avot,04,,32.484993,34.968069
+il,newe efrayim,Newe Efrayim,05,,32.03,34.870833
+il,newe etan,Newe Etan,03,,32.483333,35.533333
+il,newe harif,Newe Harif,01,,30.037778,35.039167
+il,newe hayyim,Newe Hayyim,04,,32.45,34.9
+il,neweh eitan,Neweh Eitan,03,,32.483333,35.533333
+il,neweh etan,Neweh Etan,03,,32.483333,35.533333
+il,neweh hayim,Neweh Hayim,04,,32.45,34.9
+il,neweh ilan,Neweh Ilan,06,,31.808136,35.080856
+il,neweh or,Neweh Or,03,,32.588796,35.553574
+il,neweh ur,Neweh Ur,03,,32.588796,35.553574
+il,neweh ya`ar,Neweh Ya`ar,03,,32.729444,35.170556
+il,neweh yair,Neweh Yair,01,,31.35109,34.401649
+il,neweh yamin,Neweh Yamin,02,,32.168611,34.935278
+il,neweh yam,Neweh Yam,04,,32.678333,34.931944
+il,newe ilan,Newé Ilan,06,,31.808136,35.080856
+il,newe itamar,Newé Itamar,02,,32.320504,34.875284
+il,newe miftah,Newe Miftah,01,,31.805909,34.739609
+il,newe mikha'el,Newe Mikha'el,06,,31.672977,35.008756
+il,newe mivtah,Newe Mivtah,01,,31.805909,34.739609
+il,newe `oved,Newe `Oved,03,,32.743108,35.538159
+il,newe oved-poriyya,Newe Oved-Poriyya,03,,32.743108,35.538159
+il,newe sedot,Newé Sedot,04,,32.560878,34.963377
+il,newe sha'anan,Newe Sha'anan,04,,32.785278,35.013889
+il,newe sha'anan,Newe Sha'anan,05,,32.05,34.783333
+il,newe sha'anan,Newe Sha'anan,06,,31.772316,35.201062
+il,newe shalom,Newé Shalom,02,,32.348452,34.856021
+il,newe ur,Newé Ur,03,,32.588796,35.553574
+il,newe yaacov,Newe Yaacov,06,,31.8,35.233333
+il,newe ya`aqov,Newe Ya`aqov,06,,31.8,35.233333
+il,newe yamin,Newe Yamin,02,,32.168611,34.935278
+il,newe yam,Newe Yam,04,,32.678333,34.931944
+il,newe yaraq,Newe Yaraq,02,,32.132222,34.922222
+il,newe zedek,Newe Zedek,05,,32.066667,34.766667
+il,newe zedeq,Newe Zedeq,05,,32.066667,34.766667
+il,newe zohar,Newe Zohar,01,,31.152778,35.366667
+il,newwe `ammi`el,Newwe `Ammi`el,03,,32.698611,35.142222
+il,new yavne,New Yavne,02,,31.876389,34.74
+il,neys-siyona,Neys-Siyona,02,,31.926389,34.803333
+il,nezer sereni,Nezer Sereni,02,,31.922778,34.825833
+il,ni`ana,Ni`ana,02,,31.866667,34.866667
+il,ni`ilya,Ni`ilya,01,,31.633333,34.566667
+il,nirah,Nirah,02,,32.334618,34.890519
+il,nir akiva,Nir Akiva,01,,31.469939,34.646335
+il,nir`am,Nir`am,01,,31.519594,34.580059
+il,nir'am,Nir'am,01,,31.519594,34.580059
+il,nira,Nira,02,,32.334618,34.890519
+il,nir `aqiva,Nir `Aqiva,01,,31.469939,34.646335
+il,nir banim,Nir Banim,01,,31.671777,34.754816
+il,nir chen,Nir Chen,01,,31.609006,34.714617
+il,nir david,Nir David,03,,32.502778,35.456944
+il,nir dawid,Nir Dawid,03,,32.502778,35.456944
+il,nir eliyahu,Nir Eliyahu,02,,32.197778,34.949167
+il,nir eliyyahu,Nir Eliyyahu,02,,32.197778,34.949167
+il,nir-'esyon,Nir-'Esyon,04,,32.696944,34.992222
+il,nir `etsyon,Nir `Etsyon,04,,32.696944,34.992222
+il,nir `ezyon,Nir `Ezyon,04,,32.696944,34.992222
+il,nir galim,Nir Galim,02,,31.825417,34.682816
+il,nir gallim,Nir Gallim,02,,31.825417,34.682816
+il,nir hen,Nir Hen,01,,31.609006,34.714617
+il,nirim,Nirim,01,,31.335586,34.395069
+il,nir itzhaq,Nir Itzhaq,01,,31.237388,34.357427
+il,nir moshe,Nir Moshe,01,,31.478123,34.632039
+il,nir on,Nir On,03,,33.077105,35.454906
+il,nir `oz,Nir `Oz,01,,31.310167,34.4021
+il,nir oz,Nir Oz,01,,31.310167,34.4021
+il,nir vegal,Nir Vegal,02,,31.825417,34.682816
+il,nir wagal,Nir Wagal,02,,31.825417,34.682816
+il,nir yafe,Nir Yafe,03,,32.569049,35.245005
+il,nir yisra'el,Nir Yisra'el,01,,31.688096,34.637802
+il,nir yisral,Nir Yisral,01,,31.688096,34.637802
+il,nir yitshak,Nir Yitshak,01,,31.237388,34.357427
+il,nir yits-haq,Nir Yits-haq,01,,31.237388,34.357427
+il,nir yizhaq,Nir Yizhaq,01,,31.237388,34.357427
+il,nir zevi,Nir Zevi,02,,31.956944,34.862222
+il,nitsana,Nitsana,01,,30.885365,34.422768
+il,nitsane `oz,Nitsane `Oz,02,,32.306004,35.003736
+il,nitsane oz,Nitsané Oz,02,,32.306004,35.003736
+il,nitsane sinay,Nitsané Sinay,01,,30.904179,34.397135
+il,nitsanim,Nitsanim,01,,31.716817,34.634705
+il,niva,Niva,01,,31.595492,34.642424
+il,nizanim,Nizanim,01,,31.716817,34.634705
+il,nizzana,Nizzana,01,,30.885365,34.422768
+il,nizzane `oz,Nizzane `Oz,02,,32.306004,35.003736
+il,nizzane sinay,Nizzane Sinay,01,,30.904179,34.397135
+il,nizzanim,Nizzanim,01,,31.716817,34.634705
+il,no`am,No`am,01,,31.567715,34.788921
+il,no'am,No'am,01,,31.567715,34.788921
+il,nofekh,Nofekh,02,,32.043611,34.92
+il,nofek,Nofek,02,,32.043611,34.92
+il,nof yam,Nof Yam,02,,32.190278,34.812778
+il,nogah,Nogah,01,,31.624251,34.695131
+il,noga,Noga,01,,31.624251,34.695131
+il,nordiyah,Nordiyah,02,,32.314697,34.89617
+il,nordiya,Nordiya,02,,32.314697,34.89617
+il,nordiyya,Nordiyya,02,2264,32.314697,34.89617
+il,noss ziona,Noss Ziona,02,,31.926389,34.803333
+il,notera,Notera,03,,33.100216,35.636981
+il,ntanya,Ntanya,02,,32.332915,34.859918
+il,ntiva,Ntiva,01,,31.762134,34.794456
+il,nujeidat,Nujeidat,03,,32.811304,35.373756
+il,nuqeib,Nuqeib,03,,32.783333,35.633333
+il,nuris,Nuris,03,,32.545833,35.355556
+il,nurit,Nurit,03,,32.545833,35.355556
+il,nvalat,Nvalat,02,,31.976389,34.954444
+il,n've sha'anan,N've Sha'anan,05,,32.05,34.783333
+il,oblin,Oblin,03,,32.820556,35.189167
+il,ofakim,Ofakim,01,,31.314099,34.620254
+il,ofaqim,Ofaqim,01,24633,31.314099,34.620254
+il,`ofer,`Ofer,04,,32.620833,34.9775
+il,ofiqim,Ofiqim,01,,31.314099,34.620254
+il,ohad,Ohad,01,,31.235973,34.429368
+il,`olesh,`Olesh,02,,32.331993,34.985577
+il,olesh,Olesh,02,,32.331993,34.985577
+il,omar,Omar,01,,31.264891,34.847665
+il,omen,Omen,03,,32.562567,35.241939
+il,`omer,`Omer,01,,31.264891,34.847665
+il,`omer,`Omer,03,,32.697061,35.436697
+il,'omes,'Omes,02,,32.370156,34.993385
+il,omets,Omets,02,,32.370156,34.993385
+il,omez,Omez,02,,32.370156,34.993385
+il,ono,Ono,02,,32.063611,34.855278
+il,ono,Ono,05,,32.022222,34.866667
+il,orah,Orah,06,,31.755189,35.156134
+il,or akiva,Or Akiva,04,,32.506402,34.920868
+il,oranim,Oranim,04,,32.709167,35.105278
+il,oran,Oran,06,,31.755189,35.156134
+il,ora,Ora,06,,31.755189,35.156134
+il,or `aqiba,Or `Aqiba,04,,32.506402,34.920868
+il,or `aqivah,Or `Aqivah,04,,32.506402,34.920868
+il,or `aqiva,Or `Aqiva,04,,32.506402,34.920868
+il,or haganuz,Or HaGanuz,03,,33.005136,35.446908
+il,or haner,Or HaNer,01,,31.557007,34.60202
+il,orot,Orot,01,,31.741032,34.73517
+il,or yehudah,Or Yehudah,05,,32.031111,34.845833
+il,or yehuda,Or Yehuda,05,30977,32.031111,34.845833
+il,otsem,Otsem,01,,31.636852,34.703954
+il,otzem,Otzem,01,,31.652102,34.705908
+il,oum el faraj,Oum El Faraj,03,,33.004497,35.121916
+il,`ozem,`Ozem,01,,31.636852,34.703954
+il,ozem,Ozem,01,,31.652102,34.705908
+il,paamei tashaz,Paamei Tashaz,01,,31.439284,34.694782
+il,pa`ame tashaz,Pa`ame Tashaz,01,,31.439284,34.694782
+il,pa'ame tashaz,Pa'ame Tashaz,01,,31.439284,34.694782
+il,palmaha`im,Palmaha`im,02,,31.933056,34.707222
+il,palmahim,Palmahim,02,,31.933056,34.707222
+il,paran,Paran,01,,30.358333,35.154167
+il,para,Para,03,,32.6,35.1
+il,pardes hanah,Pardes Hanah,04,,32.474083,34.977808
+il,pardes hannah,Pardes Hannah,04,,32.474083,34.977808
+il,pardes hanna karkur,Pardes Hanna Karkur,04,,32.474083,34.977808
+il,pardes hanna,Pardes Hanna,04,,32.474083,34.977808
+il,pardesiyah,Pardesiyah,02,,32.305774,34.909111
+il,pardesiya,Pardesiya,02,,32.305774,34.909111
+il,pardesiyya,Pardesiyya,02,6348,32.305774,34.909111
+il,pardes katz,Pardes Katz,05,,32.095278,34.839444
+il,pardes kaz,Pardes Kaz,05,,32.095278,34.839444
+il,pardess hanna,Pardess Hanna,04,,32.474083,34.977808
+il,pardess katz,Pardess Katz,05,,32.095278,34.839444
+il,parod alef,Parod Alef,03,,32.932693,35.433793
+il,parod bet,Parod Bet,03,,32.943739,35.436105
+il,parod,Parod,03,,32.932693,35.433793
+il,parvona b,Parvona B,03,,32.45,35.470833
+il,patish,Patish,01,,31.327937,34.559058
+il,pattish,Pattish,01,,31.327937,34.559058
+il,pedaya,Pedaya,02,,31.860833,34.883889
+il,peduyim,Peduyim,01,,31.327141,34.611893
+il,peduyyim,Peduyyim,01,,31.327141,34.611893
+il,peer `am,Peer `Am,03,,32.983333,35.533333
+il,peqi`in hadasha,Peqi`in Hadasha,03,,32.982934,35.322821
+il,peqi`in,Peqi`in,03,,32.977465,35.333448
+il,perazon,Perazon,03,,32.54559,35.310805
+il,peri gan,Peri Gan,01,,31.2214,34.355717
+il,petah tikwah,Petah Tikwah,02,,32.088611,34.872222
+il,petah tiqva,Petah Tiqva,02,,32.088611,34.872222
+il,petah tiqwa,Petah Tiqwa,02,,32.088611,34.872222
+il,petahya,Petahya,02,,31.869722,34.886111
+il,pethah tiqva,Pethah Tiqva,02,,32.088611,34.872222
+il,porat,Porat,02,,32.276262,34.948743
+il,poriah,Poriah,03,,32.731897,35.546354
+il,poriyah,Poriyah,03,,32.731897,35.546354
+il,poriya,Poriya,03,,32.719816,35.546673
+il,poriyya illit,Poriyya Illit,03,,32.731897,35.546354
+il,poriyya,Poriyya,03,,32.719816,35.546673
+il,ptolemais,Ptolemais,03,,32.923611,35.072778
+il,qaddarim,Qaddarim,03,,32.897828,35.475761
+il,qadimah,Qadimah,02,,32.282747,34.910548
+il,qadima,Qadima,02,,32.282747,34.910548
+il,qalansuwah,Qalansuwah,02,,32.284929,34.981064
+il,qalansuwa,Qalansuwa,02,,32.284929,34.981064
+il,qallansawah,Qallansawah,02,,32.284929,34.981064
+il,qalmaniya,Qalmaniya,02,,32.201944,34.924167
+il,qalmaniyya,Qalmaniyya,02,,32.201944,34.924167
+il,qannir,Qannir,04,,32.523911,35.034116
+il,qaqun,Qaqun,02,,32.370156,34.993385
+il,qaryat al `inab,Qaryat al `Inab,06,,31.805925,35.1093
+il,qaryat el `inab,Qaryat el `Inab,06,,31.805925,35.1093
+il,qaryat jawarish,Qaryat Jawarish,02,,31.923611,34.847222
+il,qaryet el `inab,Qaryet el `Inab,06,,31.805925,35.1093
+il,qaryet jawarish,Qaryet Jawarish,02,,31.923611,34.847222
+il,qasr sharayi',Qasr Sharayi',04,,32.498383,35.126188
+il,qastina alef,Qastina Alef,01,,31.609981,34.764224
+il,qastina bet,Qastina Bet,01,,31.744403,34.756112
+il,qastina c,Qastina C,01,,31.715337,34.761265
+il,qastinah alef,Qastinah Alef,01,,31.733094,34.776033
+il,qastina,Qastina,01,,31.733094,34.776033
+il,qatara,Qatara,06,,31.763188,35.134216
+il,qatrah,Qatrah,02,,31.814051,34.797137
+il,qatra,Qatra,02,,31.814051,34.797137
+il,qazir,Qazir,04,,32.482545,35.109268
+il,qedmah,Qedmah,01,,31.70101,34.775069
+il,qedma,Qedma,01,,31.70101,34.775069
+il,qeisari,Qeisari,04,,32.492125,34.892243
+il,qelahim,Qelahim,01,,31.451106,34.677793
+il,qeren,Qeren,03,,33.094746,35.556216
+il,qesari,Qesari,04,,32.492125,34.892243
+il,qesariyah,Qesariyah,04,,32.492125,34.892243
+il,qesaryah,Qesaryah,04,,32.492125,34.892243
+il,qesarya,Qesarya,04,4300,32.507982,34.904867
+il,qevuza,Qevuza,03,,32.713802,35.563011
+il,qevuzat yavne,Qevuzat Yavne,02,,31.81555,34.7208
+il,qezi`ot,Qezi`ot,01,,30.876467,34.459653
+il,qidron,Qidron,02,,31.814051,34.797137
+il,qiltah,Qiltah,01,,31.24057,34.713901
+il,qiryat `amal,Qiryat `Amal,04,,32.706667,35.130278
+il,qiryat `anavim,Qiryat `Anavim,06,,31.81082,35.12035
+il,qiryat arye,Qiryat Arye,02,,32.083333,34.883333
+il,qiryat ata,Qiryat Ata,04,,32.800556,35.106389
+il,qiryat atta,Qiryat Atta,04,49548,32.800556,35.106389
+il,qiryat benyamin,Qiryat Benyamin,04,,32.799722,35.083611
+il,qiryat-beyaliq,Qiryat-Beyaliq,04,,32.8275,35.085833
+il,qiryat bialik,Qiryat Bialik,04,37385,32.8275,35.085833
+il,qiryat bialiq,Qiryat Bialiq,04,,32.8275,35.085833
+il,qiryat bialystok,Qiryat Bialystok,02,,32.033333,34.883333
+il,qiryat binyamin,Qiryat Binyamin,04,,32.799722,35.083611
+il,qiryat `eqron,Qiryat `Eqron,02,,31.860833,34.826667
+il,qiryat gat,Qiryat Gat,01,48946,31.609981,34.764224
+il,qiryat haiyam,Qiryat Haiyam,04,,32.831944,35.056111
+il,qiryat haiyim,Qiryat Haiyim,04,,32.831944,35.056111
+il,qiryath `anavim,Qiryath `Anavim,06,,31.81082,35.12035
+il,qiryat haroshet,Qiryat Haroshet,03,,32.691111,35.109167
+il,qiryat hatekhniyyon,Qiryat HaTekhniyyon,04,,32.783333,35.016667
+il,qiryat-hayim,Qiryat-Hayim,04,,32.831944,35.056111
+il,qiryat hayovel,Qiryat HaYovel,06,,31.766667,35.166667
+il,qiryat hayyim,Qiryat Hayyim,04,,32.831944,35.056111
+il,qiryat karmiel,Qiryat Karmiel,03,,32.917222,35.304167
+il,qiryat malachi,Qiryat Malachi,01,,31.729954,34.746532
+il,qiryat mal'akhi,Qiryat Mal'akhi,01,,31.729954,34.746532
+il,qiryat me'ir,Qiryat Me'ir,05,,32.083333,34.783333
+il,qiryat menahem,Qiryat Menahem,06,,31.75,35.166667
+il,qiryat moshe,Qiryat Moshe,06,,31.785573,35.194753
+il,qiryat motskin,Qiryat Motskin,04,,32.836389,35.075278
+il,qiryat motsqin,Qiryat Motsqin,04,,32.836389,35.075278
+il,qiryat motzkin,Qiryat Motzkin,04,40694,32.836389,35.075278
+il,qiryat mozqin,Qiryat Mozqin,04,,32.836389,35.075278
+il,qiryat nahum,Qiryat Nahum,04,,32.805,35.073333
+il,qiryat nasrat,Qiryat Nasrat,03,,32.708162,35.324685
+il,qiryat norda'u,Qiryat Norda'u,02,,32.282189,34.852773
+il,qiryat ono,Qiryat Ono,02,24907,32.063611,34.855278
+il,qiryat ono,Qiryat Ono,05,24907,32.022222,34.866667
+il,qiryat remez,Qiryat Remez,04,,32.781667,35.016667
+il,qiryat sara,Qiryat Sara,03,,32.981125,35.508941
+il,qiryat shalom,Qiryat Shalom,05,,32.041667,34.778333
+il,qiryat sha'ul,Qiryat Sha'ul,05,,32.125,34.816667
+il,qiryat shemonah,Qiryat Shemonah,03,,33.207334,35.572118
+il,qiryat shemona,Qiryat Shemona,03,22738,33.207334,35.572118
+il,qiryat shemu'el,Qiryat Shemu'el,04,,32.838056,35.064444
+il,qiryat shmona,Qiryat Shmona,03,,33.207334,35.572118
+il,qiryat tiv`on,Qiryat Tiv`on,04,,32.723889,35.127222
+il,qiryat yam,Qiryat Yam,04,38122,32.850833,35.070278
+il,qiryat ye`arim,Qiryat Ye`arim,06,,31.803625,35.100549
+il,qisrah,Qisrah,03,,32.961775,35.302792
+il,qomemiyut,Qomemiyut,01,,31.662471,34.729603
+il,qomemiyut,Qomemiyut,06,,31.766667,35.233333
+il,qomemiyyut,Qomemiyyut,01,,31.662471,34.729603
+il,qomemiyyut,Qomemiyyut,06,,31.766667,35.233333
+il,qoranit,Qoranit,03,,32.843056,35.252778
+il,qtara,Qtara,02,,31.814051,34.797137
+il,qubab,Qubab,02,,31.870278,34.941667
+il,qubaybah,Qubaybah,02,,31.883333,34.766667
+il,qubayba,Qubayba,02,,31.883333,34.766667
+il,qubeiba,Qubeiba,02,,31.883333,34.766667
+il,qumiya,Qumiya,03,,32.55,35.383333
+il,qurdani,Qurdani,04,,32.852778,35.096111
+il,ra`ananah,Ra`ananah,02,,32.180833,34.867222
+il,ra`anana,Ra`anana,02,,32.180833,34.867222
+il,ra`ananna,Ra`ananna,02,,32.180833,34.867222
+il,rabat ashlag dromit,Rabat Ashlag Dromit,01,,31.072222,35.4
+il,rahat,Rahat,01,,31.393369,34.754981
+il,ramah,Ramah,03,,32.725332,35.466923
+il,rama,Rama,03,,32.938442,35.367502
+il,ramat aviv,Ramat Aviv,05,,32.110556,34.795556
+il,ramatayim,Ramatayim,02,,32.150833,34.888333
+il,ramat-david 'ayanot,Ramat-David 'Ayanot,03,,32.6775,35.2025
+il,ramat-david-hasharon,Ramat-David-Hasharon,03,,32.6775,35.2025
+il,ramat david,Ramat David,03,,32.6775,35.2025
+il,ramat dawid,Ramat Dawid,03,,32.6775,35.2025
+il,ramat ef`al,Ramat Ef`al,02,,32.045,34.833056
+il,ramat eliyyahu,Ramat Eliyyahu,02,,31.987778,34.785
+il,ramat eshkol,Ramat Eshkol,06,,31.8,35.216667
+il,ramat gan,Ramat Gan,05,126864,32.080556,34.814167
+il,ramat hadar,Ramat Hadar,02,,32.141944,34.881667
+il,ramat hadassah,Ramat Hadassah,03,,32.727778,35.142222
+il,ramat hadassa,Ramat Hadassa,03,,32.727778,35.142222
+il,ramat hakovesh,Ramat HaKovésh,02,,32.217678,34.938151
+il,ramat hasharon,Ramat HaSharon,05,35556,32.147222,34.841667
+il,ramat hashenayim,Ramat HaShenayim,03,,32.633333,35.1
+il,ramat ha shnayim,Ramat ha Shnayim,03,,32.633333,35.1
+il,ramat hashofet,Ramat HaShofet,03,,32.611944,35.095556
+il,ramat hash sharon,Ramat Hash Sharon,05,,32.147222,34.841667
+il,ramat hayal,Ramat Hayal,05,,32.115556,34.836667
+il,ramat hayyal,Ramat Hayyal,05,,32.115556,34.836667
+il,ramat hen,Ramat Hen,05,,32.057222,34.817222
+il,ramat pinkas,Ramat Pinkas,02,,32.035,34.840833
+il,ramat pinqas,Ramat Pinqas,02,,32.035,34.840833
+il,ramat poleg,Ramat Poleg,02,,32.272009,34.843793
+il,ramat rahel,Ramat Rahel,06,,31.733333,35.216667
+il,ramat razi'el,Ramat Razi'el,06,,31.773698,35.073007
+il,ramat tiomkin,Ramat Tiomkin,02,,32.319444,34.850833
+il,ramat tsevi,Ramat Tsevi,03,,32.590782,35.415325
+il,ramat tyomkin,Ramat Tyomkin,02,,32.319444,34.850833
+il,ramat tyomqin,Ramat Tyomqin,02,,32.319444,34.850833
+il,ramat yahanan,Ramat Yahanan,04,,32.7925,35.121389
+il,ramat yishai,Ramat Yishai,03,,32.700556,35.179722
+il,ramat yishay,Ramat Yishay,03,5722,32.700556,35.179722
+il,ramat zevi,Ramat Zevi,03,,32.590782,35.415325
+il,ramim,Ramim,03,,33.195833,35.543056
+il,rami,Rami,03,,32.938442,35.367502
+il,ramlah bet,Ramlah Bet,02,,31.906111,34.873056
+il,ramla,Ramla,02,63837,31.925278,34.866944
+il,ramle,Ramle,02,,31.925278,34.866944
+il,rammim,Rammim,03,,33.195833,35.543056
+il,ram on,Ram On,03,,32.527868,35.257745
+il,ramot eshkol,Ramot Eshkol,06,,31.8,35.216667
+il,ramot hakovesh,Ramot Hakovesh,02,,32.217678,34.938151
+il,ramot hashavim,Ramot HaShavim,02,,32.166111,34.888889
+il,ramot hashofet,Ramot Hashofet,03,,32.611944,35.095556
+il,ramot me'ir,Ramot Me'ir,02,,31.874167,34.855
+il,ramot menasheh,Ramot Menasheh,03,,32.595278,35.055278
+il,ramot menashe,Ramot Menashe,03,,32.595278,35.055278
+il,ramot naftali,Ramot Naftali,03,,33.101489,35.553211
+il,ramot remez,Ramot Remez,04,,32.781667,35.016667
+il,ramut aviv,Ramut Aviv,05,,32.110556,34.795556
+il,ranen,Ranen,01,,31.337735,34.600686
+il,rannen,Rannen,01,,31.337735,34.600686
+il,rantieh,Rantieh,02,,32.043333,34.931667
+il,rantiyah,Rantiyah,02,,32.043333,34.931667
+il,rantiya,Rantiya,02,,32.043333,34.931667
+il,rantye,Rantye,02,,32.043333,34.931667
+il,raqqefet,Raqqefet,03,,32.858333,35.259722
+il,ras al ahmar,Ras al Ahmar,03,,33.038335,35.468716
+il,ras al-`ayn,Ras al-`Ayn,02,,32.094167,34.945833
+il,ras an-naqurah,Ras an-Naqurah,03,,33.085445,35.114523
+il,ras el ahmar,Ras el Ahmar,03,,33.038335,35.468716
+il,ravid,Ravid,03,,32.852077,35.463888
+il,raynah,Raynah,03,,32.723611,35.3125
+il,regavim,Regavim,04,,32.523911,35.034116
+il,regbah,Regbah,03,,32.977213,35.09864
+il,regba,Regba,03,,32.977213,35.09864
+il,rehov c,Rehov C,03,,32.441667,35.4875
+il,rehovoth,Rehovoth,02,,31.896944,34.818611
+il,rehovot,Rehovot,02,,31.896944,34.818611
+il,rehov,Rehov,03,,32.45,35.497222
+il,reihaniye,Reihaniye,03,,33.049041,35.48815
+il,re`im,Re`im,01,,31.385301,34.459428
+il,re'im,Re'im,01,,31.385301,34.459428
+il,reina,Reina,03,,32.723611,35.3125
+il,reine,Reine,03,16157,32.723611,35.3125
+il,rekhasim,Rekhasim,04,8521,32.75,35.1
+il,reshafim,Reshafim,03,,32.483333,35.477778
+il,reshef,Reshef,05,,32.187222,34.805833
+il,reuven,Reuven,02,,32.349283,34.993976
+il,revadim,Revadim,01,,31.773417,34.816613
+il,revaha,Revaha,01,,31.648882,34.734371
+il,revaya,Revaya,03,,32.45,35.470833
+il,revivim,Revivim,01,,31.033333,34.716667
+il,rewaha,Rewaha,01,,31.648882,34.734371
+il,rewaya,Rewaya,03,,32.45,35.470833
+il,rgavim,Rgavim,04,,32.523911,35.034116
+il,rhovot,Rhovot,02,,31.896944,34.818611
+il,richon le sion,Richon le Sion,02,,31.964167,34.804444
+il,rigba,Rigba,03,,32.977213,35.09864
+il,rihaniya,Rihaniya,03,,33.049041,35.48815
+il,rihaniye,Rihaniyé,03,,33.049041,35.48815
+il,rihaniyyah,Rihaniyyah,03,,33.049041,35.48815
+il,rimmon,Rimmon,03,,32.785,35.309722
+il,rinatyah,Rinatyah,02,,32.043333,34.931667
+il,rinatya,Rinatya,02,,32.043333,34.931667
+il,rinnatiya,Rinnatiya,02,,32.043333,34.931667
+il,rinnatya,Rinnatya,02,,32.043333,34.931667
+il,rishon le siyon,Rishon le Siyon,02,,31.964167,34.804444
+il,rishon letsiyon,Rishon Letsiyon,02,,31.964167,34.804444
+il,rishon le zion,Rishon Le Zion,02,,31.964167,34.804444
+il,rishon le ziyon,Rishon le Ziyon,02,,31.964167,34.804444
+il,rishon leziyyon,Rishon LeZiyyon,02,,31.964167,34.804444
+il,rishon lsiyon,Rishon Lsiyon,02,,31.964167,34.804444
+il,rishpon,Rishpon,02,,32.203056,34.822778
+il,rivivim,Rivivim,01,,31.033333,34.716667
+il,rogelit,Rogelit,06,,31.67336,35.004275
+il,romeima quarter,Romeima Quarter,06,,31.791803,35.203686
+il,romema,Romema,06,,31.791803,35.203686
+il,rosh haadom,Rosh Haadom,03,,33.038335,35.468716
+il,rosh ha`ayin,Rosh Ha`Ayin,02,,32.094167,34.945833
+il,ro'sh hanikra,Ro'sh HaNikra,03,,33.085445,35.114523
+il,rosh haniqrah,Rosh Haniqrah,03,,33.085445,35.114523
+il,rosh haniqra,Rosh Haniqra,03,,33.085445,35.114523
+il,rosh pinah,Rosh Pinah,03,,32.968938,35.542584
+il,rosh pinnah,Rosh Pinnah,03,,32.968938,35.542584
+il,rosh pinna,Rosh Pinna,03,2492,32.968938,35.542584
+il,ruhamah,Ruhamah,01,,31.497434,34.706115
+il,ruhama,Ruhama,01,,31.497434,34.706115
+il,ruhaybah,Ruhaybah,02,,31.896944,34.818611
+il,rumanah,Rumanah,03,,32.785,35.309722
+il,rumat heib,Rumat Heib,03,1588,32.779167,35.306944
+il,rummana,Rummana,03,,32.785,35.309722
+il,rummane,Rummane,03,,32.785,35.309722
+il,sa`ad,Sa`ad,01,,31.470713,34.535252
+il,sa'ad,Sa'ad,01,,31.470713,34.535252
+il,sa`ar,Sa`ar,03,,33.028517,35.109506
+il,saassaa,Saassaa,03,,33.028333,35.394722
+il,sabalane,Sabalane,03,,33.016667,35.333333
+il,sabalan,Sabalan,03,,33.016667,35.333333
+il,safad,Safad,03,,32.965637,35.500491
+il,safed,Safed,03,,32.965637,35.500491
+il,saffuri,Saffuri,03,,32.739444,35.275833
+il,saffuriya,Saffuriya,03,,32.739444,35.275833
+il,saffurye,Saffurye,03,,32.739444,35.275833
+il,safiah,Safiah,01,,31.44553,34.761851
+il,safiyah,Safiyah,01,,31.44553,34.761851
+il,safsaf,Safsaf,03,,33.01209,35.440492
+il,sahrin,Sahrin,03,,32.862222,35.293333
+il,saint jean d'acre,Saint Jean d'Acre,03,,32.923611,35.072778
+il,sajarah,Sajarah,03,,32.754667,35.408371
+il,sajara,Sajara,03,,32.754667,35.408371
+il,sajur,Sajur,03,3547,32.942661,35.341358
+il,sakhnin,Sakhnin,03,24401,32.862222,35.293333
+il,saknin,Saknin,03,,32.862222,35.293333
+il,salamah,Salamah,05,,32.052222,34.796667
+il,salama,Salama,05,,32.052222,34.796667
+il,salameh,Salameh,05,,32.052222,34.796667
+il,salim,Salim,04,,32.543906,35.199293
+il,sallama,Sallama,03,1800,32.89443,35.369313
+il,salvit,Salvit,02,,31.871944,34.983056
+il,sammu`i,Sammu`i,03,,32.957407,35.457419
+il,samra,Samra,03,,32.724167,35.621667
+il,sandala,Sandala,03,,32.525,35.325
+il,sanddalah,Sanddalah,03,,32.525,35.325
+il,sanhedria murhevet,Sanhedria Murhevet,06,,31.8,35.216667
+il,sanhedriyya murhevet,Sanhedriyya Murhevet,06,,31.8,35.216667
+il,sanhedriyya,Sanhedriyya,06,,31.79711,35.218406
+il,sappir,Sappir,01,,30.609167,35.185833
+il,sappir,Sappir,06,,31.763188,35.134216
+il,saqiya,Saqiya,05,,32.031111,34.845833
+il,saqiyyah,Saqiyyah,05,,32.031111,34.845833
+il,sarafand al-harab,Sarafand al-Harab,02,,31.933333,34.8
+il,sarafand al kharab,Sarafand al Kharab,02,,31.933333,34.8
+il,sarafand el kharab,Sarafand el Kharab,02,,31.933333,34.8
+il,sarafand,Sarafand,02,,31.933333,34.8
+il,sarafand,Sarafand,04,,32.65,34.933333
+il,sara`h,Sara`h,06,,31.762421,34.969065
+il,sarar,Sarar,06,,31.762421,34.969065
+il,sar`a,Sar`a,06,,31.762421,34.969065
+il,sarid,Sarid,03,,32.664167,35.225
+il,sarigim,Sarigim,06,,31.677436,34.934642
+il,sarjunah,Sarjunah,03,,32.747073,35.502741
+il,saronah,Saronah,03,,32.725332,35.466923
+il,sarona,Sarona,03,,32.725332,35.466923
+il,sarona,Sarona,05,,32.066667,34.783333
+il,sasa,Sasa,03,,33.028333,35.394722
+il,satariyyah,Satariyyah,02,,31.891111,34.8425
+il,saviyon,Saviyon,02,,32.053056,34.877778
+il,savyon,Savyon,02,3434,32.053056,34.877778
+il,scythopolis,Scythopolis,03,,32.5,35.5
+il,sde boker,Sde Boker,01,,30.874167,34.796389
+il,sde eliahu,Sde Eliahu,03,,32.433333,35.516667
+il,sde eliyahu,Sde Eliyahu,03,,32.433333,35.516667
+il,sdeh boker,Sdeh Boker,01,,30.874167,34.796389
+il,sdeh yaakov,Sdeh Yaakov,03,,32.69,35.138611
+il,sde nehemya,Sde Nehemya,03,,33.187557,35.622351
+il,sderot,Sderot,01,,31.524995,34.59693
+il,sde yaakov,Sde Yaakov,03,,32.69,35.138611
+il,sde ya`aqov,Sde Ya`aqov,03,,32.69,35.138611
+il,sdey-ya'aqov,Sdey-Ya'aqov,03,,32.69,35.138611
+il,s'de zvi,S'de Zvi,01,,31.448955,34.712913
+il,sdom,Sdom,01,,31.072222,35.4
+il,s'dot akiba,S'dot Akiba,01,,31.469939,34.646335
+il,sdud,Sdud,01,,31.75,34.666667
+il,sed boquer,Sed Boquer,01,,30.874167,34.796389
+il,sede `aqiva,Sede `Aqiva,01,,31.507557,34.598686
+il,sede avraham,Sede Avraham,01,,31.212362,34.336234
+il,sede boqer,Sede Boqer,01,,30.874167,34.796389
+il,sede david,Sede David,01,,31.575988,34.68356
+il,sede dawid,Sede Dawid,01,,31.575988,34.68356
+il,sede eli`ezer,Sede Eli`ezer,03,,33.046059,35.564664
+il,sede eli'ezer,Sede Eli'ezer,03,,33.046059,35.564664
+il,sede eliyahu,Sede Eliyahu,03,,32.433333,35.516667
+il,sede eliyyahu,Sede Eliyyahu,03,,32.433333,35.516667
+il,sedeh `aqiva,Sedeh `Aqiva,01,,31.507557,34.598686
+il,sedeh boker,Sedeh Boker,01,,30.874167,34.796389
+il,sedeh eliyahu,Sedeh Eliyahu,03,,32.433333,35.516667
+il,sede hemed,Sede Hemed,02,,32.161389,34.943333
+il,sedeh ilan,Sedeh Ilan,03,,32.748879,35.42185
+il,sedeh nahum,Sedeh Nahum,03,,32.525,35.479167
+il,sedeh nehemyah,Sedeh Nehemyah,03,,33.187557,35.622351
+il,sedeh warburg,Sedeh Warburg,02,,32.203611,34.907222
+il,sedeh ya`aqov,Sedeh Ya`aqov,03,,32.69,35.138611
+il,sedeh yitzhak,Sedeh Yitzhak,04,,32.405387,34.993266
+il,sedei david,Sedei David,01,,31.575988,34.68356
+il,sedei hemed,Sedei Hemed,02,,32.161389,34.943333
+il,sede ilan,Sedé Ilan,03,,32.748879,35.42185
+il,sede moshe,Sede Moshe,01,,31.610807,34.801826
+il,sede nahum,Sede Nahum,03,,32.525,35.479167
+il,sede nehemya,Sede Nehemya,03,,33.187557,35.622351
+il,sede nitsan,Sede Nitsan,01,,31.230162,34.419251
+il,sede nizzan,Sede Nizzan,01,,31.230162,34.419251
+il,sederot,Sederot,01,20865,31.524995,34.59693
+il,sede terumot,Sede Terumot,03,,32.441667,35.4875
+il,sede tsevi,Sedé Tsevi,01,,31.448955,34.712913
+il,sede `uziya,Sede `Uziya,01,,31.75612,34.677871
+il,sede `uziyyahu,Sede `Uziyyahu,01,,31.75612,34.677871
+il,sede uziyyahu,Sede Uziyyahu,01,,31.75612,34.677871
+il,sede uziyya,Sede Uziyya,01,,31.75612,34.677871
+il,sede warburg,Sede Warburg,02,,32.203611,34.907222
+il,sede ya`aqov,Sede Ya`aqov,03,,32.69,35.138611
+il,sede yitshak,Sede Yitshak,04,,32.405387,34.993266
+il,sede yizhaq,Sede Yizhaq,04,,32.405387,34.993266
+il,sede yo`av,Sede Yo`av,01,,31.64497,34.677959
+il,sede yo'av,Sede Yo'av,01,,31.64497,34.677959
+il,sede zevi,Sede Zevi,01,,31.448955,34.712913
+il,sedom,Sedom,01,,31.072222,35.4
+il,sedot aqiva,Sedot Aqiva,01,,31.469939,34.646335
+il,sedot mikha,Sedot Mikha,06,,31.721301,34.920272
+il,sedot yam,Sedot Yam,04,,32.492125,34.892243
+il,sedshera,Sedshera,03,,32.754667,35.408371
+il,seffurieh,Seffurieh,03,,32.739444,35.275833
+il,segev,Segev,03,,32.864167,35.255556
+il,segev shalom,Segev Shalom,01,,31.199178,34.839558
+il,segula,Segula,01,,31.670899,34.779749
+il,sejara,Sejara,03,,32.754667,35.408371
+il,sejera,Sejera,03,,32.754667,35.408371
+il,semadar,Semadar,03,,32.718119,35.492726
+il,serigim,Serigim,06,,31.677436,34.934642
+il,sfat,Sfat,03,,32.965637,35.500491
+il,s'gula,S'gula,01,,31.670899,34.779749
+il,sha`ab,Sha`ab,03,,32.887778,35.240278
+il,sha`alvim,Sha`alvim,02,,31.871944,34.983056
+il,sha'anan,Sha'anan,01,,31.584395,34.755923
+il,sha`ar `amaqim,Sha`ar `Amaqim,04,,32.722222,35.110278
+il,sha`are avraham,Sha`are Avraham,01,,31.762134,34.794456
+il,sha'are avraham,Sha'are Avraham,01,,31.762134,34.794456
+il,sha`ar efrayim,Sha`ar Efrayim,02,,32.290668,34.998405
+il,sha'ar efrayim,Sha'ar Efrayim,02,,32.290668,34.998405
+il,sha'ar ephraim,Sha'ar Ephraim,02,,32.290668,34.998405
+il,sha`ar ha`aliyah,Sha`ar Ha`aliyah,04,,32.816667,34.966667
+il,sha`ar ha`aliya,Sha`ar Ha`Aliya,04,,32.816667,34.966667
+il,sha`ar ha`amaqim,Sha`ar Ha`Amaqim,04,,32.722222,35.110278
+il,sha`ar hagolan,Sha`ar HaGolan,03,,32.686687,35.604017
+il,sha`ar hefer,Sha`ar Hefer,02,,32.334618,34.890519
+il,sha`ar menashe,Sha`ar Menashe,04,,32.4498,35.015611
+il,sha'ar menashe,Sha'ar Menashe,04,,32.4498,35.015611
+il,shaav,Shaav,03,,32.887778,35.240278
+il,sha`b,Sha`b,03,,32.887778,35.240278
+il,shadmot devorah,Shadmot Devorah,03,,32.697061,35.436697
+il,shadmot devora,Shadmot Devora,03,,32.697061,35.436697
+il,shafa `amr,Shafa `Amr,03,,32.803056,35.169444
+il,shafir,Shafir,01,,31.696861,34.729715
+il,shahariya,Shahariya,01,,31.6,34.816667
+il,shahariyya,Shahariyya,01,,31.6,34.816667
+il,shahar,Shahar,01,,31.619064,34.724815
+il,shahar,Shahar,03,,33.016347,35.489019
+il,shajara,Shajara,03,,32.754667,35.408371
+il,shalhevet,Shalhevet,02,,31.871944,34.983056
+il,shalva,Shalva,01,,31.564396,34.767595
+il,shalwa,Shalwa,01,,31.564396,34.767595
+il,shamerat,Shamerat,03,,32.951548,35.094965
+il,shamir,Shamir,03,,33.16587,35.660353
+il,shaqeib es salam,Shaqeib es Salam,01,,31.199178,34.839558
+il,sharai,Sharai,04,,32.498383,35.126188
+il,sharayi`,Sharayi`,04,,32.498383,35.126188
+il,shari`,Shari`,04,,32.498383,35.126188
+il,sharona,Sharona,03,,32.725332,35.466923
+il,sharsheret b,Sharsheret B,01,,31.396226,34.607899
+il,sharsheret c,Sharsheret C,01,,31.390153,34.596608
+il,sharsheret,Sharsheret,01,,31.404569,34.603802
+il,shattah,Shattah,03,,32.554167,35.4375
+il,shatta,Shatta,03,,32.554167,35.4375
+il,shavei tsiyon,Shavei Tsiyon,03,,32.980981,35.083306
+il,shavei zion,Shavei Zion,03,,32.980981,35.083306
+il,shave tsiyon,Shave Tsiyon,03,,32.980981,35.083306
+il,shave tsiyyon,Shave Tsiyyon,03,,32.980981,35.083306
+il,shave zion,Shave Zion,03,,32.980981,35.083306
+il,shave ziyyon,Shave Ziyyon,03,,32.980981,35.083306
+il,shaykh daud,Shaykh Daud,03,,32.994924,35.148337
+il,shaykh dawud,Shaykh Dawud,03,,32.994924,35.148337
+il,shaykh jarrah,Shaykh Jarrah,06,,31.8,35.233333
+il,shaykh mu`anis,Shaykh Mu`anis,05,,32.1,34.8
+il,she'ar yashuv,She'ar Yashuv,03,,33.229575,35.648405
+il,shedema,Shedema,02,,31.834388,34.743659
+il,shedemot,Shedemot,01,,31.483958,34.534152
+il,shederot,Shederot,01,,31.524995,34.59693
+il,shefar`am,Shefar`am,03,,32.803056,35.169444
+il,shefaya,Shefaya,04,,32.583333,34.95
+il,shefayim,Shefayim,02,,32.217428,34.824543
+il,shefayyim,Shefayyim,02,,32.217428,34.824543
+il,shefeia,Shefeia,04,,32.583333,34.95
+il,shefeiya,Shefeiya,04,,32.583333,34.95
+il,shefer,Shefer,03,,32.943739,35.436105
+il,shefeyah,Shefeyah,04,,32.583333,34.95
+il,shefeya,Shefeya,04,,32.583333,34.95
+il,sheikh bureik,Sheikh Bureik,04,,32.666667,34.933333
+il,sheikh danmov,Sheikh Danmov,03,,32.992306,35.147901
+il,sheikh dannun,Sheikh Dannun,03,2305,32.992306,35.147901
+il,sheikh daud,Sheikh Daud,03,,32.994924,35.148337
+il,sheikh dawud,Sheikh Dawud,03,,32.994924,35.148337
+il,sheikh jarah,Sheikh Jarah,06,,31.8,35.233333
+il,sheikh jarrah,Sheikh Jarrah,06,,31.8,35.233333
+il,sheikh muwannis,Sheikh Muwannis,05,,32.1,34.8
+il,sheik muannis,Sheik Muannis,05,,32.1,34.8
+il,shekef,Shekef,01,,31.516191,34.9376
+il,shekhanya,Shekhanya,03,,32.845833,35.250278
+il,shekhunat beilinson,Shekhunat Beilinson,02,,32.083889,34.915556
+il,shekhunat belinson,Shekhunat Belinson,02,,32.083889,34.915556
+il,shekhunat ben `ammi,Shekhunat Ben `Ammi,02,,32.333333,34.866667
+il,shekhunat ben gurion,Shekhunat Ben Gurion,03,,32.781487,35.5142
+il,shekhunat bet eli`ezer,Shekhunat Bet Eli`ezer,04,,32.423572,34.949989
+il,shekhunat hatiqva,Shekhunat Hatiqva,05,,32.05,34.783333
+il,shekhunat hatiqwa,Shekhunat HaTiqwa,05,,32.05,34.783333
+il,shekhunath brandeis,Shekhunath Brandeis,04,,32.423097,34.921272
+il,shekhunat montefiore,Shekhunat Montefiore,06,,31.785573,35.194753
+il,shekhunat ono,Shekhunat Ono,02,,32.063611,34.855278
+il,shekhunat ono,Shekhunat Ono,05,,32.022222,34.866667
+il,shelomi,Shelomi,03,5784,33.074719,35.146075
+il,sheluhot,Sheluhot,03,,32.472222,35.483333
+il,shemona kiryat,Shemona Kiryat,03,,33.207334,35.572118
+il,sheqef,Sheqef,01,,31.516191,34.9376
+il,shetula,Shetula,03,,33.0852,35.314898
+il,shetulim,Shetulim,01,,31.773998,34.683049
+il,shetulla,Shetulla,03,,33.0852,35.314898
+il,shevut `am,Shevut `Am,02,,32.318236,34.911789
+il,shevut am,Shevut Am,02,,32.318236,34.911789
+il,shezaf,Shezaf,01,,30.9,34.55
+il,shezera,Shezera,03,,32.754667,35.408371
+il,shezor,Shezor,03,,32.933377,35.353211
+il,shfar'am,Shfar'am,03,,32.803056,35.169444
+il,shfeyah,Shfeyah,04,,32.583333,34.95
+il,shibbolim,Shibbolim,01,,31.396226,34.607899
+il,shibli,Shibli,03,,32.694636,35.392518
+il,shikhunat ben `ammi,Shikhunat Ben `Ammi,02,,32.333333,34.866667
+il,shikkun gil `amal,Shikkun Gil `Amal,02,,32.15,34.916667
+il,shikun `amalya,Shikun `Amalya,02,,32.315372,34.886144
+il,shikun amalya,Shikun Amalya,02,,32.315372,34.886144
+il,shikun ben tsiyyon,Shikun Ben Tsiyyon,02,,32.313688,34.857506
+il,shikun ben ziyyon,Shikun Ben Ziyyon,02,,32.313688,34.857506
+il,shikun darom,Shikun Darom,02,,32.298321,34.85429
+il,shikun ya`aqov,Shikun Ya`aqov,04,,32.520423,34.942613
+il,shikun ya'aqov,Shikun Ya'aqov,04,,32.520423,34.942613
+il,shimrath,Shimrath,03,,32.951548,35.094965
+il,shimrat,Shimrat,03,,32.951548,35.094965
+il,shimron,Shimron,03,,32.699444,35.208611
+il,shiqma,Shiqma,01,,31.635888,34.60636
+il,shizzafon,Shizzafon,01,,30.041667,35.027778
+il,shkhunat-ono,Shkhunat-Ono,05,,32.022222,34.866667
+il,shlomi,Shlomi,03,,33.074719,35.146075
+il,shluhot,Shluhot,03,,32.472222,35.483333
+il,shoevah,Shoevah,06,,31.798673,35.077642
+il,sho'eva,Sho'eva,06,,31.798673,35.077642
+il,shokeda,Shokeda,01,,31.422181,34.523919
+il,shomerah,Shomerah,03,,33.084335,35.284948
+il,shomera,Shomera,03,,33.084335,35.284948
+il,shomeriyya,Shomeriyya,01,,31.432234,34.884319
+il,shomeyra,Shomeyra,03,,33.084335,35.284948
+il,shoqeda,Shoqeda,01,,31.422181,34.523919
+il,shorashim,Shorashim,03,,32.747073,35.502741
+il,shoresh,Shoresh,06,,31.79711,35.065251
+il,shoshannat ha`amaqim,Shoshannat Ha`Amaqim,02,,32.354086,34.856883
+il,shoval 11,Shoval 11,01,,31.459286,34.624086
+il,shoval 2,Shoval 2,01,,31.469939,34.646335
+il,shoval 8,Shoval 8,01,,31.438071,34.644869
+il,shoval mizrahi 4,Shoval Mizrahi 4,01,,31.451106,34.677793
+il,shoval mizrahi ahat,Shoval Mizrahi Ahat,01,,31.478123,34.632039
+il,shoval mizrahi hamesh,Shoval Mizrahi Hamesh,01,,31.448955,34.712913
+il,shoval mizrahi shetayim,Shoval Mizrahi Shetayim,01,,31.469939,34.646335
+il,shoval,Shoval,01,,31.413366,34.743779
+il,shtula,Shtula,03,,33.0852,35.314898
+il,shuba,Shuba,01,,31.450944,34.544035
+il,shunem,Shunem,03,,32.606057,35.334078
+il,shutta,Shutta,03,,32.554167,35.4375
+il,shuvah,Shuvah,01,,31.450944,34.544035
+il,shuva,Shuva,01,,31.450944,34.544035
+il,sidna `ali,Sidna `Ali,05,,32.187222,34.805833
+il,sifsufah,Sifsufah,03,,33.01209,35.440492
+il,sifsufa,Sifsufa,03,,33.01209,35.440492
+il,sikhnin,Sikhnin,03,,32.862222,35.293333
+il,simhah,Simhah,02,,32.15,34.966667
+il,simuniyyah,Simuniyyah,03,,32.699444,35.208611
+il,sineid,Sineid,01,,31.566667,34.55
+il,sirgoniyah,Sirgoniyah,03,,32.747073,35.502741
+il,sirguniyah,Sirguniyah,03,,32.747073,35.502741
+il,sirguniya,Sirguniya,03,,32.747073,35.502741
+il,sitaryah,Sitaryah,02,,31.891111,34.8425
+il,sitriyah,Sitriyah,02,,31.891111,34.8425
+il,sitriya,Sitriya,02,,31.891111,34.8425
+il,sitriyya,Sitriyya,02,,31.891111,34.8425
+il,skythopolis,Skythopolis,03,,32.5,35.5
+il,sneid,Sneid,01,,31.566667,34.55
+il,sodom,Sodom,01,,31.072222,35.4
+il,sor'a,Sor'a,06,,31.762421,34.969065
+il,strongpoint 86,Strongpoint 86,04,,32.385062,35.036801
+il,sufa,Sufa,01,,31.236598,34.340988
+il,suffuriya,Suffuriya,03,,32.739444,35.275833
+il,sufsaf,Sufsaf,03,,33.01209,35.440492
+il,suhmata,Suhmata,03,,33.00571,35.31398
+il,sulam,Sulam,03,2426,32.606057,35.334078
+il,sulam tsor,Sulam Tsor,03,,33.085445,35.114523
+il,sumayl,Sumayl,05,,32.083333,34.783333
+il,summeil,Summeil,05,,32.083333,34.783333
+il,sumsum,Sumsum,01,,31.566667,34.6
+il,surafend,Surafend,04,,32.65,34.933333
+il,surieyl,Surieyl,03,,33.00571,35.31398
+il,taanach i,Taanach I,03,,32.558522,35.305803
+il,ta'anakh mizrahi bet,Ta'anakh Mizrahi Bet,03,,32.54559,35.310805
+il,ta'anakh mizrahi g,Ta'anakh Mizrahi G,03,,32.545909,35.301066
+il,tabariya,Tabariya,03,,32.792205,35.531244
+il,tabariyeh,Tabariyeh,03,,32.792205,35.531244
+il,tabgha hospice,Tabgha Hospice,03,,32.868877,35.541298
+il,tadhaz,Tadhaz,03,,32.791457,35.483343
+il,tahtit,Tahtit,03,,32.719816,35.546673
+il,taibe,Taibe,02,,32.266161,35.008932
+il,taiyba,Taiyba,02,,32.266161,35.008932
+il,taiyibah,Taiyibah,02,,32.266161,35.008932
+il,taiyibah,Taiyibah,03,,32.604153,35.444835
+il,taiyiba,Taiyiba,02,,32.266161,35.008932
+il,taiyiba,Taiyiba,03,,32.604153,35.444835
+il,taiyibe,Taiyibe,02,,32.266161,35.008932
+il,taiyibi,Taiyibi,02,,32.266161,35.008932
+il,talbieh,Talbieh,06,,31.766667,35.233333
+il,talbie,Talbie,06,,31.766667,35.233333
+il,talbiya,Talbiya,06,,31.766667,35.233333
+il,talbiye,Talbiye,06,,31.766667,35.233333
+il,talbiyye,Talbiyye,06,,31.766667,35.233333
+il,talha,Talha,03,,33.235569,35.578276
+il,tall `adas,Tall `Adas,03,,32.658333,35.3
+il,tall jamah,Tall Jamah,01,,31.385301,34.459428
+il,talme bilu,Talme Bilu,01,,31.438071,34.644869
+il,talme el`azar,Talme El`azar,04,,32.445663,34.977169
+il,talme el'azar,Talme El'azar,04,,32.445663,34.977169
+il,talme eliyyahu,Talmé Eliyyahu,01,,31.229033,34.42895
+il,talmei bilu,Talmei Bilu,01,,31.438071,34.644869
+il,talmei el'azar,Talmei El'azar,04,,32.445663,34.977169
+il,talmei menashe,Talmei Menashe,02,,31.95,34.85
+il,talmei yafeh,Talmei Yafeh,01,,31.616495,34.61288
+il,talmei yafe,Talmei Yafe,01,,31.616495,34.61288
+il,talme menashe,Talme Menashe,02,,31.95,34.85
+il,talme yafeh,Talme Yafeh,01,,31.616495,34.61288
+il,talme yafe,Talme Yafe,01,,31.616495,34.61288
+il,talme yehi'el,Talme Yehi'el,01,,31.752102,34.763163
+il,talme yosef,Talme Yosef,01,,31.199746,34.363209
+il,talpiot,Talpiot,06,,31.75,35.216667
+il,talpiyyot,Talpiyyot,06,,31.75,35.216667
+il,talpiyyut,Talpiyyut,06,,31.75,35.216667
+il,tal shahar,Tal Shahar,06,,31.80502,34.903086
+il,tamrah,Tamrah,03,,32.590782,35.415325
+il,tamra,Tamra,03,25839,32.848611,35.204722
+il,ta'nakh mizrahi ahat,Ta'nakh Mizrahi Ahat,03,,32.558522,35.305803
+il,tanturah,Tanturah,04,,32.608889,34.920556
+il,tantura,Tantura,04,,32.608889,34.920556
+il,ta`oz,Ta`oz,06,,31.801237,34.975038
+il,ta'oz,Ta'oz,06,,31.801237,34.975038
+il,tarbihah,Tarbihah,03,,33.084335,35.284948
+il,tarbiha,Tarbiha,03,,33.084335,35.284948
+il,tarbikha,Tarbikha,03,,33.084335,35.284948
+il,tarchiha,Tarchiha,03,,33.016667,35.266667
+il,tarshihah,Tarshihah,03,,33.016667,35.266667
+il,tarshiha,Tarshiha,03,,33.016667,35.266667
+il,tarum,Tarum,06,,31.782889,34.98096
+il,ta`,Ta`,06,,31.801237,34.975038
+il,taybah,Taybah,02,,32.266161,35.008932
+il,taybah,Taybah,03,,32.604153,35.444835
+il,tayibeh,Tayibeh,02,,32.266161,35.008932
+il,tayibe,Tayibe,02,32736,32.266161,35.008932
+il,te'ashur,Te'ashur,01,,31.371944,34.643591
+il,tefahot,Tefahot,03,,32.867907,35.424023
+il,teir shiha,Teir Shiha,03,,33.016667,35.266667
+il,tekuma,Tekuma,01,,31.449842,34.578163
+il,tel `adashim,Tel `Adashim,03,,32.658333,35.3
+il,tel `adas,Tel `Adas,03,,32.658333,35.3
+il,telalim,Telalim,01,,30.992222,34.77
+il,tel `amal,Tel `Amal,03,,32.502778,35.456944
+il,telamim,Telamim,01,,31.563874,34.672113
+il,tel asher,Tel Asher,02,,32.206944,34.914722
+il,tel aviv-jaffa,Tel Aviv-Jaffa,05,,32.067778,34.764722
+il,tel aviv,Tel Aviv,05,,32.066667,34.766667
+il,tel aviv-yafo,Tel Aviv-Yafo,05,370480,32.067778,34.764722
+il,tel baruch,Tel Baruch,05,,32.121944,34.814722
+il,tel barukh,Tel Barukh,05,,32.121944,34.814722
+il,tel benjamin,Tel Benjamin,05,,32.083333,34.816667
+il,tel benyamin,Tel Benyamin,05,,32.083333,34.816667
+il,tel binyamin,Tel Binyamin,05,,32.083333,34.816667
+il,tel efrayim,Tel Efrayim,05,,32.095278,34.839444
+il,tel es sab`,Tel es Sab`,01,,31.248636,34.860066
+il,tel gat,Tel Gat,04,,32.398428,35.039328
+il,tel hai,Tel Hai,03,,33.235569,35.578276
+il,tel hanan,Tel Hanan,04,,32.774722,35.031667
+il,tel hashomer,Tel Hashomer,02,,32.053889,34.848056
+il,tel hay,Tel Hay,03,,33.235569,35.578276
+il,tell abib,Tell Abib,05,,32.066667,34.766667
+il,tell `adas,Tell `Adas,03,,32.658333,35.3
+il,tell afif,Tell Afif,05,,32.066667,34.766667
+il,tell el qady,Tell el Qady,03,,33.239793,35.653354
+il,tel litvinski,Tel Litvinski,02,,32.053889,34.848056
+il,tel-litvinsky,Tel-Litvinsky,02,,32.053889,34.848056
+il,tel litwinsky,Tel Litwinsky,02,,32.053889,34.848056
+il,tel mond,Tel Mond,02,8939,32.249947,34.917368
+il,tel sheva`,Tel Sheva`,01,,31.248636,34.860066
+il,tel tsofim,Tel Tsofim,01,,31.033333,34.716667
+il,tel tsur,Tel Tsur,02,,32.276574,34.88973
+il,tel yitshak,Tel Yitshak,02,,32.253273,34.870341
+il,tel yits-haq,Tel Yits-haq,02,,32.253273,34.870341
+il,tel yizhaq,Tel Yizhaq,02,,32.253273,34.870341
+il,tel yosef,Tel Yosef,03,,32.558333,35.4
+il,tel zur,Tel Zur,02,,32.276574,34.88973
+il,temarah,Temarah,03,,32.590782,35.415325
+il,temara,Temara,03,,32.590782,35.415325
+il,tenuvot,Tenuvot,02,,32.304514,34.961585
+il,tequmah,Tequmah,01,,31.449842,34.578163
+il,tequma,Tequma,01,,31.449842,34.578163
+il,tevarya,Tevarya,03,,32.792205,35.531244
+il,teverya,Teverya,03,,32.792205,35.531244
+il,tiberiade,Tibériade,03,,32.792205,35.531244
+il,tiberias,Tiberias,03,41029,32.792205,35.531244
+il,tidhar,Tidhar,01,,31.378988,34.629609
+il,tifrah,Tifrah,01,,31.326574,34.676886
+il,tigrah,Tigrah,02,,32.088611,34.872222
+il,timmorim,Timmorim,01,,31.715337,34.761265
+il,timrat,Timrat,03,1789,32.703611,35.226667
+il,tirah,Tirah,02,,32.014167,34.9325
+il,tirah,Tirah,04,,32.761667,34.971944
+il,tir`an,Tir`an,03,,32.776936,35.372439
+il,tirat carmel,Tirat Carmel,04,,32.761667,34.971944
+il,tirat hakarmel,Tirat Hakarmel,04,,32.761667,34.971944
+il,tirathtzbi,Tirathtzbi,03,,32.421667,35.524444
+il,tira,Tira,02,,32.014167,34.9325
+il,tira,Tira,04,,32.761667,34.971944
+il,tirat karmel,Tirat Karmel,04,19234,32.761667,34.971944
+il,tirat sevi,Tirat Sevi,03,,32.421667,35.524444
+il,tirat shalom,Tirat Shalom,02,,31.914722,34.784722
+il,tirattseve,Tirattseve,03,,32.421667,35.524444
+il,tirat tsevi,Tirat Tsevi,03,,32.421667,35.524444
+il,tirat tsvi,Tirat Tsvi,03,,32.421667,35.524444
+il,tirat yehudah,Tirat Yehudah,02,,32.014167,34.9325
+il,tirat yehuda,Tirat Yehuda,02,,32.014167,34.9325
+il,tirat zevi,Tirat Zevi,03,,32.421667,35.524444
+il,tirat zvi,Tirat Zvi,03,,32.421667,35.524444
+il,tire,Tire,04,,32.761667,34.971944
+il,tirosh,Tirosh,06,,31.749947,34.886338
+il,tiva,Tiva,02,,32.266161,35.008932
+il,tive`on,Tive`on,04,,32.723889,35.127222
+il,tiv`on,Tiv`on,03,,32.570833,35.3625
+il,tiv`on,Tiv`on,04,,32.723889,35.127222
+il,t'kuma,T'kuma,01,,31.449842,34.578163
+il,t'lamim,T'lamim,01,,31.563874,34.672113
+il,tohelet,Tohelet,02,,31.993333,34.848333
+il,tsafririm,Tsafririm,06,,31.66079,34.943712
+il,tsahala,Tsahala,05,,32.123889,34.836389
+il,tsahal,Tsahal,03,,33.06018,35.112683
+il,tsandalah,Tsandalah,03,,32.525,35.325
+il,tsarafand al-kharab,Tsarafand al-Kharab,02,,31.933333,34.8
+il,tsarafand,Tsarafand,04,,32.65,34.933333
+il,tsarafanid el harav,Tsarafanid el Harav,02,,31.933333,34.8
+il,tse'elim,Tse'elim,01,,31.203034,34.534731
+il,tseelim,Tseelim,01,,31.203034,34.534731
+il,tsefat,Tsefat,03,,32.965637,35.500491
+il,tsefon `atlit,Tsefon `Atlit,04,,32.716667,34.95
+il,tsefon jaljuliyah,Tsefon Jaljuliyah,02,,32.161389,34.943333
+il,tselafon,Tselafon,06,,31.804616,34.932105
+il,tserufa,Tserufa,04,,32.641944,34.939722
+il,tseviyya,Tseviyya,03,,32.890168,35.331955
+il,tsiklag,Tsiklag,01,,31.37953,34.869558
+il,tsipori,Tsipori,03,,32.739444,35.275833
+il,tsippori,Tsippori,03,,32.739444,35.275833
+il,tsofit,Tsofit,02,,32.195556,34.916111
+il,tsohar,Tsohar,01,,31.239359,34.420421
+il,tsor`ah bet,Tsor`ah Bet,06,,31.782889,34.98096
+il,tsor`ah,Tsor`ah,06,,31.762421,34.969065
+il,tsoran,Tsoran,02,,32.287514,34.944803
+il,tsor`a,Tsor`a,06,,31.762421,34.969065
+il,tsor nathan,Tsor Nathan,02,,32.240907,35.013169
+il,tsourel,Tsourel,03,,33.00571,35.31398
+il,tsovah,Tsovah,06,,31.783775,35.119263
+il,tsova,Tsova,06,,31.783775,35.119263
+il,tsubah,Tsubah,06,,31.783775,35.119263
+il,tsur hadassa,Tsur Hadassa,06,,31.717935,35.095488
+il,tsuri'el,Tsuri'el,03,,33.00571,35.31398
+il,tsuriel,Tsuriel,03,,33.00571,35.31398
+il,tsur mosheh,Tsur Mosheh,02,,32.29819,34.913129
+il,tsur moshe,Tsur Moshe,02,,32.29819,34.913129
+il,tsur natan,Tsur Natan,02,,32.240907,35.013169
+il,tsur yig'al,Tsur Yig'al,02,,32.221176,34.990591
+il,tsuvah,Tsuvah,06,,31.783775,35.119263
+il,tubah,Tubah,03,,32.966064,35.593037
+il,tubaria,Tubaria,03,,32.792205,35.531244
+il,tuba,Tuba,03,,32.966064,35.593037
+il,tuba zangariya,Tuba Zangariya,03,,32.966064,35.593037
+il,tur`an,Tur`an,03,,32.776936,35.372439
+il,tushiya,Tushiya,01,,31.433273,34.541086
+il,tushiyya,Tushiyya,01,,31.433273,34.541086
+il,tuval,Tuval,03,,32.930556,35.251389
+il,tzur-natan,Tzur-Natan,02,,32.240907,35.013169
+il,udim,Udim,02,,32.264963,34.845493
+il,ukreir,Ukreir,02,,31.792133,34.649656
+il,`ulmaniya,`Ulmaniya,03,,33.083333,35.583333
+il,um el ghanem,Um el Ghanem,03,,32.676384,35.391198
+il,um khalid,Um Khalid,02,,32.333333,34.866667
+il,umm al fahm,Umm al Fahm,04,,32.517246,35.15349
+il,umm al faraj,Umm al Faraj,03,,33.004497,35.121916
+il,umm-alghanam,Umm-Alghanam,03,,32.676384,35.391198
+il,umm al-jimal,Umm al-Jimal,04,,32.596667,35.001944
+il,umm al-qutuf,Umm al-Qutuf,04,,32.46718,35.05811
+il,umm al-zaynat,Umm al-Zaynat,03,,32.629722,35.064722
+il,umm az zinat,Umm az Zinat,03,,32.629722,35.064722
+il,umm el faham,Umm el Faham,04,,32.517246,35.15349
+il,umm el fahm,Umm el Fahm,04,,32.517246,35.15349
+il,umm el faraj,Umm el Faraj,03,,33.004497,35.121916
+il,umm el ghanam,Umm el Ghanam,03,,32.676384,35.391198
+il,`umm el ghanem,`Umm el Ghanem,03,,32.676384,35.391198
+il,umm el ghannam,Umm el Ghannam,03,,32.676384,35.391198
+il,umm el jimal,Umm el Jimal,04,,32.596667,35.001944
+il,umm el qutuf,Umm el Qutuf,04,,32.46718,35.05811
+il,umm el shuf,Umm el Shuf,04,,32.548642,35.040262
+il,ummez zeinal,Ummez Zeinal,03,,32.629722,35.064722
+il,umm ez zeinat,Umm ez Zeinat,03,,32.629722,35.064722
+il,umm ez zinat,Umm ez Zinat,03,,32.629722,35.064722
+il,umm jumieh,Umm Jumieh,03,,32.707984,35.57487
+il,umm juni,Umm Juni,03,,32.707984,35.57487
+il,umm kalkha,Umm Kalkha,02,,31.814792,34.865591
+il,umm khalid,Umm Khalid,02,,32.333333,34.866667
+il,umm rashrash,Umm Rashrash,01,,29.558049,34.948212
+il,umrashash,Umrashash,01,,29.558049,34.948212
+il,upper afula,Upper Afula,03,,32.633233,35.325216
+il,upper motsa,Upper Motsa,06,,31.793572,35.157755
+il,upper nazareth,Upper Nazareth,03,,32.708162,35.324685
+il,uri'el,Uri'el,02,,31.8,34.783333
+il,urim,Urim,01,,31.304326,34.523282
+il,ushah,Ushah,04,,32.795278,35.114722
+il,usha,Usha,04,,32.795278,35.114722
+il,`uyun qara,`Uyun Qara,02,,31.964167,34.804444
+il,`uza,`Uza,01,,31.593,34.764833
+il,uza,Uza,01,,31.593,34.764833
+il,`uzayr,`Uzayr,03,,32.792124,35.329841
+il,uzeir,Uzeir,03,2591,32.792124,35.329841
+il,`uzeir,`Uzeir,03,,32.792124,35.329841
+il,vardiya,Vardiya,04,,32.8,35
+il,vered hagalil,Vered HaGalil,03,,32.904213,35.549919
+il,wadi `ara,Wadi `Ara,04,,32.475097,35.029658
+il,wadi hunayn,Wadi Hunayn,02,,31.926389,34.803333
+il,wadi hunein,Wadi Hunein,02,,31.926389,34.803333
+il,wadi keren,Wadi Keren,03,,33.047892,35.179946
+il,wadi rubin,Wadi Rubin,02,,31.933056,34.707222
+il,wadi shaari c,Wadi Shaari C,01,,31.371944,34.643591
+il,wadi sharia a,Wadi Sharia A,01,,31.371207,34.63395
+il,wadi sharia b,Wadi Sharia B,01,,31.378988,34.629609
+il,wady hanin,Wady Hanin,02,,31.926389,34.803333
+il,walajah,Walajah,06,,31.752123,35.147335
+il,waldheim,Waldheim,03,,32.729444,35.170556
+il,wardiya,Wardiya,04,,32.8,35
+il,wardon,Wardon,01,,31.656902,34.776928
+il,wered hagalil,Wered HaGalil,03,,32.904213,35.549919
+il,wilhelma,Wilhelma,02,,32.040833,34.911111
+il,wilhelmina,Wilhelmina,02,,32.040833,34.911111
+il,wingate,Wingate,03,,33.101489,35.553211
+il,ya`arah,Ya`arah,03,,33.067548,35.187042
+il,ya`ara,Ya`ara,03,,33.067548,35.187042
+il,ya`arot hacarmel,Ya`arot Hacarmel,04,,32.725556,35.013889
+il,ya`arot hakarmel,Ya`arot HaKarmel,04,,32.725556,35.013889
+il,ya`arot karmel,Ya`arot Karmel,04,,32.725556,35.013889
+il,yabneel,Yabneel,03,,32.703563,35.506616
+il,yabniel,Yabniel,03,,32.703563,35.506616
+il,yad binyamin,Yad Binyamin,02,,31.797403,34.820834
+il,yad eli`ezer,Yad Eli`ezer,02,,31.933333,34.8
+il,yad hanah,Yad Hanah,02,,32.325607,35.007451
+il,yad hanna,Yad Hanna,02,,32.325607,35.007451
+il,yad hashemona,Yad HaShemona,06,,31.809928,35.089586
+il,yad mordekhai,Yad Mordekhai,01,,31.589021,34.558155
+il,yad mordekhay,Yad Mordekhay,01,,31.589021,34.558155
+il,yad natan,Yad Natan,01,,31.652102,34.705908
+il,yad rambam,Yad Rambam,02,,31.900833,34.901944
+il,ya`el,Ya`el,01,,31.710831,34.744403
+il,ya`el,Ya`el,03,,32.552402,35.308304
+il,ya'el,Ya'el,03,,32.552402,35.308304
+il,yafa an-nasirah,Yafa an-Nasirah,03,,32.691667,35.275
+il,yafah,Yafah,05,,32.033333,34.75
+il,yafa,Yafa,03,,32.691667,35.275
+il,yafa,Yafa,05,,32.033333,34.75
+il,yafe nof,Yafe Nof,06,,31.777997,35.182961
+il,yaffa,Yaffa,05,,32.033333,34.75
+il,yafi`a,Yafi`a,03,,32.691667,35.275
+il,yafo,Yafo,05,,32.033333,34.75
+il,yagel,Yagel,02,,31.988611,34.880833
+il,yagev,Yagev,01,,31.483958,34.534152
+il,yagur,Yagur,04,,32.7375,35.074444
+il,yaham,Yaham,02,,32.3689,35.031329
+il,yahel,Yahel,01,,30.079167,35.128333
+il,yahudiya,Yahudiya,02,,32.035,34.886111
+il,yahudiyyah,Yahudiyyah,02,,32.035,34.886111
+il,yair,Yair,01,,31.35109,34.401649
+il,yajur,Yajur,04,,32.75,35.05
+il,yakhini,Yakhini,01,,31.48274,34.599107
+il,yakhin,Yakhin,02,,32.044722,34.885833
+il,yakuk,Yakuk,03,,32.879178,35.495548
+il,yakum,Yakum,02,,32.248949,34.843234
+il,yamah,Yamah,03,,32.703563,35.506616
+il,yama,Yama,02,,31.933056,34.707222
+il,yamin orde,Yamin Orde,03,,33.101489,35.553211
+il,yamin,Yamin,02,,32.168611,34.935278
+il,yammah,Yammah,02,,32.3689,35.031329
+il,yamma,Yamma,02,,32.3689,35.031329
+il,yamma,Yamma,03,,32.703563,35.506616
+il,yanoah,Yanoah,03,,32.984697,35.250954
+il,yanuh,Yanuh,03,,32.984697,35.250954
+il,yanuv b,Yanuv B,02,,32.304514,34.961585
+il,yanuv,Yanuv,02,,32.306271,34.950303
+il,yaqum,Yaqum,02,,32.248949,34.843234
+il,yaquq,Yaquq,03,,32.879178,35.495548
+il,ya`rah,Ya`rah,03,,33.067548,35.187042
+il,ya'rah,Ya'rah,03,,33.067548,35.187042
+il,yardena,Yardena,03,,32.560833,35.563333
+il,yarhiv,Yarhiv,02,,32.15,34.966667
+il,yarkah,Yarkah,03,,32.953755,35.211998
+il,yarkonah,Yarkonah,02,,32.143611,34.900556
+il,yar oun,Yar Oun,03,,33.077105,35.454906
+il,yarqona ha-rehava,Yarqona Ha-Rehava,02,,32.139722,34.906389
+il,yarqonah,Yarqonah,02,,32.143611,34.900556
+il,yarqona,Yarqona,02,,32.143611,34.900556
+il,yashresh,Yashresh,02,,31.916111,34.846667
+il,yasur,Yasur,01,,31.770759,34.719846
+il,yas`ur,Yas`ur,03,,32.899444,35.169722
+il,yated,Yated,01,,31.206477,34.327574
+il,yatsits,Yatsits,02,,31.862222,34.857778
+il,yatsivim,Yatsivim,01,,31.612172,34.895499
+il,yatsiv,Yatsiv,02,,32.273335,34.913451
+il,yavne'el,Yavne'el,03,,32.703563,35.506616
+il,yavneh hadromit,Yavneh Hadromit,02,,31.843408,34.753978
+il,yavneh,Yavneh,02,,31.81555,34.7208
+il,yavne,Yavne,02,32394,31.81555,34.7208
+il,yavniel,Yavniel,03,,32.703563,35.506616
+il,yavor,Yavor,03,,32.896944,35.175278
+il,yazir,Yazir,05,,32.019167,34.810556
+il,yaziv,Yaziv,02,,32.273335,34.913451
+il,yaziz,Yaziz,02,,31.862222,34.857778
+il,yazor,Yazor,05,,32.019167,34.810556
+il,yazur,Yazur,05,,32.019167,34.810556
+il,ye`af,Ye`af,02,,32.267591,34.965405
+il,ye'af,Ye'af,02,,32.267591,34.965405
+il,yedideya,Yedideya,02,,32.346273,34.899363
+il,yedidyah,Yedidyah,02,,32.346273,34.899363
+il,yedidya,Yedidya,02,,32.346273,34.899363
+il,yefe anaf,Yefe Anaf,02,,31.834388,34.743659
+il,yefe nof,Yefe Nof,06,,31.777997,35.182961
+il,yehi`am,Yehi`am,03,,32.996627,35.220782
+il,yehudie,Yehudie,02,,32.035,34.886111
+il,yehud,Yehud,02,,32.035,34.886111
+il,yemin orde,Yemin Orde,03,,32.7,34.983333
+il,yeroham,Yeroham,01,9148,30.987222,34.931389
+il,yeruham,Yeruham,01,,30.987222,34.931389
+il,yesha`,Yesha`,01,,31.247291,34.402757
+il,yesha,Yesha,01,,31.247291,34.402757
+il,yesodot,Yesodot,02,,31.814792,34.865591
+il,yessod hammaalah,Yessod Hammaalah,03,,33.059204,35.610327
+il,yessodot,Yessodot,02,,31.814792,34.865591
+il,yesud hama`alah,Yesud Hama`alah,03,,33.059204,35.610327
+il,yesud hama`ala,Yesud HaMa`ala,03,,33.059204,35.610327
+il,yesud hama'ala,Yesud HaMa'ala,03,,33.059204,35.610327
+il,yesud ham ma`ala,Yesud Ham Ma`ala,03,,33.059204,35.610327
+il,yevul,Yevul,01,,31.18893,34.317058
+il,yezre`el,Yezre`el,03,,32.5625,35.322222
+il,yibnah,Yibnah,02,,31.866667,34.75
+il,yibna,Yibna,02,,31.866667,34.75
+il,yibneh,Yibneh,02,,31.866667,34.75
+il,yif`at,Yif`at,03,,32.6775,35.223333
+il,yiftah,Yiftah,03,,33.128844,35.552306
+il,yikkon,Yikkon,02,,32.359987,34.994883
+il,yikon,Yikon,02,,32.359987,34.994883
+il,yinnon,Yinnon,01,,31.74199,34.782295
+il,yinon,Yinon,01,,31.74199,34.782295
+il,yirka,Yirka,03,,32.953755,35.211998
+il,yir'on,Yir'on,03,,33.077105,35.454906
+il,yish`i,Yish`i,06,,31.733333,34.966667
+il,yis`or,Yis`or,03,,32.899444,35.169722
+il,yisud hama`ale,Yisud HaMa`ale,03,,33.059204,35.610327
+il,yizra`el,Yizra`el,03,,32.5625,35.322222
+il,yizre`am,Yizre`am,01,,31.442796,34.572061
+il,yizre'am,Yizre'am,01,,31.442796,34.572061
+il,yizre`el,Yizre`el,03,,32.5625,35.322222
+il,yizr`el,Yizr`el,03,,32.5625,35.322222
+il,yodefat,Yodefat,03,,32.836111,35.269444
+il,yohanan,Yohanan,02,,31.833333,34.733333
+il,yoqn`am,Yoqn`am,03,,32.654167,35.113889
+il,yoqne`am `illit,Yoqne`am `Illit,03,,32.666667,35.133333
+il,yoqne`am,Yoqne`am,03,,32.654167,35.113889
+il,yoshivyah,Yoshivyah,01,,31.443967,34.609491
+il,yoshivya,Yoshivya,01,,31.443967,34.609491
+il,yot'bathah,Yot'bathah,01,,29.883333,35.05
+il,yotvata,Yotvata,01,,29.883333,35.05
+il,yuvallim,Yuvallim,03,,32.883333,35.273611
+il,yuval,Yuval,03,,33.247483,35.598112
+il,zabdiel b,Zabdiel B,01,,31.648882,34.734371
+il,zafririm,Zafririm,06,,31.66079,34.943712
+il,zafriyya,Zafriyya,02,,32.005556,34.854722
+il,zahala,Zahala,05,,32.123889,34.836389
+il,zakariyah,Zakariyah,06,,31.709267,34.944885
+il,zakariya,Zakariya,06,,31.709267,34.944885
+il,zalafa el gharbiya,Zalafa el Gharbiya,04,,32.55,35.183333
+il,zalafa esh sharqiya,Zalafa esh Sharqiya,04,,32.55,35.183333
+il,zalafah,Zalafah,04,,32.548048,35.185197
+il,zalafa,Zalafa,04,,32.548048,35.185197
+il,zalafe,Zalafe,04,,32.548048,35.185197
+il,zamarin,Zamarin,04,,32.566451,34.956276
+il,zammarin,Zammarin,04,,32.566451,34.956276
+il,zandala,Zandala,03,,32.525,35.325
+il,zanjariyyah,Zanjariyyah,03,,32.947224,35.547906
+il,zanoah,Zanoah,06,,31.73014,34.996502
+il,zaraait,Zaraait,03,,33.099546,35.288903
+il,zarhiya,Zarhiya,01,,31.682235,34.745237
+il,zar`in,Zar`in,03,,32.5625,35.322222
+il,zar`it,Zar`it,03,,33.099546,35.288903
+il,zar'it,Zar'it,03,,33.099546,35.288903
+il,zarnuka,Zarnuka,02,,31.885556,34.783333
+il,zarnuqah,Zarnuqah,02,,31.885556,34.783333
+il,zarnuqa,Zarnuqa,02,,31.885556,34.783333
+il,zavdi'el,Zavdi'el,01,,31.658366,34.761203
+il,ze'elim,Ze'elim,01,,31.203034,34.534731
+il,zefat,Zefat,03,,32.965637,35.500491
+il,zeitan,Zeitan,02,,31.976111,34.888889
+il,zekharya,Zekharya,06,,31.709267,34.944885
+il,zekher dov,Zekher Dov,02,,31.816667,34.733333
+il,zelafon,Zelafon,06,,31.804616,34.932105
+il,z`elim,Z`elim,01,,31.203034,34.534731
+il,zemer,Zemer,02,,32.366576,35.033117
+il,zemorot,Zemorot,01,,31.71766,34.672403
+il,zerahyah,Zerahyah,01,,31.682235,34.745237
+il,zerahya,Zerahya,01,,31.682235,34.745237
+il,zera`im,Zera`im,03,,32.547222,35.358333
+il,zerin,Zerin,03,,32.5625,35.322222
+il,zeru`a,Zeru`a,01,,31.459286,34.624086
+il,zerufa,Zerufa,04,,32.641944,34.939722
+il,zetan,Zetan,02,,31.976111,34.888889
+il,zeviyya,Zeviyya,03,,32.890168,35.331955
+il,zicron jacob,Zicron Jacob,04,,32.566451,34.956276
+il,ziglag,Ziglag,01,,31.37953,34.869558
+il,zikeron ya`akob,Zikeron Ya`akob,04,,32.566451,34.956276
+il,zikhron ya`aqov,Zikhron Ya`aqov,04,,32.566451,34.956276
+il,zimrat,Zimrat,01,,31.447838,34.554013
+il,zippori,Zippori,03,,32.739444,35.275833
+il,ziqim,Ziqim,01,,31.606809,34.521535
+il,zir`in,Zir`in,03,,32.5625,35.322222
+il,ziv`on,Ziv`on,03,,33.022065,35.417988
+il,zofar,Zofar,01,,30.555278,35.182778
+il,zofit,Zofit,02,,32.195556,34.916111
+il,zofiyya,Zofiyya,02,,31.856944,34.739444
+il,zohar,Zohar,01,,31.239359,34.420421
+il,zoran,Zoran,02,,32.287514,34.944803
+il,zor`a,Zor`a,06,,31.762421,34.969065
+il,zova,Zova,06,,31.783775,35.119263
+il,zuk fukani,Zuk Fukani,03,,33.247483,35.598112
+il,zur hadassa,Zur Hadassa,06,,31.717935,35.095488
+il,zuri'el,Zuri'el,03,,33.00571,35.31398
+il,zurit,Zurit,03,,32.904167,35.255556
+il,zur moshe,Zur Moshe,02,,32.29819,34.913129
+il,zur natan,Zur Natan,02,,32.240907,35.013169
+il,zur shalom,Zur Shalom,04,,32.852778,35.096111
+il,zur yig'al,Zur Yig'al,02,,32.221176,34.990591

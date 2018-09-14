@@ -1,0 +1,560 @@
+bz,aguacale,Aguacale,06,,16.1622222,-89.0938889
+bz,aguacate,Aguacate,06,,16.1622222,-89.0938889
+bz,aguacate camp,Aguacate Camp,02,,16.705,-89.0488889
+bz,alabama,Alabama,05,,16.6666667,-88.5166667
+bz,alabama wharf,Alabama Wharf,05,,16.5333333,-88.4
+bz,alta vista,Alta Vista,05,,16.9833333,-88.4
+bz,america,America,03,,18.3333333,-88.4333333
+bz,andersons camp,Andersons Camp,04,,17.7166667,-89.0166667
+bz,anthony's bank,Anthony's Bank,05,,16.7666667,-88.4833333
+bz,aquacate,Aquacate,06,,16.1622222,-89.0938889
+bz,arabato camp,Arabato Camp,02,,16.6166667,-89.05
+bz,arenal,Arenal,02,,17.0166667,-89.15
+bz,august,August,04,,17.9666667,-88.7166667
+bz,augustine,Augustine,02,,16.9666667,-88.9833333
+bz,august pine ridge,August Pine Ridge,04,,17.9666667,-88.7166667
+bz,aventura,Aventura,03,,18.3166667,-88.4333333
+bz,bacalar chico,Bacalar Chico,01,,18.15,-87.8333333
+bz,backlanding,Backlanding,04,,17.8333333,-88.6
+bz,bakers,Bakers,01,,17.55,-88.3833333
+bz,baking pot,Baking Pot,02,,17.2030556,-89.0194444
+bz,baldy beacon,Baldy Beacon,02,,17.0,-88.7833333
+bz,baldy ben,Baldy Ben,02,,17.0,-88.7833333
+bz,baldy sibun,Baldy Sibun,02,,16.9833333,-88.7333333
+bz,banana bank,Banana Bank,02,,17.3166667,-88.7666667
+bz,baranca,Baranca,06,,16.0,-88.9166667
+bz,baranco,Baranco,06,,16.0,-88.9166667
+bz,barquedier sierra,Barquedier Sierra,04,,18.1666667,-88.4666667
+bz,barranco,Barranco,06,,16.0,-88.9166667
+bz,barton ramie,Barton Ramie,02,,17.2,-88.9666667
+bz,basil jones,Basil Jones,01,,18.1166667,-87.8833333
+bz,beattie pen,Beattie Pen,06,,16.4,-88.7
+bz,belice,Belice,01,,17.4833333,-88.1833333
+bz,belize,Belize,01,61462,17.4833333,-88.1833333
+bz,belize city,Belize City,01,,17.4833333,-88.1833333
+bz,belmopan,Belmopan,02,13381,17.25,-88.7666667
+bz,bengue viejo,Bengue Viejo,02,,17.075,-89.1391667
+bz,benique viejo del carmen,Benique Viejo del Carmen,02,,17.075,-89.1391667
+bz,benque ceiba,Benque Ceiba,02,,17.1869444,-89.0366667
+bz,benque cieba,Benque Cieba,02,,17.1869444,-89.0366667
+bz,benque geiba,Benque Geiba,02,,17.1869444,-89.0366667
+bz,benque viejo,Benque Viejo,02,7092,17.075,-89.1391667
+bz,benque viejo,Benque Viejo,03,,18.2666667,-88.45
+bz,benque viejo del carmen,Benque Viejo del Carmen,02,,17.075,-89.1391667
+bz,bermudian landing,Bermudian Landing,01,,17.55,-88.5166667
+bz,big creek,Big Creek,05,,16.5166667,-88.4
+bz,big eddy,Big Eddy,02,,17.0916667,-89.0683333
+bz,big fall,Big Fall,06,,16.25,-88.8833333
+bz,big falls,Big Falls,01,,17.5,-88.5666667
+bz,biscayne,Biscayne,01,,17.7166667,-88.45
+bz,black man eddy,Black Man Eddy,02,,17.2166667,-88.9166667
+bz,black rock,Black Rock,02,,17.0494444,-89.0591667
+bz,blancancaux,Blancancaux,02,,17.05,-88.9666667
+bz,blancaneau,Blancaneau,02,,17.05,-88.9666667
+bz,blancaneaux,Blancaneaux,02,,17.05,-88.9666667
+bz,blossom bank,Blossom Bank,04,,18.15,-88.4833333
+bz,blue creek,Blue Creek,04,,17.8833333,-88.8666667
+bz,blue creek,Blue Creek,06,,16.1977778,-89.0422222
+bz,blue creek village,Blue Creek Village,04,,17.8833333,-88.8666667
+bz,blue creek village,Blue Creek Village,06,,16.1977778,-89.0422222
+bz,blue hole camp,Blue Hole Camp,02,,16.7833333,-88.9333333
+bz,blumenfeld,Blumenfeld,04,,17.85,-88.9166667
+bz,bob eiley,Bob Eiley,01,,17.7,-88.4666667
+bz,bocotora,Bocotora,01,,17.25,-88.4333333
+bz,bomba,Bomba,01,,17.8833333,-88.2666667
+bz,boom,Boom,01,,17.5666667,-88.4
+bz,boom town,Boom Town,01,,17.5666667,-88.4
+bz,boon town,Boon Town,01,,17.5666667,-88.4
+bz,branch mouth,Branch Mouth,02,,17.1802778,-89.08
+bz,buena vista,Buena Vista,02,,17.1166667,-89.1166667
+bz,buena vista,Buena Vista,03,,18.2333333,-88.5166667
+bz,bullet tree falls,Bullet Tree Falls,02,,17.1722222,-89.1127778
+bz,burnham hall,Burnham Hall,04,,17.7,-88.6666667
+bz,burnt ground,Burnt Ground,04,,17.3833333,-89.1166667
+bz,burrell boom,Burrell Boom,01,,17.5666667,-88.4
+bz,burrell's town,Burrell's Town,01,,17.5666667,-88.4
+bz,butcher burn,Butcher Burn,01,,17.4,-88.4333333
+bz,butcher burns,Butcher Burns,01,,17.4,-88.4333333
+bz,cabra,Cabra,06,,16.4,-89.0666667
+bz,cabro,Cabro,06,,16.4,-89.0666667
+bz,cadena camp,Cadena Camp,02,,17.2833333,-89.1
+bz,cadena creek camp,Cadena Creek Camp,02,,17.2833333,-89.1
+bz,calcutta,Calcutta,03,,18.35,-88.4333333
+bz,caledonia,Caledonia,03,,18.2166667,-88.4666667
+bz,calera camp,Calera Camp,06,,16.5166667,-88.7666667
+bz,callar creek,Callar Creek,02,,17.1166667,-89.1333333
+bz,camelote,Camelote,02,,17.2333333,-88.8166667
+bz,campamento esperanza,Campamento Esperanza,06,,16.4172222,-89.0230556
+bz,campamento la flor,Campamento La Flor,02,,16.6213889,-89.0041667
+bz,campamento resumidero,Campamento Resumidero,02,,16.6327778,-89.0708333
+bz,campamento tintal,Campamento Tintal,04,,17.9166667,-88.9666667
+bz,campamento union,Campamento Unión,06,,16.3963889,-89.1419444
+bz,campa pita,Campa Pita,03,,18.0666667,-88.2833333
+bz,campa rita,Campa Rita,03,,18.0666667,-88.2833333
+bz,canal bank,Canal Bank,04,,17.6833333,-88.85
+bz,carib,Carib,06,,16.1166667,-88.7833333
+bz,carib settlement,Carib Settlement,06,,16.1166667,-88.7833333
+bz,carmelita,Carmelita,02,,17.1875,-89.0686111
+bz,carmelita,Carmelita,04,,18.0166667,-88.5333333
+bz,carolina,Carolina,03,,18.35,-88.4166667
+bz,cashew tree,Cashew Tree,04,,17.9833333,-88.45
+bz,casiguinic,Casigüinic,04,,17.5333333,-89.1333333
+bz,castile,Castile,02,,17.35,-88.6666667
+bz,cattle landing,Cattle Landing,06,,16.1166667,-88.7833333
+bz,caves branch,Caves Branch,02,,17.1333333,-88.7
+bz,caxiguinic,Caxigüinic,04,,17.5333333,-89.1333333
+bz,caye corker,Caye Corker,01,,17.75,-88.05
+bz,cayo,Cayo,02,,17.075,-89.1391667
+bz,cayo town,Cayo Town,02,,17.1561111,-89.0713889
+bz,cebada camp,Cebada Camp,02,,16.65,-89.1675
+bz,cedar bank,Cedar Bank,01,,17.3833333,-88.4333333
+bz,cedar crossing,Cedar Crossing,04,,17.6911111,-89.0277778
+bz,central,Central,06,,16.4522222,-89.0808333
+bz,central edwards,Central Edwards,06,,16.3388889,-89.1530556
+bz,chacan chac mol,Chacan Chac Mol,03,,18.2666667,-88.25
+bz,chakan chak mol,Chakan Chak Mol,03,,18.2666667,-88.25
+bz,chan bank,Chan Bank,03,,18.2166667,-88.5
+bz,chan chen,Chan Chen,03,,18.4333333,-88.4166667
+bz,chan limon,Chan Limon,04,,17.35,-89.1333333
+bz,chan pine ridge,Chan Pine Ridge,04,,18.0333333,-88.5666667
+bz,chan pond,Chan Pond,04,,17.4,-89.1
+bz,chan quebrada,Chan Quebrada,06,,16.5166667,-88.6833333
+bz,chan sapote,Chan Sapote,03,,18.3166667,-88.55
+bz,chapayal,Chapayal,02,,16.7816667,-89.1391667
+bz,chial,Chial,02,,17.1,-89.1
+bz,chicago,Chicago,01,,17.8,-88.3
+bz,chichawata,Chichawata,01,,17.8,-88.3
+bz,chorro,Chorro,02,,17.255,-89.1238889
+bz,chun bank,Chun Bank,06,,16.5333333,-88.7
+bz,chunch,Chunch,03,,18.3,-88.3833333
+bz,chunox,Chunox,03,,18.2833333,-88.35
+bz,churchyard,Churchyard,01,,17.3,-88.55
+bz,cockloft,Cockloft,01,,17.5,-88.5833333
+bz,cocos,Cocos,03,,18.25,-88.3666667
+bz,cocos,Cocos,04,,18.2166667,-88.6
+bz,cocquericot,Cocquericot,02,,17.4166667,-88.6166667
+bz,cohune ridge,Cohune Ridge,02,,16.8194444,-89.0841667
+bz,cojune ridge,Cojune Ridge,02,,16.8194444,-89.0841667
+bz,columbia,Columbia,06,,16.2666667,-88.95
+bz,commerce bight village,Commerce Bight Village,05,,16.8666667,-88.3
+bz,concepcion,Concepcion,03,,18.3166667,-88.4666667
+bz,conejo,Conejo,06,,16.0333333,-88.9833333
+bz,consejo,Consejo,03,,18.45,-88.2833333
+bz,cool shade,Cool Shade,02,,17.1666667,-88.9666667
+bz,copper bank,Copper Bank,03,,18.3166667,-88.35
+bz,coquericot,Coquericot,02,,17.4166667,-88.6166667
+bz,corasal,Corasal,03,,18.3833333,-88.3833333
+bz,corazal,Corazal,03,,18.3833333,-88.3833333
+bz,corosal,Corosal,03,,18.3833333,-88.3833333
+bz,corosalito,Corosalito,04,,17.95,-88.8
+bz,corozal,Corozal,03,8724,18.3833333,-88.3833333
+bz,corozal,Corozal,04,,17.4,-89.0666667
+bz,corozalito,Corozalito,01,,17.8333333,-88.2666667
+bz,corozalito,Corozalito,03,,18.1,-88.3666667
+bz,corozalito,Corozalito,04,,17.95,-88.8
+bz,corozon,Corozon,06,,16.0552778,-89.1241667
+bz,cotton tree bank,Cotton Tree Bank,02,,17.3333333,-88.7333333
+bz,cotton tree,Cotton Tree,02,,17.2666667,-88.7
+bz,cowboy camp,Cowboy Camp,02,,16.7380556,-89.125
+bz,cowhead creek,Cowhead Creek,01,,17.75,-88.3
+bz,cowpen,Cowpen,03,,18.1,-88.4333333
+bz,cowpen,Cowpen,05,,16.5666667,-88.5333333
+bz,crique jute,Crique Jute,06,,16.2666667,-89.0166667
+bz,crique sarco,Crique Sarco,06,,15.9833333,-89.1
+bz,crique sarco village,Crique Sarco Village,06,,15.9833333,-89.1
+bz,cristo rey,Cristo Rey,02,,17.1313889,-89.055
+bz,cristo rey,Cristo Rey,03,,18.1166667,-88.4833333
+bz,crooked tree,Crooked Tree,01,,17.7666667,-88.5333333
+bz,crossing landing bank,Crossing Landing Bank,01,,17.2166667,-88.5666667
+bz,cubeta camp,Cubeta Camp,02,,16.7847222,-89.01
+bz,cubetas,Cubetas,02,,16.7847222,-89.01
+bz,dancing pool,Dancing Pool,05,,16.8333333,-88.4333333
+bz,dangriga,Dangriga,05,10750,16.9666667,-88.2166667
+bz,dangriga town,Dangriga Town,05,,16.9666667,-88.2166667
+bz,davis bank,Davis Bank,01,,17.6333333,-88.3833333
+bz,delores village,Delores Village,06,,15.9833333,-89.2
+bz,dolores,Dolores,01,,17.5333333,-88.6166667
+bz,dolores,Dolores,06,,15.9833333,-89.2
+bz,dolores village,Dolores Village,06,,15.9833333,-89.2
+bz,double head cabbage,Double Head Cabbage,01,,17.5333333,-88.55
+bz,douglas,Douglas,04,,18.2333333,-88.6
+bz,drill camp,Drill Camp,02,,17.35,-88.9166667
+bz,driving camp,Driving Camp,04,,17.8166667,-88.8166667
+bz,dry creek bank,Dry Creek Bank,02,,17.1666667,-88.5833333
+bz,duck run,Duck Run,02,,17.185,-89.0475
+bz,duffy bank,Duffy Bank,02,,17.1197222,-89.0630556
+bz,edenthal,Edenthal,04,,17.9166667,-88.9666667
+bz,egypt,Egypt,01,,17.4166667,-88.3833333
+bz,el arenal,El Arenal,02,,17.0166667,-89.15
+bz,el brazo,El Brazo,04,,18.2,-88.6166667
+bz,el cayo de san ignacio,El Cayo de San Ignacio,02,,17.1561111,-89.0713889
+bz,el cayo,El Cayo,02,,17.1561111,-89.0713889
+bz,el remate,El Remate,03,,18.2,-88.4333333
+bz,el retiro camp,El Retiro Camp,02,,16.7186111,-89.1402778
+bz,esperanza bank,Esperanza Bank,06,,16.4833333,-88.8666667
+bz,esperanza camp,Esperanza Camp,06,,16.4172222,-89.0230556
+bz,esperanza,Esperanza,02,,17.1666667,-89.0333333
+bz,esperanza,Esperanza,04,,17.3666667,-89.1333333
+bz,esperanza,Esperanza,06,,16.4172222,-89.0230556
+bz,estero,Estero,03,,18.4,-88.5
+bz,estrella,Estrella,03,,18.2833333,-88.45
+bz,ferguson bank,Ferguson Bank,01,,17.4333333,-88.2833333
+bz,fermin reyes,Fermin Reyes,02,,17.2588889,-89.0536111
+bz,flour camp,Flour Camp,02,,17.0469444,-89.0602778
+bz,flour landing,Flour Landing,02,,17.0469444,-89.0602778
+bz,flowers bank,Flowers Bank,01,,17.6,-88.4833333
+bz,forest home,Forest Home,06,,16.1333333,-88.8166667
+bz,fork camp,Fork Camp,02,,16.5166667,-89.05
+bz,fort george,Fort George,01,,17.4833333,-88.1666667
+bz,freetown area,Freetown Area,05,,16.8166667,-88.2833333
+bz,freetown,Freetown,01,,17.4166667,-88.35
+bz,freetown sibun,Freetown Sibun,01,,17.4166667,-88.35
+bz,gales point,Gales Point,01,,17.1833333,-88.3333333
+bz,gallon jug,Gallon Jug,04,,17.55,-89.0333333
+bz,garbutt's falls,Garbutt's Falls,02,,17.0669444,-89.1513889
+bz,georgetown,Georgetown,05,,16.65,-88.5
+bz,georgeville,Georgeville,02,,17.1833333,-88.9666667
+bz,gnadenfeld,Gnadenfeld,04,,17.8666667,-88.9333333
+bz,gnadenthal,Gnadenthal,04,,17.8666667,-88.9166667
+bz,gongora,Gongora,04,,17.7,-88.95
+bz,good living camp,Good Living Camp,02,,17.1,-88.65
+bz,gorosalito,Gorosalito,04,,17.95,-88.8
+bz,grace bank,Grace Bank,01,,17.6333333,-88.4
+bz,gracy rock bank,Gracy Rock Bank,01,,17.35,-88.45
+bz,graham creek,Graham Creek,06,,15.9166667,-89.1
+bz,grique sarco,Grique Sarco,06,,15.9833333,-89.1
+bz,guacamallo camp,Guacamallo Camp,02,,16.8677778,-89.0322222
+bz,guacamallo,Guacamallo,02,,16.8677778,-89.0322222
+bz,guana church bank,Guana Church Bank,05,,16.8333333,-88.4666667
+bz,guinea grass,Guinea Grass,04,,17.95,-88.5833333
+bz,hamidli creek settlement,Hamidli Creek Settlement,06,,16.2166667,-88.9
+bz,hattieville,Hattieville,01,,17.45,-88.3833333
+bz,hattieville,Hattieville,02,,17.25,-88.7666667
+bz,hawiia,Hawiia,06,,16.2661111,-89.095
+bz,hellgate,Hellgate,06,,16.3666667,-88.8
+bz,hercules,Hercules,05,,16.5166667,-88.4
+bz,high,High,05,,16.8166667,-88.3
+bz,high sand,High Sand,05,,16.8166667,-88.3
+bz,hill bank,Hill Bank,03,,18.2333333,-88.3833333
+bz,hill bank,Hill Bank,04,,17.6,-88.6833333
+bz,hinchasones,Hinchasones,06,,16.1333333,-89.05
+bz,honey camp,Honey Camp,04,,18.0333333,-88.4333333
+bz,hopital,Hopital,06,,16.4666667,-88.9666667
+bz,hopkins,Hopkins,05,,16.8666667,-88.2833333
+bz,iguana creek bank,Iguana Creek Bank,02,,17.2166667,-88.9166667
+bz,independence,Independence,05,,16.5333333,-88.4166667
+bz,indian church,Indian Church,04,,17.7666667,-88.65
+bz,isabella,Isabella,01,,17.5833333,-88.5333333
+bz,ixcanha,Ixcanhá,04,,18.0,-88.35
+bz,jacinto landing,Jacinto Landing,06,,16.1666667,-88.85
+bz,jacinto lodge,Jacinto Lodge,06,,16.1666667,-88.85
+bz,jalacte,Jalacte,06,,16.1580556,-89.1466667
+bz,jimmy cut,Jimmy Cut,06,,16.2933333,-89.0480556
+bz,jocote,Jocote,02,,17.0844444,-89.1261111
+bz,joe wagner boom,Joe Wagner Boom,01,,17.4166667,-88.3666667
+bz,joventud,Joventud,06,,16.1172222,-89.17
+bz,kaway camp,Kaway Camp,04,,17.3666667,-89.05
+bz,kaxil unic,Kaxil Unic,04,,17.5333333,-89.1333333
+bz,kendal,Kendal,05,,16.8,-88.3666667
+bz,la democracia,La Democracia,01,,17.3333333,-88.55
+bz,ladyville,Ladyville,01,,17.55,-88.1166667
+bz,la flor camp,La Flor Camp,02,,16.6213889,-89.0041667
+bz,lagarto bank,Lagarto Bank,05,,16.65,-88.5833333
+bz,lagarto,Lagarto,04,,17.3833333,-89.1333333
+bz,lagoona,Lagoona,06,,16.1666667,-88.9333333
+bz,laguna,Laguna,03,,18.3666667,-88.5166667
+bz,laguna,Laguna,06,,16.1666667,-88.9333333
+bz,lemonal,Lemonal,01,,17.6,-88.6
+bz,libertad,Libertad,03,,18.3,-88.45
+bz,lime walk,Lime Walk,01,,17.6333333,-88.4833333
+bz,listowel,Listowel,02,,17.2030556,-89.0286111
+bz,little belize,Little Belize,03,,18.2,-88.4
+bz,little bermudian landing,Little Bermudian Landing,04,,17.5666667,-88.5333333
+bz,locust bank,Locust Bank,05,,16.7666667,-88.4833333
+bz,logan's bank,Logan's Bank,06,,16.4833333,-88.5333333
+bz,logarto,Logarto,04,,17.3833333,-89.1333333
+bz,london,London,04,,17.9833333,-88.4333333
+bz,long bridge,Long Bridge,02,,17.3127778,-89.0783333
+bz,lord's bank,Lord's Bank,01,,17.5333333,-88.3166667
+bz,los altos,Los Altos,02,,16.9666667,-88.9833333
+bz,los lirios camp,Los Lirios Camp,02,,16.7025,-89.0097222
+bz,louisville,Louisville,03,,18.3166667,-88.5
+bz,lucky strike camp,Lucky Strike Camp,01,,17.7666667,-88.3166667
+bz,lucky strike,Lucky Strike,01,,17.7666667,-88.3166667
+bz,macaw bank,Macaw Bank,02,,16.9833333,-89.0666667
+bz,machaca camp,Machaca Camp,06,,16.1833333,-88.8833333
+bz,machaca,Machaca,06,,16.1402778,-89.115
+bz,machage,Machage,06,,16.1402778,-89.115
+bz,mai gate,Mai Gate,02,,17.05,-88.9666667
+bz,mammee camp,Mammee Camp,04,,17.3833333,-88.9833333
+bz,mango creek,Mango Creek,05,,16.5333333,-88.4166667
+bz,maskalla,Maskalla,01,,17.8666667,-88.3
+bz,maskall,Maskall,01,,17.8666667,-88.3
+bz,maskalls bank,Maskalls Bank,01,,17.8666667,-88.3
+bz,maskalls,Maskalls,01,,17.8666667,-88.3
+bz,maya beach,Maya Beach,05,,16.6,-88.35
+bz,maya mopan,Maya Mopan,05,,16.65,-88.5166667
+bz,may pen,May Pen,01,,17.65,-88.4666667
+bz,medina bank,Medina Bank,06,,16.4333333,-88.7333333
+bz,meditation,Meditation,02,,17.3666667,-88.7166667
+bz,melvin's bank,Melvin's Bank,06,,16.4333333,-88.6333333
+bz,middle bank,Middle Bank,05,,16.8333333,-88.3
+bz,middlesex,Middlesex,05,,17.0166667,-88.5
+bz,middlesey,Middlesey,05,,17.0166667,-88.5
+bz,millionario,Millionario,02,,16.7547222,-89.0083333
+bz,millionaro camp,Millionaro Camp,02,,16.7547222,-89.0083333
+bz,monkey fall,Monkey Fall,02,,17.1375,-89.0502778
+bz,monkey,Monkey,06,,16.35,-88.4833333
+bz,monkey river,Monkey River,06,,16.35,-88.4833333
+bz,monkey river town,Monkey River Town,06,,16.35,-88.4833333
+bz,mopan,Mopan,02,,17.25,-88.7666667
+bz,more force,More Force,01,,17.8333333,-88.3666667
+bz,more tomorrow,More Tomorrow,02,,17.35,-88.6833333
+bz,mountain cow,Mountain Cow,02,,16.7875,-89.0488889
+bz,mount hope,Mount Hope,02,,17.2166667,-88.9166667
+bz,mullins,Mullins,05,,17.1,-88.3
+bz,mullins river,Mullins River,05,,17.1,-88.3
+bz,mullins river town,Mullins River Town,05,,17.1,-88.3
+bz,nafreda,Nafreda,06,,16.2333333,-88.9833333
+bz,nago bank,Nago Bank,01,,17.8666667,-88.2833333
+bz,narrows landing,Narrows Landing,04,,18.1666667,-88.5
+bz,nasario perez,Nasario Perez,06,,16.4230556,-89.1272222
+bz,negroman,Negroman,02,,17.0819444,-89.0816667
+bz,neuendorf,Neuendorf,04,,17.9,-88.8833333
+bz,neustadt,Neustadt,04,,17.9,-89.0333333
+bz,never delay,Never Delay,02,,17.3166667,-88.75
+bz,new egypt,New Egypt,01,,17.4166667,-88.3833333
+bz,new haven,New Haven,06,,16.2666667,-88.5666667
+bz,new home,New Home,03,,18.1,-88.4333333
+bz,new home,New Home,05,,16.7333333,-88.6333333
+bz,new retiro,New Retiro,02,,16.7186111,-89.1402778
+bz,new town,New Town,05,,16.9,-88.2666667
+bz,nimu punit,Nimu Punit,06,,16.3166667,-88.8
+bz,norland,Norland,02,,17.1666667,-89.0
+bz,nuendorf,Nuendorf,04,,17.9,-88.8833333
+bz,old retiro,Old Retiro,02,,16.7186111,-89.1402778
+bz,ontario village,Ontario Village,02,,17.2166667,-88.8833333
+bz,orange walk,Orange Walk,02,,17.2666667,-88.7833333
+bz,orange walk,Orange Walk,04,15298,18.0666667,-88.55
+bz,otoxha,Otoxha,06,,16.0247222,-89.1797222
+bz,otoxha village,Otoxha Village,06,,16.0247222,-89.1797222
+bz,pachacan,Pachacan,03,,18.4,-88.4666667
+bz,palmar camp,Palmar Camp,06,,16.4333333,-88.8833333
+bz,palmer camp,Palmer Camp,06,,16.4333333,-88.8833333
+bz,panama,Panama,02,,17.35,-88.6833333
+bz,paraiso,Paraiso,03,,18.4,-88.3833333
+bz,pascua camp,Pascua Camp,04,,17.4,-89.0333333
+bz,pascua camp two,Pascua Camp Two,04,,17.4,-89.0333333
+bz,patchchacan,Patchchacan,03,,18.4,-88.4666667
+bz,patch chakan,Patch Chakan,03,,18.4,-88.4666667
+bz,pembroke hall,Pembroke Hall,03,,18.3,-88.45
+bz,perry bank,Perry Bank,06,,16.6,-88.5666667
+bz,pescado camp,Pescado Camp,04,,17.35,-89.1
+bz,pescado,Pescado,04,,17.35,-89.1
+bz,pettville,Pettville,04,,18.0666667,-88.5333333
+bz,piebra,Piebra,06,,16.1,-88.9333333
+bz,piedregal,Piedregal,04,,17.3666667,-89.1333333
+bz,pilgrimage valley,Pilgrimage Valley,02,,17.15,-89.0333333
+bz,placencia,Placencia,05,,16.5166667,-88.3666667
+bz,placentia,Placentia,05,,16.5166667,-88.3666667
+bz,placentia village,Placentia Village,05,,16.5166667,-88.3666667
+bz,plant sucker,Plant Sucker,02,,17.15,-89.1166667
+bz,plasencia,Plasencia,05,,16.5166667,-88.3666667
+bz,plaza grande,Plaza Grande,05,,16.8,-88.3666667
+bz,point placentia,Point Placentia,05,,16.5166667,-88.3666667
+bz,pomona,Pomona,05,,16.9833333,-88.3666667
+bz,privassion camp,Privassion Camp,02,,17.0333333,-88.95
+bz,progreso,Progreso,03,,18.2166667,-88.4
+bz,progresso,Progresso,03,,18.2166667,-88.4
+bz,providencien,Providencien,02,,17.1333333,-89.1333333
+bz,puchetuck camp,Puchetuck Camp,02,,16.7672222,-89.0583333
+bz,puchituk camp,Puchituk Camp,02,,16.7672222,-89.0583333
+bz,pucte,Pucte,03,,18.1333333,-88.4333333
+bz,puebla nueva,Puebla Nueva,03,,18.3166667,-88.4333333
+bz,pueblo nuevo,Pueblo Nuevo,03,,18.3,-88.4
+bz,pueblo viejo,Pueblo Viejo,06,,16.2052778,-89.1416667
+bz,punta gorda,Punta Gorda,06,5026,16.1,-88.8
+bz,punta placencia,Punta Placencia,05,,16.5166667,-88.3666667
+bz,quarry hill,Quarry Hill,05,,16.9833333,-88.35
+bz,quatro leguas,Quatro Leguas,04,,17.9,-88.9666667
+bz,ramonal,Ramonal,02,,17.15,-89.1166667
+bz,ramonal,Ramonal,04,,17.4,-89.1333333
+bz,ranchito,Ranchito,03,,18.3666667,-88.4
+bz,rancho corozal,Rancho Corozal,03,,18.25,-88.4
+bz,rancho dolores,Rancho Dolores,01,,17.5333333,-88.6166667
+bz,rancho grande,Rancho Grande,05,,16.7166667,-88.6
+bz,rancho,Rancho,04,,17.95,-88.3666667
+bz,ranger camp,Ranger Camp,06,,16.4666667,-88.8
+bz,red bank,Red Bank,05,,16.5833333,-88.55
+bz,regalia,Regalia,05,,16.8,-88.3166667
+bz,reinland,Reinland,04,,17.8666667,-88.8666667
+bz,rejolla,Rejolla,04,,17.4166667,-89.1166667
+bz,remate,Remate,03,,18.45,-88.4
+bz,resumadero camp,Resumadero Camp,02,,16.6327778,-89.0708333
+bz,retiro,Retiro,02,,16.7186111,-89.1402778
+bz,revenge,Revenge,01,,17.85,-88.5333333
+bz,rice station,Rice Station,06,,16.1333333,-88.8333333
+bz,rio blanco,Rio Blanco,06,,16.2297222,-89.1086111
+bz,rito bonillo,Rito Bonillo,06,,16.4275,-89.1144444
+bz,roaring creek,Roaring Creek,02,,17.25,-88.7833333
+bz,rock donda,Rock Donda,02,,17.35,-88.7333333
+bz,rock dondo,Rock Dondo,02,,17.35,-88.7333333
+bz,rockstone pond,Rockstone Pond,01,,17.75,-88.3333333
+bz,rockville,Rockville,01,,17.4,-88.4666667
+bz,rosita,Rosita,04,,17.8833333,-88.9166667
+bz,rotiro,Rotiro,02,,16.7186111,-89.1402778
+bz,round hole bank,Round Hole Bank,02,,16.7002778,-89.1130556
+bz,round hole,Round Hole,02,,17.3247222,-89.0913889
+bz,saint paul's,Saint Paul's,01,,17.5,-88.5833333
+bz,saint thomas,Saint Thomas,02,,17.15,-88.6333333
+bz,saint vincent block,Saint Vincent Block,06,,16.1,-88.8166667
+bz,sale si puede,Sale si Puede,05,,16.7,-88.6333333
+bz,saltillo,Saltillo,03,,18.3,-88.3833333
+bz,san andres,San Andres,03,,18.3833333,-88.4
+bz,san antonia,San Antonia,04,,18.1166667,-88.6666667
+bz,san antonio,San Antonio,02,,17.0786111,-89.0236111
+bz,san antonio,San Antonio,03,,18.4,-88.4
+bz,san antonio,San Antonio,04,,18.1166667,-88.6666667
+bz,san antonio,San Antonio,06,,16.1,-88.9333333
+bz,san antonio viejo,San Antonio Viejo,06,,16.2052778,-89.1416667
+bz,san benito poite,San Benito Poite,06,,16.1152778,-89.1858333
+bz,sand hill,Sand Hill,01,,17.6333333,-88.3666667
+bz,san esteban,San Esteban,04,,18.15,-88.5
+bz,san estevan,San Estevan,04,,18.15,-88.5
+bz,san felipe,San Felipe,02,,17.15,-89.0666667
+bz,san felipe,San Felipe,04,,17.8666667,-88.7666667
+bz,san felipe,San Felipe,06,,16.1333333,-88.9
+bz,san fernando,San Fernando,03,,18.3166667,-88.35
+bz,san francisco,San Francisco,03,,18.3166667,-88.45
+bz,san ignacio,San Ignacio,02,16813,17.1561111,-89.0713889
+bz,san joaquin,San Joaquin,03,,18.3333333,-88.4333333
+bz,san jose palmar,San Jose Palmar,04,,18.05,-88.55
+bz,san jose palmer,San Jose Palmer,04,,18.05,-88.55
+bz,san jose,San Jose,02,,17.1761111,-89.0963889
+bz,san jose,San Jose,04,,17.4833333,-88.9333333
+bz,san jose,San Jose,06,,16.2661111,-89.095
+bz,san jose soccoths,San Jose Soccoths,02,,17.0844444,-89.1261111
+bz,san jose succotz,San Jose Succotz,02,,17.0844444,-89.1261111
+bz,san juan bank,San Juan Bank,04,,17.9833333,-88.2833333
+bz,san juan,San Juan,04,,18.1833333,-88.6166667
+bz,san lazaro,San Lazaro,04,,18.0333333,-88.65
+bz,san lorenzo,San Lorenzo,04,,18.1333333,-88.6166667
+bz,san lucas,San Lucas,06,,16.0783333,-89.1033333
+bz,san luis,San Luis,02,,16.9097222,-89.0061111
+bz,san luis,San Luis,04,,18.1833333,-88.6
+bz,san miguel,San Miguel,02,,17.1666667,-89.0166667
+bz,san miguel,San Miguel,06,,16.2833333,-88.9333333
+bz,san narciso,San Narciso,03,,18.3,-88.5166667
+bz,san pablo,San Pablo,04,,18.2,-88.55
+bz,san pastor camp,San Pastor Camp,02,,16.7,-88.9833333
+bz,san pastor,San Pastor,02,,16.7,-88.9833333
+bz,san pedro columbia,San Pedro Columbia,06,,16.2666667,-88.95
+bz,san pedro landing,San Pedro Landing,06,,15.9333333,-89.2
+bz,san pedro,San Pedro,01,8418,17.9166667,-87.95
+bz,san pedro,San Pedro,02,,17.35,-88.9833333
+bz,san pedro,San Pedro,03,,18.3333333,-88.4833333
+bz,san pedro,San Pedro,06,,15.9333333,-89.2
+bz,san roman,San Roman,03,,18.2833333,-88.5
+bz,san roman,San Roman,04,,18.1833333,-88.6333333
+bz,santa ana,Santa Ana,01,,17.8,-88.2833333
+bz,santa anna,Santa Anna,06,,16.1,-88.95
+bz,santa clara,Santa Clara,03,,18.2833333,-88.5
+bz,santa cruz,Santa Cruz,03,,18.25,-88.45
+bz,santa cruz,Santa Cruz,04,,18.1,-88.7333333
+bz,santa cruz,Santa Cruz,06,,16.2366667,-89.0783333
+bz,santa elena,Santa Elena,02,,17.1583333,-89.0647222
+bz,santa elena,Santa Elena,06,,16.2297222,-89.1086111
+bz,santa familia,Santa Familia,02,,17.1833333,-89.0666667
+bz,santana,Santana,01,,17.8,-88.2833333
+bz,santana village,Santana Village,01,,17.8,-88.2833333
+bz,santa rita,Santa Rita,03,,18.3833333,-88.3833333
+bz,santa rosa,Santa Rosa,02,,17.1333333,-89.1333333
+bz,santa rosa,Santa Rosa,03,,18.4666667,-88.4666667
+bz,santa theresa,Santa Theresa,06,,16.1333333,-89.05
+bz,santeneja,Santeneja,03,,18.35,-88.1333333
+bz,san victor,San Victor,03,,18.25,-88.5666667
+bz,sarawina,Sarawina,05,,16.9666667,-88.2666667
+bz,sarteneja,Sarteneja,03,,18.35,-88.1333333
+bz,saturday creek,Saturday Creek,02,,17.3166667,-88.7666667
+bz,savannah bank,Savannah Bank,02,,17.1833333,-88.8
+bz,sayab camp,Sayab Camp,02,,17.1,-88.9666667
+bz,scotland,Scotland,01,,17.5666667,-88.5166667
+bz,seine bight,Seine Bight,05,,16.5833333,-88.35
+bz,seine bight village,Seine Bight Village,05,,16.5833333,-88.35
+bz,shipstern landing,Shipstern Landing,03,,18.2333333,-88.1833333
+bz,shipstern,Shipstern,03,,18.2,-88.1666667
+bz,shipyard,Shipyard,04,,17.8833333,-88.6166667
+bz,sibun camp,Sibun Camp,02,,17.0833333,-88.65
+bz,sierra de agua,Sierra de Agua,04,,17.5333333,-88.8666667
+bz,silk grass,Silk Grass,05,,16.8833333,-88.3333333
+bz,silver creek bank,Silver Creek Bank,05,,16.7,-88.4666667
+bz,silver creek camp,Silver Creek Camp,05,,16.7,-88.4666667
+bz,silver creek,Silver Creek,06,,16.2666667,-88.8833333
+bz,sittee,Sittee,05,,16.8333333,-88.2833333
+bz,soccotz,Soccotz,02,,17.0844444,-89.1261111
+bz,socotz,Socotz,02,,17.0844444,-89.1261111
+bz,solomon camp,Solomon Camp,06,,16.55,-88.75
+bz,south view point,South View Point,02,,16.9,-88.9833333
+bz,spanish lookout,Spanish Lookout,02,,17.2166667,-88.9833333
+bz,spring camp,Spring Camp,04,,17.4,-89.0666667
+bz,stann creek,Stann Creek,05,,16.9666667,-88.2166667
+bz,stann creek town,Stann Creek Town,05,,16.9666667,-88.2166667
+bz,stann creek village,Stann Creek Village,05,,16.9666667,-88.2166667
+bz,stanncrek,Stanncrek,05,,16.9666667,-88.2166667
+bz,succoths,Succoths,02,,17.0844444,-89.1261111
+bz,succotz,Succotz,02,,17.0844444,-89.1261111
+bz,swasey branch barquedier,Swasey Branch Barquedier,03,,18.1833333,-88.4666667
+bz,tacistal,Tacistal,03,,18.3833333,-88.4333333
+bz,tacistal,Tacistal,04,,17.8833333,-88.75
+bz,tacital,Tacital,04,,17.8833333,-88.75
+bz,tasital,Tasital,04,,17.8833333,-88.75
+bz,teakettle bank,Teakettle Bank,02,,17.2166667,-88.85
+bz,teakettle camp,Teakettle Camp,06,,16.5,-88.8166667
+bz,teakettle,Teakettle,02,,17.2166667,-88.85
+bz,teakettle village,Teakettle Village,02,,17.2166667,-88.85
+bz,tintal,Tintal,04,,17.9166667,-88.9666667
+bz,toledo settlement,Toledo Settlement,06,,16.1333333,-88.8166667
+bz,toro,Toro,02,,17.3041667,-89.1422222
+bz,torro,Torro,02,,17.3041667,-89.1422222
+bz,trapiche,Trapiche,02,,17.1666667,-89.0666667
+bz,tres brazos,Tres Brazos,04,,18.05,-88.5333333
+bz,tres leguas mennonite settlement,Tres Leguas Mennonite Settlement,04,,17.8833333,-88.9
+bz,tres leguas menonite settlement,Tres Leguas Menonite Settlement,04,,17.8833333,-88.9
+bz,tres leguas,Tres Leguas,04,,17.8833333,-88.95
+bz,trial farm,Trial Farm,04,,18.0833333,-88.55
+bz,trinidad,Trinidad,04,,18.0166667,-88.6833333
+bz,trio camp,Trio Camp,06,,16.5833333,-88.6666667
+bz,tropical park,Tropical Park,01,,17.4666667,-88.3833333
+bz,tu-tu camp,Tu-Tu Camp,02,,17.3255556,-89.1391667
+bz,tzokotz,Tzokotz,02,,17.0844444,-89.1261111
+bz,union camp,Union Camp,02,,16.6275,-89.0188889
+bz,union camp,Union Camp,06,,16.3963889,-89.1419444
+bz,unitedville,Unitedville,02,,17.2,-88.9333333
+bz,vaca,Vaca,02,,17.0325,-89.0633333
+bz,valentin camp,Valentin Camp,02,,16.7663889,-89.1625
+bz,valley of peace,Valley of Peace,02,,17.3347222,-88.8347222
+bz,vaquaros,Vaquaros,04,,17.95,-88.7666667
+bz,vaqueros,Vaqueros,04,,17.95,-88.7666667
+bz,villa alfonso,Villa Alfonso,03,,18.2833333,-88.45
+bz,waha leaf camp,Waha Leaf Camp,06,,16.5833333,-88.6333333
+bz,wamil,Wamil,04,,17.5333333,-88.9333333
+bz,warree camp,Warree Camp,04,,17.9833333,-88.3
+bz,warrie camp,Warrie Camp,04,,17.9833333,-88.3
+bz,washing tree,Washing Tree,01,,17.6833333,-88.45
+bz,washing tree work,Washing Tree Work,01,,17.6833333,-88.45
+bz,water bank,Water Bank,04,,17.7833333,-88.65
+bz,watters bank,Watters Bank,01,,17.3,-88.35
+bz,white hill,White Hill,01,,17.25,-88.4833333
+bz,willows bank,Willows Bank,01,,17.5166667,-88.5666667
+bz,xaibe,Xaibe,03,,18.3833333,-88.4333333
+bz,xaxe venice,Xaxe Venice,04,,17.5333333,-89.1333333
+bz,xaxe venic,Xaxe Venic,04,,17.5333333,-89.1333333
+bz,xcanha,Xcanha,04,,18.0,-88.35
+bz,xcanluum,Xcanluum,03,,18.3833333,-88.45
+bz,xpicilha village,Xpicilha Village,06,,16.0286111,-89.2133333
+bz,xpicilha,Xpicilha,06,,16.0286111,-89.2133333
+bz,yalbac camp,Yalbac Camp,04,,17.3666667,-88.9333333
+bz,yalback,Yalback,04,,17.3666667,-88.9333333
+bz,yalbac,Yalbac,04,,17.3666667,-88.9333333
+bz,yo chen,Yo Chen,03,,18.35,-88.4833333
+bz,yo creek,Yo Creek,04,,18.0833333,-88.6333333

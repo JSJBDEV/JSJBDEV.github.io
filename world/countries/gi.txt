@@ -1,0 +1,8 @@
+gi,caleta,Caleta,00,,36.1333333,-5.3333333
+gi,catalan bay,Catalan Bay,00,,36.1333333,-5.3333333
+gi,catalan bay village,Catalan Bay Village,00,,36.1333333,-5.3333333
+gi,catalan,Catalan,00,,36.1333333,-5.3333333
+gi,gibilterra,Gibilterra,00,,36.1333333,-5.35
+gi,gibraltar,Gibraltar,00,26544,36.1333333,-5.35
+gi,rosia,Rosia,00,,36.1166667,-5.35
+gi,waterport,Waterport,00,,36.1333333,-5.35

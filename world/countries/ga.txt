@@ -1,0 +1,3924 @@
+ga,abaga,Abaga,01,,0.5666667,9.3666667
+ga,abam,Abam,09,,1.1166667,11.7166667
+ga,abame,Abame,09,,1.5333333,11.4
+ga,abana,Abana,09,,1.5166667,11.4166667
+ga,abandou,Abandou,03,,-0.2666667,10.5
+ga,abang,Abang,09,,0.6666667,11.2666667
+ga,abang-ayo,Abang-Ayo,09,,0.9333333,10.95
+ga,abang i,Abang I,09,,1.7833333,11.6333333
+ga,abang ii,Abang II,09,,1.7833333,11.6333333
+ga,abang iii,Abang III,09,,1.8,11.6333333
+ga,abang-melem,Abang-Melem,09,,0.9666667,12.05
+ga,abang-si,Abang-Si,09,,1.9666667,11.55
+ga,abas,Abas,01,,1.0,9.7833333
+ga,abe,Abé,09,,2.2666667,11.5333333
+ga,abebea,Abébéa,03,,0.15,11.1333333
+ga,abega,Abéga,09,,2.0333333,11.5
+ga,abel,Abel,09,,0.65,11.0666667
+ga,abelago,Abelago,08,,-0.9166667,9.45
+ga,abelogo,Abélogo,08,,-0.9166667,9.45
+ga,abeme,Abeme,09,,1.9333333,11.4166667
+ga,abena,Abéna,07,,-1.1,13.1166667
+ga,abenelan,Abenelan,01,,0.5833333,10.6166667
+ga,abenelang,Abénélang,01,,0.2333333,10.0666667
+ga,abenelang,Abénélang,03,,-0.3833333,10.4666667
+ga,abeng,Abeng,06,,0.3333333,12.0
+ga,abenilam,Abenilam,09,,0.6,11.0833333
+ga,abenilang,Abenilang,01,,1.0833333,10.4666667
+ga,abiane,Abiane,09,,0.4166667,11.3666667
+ga,abian minfakh,Abian Minfakh,01,,0.2333333,10.0666667
+ga,abogotom,Abogotom,09,,0.9333333,10.75
+ga,abong ahoun,Abong Ahoun,09,,0.9833333,11.65
+ga,abong-miang i,Abong-Miang I,09,,0.9,11.55
+ga,abong-miang ii,Abong-Miang II,09,,0.8833333,11.5666667
+ga,abor,Abor,06,,0.7833333,12.9833333
+ga,abor-tikame,Abor-Tikamé,03,,-0.6,10.35
+ga,aboto,Aboto,02,,-0.7833333,13.9333333
+ga,abou angoum,Abou Angoum,09,,0.9,11.0333333
+ga,aboukoua,Aboukoua,04,,-1.0,11.45
+ga,aboume,Aboumé,01,,0.8666667,9.8666667
+ga,abouna,Abouna,01,,0.25,9.6166667
+ga,abounaviri,Abounaviri,08,,-0.7,9.1
+ga,abouyi,Abouyi,02,,-1.5833333,14.2166667
+ga,abuna,Abuna,01,,0.25,9.6166667
+ga,achanga,Achanga,08,,-1.2333333,9.0333333
+ga,achouka,Achouka,03,,-0.8666667,9.75
+ga,achouka,Achouka,06,,-0.0833333,11.7333333
+ga,achouka,Achouka,08,,-1.0333333,9.5166667
+ga,ackok,Ackok,03,,-0.3,10.5666667
+ga,acondjo,Acondjo,01,,-0.2166667,9.9666667
+ga,aconjo,Aconjo,01,,-0.2166667,9.9666667
+ga,adamenzork,Adamenzork,01,,0.6,10.7333333
+ga,adanhe,Adanhé,03,,-0.5166667,10.2666667
+ga,adjouma,Adjouma,09,,2.0833333,11.7333333
+ga,adole,Adolé,03,,-0.6833333,9.9666667
+ga,adoue,Adoué,06,,0.55,12.5666667
+ga,adouma,Adouma,03,,-0.6833333,10.2166667
+ga,adoume,Adoumé,03,,-0.3166667,10.5
+ga,adwe,Adwé,06,,0.55,12.5666667
+ga,adza,Adza,01,,0.3333333,10.2333333
+ga,adzabassi,Adzabassi,09,,1.7666667,11.7166667
+ga,adzabikat i,Adzabikat I,09,,1.6833333,11.6333333
+ga,adzabikat ii,Adzabikat II,09,,1.7,11.6333333
+ga,adzabikat iii,Adzabikat III,09,,1.6833333,11.6166667
+ga,adzabilone,Adzabilone,01,,0.35,10.5666667
+ga,adzabilone,Adzabilone,09,,0.95,11.25
+ga,adzak,Adzak,01,,0.2,10.6833333
+ga,adzap,Adzap,09,,1.2666667,11.7
+ga,adzap i,Adzap I,09,,1.8166667,11.4333333
+ga,adzap ii,Adzap II,09,,1.8,11.4333333
+ga,adzebe,Adzébé,01,,0.4,9.4666667
+ga,adzebe i,Adzebe I,09,,1.6166667,11.6666667
+ga,adzebe ii,Adzebe II,09,,1.6166667,11.6666667
+ga,adzo,Adzo,06,,0.5833333,12.6666667
+ga,afagayong,Afagayong,01,,0.5,9.7333333
+ga,afagenzork,Afagenzork,01,,0.4833333,9.7666667
+ga,afakazock,Afakazock,09,,0.8833333,11.3166667
+ga,afakma,Afakma,01,,-0.0166667,9.9666667
+ga,afak-medzim,Afak-Medzim,09,,1.5333333,11.5
+ga,afane-mendone,Afane-Mendone,01,,0.4,9.4833333
+ga,afangombona,Afangombona,08,,-0.8666667,9.6166667
+ga,afan nzogh,Afan Nzogh,01,,0.3666667,10.15
+ga,afavenzock mouelza,Afavenzock Mouelza,09,,0.6666667,11.1166667
+ga,afema,Aféma,09,,1.6,11.5
+ga,afia,Afia,09,,1.1,11.7166667
+ga,afogho bizi,Afogho Bizi,03,,-0.2833333,10.4666667
+ga,afouma-adzo,Afouma-adzo,06,,0.4833333,12.4
+ga,afouni,Afouni,09,,0.4,11.3833333
+ga,afrik,Afrik,01,,0.35,9.8833333
+ga,agonenzork,Agonenzork,01,,0.2166667,10.3166667
+ga,agonga,Agonga,08,,-1.5333333,9.25
+ga,agonzork,Agonzork,01,,0.0833333,9.8833333
+ga,agouma,Agouma,01,,0.1,9.6833333
+ga,agouma,Agouma,04,,-1.5333333,10.1833333
+ga,ahdok fala,Ahdok Fala,01,,0.4,10.3
+ga,aijo,Aijo,09,,0.85,11.3833333
+ga,akaga,Akaga,02,,-1.15,13.9166667
+ga,akagakoa,Akagakoa,01,,0.3666667,9.7333333
+ga,akaka,Akaka,08,,-2.2333333,9.6666667
+ga,akak,Akak,09,,1.3833333,11.4
+ga,akako mekak,Akako Mékak,09,,2.2,11.8166667
+ga,akaktane,Akaktane,09,,1.85,11.7666667
+ga,akalla,Akalla,02,,-1.45,14.0
+ga,akam,Akam,09,,1.85,11.4333333
+ga,akam i,Akam I,09,,1.1333333,11.4833333
+ga,akam ii,Akam II,09,,1.0666667,11.4833333
+ga,akam iii,Akam III,09,,1.2833333,11.4333333
+ga,akamsi-effak,Akamsi-Effak,09,,2.25,11.4
+ga,akana,Akana,06,,0.4666667,12.3666667
+ga,akana-bour,Akana-Bour,01,,0.35,9.9333333
+ga,akanabour,Akanabour,01,,0.6666667,9.65
+ga,akanabur,Akanabur,01,,0.6666667,9.65
+ga,akan,Akan,09,,0.9666667,10.8833333
+ga,akane,Akane,09,,1.8,11.4333333
+ga,akaraba,Akaraba,02,,-1.05,13.8
+ga,akelayong,Akélayong,01,,0.5833333,9.7
+ga,akelayong,Akelayong,09,,0.8833333,10.55
+ga,akernengoule,Akernengoule,01,,0.3333333,9.8666667
+ga,akieni,Akiéni,02,,-1.1833333,13.8833333
+ga,akighe nlam,Akighe Nlam,03,,-0.3,10.45
+ga,akighilam,Akighilam,06,,-0.05,11.9666667
+ga,akigname,Akigname,01,,0.5666667,9.7333333
+ga,akineyon,Akineyon,09,,0.6166667,11.2333333
+ga,akinitom,Akinitom,09,,1.6,11.3666667
+ga,akoba,Akoba,06,,0.0166667,11.9
+ga,akobie,Akobié,03,,-0.55,10.0
+ga,akoga,Akoga,09,,0.8333333,10.5166667
+ga,akog-avop,Akog-Avop,09,,1.55,11.8333333
+ga,akoghe,Akoghe,03,,-0.1833333,10.6833333
+ga,akok,Akok,01,,0.5166667,9.75
+ga,akok,Akok,09,,1.6666667,11.6166667
+ga,akoki,Akoki,02,,-0.7,13.7833333
+ga,akoko,Akoko,09,,1.6666667,11.6166667
+ga,akolinem,Akolinem,01,,0.8,9.9166667
+ga,akom,Akom,09,,1.9166667,11.6166667
+ga,akomba,Akomba,03,,-0.8333333,9.6666667
+ga,akome,Akomé,09,,2.0,11.6333333
+ga,akome i,Akome I,09,,1.8833333,11.8166667
+ga,akome ii,Akome II,09,,1.8833333,11.8333333
+ga,akom essakotam,Akom Essakotam,09,,2.1666667,11.5
+ga,akonadem,Akonadem,09,,1.6833333,11.5166667
+ga,ako-name,Ako-Name,01,,0.35,9.9166667
+ga,akondje,Akondjé,01,,-0.2166667,9.9666667
+ga,akondjo,Akondjo,01,,-0.2166667,9.9666667
+ga,akonilen,Akonilen,01,,0.8,9.9166667
+ga,akore,Akoré,03,,-0.4666667,10.2833333
+ga,akoreyen,Akoreyen,03,,-0.1333333,10.5333333
+ga,akork,Akork,06,,0.5166667,12.4666667
+ga,akorriyen,Akorriyen,03,,-0.1333333,10.5333333
+ga,akouaka,Akouaka,02,,-0.4,13.7
+ga,akou,Akou,09,,1.9,11.85
+ga,akouata,Akouata,02,,-1.2833333,13.7166667
+ga,akougoubilye,Akougoubilyé,06,,0.5666667,12.7833333
+ga,akoul,Akoul,09,,1.5333333,11.8166667
+ga,akoulazork,Akoulazork,09,,2.1833333,11.95
+ga,akoulinem,Akoulinem,01,,0.8,9.9166667
+ga,akoum,Akoum,09,,1.5166667,11.4666667
+ga,akoumar,Akoumar,01,,0.15,10.2333333
+ga,akoumassi,Akoumassi,09,,1.0833333,11.4833333
+ga,akoumouno,Akoumouno,08,,-0.9833333,9.1333333
+ga,akoumounou,Akoumounou,08,,-1.6666667,9.35
+ga,akounilem,Akounilem,01,,0.8,9.9166667
+ga,akounilen,Akounilen,01,,0.8,9.9166667
+ga,akountam,Akountam,03,,-0.95,10.0333333
+ga,akour-kok,Akour-Kok,09,,0.65,11.2333333
+ga,akourman,Akourman,01,,0.0833333,9.8666667
+ga,akourman,Akourman,09,,0.65,11.1833333
+ga,akourmane,Akourmané,01,,0.0833333,10.25
+ga,akourmar,Akourmar,09,,0.7,11.1833333
+ga,akourname,Akournamé,01,,0.3333333,9.5
+ga,alanga i,Alanga I,02,,-0.8,13.8833333
+ga,alanga ii,Alanga II,02,,-0.8166667,13.8666667
+ga,alang,Alang,09,,1.5833333,11.9666667
+ga,alarmake,Alarmaké,01,,0.0833333,9.4166667
+ga,alarmakei,Alarmakeï,01,,0.0333333,10.5666667
+ga,alarmintang,Alarmintang,06,,0.5666667,12.8333333
+ga,alarmitang,Alarmitang,01,,0.3666667,9.7666667
+ga,alarmitang,Alarmitang,06,,0.5666667,12.8333333
+ga,alarmitang,Alarmitang,09,,0.9166667,11.1833333
+ga,alat,Alat,01,,0.1666667,10.7
+ga,alat,Alat,09,,1.25,11.7166667
+ga,alembe,Alembé,03,,-0.0833333,10.9333333
+ga,alembetogo,Alembétogo,08,,-1.2833333,9.0333333
+ga,alen-abanga,Alen-Abanga,01,,0.2,10.1833333
+ga,alenakiri,Alénakiri,01,,0.5666667,10.0833333
+ga,alen,Alen,01,,0.25,9.8166667
+ga,alen,Alen,09,,2.0666667,12.0333333
+ga,alenass,Alenass,09,,0.9,11.1666667
+ga,alenassi,Alénassi,09,,0.8166667,11.4666667
+ga,alen-como,Alen-Como,01,,0.2,10.2
+ga,alene,Alene,01,,0.6,10.0833333
+ga,alene,Aléné,03,,-0.2,10.65
+ga,alene,Alène,06,,0.6666667,12.9166667
+ga,alene,Aléné,09,,0.6666667,11.5166667
+ga,alene bissouma,Alene Bissouma,09,,0.65,11.5166667
+ga,alen effak,Alen Effak,09,,2.2166667,11.3833333
+ga,alene koraza,Aléne Koraza,01,,0.3166667,10.1333333
+ga,alene makora,Alène Makora,01,,0.3166667,10.25
+ga,alene mianga,Alene Mianga,09,,0.6666667,11.5166667
+ga,alen esseng,Alen Esseng,09,,2.2666667,11.4166667
+ga,alen nkogadza,Alen Nkogadza,01,,0.3,10.15
+ga,alen nkok-aza,Alen Nkok-Aza,01,,0.2833333,10.0666667
+ga,alieme,Alieme,02,,-1.7666667,14.1333333
+ga,allar mourkevock,Allar Mourkevock,06,,0.35,12.1166667
+ga,allego,Allego,08,,-0.8166667,9.6333333
+ga,allele,Allelé,02,,-1.2,13.75
+ga,allem i,Allem I,09,,1.2666667,11.55
+ga,allem ii,Allem II,09,,1.25,11.5333333
+ga,allem iii,Allem III,09,,1.2333333,11.5333333
+ga,alleum,Alleum,09,,1.6,11.55
+ga,allum,Allum,09,,1.2833333,11.5833333
+ga,alomba,Alomba,03,,-1.0166667,10.2
+ga,alona,Alona,01,,0.15,10.0833333
+ga,along,Along,03,,-0.6333333,9.9166667
+ga,alonha,Alonha,03,,-0.3666667,10.4833333
+ga,alos,Alos,01,,0.35,10.3833333
+ga,alossi,Alossi,01,,0.6666667,9.6333333
+ga,alouma,Alouma,02,,-0.45,13.7
+ga,aloum,Aloum,01,,-0.0333333,9.7666667
+ga,aloume,Aloumé,09,,2.0833333,11.35
+ga,aloun,Aloun,03,,-0.4833333,10.4166667
+ga,aloune,Alouné,09,,2.0833333,11.6666667
+ga,alum,Alum,01,,-0.0333333,9.7666667
+ga,ambinda,Ambinda,02,,-0.45,14.1
+ga,amboki,Amboki,03,,-0.8333333,9.9833333
+ga,amboki,Amboki,08,,-0.8833333,8.9833333
+ga,amboumi,Amboumi,02,,-1.7333333,13.7333333
+ga,ambowe,Ambowé,01,,0.4333333,9.45
+ga,ambroise,Ambroise,08,,-1.5833333,9.4333333
+ga,amendje,Amendjé,08,,-1.5833333,9.2833333
+ga,amengamona,Amengamona,08,,-0.9833333,9.6333333
+ga,amengouingani,Amengouingani,03,,-0.8166667,9.85
+ga,amoin,Amoin,01,,0.7166667,9.6333333
+ga,amposso,Amposso,02,,-0.85,14.1666667
+ga,amvam,Amvam,09,,1.05,11.4666667
+ga,amvame,Amvame,09,,1.6166667,11.55
+ga,amvani,Amvani,09,,0.6833333,11.55
+ga,amveme,Amvémé,09,,0.2833333,11.3833333
+ga,amyere,Amyéré,06,,0.5833333,12.8666667
+ga,anameyong,Anameyong,03,,-0.4833333,10.3833333
+ga,ancien akaba,Ancien Akaba,08,,-2.2333333,9.6666667
+ga,ancien andok,Ancien Andok,03,,-0.3166667,11.35
+ga,ancien founa,Ancien Founa,03,,-0.4,11.3666667
+ga,ancien kandjama,Ancien Kandjama,06,,-0.2,11.7333333
+ga,ancien matica,Ancien Matica,04,,-0.9333333,11.45
+ga,ancien metark,Ancien Métark,09,,0.8833333,10.95
+ga,ancien mimongo,Ancien Mimongo,04,,-1.1833333,11.6
+ga,ancien okaka,Ancien Okaka,06,,-0.6833333,11.55
+ga,ancien okala,Ancien Okala,03,,-0.3666667,10.9333333
+ga,ancien poste des apindji,Ancien Poste des Apindji,03,,-0.0833333,11.2166667
+ga,ancien village akakg,Ancien Village Akakg,08,,-2.2333333,9.6666667
+ga,andagh,Andagh,03,,-0.5666667,10.0666667
+ga,andem,Andem,01,,0.3166667,9.9833333
+ga,andeme,Andemé,01,,0.3,10.0
+ga,andem i,Andem I,03,,-0.1833333,10.65
+ga,andem ii,Andem II,03,,-0.2,10.6333333
+ga,andem iii,Andem III,03,,-0.1833333,10.6666667
+ga,andjogo,Andjogo,02,,-1.25,13.5333333
+ga,andock,Andock,03,,-0.25,10.6333333
+ga,andoka,Andoka,03,,-0.2833333,10.5833333
+ga,andok,Andok,03,,-0.3166667,11.35
+ga,andok,Andok,06,,0.6333333,12.8833333
+ga,andok,Andok,09,,1.7333333,11.6833333
+ga,andokas,Andokas,09,,2.1,12.0
+ga,andokasi,Andokasi,09,,2.0833333,12.05
+ga,andokh nfang,Andokh Nfang,01,,0.1166667,10.05
+ga,andoma i,Andoma I,09,,1.75,11.6833333
+ga,andoma ii,Andoma II,09,,1.75,11.6833333
+ga,andoma iii,Andoma III,09,,1.75,11.7
+ga,andom,Andom,08,,1.7666667,11.5666667
+ga,andom,Andom,09,,2.1166667,12.05
+ga,andome,Andome,09,,2.1333333,12.0
+ga,andome i,Andome I,09,,1.8666667,11.8
+ga,andome ii,Andome II,09,,1.8666667,11.8
+ga,andom i,Andom I,09,,2.25,12.1166667
+ga,andom ii,Andom II,09,,2.25,12.1
+ga,andon,Andon,09,,2.2,11.8
+ga,andouako,Andouako,01,,0.6166667,10.7666667
+ga,andoume,Andoume,01,,0.4333333,10.6
+ga,andoumeze,Andoumezé,09,,1.4333333,11.4166667
+ga,anelakici,Anelakici,01,,0.3,9.5166667
+ga,angale,Angale,09,,0.9833333,11.7166667
+ga,angane,Angané,09,,0.8666667,12.2
+ga,angare,Angaré,01,,0.2333333,10.2166667
+ga,ango,Ango,01,,0.6166667,10.7666667
+ga,angonde-abema,Angondé-Abéma,07,,-1.0833333,13.1166667
+ga,angonde,Angondé,07,,-1.0833333,13.1166667
+ga,angone,Angone,09,,0.6,11.1666667
+ga,angone efira,Angone Efira,09,,0.6333333,11.6166667
+ga,angone i,Angone I,09,,1.6333333,11.5833333
+ga,angone ii,Angone II,09,,1.65,11.6
+ga,angone iii,Angone III,09,,1.65,11.6166667
+ga,angonenzork,Angonenzork,01,,0.2166667,10.3166667
+ga,angonogo,Angonogo,02,,-1.2666667,13.5333333
+ga,angoss,Angoss,09,,0.9333333,11.4333333
+ga,angouane,Angouane,09,,1.0,11.3833333
+ga,angouma,Angouma,04,,-1.5333333,10.1833333
+ga,angouma,Angouma,06,,0.65,12.8833333
+ga,angouma,Angouma,09,,0.9,11.0333333
+ga,angoum,Angoum,09,,1.0166667,11.4
+ga,angoune,Angoune,01,,0.25,9.8666667
+ga,angounesiste,Angounesiste,09,,1.2666667,11.5666667
+ga,anguie,Anguié,09,,1.6333333,11.4166667
+ga,anguma,Anguma,09,,0.9,11.0333333
+ga,aniane,Aniane,09,,0.6666667,11.6666667
+ga,aniane i,Aniane I,09,,1.4333333,11.4333333
+ga,aniane ii,Aniane II,09,,1.45,11.4333333
+ga,aniezok,Aniezok,09,,1.6833333,11.45
+ga,aniezork,Aniezork,09,,1.7666667,11.7166667
+ga,aninghe,Aninghé,08,,-2.1,9.5833333
+ga,aningue,Aningué,08,,-2.1,9.5833333
+ga,anonebere,Anonébéré,03,,-0.2666667,10.5166667
+ga,anongomiani,Anongomiani,01,,0.45,9.4
+ga,anubi,Anubi,09,,1.4833333,11.6
+ga,anzem,Anzem,01,,0.6,10.5
+ga,anzogobe,Anzogobe,09,,0.5333333,11.6
+ga,aoua,Aoua,09,,1.9,11.6166667
+ga,aouega,Aouega,09,,0.7166667,11.5166667
+ga,aouela,Aouela,09,,0.9166667,11.15
+ga,aouta,Aouta,08,,-1.6,9.4666667
+ga,apari,Apari,08,,-0.9166667,9.7
+ga,apinda,Apinda,02,,-0.3666667,13.7
+ga,apindji,Apindji,03,,-0.0833333,11.2166667
+ga,apomande,Apomandé,08,,-0.65,8.9833333
+ga,aranga,Aranga,08,,-0.8333333,8.8666667
+ga,aromba,Aromba,03,,-0.8166667,10.0166667
+ga,aschouka,Aschouka,03,,-0.8666667,9.75
+ga,aschouka,Aschouka,06,,-0.0833333,11.7333333
+ga,ashuka,Ashuka,03,,-0.8666667,9.75
+ga,assan,Assan,09,,0.4666667,11.6
+ga,assas,Assas,09,,1.55,11.7666667
+ga,assen,Assen,09,,0.9,11.05
+ga,assengama,Assengama,09,,1.4,11.6333333
+ga,assengasi,Assengasi,09,,2.0833333,11.9833333
+ga,assengassi,Assengassi,09,,0.9166667,10.9666667
+ga,asseng i,Asseng I,03,,0.1333333,11.1166667
+ga,asseng ii,Asseng II,03,,0.15,11.1333333
+ga,asseve,Asseve,08,,-1.5333333,9.4833333
+ga,assia,Assia,09,,1.0,11.7166667
+ga,assi,Assi,09,,0.9,11.0666667
+ga,assibouka,Assibouka,04,,-1.4,9.9666667
+ga,asso,Asso,09,,0.8166667,11.6833333
+ga,assoka,Assoka,01,,0.5666667,10.6833333
+ga,assok,Assok,09,,0.7166667,10.3666667
+ga,assok-begue,Assok-Bégué,09,,1.05,11.6833333
+ga,assok-boleu,Assok-Boleu,09,,2.1166667,11.7333333
+ga,assok-ngoum,Assok-Ngoum,09,,1.75,11.65
+ga,assok-ngoum i,Assok-Ngoum I,09,,1.75,11.65
+ga,assok-ngoum ii,Assok-Ngoum II,09,,1.7166667,11.65
+ga,assok-nye,Assok-Nyé,09,,1.7,11.4666667
+ga,assok-seng,Assok-Seng,09,,1.9333333,11.5833333
+ga,assongnive,Assongnivé,09,,0.95,11.85
+ga,assora-massona,Assora-Massona,01,,0.7333333,9.7166667
+ga,assore,Assore,01,,0.3666667,9.8
+ga,assougoula emo,Assougoula Emo,01,,0.4166667,9.4833333
+ga,assoum mabiala,Assoum Mabiala,01,,0.2166667,10.35
+ga,assue,Assue,09,,0.8166667,11.45
+ga,atadi,Atadi,03,,-0.6833333,10.2166667
+ga,atale eloun,Atale Eloun,01,,0.15,9.3666667
+ga,atem,Atem,01,,0.6166667,9.6333333
+ga,atenda-simba,Atenda-Simba,01,,0.3,9.5166667
+ga,atene,Aténé,09,,0.6666667,11.1666667
+ga,atengame,Atengamé,03,,-0.6833333,9.9333333
+ga,atonda-simba,Atonda-Simba,01,,0.4,9.4666667
+ga,atongo,Atongo,02,,-0.7833333,13.8666667
+ga,atongoouania,Atongoouania,08,,-1.6,9.3666667
+ga,atouda-simba,Atouda-Simba,01,,0.4166667,9.4833333
+ga,atouk,Atouk,09,,0.7833333,11.55
+ga,atoumassi,Atoumassi,09,,0.9,11.0
+ga,atoum,Atoum,01,,0.1833333,10.2833333
+ga,atoute,Atoute,09,,0.95,10.7666667
+ga,atsombial,Atsombial,06,,-0.1,11.95
+ga,atyglam,Atyglam,06,,0.6833333,12.8666667
+ga,atyiglam,Atyiglam,06,,0.6833333,12.8666667
+ga,avane,Avane,09,,0.9,10.5833333
+ga,avang,Avang,09,,1.1333333,11.7166667
+ga,avang-biloug,Avang-Biloug,01,,0.0166667,9.8833333
+ga,avegombori,Avegombori,08,,-0.95,9.7333333
+ga,avegoumbiri,Avégoumbiri,08,,-1.4,9.35
+ga,avelayong,Avélayong,01,,0.8166667,9.9166667
+ga,aveng,Aveng,09,,0.7833333,11.25
+ga,averoma,Averoma,01,,0.6,9.3166667
+ga,avil-boumba,Avil-Boumba,06,,0.5333333,12.8666667
+ga,avil-chicago,Avil-Chicago,06,,0.5666667,12.8833333
+ga,avo,Avo,09,,1.1,11.4833333
+ga,avom,Avom,09,,0.25,11.3166667
+ga,avora,Avora,01,,0.9666667,10.05
+ga,avore bamba,Avore Bamba,01,,0.4833333,9.4
+ga,avormitok,Avormitok,03,,-0.1166667,10.8166667
+ga,awegane,Awégane,09,,2.0166667,11.5166667
+ga,ayambi,Ayambi,03,,-0.2666667,10.5166667
+ga,ayane,Ayane,09,,1.2833333,11.7
+ga,ayang,Ayang,09,,1.3,11.7
+ga,ayaya,Ayaya,01,,0.3,9.5833333
+ga,ayebe,Ayébé,03,,-0.2166667,10.6333333
+ga,ayeghe,Ayéghé,01,,0.3833333,10.2833333
+ga,ayeghele-mindock,Ayéghélé-Mindock,03,,-0.35,10.4833333
+ga,ayeghening,Ayeghening,06,,0.55,12.5833333
+ga,ayeguening,Ayeguening,01,,0.55,9.7333333
+ga,ayeguening,Ayeguening,09,,1.95,11.8833333
+ga,ayeguening ii,Ayeguening II,09,,1.95,11.8666667
+ga,ayem,Ayem,01,,0.2666667,9.6833333
+ga,ayem,Ayem,06,,-0.0833333,11.3666667
+ga,ayeme,Ayémé,01,,0.0333333,10.2833333
+ga,ayeme,Ayème,06,,-0.0833333,11.3666667
+ga,ayenabour,Ayenabour,01,,0.6,9.9
+ga,ayengueni,Ayengueni,09,,0.9333333,11.55
+ga,ayenguening,Ayenguening,09,,2.2166667,11.75
+ga,ayoeroebe,Ayoeroebé,06,,0.8,12.3833333
+ga,ayol,Ayol,09,,0.85,11.3833333
+ga,ayong,Ayong,09,,0.65,11.0166667
+ga,ayoul,Ayoul,09,,0.85,11.3833333
+ga,ayoumba,Ayoumba,03,,-0.8666667,10.3833333
+ga,ayoumba,Ayoumba,04,,-1.3333333,10.8333333
+ga,ayoumbi,Ayoumbi,04,,-1.8833333,11.2333333
+ga,azap,Azap,09,,0.75,11.55
+ga,azebe,Azébé,01,,0.0,9.5
+ga,azegue,Azegué,08,,-1.15,9.5166667
+ga,azeriba,Azériba,03,,-0.9833333,10.15
+ga,azo i,Azo I,03,,-0.8166667,10.15
+ga,azo ii,Azo II,03,,-0.85,10.1666667
+ga,azongbeu,Azongbeu,09,,1.9,11.85
+ga,azongho,Azongho,09,,1.2,11.7166667
+ga,babaousa,Babaousa,07,,-0.8666667,12.8333333
+ga,babili,Babili,02,,-0.7833333,13.5166667
+ga,babinga,Babinga,07,,-0.9833333,12.8166667
+ga,babini,Babini,04,,-0.9833333,11.4666667
+ga,babongo,Babongo,07,,-1.3166667,12.1166667
+ga,badiabiki,Badiabiki,07,,-1.6833333,12.2833333
+ga,badi,Badi,06,,0.3,13.2166667
+ga,badouma,Badouma,07,,-0.75,12.85
+ga,bafounou,Bafounou,02,,-2.25,13.5833333
+ga,bafounou i,Bafounou I,02,,-2.2333333,13.5833333
+ga,bafounou ii,Bafounou II,02,,-2.3166667,13.6
+ga,bagny,Bagny,04,,-1.8833333,11.8166667
+ga,bai,Baï,02,,-1.4166667,13.9666667
+ga,bakale,Bakalé,04,,-1.6166667,10.2
+ga,bakamba,Bakamba,04,,-2.3166667,12.2666667
+ga,bakoli,Bakoli,08,,-2.0833333,10.1333333
+ga,balamboula,Balamboula,04,,-2.3166667,12.2
+ga,balanganga,Balanganga,08,,-1.9333333,10.1666667
+ga,balemba i,Balemba I,06,,0.1166667,11.8833333
+ga,balemba ii,Balemba II,06,,0.1,11.8833333
+ga,bama,Bama,04,,-2.15,11.8833333
+ga,bambari,Bambari,04,,-1.55,10.6166667
+ga,bambaza i,Bambaza I,06,,0.8166667,13.4666667
+ga,bambecan,Bambecan,07,,-0.9666667,12.7833333
+ga,bambera-biyoko,Bambera-Biyoko,07,,-1.1166667,12.9333333
+ga,bambila,Bambila,06,,-0.3,11.75
+ga,bambo,Bambo,06,,0.9,13.6666667
+ga,bambora,Bambora,07,,-0.8333333,12.6833333
+ga,bambous,Bambous,08,,-1.75,9.3666667
+ga,bame,Bamé,09,,0.8333333,10.5166667
+ga,bamvomo,Bamvomo,03,,-0.1166667,10.9166667
+ga,bana,Bana,05,,-3.45,10.6666667
+ga,banda namba,Banda Namba,05,,-3.1,11.7
+ga,bandangala,Bandangala,07,,-1.3333333,12.5666667
+ga,bandegue,Bandégué,02,,-1.0833333,13.55
+ga,bandoungou,Bandoungou,04,,-2.4,11.7
+ga,bangadi,Bangadi,07,,-1.1666667,12.9833333
+ga,bangakie,Bangakié,06,,0.6166667,12.9666667
+ga,bangassou,Bangassou,02,,-1.5333333,13.1666667
+ga,bangassou,Bangassou,07,,-0.95,12.65
+ga,bang,Bang,09,,2.2,11.8166667
+ga,bangene,Bangené,02,,-1.6333333,13.4833333
+ga,banginga,Banginga,04,,-2.3333333,12.4666667
+ga,bango,Bango,08,,-1.85,9.3166667
+ga,bangodecahoye,Bangodecahoye,06,,0.2,13.4166667
+ga,bangola,Bangola,04,,-2.4333333,11.2
+ga,bangondji,Bangondji,04,,-2.1166667,11.7333333
+ga,bangondo,Bangondo,07,,-1.4,12.45
+ga,bangondzi-badouma,Bangondzi-Badouma,04,,-2.1833333,12.05
+ga,bangou,Bangou,06,,-0.0666667,11.8166667
+ga,bangwegne,Bangwegne,02,,-1.6166667,13.5666667
+ga,baniati,Baniati,07,,-1.0166667,12.2166667
+ga,banoi,Banoï,04,,-1.8666667,11.25
+ga,baposo,Baposo,04,,-2.1,12.1833333
+ga,baposso,Baposso,04,,-2.1,12.1833333
+ga,baposso,Baposso,07,,-0.6833333,13.0333333
+ga,baposso le petit,Baposso le Petit,04,,-2.1,12.1833333
+ga,baposso le pointe,Baposso le Pointe,04,,-2.1,12.1833333
+ga,bapouno,Bapouno,07,,-0.95,12.6
+ga,baraka,Baraka,01,,0.6333333,9.6833333
+ga,bassaki,Bassaki,07,,-1.3166667,12.1166667
+ga,bassegua,Bassegua,07,,-0.8333333,12.8
+ga,bassitobalangoye,Bassitobalangoye,06,,0.45,13.0333333
+ga,batanga,Batanga,03,,-0.85,9.9833333
+ga,batanga,Batanga,08,,-0.35,9.3
+ga,batenga,Batenga,08,,-1.6333333,9.65
+ga,batoala,Batoala,06,,0.8,13.45
+ga,baya,Baya,02,,-1.5666667,13.4333333
+ga,baya,Baya,06,,0.9833333,13.9
+ga,bayadi,Bayadi,05,,-3.1333333,11.3166667
+ga,bayoukou,Bayoukou,04,,-1.9166667,12.0166667
+ga,beau village,Beau Village,04,,-1.85,11.0
+ga,be,Bé,09,,0.9333333,10.7
+ga,bedira,Bedira,02,,-1.6166667,13.5666667
+ga,bedounou,Bédounou,06,,0.8333333,13.9666667
+ga,befie,Befié,03,,-0.2,10.65
+ga,bekaba-landji,Békaba-Landji,07,,-0.7666667,12.8
+ga,beka-beka,Béka-Béka,02,,-1.9833333,13.55
+ga,bekemi amboumi,Bekemi Amboumi,02,,-1.7333333,13.7333333
+ga,bekemi,Bekemi,02,,-1.7333333,13.7333333
+ga,bekomi,Bekomi,02,,-1.6666667,12.8666667
+ga,bekou-bekou,Bekou-Bekou,06,,0.4333333,12.3
+ga,bekouye,Békouyé,06,,0.8166667,13.4833333
+ga,belakembe,Belakembe,06,,1.0,13.9
+ga,bele,Belé,06,,0.85,13.5166667
+ga,belem,Belem,06,,-0.1,11.9666667
+ga,belinga,Bélinga,06,,1.1333333,13.1166667
+ga,belleville,Belleville,03,,0.0333333,11.0333333
+ga,bellevue,Bellevue,03,,-0.6333333,10.3833333
+ga,belliessi,Belliessi,09,,0.65,11.1
+ga,bembelie,Bembélié,03,,-0.7333333,9.6666667
+ga,bemve,Bemvé,09,,0.35,11.45
+ga,bende passi mogno,Bendé Passi Mogno,05,,-3.4833333,10.7666667
+ga,bendia,Bendia,02,,-1.5666667,13.4666667
+ga,bendje,Bendjé,09,,0.2833333,11.3666667
+ga,benga,Benga,05,,-2.9166667,11.5333333
+ga,benga,Benga,09,,1.6166667,11.6833333
+ga,bengiaga,Bengiaga,09,,2.1166667,11.9833333
+ga,bengiyoe,Bengiyoe,06,,0.65,12.6833333
+ga,bengoue,Bengoué,06,,0.6166667,12.9666667
+ga,bengoue,Bengoué,08,,-0.9666667,9.1833333
+ga,bengoye ii,Bengoye II,09,,1.7333333,11.4166667
+ga,bengue mamba,Bengué Mamba,04,,-2.1333333,12.3166667
+ga,bengue-memba,Bengué-Memba,04,,-2.1333333,12.3166667
+ga,bengui,Bengui,08,,-1.9,10.15
+ga,bengui,Bengui,09,,0.9,11.0
+ga,beni bantou,Beni Bantou,05,,-2.85,10.2833333
+ga,beniomi i,Beniomi I,02,,-1.6833333,13.6666667
+ga,beniomi ii,Beniomi II,02,,-1.6666667,13.6166667
+ga,benjiaga,Benjiaga,09,,2.1166667,12.0333333
+ga,benvaga,Benvaga,06,,-0.05,11.5166667
+ga,benvelle,Benvelle,03,,-0.15,10.7833333
+ga,benvelle i,Benvellé I,03,,-0.3666667,10.9333333
+ga,benvoghe,Benvoghe,03,,-0.1666667,10.7166667
+ga,benza,Benza,04,,-2.15,11.5
+ga,benze,Benzé,04,,-1.8,11.0
+ga,benzo,Benzo,04,,-2.0333333,11.6333333
+ga,benzork,Benzork,09,,0.95,11.8
+ga,bepila,Bépila,02,,-1.6166667,13.6
+ga,bere,Béré,03,,-0.7333333,10.2833333
+ga,biamani,Biamani,04,,-1.8833333,10.6666667
+ga,biba,Biba,09,,0.85,11.8333333
+ga,bibaga,Bibaga,09,,2.2333333,12.1166667
+ga,biba melene,Biba Mélène,09,,2.05,11.9333333
+ga,bibamvie,Bibamvié,09,,2.2,12.1333333
+ga,bibassa i,Bibassa I,02,,-1.6833333,13.6
+ga,bibassa ii,Bibassa II,02,,-1.6666667,13.55
+ga,bibasse,Bibassé,09,,1.45,11.6166667
+ga,bibe,Bibé,01,,0.9166667,9.8166667
+ga,bibe,Bibé,09,,2.0166667,11.4333333
+ga,bibiara,Bibiara,01,,0.2833333,10.6333333
+ga,bibioe,Bibioe,06,,0.8166667,12.3666667
+ga,bibolo,Bibolo,01,,0.6333333,10.8333333
+ga,bibolo,Bibolo,09,,0.9666667,11.8
+ga,bibonga,Bibonga,05,,-2.8,10.1833333
+ga,bibora,Bibora,05,,-3.2166667,11.45
+ga,biboulman,Biboulman,03,,-0.2833333,10.6
+ga,bichouin,Bichouin,04,,-1.0166667,11.4333333
+ga,bidiabiki,Bidiabiki,07,,-1.2833333,12.5166667
+ga,bidyabiki,Bidyabiki,07,,-1.6833333,12.2833333
+ga,bidzima,Bidzima,09,,1.3333333,11.5833333
+ga,biello,Biello,05,,-3.15,11.3333333
+ga,bienam,Bienam,01,,0.65,9.65
+ga,biezok,Biezok,09,,1.25,11.7166667
+ga,bifame i,Bifame I,09,,0.9833333,11.8833333
+ga,bifame ii,Bifame II,09,,0.9833333,11.9166667
+ga,bifoum,Bifoum,03,,-0.3333333,10.3833333
+ga,bifoun,Bifoun,03,,-0.3333333,10.3833333
+ga,bignendzi,Bignendzi,05,,-2.4166667,10.95
+ga,bigouenya,Bigouenya,03,,-0.85,10.35
+ga,bihindou,Bihindou,05,,-2.55,11.1833333
+ga,bikamba,Bikamba,05,,-3.35,10.7
+ga,bikang,Bikang,09,,1.9833333,11.6166667
+ga,bikas effek,Bikas Effek,09,,2.2833333,11.4166667
+ga,bikas essangui,Bikas Essangui,09,,2.2,11.3833333
+ga,bikas esseng,Bikas Esseng,09,,2.2833333,11.4333333
+ga,bikele,Bikelé,01,,0.4,9.5833333
+ga,bikendzi,Bikendzi,05,,-2.6666667,11.1
+ga,bikobizork,Bikobizork,09,,2.2,11.7833333
+ga,bikogo,Bikogo,02,,-1.5333333,13.3833333
+ga,bikogo,Bikogo,09,,1.55,11.6
+ga,bikondomo,Bikondomo,09,,2.2166667,11.7166667
+ga,bikoromama,Bikoromama,09,,0.6166667,11.5
+ga,bikouala,Bikouala,07,,-1.1333333,12.4333333
+ga,bikougou,Bikougou,09,,0.8666667,11.7833333
+ga,bikoumou,Bikoumou,09,,0.7666667,11.4166667
+ga,bila gouambi,Bila Gouambi,05,,-2.3666667,11.0333333
+ga,bilamba,Bilamba,04,,-2.3666667,12.0666667
+ga,bilanga,Bilanga,05,,-3.3666667,10.6833333
+ga,bilanzambi,Bilanzambi,04,,-1.75,10.1833333
+ga,bilape-saint-pierre,Bilape-Saint-Pierre,08,,-0.8833333,9.1333333
+ga,bilazambi,Bilazambi,04,,-1.5666667,10.0666667
+ga,bilebidoua,Bilebidoua,09,,1.9166667,11.4
+ga,bilemba,Bilemba,05,,-2.6166667,11.3
+ga,bilengui,Bilengui,05,,-2.4333333,10.7166667
+ga,biliba,Biliba,01,,0.95,10.0333333
+ga,billanda,Billanda,07,,-1.4166667,12.1
+ga,billengue,Billengué,04,,-1.95,11.4666667
+ga,billengui,Billengui,04,,-1.95,10.6333333
+ga,billengui i,Billengui I,04,,-1.8666667,10.9833333
+ga,billengui ii,Billengui II,04,,-1.85,10.9666667
+ga,billengui iii,Billengui III,04,,-1.8333333,10.9333333
+ga,billy i,Billy I,09,,2.1166667,11.4833333
+ga,billy ii,Billy II,09,,2.1166667,11.4833333
+ga,billy iii,Billy III,09,,2.1166667,11.4833333
+ga,bilo,Bilo,09,,2.1333333,12.0666667
+ga,bilolo,Bilolo,04,,-2.0833333,11.6
+ga,bilombi,Bilombi,05,,-2.9166667,11.25
+ga,bilombika keri,Bilombika Keri,05,,-2.25,11.0166667
+ga,bilossi,Bilossi,09,,1.7666667,11.45
+ga,bimbin,Bimbin,09,,2.1166667,11.4666667
+ga,bimbiole,Bimbiolé,03,,-1.0,10.2333333
+ga,bimogon,Bimogon,04,,-1.5166667,10.3333333
+ga,bimveme,Bimvème,09,,1.15,11.5
+ga,bina-lttemba,Bina-Lttemba,04,,-2.3166667,11.65
+ga,binambi,Binambi,04,,-2.15,12.05
+ga,binanga,Binanga,07,,-0.8666667,12.95
+ga,bindaba,Bindaba,06,,-0.1166667,11.9666667
+ga,binda,Binda,04,,-1.15,10.7
+ga,bindama,Bindama,09,,1.0,11.95
+ga,bindeli,Bindéli,04,,-1.6166667,10.2166667
+ga,bindomo,Bindomo,09,,2.0666667,12.0
+ga,bindoumessang,Bindoumessang,09,,2.0166667,11.5
+ga,bine,Bine,01,,-0.2666667,10.3833333
+ga,bingamingami,Bingamingami,03,,-0.1833333,10.8166667
+ga,bingamingami i,Bingamingami I,03,,-0.1666667,10.7666667
+ga,bingong,Bingong,01,,0.3666667,9.7333333
+ga,bingoungou,Bingoungou,03,,-0.3833333,10.9833333
+ga,bingui,Bingui,08,,-2.05,10.0666667
+ga,binguilinguen,Binguilinguen,09,,0.8166667,10.3833333
+ga,binienzi,Binienzi,04,,-2.0,11.0833333
+ga,binok,Binok,09,,2.0666667,12.0333333
+ga,binong,Binong,06,,0.4666667,12.35
+ga,biogou,Biogou,04,,-1.1333333,10.7833333
+ga,birenki,Birenki,05,,-2.6,10.85
+ga,birouki,Birouki,05,,-2.4333333,11.05
+ga,bisobilam,Bisobilam,09,,2.2666667,12.0833333
+ga,bisono,Bisono,09,,2.15,12.1166667
+ga,bissam,Bissam,09,,0.6,11.1166667
+ga,bissaninane,Bissaninane,09,,0.65,11.05
+ga,bissassa,Bissassa,02,,-1.6666667,13.55
+ga,bissiba,Bissiba,07,,-1.7,12.2666667
+ga,bissobilam,Bissobilam,01,,0.2833333,9.8333333
+ga,bissobilam,Bissobilam,03,,0.05,11.05
+ga,bissobilam,Bissobilam,09,,1.9833333,11.9166667
+ga,bissobilan,Bissobilan,06,,0.4833333,12.4333333
+ga,bissobimane,Bissobimane,01,,0.0166667,9.4666667
+ga,bissobinam,Bissobinam,01,,0.25,10.3166667
+ga,bissobinam,Bissobinam,03,,0.1333333,10.6833333
+ga,bissobinam,Bissobinam,09,,0.7833333,11.4333333
+ga,bissobiname,Bissobiname,01,,0.3666667,9.75
+ga,bissobinan,Bissobinan,03,,0.1333333,10.6833333
+ga,bissok i,Bissok I,09,,1.2666667,11.5833333
+ga,bissok ii,Bissok II,09,,1.2666667,11.5666667
+ga,bissominam,Bissominam,09,,0.5666667,11.1333333
+ga,bissoubilam,Bissoubilam,03,,-0.6166667,10.3666667
+ga,bissoubilam,Bissoubilam,06,,-0.0166667,11.9166667
+ga,bissoubinlam,Bissoubinlam,03,,-0.2666667,10.5333333
+ga,bitam,Bitam,09,10297,2.0833333,11.4833333
+ga,bitan,Bitan,01,,0.2166667,10.2333333
+ga,bitom,Bitom,09,,0.7166667,11.6333333
+ga,bitono,Bitono,02,,-1.7166667,13.5833333
+ga,bitouga,Bitouga,09,,2.1333333,12.05
+ga,bitsabanga,Bitsabanga,07,,-1.5833333,12.7666667
+ga,bitsambanga,Bitsambanga,07,,-1.5833333,12.7666667
+ga,bittolo,Bittolo,07,,-1.8166667,12.6333333
+ga,bivanga,Bivanga,05,,-2.8833333,11.1333333
+ga,bivebinzogh,Bivebinzogh,01,,0.0,9.5333333
+ga,bivene i,Bivène I,09,,1.7333333,11.5166667
+ga,bivene ii,Bivène II,09,,1.7333333,11.5166667
+ga,bivene iii,Bivène III,09,,1.7166667,11.5166667
+ga,bivene iv,Bivène IV,09,,1.7166667,11.5166667
+ga,bivinde,Bivindé,07,,-1.1666667,12.1833333
+ga,biyemane,Biyemane,09,,0.9166667,11.55
+ga,biyen,Biyen,09,,1.9,11.6333333
+ga,biyene,Biyenè,09,,0.9333333,11.1166667
+ga,bizang,Bizang,09,,2.25,11.5333333
+ga,bizango-bibere,Bizango-Bibéré,01,,0.3833333,9.55
+ga,boali,Boali,04,,-1.5,10.2
+ga,bogno beazini,Bogno Beazini,09,,0.55,11.65
+ga,bogofala,Bogofala,01,,1.0,9.6
+ga,bogotang,Bogotang,01,,0.75,9.7
+ga,boka,Boka,08,,-1.7166667,9.4333333
+ga,bokaboka,Bokaboka,06,,0.8666667,13.65
+ga,bokolo,Bokolo,08,,-2.6166667,10.1666667
+ga,bola-pessou,Bola-Pessou,04,,-1.9166667,12.2
+ga,bola pessou,Bola Pessou,07,,-1.15,12.4833333
+ga,boleko,Boléko,06,,-0.05,11.6166667
+ga,bolendjo,Bolendjo,01,,0.1833333,9.7666667
+ga,bolobilembe,Bolobilembé,04,,-2.3166667,12.05
+ga,boma,Boma,02,,-1.5333333,13.65
+ga,bome,Bome,09,,0.8333333,10.5166667
+ga,bomo komo i,Bomo Komo I,02,,-0.7833333,13.6166667
+ga,bomo komo ii,Bomo Komo II,02,,-0.8,13.55
+ga,bonda,Bonda,07,,-0.8166667,12.7
+ga,bondji,Bondji,07,,-0.8166667,12.55
+ga,bongo-badouma,Bongo-Badouma,02,,-1.1666667,13.25
+ga,bongo,Bongo,02,,-1.65,13.4333333
+ga,bongo,Bongo,03,,-0.8666667,10.0
+ga,bongo,Bongo,08,,-2.1666667,10.2
+ga,bongo madouma,Bongo Madouma,02,,-1.1666667,13.25
+ga,bonneville,Bonneville,03,,-0.5833333,10.0
+ga,bonneville,Bonneville,09,,2.0666667,12.05
+ga,booue,Booué,06,5787,-0.1,11.9333333
+ga,boque,Boque,06,,-0.1,11.9333333
+ga,bordeaux,Bordeaux,02,,-1.65,13.6
+ga,bordeaux,Bordeaux,03,,-0.85,10.1833333
+ga,bordou,Bordou,04,,-1.5166667,10.5166667
+ga,bouala,Bouala,02,,-0.7833333,13.9666667
+ga,bouale,Boualé,03,,-0.75,10.1
+ga,bouali,Bouali,04,,-1.5166667,11.8166667
+ga,bouatou,Bouatou,04,,-1.65,11.9833333
+ga,boubapobo,Boubapobo,04,,-1.0833333,11.25
+ga,bouboulou,Bouboulou,04,,-1.9833333,11.8166667
+ga,boucama,Boucama,07,,-1.3666667,12.9
+ga,boucanga,Boucanga,04,,-1.9166667,10.65
+ga,boucimbi,Boucimbi,04,,-1.1333333,11.85
+ga,bouda,Bouda,05,,-2.8333333,10.3
+ga,boudela,Boudéla,07,,-1.0333333,12.0166667
+ga,boudianguila,Boudianguila,04,,-2.0166667,11.6166667
+ga,boudiombi,Boudiombi,05,,-3.0833333,11.6333333
+ga,boudouga,Boudouga,07,,-1.1833333,12.15
+ga,boudoumbou,Boudoumbou,07,,-0.8166667,12.7833333
+ga,boudzoumba,Boudzoumba,07,,-0.7166667,13.0166667
+ga,boue,Boué,06,,-0.1,11.9333333
+ga,boueca,Bouéca,07,,-1.3833333,12.6333333
+ga,boueka,Boueka,07,,-1.3833333,12.6333333
+ga,bouggou,Bouggou,05,,-3.75,11.2
+ga,bougoulou,Bougoulou,05,,-2.45,10.7333333
+ga,bouhoulou,Bouhoulou,04,,-2.1166667,11.1833333
+ga,bouimi,Bouimi,02,,-1.6833333,13.6
+ga,boukagni,Boukagni,05,,-3.2166667,11.4333333
+ga,boukandi,Boukandi,04,,-2.1666667,11.5166667
+ga,boukena boumounou,Boukena Boumounou,05,,-3.7666667,11.0166667
+ga,boukolo,Boukolo,08,,-2.6166667,10.1666667
+ga,boukou,Boukou,04,,-1.4166667,10.2166667
+ga,boulamba,Boulamba,04,,-2.25,11.9
+ga,boulamboula,Boulamboula,04,,-2.3,11.9166667
+ga,boulemba,Boulemba,07,,-1.0833333,13.1333333
+ga,boulembi,Boulembi,05,,-2.6166667,10.8666667
+ga,boulembo,Boulembo,04,,-1.4333333,12.0
+ga,boulongo-bouangani,Boulongo-Bouangani,04,,-1.5166667,10.1833333
+ga,bouloula,Bouloula,04,,-2.2333333,11.8
+ga,bouloulou,Bouloulou,04,,-1.9166667,11.8
+ga,boumabango,Boumabango,07,,-0.95,12.95
+ga,bouma,Bouma,01,,0.2166667,10.2333333
+ga,boumaga,Boumaga,04,,-2.35,12.45
+ga,bouma-makaya,Bouma-Makaya,02,,-1.55,13.5
+ga,boumango,Boumango,02,,-2.2333333,13.6166667
+ga,boumbakari,Boumbakari,06,,-0.3666667,12.3833333
+ga,boumbazokou,Boumbazokou,06,,0.8,13.45
+ga,boumbazokou ii,Boumbazokou II,06,,0.8333333,13.4833333
+ga,boumi,Boumi,04,,-2.3,12.1166667
+ga,boumiga,Boumiga,04,,-2.35,12.45
+ga,bounbinda,Bounbinda,06,,0.6833333,13.0333333
+ga,boundgi,Boundgi,07,,-1.0,11.85
+ga,boundji,Boundji,07,,-0.8166667,12.55
+ga,boundzoukou,Boundzoukou,04,,-1.65,11.9666667
+ga,bouneni,Bouneni,05,,-2.85,11.3
+ga,boungaloundou,Boungaloundou,06,,0.85,13.5666667
+ga,boungolo,Boungolo,04,,-2.2333333,11.5166667
+ga,boungou bouliba,Boungou Bouliba,05,,-2.75,11.1166667
+ga,boungou,Boungou,04,,-1.85,10.5333333
+ga,boungou,Boungou,07,,-1.8166667,12.5166667
+ga,boungoumana,Boungoumana,04,,-2.1666667,11.7333333
+ga,boungounga,Boungounga,04,,-1.5166667,10.5
+ga,bounzoukou,Bounzoukou,07,,-1.1,12.9166667
+ga,boupounza,Boupounza,07,,-1.2666667,11.9833333
+ga,bouroumba,Bouroumba,04,,-2.2,11.55
+ga,boussa,Boussa,07,,-0.55,12.4166667
+ga,boussimbi,Boussimbi,07,,-1.5333333,12.1833333
+ga,boussoka,Boussoka,07,,-1.1833333,12.5833333
+ga,boussouka,Boussouka,04,,-1.2333333,11.0833333
+ga,boussouniabamba,Boussouniabamba,07,,-1.2333333,12.6166667
+ga,boutala,Boutala,07,,-0.85,12.9
+ga,boutapobo,Boutapobo,04,,-1.0833333,11.25
+ga,boutemba,Boutemba,07,,-0.7666667,12.5333333
+ga,boutica,Boutica,01,,1.05,9.6833333
+ga,boutijobo,Boutijobo,04,,-1.0833333,11.25
+ga,boutipabo,Boutipabo,04,,-1.0833333,11.25
+ga,boutombi,Boutombi,04,,-1.4666667,11.8833333
+ga,boutomoi,Boutomoi,04,,-1.4666667,11.8833333
+ga,bouvinga,Bouvinga,07,,-1.0333333,12.2
+ga,bouyanga,Bouyanga,05,,-2.6166667,11.2333333
+ga,bouyangoula,Bouyangoula,07,,-1.4,12.2166667
+ga,bouzoumba,Bouzoumba,07,,-0.7166667,13.0166667
+ga,buey,Buey,09,,0.75,11.4166667
+ga,bumba,Bumba,01,,0.1666667,9.9833333
+ga,butica,Butica,01,,1.05,9.6833333
+ga,butica uvinia,Butica Uvinia,01,,1.05,9.6833333
+ga,butika,Butika,01,,1.05,9.6833333
+ga,byemane,Byemane,09,,1.7666667,11.4833333
+ga,byene,Byéné,03,,-0.3,10.55
+ga,camba mongo,Camba Mongo,04,,-1.8666667,12.15
+ga,cameroun,Cameroun,04,,-1.5333333,10.55
+ga,camp de banga,Camp de Banga,04,,-1.4166667,11.7333333
+ga,camp de doungo,Camp de Doungo,04,,-1.4,11.7166667
+ga,camp de ekoua,Camp de Ekoua,04,,-1.5,11.4833333
+ga,camp de massima,Camp de Massima,04,,-1.45,11.7
+ga,camp de moumba,Camp de Moumba,04,,-1.3833333,11.6833333
+ga,camp de mouramda,Camp de Mouramda,04,,-1.4666667,11.6
+ga,camp de obaka,Camp de Obaka,04,,-1.5166667,11.5
+ga,camp de pounga,Camp de Pounga,04,,-1.5333333,11.4666667
+ga,campement bakiesso,Campement Bakiesso,07,,-0.7166667,12.6333333
+ga,canca,Canca,06,,-0.15,12.15
+ga,canda,Canda,04,,-1.2666667,11.75
+ga,caye,Caye,05,,-2.9166667,11.5
+ga,chinchoua,Chinchoua,01,,0.0166667,9.8
+ga,chinchua,Chinchua,01,,0.0166667,9.8
+ga,clainbanego,Clainbanégo,03,,-0.8333333,9.8833333
+ga,cocoabeach,Cocoabeach,01,,0.9833333,9.6
+ga,cocobeach,Cocobeach,01,1653,0.9833333,9.6
+ga,cocofili,Cocofili,06,,0.95,13.7666667
+ga,cocomacala,Cocomacala,06,,0.1166667,13.5833333
+ga,comi,Comi,04,,-1.2666667,11.3
+ga,comi,Comi,07,,-0.8333333,12.85
+ga,comilog,Comilog,02,,-1.55,13.2
+ga,commanda,Commanda,07,,-0.8333333,12.8333333
+ga,condafala,Condafala,08,,-1.65,9.45
+ga,congona,Congona,01,,0.15,10.1333333
+ga,conicoue,Conicoué,01,,0.3,9.5166667
+ga,coniquet,Coniquet,01,,0.2666667,9.5333333
+ga,conniquet,Conniquet,01,,0.2666667,9.5333333
+ga,cougni,Cougni,04,,-2.05,11.6166667
+ga,cougny,Cougny,04,,-1.6666667,11.85
+ga,counda,Counda,07,,-1.3166667,12.6833333
+ga,coundou,Coundou,04,,-1.2,10.9333333
+ga,coungou,Coungou,04,,-1.0833333,11.2166667
+ga,dakar,Dakar,03,,-0.7,10.2166667
+ga,dambi,Dambi,07,,-0.7,13.2333333
+ga,dambo,Dambo,07,,-0.7833333,12.5333333
+ga,dame,Dame,01,,0.2666667,10.0833333
+ga,dangui,Dangui,04,,-1.7,10.9166667
+ga,debarcadere d'akondjo,Débarcadère d'Akondjo,01,,-0.2166667,9.9666667
+ga,debarcadere d'angouma,Debarcadère d'Angouma,04,,-1.5333333,10.1833333
+ga,debiang,Debiang,06,,0.55,12.5166667
+ga,degueli,Dégueli,04,,-1.6833333,10.7333333
+ga,degueri,Deguéri,04,,-2.1166667,10.85
+ga,dekabalandji,Dekabalandji,07,,-0.7,12.9833333
+ga,dend,Dend,05,,-3.7666667,11.15
+ga,dende,Dendé,05,,-3.3,10.6166667
+ga,dendo,Dendo,05,,-3.7666667,11.15
+ga,denis,Denis,01,,0.3166667,9.3666667
+ga,dessima,Dessima,03,,-0.6666667,9.7833333
+ga,diaba,Diaba,08,,-1.2833333,9.2
+ga,diabeta,Diabéta,08,,-1.4833333,9.9666667
+ga,diamongo,Diamongo,08,,-1.7166667,9.8333333
+ga,dianga,Dianga,04,,-1.9666667,11.6
+ga,diangui,Diangui,04,,-1.7833333,10.4
+ga,dianongo,Dianongo,08,,-1.7166667,9.8333333
+ga,dianza,Dianza,04,,-2.3166667,12.45
+ga,dibagni,Dibagni,04,,-1.5333333,11.9166667
+ga,dibamba,Dibamba,04,,-1.1333333,11.6833333
+ga,dibandi,Dibandi,04,,-1.25,11.7333333
+ga,dibangama,Dibangama,07,,-0.9833333,13.05
+ga,dibimba,Dibimba,04,,-1.5333333,10.6833333
+ga,dibotinafouala,Dibotinafouala,08,,-1.3,9.9166667
+ga,dibotinefata,Dibotinéfata,04,,-1.6,9.95
+ga,dibouangni,Dibouangni,04,,-1.6666667,11.95
+ga,dibouangui,Dibouangui,04,,-2.1,11.6
+ga,dibouatinafala,Dibouatinafala,08,,-1.3,9.9166667
+ga,dibouengui,Dibouengui,07,,-1.5333333,12.0833333
+ga,diboueta,Diboueta,05,,-2.7166667,11.4166667
+ga,diboufou,Diboufou,05,,-2.9166667,10.5166667
+ga,dibouka,Dibouka,07,,-1.3,12.2666667
+ga,diboumba,Diboumba,04,,-2.3,11.45
+ga,diboumba,Diboumba,05,,-2.6833333,10.9166667
+ga,diboumfou,Diboumfou,05,,-2.9166667,10.5166667
+ga,diboundi,Diboundi,04,,-1.4333333,11.7666667
+ga,diboussou,Diboussou,03,,-1.0,10.2333333
+ga,diekoke,Diékoké,04,,-1.5666667,10.5
+ga,diela vievi,Diéla Vievi,08,,-2.3666667,10.15
+ga,dienga,Dienga,07,,-1.8666667,12.6833333
+ga,diengue,Diengué,04,,-1.9166667,12.1166667
+ga,diere,Diéré,02,,-1.5,13.95
+ga,difounda,Difounda,05,,-2.9833333,10.85
+ga,digaba,Digaba,04,,-2.0,11.25
+ga,digambo,Digambo,04,,-1.8666667,11.7833333
+ga,digayi,Digayi,05,,-2.5666667,10.9166667
+ga,dignietoumba,Dignïétoumba,04,,-1.45,10.5833333
+ga,dignyetoumba,Dignyétoumba,04,,-1.45,10.5833333
+ga,digoba,Digoba,05,,-2.7666667,10.3666667
+ga,digondji,Digondji,05,,-2.8666667,11.0833333
+ga,digongo,Digongo,05,,-2.9833333,10.5666667
+ga,digoumbi,Digoumbi,04,,-1.6333333,11.8833333
+ga,digoungou,Digoungou,05,,-2.85,10.6166667
+ga,diguela,Diguela,04,,-1.5833333,10.1
+ga,dikassa i,Dikassa I,05,,-2.85,11.6
+ga,dikoka,Dikoka,04,,-1.9,11.1833333
+ga,dikouka,Dikouka,04,,-1.2,11.6333333
+ga,dikoulou dimossi,Dikoulou Dimossi,05,,-2.6666667,11.1833333
+ga,dikoundou,Dikoundou,05,,-3.0,11.2
+ga,dikouta,Dikouta,05,,-2.2666667,11.05
+ga,dilalou,Dilalou,04,,-1.95,11.1166667
+ga,dilalou,Dilalou,08,,-1.6166667,9.8833333
+ga,dilanda,Dilanda,07,,-1.45,12.1
+ga,dilemba,Dilemba,05,,-3.0166667,10.85
+ga,dilieliga,Diliéliga,05,,-2.7666667,10.4
+ga,dilienga,Diliénga,05,,-2.7666667,10.4
+ga,dillieliga,Dilliéliga,05,,-2.7666667,10.4
+ga,dilolo,Dilolo,04,,-2.0333333,11.6166667
+ga,dimba,Dimba,04,,-2.2333333,11.6166667
+ga,dimbou,Dimbou,04,,-1.4833333,11.8666667
+ga,dimbou,Dimbou,07,,-1.0833333,11.9666667
+ga,dimbougui,Dimbougui,04,,-1.55,10.1666667
+ga,dimina,Dimina,04,,-1.9333333,11.0
+ga,dingui,Dingui,03,,-0.6,10.3333333
+ga,dingui,Dingui,07,,-0.9166667,11.8333333
+ga,dinguilila,Dinguilila,05,,-2.5833333,11.15
+ga,diolo,Diolo,04,,-2.4,11.5
+ga,diombi,Diombi,04,,-1.6,10.8833333
+ga,dipouya,Dipouya,04,,-1.45,11.9333333
+ga,dirembo,Dirembo,04,,-1.65,11.8333333
+ga,disofou,Disofou,05,,-2.8833333,10.4666667
+ga,dissala,Dissala,05,,-2.3166667,10.6166667
+ga,dissango,Dissango,04,,-1.15,10.75
+ga,dissegui,Dissegui,04,,-2.0,10.8333333
+ga,dissengo,Dissengo,04,,-1.15,10.75
+ga,dissengui,Dissengui,04,,-1.9833333,10.8333333
+ga,dissiala,Dissiala,05,,-2.3166667,11.0833333
+ga,dissingo,Dissingo,04,,-1.15,10.75
+ga,ditadi,Ditadi,04,,-1.85,11.6666667
+ga,ditoumba nzambi,Ditoumba Nzambi,05,,-3.2666667,10.6833333
+ga,ditounga,Ditounga,04,,-1.6833333,10.7333333
+ga,divangui,Divangui,04,,-1.1666667,10.5833333
+ga,divangui,Divangui,05,,-2.7166667,11.15
+ga,divangui,Divangui,08,,-1.95,9.9833333
+ga,diveia,Diveia,05,,-2.5666667,11.1666667
+ga,divelo,Divélo,04,,-1.65,11.8166667
+ga,divevi,Divévi,04,,-2.2333333,11.2833333
+ga,divevi,Divévi,05,,-2.9833333,11.7833333
+ga,diveya,Diveya,05,,-2.5666667,11.1666667
+ga,divina,Divina,05,,-2.4833333,10.9166667
+ga,divinda,Divinda,04,,-1.1,11.7166667
+ga,divinda,Divinda,07,,-1.3,11.9833333
+ga,divinde,Divindé,04,,-1.25,11.4833333
+ga,divinou,Divinou,08,,-2.0666667,10.1
+ga,divoko,Divoko,05,,-2.6,10.95
+ga,divolo,Divolo,04,,-1.7,11.8833333
+ga,djabeta,Djabéta,06,,0.8666667,14.0
+ga,djamiti,Djamiti,02,,-1.5666667,13.6666667
+ga,djangatebe,Djangatébé,02,,-1.6833333,13.1166667
+ga,djaouri,Djaouri,05,,-2.8833333,11.45
+ga,djassone,Djassone,06,,0.85,13.5833333
+ga,djema,Djema,05,,-2.9333333,10.35
+ga,djemba,Djémba,05,,-2.9333333,10.35
+ga,djiba,Djiba,02,,-1.3333333,13.15
+ga,djiba i,Djiba I,02,,-1.35,13.15
+ga,djiba ii,Djiba II,02,,-1.3666667,13.15
+ga,djima,Djima,02,,-1.65,12.9333333
+ga,djoakaye,Djoakaye,02,,-1.7,13.7
+ga,djoakaye i,Djoakaye I,02,,-1.7166667,13.7166667
+ga,djoakaye ii,Djoakaye II,02,,-1.7,13.7
+ga,djoconamoye,Djoconamoye,07,,-0.7833333,12.75
+ga,djogeboat,Djogeboat,01,,0.1666667,10.1666667
+ga,djokala,Djokala,07,,-0.8166667,12.7166667
+ga,djokoloudja i,Djokoloudja I,06,,0.75,14.05
+ga,djokoloudja ii,Djokoloudja II,06,,0.7333333,14.0666667
+ga,djokonamoi,Djokonamoi,06,,-0.2833333,12.3
+ga,djokonamoyo,Djokonamoyo,07,,-1.05,12.2833333
+ga,djokoroundja,Djokoroundja,02,,-1.4666667,13.2833333
+ga,djokossana,Djokossana,06,,0.8833333,14.0
+ga,djondi,Djondi,07,,-0.8833333,12.7333333
+ga,djongo,Djongo,07,,-1.5833333,12.5
+ga,djongo ii,Djongo II,07,,-1.5166667,12.5166667
+ga,djoukou,Djoukou,02,,-1.75,13.5833333
+ga,djoum,Djoum,09,,2.2833333,12.0666667
+ga,djoum ii,Djoum II,09,,2.1333333,12.15
+ga,djoutou,Djoutou,02,,-1.6666667,13.3166667
+ga,doan,Doan,09,,2.2666667,11.5833333
+ga,dogo,Dogo,08,,-1.65,9.6666667
+ga,dola,Dola,05,,-3.0833333,10.6
+ga,dolle,Dolle,06,,-0.0833333,11.7
+ga,domassi,Domassi,07,,-1.0,11.9333333
+ga,dondo,Dondo,04,,-1.4666667,11.55
+ga,dondo i,Dondo I,04,,-1.2,11.05
+ga,dondo moucoubango,Dondo Moucoubango,04,,-1.2166667,11.0666667
+ga,donghila,Donghila,01,,0.2166667,9.75
+ga,dongila,Dongila,01,,0.2166667,9.75
+ga,donguila,Donguila,01,,0.2166667,9.75
+ga,doua,Doua,09,,1.4166667,11.4
+ga,douanga,Douanga,05,,-3.0,10.3833333
+ga,douaniang,Douaniang,01,,0.2833333,10.0333333
+ga,doubagni,Doubagni,04,,-2.2666667,11.4666667
+ga,doubagni,Doubagni,05,,-2.75,10.8333333
+ga,doubambi,Doubambi,04,,-1.9666667,10.9
+ga,doubani,Doubani,04,,-1.8833333,11.0666667
+ga,doubi,Doubi,04,,-1.65,11.75
+ga,doubogno,Doubogno,05,,-2.8166667,11.05
+ga,douboumo,Douboumo,05,,-3.2166667,10.5333333
+ga,doufouma,Doufouma,05,,-2.3833333,11.0
+ga,dougalou,Dougalou,05,,-3.1333333,11.7166667
+ga,dougandou i,Dougandou I,05,,-2.7166667,10.95
+ga,dougandou ii,Dougandou II,05,,-2.7166667,10.9333333
+ga,dougayi,Dougayi,04,,-2.1,10.9166667
+ga,dougou mamba,Dougou Mamba,05,,-2.9333333,10.4833333
+ga,douigny,Douigny,05,,-3.1,10.7833333
+ga,doukaki,Doukaki,05,,-2.9166667,11.0166667
+ga,doukanga,Doukanga,04,,-2.1333333,11.1833333
+ga,doukanga,Doukanga,05,,-2.5833333,11.3333333
+ga,doukendema,Doukendema,05,,-2.3,11.0666667
+ga,doukoumou,Doukoumou,05,,-2.9,11.15
+ga,douli,Douli,05,,-3.3,11.65
+ga,doumai,Doumaï,02,,-1.5666667,13.15
+ga,doumamango,Doumamango,07,,-0.0333333,12.9333333
+ga,doumandzou,Doumandzou,09,,0.9166667,11.15
+ga,doumanzo,Doumanzo,09,,0.6333333,11.0833333
+ga,doumassi,Doumassi,09,,2.25,11.5
+ga,doumatsengue,Doumatsengué,07,,-1.2166667,12.4166667
+ga,doumboukombi,Doumboukombi,07,,-1.2333333,12.4
+ga,doum,Doum,09,,0.8166667,11.5166667
+ga,doume,Doumé,07,,-0.85,12.9333333
+ga,doungou,Doungou,05,,-2.7833333,10.4166667
+ga,doungounene,Doungounéné,06,,0.8166667,13.4666667
+ga,dounguila,Dounguila,05,,-2.7,11.5
+ga,dounvou,Dounvou,05,,-3.3833333,10.7166667
+ga,douradzum,Douradzum,06,,0.05,12.0
+ga,doussala,Doussala,04,,-2.6333333,11.6333333
+ga,doussoundzi,Doussoundzi,05,,-2.6833333,11.1666667
+ga,douzanza,Douzanza,05,,-2.7666667,11.5666667
+ga,d'ovan,D'Ovan,06,,0.3166667,12.1666667
+ga,dovoyi,Dovoyi,05,,-3.0166667,11.1166667
+ga,dubendji,Dubendji,07,,-1.0166667,11.9
+ga,duma,Duma,01,,0.2,10.15
+ga,dume,Dume,01,,0.2,10.15
+ga,duradzoma,Duradzoma,06,,-0.0333333,11.9166667
+ga,dyanga,Dyanga,04,,-1.3333333,11.8
+ga,dyanza,Dyanza,04,,-2.3166667,12.45
+ga,dyelessi,Dyelessi,03,,-0.9666667,10.0333333
+ga,dyengue,Dyengué,04,,-1.9166667,12.1166667
+ga,dyengue,Dyengué,07,,-1.8666667,12.6833333
+ga,dyenza,Dyenza,04,,-1.9666667,12.25
+ga,dyenze,Dyenzé,04,,-1.9666667,12.25
+ga,dzamossi,Dzamossi,09,,1.6666667,11.6166667
+ga,dzibe,Dzibé,01,,0.2333333,9.8333333
+ga,dzoguengone,Dzoguengone,01,,0.1333333,10.6
+ga,ebamayong,Ebamayong,01,,0.3666667,9.7166667
+ga,ebamou,Ebamou,01,,0.35,10.4666667
+ga,ebandaga,Ebandaga,06,,0.55,12.4833333
+ga,ebandan,Ebandan,06,,1.0333333,13.0166667
+ga,ebandje,Ebandje,01,,0.8666667,9.6
+ga,ebando,Ebando,04,,-1.5833333,11.5833333
+ga,ebang,Ebang,09,,2.1166667,11.4166667
+ga,ebango,Ebango,09,,2.2333333,11.65
+ga,ebaredo,Ebaredo,06,,0.3,11.6666667
+ga,ebea-akork,Ebea-Akork,06,,0.55,12.5333333
+ga,ebea,Ebéa,03,,-0.2166667,10.5666667
+ga,ebea,Ebea,09,,0.7333333,11.4
+ga,ebe,Ebé,01,,0.2833333,10.0166667
+ga,ebegnakok,Ebégnakok,01,,0.8,9.7166667
+ga,ebei,Ebeï,09,,1.1666667,11.5
+ga,ebeigne,Ebeigne,09,,1.4833333,11.6
+ga,ebel,Ebel,03,,0.1166667,11.0833333
+ga,ebele,Ebélé,03,,0.1166667,11.0833333
+ga,ebeneyong i,Ebéneyong I,09,,0.65,11.6166667
+ga,ebeneyong ii,Ebéneyong II,09,,0.6666667,11.5666667
+ga,ebengon,Ebengon,09,,2.2166667,11.6833333
+ga,ebengone,Ebengone,09,,1.8166667,11.5666667
+ga,ebiane,Ebiane,01,,0.5666667,10.6666667
+ga,ebiane,Ebiane,09,,1.05,11.6833333
+ga,ebiani,Ebiani,09,,1.5666667,11.5166667
+ga,ebobogo,Ebobogo,09,,1.5833333,11.9333333
+ga,ebolahon,Ebolahon,06,,0.7166667,13.9
+ga,eboman,Éboman,09,,2.1666667,12.0666667
+ga,ebondje,Ebondjé,01,,0.8666667,9.6
+ga,ebondji,Ebondji,01,,0.8666667,9.6
+ga,ebondsche,Ebondsche,01,,0.8666667,9.6
+ga,ebon,Ebon,09,,0.9,11.3
+ga,ebor,Ebor,09,,0.7,11.5166667
+ga,ebori,Ebori,02,,-1.5666667,13.6
+ga,eboro,Eboro,09,,2.2833333,11.4666667
+ga,ebot,Ebot,09,,1.8,11.3666667
+ga,eboundji,Eboundji,04,,-1.25,11.5166667
+ga,ebounfaga,Ebounfaga,09,,0.7166667,11.4
+ga,ebsame ii,Ebsame II,09,,0.9333333,10.7166667
+ga,ebyegn,Ebyegn,06,,0.6,12.7333333
+ga,echira,Echira,08,,-0.9833333,9.3833333
+ga,econe,Econe,09,,1.6333333,11.55
+ga,ecoukou,Eçoukou,04,,-1.35,11.3166667
+ga,edabour,Edabour,06,,0.2,11.9
+ga,eda,Eda,09,,2.2,11.8666667
+ga,edok,Edok,06,,0.5666667,12.8833333
+ga,edouangani i,Edouangani I,01,,0.4666667,9.4166667
+ga,edouangani ii,Edouangani II,01,,0.45,9.4333333
+ga,edouma,Edouma,01,,0.0666667,9.3333333
+ga,edoume,Edoumé,09,,0.9166667,10.65
+ga,edoung alangha,Edoung Alangha,09,,0.8,11.5166667
+ga,edourna,Edourna,01,,0.0666667,9.3333333
+ga,edzamangen,Edzamangen,06,,0.6,12.7333333
+ga,edzedzen ii,Edzedzen II,03,,-0.3833333,10.4666667
+ga,effande,Effandé,06,,1.3,14.1
+ga,efot,Efot,09,,0.95,10.9
+ga,efoulana,Efoulana,09,,0.9333333,10.75
+ga,efoulane,Efoulane,09,,2.0333333,11.6666667
+ga,egmounga,Egmounga,04,,-1.8833333,11.25
+ga,egnounga,Egnounga,04,,-1.5833333,10.8833333
+ga,ego,Ego,06,,1.2666667,14.1
+ga,egoumbi,Egoumbi,04,,-1.8166667,11.5
+ga,ehanzo,Ehanzo,06,,0.8666667,13.6333333
+ga,ehong,Ehong,09,,2.25,11.4833333
+ga,ekala,Ékala,02,,-0.7333333,13.75
+ga,ekalla,Ekalla,02,,-1.45,14.0
+ga,ekan,Ekan,09,,0.6833333,11.6
+ga,ekarelon,Ekarelon,09,,0.6,11.5
+ga,ekarelong,Ekarélong,06,,0.2,11.8833333
+ga,ekata,Ekata,06,,0.6666667,14.3
+ga,ekatangaye,Ekatangaye,06,,1.0166667,13.9666667
+ga,ekaye,Ekaye,02,,-1.0333333,13.8666667
+ga,ekeka,Ekeka,04,,-1.5166667,11.7833333
+ga,ekengue,Ekéngue,04,,-1.1833333,11.0833333
+ga,ekeoua,Ekéoua,08,,-0.7166667,9.1666667
+ga,ekika,Ekika,04,,-1.0666667,11.7333333
+ga,ekododo,Ekododo,01,,0.9333333,9.9666667
+ga,ekohong,Ekohong,09,,2.0666667,11.4833333
+ga,ekok,Ekok,06,,1.3333333,14.0833333
+ga,ekong,Ekong,09,,1.7833333,11.4333333
+ga,ekoniedoume,Ekoniédoumé,09,,2.0333333,11.3666667
+ga,ekoredor i,Ekorédor I,03,,-0.7,10.15
+ga,ekorekie,Ekorékié,09,,2.1333333,11.65
+ga,ekorridou,Ekorridou,03,,-0.15,10.55
+ga,ekoua,Ekoua,06,,1.0666667,13.05
+ga,ekouass,Ekouass,09,,1.25,11.6833333
+ga,ekouata,Ekouata,01,,-0.2166667,9.3
+ga,ekoueta,Ekoueta,01,,-0.2166667,9.3
+ga,ekoui,Ekoui,09,,1.9833333,11.55
+ga,ekoumaniambi,Ekoumaniambi,06,,0.6333333,13.0
+ga,ekoum-ebel,Ekoum-Ebel,01,,0.3166667,9.85
+ga,ekoumevong,Ekoumevong,09,,1.4166667,11.4
+ga,ekoungou,Ekoungou,02,,-1.2833333,13.6666667
+ga,ekowong,Ekowong,06,,0.5833333,12.8166667
+ga,ekwy,Ekwy,02,,-1.7833333,14.05
+ga,elane,Elane,01,,0.35,9.6166667
+ga,elanh-bemvoum,Elanh-Bemvoum,06,,0.6333333,12.7
+ga,elarmilon,Elarmilon,09,,0.4833333,11.4666667
+ga,elarmitang,Élarmitang,09,,2.1666667,12.1333333
+ga,elata bakota,Elata Bakota,06,,0.35,12.1833333
+ga,elebe,Elébé,02,,-1.4833333,13.4666667
+ga,elebe,Elébé,03,,0.1166667,11.0833333
+ga,eleko,Eleko,02,,-0.2666667,13.7166667
+ga,elelem,Elelem,01,,0.4666667,10.6666667
+ga,elelem,Elelem,03,,0.0166667,10.6166667
+ga,elibere,Elibéré,06,,0.8166667,12.4333333
+ga,eliva,Eliva,08,,-0.7333333,8.9666667
+ga,ellela,Elléla,06,,0.95,13.7833333
+ga,ellelem,Ellélem,09,,0.9,10.9833333
+ga,ellem,Ellem,09,,1.2166667,11.7166667
+ga,elomba,Elomba,08,,-1.4333333,9.35
+ga,elombe,Elombé,03,,-0.8,9.95
+ga,elong-eko,Elong-Eko,01,,0.2333333,9.7666667
+ga,elong eko,Elong Eko,01,,0.5666667,10.9
+ga,elong-eko,Elong-Eko,03,,-0.2,10.5166667
+ga,elong-eko,Elong-Eko,09,,0.9666667,10.7333333
+ga,elope,Elope,09,,1.4666667,11.6
+ga,elouma,Elouma,06,,0.8666667,13.9833333
+ga,eloum,Eloum,03,,-1.1166667,10.0333333
+ga,elouzanzoko,Elouzanzoko,07,,-0.2166667,12.7833333
+ga,emanagouga,Emanagouga,08,,-0.7166667,9.1333333
+ga,embadaga,Embadaga,06,,-0.1,11.9833333
+ga,emone,Emone,01,,0.8333333,9.6
+ga,empoussa,Empoussa,02,,-1.2166667,13.7833333
+ga,emvouhna,Emvouhna,03,,-0.7166667,10.2166667
+ga,endama,Endama,09,,1.9833333,11.55
+ga,endendang,Endendang,01,,0.0833333,9.4166667
+ga,endjoumou,Endjoumou,02,,-1.5666667,13.1333333
+ga,endoma,Endoma,09,,1.6,11.4666667
+ga,endome,Endome,09,,1.6166667,11.65
+ga,endome i,Endome I,09,,1.65,11.5833333
+ga,endome ii,Endome II,09,,1.6833333,11.5666667
+ga,engang,Engang,09,,1.6666667,11.55
+ga,engasse,Engasse,09,,1.9,11.85
+ga,engeng,Engeng,09,,0.9166667,11.65
+ga,engo effak,Engo Effak,09,,2.2666667,11.4833333
+ga,engo,Engo,09,,2.2833333,11.4666667
+ga,engogone,Engogone,09,,1.5833333,11.5166667
+ga,engong,Engong,01,,0.6,10.1
+ga,engong,Engong,09,,1.3666667,11.6833333
+ga,engoumou,Engoumou,02,,-0.7166667,13.7666667
+ga,engoung,Engoung,01,,0.7666667,9.7666667
+ga,enguengang-medzim,Enguengang-Medzim,01,,0.6833333,10.0
+ga,enieng,Enieng,09,,1.1833333,11.7166667
+ga,eniengmelene i,Eniengméléné I,09,,0.9666667,10.8333333
+ga,eniengmelene ii,Eniengméléné II,09,,0.9666667,10.8666667
+ga,enientang,Enientang,09,,0.7333333,10.3833333
+ga,enkassa,Enkassa,02,,-1.2666667,13.6166667
+ga,entsaka,Entsaka,02,,-1.1333333,13.9166667
+ga,enworedule,Enworedule,01,,0.7333333,9.95
+ga,enyonga,Enyonga,08,,-0.9833333,9.3666667
+ga,eourouzork,Eourouzork,09,,0.55,11.6333333
+ga,eparga,Eparga,03,,-0.6666667,10.1333333
+ga,equata,Equata,01,,-0.2166667,9.3
+ga,erogoue,Erogoué,08,,-0.65,8.7166667
+ga,esende,Esende,08,,-0.9166667,9.5833333
+ga,esissie,Esissié,01,,0.2166667,10.2333333
+ga,esong,Ésong,09,,2.1,12.0333333
+ga,essa,Essa,09,,1.8666667,11.7833333
+ga,essamvegne,Essamvégne,01,,-0.0333333,9.6
+ga,essanang,Essanang,01,,0.05,9.4333333
+ga,essangui,Essangui,09,,2.15,11.4
+ga,essanvougha,Essanvougha,03,,-0.3,10.55
+ga,essendjoum,Essendjoum,09,,1.8666667,11.7833333
+ga,essogongone,Essogongone,09,,0.7166667,11.3666667
+ga,essomilang,Essomilang,09,,2.05,11.6666667
+ga,essone bizang,Essone Bizang,09,,2.2666667,11.5333333
+ga,essone,Essone,09,,0.65,11.25
+ga,esson,Esson,09,,1.3333333,11.4166667
+ga,essong abam i,Essong Abam I,09,,1.3333333,11.4166667
+ga,essong abam iii,Essong Abam III,09,,1.3166667,11.4166667
+ga,essong,Essong,09,,1.55,11.4
+ga,essong i,Essong I,09,,0.8166667,11.4666667
+ga,essong ii,Essong II,09,,0.8166667,11.45
+ga,essonia,Essonia,09,,0.6333333,11.6166667
+ga,essono,Essono,09,,1.65,11.4833333
+ga,essoua,Essoua,01,,0.9333333,9.9166667
+ga,essoukou,Essoukou,04,,-1.35,11.3166667
+ga,essoun-alem,Essoun-Alem,09,,0.9666667,11.45
+ga,etaba,Etaba,04,,-1.7666667,11.5333333
+ga,etakangai,Etakangaï,06,,1.0166667,13.9666667
+ga,etakangaye,Etakangaye,06,,1.0166667,13.9666667
+ga,etakaniabe,Etakaniabé,06,,0.5166667,13.0
+ga,etamayen,Etamayen,01,,0.25,9.6333333
+ga,etamayong,Etamayong,01,,0.25,9.6333333
+ga,etametang,Étamétang,09,,2.2,12.1333333
+ga,etchougou,Etchougou,02,,-1.1833333,13.5333333
+ga,eteing,Eteing,03,,-0.1833333,10.7
+ga,eteke,Étéké,04,,-1.4833333,11.5833333
+ga,etiala,Etiala,06,,0.7333333,13.9166667
+ga,etogo,Etogo,09,,2.1833333,12.0333333
+ga,etogou,Étogou,09,,2.1833333,12.0333333
+ga,etoughi,Étoughi,04,,-1.3,11.6166667
+ga,etouk,Etouk,03,,-0.4833333,10.0
+ga,etouk,Etouk,09,,0.8,11.4333333
+ga,etsame i,Etsamé I,09,,0.7666667,10.4
+ga,evamba,Evamba,01,,0.9333333,9.7166667
+ga,evameyonga,Evameyonga,03,,-0.45,10.45
+ga,eves,Eves,03,,-0.3,10.4333333
+ga,eves,Eves,09,,1.85,11.6166667
+ga,eveula,Éveula,09,,2.1166667,12.1666667
+ga,eviename,Eviéname,01,,0.5833333,9.4666667
+ga,evinayong,Evinayong,01,,0.2833333,10.05
+ga,evone,Evone,09,,1.55,11.7833333
+ga,evoredoule,Evoredoule,01,,0.1666667,10.1166667
+ga,evoredouleu,Evoredouleu,01,,0.7333333,9.95
+ga,evoredouleux,Evorédouleux,01,,0.35,9.8166667
+ga,evormakok,Evormakok,01,,0.3,10.2
+ga,evormakok,Evormakok,09,,0.9,11.75
+ga,evormbile,Évormbilé,09,,2.1166667,12.05
+ga,evormitok,Evormitok,06,,0.0833333,11.8666667
+ga,evoula,Evoula,01,,0.1,9.8166667
+ga,evoung-voung,Evoung-Voung,03,,-0.3666667,10.45
+ga,evouta,Evouta,04,,-1.1166667,11.7
+ga,evouta ii,Evouta II,04,,-1.25,11.3166667
+ga,eweme,Ewémé,09,,2.1333333,11.4833333
+ga,ex-case boyer,Ex-case Boyer,01,,-0.15,9.6166667
+ga,eyamayong,Eyamayong,01,,0.6666667,10.9
+ga,eyamayong,Eyamayong,06,,0.5666667,12.6333333
+ga,eyamayong,Eyamayong,09,,0.95,10.8166667
+ga,eyameyene,Eyaméyéne,09,,0.8833333,11.2166667
+ga,eyameyen,Eyameyen,06,,0.6,12.7333333
+ga,eyameyon,Eyameyon,06,,0.5666667,12.6333333
+ga,eyameyong,Eyameyong,01,,0.1833333,10.35
+ga,eyameyong,Eyameyong,06,,0.2166667,11.7666667
+ga,eyane,Eyané,09,,0.8666667,11.6
+ga,eya nioy,Eya Nioy,04,,-1.2833333,11.4333333
+ga,eyeme,Eyemé,01,,0.2833333,10.2333333
+ga,eyene,Eyene,06,,0.1333333,11.8833333
+ga,eyene,Eyéné,09,,0.85,11.5833333
+ga,eyinane,Eyinané,09,,0.95,11.55
+ga,eyouga,Eyouga,02,,-1.5333333,13.7666667
+ga,eyouga ii,Eyouga II,02,,-1.6166667,13.7
+ga,eyoumbi,Eyoumbi,04,,-1.2833333,11.45
+ga,ezamkang,Ezamkang,09,,1.2833333,11.7
+ga,ezango,Ezango,08,,-1.9333333,9.3333333
+ga,falaba,Falaba,08,,-1.0333333,9.0666667
+ga,fala,Fala,01,,0.2166667,10.2333333
+ga,fala,Fala,04,,-0.95,10.6166667
+ga,fala-nzamata,Fala-Nzamata,03,,-0.6,10.35
+ga,febezok,Fébezok,09,,1.5333333,11.8
+ga,feme,Fémé,09,,2.2,11.5
+ga,feng,Feng,09,,1.9666667,11.35
+ga,fera,Fera,04,,-2.3,11.3166667
+ga,fernand-vaz,Fernand-Vaz,08,,-1.5666667,9.25
+ga,fernan vaz,Fernan Vaz,03,,-0.45,10.4666667
+ga,fernan vaz,Fernan Vaz,08,,-1.5666667,9.25
+ga,foloe,Foloe,06,,0.9,12.2666667
+ga,fone,Fone,09,,1.45,11.6
+ga,fortifie du lekoni,Fortifié du Lékoni,02,,-1.5833333,14.2333333
+ga,fortifie du liconi,Fortifié du Liconi,02,,-1.5833333,14.2333333
+ga,fouala,Fouala,07,,-0.9833333,12.8166667
+ga,fouanga,Fouanga,01,,0.25,10.5166667
+ga,foubenzok,Foubenzok,06,,0.2333333,11.95
+ga,foubenzork,Foubenzork,06,,0.2666667,11.9666667
+ga,fouelou,Fouelou,04,,-2.1833333,11.1166667
+ga,fougamou,Fougamou,04,5649,-1.2166667,10.6
+ga,foula bifoun,Foula Bifoun,01,,0.2166667,10.2333333
+ga,foula bifum,Foula Bifum,01,,0.2166667,10.2333333
+ga,foula fieng,Foula Fieng,06,,0.2,11.7833333
+ga,foula,Foula,01,,0.2166667,10.2333333
+ga,foula,Foula,06,,0.2,11.7833333
+ga,foula,Foula,09,,0.95,11.4166667
+ga,foulamayong,Foulamayong,08,,-1.2,9.4833333
+ga,foulameyong,Foulameyong,03,,-0.5166667,10.3333333
+ga,foulassi,Foulassi,09,,0.8166667,11.4833333
+ga,foulayong,Foulayong,01,,0.85,9.8833333
+ga,foulebeng i,Foulebeng I,09,,1.05,11.4833333
+ga,foulebeng ii,Foulebeng II,09,,1.05,11.4833333
+ga,foulenzem,Foulenzem,01,,-0.0166667,9.5833333
+ga,founa,Founa,03,,-0.4,11.3666667
+ga,foundou,Foundou,08,,-2.65,10.0333333
+ga,foundou nzambi,Foundou Nzambi,05,,-2.4333333,10.9666667
+ga,fouramouanga,Fouramouanga,04,,-1.1166667,10.6333333
+ga,fouroumanga,Fouroumanga,04,,-2.2,11.5333333
+ga,franceville,Franceville,02,,-1.6333333,13.5833333
+ga,fulabifum,Fulabifum,01,,0.2166667,10.2333333
+ga,gabeta,Gabéta,03,,-1.0333333,10.2166667
+ga,galoua,Galoua,04,,-1.0833333,10.8
+ga,gamba,Gamba,08,9928,-2.65,10.0
+ga,gangoue,Gangoué,08,,-0.5333333,9.2
+ga,ganzi,Ganzi,06,,0.7,13.1333333
+ga,gazo,Gazo,06,,0.7166667,13.1666667
+ga,ghebida,Ghébida,04,,-1.2166667,11.2666667
+ga,ghediba,Ghèdiba,04,,-1.2166667,11.2666667
+ga,gikiba,Gikiba,04,,-1.2,10.6833333
+ga,gnali,Gnali,05,,-2.5666667,11.3
+ga,gnaname,Gnanamé,09,,2.2,11.3833333
+ga,gnazang,Gnazang,09,,2.1666667,11.65
+ga,gnienzi,Gnienzi,07,,-1.65,12.1833333
+ga,gnyoungou,Gnyoungou,04,,-1.45,11.1666667
+ga,gobini,Gobini,05,,-3.0333333,10.45
+ga,gondzi,Gondzi,05,,-2.9666667,11.5166667
+ga,gongoue,Gongoué,08,,-0.5333333,9.2
+ga,gouale,Goualé,01,,0.9166667,10.0166667
+ga,gouamba,Gouamba,07,,-0.8,12.6833333
+ga,gouassa,Gouassa,07,,-1.4,12.0666667
+ga,goudou-fouala,Goudou-Fouala,03,,-0.7333333,10.3166667
+ga,goudoumayou,Goudoumayou,08,,-1.3333333,9.95
+ga,goulougai,Goulougaï,04,,-2.1,10.55
+ga,goumbou,Goumbou,05,,-3.1833333,10.75
+ga,gounda,Gounda,02,,-2.1333333,13.65
+ga,goundiman,Goundiman,03,,-0.6833333,9.7666667
+ga,goungui,Goungui,07,,-1.0666667,12.3333333
+ga,grand lekolo,Grand Lékolo,02,,-1.6166667,13.2
+ga,grand massengo,Grand Massengo,02,,-1.3833333,13.15
+ga,grand mobigou,Grand Mobigou,04,,-1.45,11.7
+ga,grand village,Grand Village,03,,-0.1666667,10.75
+ga,guaviri,Guaviri,08,,-1.1,9.3666667
+ga,gueme,Guéme,07,,-1.1333333,13.2166667
+ga,guiabeta,Guiabeta,04,,-1.05,11.3833333
+ga,guidiba,Guidiba,04,,-1.2166667,11.2666667
+ga,guidouma,Guidouma,04,,-1.6166667,10.6833333
+ga,guiessebe,Guiéssébé,06,,0.95,13.8166667
+ga,guilingono,Guilingono,04,,-2.35,11.6833333
+ga,guisse,Guisse,04,,-1.6333333,10.2666667
+ga,hublin,Hublin,08,,-1.6166667,9.5333333
+ga,huy i,Huy I,09,,0.5333333,11.4666667
+ga,huy ii,Huy II,09,,0.5166667,11.4666667
+ga,iantsi,Iantsi,05,,-3.15,11.3166667
+ga,ibaga,Ibaga,04,,-1.65,11.7666667
+ga,ibakodia,Ibakodia,06,,-0.0666667,11.9333333
+ga,ibala,Ibala,07,,-1.7,12.2666667
+ga,ibamba,Ibamba,04,,-2.2333333,11.1166667
+ga,ibamba,Ibamba,07,,-1.0,12.5666667
+ga,ibanga,Ibanga,05,,-2.7333333,10.7333333
+ga,ibega,Ibega,08,,-1.3833333,9.2833333
+ga,ibela,Ibéla,06,,0.6833333,14.1
+ga,ibella,Ibella,06,,0.6833333,14.1
+ga,ibembo,Ibembo,04,,-1.8833333,11.65
+ga,ibinga,Ibinga,06,,0.6833333,13.05
+ga,ibomo,Ibomo,06,,-0.1,11.45
+ga,iboundji,Iboundji,01,,0.8666667,9.6
+ga,iboundji,Iboundji,04,,-1.45,11.95
+ga,icoumba,Icoumba,04,,-1.9,11.1666667
+ga,idamba,Idamba,07,,-1.3333333,12.8833333
+ga,idema,Idema,04,,-1.3666667,11.7833333
+ga,idemba,Idemba,04,,-1.3666667,11.7833333
+ga,idemba,Idemba,05,,-3.35,10.7
+ga,idemba i,Idemba I,04,,-1.5666667,11.5833333
+ga,idemba ii,Idemba II,04,,-1.5666667,11.5833333
+ga,idembe,Idembé,04,,-2.2166667,11.6833333
+ga,idembe,Idembe,07,,-1.3333333,12.8833333
+ga,idiata,Idiata,04,,-2.0166667,11.5666667
+ga,idiba,Idiba,07,,-1.2833333,12.9
+ga,idimba,Idimba,07,,-1.0833333,11.9
+ga,idokogo,Idokogo,01,,0.5833333,9.3166667
+ga,idolo,Idolo,01,,0.8,9.9666667
+ga,idouma,Idouma,04,,-1.9,10.9333333
+ga,idoumi,Idoumi,04,,-1.3833333,10.6166667
+ga,idounda,Idounda,04,,-2.0,11.5833333
+ga,igala,Igala,05,,-2.5666667,11.3
+ga,igela,Igela,08,,-1.9166667,9.3166667
+ga,igning-melene,Igning-Méléne,01,,0.4833333,9.4166667
+ga,ignol,Ignol,09,,0.9166667,11.4333333
+ga,igolani,Igolani,04,,-1.4333333,10.2
+ga,igouba,Igouba,04,,-1.6666667,11.55
+ga,igoudi,Igoudi,04,,-2.3833333,11.2333333
+ga,igouma,Igouma,07,,-1.0,11.8166667
+ga,igoumbi,Igoumbi,07,,-1.1,11.85
+ga,igouna,Igouna,04,,-1.9,11.0833333
+ga,iguela,Iguéla,08,,-1.9166667,9.3166667
+ga,iguendjo,Iguendjo,03,,-0.8333333,9.8
+ga,iguene,Iguéné,08,,-1.4833333,9.2666667
+ga,ikanga,Ikanga,07,,-1.1,11.8833333
+ga,ikassa,Ikassa,08,,-0.95,9.7166667
+ga,ikembele,Ikembelé,04,,-1.0166667,11.75
+ga,ikembele,Ikembélé,07,,-1.0166667,12.0666667
+ga,ikengue,Ikengué,08,,-1.5166667,9.4666667
+ga,ikeoue,Ikéoué,08,,-1.2166667,9.0333333
+ga,ikeri issiana,Ikeri Issiana,05,,-2.7833333,11.0833333
+ga,ikeva,Ikéva,08,,-1.2166667,9.0333333
+ga,ikie,Ikié,06,,0.9166667,13.6833333
+ga,ikika,Ikika,04,,-1.6666667,11.8833333
+ga,iko,Iko,06,,0.9,13.65
+ga,ikoli,Ikoli,05,,-3.1333333,11.3333333
+ga,ikone,Ikone,04,,-2.2666667,11.6333333
+ga,ikongo,Ikongo,08,,-1.65,9.65
+ga,ikore,Ikoré,08,,-1.3,9.0166667
+ga,ikouka,Ikouka,04,,-2.1166667,11.5
+ga,ikoulam-vam,Ikoulam-Vam,03,,-0.2166667,10.5666667
+ga,ikoya,Ikoya,04,,-2.2166667,11.5833333
+ga,ilala,Ilala,04,,-2.2666667,11.3
+ga,ilande,Ilandé,08,,-1.5833333,9.55
+ga,ileka,Iléka,05,,-2.4333333,10.9666667
+ga,ilelo,Ilelo,04,,-2.45,11.3333333
+ga,ilendo,Ilendo,04,,-1.9666667,11.1333333
+ga,ilendo,Ilendo,05,,-3.1,11.5
+ga,ilendou,Ilendou,04,,-2.1333333,10.8666667
+ga,illala,Illala,04,,-2.2666667,11.3
+ga,iloba songui,Iloba Songui,05,,-2.6333333,11.2166667
+ga,iloga magounga,Iloga Magounga,05,,-2.45,11.1
+ga,ilogo,Ilogo,05,,-2.6833333,11.1666667
+ga,iloneyon-sekioni,Iloneyon-Sekioni,01,,0.5833333,9.4833333
+ga,ilongo,Ilongo,08,,-1.8,9.3666667
+ga,ilou,Ilou,01,,0.3833333,9.5166667
+ga,iloumi ilongo dibora,Iloumi Ilongo Dibora,05,,-2.8,11.0833333
+ga,imboko,Imboko,05,,-2.9666667,11.0833333
+ga,imbong,Imbong,06,,1.0333333,13.9833333
+ga,imeno,Iméno,04,,-1.5833333,11.95
+ga,imeno,Iméno,09,,0.9833333,11.8833333
+ga,imeno-mbila,Iméno-Mbila,04,,-1.7,11.8833333
+ga,imono,Imono,07,,-0.3,12.7833333
+ga,inanga,Inanga,04,,-1.7166667,10.35
+ga,inanga,Inanga,05,,-2.8166667,10.3166667
+ga,inanie,Inanie,08,,-1.55,9.2833333
+ga,indamba,Indamba,04,,-1.0166667,11.3333333
+ga,indende,Indéndé,04,,-1.1333333,10.7333333
+ga,indimba,Indimba,04,,-1.2,11.6833333
+ga,indombo,Indombo,01,,0.9333333,9.5666667
+ga,indombo,Indombo,06,,0.3166667,13.15
+ga,indoue,Indoué,06,,0.9333333,13.7166667
+ga,indoume,Indoume,09,,0.65,11.0333333
+ga,indzanza,Indzanza,06,,-0.1,11.9833333
+ga,ineni magno,Ineni Magno,05,,-2.4,11.1166667
+ga,ingasse,Ingasse,09,,1.6166667,11.4333333
+ga,ingolandjondjo ii,Ingolandjondjo II,06,,0.85,13.6
+ga,ingolandjondjo i,Ingolandjondjo I,06,,0.8666667,13.6
+ga,ingolandjondo,Ingolandjondo,06,,0.8666667,13.6
+ga,ingonda,Ingonda,06,,0.8166667,13.9666667
+ga,ingong,Ingong,09,,1.5833333,11.3666667
+ga,ingou,Ingou,01,,0.6333333,10.8166667
+ga,ingounda,Ingounda,04,,-2.3166667,11.85
+ga,inguei,Ingueï,09,,0.8166667,11.4833333
+ga,inguele,Inguelé,04,,-2.6333333,11.6166667
+ga,iniounga,Iniounga,04,,-1.7,10.3
+ga,inominomio,Inominomio,05,,-2.85,11.4833333
+ga,inongo-aile,Inongo-Aïlé,08,,-1.3833333,9.35
+ga,inongo,Inongo,08,,-1.5333333,9.4333333
+ga,intogo,Intogo,02,,-1.1833333,13.7666667
+ga,inzamba,Inzamba,07,,-1.0166667,12.1166667
+ga,inzambo,Inzambo,07,,-1.0,11.8
+ga,inze,Inzé,06,,0.7666667,13.3166667
+ga,inzombo,Inzombo,07,,-1.0666667,11.95
+ga,iouasso ii,Iouasso II,07,,-1.0333333,11.9333333
+ga,iouasso i,Iouasso I,07,,-1.05,11.9333333
+ga,iouatchi,Iouatchi,07,,-1.0,11.8
+ga,iouatsi,Iouatsi,04,,-2.05,12.4666667
+ga,ipamboua,Ipamboua,04,,-1.9166667,11.4666667
+ga,ipedie,Ipedie,08,,-1.4,9.3333333
+ga,ipoungoa,Ipoungoa,07,,-1.3666667,12.1333333
+ga,ipoungo,Ipoungo,07,,-1.3666667,12.1333333
+ga,ipoungou,Ipoungou,04,,-1.55,11.8833333
+ga,ipoungou,Ipoungou,07,,-1.3666667,12.1333333
+ga,irandou,Irandou,04,,-2.6166667,11.6333333
+ga,irandou,Irandou,05,,-3.2,11.7166667
+ga,irendi,Irendi,04,,-2.5833333,11.6166667
+ga,irendou,Irendou,05,,-2.7166667,11.0833333
+ga,ireva,Iréva,08,,-1.55,9.4333333
+ga,irogo,Irogo,04,,-2.3833333,11.4166667
+ga,irougou,Irougou,04,,-2.2333333,11.45
+ga,iroungou,Iroungou,05,,-2.9166667,11.6666667
+ga,isogni,Isogni,05,,-2.8,10.1666667
+ga,isogni salou,Isogni Salou,05,,-2.4833333,10.9
+ga,issac,Issac,03,,-0.5,9.9666667
+ga,issadoumongo-ignizok,Issadoumongo-Ignizok,09,,1.7833333,11.7166667
+ga,issadoumongo,Issadoumongo,09,,1.7666667,11.7166667
+ga,issala,Issala,04,,-2.0166667,11.6833333
+ga,issangafoum,Issangafoum,01,,0.35,10.3666667
+ga,issiamboula,Issiamboula,04,,-1.85,11.85
+ga,issiapi,Issiapi,04,,-2.3666667,11.6833333
+ga,issiari mandifou,Issiari Mandifou,08,,-2.1166667,10.1333333
+ga,issibou,Issibou,05,,-2.7,11.1666667
+ga,issigou,Issigou,05,,-2.85,11.2333333
+ga,issinga,Issinga,03,,-0.9,10.4333333
+ga,issinga,Issinga,04,,-1.7,11.4333333
+ga,issinga,Issinga,08,,-1.1666667,9.5166667
+ga,issohingon,Issohingon,09,,0.8166667,11.5
+ga,issoloue,Issoloué,03,,-0.8166667,9.9833333
+ga,issoung ii,Issoung II,03,,-0.1166667,10.7833333
+ga,issoung i,Issoung I,03,,-0.1333333,10.7666667
+ga,itaba,Itaba,04,,-2.1166667,11.5
+ga,itala,Itala,04,,-1.9,10.8333333
+ga,italatala,Italatala,07,,-1.3,12.45
+ga,itava,Itava,04,,-2.0166667,12.0333333
+ga,itebe iii,Itébé III,06,,0.8666667,13.5833333
+ga,itebe ii,Itébé II,06,,0.85,13.55
+ga,itebe i,Itébé I,06,,0.8166667,13.4666667
+ga,iteke,Itéké,06,,-0.4333333,11.75
+ga,itogo,Itogo,04,,-2.1833333,11.5166667
+ga,itoko,Itoko,02,,-1.4166667,13.0166667
+ga,itoughi,Itoughi,04,,-1.3,11.6166667
+ga,itougou,Itougou,04,,-2.0,11.5
+ga,itougui,Itougui,04,,-1.75,11.55
+ga,itsanga,Itsanga,04,,-1.6166667,11.7333333
+ga,itsango,Itsango,04,,-1.6333333,11.75
+ga,itsigou,Itsigou,04,,-1.7166667,11.5666667
+ga,itsila,Itsila,04,,-2.2166667,11.8333333
+ga,itsouadi,Itsouadi,07,,-1.65,12.45
+ga,ivanga,Ivanga,04,,-1.5333333,9.9833333
+ga,ivete,Iveté,07,,-1.5333333,12.65
+ga,ivicou,Ivicou,07,,-1.1333333,11.9666667
+ga,ivoumounou,Ivoumounou,05,,-2.8166667,11.0666667
+ga,ivoundou,Ivoundou,05,,-2.9,11.5
+ga,ivouta,Ivouta,04,,-1.1166667,11.7
+ga,ivouti,Ivouti,04,,-1.25,11.1
+ga,iyantzi,Iyantzi,05,,-3.0,11.1166667
+ga,izamba,Izamba,08,,-0.6166667,9.1166667
+ga,izambe,Izambé,08,,-0.6166667,9.1166667
+ga,joctane,Joctane,03,,-0.8333333,10.1
+ga,jogeboat,Jogeboat,01,,0.1666667,10.1666667
+ga,junckville,Junckville,03,,-0.0833333,11.1666667
+ga,junokville,Junokville,03,,-0.0833333,11.1666667
+ga,kabaga ii,Kabaga II,02,,-1.3833333,13.9166667
+ga,kabaga i,Kabaga I,02,,-1.3666667,13.9
+ga,kabaga,Kabaga,02,,-1.3666667,13.9
+ga,kabala,Kabala,02,,-1.6666667,14.4
+ga,kabi,Kabi,05,,-2.9833333,11.1
+ga,kabo nzambi,Kabo Nzambi,05,,-2.7333333,11.5166667
+ga,kadje,Kadje,09,,1.8166667,11.4333333
+ga,kafele,Kafele,01,,0.0833333,10.2
+ga,kaga ii,Kaga II,04,,-2.4,11.35
+ga,kaga i,Kaga I,04,,-2.4166667,11.35
+ga,kaka,Kaka,05,,-2.4666667,10.9333333
+ga,kaki,Kaki,05,,-2.9333333,11.0333333
+ga,kalami,Kalami,02,,-1.8166667,13.9833333
+ga,kaleton,Kaleton,01,,0.3333333,10.7166667
+ga,kalingoue,Kalingoué,04,,-0.95,10.6166667
+ga,kamalete,Kamalété,04,,-0.7166667,11.8166667
+ga,kamba i,Kamba I,04,,-2.35,11.35
+ga,kamba,Kamba,04,,-2.25,11.45
+ga,kamba,Kamba,05,,-3.1166667,11.7166667
+ga,kambala,Kambala,05,,-2.7666667,11.3166667
+ga,kam,Kam,01,,0.4166667,10.6166667
+ga,kanapo,Kanapo,05,,-2.6,11.25
+ga,kanda,Kanda,04,,-1.4666667,11.9333333
+ga,kandjama bika,Kandjama Bika,06,,-0.2666667,11.7333333
+ga,kandjama,Kandjama,06,,-0.2,11.7333333
+ga,kandjama simba,Kandjama Simba,06,,-0.1166667,11.7333333
+ga,kandouo,Kandouo,02,,-1.55,14.1333333
+ga,kandwou,Kandwou,02,,-1.55,14.1333333
+ga,kanga,Kanga,04,,-2.3,11.6166667
+ga,kangala,Kangala,06,,0.6666667,14.1833333
+ga,kango,Kango,01,1516,0.15,10.1333333
+ga,kan-kan,Kan-Kan,06,,-0.15,12.15
+ga,kantsaga,Kantsaga,02,,-1.7166667,14.3333333
+ga,kara,Kara,02,,-1.0,13.85
+ga,karamaien,Karamaïen,01,,0.15,10.2833333
+ga,kassetchoui,Kassetchoui,07,,-1.4166667,12.6666667
+ga,kassiami ii,Kassiami II,02,,-1.3,13.9
+ga,kassiami i,Kassiami I,02,,-1.2833333,13.9
+ga,katamoba,Katamoba,06,,0.8833333,14.0166667
+ga,kaya-kaya,Kaya-Kaya,02,,-1.5333333,13.4666667
+ga,kayes congo,Kayes Congo,05,,-3.7333333,11.0333333
+ga,kaze,Kazé,08,,-0.9166667,9.6166667
+ga,kebili,Kebili,05,,-2.8833333,11.6166667
+ga,kedi,Kédi,04,,-1.9833333,10.6166667
+ga,kekele,Kékélé,06,,0.0,11.95
+ga,keleba,Keleba,05,,-2.8,10.1
+ga,kelili,Kelili,05,,-2.65,11.1833333
+ga,kelle ii,Kellé II,02,,-1.6,13.7166667
+ga,kelle i,Kellé I,02,,-1.6,13.75
+ga,kelle,Kellé,02,,-1.6,13.75
+ga,kembele,Kembélé,04,,-1.6833333,11.45
+ga,kemboma,Kemboma,06,,0.6666667,13.5333333
+ga,kendje,Kendjé,08,,-0.8166667,9.15
+ga,kendo,Kendo,06,,-0.1,11.9833333
+ga,keng-akok,Keng-Akok,09,,1.6,11.5833333
+ga,kenibei,Kenibeï,04,,-0.9833333,10.5
+ga,keno,Kéno,08,,-1.7333333,9.9
+ga,kenze,Kenzé,04,,-1.9333333,11.4833333
+ga,kenzo,Kenzo,04,,-2.0666667,11.7166667
+ga,kepa,Képa,08,,-1.05,9.1333333
+ga,kera-kera,Kera-Kera,07,,-0.8666667,12.65
+ga,keri ii,Keri II,04,,-1.9833333,11.0333333
+ga,keri i,Keri I,04,,-1.95,11.0166667
+ga,keri,Kéri,03,,-0.7666667,10.35
+ga,keri,Keri,04,,-1.95,11.0166667
+ga,keri,Kéri,05,,-2.4666667,10.9333333
+ga,keri nzambi,Keri Nzambi,05,,-2.7833333,11.0833333
+ga,kerye,Kéryé,03,,-0.6166667,9.9333333
+ga,keseetchui,Keseetchui,07,,-1.4166667,12.6666667
+ga,kessala,Kessala,02,,-1.8166667,13.9333333
+ga,kessetchi,Kessetchi,07,,-1.4166667,12.6666667
+ga,kessetchoui,Kessetchoui,07,,-1.4166667,12.6666667
+ga,kessipougou,Kessipougou,07,,-0.9166667,12.7666667
+ga,kewaga,Kéwaga,02,,-1.8333333,13.9
+ga,kiagui,Kiagui,04,,-1.6333333,10.15
+ga,kika,Kika,02,,-1.8166667,14.2833333
+ga,kimbele,Kimbélé,04,,-1.6833333,11.45
+ga,kimene,Kimene,01,,0.6166667,10.8
+ga,kobekobe,Kobékobe,01,,-0.0333333,9.35
+ga,kogh-ebele,Kogh-Ebélé,01,,0.65,9.9666667
+ga,koho-bono,Koho-Bono,03,,-0.4833333,10.3
+ga,kokobe,Kokobé,01,,-0.0333333,9.35
+ga,koko,Koko,06,,0.9833333,13.95
+ga,kokolo,Kokolo,04,,-1.7,10.75
+ga,koko magoma,Koko Magoma,05,,-2.5833333,11.2666667
+ga,koko maguema,Koko Maguema,04,,-2.0666667,11.0
+ga,kokomingheli,Kokominghéli,07,,-0.7166667,12.9333333
+ga,kolimboung,Kolimboung,04,,-0.9166667,10.6
+ga,kollioura,Kollioura,06,,0.3166667,12.1666667
+ga,komadeke,Komadéké,03,,-0.85,10.55
+ga,koma,Koma,04,,-2.0666667,11.15
+ga,kombani,Kombani,06,,0.3333333,12.2
+ga,kombitoumba,Kombitoumba,04,,-1.6,9.9
+ga,kombo,Kombo,06,,-0.3333333,12.3666667
+ga,komi,Komi,04,,-1.05,10.8
+ga,konako,Konako,08,,-1.7,9.7666667
+ga,konanadembe,Konanadembé,07,,-1.0,12.1833333
+ga,kondakoko,Kondakoko,07,,-1.6,12.2833333
+ga,konda,Konda,07,,-1.2,12.8666667
+ga,kondiri,Kondiri,04,,-2.2166667,11.6
+ga,kondzi,Kondzi,05,,-2.3833333,10.6833333
+ga,konenadembe,Konenadembé,07,,-1.0,12.1833333
+ga,kong,Kong,09,,2.2333333,11.7333333
+ga,kongo boumba,Kongo Boumba,06,,-0.0833333,11.4666667
+ga,kongo-godafala,Kongo-Godafala,07,,-0.9166667,12.6333333
+ga,kongou,Kongou,07,,-1.6833333,12.6666667
+ga,konikue,Konikue,01,,0.3,9.5166667
+ga,kono,Kono,09,,1.8833333,11.65
+ga,kos,Kos,09,,1.7333333,11.3833333
+ga,koto,Koto,06,,0.7,13.05
+ga,kotto,Kotto,04,,-2.1,11.9166667
+ga,kouadembe,Kouadembé,07,,-1.0,12.1833333
+ga,kouagna,Kouagna,03,,-0.7333333,10.35
+ga,kouagna,Kouagna,04,,-2.2333333,11.5
+ga,kouala,Kouala,09,,0.9833333,10.7166667
+ga,koualessis,Koualessis,09,,1.4166667,11.6333333
+ga,kouame,Kouamé,01,,0.1833333,10.1333333
+ga,kouangata,Kouangata,06,,0.8666667,14.0333333
+ga,kouango,Kouango,05,,-2.4833333,10.75
+ga,kouangou,Kouangou,04,,-2.0666667,11.1333333
+ga,kouanou,Kouanou,07,,-1.3,12.2833333
+ga,koubala,Koubala,07,,-1.3666667,12.2333333
+ga,kougoule,Kougoulé,01,,0.3666667,9.9166667
+ga,kougouleu,Kougouleu,01,,0.3666667,9.9166667
+ga,kougouri,Kougouri,04,,-2.45,11.5333333
+ga,koulamotou,Koulamotou,07,,-1.1333333,12.4833333
+ga,koula moubou,Koula Moubou,07,,-1.1333333,12.4833333
+ga,koula mouta,Koula Mouta,07,,-1.1333333,12.4833333
+ga,koula-moutou,Koula-Moutou,03,,-0.7166667,10.25
+ga,koulamoutou,Koulamoutou,07,16222,-1.1333333,12.4833333
+ga,koula-okak,Koula-Okak,06,,0.2,11.8166667
+ga,koumala,Koumala,04,,-1.7833333,12.0
+ga,koumamala,Koumamala,07,,-1.4,12.4
+ga,koumamayong,Koumamayong,06,,0.1833333,11.85
+ga,koumameyong,Koumameyong,06,,0.1833333,11.85
+ga,koumaniabe,Koumaniabé,06,,0.85,14.05
+ga,koumassi,Koumassi,09,,1.85,11.6333333
+ga,koumatza,Koumatza,09,,0.9333333,10.9166667
+ga,koumazza,Koumazza,01,,0.5166667,9.75
+ga,koumba,Koumba,04,,-1.8,11.9833333
+ga,koumbanou,Koumbanou,04,,-2.1,10.6333333
+ga,koume,Koume,09,,0.9333333,10.7
+ga,koumiki,Koumiki,01,,0.1166667,10.55
+ga,koumoue,Koumoué,08,,-1.6333333,9.6166667
+ga,koumougani,Koumougani,05,,-2.3166667,11.0666667
+ga,koumougari,Koumougari,05,,-2.8166667,10.95
+ga,koumou,Koumou,07,,-1.6333333,12.7333333
+ga,kounadembe,Kounadembé,07,,-1.4333333,12.3833333
+ga,kounamoutou,Kounamoutou,06,,0.7,14.0833333
+ga,koundakoua,Koundakoua,08,,-1.4333333,9.2333333
+ga,kounda,Kounda,02,,-1.55,13.1333333
+ga,koundou,Koundou,04,,-1.2,10.9333333
+ga,koungoua,Koungoua,03,,-0.5333333,10.25
+ga,koungou,Koungou,04,,-1.0833333,11.2166667
+ga,kouri,Kouri,05,,-3.35,11.6333333
+ga,kouroussou,Kouroussou,04,,-1.5333333,10.2666667
+ga,kousou,Kousou,04,,-2.4,12.25
+ga,kouta,Kouta,07,,-1.3333333,12.25
+ga,kouya,Kouya,04,,-2.3833333,11.75
+ga,kringer,Kringer,01,,0.4166667,9.4166667
+ga,kroussou,Kroussou,04,,-1.5333333,10.2666667
+ga,kwaben,Kwaben,01,,0.4,9.4333333
+ga,kwangou,Kwangou,04,,-2.3166667,11.75
+ga,laboka,Laboka,06,,0.3166667,11.5333333
+ga,lafond,Lafond,01,,0.15,10.1833333
+ga,lalala,Lalala,01,,0.3666667,9.4833333
+ga,lalara,Lalara,09,,0.3666667,11.4666667
+ga,lama,Lama,01,,0.2,9.8333333
+ga,lamba,Lamba,01,,0.2166667,10.1833333
+ga,lambarene,Lambaréné,03,20714,-0.7,10.2166667
+ga,lambarene,Lambaréné,04,,-1.1,11.7333333
+ga,lambarene,Lambaréné,06,,0.65,13.0333333
+ga,lambarene,Lambaréné,07,,-1.2,12.5
+ga,lambarene,Lambaréné,08,,-1.6833333,9.4333333
+ga,lambassi,Lambassi,06,,-0.0833333,11.4666667
+ga,la nsye,La Nsyé,06,,1.0333333,13.0166667
+ga,lara,Lara,09,,0.3666667,11.4666667
+ga,lasiko,Lasiko,08,,-1.6666667,9.4166667
+ga,lassonie,Lassonie,08,,-1.6666667,9.4333333
+ga,lastoursville,Lastoursville,07,8340,-0.8166667,12.7
+ga,lastourville,Lastourville,07,,-0.8166667,12.7
+ga,lata-bengoue,Lata-Bengoué,06,,0.6333333,12.9833333
+ga,latanamitaga,Latanamitaga,06,,0.5666667,12.8833333
+ga,latanda,Latanda,04,,-1.4666667,10.6666667
+ga,latsa,Latsa,05,,-2.5166667,11.2
+ga,lebagni,Lébagni,04,,-1.8,11.9333333
+ga,lebagni,Lebagni,07,,-1.3833333,12.6
+ga,lebagny,Lebagny,04,,-1.8,11.9333333
+ga,lebagny,Lebagny,07,,-1.3833333,12.6
+ga,lebaladouba,Lébaladouba,02,,-0.7666667,13.85
+ga,leba,Leba,02,,-1.7333333,14.3
+ga,leba,Leba,04,,-2.3333333,11.9
+ga,lebamba,Lébamba,04,,-2.2,11.5
+ga,lebasa,Lebasa,04,,-2.4166667,12.0666667
+ga,lebassa,Lebassa,04,,-2.4166667,12.0666667
+ga,lebaye,Lebaye,02,,-1.7333333,13.7666667
+ga,lebba iii,Lebba III,02,,-1.7166667,14.2666667
+ga,lebba ii,Lebba II,02,,-1.7166667,14.2833333
+ga,lebba i,Lebba I,02,,-1.7333333,14.3
+ga,lebba,Lebba,02,,-1.7333333,14.3
+ga,lebe,Lebé,01,,0.1833333,9.8666667
+ga,lebengo,Lebengo,04,,-2.0666667,11.85
+ga,lebiayou,Lèbiayou,07,,-1.6,12.25
+ga,lebinga i,Lebinga I,02,,-0.6833333,13.7833333
+ga,lebingue,Lebingué,02,,-1.8166667,13.7
+ga,lebiri,Lebiri,02,,-0.9833333,13.85
+ga,lebongui,Lebongui,07,,-1.1,12.5166667
+ga,lecagna,Lecagna,07,,-1.2,13.05
+ga,lecole,Lecolé,07,,-1.1333333,12.7833333
+ga,leconi,Léconi,02,,-1.5833333,14.2333333
+ga,lecori,Lecori,02,,-1.5833333,14.2333333
+ga,ledoumou,Ledoumou,07,,-1.6833333,12.2833333
+ga,legala,Legala,04,,-2.1833333,11.85
+ga,lehou,Léhou,02,,-1.9,14.2833333
+ga,lekaba,Lekaba,07,,-1.3833333,12.7333333
+ga,lekadouba,Lekadouba,02,,-0.55,14.05
+ga,lekala,Lekala,04,,-1.9833333,12.3166667
+ga,lekala,Lekala,07,,-1.5166667,12.6333333
+ga,leka,Leka,07,,-0.8,12.7166667
+ga,lekamba,Lekamba,02,,-1.5166667,13.0166667
+ga,lekamba,Lékamba,07,,-1.3,12.9666667
+ga,lekegni,Lékégni,07,,-1.5,12.5
+ga,lekei iii,Lekeï III,02,,-1.4833333,13.8833333
+ga,lekei ii,Lekeï II,02,,-1.4833333,13.9
+ga,lekei i,Lekeï I,02,,-1.4833333,13.95
+ga,lekei,Lekei,02,,-1.4833333,13.95
+ga,lekengue,Lékengué,04,,-1.0,10.65
+ga,lekila,Lékila,02,,-1.0,13.85
+ga,lekimbou,Lekimbou,04,,-2.3,11.6166667
+ga,lekindou,Lekindou,04,,-2.2833333,11.8
+ga,leklla,Léklla,02,,-1.0,13.85
+ga,lekoka,Lekoka,07,,-1.8333333,12.6666667
+ga,lekolo,Lékolo,02,,-1.5666667,13.2
+ga,lekoni,Lékoni,02,3583,-1.5833333,14.2333333
+ga,lekori,Lekori,02,,-0.8333333,14.1333333
+ga,lekoumba,Lekoumba,02,,-1.4666667,13.0
+ga,lekoussaga,Lékoussaga,02,,-1.3833333,13.5166667
+ga,leledi,Lélédi,06,,-0.0833333,11.3666667
+ga,lelende,Lelendé,04,,-2.05,12.15
+ga,lelongo,Lelongo,04,,-2.1666667,11.85
+ga,lemagna,Lémagna,07,,-1.2666667,12.6666667
+ga,lemanga,Lémanga,04,,-2.1333333,12.3166667
+ga,lemba,Lemba,04,,-2.0,12.3166667
+ga,lembayoungou,Lembayoungou,04,,-2.3166667,11.15
+ga,lembe,Lembe,05,,-3.0833333,11.1833333
+ga,lembodouma,Lembodouma,04,,-1.4,10.2
+ga,lemboudouma,Lemboudouma,04,,-1.7,10.7666667
+ga,lemboumbou,Lemboumbou,04,,-2.2,11.55
+ga,leme,Lemé,01,,5.9833333,9.6
+ga,lemenga,Lemenga,04,,-2.1333333,12.3166667
+ga,lemingue,Lemingué,07,,-1.4333333,12.7166667
+ga,lendabengui,Lendabengui,04,,-2.3666667,11.75
+ga,lendama,Lendama,01,,0.2,10.0666667
+ga,lendoundoungou,Lendoundoungou,02,,-2.15,13.65
+ga,lengori i,Lengori I,02,,-1.6,13.6666667
+ga,lengori,Lengori,02,,-1.6,13.6666667
+ga,lengounga,Lengounga,02,,-1.45,13.0
+ga,leniombi ii,Léniombi II,02,,-1.85,13.7
+ga,leniombi i,Léniombi I,02,,-1.8666667,13.7
+ga,leniombi,Léniombi,02,,-1.85,13.7
+ga,lenzongo,Lenzongo,04,,-2.05,11.6333333
+ga,leoinga ii,Léoinga II,02,,-0.65,13.7666667
+ga,leou,Leou,02,,-1.9,14.2833333
+ga,lepaka,Lépaka,02,,-1.6833333,13.55
+ga,lepepe,Lépépé,04,,-2.1833333,12.2166667
+ga,lepouya,Lepouya,02,,-1.55,13.4
+ga,les bambous,Les Bambous,01,,0.4333333,9.55
+ga,lesoka,Lesoka,07,,-1.55,12.7666667
+ga,lessabou,Lessabou,04,,-1.8833333,11.9333333
+ga,lessasso,Lessasso,07,,-1.0166667,12.0333333
+ga,letamba,Létamba,07,,-1.35,12.4166667
+ga,letembe,Letembé,04,,-2.15,11.6833333
+ga,letoubou,Letoubou,02,,-0.3833333,13.7
+ga,leuve,Leuve,01,,0.1833333,9.8666667
+ga,levama,Levama,04,,-2.3333333,11.65
+ga,levata,Levata,07,,-1.8333333,12.6666667
+ga,levayou,Levayou,04,,-1.7666667,11.9
+ga,leveve,Leveve,04,,-2.1166667,11.6166667
+ga,levika,Levika,07,,-1.4833333,12.7333333
+ga,levinda,Levinda,04,,-1.9666667,12.25
+ga,lewai,Lewaï,02,,-1.5166667,13.8333333
+ga,lewou,Léwou,02,,-1.9,14.2833333
+ga,leyassa,Leyassa,07,,-1.2666667,12.5
+ga,leyimba,Leyimba,07,,-1.4833333,12.6333333
+ga,leyounga,Leyounga,04,,-2.15,12.2333333
+ga,liandza,Liandza,07,,-0.7833333,13.4
+ga,libaladouba,Libaladouba,07,,-0.6833333,13.1
+ga,libamba,Libamba,07,,-1.2333333,12.1666667
+ga,libela,Libéla,07,,-1.6166667,12.3833333
+ga,libena,Libena,07,,-0.8333333,12.5666667
+ga,libengo,Libengo,04,,-2.0666667,11.85
+ga,libreville,Libreville,01,578156,0.3833333,9.45
+ga,licocodjiba,Licocodjiba,07,,-0.6833333,13.1666667
+ga,licoko-kaliakali,Licoko-Kaliakali,07,,-1.4,12.8833333
+ga,liconi,Liconi,02,,-1.5833333,14.2333333
+ga,lidenha-sica,Lidenha-Sica,07,,-1.2,13.1166667
+ga,lidiambou,Lidiambou,07,,-1.4,12.2333333
+ga,lidiata,Lidiata,07,,-1.1333333,12.7833333
+ga,lidiembo,Lidiembo,04,,-0.9666667,11.4833333
+ga,lidyembo,Lidyembo,04,,-0.9666667,11.4833333
+ga,lieben,Lieben,09,,1.5666667,11.9
+ga,liembo douma,Liembo Douma,04,,-2.1333333,10.8333333
+ga,lifouta,Lifouta,07,,-1.05,13.0833333
+ga,lihouma,Lihouma,07,,-0.8,12.7833333
+ga,lihouvima,Lihouvima,07,,-0.8833333,12.85
+ga,likeka-paoumandja,Likéka-Paoumandja,07,,-1.1833333,12.9833333
+ga,likila,Likila,04,,-0.9,10.6
+ga,likoko,Likoko,07,,-0.2,12.8
+ga,likokou,Likokou,07,,-0.2,12.8
+ga,likouala,Likouala,07,,-0.8,12.7
+ga,likoye,Likoye,04,,-2.0833333,11.9166667
+ga,limbenga,Limbenga,07,,-0.8333333,12.7333333
+ga,limengue,Limengué,07,,-1.4333333,12.7166667
+ga,lindeba-combi,Lindeba-Combi,07,,-1.2166667,13.0833333
+ga,lindeba-sika,Lindéba-Sika,07,,-1.2,13.1166667
+ga,lindembe,Lindémbé,07,,-1.6333333,12.2
+ga,lingara,Lingara,07,,-0.7833333,12.7333333
+ga,lingomo,Lingomo,07,,-0.8166667,12.6833333
+ga,lingoye,Lingoye,04,,-1.9,11.8833333
+ga,lingoye,Lingoye,07,,-0.85,12.7
+ga,lingoy,Lingoy,07,,-1.1666667,12.8
+ga,linze,Linzé,06,,-0.1,11.9666667
+ga,lipopa,Lipopa,07,,-1.1666667,12.8333333
+ga,lissoka-mabeka,Lissoka-Mabeka,07,,-1.4166667,12.8833333
+ga,lissoka-micouca,Lissoka-Micouca,07,,-1.0666667,12.7666667
+ga,lissouca,Lissouca,07,,-1.1,12.7166667
+ga,lissouka,Lissouka,07,,-1.1,12.7166667
+ga,litouga,Litouga,04,,-2.3833333,11.3666667
+ga,litsegue,Litségué,07,,-0.8666667,12.5666667
+ga,little denis,Little Denis,01,,0.2333333,9.3833333
+ga,livikou,Livikou,04,,-1.9,11.9333333
+ga,liyami,Liyami,02,,-1.45,13.3333333
+ga,liyembi,Liyembi,07,,-1.1833333,12.8333333
+ga,loanda,Loanda,08,,-0.9166667,9.0
+ga,loandou,Loandou,03,,-0.1166667,10.8166667
+ga,lobo,Lobo,06,,0.35,12.0833333
+ga,londe,Londe,08,,-1.7166667,9.4166667
+ga,londen,Londen,03,,-0.4666667,10.45
+ga,londo,Londo,07,,-0.9333333,12.8166667
+ga,longa,Longa,02,,-0.3,13.7166667
+ga,longoue,Longoué,03,,-0.7,9.8166667
+ga,louango,Louango,04,,-1.9833333,11.1666667
+ga,louango,Louango,05,,-2.6333333,10.9
+ga,louangou,Louangou,05,,-3.15,11.3166667
+ga,louba,Louba,04,,-2.2333333,11.8833333
+ga,louba,Louba,07,,-1.55,12.0833333
+ga,loubasa,Loubasa,04,,-2.4166667,12.0666667
+ga,louis,Louis,01,,0.4166667,9.4333333
+ga,loukaba,Loukaba,04,,-1.9666667,11.15
+ga,loukila,Loukila,04,,-2.2166667,11.5833333
+ga,loulou,Loulou,04,,-1.9166667,11.8
+ga,lounalou,Lounalou,04,,-1.1333333,11.55
+ga,loundzou,Loundzou,04,,-2.15,11.75
+ga,lounga,Lounga,06,,0.7166667,13.8666667
+ga,loungou zambi,Loungou Zambi,05,,-3.75,11.0333333
+ga,lounzou,Lounzou,04,,-2.15,11.75
+ga,loussala,Loussala,05,,-2.3166667,10.6166667
+ga,lvouta,Lvouta,04,,-1.9833333,11.3166667
+ga,lyodia,Lyodia,06,,-0.1166667,11.9666667
+ga,mabagou,Mabagou,05,,-3.35,10.7
+ga,mabala,Mabala,05,,-2.35,11.0833333
+ga,maba,Maba,02,,-1.6333333,13.55
+ga,mabana,Mabana,09,,2.1,11.7
+ga,mabanga,Mabanga,04,,-2.45,11.2666667
+ga,mabang ii,Mabang II,09,,1.8166667,11.7333333
+ga,mabang i,Mabang I,09,,1.8333333,11.7333333
+ga,mabang,Mabang,09,,1.8833333,11.85
+ga,mabangui,Mabangui,04,,-1.3833333,11.7833333
+ga,mabele,Mabélé,03,,-0.45,10.5166667
+ga,mabemandouma,Mabémandouma,06,,0.95,13.95
+ga,mabenda,Mabenda,07,,-1.6166667,12.8166667
+ga,mabendj,Mabendj,01,,0.9666667,9.7833333
+ga,mabengi,Mabengi,01,,0.9666667,9.7833333
+ga,mabengo,Mabengo,04,,-1.95,10.9666667
+ga,mabengo,Mabengo,07,,-1.4,12.0666667
+ga,mabey,Mabey,04,,-1.5166667,10.4666667
+ga,mabili,Mabili,05,,-3.2666667,11.55
+ga,mabinga,Mabinga,02,,-1.5,13.1666667
+ga,maboka,Maboka,05,,-3.3333333,10.7
+ga,mabonkori,Mabonkori,07,,-0.9333333,12.8833333
+ga,mabou,Mabou,05,,-3.0166667,11.5166667
+ga,mabouma,Mabouma,05,,-2.7166667,11.0
+ga,mabounda,Mabounda,07,,-1.3333333,12.3333333
+ga,mabounga,Mabounga,05,,-2.8666667,11.0166667
+ga,mabouriga,Mabouriga,05,,-2.7333333,11.1333333
+ga,maboussou,Maboussou,05,,-2.9833333,11.7166667
+ga,mabouya,Mabouya,07,,-1.4666667,12.5
+ga,mabvounoungou,Mabvounoungou,02,,-1.8166667,13.5833333
+ga,macadioum,Macadioum,07,,-1.85,12.6833333
+ga,macadium,Macadium,06,,-0.3166667,12.3666667
+ga,macadium,Macadium,07,,-0.5666667,12.4166667
+ga,macadyoum,Macadyoum,06,,-0.3166667,12.3666667
+ga,macanda,Macanda,04,,-1.9333333,10.9666667
+ga,macoc,Macoc,01,,-0.0166667,9.5833333
+ga,macok,Macok,01,,-0.0166667,9.5833333
+ga,macouma,Macouma,01,,0.3833333,9.5333333
+ga,macoungouloa,Macoungouloa,07,,-1.2166667,12.7333333
+ga,macouti,Macouti,04,,-1.9666667,11.9166667
+ga,macouzca,Macouzca,06,,0.05,13.65
+ga,macuma,Macuma,01,,0.3833333,9.5333333
+ga,macwi,Maçwi,04,,-1.3833333,11.6333333
+ga,madaga,Madaga,01,,0.2833333,10.0666667
+ga,madangou,Madangou,04,,-1.2166667,10.6166667
+ga,madankogo,Madankogo,03,,-0.5333333,10.3
+ga,madankoyo,Madankoyo,03,,-0.5333333,10.3
+ga,madekele,Madekélé,01,,0.8,9.6166667
+ga,madekelo,Madékélo,01,,0.8,9.6166667
+ga,madianza,Madianza,07,,-0.8666667,12.5833333
+ga,madiba,Madiba,02,,-1.9666667,13.55
+ga,madiba,Madiba,04,,-2.25,12.35
+ga,madiela,Madiela,04,,-1.5833333,10.05
+ga,madinga,Madinga,07,,-0.3,12.7833333
+ga,madioumba,Madioumba,04,,-2.15,11.6166667
+ga,madjaye,Madjayé,07,,-1.15,13.0166667
+ga,madjingo,Madjingo,06,,1.3666667,14.0666667
+ga,madonga,Madonga,05,,-2.4666667,10.9166667
+ga,madzaya,Madzaya,02,,-1.6833333,13.2666667
+ga,mafak,Mafak,09,,1.8,11.7333333
+ga,mafa,Mafa,01,,0.1833333,10.05
+ga,mafouka ii,Mafouka II,06,,0.9833333,13.95
+ga,mafouka i,Mafouka I,06,,0.8333333,13.5
+ga,mafouka,Mafouka,06,,0.7666667,12.9666667
+ga,mafou,Mafou,01,,0.1833333,10.05
+ga,mafu,Mafu,01,,0.1833333,10.05
+ga,magabica,Magabica,05,,-2.9166667,11.3666667
+ga,magabiga,Magabiga,04,,-2.5666667,11.6
+ga,magabiga,Magabiga,05,,-2.8,10.95
+ga,magabika,Magabika,05,,-2.5833333,10.8333333
+ga,magagana,Magagana,04,,-1.65,11.65
+ga,magama,Magama,02,,-1.6166667,13.45
+ga,magassiala,Magassiala,05,,-2.8166667,11.0666667
+ga,magname,Magnamé,09,,2.1,11.6666667
+ga,magnigma-mbomo,Magnigma-Mbomo,07,,-0.9666667,13.0166667
+ga,magnima,Magnima,02,,-1.6166667,12.85
+ga,magnimba,Magnimba,06,,-0.4833333,11.7666667
+ga,magnon,Magnon,03,,-0.1833333,10.7
+ga,magnon,Magnon,06,,0.7333333,12.95
+ga,magombolala,Magombolala,07,,-1.8166667,12.6666667
+ga,magonga,Magonga,05,,-3.2833333,11.7166667
+ga,magouanga,Magouanga,04,,-2.15,11.6166667
+ga,magoumba,Magoumba,05,,-2.35,11.05
+ga,magounga,Magounga,04,,-1.55,11.7333333
+ga,magounga,Magounga,05,,-2.4333333,11.0833333
+ga,magueni,Magueni,04,,-2.3166667,11.4166667
+ga,maguidou,Maguidou,04,,-2.3,11.4666667
+ga,mahengyedi ii,Mahengyédi II,06,,0.7833333,13.4
+ga,mahibore,Mahiboré,06,,-0.0666667,11.9166667
+ga,mahina bouissi,Mahina Bouissi,05,,-3.35,11.65
+ga,mahinda,Mahinda,06,,0.1666667,13.5
+ga,mahouna,Mahouna,07,,-0.8666667,12.6666667
+ga,mahounda,Mahounda,04,,-2.2,11.5666667
+ga,mahounda,Mahounda,07,,-1.3833333,12.1166667
+ga,mahounga,Mahounga,04,,-2.3333333,11.3333333
+ga,maila,Maïla,02,,-1.4,13.3333333
+ga,makaa,Makaa,09,,2.2,12.0333333
+ga,makabana,Makabana,04,,-2.25,11.45
+ga,makabana,Makabana,05,,-2.5,10.9
+ga,makaba ndilo,Makaba Ndilo,05,,-3.0666667,10.8166667
+ga,makaga,Makaga,09,,2.0833333,11.95
+ga,makakou,Makakou,06,,-0.1833333,12.2
+ga,makala,Makala,03,,-0.1833333,10.7666667
+ga,makana,Makana,02,,-1.6333333,13.5333333
+ga,makana,Makana,04,,-1.4333333,10.2
+ga,makana,Makana,06,,0.8833333,13.9833333
+ga,makanana,Makanana,05,,-2.9333333,11.7
+ga,makanda,Makanda,04,,-1.9333333,10.9666667
+ga,makanda,Makanda,05,,-3.1333333,11.3333333
+ga,makaneni,Makaneni,09,,0.5333333,11.4333333
+ga,makanga,Makanga,05,,-3.2166667,11.4666667
+ga,makanga,Makanga,09,,2.1833333,11.9833333
+ga,makangonio,Makangonio,04,,-1.9166667,11.4833333
+ga,makao,Makao,06,,0.7333333,13.2166667
+ga,makaramenzork,Makaramenzork,03,,-0.1333333,10.5333333
+ga,makatamagoye,Makatamagoye,02,,-0.2833333,13.7
+ga,makebe,Makebe,06,,0.0666667,13.6333333
+ga,makegni,Makegni,04,,-2.1,11.8833333
+ga,makekou,Makékou,06,,-0.1833333,12.2
+ga,makiena,Makiena,05,,-3.35,10.6833333
+ga,makina-bouissi,Makina-Bouissi,05,,-3.35,11.65
+ga,makok,Makok,01,,-0.0166667,9.5833333
+ga,makoko,Makoko,07,,-1.35,12.5833333
+ga,makokoue,Makokoué,03,,-0.4833333,10.4333333
+ga,makokou fortifie,Makokou Fortifié,06,,0.5666667,12.8666667
+ga,makokou,Makokou,06,13571,0.5666667,12.8666667
+ga,makombo,Makombo,04,,-2.2166667,11.5
+ga,makondzi,Makondzi,04,,-2.3,11.7666667
+ga,makoubou,Makoubou,06,,-0.05,11.9666667
+ga,makoui,Makoui,06,,-0.2333333,12.2666667
+ga,makoungoulou,Makoungoulou,07,,-1.1833333,12.85
+ga,makounou,Makounou,05,,-3.3666667,11.65
+ga,malaba,Malaba,04,,-1.9166667,11.1
+ga,malaba,Malaba,05,,-2.3333333,11.0666667
+ga,malabilila,Malabilila,05,,-2.75,11.5333333
+ga,mala,Mala,01,,0.6,10.3
+ga,malama,Malama,02,,-1.6666667,13.3166667
+ga,malanga,Malanga,04,,-2.3833333,12.25
+ga,malanga,Malanga,05,,-3.1666667,11.4333333
+ga,malanga,Malanga,07,,-1.1333333,12.9666667
+ga,malare,Malaré,06,,-0.05,11.8833333
+ga,malari,Malari,03,,-0.5166667,10.3
+ga,maleba,Maleba,03,,-0.3166667,10.55
+ga,maleba,Maleba,06,,0.6833333,14.1333333
+ga,malembe,Malembé,06,,0.7666667,13.3333333
+ga,malembe,Malembé,07,,-0.9,12.65
+ga,malembo,Malembo,07,,-1.4166667,12.45
+ga,malende,Malendé,07,,-0.8,12.5
+ga,malene bibolo,Malène Bibolo,03,,-0.3,10.45
+ga,malene,Maléne,09,,0.9833333,11.9833333
+ga,malengo,Malengo,07,,-1.5666667,12.1166667
+ga,malenzi,Malenzi,06,,0.75,13.3166667
+ga,malessi,Malessi,04,,-2.2,11.8833333
+ga,malimba,Malimba,03,,-0.85,10.3666667
+ga,malimba,Malimba,04,,-1.7333333,10.8166667
+ga,malimba,Malimba,05,,-2.6833333,11.05
+ga,malinga,Malinga,04,,-2.4166667,12.2333333
+ga,mallebe,Mallébé,07,,-1.2,11.2666667
+ga,mallembe,Mallembé,05,,-3.5666667,10.8833333
+ga,mallima,Mallima,02,,-1.6666667,13.3166667
+ga,malolo,Malolo,05,,-2.45,10.8666667
+ga,malondo,Malondo,06,,0.9166667,13.9666667
+ga,malongo,Malongo,07,,-1.5666667,12.1166667
+ga,malongo-mobei,Malongo-Mobéi,04,,-1.5166667,10.4666667
+ga,mamagnia,Mamagnia,04,,-1.1333333,11.85
+ga,mamania,Mamania,04,,-1.2666667,11.8
+ga,mamaososi,Mamaososi,04,,-2.05,12.1333333
+ga,mambaza,Mambaza,06,,0.75,13.9333333
+ga,mambelo,Mambelo,07,,-0.7833333,12.7333333
+ga,mambi,Mambi,04,,-1.6,10.1166667
+ga,mamboukou,Mamboukou,04,,-1.35,10.2333333
+ga,mambounga,Mambounga,04,,-1.9833333,12.3166667
+ga,mamboungou,Mamboungou,04,,-1.9333333,11.9333333
+ga,mameni ii,Maméni II,09,,2.2,11.5
+ga,mameni i,Maméni I,09,,2.2166667,11.4833333
+ga,mamidi,Mamidi,02,,-1.5333333,13.0666667
+ga,mamidi,Mamidi,07,,-0.7833333,13.3166667
+ga,mamogo,Mamogo,03,,-0.2666667,10.5
+ga,mamondo,Mamondo,07,,-0.9666667,12.7
+ga,manbounga,Manbounga,04,,-1.9833333,12.3166667
+ga,mandaganga,Mandaganga,08,,-1.4166667,9.3166667
+ga,mandilou,Mandilou,04,,-1.2833333,10.6166667
+ga,mandi,Mandi,04,,-1.2666667,10.9833333
+ga,mandji-kili,Mandji-Kili,04,,-1.6,10.4333333
+ga,mandji,Mandji,03,,-0.6833333,9.9833333
+ga,mandji,Mandji,04,,-1.4166667,10.6333333
+ga,mandji,Mandji,06,,-0.1,11.95
+ga,mandji,Mandji,07,,-0.8,12.7166667
+ga,mandji,Mandji,08,,-2.0833333,9.85
+ga,mandombo i,Mandombo I,06,,0.65,14.2333333
+ga,mandombo,Mandombo,06,,0.65,14.2333333
+ga,mandzi,Mandzi,04,,-2.0333333,12.3333333
+ga,manega,Manega,08,,-2.0833333,10.1166667
+ga,manenga,Manenga,07,,-1.0166667,13.0666667
+ga,mangala,Mangala,01,,0.9833333,9.6
+ga,mangama,Mangama,03,,-0.2,10.7333333
+ga,mangara,Mangara,07,,-0.8,12.5333333
+ga,mangoma,Mangoma,06,,0.2333333,13.3333333
+ga,mangono,Mangono,01,,0.9,9.6
+ga,mangoubou,Mangoubou,04,,-2.0666667,12.3333333
+ga,mangoumbou i,Mangoumbou I,04,,-1.6333333,9.8833333
+ga,mangounga,Mangounga,05,,-2.4333333,11.0833333
+ga,mangoungou,Mangoungou,02,,-1.6333333,13.5666667
+ga,manguene,Manguéné,03,,-0.2,10.6
+ga,manguikoume,Manguikoumé,03,,-0.3333333,10.5166667
+ga,manin-manin,Manin-Manin,07,,-1.0166667,12.8666667
+ga,manioc,Manioc,03,,-0.0333333,10.9833333
+ga,manogo,Manogo,02,,-1.5,13.3666667
+ga,mantoua,Mantoua,06,,-0.0833333,11.7666667
+ga,manyal,Manyal,06,,0.9833333,12.9833333
+ga,manzilo,Manzilo,08,,-1.8,9.8333333
+ga,maoukafan,Maoukafan,06,,-0.0666667,11.9
+ga,maoumba,Maoumba,05,,-2.55,10.8166667
+ga,maouya,Maouya,07,,-1.4666667,12.5
+ga,mapaka,Mapaka,02,,-1.8,13.8333333
+ga,mapanga,Mapanga,04,,-2.2166667,11.5
+ga,mapapa,Mapapa,07,,-1.6333333,12.65
+ga,mapfongui,Mapfongui,07,,-1.25,12.9833333
+ga,mapfoungui,Mapfoungui,07,,-1.25,12.9833333
+ga,mapika,Mapika,07,,-1.4333333,12.8833333
+ga,mapinga-vouvou,Mapinga-Vouvou,07,,-1.3166667,12.9
+ga,mapouti,Mapouti,03,,-0.4666667,10.4666667
+ga,maranda,Maranda,07,,-1.7833333,12.6666667
+ga,maremba,Maremba,04,,-1.9833333,11.7166667
+ga,masoucou,Masoucou,07,,-1.4,12.0833333
+ga,masoui,Masoui,04,,-1.3833333,11.6333333
+ga,masoukou,Masoukou,07,,-0.8666667,12.7333333
+ga,massaa,Massaa,06,,0.7333333,13.2
+ga,massaba ii,Massaba II,06,,0.6666667,13.0333333
+ga,massai,Massaï,01,,0.9666667,9.8
+ga,massako,Massako,06,,-0.0333333,11.9666667
+ga,massama,Massama,09,,0.4333333,11.4666667
+ga,massa,Massa,08,,-1.7,9.8666667
+ga,massana,Massana,04,,-1.6833333,10.1666667
+ga,massandze,Massandzé,04,,-1.7666667,11.8166667
+ga,massane,Massane,09,,0.4833333,11.4666667
+ga,massanga iii,Massanga III,05,,-2.8333333,11.0333333
+ga,massanga ii,Massanga II,05,,-2.8333333,11.05
+ga,massanga i,Massanga I,05,,-2.8333333,11.05
+ga,massanga iv,Massanga IV,05,,-2.8333333,11.05
+ga,massanga,Massanga,03,,-0.45,10.4666667
+ga,massanga,Massanga,05,,-2.65,11.3166667
+ga,massaya,Massaya,04,,-2.1333333,10.85
+ga,massayi,Massayi,08,,-2.1166667,10.15
+ga,masseb,Masseb,06,,0.65,12.9166667
+ga,massegue,Massegué,04,,-2.0333333,11.5166667
+ga,masse,Massé,01,,0.9333333,9.8166667
+ga,masse,Massé,06,,0.3333333,12.0666667
+ga,massendjo,Massendjo,04,,-1.6833333,11.9333333
+ga,massenega,Massenéga,06,,1.3333333,14.0833333
+ga,massengo iii,Massengo III,02,,-1.4166667,13.15
+ga,massengo ii,Massengo II,02,,-1.4333333,13.1666667
+ga,massengo i,Massengo I,02,,-1.45,13.1666667
+ga,massengo,Massengo,02,,-1.45,13.1666667
+ga,massika,Massika,03,,-0.8166667,10.35
+ga,massika,Massika,04,,-1.8166667,11.5166667
+ga,massima,Massima,04,,-1.45,11.7
+ga,massimangouandja,Massimangouandja,07,,-0.7333333,12.8833333
+ga,massi-massi,Massi-Massi,07,,-0.35,12.7833333
+ga,massimbou,Massimbou,04,,-1.45,10.2333333
+ga,massiya,Massiya,07,,-1.0166667,11.95
+ga,massoli oubala,Massoli Oubala,05,,-2.7333333,11.1333333
+ga,massombo,Massombo,06,,1.3,14.0833333
+ga,massoro,Massoro,01,,0.5666667,10.6
+ga,massoti,Massoti,05,,-2.4833333,11.2
+ga,massouka,Massouka,03,,-0.7,10.25
+ga,massouka,Massouka,04,,-1.6166667,9.9333333
+ga,massoukou,Massoukou,07,,-0.4166667,12.7166667
+ga,matchimanangani,Matchimanangani,07,,-1.0,12.15
+ga,matchinamana,Matchinamana,07,,-1.0,12.15
+ga,matchiti,Matchiti,05,,-3.4666667,10.75
+ga,matembele,Matembelé,04,,-2.3666667,11.7333333
+ga,matemo,Matemo,07,,-0.8166667,12.75
+ga,matete,Matété,03,,-0.2833333,10.5166667
+ga,matica,Matica,04,,-0.9333333,11.45
+ga,matongo,Matongo,07,,-1.2166667,12.6
+ga,matora,Matora,06,,0.2666667,11.6833333
+ga,matoro,Matoro,07,,-0.95,12.95
+ga,matote ii,Matoté II,06,,0.85,13.5333333
+ga,matote i,Matoté I,06,,0.8333333,13.5
+ga,matoulou,Matoulou,03,,-0.25,10.5333333
+ga,matoumba,Matoumba,07,,-1.25,12.4666667
+ga,matoungou,Matoungou,05,,-2.6833333,11.3666667
+ga,matsanfou,Matsanfou,05,,-3.0666667,11.6
+ga,matsingou,Matsingou,04,,-2.2833333,11.8833333
+ga,matsioumba,Matsioumba,04,,-2.0333333,11.9166667
+ga,matsoumba,Matsoumba,05,,-3.2333333,11.5
+ga,mavaco,Mavaco,04,,-1.2833333,11.3
+ga,mavene,Mavéné,06,,-0.1,11.95
+ga,mavindji-posso,Mavindji-Posso,02,,-1.55,13.2
+ga,mavouama,Mavouama,02,,-1.6,13.5666667
+ga,mavoula,Mavoula,04,,-2.4,11.4166667
+ga,mavoul,Mavoul,01,,-0.0166667,9.7666667
+ga,mavou,Mavou,04,,-1.5666667,10.0333333
+ga,mavumba,Mavumba,05,,-3.4166667,10.65
+ga,mayabi,Mayabi,07,,-1.1,11.9833333
+ga,mayamba,Mayamba,05,,-2.9666667,10.5666667
+ga,mayamba,Mayamba,07,,-1.25,12.6666667
+ga,mayani,Mayani,04,,-1.6833333,11.85
+ga,mayani,Mayani,07,,-1.6666667,12.15
+ga,mayaya,Mayaya,01,,0.3,9.5833333
+ga,mayazaipepa,Mayazaïpépa,06,,0.9,13.9666667
+ga,mayebout,Mayébout,06,,1.1,13.1166667
+ga,mayebut,Mayebut,06,,1.1,13.1166667
+ga,mayeguede,Mayéguédé,07,,-1.4833333,12.8666667
+ga,mayela,Mayela,07,,-0.8666667,12.8166667
+ga,mayeliga,Mayeliga,03,,-0.7333333,10.3
+ga,mayemba,Mayemba,07,,-0.9833333,12.75
+ga,mayene ii,Mayéné II,03,,-0.1,10.8166667
+ga,mayene ii,Mayené II,06,,0.0,11.9
+ga,mayene,Mayéné,03,,-0.1,10.8166667
+ga,mayenga,Mayenga,04,,-2.2333333,11.4666667
+ga,mayengone,Mayengone,01,,0.1166667,10.3166667
+ga,mayenguele,Mayenguelé,07,,-1.4833333,12.8666667
+ga,mayengue,Mayengue,03,,-0.7333333,10.3333333
+ga,mayengue,Mayengué,04,,-1.2833333,11.8166667
+ga,mayiga,Mayiga,06,,0.5666667,12.85
+ga,mayingue,Mayingue,07,,-1.2166667,11.9166667
+ga,mayoba,Mayoba,07,,-0.8166667,12.7666667
+ga,mayombo,Mayombo,05,,-2.7333333,10.8166667
+ga,mayoumba,Mayoumba,05,,-3.4166667,10.65
+ga,mayumba et lebe,Mayumba et Lebé,04,,-2.3166667,11.9
+ga,mayumba,Mayumba,05,3996,-3.4166667,10.65
+ga,mazinga,Mazinga,04,,-2.4,12.2333333
+ga,mbadi,Mbadi,04,,-1.1666667,10.9166667
+ga,m'bafane,M'Bafane,01,,0.6166667,9.6666667
+ga,mbafane,Mbafane,09,,2.0833333,11.5
+ga,mbafan,Mbafan,01,,0.6166667,9.6666667
+ga,mbalene,Mbalene,01,,0.4166667,10.1
+ga,mbama,Mbama,04,,-1.9,11.9666667
+ga,m'bama,M'Bama,04,,-2.15,11.8833333
+ga,mbamayong,Mbamayong,01,,0.55,9.7833333
+ga,mba,Mba,09,,1.75,11.5
+ga,mbam,Mbam,09,,1.3666667,11.6666667
+ga,mbanga,Mbanga,09,,1.6166667,11.6833333
+ga,mbang-ele,Mbang-Elé,09,,2.1333333,11.4833333
+ga,mbas,Mbas,09,,2.15,12.0833333
+ga,mbaya,Mbaya,04,,-1.9166667,11.4833333
+ga,mbe ayo,Mbé Ayo,09,,0.9,10.5666667
+ga,mbebengui,Mbebengui,06,,0.5833333,12.75
+ga,mbekila,Mbékila,05,,-3.0333333,11.7166667
+ga,mbela,Mbéla,06,,0.9666667,13.85
+ga,mbelatem,Mbelatem,09,,0.8833333,11.35
+ga,mbele,Mbélé,06,,0.6833333,14.1
+ga,mbeligui,Mbeligui,09,,1.95,11.35
+ga,mbembam,Mbembam,06,,-0.0833333,11.95
+ga,mbenga,Mbenga,09,,1.6166667,11.6833333
+ga,mbengue,Mbengué,04,,-2.0333333,11.1166667
+ga,mbengui,Mbengui,08,,-2.05,10.0666667
+ga,mbey,Mbey,06,,0.6833333,13.8333333
+ga,mbeza,Mbéza,06,,0.6,12.9333333
+ga,mbia,Mbia,02,,-1.2333333,14.2
+ga,mbidiga,Mbidiga,05,,-2.6666667,11.35
+ga,mbie,Mbié,02,,-1.85,14.2
+ga,mbighou,Mbighou,07,,-1.4,12.3833333
+ga,mbigou,Mbigou,03,,-0.9,10.4
+ga,mbigou,Mbigou,04,,-1.6333333,10.7
+ga,m'bigou,M'bigou,04,,-1.8833333,11.9333333
+ga,mbigou,Mbigou,04,4134,-1.8833333,11.9333333
+ga,mbigou,Mbigou,07,,-1.1,11.95
+ga,mbila nzambi,Mbila Nzambi,04,,-1.5666667,10.0666667
+ga,mbilatem,Mbilatem,03,,-0.3333333,10.5
+ga,mbimba,Mbimba,04,,-1.95,11.7833333
+ga,mbina letembe,Mbina Letembe,04,,-2.3166667,11.65
+ga,mbinda,Mbinda,08,,-1.0,9.0666667
+ga,mbingal,Mbingal,07,,-0.9833333,11.9333333
+ga,mbinga,Mbinga,04,,-1.9333333,11.8166667
+ga,mbira ii,Mbira II,08,,-2.1,10.2666667
+ga,mbira i,Mbira I,08,,-2.1333333,10.2666667
+ga,mbissa,Mbissa,09,,0.6833333,10.9833333
+ga,mbissi,Mbissi,05,,-2.9333333,10.3833333
+ga,mbizo,Mbizo,06,,0.6666667,14.1666667
+ga,mboa,Mboa,06,,0.5833333,12.7
+ga,mboga,Mboga,08,,-1.0,9.3833333
+ga,mbogha,Mbogha,01,,0.1833333,9.9333333
+ga,mbojo,Mbojo,04,,-2.05,11.7333333
+ga,mboki,Mboki,02,,-2.0666667,13.65
+ga,mbolendzork,Mbolendzork,09,,0.9333333,11.2833333
+ga,mbolen-nzork,Mbolen-Nzork,01,,0.1833333,9.75
+ga,mbolensok,Mbolensok,09,,0.9333333,11.2833333
+ga,mbolenzo,Mbolenzo,09,,0.65,11.1166667
+ga,mbolenzork,Mbolenzork,09,,0.9333333,11.2833333
+ga,mboleunzork,Mboleunzork,09,,0.9333333,11.2833333
+ga,mbolonzok,Mbolonzok,09,,1.4833333,11.45
+ga,mboma-makama,Mboma-Makama,02,,-1.3333333,13.35
+ga,mboma,Mboma,02,,-1.7666667,14.0833333
+ga,mboma,Mboma,05,,-2.9833333,10.8833333
+ga,mboma,Mboma,06,,0.3333333,11.4666667
+ga,mboma,Mboma,09,,1.3833333,11.5833333
+ga,mbomao,Mbomao,06,,0.3333333,11.4833333
+ga,mbo,Mbo,09,,2.0166667,11.3666667
+ga,mbomo ii,Mbomo II,09,,2.0666667,11.95
+ga,mbomo i,Mbomo I,09,,2.0666667,11.95
+ga,mbomo,Mbomo,02,,-0.3166667,13.7
+ga,mbomo,Mbomo,06,,0.3166667,11.55
+ga,mbomo,Mbomo,07,,-0.8333333,12.8333333
+ga,mbomo,Mbomo,09,,1.8333333,11.4833333
+ga,mbonde,Mbondé,08,,-0.6333333,8.7
+ga,mbondo malonge,Mbondo Malonge,06,,0.3,11.6833333
+ga,mbondo,Mbondo,07,,-0.0333333,12.9833333
+ga,mbone,Mbone,01,,0.5833333,9.8
+ga,mbong-ele,Mbong-Elé,09,,1.5333333,11.8333333
+ga,mbonha,Mbonha,07,,-0.85,12.6666667
+ga,mbon mogel,Mbon Mogel,01,,0.3333333,9.6333333
+ga,mboua,Mboua,02,,-2.1333333,13.7333333
+ga,mbouda ii,Mbouda II,04,,-2.25,11.45
+ga,mbouda,Mbouda,04,,-2.2833333,11.6
+ga,mboudou,Mboudou,08,,-0.6333333,9.1166667
+ga,mbougou,Mbougou,07,,-1.0833333,11.9166667
+ga,mbouissi,Mbouissi,05,,-3.2666667,10.6833333
+ga,mboukou,Mboukou,04,,-1.7166667,10.8
+ga,mboukou,Mboukou,05,,-2.45,10.7333333
+ga,mboula,Mboula,05,,-2.6833333,10.6166667
+ga,mboula,Mboula,06,,0.6166667,12.8833333
+ga,mboulet,Mboulet,06,,1.1833333,14.1166667
+ga,mboumba,Mboumba,08,,-0.9,9.6166667
+ga,mboum,Mboum,09,,0.7666667,11.65
+ga,mboundou,Mboundou,06,,0.3666667,13.0833333
+ga,mbounga,Mbounga,02,,-0.9333333,13.55
+ga,mboungou,Mboungou,04,,-2.0833333,11.15
+ga,mbourandou,Mbourandou,08,,-2.0833333,10.1166667
+ga,mebama,Mébama,09,,2.1,11.7
+ga,mebameu,Mébameu,09,,2.1,11.7
+ga,mebana,Mébana,09,,2.2166667,11.7166667
+ga,mebang,Mebang,06,,0.3333333,12.15
+ga,mebaza,Mébaza,09,,2.0333333,11.4333333
+ga,mebba ii,Mebba II,01,,0.4333333,9.7833333
+ga,mebba i,Mebba I,01,,0.4333333,9.7833333
+ga,meben ii,Mében II,09,,2.1333333,12.15
+ga,meben i,Mében I,09,,2.1333333,12.15
+ga,mebeu,Mebeu,09,,0.6333333,11.5
+ga,meboko,Méboko,09,,2.1666667,11.3666667
+ga,mebolo ii,Mébolo II,09,,0.9333333,11.1
+ga,mebolo,Mébolo,09,,0.9166667,11.0833333
+ga,mebomeu,Mebomeu,09,,2.1,11.7
+ga,mechui,Mechui,01,,0.6166667,10.5166667
+ga,meconga,Méconga,06,,0.1166667,13.5666667
+ga,medegue,Médégué,01,,0.6166667,10.1333333
+ga,medjong,Medjong,09,,2.15,12.1
+ga,medoumou iii,Medoumou III,09,,1.7833333,11.6333333
+ga,medoumou ii,Medoumou II,09,,1.7666667,11.6333333
+ga,medoumou i,Medoumou I,09,,1.7666667,11.6333333
+ga,medoumou,Medoumou,09,,1.9333333,11.5166667
+ga,medouneu,Médouneu,09,,0.95,10.7833333
+ga,medoung,Médoung,09,,2.0333333,11.6333333
+ga,medzem ii,Medzem II,09,,1.4666667,11.45
+ga,medzem i,Medzem I,09,,1.45,11.4333333
+ga,medzui,Medzui,09,,0.75,11.5166667
+ga,mefana,Mefana,09,,1.5333333,11.6
+ga,mefia,Méfia,01,,0.8,9.6833333
+ga,mekaga,Mekaga,09,,1.6166667,11.5666667
+ga,mekak,Mékak,09,,2.0833333,11.5166667
+ga,mekambo,Mékambo,06,,1.0166667,13.9333333
+ga,meka,Meka,09,,0.55,11.1833333
+ga,mekamenzogh,Mekamenzogh,01,,0.8,9.6166667
+ga,mekampo,Mekampo,06,,1.0166667,13.9333333
+ga,meke-meke,Meke-Meke,03,,-0.1833333,10.6833333
+ga,mekina,Mékina,01,,1.0166667,9.6666667
+ga,mekob,Mékob,06,,0.6833333,12.9166667
+ga,mekoga,Mekoga,09,,1.85,11.45
+ga,mekok,Mekok,09,,1.7833333,11.4833333
+ga,meko,Meko,06,,0.85,13.5333333
+ga,mekome,Mekome,09,,2.0,11.6333333
+ga,mekomo esseng,Mékomo Esseng,09,,2.1833333,11.3833333
+ga,mekomo iii,Mékomo III,09,,2.2166667,11.4
+ga,mekomo ii,Mékomo II,09,,2.2166667,11.4
+ga,mekomo i,Mékomo I,09,,2.2333333,11.4
+ga,mekomo,Mèkomo,09,,1.8166667,11.4333333
+ga,mekonaname,Mékonaname,01,,0.3666667,9.7666667
+ga,mekone,Mekone,09,,1.8833333,11.85
+ga,mekongo,Mékongo,09,,0.95,11.65
+ga,mekoue,Mékoué,09,,2.2333333,11.5
+ga,melagni,Mélagni,06,,-0.5166667,11.7833333
+ga,mela,Mela,01,,0.6,10.3
+ga,melane,Melané,06,,0.3333333,12.0166667
+ga,melark,Melark,09,,0.8833333,10.95
+ga,meleme,Meleme,09,,1.9666667,11.6166667
+ga,melene ii,Melene II,09,,1.8333333,11.75
+ga,melene i,Melene I,09,,1.8666667,11.75
+ga,melene,Melène,09,,1.5666667,11.3833333
+ga,melen,Melen,01,,0.2166667,10.0666667
+ga,melen,Melen,09,,2.0166667,11.6
+ga,melep,Melep,09,,2.2666667,11.4833333
+ga,meli,Mèli,04,,-1.6833333,10.4
+ga,melole,Mélolé,07,,-0.65,12.6333333
+ga,melongo,Mélongo,06,,0.7166667,13.8833333
+ga,memba,Memba,04,,-1.3166667,11.3333333
+ga,membang,Membang,09,,2.1,11.4833333
+ga,memboum,Memboum,09,,1.0666667,11.7833333
+ga,mempolo,Mempolo,03,,-0.8333333,10.1333333
+ga,memveme,Memvéme,03,,-0.2666667,10.6166667
+ga,memveme,Memveme,09,,1.8833333,11.85
+ga,menai,Menaï,02,,-1.6166667,13.6166667
+ga,mendock,Mendock,09,,1.5666667,11.45
+ga,mendomo,Mendomo,09,,1.9833333,11.4333333
+ga,mendouga,Mendouga,01,,0.6333333,10.1
+ga,mendoum,Mendoum,09,,1.4166667,11.6
+ga,mendoung,Mendoung,09,,1.7833333,11.5666667
+ga,menenga,Menenga,07,,-0.9166667,12.8833333
+ga,mengang ii,Mengang II,09,,1.85,11.75
+ga,mengang i,Mengang I,09,,1.85,11.7666667
+ga,menguele,Menguele,08,,-2.0166667,9.5
+ga,mengue-miloba,Mengue-Miloba,07,,-1.25,12.9166667
+ga,mengui,Mengui,08,,-1.9666667,10.1666667
+ga,menkoga,Menkoga,09,,2.2333333,11.6333333
+ga,menoue,Menoue,09,,0.9166667,11.7
+ga,mesonkore,Mesonkoré,03,,-0.5166667,10.3166667
+ga,messama,Messama,09,,2.0,11.4833333
+ga,messami ii,Messami II,02,,-2.1166667,13.7166667
+ga,messami i,Messami I,02,,-2.15,13.7
+ga,messami,Messami,02,,-2.1166667,13.7166667
+ga,messana,Messana,04,,-1.5833333,10.1333333
+ga,messang,Messang,01,,0.2666667,10.25
+ga,messang,Messang,09,,2.05,11.4833333
+ga,messon effak,Messon Effak,09,,2.1833333,11.3833333
+ga,messoum,Messoum,01,,0.4166667,10.0
+ga,metak,Metak,09,,0.8833333,10.95
+ga,metala,Métala,01,,1.0333333,9.6666667
+ga,metark,Métark,09,,0.8833333,10.95
+ga,meteo,Metéo,02,,-1.6333333,13.5833333
+ga,methui,Methui,09,,1.5,11.6
+ga,metomo iii,Metomo III,09,,1.7166667,11.5666667
+ga,metomo ii,Metomo II,09,,1.7166667,11.5666667
+ga,metomo i,Metomo I,09,,1.7,11.5666667
+ga,metou,Métou,09,,2.1166667,12.15
+ga,metui,Métui,09,,2.0833333,11.3833333
+ga,metunga,Metunga,06,,0.7666667,13.35
+ga,mevang,Mevang,03,,0.0666667,11.0666667
+ga,meyo eba,Meyo Eba,09,,2.2666667,11.5833333
+ga,meyo ii,Meyo II,09,,2.25,11.6166667
+ga,meyo i,Meyo I,09,,2.25,11.6
+ga,meyo-kye,Meyo-Kyé,09,,2.1666667,11.3666667
+ga,meyo,Meyo,09,,2.2,11.7833333
+ga,meyong,Méyong,03,,-0.1,10.85
+ga,meyos ii,Meyos II,09,,2.0,11.9166667
+ga,meyos i,Meyos I,09,,2.0166667,11.9166667
+ga,mezata,Mézata,09,,2.2,11.7666667
+ga,mfagne ii,Mfagne II,09,,1.9,11.85
+ga,mfagne i,Mfagne I,09,,1.9166667,11.8666667
+ga,mfang,Mfang,01,,0.25,10.1
+ga,mfaye,Mfaye,09,,0.7,11.2333333
+ga,mfeme,Mfémé,01,,0.1166667,10.1666667
+ga,mfoa-arebe,Mfoa-Arebe,01,,0.3666667,10.2166667
+ga,mfoa,Mfoa,01,,0.4,10.3
+ga,mfoua-avebe,Mfoua-Avebé,01,,0.2833333,10.0166667
+ga,m'foua,M'Foua,01,,0.4,10.3
+ga,mfoua,Mfoua,03,,-0.3666667,10.4666667
+ga,mfoubou,Mfoubou,04,,-1.7333333,11.9
+ga,mfoukoualou,Mfoukoualou,05,,-2.5666667,10.8333333
+ga,mfoulayong,Mfoulayong,01,,0.5166667,9.9333333
+ga,mfoulenzem,Mfoulenzem,01,,-0.05,9.6
+ga,mfoul mengoma,Mfoul Mengoma,01,,0.4166667,10.2166667
+ga,mfoul,Mfoul,09,,1.5666667,11.5833333
+ga,mfoume,Mfoumé,03,,-0.1833333,10.7166667
+ga,mfoumou ii,Mfoumou II,09,,2.1666667,11.3833333
+ga,mfoumou i,Mfoumou I,09,,2.1833333,11.3833333
+ga,mful ii,Mful II,09,,0.95,11.55
+ga,mful i,Mful I,09,,0.9333333,11.55
+ga,miare,Miare,09,,0.45,11.4666667
+ga,mibaca,Mibaca,07,,-1.1,12.3833333
+ga,mibaka,Mibaka,07,,-1.1,12.3833333
+ga,mibang ii,Mibang II,09,,1.2666667,11.6
+ga,mibang i,Mibang I,09,,1.3,11.5833333
+ga,mibang,Mibang,09,,1.3,11.5833333
+ga,mibene,Mibene,09,,1.3166667,11.7
+ga,mibeng,Mibeng,09,,1.3333333,11.6833333
+ga,mibengue,Mibengué,07,,-0.8166667,12.7833333
+ga,mibili,Mibili,05,,-2.9333333,11.25
+ga,miboko,Miboko,07,,-1.1333333,12.4
+ga,miboue,Miboué,09,,1.55,11.4
+ga,mibouka,Mibouka,04,,-2.2666667,11.9166667
+ga,micouca,Micouca,07,,-1.0333333,12.8833333
+ga,micouma,Micouma,04,,-2.1,11.7833333
+ga,micoungala,Micoungala,07,,-1.0,12.7333333
+ga,midimba,Midimba,07,,-1.1833333,12.4333333
+ga,midouma et ngouassa,Midouma et Ngouassa,07,,-1.4333333,12.3833333
+ga,midouma,Midouma,05,,-2.75,11.4333333
+ga,midouma,Midouma,07,,-1.4333333,12.0333333
+ga,midzik,Midzik,09,,0.7833333,11.5666667
+ga,migamba,Migamba,05,,-2.5333333,11.1833333
+ga,migele,Migelé,09,,1.7166667,11.4666667
+ga,migola,Migola,04,,-2.1333333,10.8166667
+ga,migoma,Migoma,05,,-2.8,11.05
+ga,miguengui,Miguengui,05,,-3.0333333,10.8333333
+ga,mihoumbi,Mihoumbi,04,,-2.3166667,11.3333333
+ga,mikaga,Mikaga,09,,1.5833333,11.5333333
+ga,mikanda,Mikanda,05,,-2.9166667,11.6833333
+ga,mikanga,Mikanga,05,,-2.7333333,11.35
+ga,mikengue,Mikengué,04,,-1.65,11.6
+ga,mikengue,Mikengué,07,,-0.8333333,12.8666667
+ga,mikidou,Mikidou,04,,-2.35,11.5333333
+ga,mikoko,Mikoko,05,,-2.4666667,10.8
+ga,mikolongo,Mikolongo,01,,0.75,9.65
+ga,mikongo,Mikongo,06,,-0.3833333,11.7666667
+ga,mikonibe,Mikonibé,09,,0.85,11.55
+ga,mikoro missong,Mikoro Missong,03,,0.0333333,11.0166667
+ga,mikouagni,Mikouagni,02,,-1.5666667,12.9666667
+ga,mikouandza ii,Mikouandza II,04,,-1.9166667,12.2166667
+ga,mikouandza le petit,Mikouandza le Petit,04,,-1.95,12.2333333
+ga,mikouka,Mikouka,07,,-0.05,12.95
+ga,mikouma,Mikouma,04,,-1.7666667,12.0333333
+ga,mikouma,Mikouma,07,,-0.9,12.7333333
+ga,mikoumou,Mikoumou,04,,-1.7666667,12.0333333
+ga,mikouya,Mikouya,07,,-0.8833333,12.65
+ga,milando,Milando,05,,-2.65,10.6833333
+ga,milandou,Milandou,05,,-3.0333333,10.4333333
+ga,miledi,Miledi,07,,-0.8333333,12.8
+ga,milembie,Milembié,01,,0.6833333,9.65
+ga,milolo,Milolo,05,,-2.9833333,10.85
+ga,mimango,Mimango,04,,-1.1833333,11.6
+ga,mimbale-mibe,Mimbalé-Mibé,03,,-0.2333333,10.55
+ga,mimbalimbe,Mimbalimbé,03,,-0.8833333,10.15
+ga,mimba,Mimba,04,,-2.0,11.5666667
+ga,mimbanda,Mimbanda,04,,-0.9333333,10.6
+ga,mimbang,Mimbang,09,,1.3,11.5833333
+ga,mimbi,Mimbi,01,,0.5833333,10.7
+ga,mimbong,Mimbong,09,,0.6666667,11.1666667
+ga,mimongo et kembele,Mimongo et Kembélé,07,,-1.4666667,12.35
+ga,mimongo,Mimongo,04,3307,-1.6333333,11.65
+ga,mimvoul,Mimvoul,06,,-0.05,11.9
+ga,mimvoul,Mimvoul,09,,2.15,12.1333333
+ga,mina,Mina,02,,-0.4333333,13.7
+ga,mina,Mina,06,,0.7666667,13.3
+ga,mina-mina,Mina-Mina,07,,-0.85,12.5666667
+ga,mindala,Mindala,04,,-2.3,11.4333333
+ga,mindara,Mindara,03,,-0.2666667,10.7833333
+ga,mindemba,Mindemba,06,,0.6833333,14.15
+ga,mindili-elebe,Mindili-Elébé,02,,-1.4666667,13.45
+ga,mindomo,Mindomo,09,,2.0666667,11.9666667
+ga,mindoube,Mindoube,01,,0.3666667,9.5
+ga,mindoubi,Mindoubi,05,,-2.65,11.45
+ga,mindoumou,Mindoumou,09,,2.2,12.1333333
+ga,mindzi,Mindzi,09,,0.5666667,11.4666667
+ga,mingala,Mingala,02,,-1.6333333,13.5
+ga,minganga,Minganga,04,,-2.4666667,11.3333333
+ga,mingara,Mingara,02,,-1.6333333,13.55
+ga,mingola,Mingola,04,,-2.1166667,10.9
+ga,mingondza,Mingondza,02,,-0.7833333,13.4666667
+ga,mingouni,Mingouni,02,,-1.6833333,13.5666667
+ga,minguengue,Minguengué,05,,-3.0166667,10.85
+ga,minkebe,Minkébé,09,,1.7666667,12.8
+ga,minkene,Minkéné,09,,2.1,12.05
+ga,minkokmisseng,Minkokmisseng,09,,2.2333333,11.7333333
+ga,minko mibe,Minko Mibé,09,,0.8833333,11.6333333
+ga,minkone,Minkone,09,,2.1,11.9833333
+ga,mintebe,Mintébé,09,,2.1666667,12.1333333
+ga,minte,Minté,06,,0.4666667,12.3833333
+ga,mintoum,Mintoum,06,,0.45,12.2666667
+ga,minvoul,Minvoul,09,,2.15,12.1333333
+ga,minziandzi,Minziandzi,05,,-2.7666667,10.8833333
+ga,minzimitome,Minzimitome,09,,1.95,11.4333333
+ga,miongo,Miongo,04,,-1.9166667,11.4666667
+ga,miporapoussa,Miporapoussa,07,,-0.9333333,12.7833333
+ga,mipoundi iii,Mipoundi III,02,,-1.7666667,13.15
+ga,mipoundi ii,Mipoundi II,02,,-1.7833333,13.15
+ga,mipoundi i,Mipoundi I,02,,-1.7666667,13.1833333
+ga,mipoundi,Mipoundi,02,,-1.7666667,13.2
+ga,mirendi,Mirendi,05,,-3.25,10.6833333
+ga,misonyi,Misonyi,04,,-2.3666667,12.4
+ga,missala,Missala,07,,-0.85,12.7333333
+ga,missassa,Missassa,05,,-2.45,11.1833333
+ga,misseghe,Misseghé,01,,0.1666667,10.1666667
+ga,missele,Missele,09,,0.7833333,11.7666667
+ga,missigou,Missigou,04,,-2.1833333,11.6
+ga,missigou,Missigou,05,,-2.7166667,11.15
+ga,mission protestante de samkita,Mission Protestante de Samkita,03,,-0.45,10.45
+ga,mission sainte-anne,Mission Sainte-Anne,08,,-1.65,9.4
+ga,missoti,Missoti,05,,-2.5,10.7666667
+ga,missouli,Missouli,05,,-2.9666667,11.8
+ga,mitende,Mitendé,06,,-0.6333333,11.8
+ga,mitendi,Mitendi,06,,-0.6333333,11.8
+ga,mitingo,Mitingo,04,,-1.95,11.4833333
+ga,mitingou,Mitingou,04,,-1.8333333,11.5
+ga,mitoundoulou,Mitoundoulou,04,,-1.8833333,12.1333333
+ga,mitounga,Mitounga,07,,-1.6833333,12.8
+ga,mitoungou,Mitoungou,07,,-1.6833333,12.8
+ga,mitsaga,Mitsaga,06,,-0.05,11.8833333
+ga,mitsandzale le grand,Mitsandzalé le Grand,04,,-2.25,12.3
+ga,mitsang,Mitsang,06,,0.7666667,12.55
+ga,mitsangou,Mitsangou,04,,-2.35,11.8
+ga,mitsangui,Mitsangui,04,,-1.4833333,10.5666667
+ga,mitsiengui,Mitsiengui,04,,-2.1666667,11.6833333
+ga,mitsig,Mitsig,09,,0.7833333,11.5666667
+ga,mittone,Mittoné,03,,-0.6166667,10.2166667
+ga,mitzick,Mitzick,09,,0.7833333,11.5666667
+ga,mitzic,Mitzic,09,3886,0.7833333,11.5666667
+ga,mitzig,Mitzig,09,,0.7833333,11.5666667
+ga,mitzik,Mitzik,09,,0.7833333,11.5666667
+ga,mivangiri,Mivangiri,05,,-2.35,11.05
+ga,mivengui,Mivengui,05,,-2.7833333,11.2833333
+ga,mivoka,Mivoka,05,,-2.8,11.0666667
+ga,mivoue,Mivoué,09,,1.6,11.45
+ga,miyanga,Miyanga,04,,-2.1833333,11.7666667
+ga,miyoumba,Miyoumba,04,,-1.25,11.8
+ga,moabi koudou,Moabi Koudou,05,,-2.5666667,11.2833333
+ga,moabi,Moabi,05,,-2.4,10.9833333
+ga,moabi-tsao,Moabi-Tsao,05,,-2.8833333,11.1333333
+ga,moanda,Moanda,02,30151,-1.5666667,13.2
+ga,mobigou,Mobigou,04,,-1.35,11.6
+ga,mobouka,Mobouka,04,,-1.6666667,10.9166667
+ga,mocadyoum,Mocadyoum,06,,-0.3166667,12.3666667
+ga,modjoko,Modjoko,06,,0.8,14.05
+ga,modouma,Modouma,07,,-1.4333333,12.0333333
+ga,mogabo,Mogabo,07,,-1.05,12.3
+ga,moghoumou,Moghoumou,04,,-1.3666667,11.3833333
+ga,mogno souka,Mogno Souka,05,,-2.7833333,11.0833333
+ga,mogombofala,Mogombofala,07,,-1.2166667,12.4666667
+ga,mogondzo,Mogondzo,07,,-0.9,11.8166667
+ga,mogoudi,Mogoudi,07,,-1.5166667,12.1333333
+ga,mogoumou,Mogoumou,04,,-1.3666667,11.3833333
+ga,mokaba-ngaou,Mokaba-Ngaou,02,,-1.3166667,13.35
+ga,mokoga,Mokoga,09,,2.2,11.8166667
+ga,mokomo-sanvogo,Mokomo-Sanvogo,09,,1.7833333,11.7333333
+ga,molessi-lekegni,Molessi-Lekegni,07,,-0.9833333,12.7666667
+ga,molito,Molito,05,,-3.2666667,11.5
+ga,molongo,Molongo,02,,-1.6833333,13.55
+ga,momanga,Momanga,02,,-1.7166667,13.5833333
+ga,mombaza,Mombaza,06,,0.75,13.25
+ga,mombi,Mombi,04,,-1.95,12.2333333
+ga,momo,Momo,09,,1.8666667,11.8
+ga,monda,Monda,01,,0.2833333,9.8333333
+ga,mondjogou,Mondjogou,02,,-1.25,13.5333333
+ga,mondo ii,Mondo II,04,,-1.7833333,10.9833333
+ga,mondok,Mondok,09,,2.2,11.8
+ga,mondo,Mondo,06,,-0.0666667,11.5166667
+ga,mondorobe,Mondorobé,08,,-0.8833333,8.9333333
+ga,mondou,Mondou,04,,-2.15,11.5
+ga,mondzeye,Mondzéyé,02,,-1.45,13.3166667
+ga,mongadi,Mongadi,07,,-1.25,11.9833333
+ga,mongo milando,Mongo Milando,05,,-3.05,10.4833333
+ga,mongos,Mongos,09,,2.0333333,11.4833333
+ga,mongoungou,Mongoungou,04,,-2.5166667,11.5666667
+ga,monkendjoko,Monkendjoko,02,,-1.65,12.85
+ga,monzogh,Monzogh,01,,0.3,9.85
+ga,mooba,Mooba,06,,0.2833333,13.2333333
+ga,mopata,Mopata,02,,-1.8,13.8333333
+ga,mopia ii,Mopia II,02,,-1.8333333,13.5833333
+ga,mopia,Mopia,02,,-1.8833333,13.5833333
+ga,mopoumba,Mopoumba,07,,-1.1333333,12.0333333
+ga,mopounga ii,Mopounga II,02,,-1.8166667,13.5833333
+ga,mopounga i,Mopounga I,02,,-1.8166667,13.5833333
+ga,mopounga,Mopounga,02,,-1.7666667,13.8166667
+ga,mopounga,Mopounga,04,,-1.1833333,10.9333333
+ga,mora,Mora,03,,-0.9833333,10.25
+ga,mossamala,Mossamala,05,,-2.8,10.1
+ga,mossete,Mossété,02,,-1.6666667,13.3333333
+ga,motobo ii,Motobo II,02,,-1.3,13.4666667
+ga,motobo i,Motobo I,02,,-1.55,13.4833333
+ga,motobo,Motobo,02,,-1.5,13.55
+ga,mouabi,Mouabi,02,,-2.25,13.5833333
+ga,mouamba,Mouamba,04,,-2.4666667,11.5333333
+ga,mouanda,Mouanda,02,,-1.5666667,13.2
+ga,moubaga,Moubaga,04,,-1.7666667,10.4
+ga,moubana,Moubana,04,,-1.8833333,11.7
+ga,moubassi,Moubassi,07,,-0.95,12.7333333
+ga,moubidou,Moubidou,07,,-0.7833333,12.7666667
+ga,moubighou,Moubighou,04,,-1.2,10.8666667
+ga,moubigou,Moubigou,04,,-1.2,10.8666667
+ga,moubili,Moubili,07,,-0.9833333,13.0166667
+ga,moubongou,Moubongou,04,,-1.55,11.2
+ga,mouboukou,Mouboukou,04,,-2.3,11.4666667
+ga,mouboumboulou,Mouboumboulou,04,,-2.25,11.7166667
+ga,moubou,Moubou,05,,-2.5333333,10.6
+ga,mouboungou,Mouboungou,04,,-1.55,11.2
+ga,moucouagna,Moucouagna,04,,-2.3,12.3166667
+ga,moucouagna,Moucouagna,07,,-1.5166667,12.5833333
+ga,moucouagnou,Moucouagnou,07,,-1.2333333,12.15
+ga,moucoudangoy,Moucoudangoy,07,,-1.6666667,12.4
+ga,moucouna,Moucouna,04,,-1.6666667,11.3
+ga,moucwagna,Moucwagna,04,,-1.9833333,11.65
+ga,moudiapoula,Moudiapoula,04,,-2.2166667,11.5
+ga,moudimba,Moudimba,04,,-1.6666667,10.35
+ga,moudiombi,Moudiombi,04,,-2.2666667,11.4666667
+ga,moudjina,Moudjina,04,,-2.4,11.45
+ga,moudouma,Moudouma,04,,-1.7666667,12.0666667
+ga,moudouma,Moudouma,07,,-1.4333333,12.0333333
+ga,moudoungou,Moudoungou,07,,-0.8666667,12.7833333
+ga,moueke,Moueké,04,,-2.3666667,12.1333333
+ga,mouelle,Mouellé,04,,-2.5166667,11.5666667
+ga,mouenda,Mouenda,02,,-1.5666667,13.2
+ga,mouenda,Mouenda,05,,-2.9166667,10.5
+ga,mouetji,Mouetji,05,,-2.65,11.1666667
+ga,mouewagnou,Mouewagnou,07,,-1.2333333,12.15
+ga,mougambi,Mougambi,04,,-2.1333333,11.5
+ga,mougando dimbo,Mougando Dimbo,05,,-2.7666667,10.9
+ga,mougandza,Mougandza,05,,-2.7666667,10.9666667
+ga,moughiba,Moughiba,04,,-1.9333333,11.6666667
+ga,mougnegou,Mougnegou,04,,-1.3,11.7833333
+ga,mougnigou ii,Mougnigou II,05,,-2.8833333,11.6
+ga,mougnigou,Mougnigou,03,,-0.7833333,10.35
+ga,mougnigou,Mougnigou,05,,-2.9,11.6333333
+ga,mougnimbou,Mougnimbou,05,,-3.0833333,10.8
+ga,mougnygou,Mougnygou,04,,-1.6,11.7666667
+ga,mougoko,Mougoko,04,,-1.2833333,10.8833333
+ga,mougombo,Mougombo,04,,-2.15,12.4166667
+ga,mougombo,Mougombo,07,,-1.15,12.1833333
+ga,mougomibo,Mougomibo,04,,-2.15,12.4166667
+ga,mougomou,Mougomou,07,,-1.35,12.0333333
+ga,mougonga,Mougonga,04,,-2.0166667,11.6333333
+ga,mougongo,Mougongo,07,,-1.4166667,12.1833333
+ga,mougonzo,Mougonzo,07,,-1.2666667,12.1
+ga,mougouango ii,Mougouango II,02,,-2.05,13.65
+ga,mougouango,Mougouango,02,,-2.0,13.5666667
+ga,mougoubou,Mougoubou,07,,-1.2166667,12.1333333
+ga,mougoudi,Mougoudi,05,,-2.7166667,10.7
+ga,mougouma,Mougouma,04,,-2.5166667,11.5666667
+ga,mougouma,Mougouma,05,,-2.35,10.6333333
+ga,mougoumou,Mougoumou,04,,-1.0333333,11.75
+ga,mougounda,Mougounda,04,,-2.25,10.6333333
+ga,mouila,Mouila,04,22469,-1.8666667,11.0166667
+ga,mouila,Mouila,07,,-1.3166667,12.25
+ga,mouinga,Mouinga,02,,-1.6666667,13.35
+ga,moukaba,Moukaba,04,,-1.3333333,10.8
+ga,moukaba,Moukaba,07,,-1.6166667,12.2
+ga,moukaba neny,Moukaba Neny,05,,-2.4333333,10.9333333
+ga,moukabou,Moukabou,04,,-1.5666667,10.0166667
+ga,moukakala,Moukakala,05,,-2.6166667,11.3833333
+ga,moukama,Moukama,04,,-2.1333333,12.05
+ga,moukamba,Moukamba,04,,-2.1333333,12.05
+ga,moukambo,Moukambo,05,,-3.0833333,11.6333333
+ga,moukandi,Moukandi,04,,-1.4666667,11.9166667
+ga,moukangi,Moukangi,05,,-2.8833333,10.4833333
+ga,moukanza,Moukanza,04,,-2.2,11.6
+ga,moukenja,Moukenja,05,,-2.5166667,11.2
+ga,moukiba ii,Moukiba II,04,,-1.9833333,10.8666667
+ga,moukidi,Moukidi,04,,-2.1,10.9666667
+ga,moukimbi,Moukimbi,04,,-1.9666667,12.4
+ga,moukinga,Moukinga,04,,-1.4833333,11.7333333
+ga,moukoko mayani,Moukoko Mayani,07,,-1.6666667,12.15
+ga,moukombo,Moukombo,04,,-1.9,12.1833333
+ga,moukondo,Moukondo,05,,-3.0333333,10.4833333
+ga,moukongo ndende,Moukongo Ndendé,05,,-2.8666667,10.2666667
+ga,moukoro,Moukoro,04,,-2.5333333,11.5833333
+ga,moukouagna i,Moukouagna I,04,,-1.9833333,11.65
+ga,moukouagna,Moukouagna,04,,-1.9166667,12.1833333
+ga,moukouagna,Moukouagna,07,,-1.1833333,12.4666667
+ga,moukoua,Moukoua,04,,-2.1,11.5
+ga,moukouanga,Moukouanga,04,,-2.3,12.3166667
+ga,moukoubango,Moukoubango,04,,-1.2166667,11.0666667
+ga,moukoumamadi,Moukoumamadi,04,,-2.2166667,11.8833333
+ga,moukoumbi,Moukoumbi,07,,-1.2166667,12.8833333
+ga,moukoumou,Moukoumou,04,,-1.5,11.7833333
+ga,moukoumou-nangadi,Moukoumou-Nangadi,04,,-2.2333333,12.0333333
+ga,moukouna,Moukouna,04,,-1.6833333,9.8666667
+ga,moukounangoye,Moukounangoyé,07,,-1.6666667,12.4
+ga,moukoundou,Moukoundou,04,,-2.1833333,11.6166667
+ga,moukoundza,Moukoundza,04,,-2.2666667,11.7333333
+ga,moulaba,Moulaba,04,,-2.1833333,11.2333333
+ga,moulagasiala,Moulagasiala,05,,-2.6666667,10.6833333
+ga,moulamba,Moulamba,04,,-1.0333333,10.6833333
+ga,moulamba,Moulamba,05,,-2.65,10.9833333
+ga,moulandou fouala,Moulandou Fouala,04,,-1.9833333,11.05
+ga,moulandou,Moulandou,05,,-2.6166667,11.1333333
+ga,moulemba,Moulemba,08,,-1.95,10.1666667
+ga,moulessi,Moulessi,07,,-0.8833333,12.75
+ga,mouliangoula,Mouliangoula,04,,-2.1833333,11.3166667
+ga,moulobi,Moulobi,07,,-1.2666667,12.3666667
+ga,moulombo,Moulombo,07,,-0.3666667,12.75
+ga,moulonda,Moulonda,05,,-2.5833333,11.2666667
+ga,moulondo,Moulondo,05,,-3.0833333,10.45
+ga,moulongo ii,Moulongo II,02,,-1.8666667,13.4666667
+ga,moulongo i,Moulongo I,02,,-1.8333333,13.5
+ga,moulounda,Moulounda,04,,-1.95,12.0666667
+ga,mouloundou,Mouloundou,07,,-1.0166667,12.1
+ga,moumba,Moumba,04,,-1.1666667,11.6833333
+ga,moumbou,Moumbou,04,,-1.6666667,10.4166667
+ga,moumou boumba,Moumou Boumba,05,,-3.35,10.7
+ga,mounana ii,Mounana II,02,,-1.6,12.9666667
+ga,mounana i,Mounana I,02,,-1.6166667,12.95
+ga,mounana,Mounana,02,8780,-1.4333333,13.1666667
+ga,mounanga,Mounanga,04,,-1.9166667,11.3
+ga,mounanga,Mounanga,05,,-2.4833333,10.5833333
+ga,moundouma,Moundouma,04,,-1.5166667,10.6833333
+ga,moundou,Moundou,04,,-1.4166667,11.05
+ga,moundounga,Moundounga,04,,-0.9833333,10.6333333
+ga,mounenga,Mounenga,04,,-1.9333333,11.4666667
+ga,moungale,Moungale,04,,-2.5166667,11.3
+ga,moungongo,Moungongo,07,,-1.4166667,12.1833333
+ga,moungoundi,Moungoundi,05,,-2.95,11.4166667
+ga,mounguembi,Mounguembi,04,,-1.9166667,11.9333333
+ga,mounianga,Mounianga,04,,-2.1666667,11.1166667
+ga,mouniegou,Mouniegou,04,,-1.7166667,10.95
+ga,mounongo,Mounongo,04,,-1.3,11.8833333
+ga,mounongo,Mounongo,07,,-1.1666667,11.9833333
+ga,moupaka,Moupaka,04,,-1.2833333,11.3833333
+ga,moupata,Moupata,04,,-2.3166667,12.0
+ga,moupata,Moupata,07,,-1.3166667,12.45
+ga,moupeyou,Moupeyou,07,,-1.0666667,12.8833333
+ga,mouponou,Mouponou,04,,-1.3833333,10.6333333
+ga,moupossi,Moupossi,04,,-1.65,10.4
+ga,moupoundi,Moupoundi,04,,-2.3666667,11.8166667
+ga,moupoungou,Moupoungou,04,,-2.1333333,11.8333333
+ga,moupoupa,Moupoupa,04,,-1.0666667,10.7166667
+ga,moupoupa,Moupoupa,07,,-1.2,11.8833333
+ga,mouralou,Mouralou,05,,-3.35,11.6333333
+ga,mourambo kata,Mourambo Kata,05,,-2.7333333,10.9666667
+ga,mourima,Mourima,05,,-2.6666667,11.0333333
+ga,mourimbo,Mourimbo,04,,-2.3,11.4666667
+ga,mouringa issenguele,Mouringa Issenguele,05,,-2.75,11.1166667
+ga,mouroungouya,Mouroungouya,05,,-3.2833333,11.7166667
+ga,mouroussi,Mouroussi,04,,-2.2,11.85
+ga,mouseye,Mouseye,06,,0.2666667,13.25
+ga,moussakoumou lekala,Moussakoumou Lékala,07,,-1.2166667,12.6666667
+ga,moussamba,Moussamba,04,,-2.1666667,11.3333333
+ga,moussamba,Moussamba,05,,-2.95,11.7166667
+ga,moussambo,Moussambo,04,,-2.1,11.0833333
+ga,moussambo,Moussambo,05,,-2.95,11.7166667
+ga,moussamo niambi,Moussamo Niambi,05,,-2.7833333,10.0833333
+ga,moussamoukogo,Moussamoukogo,08,,-1.15,9.4833333
+ga,moussa-moukougou,Moussa-Moukougou,03,,-0.65,10.2166667
+ga,moussamou kougou,Moussamou Kougou,05,,-2.4166667,10.95
+ga,moussamou,Moussamou,04,,-1.5666667,10.15
+ga,moussamou ygoyo,Moussamou Ygoyo,05,,-3.2833333,11.6
+ga,moussangala,Moussangala,05,,-2.6,10.6666667
+ga,moussemo,Moussemo,07,,-1.5,12.0666667
+ga,moussigue,Moussigué,04,,-1.7166667,11.35
+ga,moussima,Moussima,04,,-1.4666667,11.75
+ga,moussitoulela,Moussitoulela,05,,-2.8,11.4666667
+ga,moussitou,Moussitou,04,,-2.1333333,11.5
+ga,moussitou,Moussitou,05,,-2.4833333,10.8333333
+ga,moussombi,Moussombi,04,,-2.2,11.6833333
+ga,moussonga,Moussonga,04,,-2.3666667,11.4666667
+ga,moussoudou,Moussoudou,04,,-2.0333333,10.75
+ga,moutambi,Moutambi,04,,-1.3,10.6666667
+ga,moutassou,Moutassou,04,,-2.0333333,11.0166667
+ga,mouteti,Moutéti,03,,-0.7833333,10.35
+ga,mouteti,Moutéti,04,,-1.4666667,10.3
+ga,moutoumba,Moutoumba,05,,-2.4,10.9666667
+ga,moutoungou,Moutoungou,05,,-2.4166667,10.95
+ga,moutsima,Moutsima,04,,-1.9833333,11.1833333
+ga,mouvanga,Mouvanga,05,,-3.0166667,10.85
+ga,mouvanga-panza,Mouvanga-Panza,05,,-2.5833333,10.65
+ga,mouvango-pinza,Mouvango-Pinza,05,,-2.5833333,10.65
+ga,mouvangue,Mouvangué,07,,-1.6,12.65
+ga,mouvengue,Mouvengué,07,,-1.6,12.65
+ga,mouvindou,Mouvindou,04,,-1.8166667,11.9
+ga,mouyabi,Mouyabi,02,,-2.25,13.5833333
+ga,mouyamba,Mouyamba,04,,-1.8166667,11.75
+ga,mouyamba,Mouyamba,05,,-3.3166667,10.7
+ga,mouyamba,Mouyamba,08,,-2.5,9.8666667
+ga,mouya,Mouya,07,,-1.4666667,12.5
+ga,mouyiamba,Mouyiamba,04,,-2.6166667,11.6166667
+ga,mouyombi,Mouyombi,04,,-2.35,11.6833333
+ga,mouyombi-tali,Mouyombi-Tali,05,,-2.5333333,10.8
+ga,mouyomfi,Mouyomfi,08,,-2.5,10.1166667
+ga,mouyondzi,Mouyondzi,04,,-2.35,11.4
+ga,mouyoumbi,Mouyoumbi,04,,-1.5666667,11.8833333
+ga,mouyoungou,Mouyoungou,05,,-3.1666667,10.7666667
+ga,mouzoume,Mouzoumé,04,,-2.0666667,11.05
+ga,movous ii,Movous II,09,,2.1833333,11.9166667
+ga,movous i,Movous I,09,,2.1666667,11.9333333
+ga,moyabi ii,Moyabi II,02,,-1.9,13.5833333
+ga,moyabi i,Moyabi I,02,,-1.9,13.5666667
+ga,moyabi,Moyabi,02,,-1.6833333,13.3
+ga,moyenou,Moyenou,04,,-1.5333333,10.2833333
+ga,moyombi,Moyombi,04,,-2.35,11.6833333
+ga,mpaga,Mpaga,08,,-0.9333333,9.45
+ga,mpana,Mpana,08,,-1.6833333,9.2333333
+ga,mpando,Mpando,08,,-1.6833333,9.2333333
+ga,mpembe,Mpembé,08,,-0.6166667,9.1166667
+ga,mpere,Mpéré,08,,-1.6833333,9.6833333
+ga,mpfoubi,Mpfoubi,02,,-2.0,14.3166667
+ga,mpiala,Mpiala,01,,0.6833333,10.9666667
+ga,mpilou,Mpilou,01,,0.45,9.6833333
+ga,mpouma,Mpouma,06,,0.7,13.1333333
+ga,mtom,Mtom,03,,-0.3,10.4833333
+ga,m'vaddi,M'Vaddi,06,,1.2166667,13.2
+ga,mvadhi,Mvadhi,06,,1.2166667,13.2
+ga,mvadhi-ousye,Mvadhi-Ousyé,06,,1.2166667,13.2
+ga,mvadi,Mvadi,06,,1.2166667,13.2
+ga,mvagne,Mvagne,09,,1.5666667,11.4666667
+ga,mvahdi,Mvahdi,06,,1.2166667,13.2
+ga,m'vahdi ousye,M'Vahdi Ousye,06,,1.2166667,13.2
+ga,mvam,Mvam,01,,-0.2166667,9.65
+ga,mvanayeme,Mvanayème,01,,0.6,10.1333333
+ga,mvanayeme,Mvanayémé,03,,-0.2666667,10.5333333
+ga,mvanayem,Mvanayem,01,,0.8,9.9666667
+ga,mvanayong,Mvanayong,01,,0.5333333,10.1833333
+ga,mvandi,Mvandi,06,,1.2166667,13.2
+ga,mvane ii,Mvane II,09,,1.7666667,11.45
+ga,mvane i,Mvane I,09,,1.75,11.45
+ga,mvane,Mvane,09,,1.35,11.6833333
+ga,mvang-ayong,Mvang-Ayong,01,,-0.0166667,9.8833333
+ga,mvang,Mvang,01,,0.8,9.85
+ga,mvang,Mvang,03,,-0.3,10.5
+ga,mvanha,Mvanha,09,,0.85,11.8166667
+ga,mvan,Mvan,09,,1.8666667,11.3666667
+ga,mvanzama,Mvanzama,03,,-0.9166667,10.1666667
+ga,mveign,Mveign,09,,0.9166667,10.6833333
+ga,mve metol,Mvé Métol,09,,1.0166667,11.75
+ga,mvemezok,Mvémézok,09,,2.0666667,11.6666667
+ga,mveng,Mveng,09,,0.6666667,11.0
+ga,mvengue,Mvengué,02,,-1.6666667,13.4
+ga,mveyassi,Mveyassi,03,,-0.2,10.7166667
+ga,mvolo,Mvolo,09,,2.0666667,12.0166667
+ga,mvomayop iii,Mvomayop III,09,,1.5333333,11.5833333
+ga,mvomayop ii,Mvomayop II,09,,1.5166667,11.6
+ga,m'vomayop i,M'Vomayop I,09,,1.5,11.6
+ga,mvomayop,Mvomayop,09,,1.5,11.6
+ga,mvomenzogh,Mvomenzogh,01,,0.75,9.8333333
+ga,mvomo,Mvomo,01,,0.55,10.6333333
+ga,mvone,Mvone,01,,0.9166667,9.5833333
+ga,mvoua mitana,Mvoua Mitana,09,,0.6166667,11.55
+ga,mvoubingome,Mvoubingomé,03,,-0.25,10.6333333
+ga,mvoulenzogh,Mvoulenzogh,01,,0.6833333,9.85
+ga,mvoulessi,Mvoulessi,09,,0.6833333,11.15
+ga,mvoulie,Mvoulié,03,,-0.2333333,10.6333333
+ga,mvoungha,Mvoungha,06,,0.5666667,12.8666667
+ga,myana,Myana,09,,0.2166667,11.2333333
+ga,myanga,Myanga,04,,-1.9833333,11.9
+ga,myang,Myang,01,,0.85,9.7666667
+ga,mzale,Mzalé,03,,-0.1666667,10.7666667
+ga,nabigou,Nabigou,08,,-1.1833333,9.5166667
+ga,namba,Namba,04,,-1.7166667,10.9333333
+ga,na,Na,09,,0.85,11.6666667
+ga,nanga,Nanga,01,,0.1,9.7333333
+ga,nangha,Nangha,04,,-2.1666667,11.2166667
+ga,nango,Nango,01,,0.1,9.7333333
+ga,nazareth,Nazareth,03,,-0.5333333,10.3
+ga,n'boukou,N'Boukou,05,,-2.45,10.7333333
+ga,nchoulou,Nchoulou,02,,-1.8166667,14.0166667
+ga,n'dama,N'Dama,08,,-2.4166667,9.7333333
+ga,ndama,Ndama,09,,1.9833333,11.55
+ga,ndambi,Ndambi,07,,-0.5333333,12.6666667
+ga,ndame-bene,Ndamé-Béné,09,,0.45,11.6
+ga,ndanda,Ndanda,07,,-1.2666667,12.2
+ga,ndangang,Ndangang,09,,2.1333333,11.7166667
+ga,ndende,Ndendé,04,6200,-2.3833333,11.3833333
+ga,ndende,Ndendé,05,,-2.4833333,10.7666667
+ga,ndendi gabon,Ndendi Gabon,03,,-0.8,10.35
+ga,ndendi,Ndendi,05,,-3.1833333,11.7166667
+ga,ndenga,Ndenga,05,,-2.8166667,11.25
+ga,ndengoue,Ndengoué,06,,0.6166667,12.9666667
+ga,ndengue,Ndengué,04,,-1.2833333,11.75
+ga,ndes,Ndes,09,,2.2166667,11.75
+ga,n dimbou,N Dimbou,04,,-1.4833333,11.8666667
+ga,ndindi,Ndindi,04,,-1.7833333,12.0666667
+ga,ndinga lebala,Ndinga Lebala,04,,-2.15,11.75
+ga,ndinghi,Ndinghi,04,,-1.2833333,11.75
+ga,ndingui,Ndingui,04,,-1.0833333,11.7333333
+ga,ndjakonamoye,Ndjakonamoyé,07,,-1.0333333,12.5333333
+ga,n'djakonamoyi,N'Djakonamoyi,07,,-1.0333333,12.5333333
+ga,ndjambalika,Ndjambalika,03,,-0.8333333,10.1833333
+ga,ndjanga,Ndjanga,02,,-1.0666667,13.8666667
+ga,ndjole,Ndjolé,03,5098,-0.1833333,10.75
+ga,ndjole,Ndjolé,04,,-1.65,10.7166667
+ga,ndjole,Ndjolé,08,,-1.5833333,9.4
+ga,ndjoue,Ndjoué,01,,0.25,9.3833333
+ga,ndjouli,Ndjouli,07,,-1.2833333,12.3333333
+ga,ndogo,Ndogo,04,,-1.2333333,11.65
+ga,ndoiny,Ndoiny,03,,-0.3,10.5666667
+ga,ndomba,Ndomba,01,,0.3333333,9.4833333
+ga,ndombo,Ndombo,01,,0.9333333,9.5666667
+ga,ndondzi,Ndondzi,07,,-0.3166667,12.7833333
+ga,ndong-guema,Ndong-Guéma,03,,-0.15,10.8
+ga,ndong,Ndong,03,,-0.7,10.1666667
+ga,n'douami,N'Douami,08,,-2.0666667,10.3166667
+ga,ndoua,Ndoua,01,,0.35,10.4
+ga,ndouani,Ndouani,08,,-2.0666667,10.3166667
+ga,ndoubi,Ndoubi,02,,-1.4166667,12.9833333
+ga,ndoubi,Ndoubi,04,,-1.5333333,11.7166667
+ga,ndougou,Ndougou,04,,-1.9833333,11.5
+ga,ndougou,Ndougou,08,,-1.65,9.6666667
+ga,ndoumala,Ndoumala,06,,0.3666667,12.2
+ga,ndouma,Ndouma,04,,-2.35,11.55
+ga,ndoumantana,Ndoumantana,03,,-0.5833333,10.2833333
+ga,ndoumba,Ndoumba,08,,-0.9666667,9.6
+ga,ndoumbou,Ndoumbou,07,,-0.8166667,12.6666667
+ga,ndoundouma,Ndoundouma,06,,0.9333333,13.7333333
+ga,ndoungou,Ndoungou,04,,-1.3666667,11.5666667
+ga,ndounou,Ndounou,02,,-1.7666667,13.8166667
+ga,nendja,Nendja,03,,-0.5833333,9.9333333
+ga,nendja,Nendja,08,,-0.9333333,9.7166667
+ga,nenga bembe,Nenga Bembe,08,,-1.95,9.4
+ga,nengue dioni,Nengué Dioni,04,,-1.1666667,10.5833333
+ga,neumbedouma,Neumbedouma,03,,-0.9166667,10.0333333
+ga,nfagne,Nfagne,09,,1.9166667,11.5666667
+ga,nfigou,Nfigou,05,,-2.55,10.9
+ga,nfoulameyong,Nfoulameyong,01,,0.2166667,9.7166667
+ga,ngaina,Ngaina,02,,-0.4833333,13.7
+ga,ngalipana,Ngalipana,06,,0.2,13.4333333
+ga,ngamemzorek,Ngamemzorek,09,,0.7333333,11.65
+ga,nganda,Nganda,02,,-1.7666667,13.5833333
+ga,nganda,Nganda,04,,-2.0333333,10.7833333
+ga,ngando,Ngando,06,,1.0833333,14.05
+ga,nganga,Nganga,04,,-2.2666667,11.1333333
+ga,ngoasso,Ngoasso,07,,-1.3,11.9833333
+ga,ngobounda,Ngobounda,02,,-1.6333333,13.5833333
+ga,ngogalen,Ngogalen,09,,2.1166667,12.05
+ga,ngoguina ii,Ngoguina II,04,,-1.8166667,11.0
+ga,ngoguina i,Ngoguina I,04,,-1.8333333,11.0
+ga,ngola ii,Ngola II,09,,0.8833333,11.6166667
+ga,ngola i,Ngola I,09,,0.8666667,11.6166667
+ga,ngola,Ngola,08,,-0.9666667,9.0333333
+ga,ngole,Ngolé,03,,-0.8333333,10.0666667
+ga,ngomane,Ngomane,09,,2.1833333,11.9
+ga,ngomane-sele,Ngomane-Sélé,09,,2.1666667,11.9
+ga,ngoma,Ngoma,02,,-0.5166667,13.8333333
+ga,ngoma,Ngoma,03,,-0.1333333,10.7666667
+ga,ngoma,Ngoma,04,,-2.5333333,11.5833333
+ga,ngoma,Ngoma,07,,-0.9833333,12.7166667
+ga,ngombi,Ngombi,04,,-1.6166667,10.9
+ga,ngomessi,Ngomessi,09,,1.0,11.6666667
+ga,ngomgom,Ngomgom,03,,0.1666667,11.1666667
+ga,ngomo boulango,Ngomo Boulango,04,,-1.9833333,11.6166667
+ga,ngomo,Ngomo,03,,-0.8166667,9.95
+ga,ngomo,Ngomo,04,,-1.9833333,11.6333333
+ga,ngondi,Ngondi,05,,-3.3333333,10.7
+ga,ngondo,Ngondo,04,,-1.5,11.8833333
+ga,ngondzi,Ngondzi,04,,-2.2666667,11.45
+ga,ngoneki,Ngoneki,09,,0.9333333,10.6833333
+ga,ngone,Ngone,09,,0.9333333,11.65
+ga,ngonga,Ngonga,07,,-0.8333333,12.6666667
+ga,ngo,Ngo,09,,1.8833333,11.85
+ga,ngongo,Ngongo,02,,-1.6333333,13.5333333
+ga,ngon,Ngon,09,,0.9333333,11.65
+ga,ngoreki,Ngoreki,06,,0.3166667,12.2
+ga,ngorondzaye,Ngorondzaye,01,,0.3833333,10.3
+ga,ngossi,Ngossi,04,,-2.1666667,11.5
+ga,ngoss,Ngoss,03,,-0.5,10.3666667
+ga,ngosso,Ngosso,06,,0.7,13.1166667
+ga,ngota,Ngota,07,,-0.2666667,12.7666667
+ga,ngoua bikoka,Ngoua Bikoka,04,,-1.9166667,11.1333333
+ga,ngouabilaga,Ngouabilaga,03,,-0.4,10.4666667
+ga,n'gouala,N'Gouala,01,,0.9166667,10.0166667
+ga,ngouanie,Ngouanié,01,,0.55,9.7
+ga,ngouassa mabounda,Ngouassa Mabounda,04,,-1.45,11.5166667
+ga,ngouassa,Ngouassa,04,,-1.2666667,11.3666667
+ga,ngouaviri,Ngouaviri,08,,-1.1,9.3666667
+ga,ngouaza mabounza,Ngouaza Mabounza,04,,-1.45,11.5166667
+ga,ngoubessi,Ngoubessi,09,,0.9,11.3166667
+ga,ngoubounambougou,Ngoubounambougou,04,,-2.2666667,11.9166667
+ga,ngouda,Ngouda,02,,-1.8833333,13.5833333
+ga,ngoudou,Ngoudou,04,,-1.5666667,10.0166667
+ga,ngouema,Ngouema,09,,1.6,11.5833333
+ga,ngouengoue,Ngouengoué,06,,0.8333333,13.5166667
+ga,ngoulabona,Ngoulabona,08,,-1.8166667,9.35
+ga,ngoula,Ngoula,05,,-2.95,11.45
+ga,ngoulemve,Ngoulemve,01,,0.5666667,10.45
+ga,ngoumbi ii,Ngoumbi II,04,,-1.9,11.2
+ga,ngoumbi i,Ngoumbi I,04,,-1.9,11.2166667
+ga,ngoumbi,Ngoumbi,08,,-0.95,9.6
+ga,ngoum,Ngoum,09,,0.6666667,11.2833333
+ga,ngoumou,Ngoumou,04,,-1.65,10.3166667
+ga,ngounda,Ngounda,02,,-1.8833333,13.5833333
+ga,ngoundou,Ngoundou,04,,-1.75,10.9666667
+ga,ngoundzi,Ngoundzi,04,,-2.2333333,11.4666667
+ga,ngou,Ngou,01,,0.6333333,10.8166667
+ga,ngou,Ngou,09,,1.5,11.4333333
+ga,ngoungou,Ngoungou,05,,-2.5166667,10.9
+ga,ngoungou,Ngoungou,07,,-1.5166667,12.3333333
+ga,ngoungui,Ngoungui,04,,-2.15,11.8833333
+ga,ngoussou,Ngoussou,04,,-2.3833333,11.4166667
+ga,ngoussou,Ngoussou,05,,-3.0,11.1166667
+ga,ngoyo,Ngoyo,04,,-2.4,11.4333333
+ga,ngozok,Ngozok,09,,1.9333333,11.4166667
+ga,nguale,Nguale,01,,0.9166667,10.0166667
+ga,ngueke,Ngueké,07,,-0.25,12.7666667
+ga,nguenda,Nguenda,04,,-2.3833333,11.4833333
+ga,nguenda,Nguenda,05,,-2.4666667,11.1833333
+ga,nguenda pahilo,Nguenda Pahilo,05,,-2.4666667,11.1833333
+ga,nguenza,Nguenza,04,,-1.6,10.6333333
+ga,nguiabeta,Nguiabeta,08,,-1.0166667,9.0666667
+ga,ngwassa mab,Ngwassa Mab,04,,-1.45,11.5166667
+ga,ngwassa mabounza,Ngwassa Mabounza,04,,-1.45,11.5166667
+ga,ngwassa mabouuza,Ngwassa Mabouuza,04,,-1.45,11.5166667
+ga,ngwoni,Ngwoni,02,,-1.5166667,13.8
+ga,niali,Niali,04,,-2.4166667,11.5333333
+ga,niali,Niali,05,,-2.5666667,11.3
+ga,niallabe,Niallabe,06,,0.2166667,11.9333333
+ga,niamambaye,Niamambaye,06,,-0.4333333,11.7666667
+ga,niamanbaye,Niamanbaye,06,,-0.4333333,11.7666667
+ga,niamba,Niamba,07,,-1.0,12.0666667
+ga,niambipanga,Niambipanga,04,,-1.6,10.1333333
+ga,niamigodi,Niamigodi,06,,-0.2166667,12.5166667
+ga,nia name,Nia Name,01,,0.2333333,10.1166667
+ga,nianam ii,Nianam II,01,,0.95,9.6166667
+ga,nianam i,Nianam I,01,,0.9333333,9.6666667
+ga,nianam,Nianam,01,,0.2833333,10.15
+ga,nianga,Nianga,04,,-1.9833333,11.6833333
+ga,niatazokou,Niatazokou,06,,0.85,13.5833333
+ga,niavangina,Niavangina,07,,-0.95,12.8333333
+ga,nieguianou,Nieguianou,04,,-2.1166667,10.7166667
+ga,niembipanga,Niembipanga,04,,-1.6,10.6333333
+ga,niendze,Niendzé,07,,-1.5,12.1
+ga,niengo,Niengo,05,,-2.9,11.3833333
+ga,nienzi mogne,Nienzi Mogne,05,,-3.7666667,11.0166667
+ga,niffangou nkam,Niffangou Nkam,01,,0.6333333,10.3333333
+ga,nilolo,Nilolo,05,,-2.9833333,10.85
+ga,ningoranga,Ningoranga,08,,-1.3333333,9.0166667
+ga,nintouma,Nintouma,03,,-0.1833333,10.7333333
+ga,niole,Niolé,04,,-1.0333333,11.5166667
+ga,niolokoue,Niolokoué,08,,-0.8666667,8.9333333
+ga,niongo,Niongo,08,,-2.5166667,9.75
+ga,niongue,Niongué,04,,-1.6166667,11.5833333
+ga,niongui,Niongui,04,,-1.3833333,11.35
+ga,nioungou goumbi,Nioungou Goumbi,08,,-2.1833333,9.6666667
+ga,nioungou,Nioungou,08,,-2.2833333,9.7166667
+ga,njobermitang,Njobermitang,01,,0.3833333,9.7666667
+ga,njole,Njole,03,,-0.1833333,10.75
+ga,njole,Njolé,06,,-0.1166667,12.0
+ga,njole,Njolé,07,,-1.25,12.2
+ga,njoukou,Njoukou,07,,-1.3833333,12.45
+ga,nkamenvi,Nkamenvi,09,,0.9,11.0333333
+ga,nkane,Nkane,09,,0.9333333,11.2166667
+ga,nkang,Nkang,09,,1.6,11.7
+ga,nkangue,Nkangué,03,,-0.8666667,10.0166667
+ga,nka,Nka,09,,2.1333333,11.3666667
+ga,nkan,Nkan,01,8526,0.7166667,9.6666667
+ga,nkara,Nkara,09,,0.85,11.5833333
+ga,nkarenzork,Nkarenzork,09,,1.5833333,11.7333333
+ga,nkaretom,Nkaretom,06,,0.3333333,12.2
+ga,nkar ii,Nkar II,09,,0.85,11.5833333
+ga,nkar i,Nkar I,09,,0.8166667,11.5833333
+ga,nkenga-mbya,Nkenga-Mbya,03,,-0.9833333,10.0333333
+ga,nkey,Nkey,09,,1.15,11.7166667
+ga,nkie,Nkié,09,,1.85,11.7666667
+ga,nkiga,Nkiga,02,,-1.8166667,14.2833333
+ga,nkimen,Nkimen,09,,0.9333333,10.7
+ga,nkin,Nkin,06,,0.8333333,12.35
+ga,nkodzoe,Nkodzoé,09,,2.2,11.3833333
+ga,nkogakom,Nkogakom,09,,2.1833333,12.1333333
+ga,nkogalene,Nkogalène,09,,2.1166667,12.0
+ga,nkogassie,Nkogassié,09,,2.0666667,11.9833333
+ga,nkog ebel,Nkog Ebel,01,,0.4333333,9.4833333
+ga,nkogo-bessek,Nkogo-Bessek,09,,0.85,11.65
+ga,nkogomang,Nkogomang,09,,2.1833333,12.0166667
+ga,nkogomesseng,Nkogomesseng,09,,1.9333333,11.8666667
+ga,nkoguebe,Nkoguébé,09,,2.2666667,11.5666667
+ga,nko ii,Nko II,09,,0.8833333,11.4
+ga,nko i,Nko I,09,,0.8666667,11.3666667
+ga,nkok-loe,Nkok-Loé,09,,2.2166667,11.4833333
+ga,nkok ngem,Nkok Ngem,09,,0.7,11.35
+ga,nkok,Nkok,01,,0.3833333,9.6333333
+ga,nkok,Nkok,03,,-0.2833333,10.4666667
+ga,nkoksi,Nkoksi,09,,1.9,11.6333333
+ga,nkolabona,Nkolabona,09,,1.2333333,11.7166667
+ga,nkolayop,Nkolayop,09,,1.2166667,11.5166667
+ga,nkolessong,Nkolessong,09,,2.15,11.3833333
+ga,nkolmengoa,Nkolmengoa,09,,2.2333333,11.5
+ga,nkolmessas,Nkolmessas,09,,1.9833333,11.55
+ga,nkoltang,Nkoltang,01,,0.35,9.6833333
+ga,nkolvem,Nkolvem,09,,1.9333333,11.8666667
+ga,nkombeguinoguia,Nkombeguinoguia,08,,-2.0666667,9.5666667
+ga,nkomelene,Nkomelene,09,,1.2833333,11.7
+ga,nkomi,Nkomi,01,,0.3666667,10.2666667
+ga,n'komi,N'Komi,04,,-1.05,10.8
+ga,nkomo,Nkomo,09,,1.8833333,11.55
+ga,nkong,Nkong,01,,0.45,10.6
+ga,nko,Nko,09,,1.25,11.5
+ga,nkoto ii,Nkoto II,09,,1.8666667,11.8166667
+ga,nkoto i,Nkoto I,09,,1.8833333,11.8166667
+ga,nkoua,Nkoua,01,,0.2333333,10.1166667
+ga,nkouara,Nkouara,09,,1.2,11.5166667
+ga,nkougou,Nkougou,09,,1.0833333,11.7
+ga,nkoulamvan,Nkoulamvan,01,,0.9333333,9.8
+ga,nkoulengong,Nkoulengong,01,,0.8333333,9.7833333
+ga,nkoule,Nkoulé,03,,-0.4,10.4833333
+ga,nkoumadza,Nkoumadza,09,,2.0333333,11.9166667
+ga,nkoumazo,Nkoumazo,03,,-0.2,10.7666667
+ga,nkoumazza,Nkoumazza,01,,0.5166667,9.75
+ga,nkoumedoum,Nkoumédoum,09,,2.15,11.4
+ga,nkoumeti,Nkouméti,01,,0.35,10.5166667
+ga,nkoumiti,Nkoumiti,03,,-0.5166667,10.2666667
+ga,nkoum,Nkoum,09,,1.5666667,11.8833333
+ga,nkoung,Nkoung,09,,2.0166667,11.65
+ga,nkourneki,Nkourneki,01,,0.5666667,9.9166667
+ga,nkourou,Nkourou,01,,0.6166667,9.9
+ga,nkouta,Nkouta,06,,0.25,13.2833333
+ga,nkout,Nkout,09,,1.3166667,11.6833333
+ga,nlang-mbeng,Nlang-Mbeng,01,,-0.0166667,9.6333333
+ga,nlan,Nlan,09,,2.2666667,11.6
+ga,nlovila,Nlovila,03,,-1.0666667,9.9833333
+ga,nnangbeng,Nnangbeng,09,,0.95,10.7666667
+ga,nnifala,Nnifala,09,,0.9666667,10.7833333
+ga,noanatoute,Noanatoute,09,,2.0,11.9166667
+ga,noayong,Noayong,01,,0.7333333,9.6833333
+ga,nomba,Nomba,01,,0.3333333,9.4833333
+ga,nombo,Nombo,08,,-2.15,9.5166667
+ga,nongork,Nongork,09,,0.9,11.0666667
+ga,nongzork,Nongzork,09,,0.9,11.0666667
+ga,nonsork,Nonsork,09,,0.9,11.0666667
+ga,nouako,Nouako,01,,0.35,10.55
+ga,noumbou,Noumbou,05,,-2.55,10.8166667
+ga,noumbou,Noumbou,07,,-1.0666667,11.95
+ga,nsakalano,Nsakalano,08,,-2.05,10.35
+ga,nsak,Nsak,09,,2.1333333,12.0666667
+ga,nsang,Nsang,09,,0.9,11.6333333
+ga,nsele,Nsélé,01,,0.0833333,10.2
+ga,nseng-afoun,Nseng-Afoun,01,,0.1166667,10.1666667
+ga,nseng-mitang,Nseng-Mitang,01,,0.4166667,9.5
+ga,nseng-mitang,Nseng-Mitang,09,,0.9166667,11.1666667
+ga,nsimi,Nsimi,09,,2.15,11.3666667
+ga,nsiono,Nsiono,07,,-1.65,12.4333333
+ga,nsogubefame,Nsogubefame,01,,0.65,9.8666667
+ga,nsye,Nsye,06,,1.0333333,13.0166667
+ga,ntambe,Ntambé,03,,-1.0333333,10.1333333
+ga,ntanha-tele,Ntanha-Télé,06,,0.8,12.4833333
+ga,n'tchago,N'Tchago,01,,0.3166667,9.3666667
+ga,ntchatanga,Ntchatanga,03,,-0.8333333,10.1
+ga,ntchengue,Ntchengué,08,,-0.8166667,8.8166667
+ga,ntchogo,Ntchogo,01,,0.3166667,9.3666667
+ga,n'tchoua,N'Tchoua,01,,0.05,9.4333333
+ga,ntian,Ntian,06,,0.9166667,13.0
+ga,ntom ii,Ntom II,09,,1.2666667,11.6833333
+ga,ntom i,Ntom I,09,,1.2666667,11.6666667
+ga,ntong,Ntong,09,,1.3666667,11.4
+ga,nto,Nto,09,,1.8666667,11.5833333
+ga,ntoua,Ntoua,06,,-0.0666667,11.9666667
+ga,ntoum,Ntoum,01,8569,0.3666667,9.7833333
+ga,ntoum,Ntoum,09,,0.8166667,10.4833333
+ga,ntourandia essabey,Ntourandia Essabey,09,,2.25,11.4
+ga,ntsangou-dimbou,Ntsangou-Dimbou,03,,-0.75,10.35
+ga,ntsap,Ntsap,03,,-0.4333333,10.4666667
+ga,ntsibelong,Ntsibelong,06,,0.5833333,12.7666667
+ga,ntsimbi,Ntsimbi,01,,0.0333333,9.35
+ga,ntsini,Ntsini,01,,0.6,9.55
+ga,ntyeng,Ntyeng,06,,0.9166667,13.0
+ga,nvanayeme,Nvanayémé,01,,0.3666667,9.5166667
+ga,nvanayem,Nvanayem,01,,0.3166667,9.85
+ga,nvounda,Nvounda,05,,-2.7166667,11.15
+ga,nyambipanga,Nyambipanga,04,,-1.6,10.1333333
+ga,nyamegong,Nyamegong,09,,1.75,11.5666667
+ga,nyamo,Nyamo,04,,-1.6333333,11.65
+ga,nyanga ii,Nyanga II,04,,-2.0,11.7333333
+ga,nyanga moubighou,Nyanga Moubighou,04,,-1.9,11.3833333
+ga,nyanga,Nyanga,04,,-1.9,11.3833333
+ga,nyanga,Nyanga,05,,-2.6166667,10.6833333
+ga,nyanga,Nyanga,08,,-1.1,9.05
+ga,nyanga-vembe,Nyanga-Vembe,05,,-2.6166667,10.6833333
+ga,nyembo,Nyembo,04,,-1.9666667,11.5833333
+ga,nyongo,Nyongo,02,,-1.6333333,13.5333333
+ga,nyoungou,Nyoungou,04,,-1.45,11.1666667
+ga,nyoy,Nyoy,04,,-1.2833333,11.4333333
+ga,nzafieng,Nzafieng,06,,0.0666667,11.8833333
+ga,nzagha,Nzagha,03,,-0.1833333,10.7333333
+ga,nzagobibere,Nzagobibéré,03,,-0.1333333,10.7666667
+ga,nzai,Nzaï,04,,-2.1833333,11.1166667
+ga,nzakoumenga,Nzakoumenga,04,,-1.9333333,11.1166667
+ga,nzamakelene,Nzamakéléné,03,,-0.4166667,10.4833333
+ga,nzamalighe,Nzamalighe,01,,0.0333333,9.45
+ga,nzamaligue,Nzamaligue,01,,0.3166667,9.7666667
+ga,nzamalique,Nzamaliqué,01,,0.2833333,10.3
+ga,nzamanene,Nzamanéné,01,,0.2833333,10.25
+ga,nzamata,Nzamata,01,,0.5,9.4
+ga,nzamata,Nzamata,03,,-0.4666667,10.45
+ga,nzamba,Nzamba,06,,0.7,13.0833333
+ga,nzambi-minongo,Nzambi-Minongo,04,,-1.9333333,11.7666667
+ga,nzambi,Nzambi,02,,-2.1,13.65
+ga,nzambi,Nzambi,04,,-2.1333333,10.75
+ga,nzambi,Nzambi,07,,-1.4666667,12.35
+ga,nzamene,Nzamené,08,,-0.8833333,9.6666667
+ga,nzamou,Nzamou,01,,0.2166667,9.8333333
+ga,nzang-ayong,Nzang-Ayong,01,,0.5333333,9.7166667
+ga,nzanza,Nzanza,05,,-2.7333333,11.4166667
+ga,nzao,Nzao,04,,-1.9166667,11.7333333
+ga,nzebene,Nzebene,09,,1.2333333,11.7166667
+ga,nzebe,Nzébé,03,,-0.6,10.3166667
+ga,nzebere,Nzébéré,01,,-0.0166667,9.7833333
+ga,nzeberre,Nzeberré,03,,-0.3166667,10.5
+ga,nzeck,Nzeck,03,,-0.2333333,10.6166667
+ga,nzeck,Nzeck,09,,0.8666667,11.2333333
+ga,nzeguebegne,Nzeguebegne,09,,1.3666667,11.6833333
+ga,nzeik ii,Nzeik II,09,,0.9,11.3
+ga,nzeik i,Nzeik I,09,,0.9166667,11.4666667
+ga,nzela,Nzéla,06,,0.7666667,13.9333333
+ga,nzela,Nzéla,07,,-0.9666667,12.5833333
+ga,nzembi,Nzembi,04,,-2.25,11.85
+ga,nzeng-boun,Nzeng-Boun,03,,-0.25,10.5333333
+ga,nzeng-bour,Nzeng-Bour,01,,0.0833333,10.2333333
+ga,nzeng-meyong,Nzeng-Meyong,01,,0.1166667,10.1833333
+ga,nzeng-miana,Nzeng-Miana,01,,0.3666667,9.9
+ga,nzenzele,Nzenzélé,04,,-2.2,11.7666667
+ga,nzenzele,Nzenzélé,07,,-1.3,12.5333333
+ga,nzenzila,Nzenzila,05,,-2.75,10.9666667
+ga,nzeurk,Nzeurk,09,,0.9166667,11.4333333
+ga,nzibobouya,Nzibobouya,06,,0.9833333,13.95
+ga,nzila-kala,Nzila-Kala,04,,-2.0833333,11.8166667
+ga,nzimayong,Nzimayong,01,,0.6666667,10.3333333
+ga,nzinga,Nzinga,05,,-2.9666667,11.5666667
+ga,nzinga,Nzinga,06,,0.8166667,12.3166667
+ga,nzinga,Nzinga,07,,-1.3666667,12.4166667
+ga,nzinga-nzinga,Nzinga-Nzinga,07,,-1.0833333,12.9
+ga,nzinga tchi,Nzinga Tchi,05,,-2.9833333,11.6
+ga,nzing-ayong,Nzing-Ayong,01,,0.3,9.8333333
+ga,nzingayong,Nzingayong,01,,0.6166667,9.6833333
+ga,nzingmeyong,Nzingmeyong,06,,0.5833333,12.8666667
+ga,nzingui,Nzingui,04,,-2.2666667,11.6333333
+ga,nzoghebour,Nzoghebour,01,,0.2166667,9.85
+ga,nzoghe-mintang,Nzoghe-Mintang,01,,0.5833333,9.7166667
+ga,nzoghengom,Nzoghengom,03,,0.0166667,11.0
+ga,nzoghengone,Nzoghengone,01,,0.7333333,9.9833333
+ga,nzoghengone,Nzoghengone,06,,0.5666667,12.6833333
+ga,nzoghi,Nzoghi,03,,-0.5333333,10.0166667
+ga,nzogho-mintang,Nzogho-Mintang,01,,0.25,10.2333333
+ga,nzogmayong,Nzogmayong,09,,0.7166667,10.3666667
+ga,nzogmitang,Nzogmitang,01,,0.1833333,10.1333333
+ga,nzogmitang,Nzogmitang,09,,0.9666667,10.8333333
+ga,nzognayong,Nzognayong,09,,0.7166667,10.3666667
+ga,nzognimintana,Nzognimintana,03,,-0.6166667,10.3166667
+ga,nzogobefam,Nzogobéfam,01,,0.65,9.8666667
+ga,nzogobeyork,Nzogobeyork,01,,0.5166667,9.3833333
+ga,nzogomitang,Nzogomitang,01,,0.3833333,9.6333333
+ga,nzoguebefame,Nzoguebefame,01,,0.65,9.8666667
+ga,nzome,Nzomé,03,,-0.2166667,10.6166667
+ga,nzomo,Nzomo,01,,0.0166667,9.4833333
+ga,nzong-ayong,Nzong-Ayong,01,,0.4333333,9.4833333
+ga,nzong bour,Nzong Bour,01,,0.3666667,9.65
+ga,nzong-meyond,Nzong-Meyond,01,,0.1,10.2666667
+ga,nzong,Nzong,01,,0.3833333,9.8833333
+ga,nzongomintangui,Nzongomintangui,03,,-1.05,10.2166667
+ga,nzonguebourg,Nzonguebourg,01,,0.65,9.8666667
+ga,nzong zeme,Nzong Zeme,01,,0.3833333,9.8833333
+ga,nzorengone,Nzorengone,09,,0.9166667,11.7666667
+ga,nzork angonenye,Nzork Angonenye,09,,0.9166667,11.4333333
+ga,nzork,Nzork,01,,0.3,10.0166667
+ga,nzork,Nzork,09,,0.8,11.5666667
+ga,nzoro bindzene,Nzoro Bindzene,01,,0.4166667,10.0666667
+ga,nzoro bissone,Nzoro Bissone,09,,0.45,11.5333333
+ga,nzoro mitang,Nzoro Mitang,01,,0.45,10.1
+ga,nzoua,Nzoua,01,,0.35,10.35
+ga,nzoua,Nzoua,09,,0.9333333,11.1
+ga,nzoudi,Nzoudi,04,,-2.3333333,12.3333333
+ga,nzoum,Nzoum,06,,0.45,12.3166667
+ga,nzoumou,Nzoumou,09,,0.9166667,10.9666667
+ga,nzourk,Nzourk,09,,0.85,11.4666667
+ga,obala,Obala,02,,-1.1333333,13.7833333
+ga,obana,Obana,02,,-1.4666667,14.4
+ga,obando,Obando,08,,-1.1166667,9.2666667
+ga,obang,Obang,09,,2.2666667,12.0666667
+ga,obaye,Obaye,04,,-1.0666667,10.8166667
+ga,obegue ii,Obégué II,02,,-1.1333333,13.9333333
+ga,obegue i,Obégué I,02,,-1.15,13.9333333
+ga,obeguey,Obeguey,02,,-1.15,13.9333333
+ga,obelo,Obelo,01,,0.1166667,9.4166667
+ga,obenzi ii,Obenzi II,03,,-0.8833333,10.3666667
+ga,obenzi i,Obenzi I,03,,-0.8166667,10.35
+ga,obeo,Obéo,01,,0.1166667,9.4166667
+ga,oberting,Oberting,03,,-0.3666667,9.7666667
+ga,obeye,Obeye,04,,-1.0666667,10.8166667
+ga,obia ii,Obia II,02,,-1.25,13.9166667
+ga,obia i,Obia I,02,,-1.2666667,13.9166667
+ga,obia,Obia,02,,-1.25,13.9166667
+ga,obidi,Obidi,06,,-0.35,11.75
+ga,obili,Obili,02,,-0.7,13.8166667
+ga,obinamboum,Obinamboum,01,,0.4333333,10.7
+ga,obiro,Obiro,08,,-1.9333333,9.5
+ga,oboi,Oboï,04,,-1.3,11.3166667
+ga,obori-lekoussa,Obori-Lekoussa,02,,-1.5,13.6
+ga,obori,Obori,02,,-1.25,13.7666667
+ga,oboui,Oboui,09,,0.9166667,10.9666667
+ga,obour,Obour,01,,0.9,9.8166667
+ga,obout iii,Obout III,09,,1.7166667,11.5666667
+ga,obout ii,Obout II,09,,1.7166667,11.5833333
+ga,obout i,Obout I,09,,1.7333333,11.5833333
+ga,obwo,Obwo,02,,-1.2166667,13.8833333
+ga,odende,Odende,08,,-1.65,9.3666667
+ga,odimba,Odimba,03,,-1.1333333,10.0
+ga,odimba,Odimba,08,,-2.0333333,9.55
+ga,odjingoto,Odjingoto,09,,2.1833333,11.95
+ga,odowo,Odowo,08,,-1.6333333,9.4833333
+ga,odowwenga,Odowwenga,08,,-1.0,8.95
+ga,odzala,Odzala,02,,-0.3333333,13.7
+ga,offos,Offos,09,,1.8833333,11.65
+ga,ogoga,Ogoga,08,,-1.8333333,9.3666667
+ga,ogogha,Ogogha,08,,-1.8333333,9.3666667
+ga,ogoumalanga,Ogoumalanga,03,,-0.7166667,9.7166667
+ga,okaka,Okaka,06,,-0.6833333,11.55
+ga,okala,Okala,02,,-1.7,14.35
+ga,okala,Okala,09,,1.0333333,11.6666667
+ga,okam,Okam,01,,0.6833333,10.0333333
+ga,okandja,Okandja,02,7155,-0.6833333,13.7833333
+ga,okan,Okan,01,,0.6833333,10.0333333
+ga,okano,Okano,06,,-0.05,11.8666667
+ga,okara,Okara,02,,-1.5,13.75
+ga,okas,Okas,09,,1.5833333,11.3666667
+ga,okila,Okila,02,,-1.0166667,13.5666667
+ga,okogayo,Okogayo,09,,0.9166667,11.1333333
+ga,okok,Okok,09,,2.1166667,11.6666667
+ga,okola,Okola,01,,0.8333333,10.0166667
+ga,okolo,Okolo,08,,-0.9166667,9.5333333
+ga,okondi,Okondi,02,,-0.6833333,13.7833333
+ga,okondja,Okondja,02,,-0.6833333,13.7833333
+ga,okondja,Okondja,04,,-1.2833333,11.1
+ga,okouba ii,Okouba II,02,,-1.2666667,13.6166667
+ga,okouba i,Okouba I,02,,-1.25,13.5833333
+ga,okouba,Okouba,02,,-1.45,13.7333333
+ga,okouma,Okouma,02,,-1.2,13.5333333
+ga,okoumbi,Okoumbi,02,,-0.7666667,13.85
+ga,okoungou,Okoungou,02,,-1.2833333,13.6666667
+ga,olago,Olago,08,,-1.55,9.45
+ga,olamba,Olamba,08,,-1.1666667,9.5166667
+ga,olam-nze,Olam-Nzé,09,,2.1166667,11.3666667
+ga,olango,Olango,08,,-1.55,9.45
+ga,olina,Olina,02,,-1.6,14.2666667
+ga,olonga,Olonga,02,,-1.15,13.5333333
+ga,olongo ii,Olongo II,02,,-0.5833333,14.0
+ga,olong,Olong,09,,1.3833333,11.4
+ga,olongo,Olongo,02,,-0.6166667,13.9666667
+ga,oloumi,Oloumi,04,,-1.5666667,10.0333333
+ga,olounga,Olounga,02,,-0.9333333,13.8833333
+ga,olounga-omvouri,Olounga-Omvouri,02,,-1.1666667,13.5333333
+ga,omanga,Omanga,02,,-1.7,13.5666667
+ga,oma,Oma,02,,-1.1333333,13.9166667
+ga,ombala,Ombala,06,,-0.1166667,11.9333333
+ga,ombelle,Ombellé,02,,-1.6333333,13.4
+ga,ombila,Ombila,05,,-2.8,11.25
+ga,ombili,Ombili,02,,-1.5166667,13.7166667
+ga,omboue,Omboué,08,1667,-1.5666667,9.25
+ga,ombou,Ombou,02,,-1.5666667,13.45
+ga,omengo,Omengo,08,,-1.5666667,9.9666667
+ga,omoana,Omoana,02,,-0.35,13.7
+ga,omoi ii,Omoï II,02,,-1.3833333,13.0333333
+ga,omoi i,Omoï I,02,,-1.4166667,13.0333333
+ga,omoi,Omoï,02,,-1.3,13.7666667
+ga,ompere,Ompéré,08,,-1.6833333,9.6833333
+ga,ompomouena,Ompomouena,03,,-0.85,10.15
+ga,ompouyi,Ompouyi,02,,-1.5666667,14.2333333
+ga,omvane,Omvane,01,,0.65,10.6333333
+ga,omvan,Omvan,01,,0.65,10.6333333
+ga,omvan,Omvan,06,,0.3166667,12.1666667
+ga,ondama,Ondama,02,,-1.5166667,13.6833333
+ga,ondili,Ondili,02,,-0.5166667,13.7166667
+ga,ondondo,Ondondo,09,,1.5333333,11.6
+ga,ondouama,Ondouama,02,,-1.65,13.5666667
+ga,ondouma,Ondouma,08,,-1.45,9.2833333
+ga,ondwo,Ondwo,02,,-1.6333333,13.5833333
+ga,ondzeye,Ondzéyé,02,,-0.75,13.6833333
+ga,ongam,Ongam,01,,0.6333333,9.65
+ga,ongongo,Ongongo,09,,1.1666667,11.7166667
+ga,ongo,Ongo,09,,2.2333333,11.65
+ga,ongouangoubou,Ongouangoubou,02,,-0.85,13.8833333
+ga,ongouendjo,Ongouendjo,08,,-1.3833333,9.0833333
+ga,onguendjo ii,Onguendjo II,08,,-1.3833333,9.0833333
+ga,onguendjo,Onguendjo,08,,-1.3833333,9.0833333
+ga,onguia,Onguia,02,,-1.1,13.9
+ga,onia,Onia,02,,-0.9666667,13.55
+ga,onie,Onié,09,,2.2166667,12.1166667
+ga,onkara,Onkara,02,,-1.4833333,14.05
+ga,onkoua,Onkoua,02,,-1.7666667,13.8
+ga,onvane,Onvane,01,,0.65,10.6333333
+ga,opakelle,Opakellé,02,,-0.3333333,13.8666667
+ga,opinda,Opinda,02,,-0.3666667,13.7
+ga,opoungou,Opoungou,02,,-0.8833333,13.9166667
+ga,orali,Orali,08,,-1.8,9.3666667
+ga,oronga,Oronga,03,,-0.8166667,9.9833333
+ga,ossagui,Ossagui,02,,-1.7666667,14.1833333
+ga,ossala,Ossala,02,,-1.55,13.6333333
+ga,ossamoudembou,Ossamoudembou,08,,-0.9,9.75
+ga,ossa,Ossa,03,,-0.3166667,10.5333333
+ga,ossas,Ossas,09,,1.3333333,11.4166667
+ga,ossele,Ossélé,02,,-0.95,13.55
+ga,ossiandjobo,Ossiandjobo,02,,-0.5333333,13.7166667
+ga,ossiandjouo,Ossiandjouo,02,,-0.5333333,13.7166667
+ga,ossinga ii,Ossinga II,02,,-0.6833333,13.9166667
+ga,ossinga,Ossinga,02,,-0.6833333,13.9166667
+ga,osso,Osso,03,,-0.4,10.4833333
+ga,ossouele,Ossouélé,02,,-1.1,14.3333333
+ga,otala,Otala,02,,-1.1,13.7833333
+ga,otana,Otana,02,,-2.05,14.35
+ga,otanda,Otanda,03,,-0.65,10.0833333
+ga,otcouandjoko,Otcouandjoko,02,,-0.4666667,13.7
+ga,otouma,Otouma,06,,0.9,13.0166667
+ga,otoundou,Otoundou,02,,-0.8666667,13.5166667
+ga,ottouma,Ottouma,09,,0.2333333,11.2833333
+ga,ouaka,Ouaka,04,,-1.9666667,11.5333333
+ga,oualla,Oualla,02,,-2.0666667,13.7333333
+ga,oua,Oua,09,,0.9166667,11.0833333
+ga,ouassi,Ouassi,09,,2.2166667,11.75
+ga,oubendji,Oubendji,07,,-1.4833333,12.15
+ga,oucha,Oucha,03,,-0.1166667,10.9
+ga,oueliga,Oueliga,04,,-2.1333333,10.8833333
+ga,oueliga,Oueliga,05,,-2.7166667,11.3833333
+ga,oueligha,Oueligha,05,,-2.85,10.4666667
+ga,oukoussa,Oukoussa,07,,-1.1166667,13.1333333
+ga,ouniongo,Ouniongo,07,,-1.1,13.1333333
+ga,ouo ii,Ouo II,09,,0.9166667,10.95
+ga,ouol,Ouol,09,,0.95,11.2333333
+ga,ouongue,Ouongué,03,,-0.8333333,9.9833333
+ga,oussourfan,Oussourfan,01,,0.4166667,10.1
+ga,outavou,Outavou,04,,-1.9833333,11.65
+ga,ovane bibang,Ovane Bibang,01,,0.6166667,10.5666667
+ga,ovang,Ovang,09,,1.95,11.8666667
+ga,ovan,Ovan,06,,0.3166667,12.1666667
+ga,ovel kol,Ovel Kol,01,,0.1,10.3833333
+ga,ovena,Ovéna,03,,-0.2833333,10.85
+ga,ovendo,Ovendo,01,,0.2833333,9.5
+ga,oveng abe ii,Oveng Abé II,09,,1.3,11.4166667
+ga,oveng abe,Oveng Abe,09,,1.3833333,11.4
+ga,oveng i,Oveng I,09,,1.9666667,11.9
+ga,oveng-mendong,Oveng-Mendong,09,,0.3833333,11.4666667
+ga,oveng,Oveng,01,,0.0833333,9.4166667
+ga,oveng,Oveng,09,,0.5833333,11.1666667
+ga,ovine,Ovine,09,,1.4,11.4
+ga,ovok-sone,Ovok-Sone,01,,0.3666667,9.9166667
+ga,ovolondzam,Ovolondzam,01,,0.3166667,9.5166667
+ga,ovone,Ovone,09,,2.1,12.0333333
+ga,ovon,Ovon,09,,2.1,12.0333333
+ga,owenda,Owenda,01,,0.2833333,9.5
+ga,owendo,Owendo,01,,0.2833333,9.5
+ga,oyabe,Oyabe,06,,0.7333333,13.9166667
+ga,oyabi,Oyabi,02,,-0.6166667,14.0833333
+ga,oyali,Oyali,02,,-1.6,13.6333333
+ga,oyam,Oyam,03,,-0.2,10.6833333
+ga,oyane,Oyane,01,,-0.1833333,9.3166667
+ga,oyan,Oyan,01,,-0.0166667,10.3166667
+ga,oyanza,Oyanza,02,,-0.8,14.0
+ga,oyem,Oyem,09,30870,1.6166667,11.5833333
+ga,oyendze,Oyendzé,02,,-0.7166667,13.8333333
+ga,oyingo,Oyingo,03,,-0.8,9.6666667
+ga,oyoma,Oyoma,02,,-1.5833333,13.6166667
+ga,oyouga,Oyouga,02,,-1.2833333,13.5
+ga,oyouma,Oyouma,02,,-1.5833333,13.6166667
+ga,oyouma,Oyouma,06,,0.8333333,13.4833333
+ga,oyou,Oyou,02,,-1.35,13.75
+ga,ozakong,Ozakong,09,,2.2333333,11.5
+ga,ozomboua,Ozomboua,08,,-0.75,8.8666667
+ga,ozouri,Ozouri,08,,-1.0166667,8.8833333
+ga,pabo nzambi,Pabo Nzambi,05,,-2.4833333,10.8166667
+ga,paga-dianzi,Paga-Dianzi,04,,-1.3166667,10.6166667
+ga,paga,Paga,03,,-0.75,10.35
+ga,paga,Paga,04,,-1.5833333,10.6666667
+ga,paguignambi,Paguignambi,04,,-1.55,10.25
+ga,paguilou,Paguilou,08,,-1.2,9.5166667
+ga,pahilou,Pahilou,05,,-2.8,10.9833333
+ga,pahon-pira,Pahon-Pira,07,,-0.8,12.7333333
+ga,pahou n'zambi,Pahou N'Zambi,05,,-2.75,10.8666667
+ga,pahou-youngou,Pahou-Youngou,07,,-0.8,12.7166667
+ga,pahouzambi,Pahouzambi,05,,-2.75,10.8666667
+ga,pananga,Pananga,05,,-3.0333333,11.1333333
+ga,pana,Pana,07,,-1.6833333,12.65
+ga,panepo,Panépo,08,,-1.6666667,9.7333333
+ga,pangani,Pangani,07,,-1.2,12.4666667
+ga,panga,Panga,04,,-2.3833333,11.4666667
+ga,panga,Panga,05,,-3.2333333,10.5666667
+ga,papatsegue,Papatségué,07,,-1.6666667,12.6666667
+ga,papero,Papero,08,,-1.9833333,10.1666667
+ga,paris,Paris,03,,-0.5666667,10.0
+ga,paris,Paris,07,,-1.2833333,12.45
+ga,passeur,Passeur,05,,-2.7666667,10.05
+ga,pata,Pata,07,,-0.9833333,11.7833333
+ga,pegny ivolo,Pegny Ivolo,04,,-2.0166667,10.8166667
+ga,pegny-sampana,Pegny-Sampana,04,,-2.0333333,10.8
+ga,pekie,Pekié,04,,-2.1833333,11.7166667
+ga,pemba-niambe,Pemba-Niambé,08,,-1.9,9.45
+ga,pembimbe,Pembimbé,07,,-1.15,12.5
+ga,pembi,Pembi,05,,-3.2666667,10.6833333
+ga,pemo,Pemo,05,,-3.1166667,11.2666667
+ga,penignioundo,Pénignioundo,05,,-2.7,11.1666667
+ga,peni gnoundou,Peni Gnoundou,05,,-2.7,11.1666667
+ga,petialongo,Pétialongo,06,,0.7,13.85
+ga,peti,Peti,04,,-2.2333333,11.6833333
+ga,petit-denis,Petit-Denis,01,,0.2333333,9.3833333
+ga,petit dondo,Petit Dondo,04,,-1.2,11.0
+ga,petite elise,Petite Elise,03,,-0.8,9.9166667
+ga,petite silang,Petite Silang,03,,-0.6666667,9.7333333
+ga,petit loanga,Petit Loanga,08,,-2.2666667,9.5833333
+ga,petit loango,Petit Loango,08,,-2.2666667,9.5833333
+ga,petit mandilou,Petit Mandilou,04,,-1.35,10.6333333
+ga,petit mapfoungui,Petit Mapfoungui,07,,-1.2833333,12.9833333
+ga,petit masango,Petit Masango,04,,-1.55,11.3
+ga,petit mobigou,Petit Mobigou,04,,-1.4,11.6833333
+ga,petit ndambi,Petit Ndambi,07,,-0.5,12.7
+ga,petit paris,Petit Paris,03,,-0.7166667,10.2333333
+ga,pfoubi,Pfoubi,02,,-2.0,14.3166667
+ga,pingo,Pingo,04,,-1.2,11.6833333
+ga,pingou,Pingou,04,,-1.2,11.6833333
+ga,pingou,Pingou,07,,-1.5333333,12.1166667
+ga,piti masango,Piti Masango,04,,-1.55,11.3
+ga,piti massango,Piti Massango,04,,-1.7,11.3666667
+ga,plustard,Plustard,03,,-0.7333333,9.75
+ga,pointe claire,Pointe Claire,08,,-2.0166667,9.4666667
+ga,pointe denis,Pointe Denis,01,,0.3166667,9.3666667
+ga,pointe-noire,Pointe-Noire,03,,-0.9833333,10.0333333
+ga,poka,Poka,05,,-2.9333333,11.3166667
+ga,polo mbya,Polo Mbya,04,,-2.1166667,10.9
+ga,polombya,Polombya,05,,-2.45,10.95
+ga,poloumbia,Poloumbia,04,,-1.4166667,10.2166667
+ga,popa,Popa,07,,-1.5833333,12.3833333
+ga,porro,Porro,04,,-2.5666667,11.6166667
+ga,porro,Porro,05,,-2.4,10.7
+ga,port gentil,Port Gentil,07,,-1.1666667,11.85
+ga,port-gentil,Port-Gentil,08,109163,-0.7166667,8.7833333
+ga,posso,Posso,02,,-1.5666667,13.75
+ga,poubi,Poubi,07,,-1.2666667,12.95
+ga,poudi,Poudi,04,,-2.0333333,11.6333333
+ga,poudi,Poudi,05,,-3.1,11.65
+ga,pouma,Pouma,06,,0.7,13.1333333
+ga,poumbou,Poumbou,04,,-1.5,11.5
+ga,pounga-nganda,Pounga-Nganda,05,,-2.9666667,10.85
+ga,pounga,Pounga,04,,-1.2333333,11.7833333
+ga,poungi,Poungi,07,,-0.9666667,12.7833333
+ga,poungo,Poungo,07,,-1.6166667,12.3
+ga,poungou ii,Poungou II,04,,-1.5166667,10.5666667
+ga,poungou i,Poungou I,04,,-1.5666667,10.6333333
+ga,poungou,Poungou,04,,-1.5166667,10.5666667
+ga,poungou,Poungou,07,,-1.2166667,12.0333333
+ga,poungui,Poungui,04,,-1.6,11.6666667
+ga,poupa,Poupa,07,,-1.3166667,12.45
+ga,povo,Povo,05,,-3.2333333,11.5
+ga,quaben,Quaben,01,,0.4,9.4333333
+ga,ramba,Ramba,07,,-1.0666667,11.9166667
+ga,randi ii,Randi II,05,,-2.9666667,10.95
+ga,randi i,Randi I,05,,-2.9833333,10.9333333
+ga,rechenman,Rechenman,03,,-0.6833333,10.4
+ga,regnault,Regnault,01,,0.1666667,9.8166667
+ga,ribe,Ribé,09,,2.0666667,11.6666667
+ga,rigoho,Rigoho,01,,0.3166667,9.5833333
+ga,rima nzala,Rima Nzala,05,,-2.4666667,10.95
+ga,rinanzala,Rinanzala,03,,-0.7,10.0
+ga,rinanzala,Rinanzala,05,,-3.1166667,11.7
+ga,riranzala,Riranzala,05,,-2.75,10.8
+ga,roungassa,Roungassa,07,,-1.0166667,12.5333333
+ga,saguinanga,Saguinanga,08,,-2.1833333,10.2
+ga,sahoue,Sahoué,01,,0.6166667,9.3333333
+ga,sahue,Sahue,01,,0.6166667,9.3333333
+ga,saille,Saille,08,,-1.6,9.35
+ga,sainte benoit,Sainte Benoit,03,,-0.8333333,10.1666667
+ga,sainte-croix,Sainte-Croix,03,,-0.55,10.3
+ga,sainte-marie,Sainte-Marie,05,,-3.8,11.0166667
+ga,saint-francois,Saint-François,03,,-0.75,9.7
+ga,saint jean,Saint Jean,03,,-0.1833333,10.7666667
+ga,saint-louis,Saint-Louis,03,,-1.15,10.0166667
+ga,saint-paul,Saint-Paul,03,,-0.7,9.7333333
+ga,saint-thomas,Saint-Thomas,08,,-2.15,10.2
+ga,saira,Saïra,03,,-0.8666667,9.7833333
+ga,sakamikanda,Sakamikanda,07,,-1.0333333,12.75
+ga,sake ii,Sake II,09,,0.7333333,11.5166667
+ga,sake i,Sake I,09,,0.75,11.5333333
+ga,salaganga,Salaganga,08,,-1.9333333,10.1666667
+ga,salamou,Salamou,04,,-1.5833333,10.0833333
+ga,salanganga,Salanganga,08,,-1.9333333,10.1666667
+ga,salangonga,Salangonga,08,,-1.9333333,10.1666667
+ga,salangoue,Salangoué,03,,-0.9166667,10.0166667
+ga,salano,Salano,04,,-1.55,10.3166667
+ga,salanou,Salanou,08,,-1.9,10.0
+ga,sallanou,Sallanou,08,,-1.5666667,9.4833333
+ga,salo,Salo,06,,0.8166667,14.05
+ga,samba,Samba,04,,-1.0666667,10.7166667
+ga,sambinanga,Sambinanga,08,,-1.3666667,9.35
+ga,sam ii,Sam II,09,,0.95,11.2833333
+ga,samkita,Samkita,03,,-0.45,10.45
+ga,samouganga,Samouganga,04,,-1.75,10.25
+ga,sam,Sam,09,,0.8666667,11.5666667
+ga,sanda,Sanda,05,,-2.3666667,11.0166667
+ga,sandoundou,Sandoundou,07,,-0.7,12.5
+ga,sanga foret,Sanga Forêt,05,,-3.05,10.8333333
+ga,sanga ii,Sanga II,04,,-2.15,11.1166667
+ga,sanga i,Sanga I,04,,-2.1333333,11.1166667
+ga,sangala,Sangala,04,,-1.7,10.4
+ga,sanga-plaine,Sanga-Plaine,05,,-2.9666667,10.95
+ga,sanga,Sanga,05,,-2.9833333,10.85
+ga,sangatane,Sangatane,03,,-0.2,10.75
+ga,sangatanga,Sangatanga,08,,-0.4666667,9.25
+ga,sanghalam,Sanghalam,06,,0.3833333,12.2
+ga,sangha,Sangha,04,,-2.1333333,11.1833333
+ga,sangoua boma,Sangoua Boma,03,,-0.8333333,10.15
+ga,sangoue,Sangoué,02,,-1.8,13.5833333
+ga,sangouronda,Sangouronda,08,,-2.1333333,10.1833333
+ga,sangourouma,Sangourouma,08,,-2.15,10.2
+ga,sapina-wata,Sapina-Wata,04,,-2.2,12.0333333
+ga,saye,Saye,02,,-1.75,14.1833333
+ga,sele,Sélé,09,,2.2166667,12.1166667
+ga,seme,Semé,09,,1.55,11.85
+ga,sengui,Sengui,04,,-2.1666667,11.7666667
+ga,sette banda,Sétté Banda,05,,-3.8333333,11.0333333
+ga,sette-cama,Setté-Cama,04,,-1.7166667,10.7833333
+ga,sette cama,Sette Cama,04,,-2.3333333,11.1833333
+ga,sette cama,Setté Cama,08,,-2.5333333,9.75
+ga,seyiang,Seyiang,09,,2.1,11.7166667
+ga,seyland,Seyland,09,,2.2,11.7
+ga,seylang,Seylang,09,,2.1666667,11.7333333
+ga,sibang,Sibang,01,,0.4166667,9.5166667
+ga,sibangua,Sibangua,01,,0.4166667,9.5166667
+ga,siba,Siba,04,,-2.1333333,11.9
+ga,sibbi,Sibbi,02,,-1.8666667,13.5666667
+ga,sibi,Sibi,02,,-1.7,13.6833333
+ga,sifala,Sifala,01,,0.5833333,9.45
+ga,silakout,Silakout,09,,2.2166667,12.1333333
+ga,simane,Simane,08,,-0.6833333,8.9333333
+ga,simanic,Simanic,08,,-0.6833333,8.9333333
+ga,simani,Simani,08,,-0.6833333,8.9333333
+ga,simintang,Simintang,06,,0.5833333,12.8
+ga,sindara,Sindara,04,,-1.0333333,10.6666667
+ga,singa plaine,Singa Plaine,05,,-3.0166667,10.85
+ga,singna,Singna,05,,-2.9,11.1833333
+ga,siran-zangou,Siran-Zangou,03,,-0.7,9.7166667
+ga,sizakang,Sizakang,01,,0.1166667,10.1833333
+ga,soangui,Soangui,04,,-2.2833333,11.4666667
+ga,soangui,Soangui,05,,-2.4166667,10.9666667
+ga,soga ii,Soga II,04,,-1.2333333,11.55
+ga,soga,Soga,04,,-1.5833333,11.7666667
+ga,sola,Sola,07,,-1.55,12.65
+ga,song,Song,09,,2.2,11.8
+ga,sosotsanda,Sosotsanda,07,,-0.9666667,12.6
+ga,souangui,Souangui,05,,-2.4833333,10.5833333
+ga,soubba,Soubba,02,,-1.5,14.0833333
+ga,sougalam-fekele,Sougalam-Fekele,06,,0.3,11.9666667
+ga,sougoudzap,Sougoudzap,09,,1.7333333,11.65
+ga,souka,Souka,04,,-2.55,11.6
+ga,souka,Souka,07,,-0.8333333,12.8166667
+ga,soukila,Soukila,05,,-2.3666667,11.0166667
+ga,soulfane,Soulfane,03,,0.1166667,10.6166667
+ga,sounga-milare,Sounga-Milaré,01,,0.0833333,10.25
+ga,sounga,Sounga,04,,-1.9,11.95
+ga,sounga,Sounga,08,,-2.4166667,9.7333333
+ga,sulfane,Sulfane,03,,0.1166667,10.6166667
+ga,sulfan,Sulfan,03,,0.1166667,10.6166667
+ga,takamondzikou,Takamondzikou,04,,-1.95,11.9333333
+ga,taki,Taki,04,,-1.55,11.5166667
+ga,tamba,Tamba,03,,-1.0333333,10.1333333
+ga,tamba,Tamba,04,,-1.55,11.7666667
+ga,tando filou,Tando Filou,05,,-2.75,11.1166667
+ga,tandou filou,Tandou Filou,04,,-1.9,10.6833333
+ga,tarangone,Tarangone,09,,0.4333333,11.5666667
+ga,tassi,Tassi,08,,-2.0833333,9.4333333
+ga,tchad,Tchad,03,,-0.95,10.45
+ga,tchangombini,Tchangombini,08,,-0.9833333,9.6666667
+ga,tchangonivi,Tchangonivi,08,,-1.5333333,9.4833333
+ga,tchatamba,Tchatamba,08,,-1.95,9.4666667
+ga,tchengue-paga,Tchengué-Paga,04,,-2.0666667,10.6166667
+ga,tchengue,Tchengué,04,,-1.65,11.9833333
+ga,tchengue,Tchengué,08,,-0.8166667,8.8166667
+ga,tchengui-paga,Tchengui-Paga,04,,-2.0666667,10.6166667
+ga,tchibanga,Tchibanga,05,19365,-2.85,11.0333333
+ga,tchibanga,Tchibanga,08,,-1.1333333,9.55
+ga,tchibenda,Tchibenda,05,,-3.9,11.1333333
+ga,tchigana,Tchigana,05,,-3.7333333,11.05
+ga,tchimazok,Tchimazok,09,,2.0,11.5333333
+ga,tchimbia,Tchimbia,05,,-3.8166667,11.0166667
+ga,tchingondo,Tchingondo,05,,-3.5166667,10.8166667
+ga,tchioumbi ii,Tchioumbi II,04,,-2.1166667,11.6666667
+ga,tchioumbi i,Tchioumbi I,04,,-2.1,11.6833333
+ga,tchitende,Tchitendé,05,,-3.9,11.1333333
+ga,tchongorove,Tchongorové,08,,-1.9166667,9.3166667
+ga,tchouka,Tchouka,03,,-0.8333333,10.35
+ga,tebe ii,Tébé II,02,,-0.1833333,13.7166667
+ga,tebe i,Tébé I,02,,-0.2166667,13.7166667
+ga,tebe,Tébé,02,,-0.0833333,13.8
+ga,tegha,Tégha,03,,-0.25,10.6166667
+ga,tem,Tem,01,,-0.1,9.9
+ga,tendi,Téndi,04,,-1.25,10.95
+ga,tha,Tha,09,,2.1333333,11.3666667
+ga,thol,Thol,03,,-0.35,10.5
+ga,tho,Tho,09,,1.9333333,11.6166667
+ga,tia,Tia,05,,-3.6,10.9666667
+ga,tietie,Tiétié,06,,0.4166667,13.0333333
+ga,tinga-tsenge,Tinga-Tsengé,04,,-2.1333333,12.4166667
+ga,toco tsiala,Toco Tsiala,05,,-3.7666667,11.0166667
+ga,tok,Tok,09,,2.0,11.4833333
+ga,tomassi,Tomassi,09,,1.05,11.4833333
+ga,tom,Tom,09,,1.8166667,11.7333333
+ga,tonokamba,Tonokamba,05,,-2.65,10.6333333
+ga,tono sangana,Tono Sangana,05,,-2.7,11.3833333
+ga,tono,Tono,05,,-3.0333333,10.8333333
+ga,tornebeim,Tornebeim,01,,0.0333333,9.9666667
+ga,touassi,Touassi,07,,-1.2166667,11.9666667
+ga,toubaganga,Toubaganga,04,,-1.7,10.9333333
+ga,toubaghengui,Toubaghengui,04,,-1.5333333,10.45
+ga,toukoue,Toukoué,06,,0.7166667,13.1833333
+ga,toulo,Toulo,06,,0.6666667,12.8666667
+ga,toulougaba,Toulougaba,05,,-2.6833333,10.7
+ga,toumba,Toumba,05,,-2.55,11.1666667
+ga,toumbi ii,Toumbi II,06,,1.1666667,14.1
+ga,toumbi i,Toumbi I,06,,1.1,14.0833333
+ga,toungounamba ii,Toungounamba II,08,,-1.5666667,9.4166667
+ga,toungounamba i,Toungounamba I,08,,-1.5666667,9.4166667
+ga,toungounamba,Toungounamba,08,,-1.5666667,9.4166667
+ga,tourounessol,Tourounessol,09,,1.5666667,11.9
+ga,tourouvaya,Tourouvaya,06,,0.1333333,13.55
+ga,tsade,Tsade,04,,-2.2666667,11.4666667
+ga,tsambalingue,Tsambalingué,07,,-1.0166667,12.05
+ga,tsamba,Tsamba,04,,-1.15,11.6833333
+ga,tsamba,Tsamba,07,,-0.9166667,12.6166667
+ga,tsambo,Tsambo,04,,-1.2666667,11.8666667
+ga,tsambou,Tsambou,04,,-1.2666667,11.8666667
+ga,tsanda,Tsanda,07,,-0.95,12.85
+ga,tsandi,Tsandi,07,,-1.0666667,12.5166667
+ga,tsanga,Tsanga,02,,-1.7333333,13.75
+ga,tsangui,Tsangui,04,,-2.4666667,11.2666667
+ga,tsati,Tsati,07,,-0.9833333,12.85
+ga,tsegnou bila,Tsegnou Bila,05,,-2.7666667,11.1166667
+ga,tsenguenabela,Tsenguenabela,07,,-1.5833333,12.8166667
+ga,tsengue,Tsengué,07,,-1.2166667,11.9833333
+ga,tsengui,Tsengui,04,,-1.3,11.85
+ga,tsienguifala,Tsienguifala,04,,-1.5833333,10.6333333
+ga,tsiengui panga,Tsiengui Panga,04,,-1.5,10.6666667
+ga,tsifala,Tsifala,04,,-1.5,10.5333333
+ga,tsimbili,Tsimbili,09,,0.95,12.0833333
+ga,tsingue,Tsingué,07,,-0.8666667,12.7166667
+ga,tsingui,Tsingui,07,,-1.2166667,11.9833333
+ga,tsogni,Tsogni,05,9957,-2.8,10.1666667
+ga,tsogui,Tsogui,05,,-3.05,10.4333333
+ga,tsongo malongo,Tsongo Malongo,08,,-2.1,10.1333333
+ga,tsotonzala,Tsotonzala,07,,-1.45,12.8666667
+ga,tsouka,Tsouka,05,,-2.3333333,11.05
+ga,tsoumbi,Tsoumbi,04,,-2.1333333,11.6166667
+ga,tumba,Tumba,05,,-2.8666667,11.6666667
+ga,ukoko,Ukoko,01,,0.9833333,9.6
+ga,vama,Vama,09,,2.0666667,11.9833333
+ga,vanayeme,Vanayémé,01,,0.2666667,10.1166667
+ga,vandarene echira,Vandaréne Echira,08,,-1.6666667,9.5666667
+ga,vandarene pahouin,Vandaréne Pahouin,08,,-1.65,9.5166667
+ga,vandarene,Vandaréné,08,,-1.6666667,9.5666667
+ga,vanguenengue,Vanguenengué,08,,-1.1166667,9.55
+ga,varmoko,Varmoko,01,,0.3,10.2
+ga,vedi,Vedi,04,,-1.4,11.7833333
+ga,vema,Véma,09,,2.0666667,12.0166667
+ga,venelle,Venelle,06,,1.0166667,13.9666667
+ga,vengue,Vengué,02,,-1.55,13.1
+ga,vera,Véra,08,,-2.6166667,10.1166667
+ga,veyrie,Veyrié,08,,-0.9666667,9.7166667
+ga,viafe,Viafé,03,,-0.6,10.2333333
+ga,viafe,Viafé,09,,0.3333333,11.4166667
+ga,village atova,Village Atova,08,,-1.4333333,9.35
+ga,village bama,Village Bama,04,,-2.15,11.8833333
+ga,village erogoue,Village Erogoué,08,,-0.65,8.7166667
+ga,village ikeva,Village Ikéva,08,,-1.2166667,9.0333333
+ga,village mbonde,Village Mbondé,08,,-0.6333333,8.7
+ga,village olago,Village Olago,08,,-1.55,9.45
+ga,village saille,Village Saille,08,,-1.6,9.35
+ga,village sainte marie,Village Sainte Marie,05,,-3.8,11.0166667
+ga,ville,Ville,07,,-1.7,12.1333333
+ga,viong,Viong,06,,0.4833333,12.4166667
+ga,vivane,Vivane,09,,0.9166667,12.15
+ga,vodvi,Vodvi,04,,-2.3333333,12.2666667
+ga,vombie,Vombié,01,,0.95,9.5666667
+ga,vonmozel,Vonmozel,01,,0.3333333,9.6333333
+ga,voulougandou,Voulougandou,05,,-2.6333333,11.1333333
+ga,voumvou,Voumvou,05,,-3.2333333,11.7333333
+ga,vouta,Vouta,04,,-1.25,11.1
+ga,vouvi,Vouvi,04,,-2.3333333,12.2666667
+ga,welle-leboung,Wellé-Leboung,02,,-1.6333333,13.3666667
+ga,welle,Wéllé,02,,-1.6333333,13.3666667
+ga,woumou,Woumou,09,,2.1666667,11.65
+ga,yabala,Yabala,05,,-2.85,11.2666667
+ga,yaffa,Yaffa,09,,1.6333333,11.5
+ga,yamba boualou,Yamba Boualou,04,,-1.9666667,11.7
+ga,yamba iii,Yamba III,04,,-1.8166667,10.9166667
+ga,yamba ii,Yamba II,04,,-1.8166667,10.9166667
+ga,yamba i,Yamba I,04,,-1.8166667,10.8833333
+ga,yamba,Yamba,02,,-2.0166667,13.7166667
+ga,yamba,Yamba,04,,-1.8166667,10.8833333
+ga,yamemve,Yamemvé,09,,2.0833333,11.6333333
+ga,yameyang,Yameyang,01,,0.05,10.5833333
+ga,yandji,Yandji,05,,-3.0833333,11.2333333
+ga,yanebot,Yanébot,09,,2.1666667,12.1333333
+ga,yanibour,Yanibour,09,,0.4833333,11.5166667
+ga,yaraka,Yaraka,03,,-0.2333333,10.5
+ga,ybien,Ybien,06,,0.6,12.7333333
+ga,yello,Yello,04,,-2.4,11.2333333
+ga,yelo,Yelo,05,,-2.6,11.3666667
+ga,yembi,Yembi,04,,-1.4333333,10.6166667
+ga,yendji,Yendji,05,,-2.8166667,10.0666667
+ga,yene,Yéné,02,,-1.65,13.55
+ga,yengue,Yengué,04,,-2.2333333,11.2666667
+ga,yengui,Yengui,04,,-1.9833333,11.3
+ga,yeng,Yeng,06,,0.3166667,11.6
+ga,yeno,Yeno,04,,-1.7,11.55
+ga,yeno,Yéno,08,,-1.35,9.3333333
+ga,yen,Yen,09,,0.9,11.7
+ga,yetsou ii,Yetsou II,04,,-2.15,10.6666667
+ga,yetsou i,Yetsou I,04,,-2.1333333,10.6833333
+ga,yetsou,Yetsou,04,,-2.1333333,10.7
+ga,yeyeha,Yéyéha,05,,-3.0333333,10.4333333
+ga,yeyena,Yeyena,05,,-3.0333333,10.4333333
+ga,yeyenga,Yeyenga,05,,-3.0333333,10.4333333
+ga,yeye,Yéyé,02,,-1.4333333,13.35
+ga,yianamassok,Yianamassok,09,,0.8166667,11.4
+ga,yinanessogo,Yinanessogo,09,,0.8666667,11.4333333
+ga,yinassessogo,Yinassessogo,09,,0.9166667,11.2
+ga,yobomamba,Yobomamba,07,,-1.0,12.85
+ga,yoko,Yoko,06,,0.5333333,12.9166667
+ga,yombe ii,Yombé II,08,,-0.9666667,9.4333333
+ga,yombe i,Yombé I,08,,-0.9833333,9.4333333
+ga,yombe,Yombé,01,,0.6,9.4833333
+ga,yombe,Yombé,08,,-0.7333333,8.8833333
+ga,yombi,Yombi,04,,-1.4333333,10.6166667
+ga,yongodoulongo,Yongodoulongo,08,,-1.0,9.6833333
+ga,yongo,Yongo,05,,-2.6166667,11.4166667
+ga,yongulssa,Yongulssa,04,,-2.15,11.7333333
+ga,yong,Yong,01,,0.8166667,9.85
+ga,yosse,Yossé,09,,2.0833333,11.5833333
+ga,yoss ii,Yoss II,09,,1.8333333,11.4666667
+ga,yoss i,Yoss I,09,,1.8333333,11.4666667
+ga,yougou,Yougou,08,,-1.9,9.4166667
+ga,youko,Youko,06,,0.7,12.6666667
+ga,youlandzambi,Youlandzambi,07,,-1.05,12.75
+ga,youlou,Youlou,02,,-1.5333333,13.15
+ga,youlou,Youlou,07,,-0.9,12.6
+ga,youma,Youma,02,,-0.8,14.0333333
+ga,youmbou,Youmbou,05,,-3.15,11.3
+ga,younga-younga,Younga-Younga,07,,-0.95,12.6833333
+ga,yoyo,Yoyo,05,,-3.6833333,11.1
+ga,yuko,Yuko,06,,0.7,12.6666667
+ga,zalakouka,Zalakouka,07,,-0.4666667,12.4166667
+ga,zamanene,Zamanéné,01,,0.1,10.1833333
+ga,zamata,Zamata,03,,-0.1166667,10.8833333
+ga,zambi zanza,Zambi Zanza,05,,-3.4166667,10.7
+ga,zambounie,Zambounié,08,,-1.6833333,9.4166667
+ga,zamelen ii,Zamelen II,09,,1.85,11.6333333
+ga,zamelen i,Zamelen I,09,,1.8666667,11.6333333
+ga,zanangoue,Zanangoué,09,,1.3833333,11.5666667
+ga,zangame,Zangame,09,,0.95,10.75
+ga,zangui mamba,Zangui Mamba,05,,-2.8833333,10.2
+ga,zembi-zanza,Zembi-Zanza,05,,-3.5,10.8333333
+ga,zilmac,Zilmac,08,,-1.6666667,9.75
+ga,zindzele,Zindzélé,07,,-1.3,12.5333333
+ga,zoanki,Zoanki,06,,-0.0666667,11.6833333
+ga,zobermitang,Zobermitang,09,,0.9,10.5833333
+ga,zobete,Zobeté,09,,1.8,11.5666667
+ga,zogogone,Zogogone,09,,1.6166667,11.5333333
+ga,zogomitang,Zogomitang,09,,0.9,11.1833333
+ga,zogueloumou,Zoguéloumou,09,,2.2,11.8333333
+ga,zokokota,Zokokota,06,,0.8666667,13.6166667
+ga,zokoma,Zokoma,06,,0.7833333,13.35
+ga,zokosoa,Zokosoa,06,,0.6833333,13.1
+ga,zoolende,Zoolendé,06,,0.1833333,13.4666667
+ga,zorengone,Zorengone,09,,0.8,10.45
+ga,zoua,Zoua,09,,1.1833333,11.5166667
+ga,zougouani,Zougouani,07,,-1.0333333,13.1
+ga,zoulameyong,Zoulameyong,01,,0.2333333,10.1666667
+ga,zoula,Zoula,06,,1.0833333,14.0666667
+ga,zoungui,Zoungui,07,,-1.6333333,12.4
+ga,zouri,Zouri,08,,-1.0166667,8.8833333

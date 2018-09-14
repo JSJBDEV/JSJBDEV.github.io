@@ -1,0 +1,42 @@
+ai,bethel,Bethel,00,,18.2,-63.1
+ai,betty hill,Betty Hill,00,,18.2166667,-63.0
+ai,blowing point village,Blowing Point Village,00,,18.1666667,-63.0833333
+ai,cannifist,Cannifist,00,,18.2333333,-63.0166667
+ai,cauls bottom,Cauls Bottom,00,,18.2166667,-63.0333333
+ai,chalvilles,Chalvilles,00,,18.2333333,-63.0
+ai,crocus hill,Crocus Hill,00,,18.2166667,-63.0666667
+ai,deep waters,Deep Waters,00,,18.2333333,-63.0166667
+ai,east end,East End,00,,18.2333333,-63.0
+ai,east end village,East End Village,00,,18.2333333,-63.0
+ai,ebenezer,Ebenezer,00,,18.2166667,-63.0666667
+ai,george hill,George Hill,00,,18.2,-63.0666667
+ai,island harbour,Island Harbour,00,,18.25,-63.0
+ai,junks hole,Junks Hole,00,,18.25,-62.9833333
+ai,little dicks,Little Dicks,00,,18.2333333,-63.0333333
+ai,little dix,Little Dix,00,,18.2333333,-63.0333333
+ai,long bay village,Long Bay Village,00,,18.1833333,-63.1166667
+ai,long ground,Long Ground,00,,18.2,-63.05
+ai,long path,Long Path,00,,18.2166667,-63.0166667
+ai,lower south hill,Lower South Hill,00,,18.1833333,-63.1
+ai,mahogany tree,Mahogany Tree,00,,18.2,-63.0333333
+ai,mount fortune,Mount Fortune,00,,18.2333333,-62.9833333
+ai,north hill village,North Hill Village,00,,18.2,-63.0666667
+ai,north side,North Side,00,,18.2166667,-63.05
+ai,rey hill,Rey Hill,00,,18.2,-63.0333333
+ai,saint mary's,Saint Mary's,00,,18.2166667,-63.0666667
+ai,sandy ground village,Sandy Ground Village,00,,18.2,-63.0833333
+ai,shoal bay village,Shoal Bay Village,00,,18.25,-63.0166667
+ai,shoal village,Shoal Village,00,,18.25,-63.0166667
+ai,south hill village,South Hill Village,00,,18.1833333,-63.0833333
+ai,stoney ground,Stoney Ground,00,,18.2166667,-63.0333333
+ai,the copse,The Copse,00,,18.2166667,-62.9833333
+ai,the farrington,The Farrington,00,,18.2,-63.0333333
+ai,the forest,The Forest,00,,18.2,-63.0333333
+ai,the quarter,The Quarter,00,,18.2,-63.0333333
+ai,the valley,The Valley,00,1379,18.2166667,-63.05
+ai,valley,Valley,00,,18.2166667,-63.05
+ai,wattices,Wattices,00,,18.2166667,-63.0333333
+ai,welches hill,Welches Hill,00,,18.2333333,-63.0166667
+ai,welches,Welches,00,,18.2333333,-63.0166667
+ai,west end village,West End Village,00,,18.1666667,-63.15
+ai,white hill,White Hill,00,,18.25,-63.0

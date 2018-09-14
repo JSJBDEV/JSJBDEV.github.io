@@ -1,0 +1,2800 @@
+cy,abesa,Abesa,05,,34.7916667,32.9791667
+cy,abohor,Abohor,04,,35.2291667,33.5166667
+cy,abosha,Abosha,05,,34.7916667,32.9791667
+cy,aboukhor,Aboukhor,04,,35.2291667,33.5166667
+cy,acheleia,Acheleia,06,,34.7416667,32.4875
+cy,acheritou,Acheritou,01,,35.1,33.8625
+cy,achna,Achna,01,,35.0583333,33.7833333
+cy,adacay,Adaçay,01,,35.5125,34.2
+cy,adrakos,Adrakos,05,,34.85,33.05
+cy,afanya,Afanya,01,,35.1583333,33.5875
+cy,aga±lbasa±,AgÄ±lbasÄ±,03,,34.9791667,33.6208333
+cy,aga±llar,AgÄ±llar,01,,35.35,33.8
+cy,aga±llar,AgÄ±llar,06,,34.7166667,32.5333333
+cy,aga±rdag,AgÄ±rdag,02,,35.2875,33.2666667
+cy,aghirda,Aghirda,02,,35.2875,33.2666667
+cy,agia anna,Agia Anna,03,,34.9416667,33.4833333
+cy,agia eirini,Agia Eirini,02,,35.2994444,32.9622222
+cy,agia eirini,Agia Eirini,04,,34.9833333,32.9666667
+cy,agia marina,Agia Marina,06,,34.8291667,32.6166667
+cy,agia marinouda,Agia Marinouda,06,,34.7625,32.475
+cy,agia napa,Agia Napa,01,,34.9916667,34.0
+cy,agia trias,Agia Trias,01,,35.5416667,34.2166667
+cy,agia varvara,Agia Varvara,04,,34.9958333,33.3680556
+cy,agia varvara,Agia Varvara,06,,34.75,32.5125
+cy,agioi iliofotoi,Agioi Iliofotoi,04,,35.0583333,33.1041667
+cy,agion georgoudi,Agion Georgoudi,04,,35.1,32.8833333
+cy,agios amvrosios,Agios Amvrosios,05,,34.7833333,32.8291667
+cy,agios andronikos,Agios Andronikos,01,,35.3416667,33.8708333
+cy,agios athanasios,Agios Athanasios,05,,34.7125,33.05
+cy,agios dimitrianos,Agios Dimitrianos,06,,34.9083333,32.55
+cy,agios dimitrios,Agios Dimitrios,05,,34.925,32.8166667
+cy,agios dometios,Agios Dometios,04,,35.1791667,33.3333333
+cy,agios efstathios,Agios Efstathios,01,,35.3833333,34.0166667
+cy,agios epifanios,Agios Epifanios,04,,34.9875,33.1208333
+cy,agios epiktitos,Agios Epiktitos,03,,35.325,33.3916667
+cy,agios epiphanios,Agios Epiphanios,04,,35.0666667,32.8833333
+cy,agios ermolaos,Agios Ermolaos,02,,35.2791667,33.1708333
+cy,agios fotios,Agios Fotios,06,,34.875,32.6125
+cy,agios georgios,Agios Georgios,02,,35.3458333,33.2791667
+cy,agios georgios,Agios Georgios,04,,35.0375,33.0125
+cy,agios georgios,Ágios Geórgios,05,,34.8166667,32.9
+cy,agios georgios,Agios Georgios,06,,34.7791667,32.65
+cy,agios iiias,Agios IIias,01,,35.3291667,33.925
+cy,agios ioannis,Agios Ioannis,04,,35.0666667,33.1833333
+cy,agios ioannis,Agios Ioannis,05,,34.8958333,33.0208333
+cy,agios ioannis,Agios Ioannis,06,,34.8708333,32.6916667
+cy,agios isidoros,Agios Isidoros,06,,35.0,32.475
+cy,agios konstantinos,Agios Konstantinos,05,,34.8666667,33.0666667
+cy,agios mamas,Agios Mamas,05,,34.85,32.95
+cy,agios nikolaos,Agios Nikolaos,01,,35.0958333,33.9
+cy,agios nikolaos,Agios Nikolaos,04,,35.1041667,32.8791667
+cy,agios nikolaos,Agios Nikolaos,06,,34.8625,32.7375
+cy,agios pavlos,Agios Pavlos,05,,34.8666667,33.0458333
+cy,agios sergios,Agios Sergios,01,,35.2,33.875
+cy,agios sozomenos,Agios Sozomenos,04,,35.0666667,33.4375
+cy,agios theodoros,Agios Theodoros,01,,35.3666667,34.0291667
+cy,agios theodoros,Agios Theodoros,03,,34.8013889,33.3875
+cy,agios theodoros,Agios Theodoros,04,,35.0413889,32.9294444
+cy,agios theodoros,Ágios Theódoros,05,,34.8958333,33.0333333
+cy,agios therapon,Agios Therapon,05,,34.8125,32.8333333
+cy,agios thomas,Agios Thomas,05,,34.7166667,32.725
+cy,agios tychon,Agios Tychon,03,,34.725,33.1416667
+cy,agios vasileios,Agios Vasileios,04,,35.2291667,33.1833333
+cy,agio vavatsinias,Agio Vavatsinias,03,,34.8833333,33.1916667
+cy,agirda,Agirda,02,,35.2875,33.2666667
+cy,agirdaki,Agirdaki,02,,35.3083333,33.15
+cy,agirta,Agirta,02,,35.2875,33.2666667
+cy,agkleisides,Agkleisides,03,,34.8458333,33.4583333
+cy,aglangia,Aglangia,04,,35.1541667,33.3958333
+cy,aglisides,Aglisides,03,,34.8458333,33.4583333
+cy,agra±daga±,AgrÄ±dagÄ±,02,,35.3083333,33.15
+cy,agraladu,Agraladu,04,,35.0333333,32.8875
+cy,agratur,Agratur,01,,35.1,33.8625
+cy,agridaki,Agridaki,02,,35.3083333,33.15
+cy,agridhaki,Agridhaki,02,,35.3083333,33.15
+cy,agridhia,Agridhia,05,,34.9291667,32.9958333
+cy,agridhi,Agridhi,02,,35.2875,33.2666667
+cy,agridia,Agridia,05,,34.9291667,32.9958333
+cy,agridya,Agridya,05,,34.9291667,32.9958333
+cy,agritya,Agritya,05,,34.9291667,32.9958333
+cy,agro,Agro,05,,34.9166667,33.0166667
+cy,agrocipya,Agrocipya,04,,35.0333333,33.15
+cy,agrokipia,Agrokipia,04,,35.0333333,33.15
+cy,agroladhou,Agroladhou,04,,35.0333333,32.8875
+cy,agroladou,Agroladou,04,,35.0333333,32.8875
+cy,agroladu,Agroladu,04,,35.0333333,32.8875
+cy,agros,Agros,05,,34.9166667,33.0166667
+cy,agrotur,Agrotur,05,,34.6041667,32.9583333
+cy,agyia,Agyia,04,,35.1083333,33.5625
+cy,agyia,Agyia,06,,34.9833333,32.625
+cy,aharida,Aharida,01,,35.1,33.8625
+cy,aharitu,Aharitu,01,,35.1,33.8625
+cy,ahiritu,Ahiritu,01,,35.1,33.8625
+cy,ahna,Ahna,01,,35.0583333,33.7833333
+cy,aigialousa,Aigialousa,01,,35.5333333,34.1916667
+cy,ainakofo,Ainakofo,01,,35.325,33.8166667
+cy,akaca,Akaca,04,,35.1333333,33.1291667
+cy,akacha,Akácha,04,,35.1333333,33.1291667
+cy,akaki,Akaki,04,,35.1333333,33.1291667
+cy,aka±nca±lar,AkÄ±ncÄ±lar,04,,35.0125,33.4666667
+cy,akanthou,Akanthou,01,,35.375,33.7541667
+cy,akapnou,Akapnou,05,,34.8416667,33.1875
+cy,akapnu,Akapnu,05,,34.8416667,33.1875
+cy,akarsu,Akarsu,06,,34.8875,32.4208333
+cy,akatu,Akatu,01,,35.375,33.7541667
+cy,akbulut,Akbulut,01,,35.0958333,33.9
+cy,akcay,Akçay,04,,35.1791667,33.0333333
+cy,akcicek,Akçiçek,02,,35.3,33.1708333
+cy,akdeniz,Akdeniz,02,,35.2994444,32.9622222
+cy,akdogan,Akdogan,01,,35.1083333,33.6833333
+cy,akheilia,Akheilia,06,,34.7416667,32.4875
+cy,akhelia,Akhelia,06,,34.7416667,32.4875
+cy,akhisar,Akhisar,03,,34.9416667,33.4833333
+cy,akhna,Akhna,01,,35.0583333,33.7833333
+cy,akhyritou,Akhyritou,01,,35.1,33.8625
+cy,akkarga±,AkkargÄ±,06,,34.8375,32.5333333
+cy,akkor,Akkor,03,,34.825,33.4625
+cy,akourso,Akourso,06,,34.8875,32.4208333
+cy,akoursos,Akoursos,06,,34.8875,32.4208333
+cy,akova,Akova,01,,35.2583333,33.7833333
+cy,akrotiri,Akrotiri,05,,34.6041667,32.9583333
+cy,akrotirion,Akrotirion,05,,34.6041667,32.9583333
+cy,akrounda,Akrounda,05,,34.7666667,33.0833333
+cy,akrounta,Akrounta,05,,34.7666667,33.0833333
+cy,akrunda,Akrunda,05,,34.7666667,33.0833333
+cy,akrunta,Akrunta,05,,34.7666667,33.0833333
+cy,aksaray,Aksaray,01,,35.2583333,33.7333333
+cy,aksilou,Aksilou,06,,34.8125,32.5541667
+cy,aksilu,Aksilu,06,,34.8125,32.5541667
+cy,aksu,Aksu,03,,34.8458333,33.4583333
+cy,aksu,Aksu,06,,34.8125,32.5541667
+cy,aksulu,Aksulu,06,,34.8125,32.5541667
+cy,aktepe,Aktepe,06,,34.925,32.6166667
+cy,akurso,Akurso,06,,34.8875,32.4208333
+cy,ala±cler,AlÄ±cler,04,,34.9333333,33.1166667
+cy,alakati,Alakati,02,,35.3333333,33.5
+cy,alambra,Alambra,04,,34.9916667,33.4
+cy,alamino,Alamino,03,,34.8083333,33.4333333
+cy,alaminos,Alaminos,03,,34.8083333,33.4333333
+cy,alaminya,Alaminya,03,,34.8083333,33.4333333
+cy,alaminyo,Alaminyo,03,,34.8083333,33.4333333
+cy,alampra,Alampra,04,,34.9916667,33.4
+cy,alanici,Alaniçi,01,,35.2166667,33.7583333
+cy,alanici,Alaniçi,03,,34.8916667,33.5125
+cy,alasa,Alasa,05,,34.7583333,32.9208333
+cy,alasia,Alasia,01,,35.1625,33.8833333
+cy,alassa,Alassa,05,,34.7583333,32.9208333
+cy,alaykoy,Alayköy,04,,35.1833333,33.25
+cy,alehtora,Alehtora,05,,34.7083333,32.6833333
+cy,alekhtora,Alekhtora,05,,34.7083333,32.6833333
+cy,alektora,Alektora,05,,34.7083333,32.6833333
+cy,alemdag,Alemdag,02,,35.3083333,33.15
+cy,alethriko,Alethriko,03,,34.8611111,33.4958333
+cy,alethrikon,Alethrikon,03,,34.8611111,33.4958333
+cy,aletirke,Aletirke,03,,34.8611111,33.4958333
+cy,aletrike,Aletrike,03,,34.8611111,33.4958333
+cy,aletriko,Aletriko,03,,34.8611111,33.4958333
+cy,alevga,Alevga,04,,35.1583333,32.6
+cy,alevka,Alevka,04,,35.1583333,32.6
+cy,alevkaya,Alevkaya,02,,35.2875,33.5333333
+cy,alevkaya,Alevkaya,04,,35.1583333,32.6
+cy,aliclar,Aliçlar,04,,35.1,32.85
+cy,alifodes,Alifodes,04,,35.0583333,33.1041667
+cy,alifodez,Alifodez,04,,35.0583333,33.1041667
+cy,alifotes,Alifotes,04,,35.0583333,33.1041667
+cy,alihodes,Alihodes,04,,35.0583333,33.1041667
+cy,alithinou,Alithinou,04,,34.9458333,33.0291667
+cy,alitinu,Alitinu,04,,34.9458333,33.0291667
+cy,aloa,Aloa,01,,35.2125,33.8291667
+cy,aloda,Aloda,01,,35.2125,33.8291667
+cy,alodha,Alodha,01,,35.2125,33.8291667
+cy,alona,Alona,04,,34.9333333,33.0416667
+cy,aloupi,Aloupi,05,,34.6833333,32.9958333
+cy,alsancak,Alsancak,02,,35.3416667,33.2
+cy,alta±nca±k,AltÄ±ncÄ±k,06,,35.005,32.4372222
+cy,alta±nova,AltÄ±nova,01,,35.325,33.8166667
+cy,altilar,Altilar,01,,35.2125,33.8291667
+cy,amadhaes,Amadhaes,04,,35.1666667,32.7166667
+cy,amadhiaes,Amadhiæs,04,,35.1666667,32.7166667
+cy,amadhies,Amadhies,04,,35.1666667,32.7166667
+cy,amadyez,Amadyez,04,,35.1666667,32.7166667
+cy,amarget,Amarget,06,,34.825,32.5833333
+cy,amargeti,Amargeti,06,,34.825,32.5833333
+cy,amargot,Amargot,06,,34.825,32.5833333
+cy,amarketi,Amarketi,06,,34.825,32.5833333
+cy,ambelikou,Ambelikou,04,,35.1208333,32.8083333
+cy,ambeliku,Ambeliku,04,,35.1208333,32.8083333
+cy,amiandos,Amiandos,05,,34.9208333,32.9333333
+cy,ammadhies,Ammadhies,04,,35.1666667,32.7166667
+cy,ammochostos,Ammochostos,01,,35.125,33.95
+cy,ammochostus,Ammochostus,01,,35.125,33.95
+cy,ammokhostos,Ammokhostos,01,,35.125,33.95
+cy,ampelikou,Ampelikou,04,,35.1208333,32.8083333
+cy,anadhiou,Anadhiou,06,,34.9458333,32.55
+cy,anadhiu,Anadhiu,06,,34.9458333,32.55
+cy,anadiou,Anadiou,06,,34.9458333,32.55
+cy,anadyu,Anadyu,06,,34.9458333,32.55
+cy,anafodiya,Anafodiya,03,,34.825,33.4625
+cy,anafotia,Anafotia,03,,34.825,33.4625
+cy,anafotida,Anafotida,03,,34.825,33.4625
+cy,anagyia,Anagyia,04,,35.075,33.25
+cy,analionda,Analionda,04,,35.0083333,33.2916667
+cy,analiondas,Analiondas,04,,35.0083333,33.2916667
+cy,analiontas,Analiontas,04,,35.0083333,33.2916667
+cy,analjondas,Analjondas,04,,35.0083333,33.2916667
+cy,analyonda,Analyonda,04,,35.0083333,33.2916667
+cy,anaphotia,Anaphotia,03,,34.825,33.4625
+cy,anarida,Anarida,06,,34.7416667,32.5333333
+cy,anarita,Anarita,06,,34.7416667,32.5333333
+cy,anaryta,Anaryta,06,,34.7416667,32.5333333
+cy,anatyu,Anatyu,06,,34.9458333,32.55
+cy,anavargo,Anavargo,06,,34.7958333,32.45
+cy,anavargos,Anavargos,06,,34.7958333,32.45
+cy,anaya,Anaya,04,,35.075,33.25
+cy,anayia,Anayia,04,,35.075,33.25
+cy,androhkou,Androhkou,06,,34.9986111,32.3827778
+cy,androlikon,Androlikon,06,,34.9986111,32.3827778
+cy,androlikou,Androlikou,06,,34.9986111,32.3827778
+cy,androlykou,Androlykou,06,,34.9986111,32.3827778
+cy,angastina,Angastina,01,,35.2041667,33.5833333
+cy,anglisidhes,Anglisidhes,03,,34.8458333,33.4583333
+cy,anglisiya,Anglisiya,03,,34.8458333,33.4583333
+cy,angolaemi,Angolæmi,04,,35.1172222,32.9480556
+cy,angola“mi,AngolÅ“mi,04,,35.1172222,32.9480556
+cy,angolem,Angolem,04,,35.1172222,32.9480556
+cy,angolemi,Angolemi,04,,35.1172222,32.9480556
+cy,anklisides,Anklisides,03,,34.8458333,33.4583333
+cy,anogyra,Anogyra,05,,34.7458333,32.7333333
+cy,anoyira,Anoyira,05,,34.7458333,32.7333333
+cy,anoyra,Anoyra,05,,34.7458333,32.7333333
+cy,antroliku,Antroliku,06,,34.9986111,32.3827778
+cy,apaisia,Apaisia,05,,34.7916667,32.9791667
+cy,apa“sia,ApÅ“sia,05,,34.7916667,32.9791667
+cy,apesa,Apesa,05,,34.7916667,32.9791667
+cy,apesha,Apesha,05,,34.7916667,32.9791667
+cy,apesia,Apesia,05,,34.7916667,32.9791667
+cy,aphaneia,Aphaneia,01,,35.1583333,33.5875
+cy,aphania,Aphania,01,,35.1583333,33.5875
+cy,aplanda,Aplanda,03,,34.8291667,33.475
+cy,aplanda chiftlik,Aplánda Chiftlík,03,,34.8291667,33.475
+cy,aplanta,Aplanta,03,,34.8291667,33.475
+cy,aplic,Apliç,04,,35.1,32.85
+cy,apliki,Apliki,04,,34.9333333,33.1166667
+cy,apsiou,Apsiou,05,,34.8,33.0166667
+cy,apsiu,Apsiu,05,,34.8,33.0166667
+cy,apsou,Apsou,05,,34.8,33.0166667
+cy,apsu,Apsu,05,,34.8,33.0166667
+cy,ara±dama±,ArÄ±damÄ±,01,,35.3208333,33.725
+cy,aradhiou,Aradhiou,04,,35.0458333,33.1958333
+cy,aradhippou,Aradhippou,03,,34.95,33.5916667
+cy,aradiou,Aradiou,04,,35.0458333,33.1958333
+cy,aradip,Aradip,03,,34.95,33.5916667
+cy,aradippou,Aradippou,03,13351,34.95,33.5916667
+cy,aradippu,Aradippu,03,,34.95,33.5916667
+cy,aradyu,Aradyu,04,,35.0458333,33.1958333
+cy,arakaba,Arakaba,05,,34.8416667,33.1125
+cy,arakapa,Arakapa,05,,34.8416667,33.1125
+cy,arakapas,Arakapas,05,,34.8416667,33.1125
+cy,aranya,Aranya,01,,35.1583333,33.5875
+cy,arapkoy,Arapköy,02,,35.3083333,33.4333333
+cy,aratyu,Aratyu,04,,35.0458333,33.1958333
+cy,arcoz,Arçoz,03,,35.0916667,33.6291667
+cy,arcoz,Arçoz,05,,34.8416667,32.7708333
+cy,ardahan,Ardahan,01,,35.3541667,33.8875
+cy,ardana,Ardana,01,,35.3541667,33.8875
+cy,ardhana,Ardhana,01,,35.3541667,33.8875
+cy,aredhiou,Aredhiou,04,,35.0458333,33.1958333
+cy,arediu,Arediu,04,,35.0458333,33.1958333
+cy,aredyu,Aredyu,04,,35.0458333,33.1958333
+cy,argaca,Argaca,06,,35.0644444,32.5
+cy,argaci,Argaci,04,,35.1791667,33.0333333
+cy,argadez,Argadez,04,,35.0541667,33.2458333
+cy,argaka,Argaka,06,,35.0644444,32.5
+cy,argaki,Argaki,04,,35.1791667,33.0333333
+cy,argataes,Argátaes,04,,35.0541667,33.2458333
+cy,argata“s,ArgatÅ“s,04,,35.0541667,33.2458333
+cy,argates,Argates,04,,35.0541667,33.2458333
+cy,argun,Argun,01,,35.2583333,33.875
+cy,arkaca,Arkaca,04,,35.1791667,33.0333333
+cy,arkaka,Arkaka,06,,35.0644444,32.5
+cy,arkhimandrita,Arkhimandrita,06,,34.75,32.6791667
+cy,armenehor,Armenehor,03,,34.7458333,33.1291667
+cy,armenochori,Armenochori,03,,34.7458333,33.1291667
+cy,armenohor,Armenohor,03,,34.7458333,33.1291667
+cy,armenohori,Armenohori,03,,34.7458333,33.1291667
+cy,armenokhori,Armenokhori,03,,34.7458333,33.1291667
+cy,arminou,Arminou,06,,34.8625,32.7208333
+cy,arminu,Arminu,06,,34.8625,32.7208333
+cy,armou,Armou,06,,34.8,32.4791667
+cy,armu,Armu,06,,34.8,32.4791667
+cy,arnadhi,Arnadhi,01,,35.2375,33.8583333
+cy,arnadi,Arnadi,01,,35.2375,33.8583333
+cy,arnathi,Arnathi,01,,35.2375,33.8583333
+cy,arnayi,Arnayi,01,,35.2375,33.8583333
+cy,arodhes,Arodhes,06,,34.9416667,32.4041667
+cy,arodhes kato,Arodhes Kato,06,,34.9416667,32.4041667
+cy,arpala±k,ArpalÄ±k,04,,35.0666667,33.4375
+cy,arslankoy,Arslanköy,01,,35.2041667,33.5833333
+cy,arsos,Arsos,03,,35.0916667,33.6291667
+cy,arsos,Arsos,05,,34.8416667,32.7708333
+cy,artemi,Artemi,01,,35.3208333,33.725
+cy,artimi,Artimi,01,,35.3208333,33.725
+cy,asa,Asa,01,,35.1583333,33.6083333
+cy,asaga± akurdalya,AsagÄ± Akurdalya,06,,34.9541667,32.45
+cy,asaga± alsanda±k,AsagÄ± AlsandÄ±k,05,,34.7666667,32.8666667
+cy,asaga± amyanto,AsagÄ± Amyanto,05,,34.9208333,32.9333333
+cy,asaga± arhimandrita,AsagÄ± Arhimandrita,06,,34.7375,32.6791667
+cy,asaga± arodes,AsagÄ± Arodes,06,,34.9416667,32.4041667
+cy,asaga± arodez,AsagÄ± Arodez,06,,34.9416667,32.4041667
+cy,asaga± binatla±,AsagÄ± BinatlÄ±,05,,34.6958333,33.0
+cy,asaga± bostanca±,AsagÄ± BostancÄ±,04,,35.1666667,33.0
+cy,asaga± deftera,AsagÄ± Deftera,04,,35.0875,33.2791667
+cy,asaga± dikmen,AsagÄ± Dikmen,03,,35.2666667,33.325
+cy,asaga± dikomo,AsagÄ± Dikomo,03,,35.2666667,33.325
+cy,asaga±flaso,AsagÄ±flaso,04,,35.0625,32.8875
+cy,asaga± kalkanla±,AsagÄ± KalkanlÄ±,06,,34.9416667,32.4041667
+cy,asaga±kardali,AsagÄ±kardali,06,,34.9541667,32.45
+cy,asaga± kurtbogan,AsagÄ± Kurtbogan,04,,35.1008333,32.9786111
+cy,asaga± lakadamya,AsagÄ± Lakadamya,04,,35.1208333,33.3166667
+cy,asaga± lakatamya,AsagÄ± Lakatamya,04,,35.1208333,33.3166667
+cy,asaga± lefkara,AsagÄ± Lefkara,03,,34.8625,33.3166667
+cy,asaga± mylos,AsagÄ± Mylos,05,,34.8958333,33.0041667
+cy,asaga± pirgo,AsagÄ± Pirgo,04,,35.1802778,32.6825
+cy,asaga± platres,AsagÄ± Platres,05,,34.875,32.8416667
+cy,asaga± polemitya,AsagÄ± Polemitya,05,,34.6958333,33.0
+cy,asaga± pyrgo,AsagÄ± Pyrgo,01,,35.1833333,33.725
+cy,asaga±yayla,AsagÄ±yayla,06,,35.1155556,32.5169444
+cy,asaga± zodya,AsagÄ± Zodya,04,,35.1666667,33.0
+cy,asaga± zotya,AsagÄ± Zotya,04,,35.1666667,33.0
+cy,aselya,Aselya,06,,34.7416667,32.4875
+cy,aseritu,Aseritu,01,,35.1,33.8625
+cy,asgata,Asgata,05,,34.7791667,33.2583333
+cy,asha,Asha,01,,35.1583333,33.6083333
+cy,asinou,Asinou,04,,35.0458333,32.9791667
+cy,asinu,Asinu,04,,35.0458333,32.9791667
+cy,aska,Aska,04,,34.9291667,33.0791667
+cy,askas,Askas,04,,34.9291667,33.0791667
+cy,askeia,Askeia,01,,35.1583333,33.6083333
+cy,aslankoy,Aslanköy,01,,35.2041667,33.5833333
+cy,asomados,Asomados,02,,35.275,33.1083333
+cy,asomados,Asomados,05,,34.6375,32.9583333
+cy,asomalos,Asomalos,05,,34.6375,32.9583333
+cy,asomato,Asomato,02,,35.275,33.1083333
+cy,asomato,Asomato,05,,34.6375,32.9583333
+cy,asomatos,Asomatos,02,,35.275,33.1083333
+cy,asomatos,Asomatos,05,,34.6375,32.9583333
+cy,asprogia,Asprogia,06,,34.925,32.6166667
+cy,asproya,Asproya,06,,34.925,32.6166667
+cy,asproyia,Asproyia,06,,34.925,32.6166667
+cy,assa,Assa,01,,35.1583333,33.6083333
+cy,astromerit,Astromerit,04,,35.1416667,33.0375
+cy,astromeritia,Astromeritia,04,,35.1416667,33.0375
+cy,astromeriti,Astromeriti,04,,35.1416667,33.0375
+cy,astromeritis,Astromeritis,04,,35.1416667,33.0375
+cy,atalasa,Atalasa,04,,35.1458333,33.4
+cy,atalassa,Atalassa,04,,35.1458333,33.4
+cy,athalassa,Athalassa,04,,35.1458333,33.4
+cy,athiaenou,Athiænou,03,,35.0666667,33.5416667
+cy,athienou,Athienou,03,,35.0666667,33.5416667
+cy,athna,Athna,01,,35.0583333,33.7833333
+cy,athrakos,Athrakos,05,,34.85,33.05
+cy,atienu,Atienu,03,,35.0666667,33.5416667
+cy,atiyenu,Atiyenu,03,,35.0666667,33.5416667
+cy,atla±lar,AtlÄ±lar,01,,35.2125,33.8291667
+cy,atrako,Atrako,05,,34.85,33.05
+cy,atrakos,Atrakos,05,,34.85,33.05
+cy,avdeler,Avdeler,03,,35.0125,33.5708333
+cy,avdelero,Avdeleró,03,,35.0125,33.5708333
+cy,avdellero,Avdellero,03,,35.0125,33.5708333
+cy,avdhellero,Avdhellero,03,,35.0125,33.5708333
+cy,avdhelleron,Avdhelleron,03,,35.0125,33.5708333
+cy,avdimou,Avdimou,05,,34.6958333,32.7625
+cy,avgalida,Avgalida,01,,35.3583333,33.9666667
+cy,avgalidha,Avgalidha,01,,35.3583333,33.9666667
+cy,avgolida,Avgolida,01,,35.3583333,33.9666667
+cy,avgolidha,Avgolidha,01,,35.3583333,33.9666667
+cy,avgora,Avgora,01,,35.0375,33.8333333
+cy,avgoro,Avgoro,01,,35.0375,33.8333333
+cy,avgorou,Avgorou,01,,35.0375,33.8333333
+cy,avgoru,Avgoru,01,,35.0375,33.8333333
+cy,avios ermolaos,Avios Ermolaos,02,,35.2791667,33.1708333
+cy,avlona,Avlona,04,,35.1625,33.1083333
+cy,avtepe,Avtepe,01,,35.4916667,34.2208333
+cy,axylou,Axylou,06,,34.8125,32.5541667
+cy,aya,Aya,06,,34.9833333,32.625
+cy,ayafila,Ayafila,05,,34.7166667,33.025
+cy,aya filya,Aya Filya,05,,34.7166667,33.025
+cy,ayairini,Ayairini,02,,35.2994444,32.9622222
+cy,ayakebir,Ayakebir,04,,35.1083333,33.5625
+cy,ayamvrasiyo,Ayamvrasiyo,05,,34.7833333,32.8291667
+cy,ayamvrosio,Ayamvrosio,05,,34.7833333,32.8291667
+cy,aya napa,Aya Napa,01,,34.9916667,34.0
+cy,ayandihona,Ayandihona,03,,34.725,33.1416667
+cy,ayandronikas,Ayandronikas,01,,35.3416667,33.8708333
+cy,ayandroniko,Ayandroniko,01,,35.3416667,33.8708333
+cy,ayanna,Ayanna,03,,34.9416667,33.4833333
+cy,ayanni,Ayanni,06,,34.8708333,32.6916667
+cy,ayantronigo,Ayantronigo,01,,35.5083333,34.1625
+cy,ayantroniko,Ayantroniko,01,,35.3416667,33.8708333
+cy,ayasergi,Ayasergi,01,,35.2,33.875
+cy,ayastad,Ayastad,01,,35.3833333,34.0166667
+cy,ayatanas,Ayatanas,05,,34.7125,33.05
+cy,ayatanasiyo,Ayatanasiyo,05,,34.7125,33.05
+cy,aybifan,Aybifan,04,,34.9875,33.1208333
+cy,ayda±n,AydÄ±n,05,,34.8958333,33.0208333
+cy,ayda±n,AydÄ±n,06,,34.8708333,32.6916667
+cy,ayda±nkoy,AydÄ±nkoy,04,,35.175,32.9375
+cy,aydemet,Aydemet,04,,35.1791667,33.3333333
+cy,aydimitri,Aydimitri,05,,34.925,32.8166667
+cy,aydimitrino,Aydimitrino,06,,34.9083333,32.55
+cy,aydimitriyano,Aydimitriyano,06,,34.9083333,32.55
+cy,aydinli,Aydinli,04,,35.175,32.9375
+cy,aydogan,Aydogan,06,,34.7875,32.6166667
+cy,ayepifani,Ayepifani,04,,34.9875,33.1208333
+cy,ayepiktitos,Ayepiktitos,03,,35.325,33.3916667
+cy,ayevstatios,Ayevstatios,01,,35.3833333,34.0166667
+cy,ayfodi,Ayfodi,06,,34.875,32.6125
+cy,ayfoti,Ayfoti,06,,34.875,32.6125
+cy,aygun,Aygün,01,,35.2583333,33.875
+cy,ayharida,Ayharida,01,,35.3041667,33.6041667
+cy,ayharita,Ayharita,01,,35.3041667,33.6041667
+cy,ayia anna,Ayia Anna,03,,34.9416667,33.4833333
+cy,ayia,Ayia,01,,35.4416667,34.15
+cy,ayia,Ayia,04,,35.1083333,33.5625
+cy,ayia,Ayia,06,,34.9833333,32.625
+cy,ayia fila,Ayia Fila,05,,34.7166667,33.025
+cy,ayia grosh,Ayia Grosh,02,,35.3416667,33.5791667
+cy,ayia irini,Ayia Irini,02,,35.2994444,32.9622222
+cy,ayia irini,Ayia Irini,04,,34.9833333,32.9666667
+cy,ayia irmi,Ayia Irmi,02,,35.2994444,32.9622222
+cy,ayia kebir,Ayia Kebir,04,,35.1083333,33.5625
+cy,ayia marina,Ayia Marina,04,,35.05,33.0583333
+cy,ayia marina,Ayia Marina,06,,34.8291667,32.6166667
+cy,ayia marina kelokedhara,Ayia Marina Kelokedhara,06,,34.8291667,32.6166667
+cy,ayia marina khrysokhou,Ayia Marina Khrysokhou,06,,35.1125,32.5375
+cy,ayia marina skyllouras,Ayia Marina Skyllouras,04,,35.225,33.1416667
+cy,ayia marina xyliatos,Ayia Marina Xyliatos,04,,35.05,33.0583333
+cy,ayia marina xyliatou,Ayia Marina Xyliatou,04,,35.05,33.0583333
+cy,ayia marinoudha,Ayia Marinoudha,06,,34.7625,32.475
+cy,ayia marinuda,Ayia Marinuda,06,,34.7625,32.475
+cy,ayia napa,Ayia Napa,01,,34.9916667,34.0
+cy,ayia phyla,Ayia Phyla,05,,34.7166667,33.025
+cy,ayias vavatsinias,Ayias Vavatsinias,03,,34.8833333,33.1916667
+cy,ayia tria,Ayia Tria,01,,35.5416667,34.2166667
+cy,ayia trias,Ayia Trias,01,,35.1208333,33.9583333
+cy,ayia varvara,Ayia Varvara,02,,35.3416667,33.3041667
+cy,ayia varvara,Ayia Varvara,04,,34.9958333,33.3680556
+cy,ayia varvara,Ayia Varvara,06,,34.75,32.5125
+cy,ayii eliophoti,Ayii Eliophoti,04,,35.0583333,33.1041667
+cy,ayii trimidyes,Ayii Trimidyes,04,,35.1166667,33.2125
+cy,ayii trimithias,Ayii Trimithias,04,,35.1166667,33.2125
+cy,ayii vavatsinia,Ayii Vavatsinia,03,,34.8833333,33.1916667
+cy,ayii vavatsinias,Ayii Vavatsinias,03,,34.8833333,33.1916667
+cy,ayilia,Ayilia,01,,35.3291667,33.925
+cy,ay ilia,Ay Ilia,01,,35.3291667,33.925
+cy,ayilya,Ayilya,01,,35.3291667,33.925
+cy,ayion yeorgoudhi,Ayion Yeorgoudhi,04,,35.1625,32.6291667
+cy,ayion yeorgoudi,Ayion Yeorgoudi,04,,35.1625,32.6291667
+cy,ayios amvrosios,Ayios Amvrosios,02,,35.3416667,33.5791667
+cy,ayios amvrosios,Ayios Amvrosios,05,,34.7833333,32.8291667
+cy,ayios andronikos,Ayios Andronikos,01,,35.3416667,33.8708333
+cy,ayios atanasios,Ayios Atanasios,05,,34.7125,33.05
+cy,ayios athanasios,Ayios Athanasios,05,,34.7125,33.05
+cy,ayios dhimitrianos,Ayios Dhimitrianos,06,,34.9083333,32.55
+cy,ayios dhimitrios,Ayios Dhimitrios,05,,34.925,32.8166667
+cy,ayios dhometios,Ayios Dhometios,04,,35.1791667,33.3333333
+cy,ayios dimitrios,Ayios Dimitrios,05,,34.925,32.8166667
+cy,ayios dometios,Áyios Dométios,04,,35.1791667,33.3333333
+cy,ayios efstathios,Ayios Efstathios,01,,34.9791667,33.9125
+cy,ayios elias,Ayios Elias,01,,35.3291667,33.925
+cy,ayios epiktitos,Ayios Epiktitos,03,,35.325,33.3916667
+cy,ayios epiphanios,Ayios Epiphanios,04,,34.9875,33.1208333
+cy,ayios epiphanios orinis,Ayios Epiphanios Orinis,04,,34.9875,33.1208333
+cy,ayios epiphanios soleas,Ayios Epiphanios Soleas,04,,35.0666667,32.8833333
+cy,ayios ermolaos,Ayios Ermolaos,02,,35.2791667,33.1708333
+cy,ayios evrosis,Ayios Evrosis,05,,34.7833333,32.8291667
+cy,ayios evstathios,Ayios Evstathios,01,,35.3833333,34.0166667
+cy,ayios fotios,Ayios Fotios,06,,34.875,32.6125
+cy,ayios iakovos,Ayios Iakovos,01,,35.325,33.8166667
+cy,ayios ioannis,Ayios Ioannis,04,,35.0666667,33.1833333
+cy,ayios ioannis,Ayios Ioannis,05,,34.8958333,33.0208333
+cy,ayios ioannis,Ayios Ioannis,06,,34.8708333,32.6916667
+cy,ayios ioannis maloundas,Ayios Ioannis Maloundas,04,,35.0666667,33.1833333
+cy,ayios isidhoros,Ayios Isidhoros,06,,35.0,32.475
+cy,ayios khariton,Ayios Khariton,01,,35.3041667,33.6041667
+cy,ayios konstantinos,Ayios Konstantinos,05,,34.8666667,33.0666667
+cy,ayios mamas,Ayios Mamas,05,,34.85,32.95
+cy,ayios memnon,Ayios Memnon,01,,35.0875,33.9791667
+cy,ayios nikolaos,Ayios Nikolaos,01,,35.0958333,33.9
+cy,ayios nikolaos,Ayios Nikolaos,04,,35.1041667,32.8791667
+cy,ayios nikolaos,Ayios Nikolaos,06,,34.8625,32.7375
+cy,ayios nikolaos lefkas,Ayios Nikolaos Lefkas,04,,35.1041667,32.8791667
+cy,ayios pavlos,Ayios Pavlos,05,,34.8666667,33.0458333
+cy,ayios photios,Ayios Photios,06,,34.875,32.6125
+cy,ayios sergios,Áyios Sergios,01,,35.2,33.875
+cy,ayios seryios,Ayios Seryios,01,,35.2,33.875
+cy,ayios seryos,Ayios Seryos,01,,35.2,33.875
+cy,ayios sozomenos,Ayios Sozomenos,04,,35.0666667,33.4375
+cy,ayios symeon,Ayios Symeon,01,,35.4916667,34.2208333
+cy,ayios teodoros,Ayios Teodoros,01,,35.3666667,34.0291667
+cy,ayios teodoros,Ayios Teodoros,03,,34.8013889,33.3875
+cy,ayios theodhoros,Ayios Theodhoros,01,,35.3666667,34.0291667
+cy,ayios theodhoros,Ayios Theodhoros,03,,34.8013889,33.3875
+cy,ayios theodhoros,Ayios Theodhoros,04,,35.0413889,32.9294444
+cy,ayios theodhoros,Ayios Theodhoros,05,,34.8958333,33.0333333
+cy,ayios theodhoros soleas,Ayios Theodhoros Soleas,04,,35.0413889,32.9294444
+cy,ayios theodhoros tillirias,Ayios Theodhoros Tillirias,04,,35.175,32.65
+cy,ayios theodoros,Ayios Theodoros,01,,35.3666667,34.0291667
+cy,ayios theodoros,Áyios Theódoros,03,,34.8013889,33.3875
+cy,ayios theodoros,Áyios Theódoros,04,,35.175,32.65
+cy,ayios theodoros,Ayios Theodoros,05,,34.8958333,33.0333333
+cy,ayios therapon,Ayios Therapon,05,,34.8125,32.8333333
+cy,ayios thomas,Ayios Thomas,05,,34.7166667,32.725
+cy,ayios tihonos,Ayios Tihonos,03,,34.725,33.1416667
+cy,ayios tykhonas,Ayios Tykhonas,03,,34.725,33.1416667
+cy,ayios vasilios,Ayios Vasilios,04,,35.2291667,33.1833333
+cy,ayios vavatsinia,Ayios Vavatsinia,03,,34.8833333,33.1916667
+cy,ayios yeorgios,Áyios Yeórgios,01,,35.2583333,33.875
+cy,ayios yeoryios,Ayios Yeoryios,01,,35.2583333,33.875
+cy,ayios yeoryios,Ayios Yeoryios,02,,35.325,33.5083333
+cy,ayios yeoryios,Ayios Yeoryios,04,,35.0375,33.0125
+cy,ayios yeoryios,Ayios Yeoryios,05,,34.8166667,32.9
+cy,ayios yeoryios,Ayios Yeoryios,06,,34.7791667,32.65
+cy,ayios yeoryios kafkalou,Ayios Yeoryios Kafkalou,04,,35.0375,33.0125
+cy,ayios yeoryios lefkas,Ayios Yeoryios Lefkas,04,,35.1,32.8833333
+cy,ayios yeoryios spatharikou,Ayios Yeoryios Spatharikou,01,,35.2583333,33.875
+cy,ayious,Ayious,04,,35.1166667,33.2125
+cy,ayirini,Ayirini,02,,35.2994444,32.9622222
+cy,ayirini,Ayirini,04,,34.9833333,32.9666667
+cy,ayirmola,Ayirmola,02,,35.2791667,33.1708333
+cy,ayistat,Ayistat,01,,35.3833333,34.0166667
+cy,ayithona,Ayithona,03,,34.725,33.1416667
+cy,aykarida,Aykarida,01,,35.3041667,33.6041667
+cy,aykonstandino,Aykonstandino,05,,34.8666667,33.0666667
+cy,ay kostantino,Ay Kostantino,05,,34.8666667,33.0666667
+cy,aykurus,Aykurus,02,,35.3416667,33.5791667
+cy,aylenja,Aylenja,04,,35.1541667,33.3958333
+cy,aymama,Aymama,05,,34.85,32.95
+cy,aymarina,Aymarina,04,,35.225,33.1416667
+cy,aymarina,Aymarina,06,,34.8291667,32.6166667
+cy,aymarinuda,Aymarinuda,06,,34.7625,32.475
+cy,aynakofo,Aynakofo,01,,35.325,33.8166667
+cy,aynapa,Aynapa,01,,34.9916667,34.0
+cy,aynikola,Aynikola,01,,35.0958333,33.9
+cy,aynikola,Aynikola,04,,35.1041667,32.8791667
+cy,aynikola,Aynikola,06,,34.8625,32.7375
+cy,ayorgi,Ayorgi,01,,35.2583333,33.875
+cy,ayorgi,Ayorgi,06,,34.7791667,32.65
+cy,ay pavlo,Ay Pavlo,05,,34.8666667,33.0458333
+cy,aypihtito,Aypihtito,03,,35.325,33.3916667
+cy,ayria trias,Ayria Trias,01,,35.5416667,34.2166667
+cy,aysederos,Aysederos,06,,35.0,32.475
+cy,aysergi,Aysergi,01,,35.2,33.875
+cy,aysezomeno,Aysezomeno,04,,35.0666667,33.4375
+cy,aysidero,Aysidero,06,,35.0,32.475
+cy,aysimyo,Aysimyo,01,,35.4916667,34.2208333
+cy,aysozomeno,Aysozomeno,04,,35.0666667,33.4375
+cy,ayterap,Ayterap,05,,34.8125,32.8333333
+cy,ayterapon,Ayterapon,05,,34.8125,32.8333333
+cy,aytotoro,Aytotoro,01,,35.3666667,34.0291667
+cy,aytotoro,Aytotoro,03,,34.8013889,33.3875
+cy,aytotoro,Aytotoro,04,,35.175,32.65
+cy,aytotro,Aytotro,01,,35.3666667,34.0291667
+cy,aytotro,Aytotro,04,,35.0413889,32.9294444
+cy,aytriada,Aytriada,01,,35.5416667,34.2166667
+cy,ay trias,Ay Trias,01,,35.5416667,34.2166667
+cy,aytrimitya,Aytrimitya,04,,35.1166667,33.2125
+cy,aytrimityas,Aytrimityas,04,,35.1166667,33.2125
+cy,aytuma,Aytuma,05,,34.7166667,32.725
+cy,ayvarvara,Ayvarvara,04,,34.9958333,33.3680556
+cy,ayvarvara,Ayvarvara,06,,34.75,32.5125
+cy,ayvaryara,Ayvaryara,04,,34.9958333,33.3680556
+cy,ayvasil,Ayvasil,04,,35.2291667,33.1833333
+cy,ayvavacinya,Ayvavaçinya,03,,34.8833333,33.1916667
+cy,ay vavatsinya,Ay Vavatsinya,03,,34.8833333,33.1916667
+cy,ayyanni,Ayyanni,04,,35.0666667,33.1833333
+cy,ayyanni,Ayyanni,05,,34.8958333,33.0208333
+cy,ayyanni,Ayyanni,06,,34.8708333,32.6916667
+cy,ayyorgi,Ayyorgi,01,,35.2583333,33.875
+cy,ayyorgi,Ayyorgi,02,,35.3458333,33.2791667
+cy,ayyorgi,Ayyorgi,04,,35.0375,33.0125
+cy,ay yorgi,Ay Yorgi,05,,34.8166667,32.9
+cy,ayyorgi,Ayyorgi,06,,34.7791667,32.65
+cy,ayyorgi kefkalu,Ayyorgi Kefkalu,04,,35.0375,33.0125
+cy,ayyorguyi,Ayyorguyi,04,,35.1625,32.6291667
+cy,azgata,Azgata,05,,34.7791667,33.2583333
+cy,bademlikoy,Bademliköy,04,,35.1458333,32.7463889
+cy,baf,Baf,06,,34.7666667,32.4166667
+cy,bafra,Bafra,01,,35.3791667,34.075
+cy,bagla±koy,BaglÄ±koy,04,,35.1208333,32.8083333
+cy,baglarbasa±,BaglarbasÄ±,05,,34.8166667,32.7833333
+cy,bagra±kara,BagrÄ±kara,06,,34.75,32.6333333
+cy,bahcalar,Bahçalar,01,,35.2833333,33.9083333
+cy,bahcalar,Bahçalar,03,,34.8291667,33.5833333
+cy,bahceler,Bahçeler,01,,35.2833333,33.9083333
+cy,bahceler,Bahçeler,03,,34.8291667,33.5833333
+cy,bahceli,Bahçeli,02,,35.3375,33.6291667
+cy,bakacak,Bakacak,06,,35.0491667,32.4880556
+cy,bakracli,Bakraçli,03,,34.825,33.3875
+cy,balabayis,Balabayis,02,,35.3069444,33.3583333
+cy,bala±kesa±r,BalÄ±kesÄ±r,04,,35.2083333,33.4875
+cy,balalan,Balalan,01,,35.4958333,34.1083333
+cy,balalau,Balalau,01,,35.4958333,34.1083333
+cy,balikitre,Balikitre,04,,35.2083333,33.4875
+cy,balyametos,Balyametos,04,,35.125,33.1916667
+cy,balyosofa,Balyosofa,02,,35.3291667,33.2083333
+cy,balyosofo,Balyosofo,02,,35.3291667,33.2083333
+cy,barsata,Barsata,03,,34.825,33.2666667
+cy,batric,Batriç,01,,35.3625,33.9958333
+cy,baykal,Baykal,01,,35.1208333,33.9291667
+cy,beikioi,Beikioï,04,,35.2375,33.5
+cy,belapais,Belapaïs,02,,35.3069444,33.3583333
+cy,belendri,Belendri,05,,34.9,32.9666667
+cy,bellabayis,Bellabayis,02,,35.3069444,33.3583333
+cy,bellapais,Bellapais,02,,35.3069444,33.3583333
+cy,bellapaise,Bellapaise,02,,35.3069444,33.3583333
+cy,bendaya,Bendaya,04,,35.1538889,32.8830556
+cy,berengaria village,Berengaria Village,05,,34.7,33.0
+cy,bervolya,Bervolya,03,,34.8291667,33.5833333
+cy,besevler,Besevler,03,,34.7416667,33.2416667
+cy,besikte,Besikte,06,,34.9916667,32.525
+cy,besiktepe,Besiktepe,06,,34.9916667,32.525
+cy,besparmak,Besparmak,02,,35.3083333,33.4708333
+cy,beuyuk kaimakli,Beuyuk Kaimakli,04,,35.1833333,33.3833333
+cy,beyarmudu,Beyarmudu,03,,35.0416667,33.7083333
+cy,bey keuy,Bey Keuy,04,,35.2375,33.5
+cy,beykoy,Beyköy,01,,35.3291667,33.925
+cy,beykoy,Beyköy,04,,35.2375,33.5
+cy,beylerbeyi,Beylerbeyi,02,,35.3069444,33.3583333
+cy,beyuk kaimakli,Beyuk Kaimakli,04,,35.1833333,33.3833333
+cy,bilen,Bilen,04,,35.075,33.3208333
+cy,birincimil,Birincimil,04,,35.2083333,33.4208333
+cy,bladan,Bladan,01,,35.3375,33.75
+cy,bladanisyo,Blâdanisyo,01,,35.4958333,34.1083333
+cy,bladimat,Bladimat,02,,35.3166667,33.5
+cy,bodamya,Bodamya,04,,35.0458333,33.4458333
+cy,bodamyu,Bodamyu,05,,34.825,32.8083333
+cy,boduragac,Boduragac,03,,35.0458333,33.5166667
+cy,bogaz,Bogaz,01,,35.3125,33.9541667
+cy,bogazici,Bogazici,01,,35.2708333,33.825
+cy,bogazici,Bogazici,03,,34.8013889,33.3875
+cy,bogazici,Bogazici,05,,34.8958333,33.0333333
+cy,bogaztepe,Bogaztepe,01,,35.3166667,33.9341667
+cy,bogaz trading station,Bogaz Trading Station,01,,35.3125,33.9541667
+cy,boghaz,Boghaz,01,,35.3125,33.9541667
+cy,boltasla±,BoltaslÄ±,01,,35.4791667,34.1666667
+cy,bozalan,Bozalan,06,,34.9041667,32.5958333
+cy,bozdag,Bozdag,01,,35.3666667,34.0291667
+cy,bulgurlu,Bulgurlu,03,,34.7458333,33.1291667
+cy,burciu,Burçiu,05,,34.6708333,32.9291667
+cy,burclu,Burçlu,05,,34.6708333,32.9291667
+cy,buyuk kaimakli,Buyuk Kaimakli,04,,35.1833333,33.3833333
+cy,buyuk kaymakla±,Buyuk KaymaklÄ±,04,,35.1833333,33.3833333
+cy,buyukkonuk,Büyükkonuk,01,,35.4083333,34.0
+cy,cada,Çada,06,,34.8416667,32.475
+cy,ca±ga±r,CÄ±gÄ±r,06,,34.8375,32.7375
+cy,caglayan,Caglayan,04,,35.1833333,33.3708333
+cy,caka±rlar,CakÄ±rlar,06,,34.9666667,32.425
+cy,cakistra,Çakistra,04,,35.0236111,32.7241667
+cy,cakmali,Cakmali,01,,35.1,33.8
+cy,camla±bel,CamlÄ±bel,01,,35.1833333,33.725
+cy,camla±bel,CamlÄ±bel,02,,35.3083333,33.0666667
+cy,camla±bel,CamlÄ±bel,03,,34.925,33.4333333
+cy,camla±ca,CamlÄ±ca,05,,34.7125,32.7083333
+cy,camla±koy,CamlÄ±koy,04,,35.1125,32.875
+cy,camlica,Çamlica,01,,35.2833333,33.6875
+cy,canakkale,Çanakkale,05,,34.6916667,32.9041667
+cy,canbulat,Canbulat,01,,35.1125,33.9375
+cy,catalkoy,Çatalköy,03,,35.325,33.3916667
+cy,catkoy,Çatköy,01,,35.2583333,33.6
+cy,catoz,Çatoz,01,,35.2583333,33.6
+cy,cavuslari,Cavuslari,04,,35.1333333,32.8666667
+cy,caya±rova,CayÄ±rova,01,,35.3666667,34.0291667
+cy,cayonu,Çayönü,01,,35.1,33.8
+cy,cayonu,Çayönü,05,,34.6958333,32.8
+cy,cedar valley,Cedar Valley,06,,34.9833333,32.6833333
+cy,celiktas,Celiktas,05,,34.7333333,32.7791667
+cy,cellaci,Cellaci,04,,34.8166667,33.1583333
+cy,celocera,Celocera,06,,34.8,32.65
+cy,celya,Celya,03,,34.9791667,33.6208333
+cy,cengizkoy,Cengizköy,04,,35.1333333,32.8666667
+cy,cevizdali,Cevizdali,03,,34.8375,33.5083333
+cy,cevizli,Cevizli,03,,34.8375,33.5083333
+cy,cevrigil,Cevrigil,03,,34.8375,33.5083333
+cy,ceyhan,Ceyhan,06,,34.8166667,32.7208333
+cy,ceylan,Ceylan,05,,34.8458333,32.8625
+cy,ceylani,Ceylani,01,,35.4833333,34.1333333
+cy,chakistra,Chakistra,04,,35.0236111,32.7241667
+cy,chalevga,Chalevga,02,,35.2875,33.5333333
+cy,challeri,Challeri,04,,35.1683333,32.6588889
+cy,chamlija,Chamlija,02,,35.2708333,33.3916667
+cy,chandria,Chandria,05,,34.9458333,32.9958333
+cy,charkeia,Charkeia,04,,35.3208333,33.5583333
+cy,chatal keuy,Chatal Keuy,03,,35.325,33.3916667
+cy,chatos,Chatos,01,,35.2583333,33.6
+cy,chaziveran,Chaziveran,04,,35.1727778,32.9169444
+cy,chiftlikoudhkia,Chiftlikoudhkia,05,,34.6583333,33.0166667
+cy,chittim,Chittim,03,,34.9166667,33.6291667
+cy,chlorakas,Chlorakas,06,3619,34.8041667,32.4083333
+cy,choirokoitia,Choirokoitía,03,,34.7958333,33.3375
+cy,choletria,Choletria,06,,34.775,32.5875
+cy,choli,Choli,06,,34.9791667,32.4458333
+cy,choulou,Choulou,06,,34.8708333,32.5541667
+cy,chrysida,Chrysida,04,,35.2416667,33.4833333
+cy,chrysiiou,Chrysiiou,04,,35.2166667,33.25
+cy,chrysochou,Chrysochou,06,,35.005,32.4372222
+cy,cihangir,Cihangir,04,,35.2291667,33.5166667
+cy,cilan,Cilan,05,,34.8458333,32.8625
+cy,cilanemo,Cilanemo,01,,35.4833333,34.1333333
+cy,cilanemos,Cilanemos,01,,35.4833333,34.1333333
+cy,cili,Cili,06,,34.8625,32.4583333
+cy,cilinya,Cilinya,06,,34.8833333,32.6333333
+cy,cinarla±,CinarlÄ±,01,,35.3375,33.75
+cy,cinusa,Cinusa,06,,35.0319444,32.5113889
+cy,ciperunda,Ciperunda,05,,34.9375,32.975
+cy,cira,Cira,04,,35.2041667,33.0625
+cy,cirala±,CiralÄ±,06,,34.8083333,32.4166667
+cy,cisonerga,Cisonerga,06,,34.825,32.4
+cy,cissusa,Cissusa,05,,34.8125,32.7958333
+cy,cite,Çite,03,,34.85,33.575
+cy,citium,Citium,03,,34.9166667,33.6291667
+cy,civisil,Civisil,03,,34.8375,33.5083333
+cy,ciyares,Ciyares,06,,34.8375,32.7375
+cy,ciyas,Ciyas,06,,34.8166667,32.7208333
+cy,conendere,Conendere,04,,35.2666667,33.6625
+cy,conya,Conya,04,,34.9208333,33.1958333
+cy,cukurova,Çukurova,04,,35.225,33.5541667
+cy,dagasan,Dagasan,06,,34.8916667,32.6583333
+cy,daggecit,Daggecit,01,,35.3166667,33.9341667
+cy,dagyolu,Dagyolu,02,,35.2666667,33.2208333
+cy,dala,Dalâ,06,,34.8375,32.4333333
+cy,dali,Dali,04,,35.025,33.4208333
+cy,da±skapa±,DÄ±skapÄ±,03,,35.0916667,33.6291667
+cy,davlos,Davlos,01,,35.4208333,33.9083333
+cy,deftera,Deftera,04,,35.0875,33.2791667
+cy,deftera pano,Defterá Pano,04,,35.0791667,33.2625
+cy,degirmenlik,Degirmenlik,04,,35.2541667,33.4833333
+cy,dekeleia,Dekeleia,03,,34.9833333,33.725
+cy,dekelia,Dekelia,03,,34.9833333,33.725
+cy,delicipo,Delicipo,03,,34.9166667,33.3625
+cy,delik,Delik,01,,35.3083333,33.6333333
+cy,delikipo,Delikipo,03,,34.9166667,33.3625
+cy,demirci,Demirci,06,,35.0,32.475
+cy,demirhan,Demirhan,04,,35.225,33.4833333
+cy,deneia,Deneia,04,,35.1666667,33.1458333
+cy,denya,Denya,04,,35.1666667,33.1458333
+cy,dereboyu,Dereboyu,06,,34.9625,32.4833333
+cy,deregecit,Deregeçit,01,,35.3166667,33.9341667
+cy,dereler,Dereler,04,,35.1083333,33.0291667
+cy,dereli,Dereli,04,,35.11,32.9080556
+cy,derelikoy,Dereliköy,04,,35.0458333,33.4458333
+cy,derince,Derince,02,,35.4833333,34.1916667
+cy,derinia,Derinia,01,,35.0666667,33.9583333
+cy,derinkoy,Derinköy,01,,35.0666667,33.9583333
+cy,derinya,Derinya,01,,35.0666667,33.9583333
+cy,dermiya,Dermiya,02,,35.325,33.3291667
+cy,deryneia,Deryneia,01,,35.0666667,33.9583333
+cy,dhali,Dhali,04,,35.025,33.4208333
+cy,dhavlos,Dhavlos,01,,35.4208333,33.9083333
+cy,dheftera,Dheftera,04,,35.0875,33.2791667
+cy,dhekelia cantonment,Dhekelia Cantonment,03,,34.9833333,33.725
+cy,dhekhelia,Dhekhelia,03,,34.9833333,33.725
+cy,dhenia,Dhenia,04,,35.1666667,33.1458333
+cy,dherinia,Dherinia,01,,35.0666667,33.9583333
+cy,dhierona,Dhierona,05,,34.8166667,33.1125
+cy,dhikomo,Dhikomo,03,,35.2666667,33.325
+cy,dhiorios,Dhiorios,02,,35.3041667,33.0541667
+cy,dhora,Dhora,06,,34.7833333,32.7375
+cy,dhor,Dhor,06,,34.7833333,32.7375
+cy,dhoros,Dhoros,05,,34.8166667,32.9083333
+cy,dhrapia,Dhrapia,03,,34.8041667,33.2791667
+cy,dhrinia,Dhrinia,06,,34.9166667,32.5333333
+cy,dhromolaxia,Dhromolaxia,03,,34.8791667,33.5833333
+cy,dhrousha,Dhrousha,06,,34.9625,32.4
+cy,dhrymo,Dhrymo,06,,34.925,32.5166667
+cy,dhrymou,Dhrymou,06,,34.925,32.5166667
+cy,dhrynia,Dhrynia,06,,34.9166667,32.5333333
+cy,dhymaes,Dhymæs,05,,34.9166667,32.9833333
+cy,dhyma“s,DhymÅ“s,05,,34.9166667,32.9833333
+cy,dhymes,Dhymes,05,,34.9166667,32.9833333
+cy,dhyo potami,Dhyo Potami,04,,35.2458333,33.0958333
+cy,dierona,Dierona,05,,34.8166667,33.1125
+cy,dikelia,Dikelia,03,,34.9833333,33.725
+cy,dikelya,Dikelya,03,,34.9833333,33.725
+cy,dilekkaya,Dilekkaya,01,,35.4416667,34.15
+cy,dilekkaya,Dilekkaya,04,,35.1083333,33.5625
+cy,dilicibo,Dilicibo,03,,34.9166667,33.3625
+cy,dime,Dime,05,,34.9166667,32.9833333
+cy,dimes,Dimes,05,,34.9166667,32.9833333
+cy,dimi,Dimi,06,,34.7333333,32.5166667
+cy,diorios,Diorios,02,,35.3041667,33.0541667
+cy,dipkarpas,Dipkarpas,01,,35.6,34.375
+cy,dipkarpaz,Dipkarpaz,01,5215,35.6,34.375
+cy,dipkurpaz,Dipkurpaz,01,,35.6,34.375
+cy,direkli,Direkli,01,,35.175,33.8333333
+cy,diyerona,Diyerona,05,,34.8166667,33.1125
+cy,diyobodamo,Diyobodamo,04,,35.2458333,33.0958333
+cy,diyopotamo,Diyopotamo,04,,35.2458333,33.0958333
+cy,diyoriyos,Diyoriyos,02,,35.3041667,33.0541667
+cy,dizdar keuy,Dizdar Keuy,04,,35.0208333,33.3916667
+cy,dizdarkoy,Dizdarköy,04,,35.0208333,33.3916667
+cy,doganca±,DogancÄ±,04,,35.1333333,32.9125
+cy,dogankoy,Dogankoy,02,,35.325,33.3291667
+cy,dohni,Dohni,03,,34.7833333,33.325
+cy,donemec,Dönemeç,05,,34.6916667,32.9041667
+cy,dora,Dora,06,,34.7833333,32.7375
+cy,doros,Doros,05,,34.8166667,32.9083333
+cy,dortyol,Dörtyol,01,,35.175,33.7583333
+cy,drabiya,Drabiya,03,,34.8041667,33.2791667
+cy,drapeia,Drapeia,03,,34.8041667,33.2791667
+cy,drapia,Drapia,03,,34.8041667,33.2791667
+cy,drapya,Drapya,03,,34.8041667,33.2791667
+cy,drigucca,Driguçça,05,,34.9375,32.8375
+cy,drimu,Drimu,06,,34.925,32.5166667
+cy,drinya,Drinya,06,,34.9166667,32.5333333
+cy,dromolaksia,Dromolaksia,03,,34.8791667,33.5833333
+cy,dromolaxia,Dromolaxia,03,5241,34.8791667,33.5833333
+cy,drousa,Drousa,06,,34.9625,32.4
+cy,drouseia,Drouseia,06,,34.9625,32.4
+cy,drusa,Drusa,06,,34.9625,32.4
+cy,drymo,Drymo,06,,34.925,32.5166667
+cy,drymou,Drymou,06,,34.925,32.5166667
+cy,drynia,Drynia,06,,34.9166667,32.5333333
+cy,drys,Drys,03,,34.85,33.3041667
+cy,dumlupa±nar,DumlupÄ±nar,01,,35.125,33.9333333
+cy,duzce,Düzce,01,,35.0583333,33.7833333
+cy,duzkaya,Düzkaya,05,,34.6958333,32.7625
+cy,duzova,Düzova,03,,34.8361111,33.55
+cy,duzova,Düzova,04,,35.2166667,33.5291667
+cy,dymes,Dymes,05,,34.9166667,32.9833333
+cy,dyo potamoi,Dyo Potamoi,04,,35.2458333,33.0958333
+cy,edremit,Edremit,02,,35.3291667,33.2625
+cy,eftagonya,Eftagonya,05,,34.85,33.1583333
+cy,eftakomi,Eftakomi,01,,35.45,34.0333333
+cy,egkomi,Egkomi,01,,35.1625,33.8833333
+cy,egkomi,Egkomi,04,,35.1666667,33.3458333
+cy,eglence,Eglence,04,,35.1541667,33.3958333
+cy,ekmekciler,Ekmekciler,01,,35.1583333,33.5708333
+cy,eksomedos,Eksomedos,04,,35.2166667,33.5291667
+cy,eksometos,Eksometos,04,,35.2166667,33.5291667
+cy,elaea,Elæá,02,,35.3333333,33.2166667
+cy,elaea,Elæá,04,,35.1333333,32.9125
+cy,elea,Elea,02,,35.3333333,33.2166667
+cy,elea,Elea,04,,35.1333333,32.9125
+cy,eledhiou,Eledhiou,06,,34.8208333,32.5708333
+cy,eledio,Eledio,06,,34.8208333,32.5708333
+cy,elediu,Elediu,06,,34.8208333,32.5708333
+cy,eledyo,Eledyo,06,,34.8208333,32.5708333
+cy,eledyu,Eledyu,06,,34.8208333,32.5708333
+cy,eletyu,Eletyu,06,,34.8208333,32.5708333
+cy,elia,Elia,04,,35.1333333,32.9125
+cy,eliophotes,Eliophotes,04,,35.0583333,33.1041667
+cy,elmala±,ElmalÄ±,05,,34.8708333,32.8958333
+cy,elya,Elya,02,,35.3333333,33.2166667
+cy,elya,Elya,04,,35.1333333,32.9125
+cy,elye,Elye,04,,35.1333333,32.9125
+cy,emba,Emba,06,,34.8083333,32.425
+cy,empa,Empa,06,4520,34.8083333,32.425
+cy,engindere,Engindere,06,,34.75,32.5125
+cy,engomi,Engomi,01,,35.1625,33.8833333
+cy,engomi,Engomi,04,,35.1666667,33.3458333
+cy,enkomi,Enkomi,01,,35.1625,33.8833333
+cy,enkomi,Enkómi,04,,35.1666667,33.3458333
+cy,ephtagonia,Ephtagonia,05,,34.85,33.1583333
+cy,ephtakomi,Ephtakomi,01,,35.45,34.0333333
+cy,epicho,Epicho,04,,35.2291667,33.5166667
+cy,epikho,Epikho,04,,35.2291667,33.5166667
+cy,episcopi,Episcopí,06,,34.7958333,32.525
+cy,episkopeion,Episkopeion,04,,35.0416667,33.2458333
+cy,episkopi,Episkopi,05,,34.6666667,32.9
+cy,episkopi,Episkopi,06,,34.7958333,32.525
+cy,episkopio,Episkopio,04,,35.0416667,33.2458333
+cy,episkopion,Episkopion,04,,35.0416667,33.2458333
+cy,episkopyo,Episkopyo,04,,35.0416667,33.2458333
+cy,eptagoneia,Eptagoneia,05,,34.85,33.1583333
+cy,eptagonia,Eptagonia,05,,34.85,33.1583333
+cy,eptagonya,Eptagonya,05,,34.85,33.1583333
+cy,eptakomi,Eptakomi,01,,35.45,34.0333333
+cy,erdemli,Erdemli,03,,35.0833333,33.6083333
+cy,erenkoy,Erenköy,04,,35.1758333,32.6083333
+cy,ergates,Ergates,04,,35.0541667,33.2458333
+cy,ergazi,Ergazi,01,,35.3666667,33.9333333
+cy,ergenekon,Ergenekon,01,,35.3041667,33.6041667
+cy,erimi,Erimi,05,,34.6791667,32.9166667
+cy,esendag,Esendag,03,,35.0458333,33.5166667
+cy,esendag,Esendag,04,,35.0666667,32.8833333
+cy,esenkoy,Esenköy,01,,35.4833333,34.1333333
+cy,esenkoy,Esenköy,03,,34.7458333,33.1291667
+cy,esensehitler,Esensehitler,04,,35.2166667,33.5291667
+cy,esentepe,Esentepe,02,,35.3416667,33.5791667
+cy,esentepe,Esentepe,06,,34.8625,32.7375
+cy,eskielma,Eskielma,05,,34.9375,32.825
+cy,eskikuyu,Eskikuyu,04,,35.1833333,33.25
+cy,eskimetos,Eskimetos,04,,35.125,33.1916667
+cy,evdhimou,Evdhimou,05,,34.6958333,32.7625
+cy,evdhimu,Evdhimu,05,,34.6958333,32.7625
+cy,evdim,Evdim,05,,34.6958333,32.7625
+cy,evretou,Evretou,06,,34.9625,32.4833333
+cy,evretu,Evretu,06,,34.9625,32.4833333
+cy,evrih,Evrih,04,,35.0413889,32.9013889
+cy,evrihu,Evrihu,04,,35.0413889,32.9013889
+cy,evrychou,Evrychou,04,,35.0413889,32.9013889
+cy,evrykhou,Evrykhou,04,,35.0413889,32.9013889
+cy,exometochi,Exometochi,04,,35.2166667,33.5291667
+cy,exometokhi,Exometokhi,04,,35.2166667,33.5291667
+cy,eylanja,Eylanja,04,,35.1541667,33.3958333
+cy,eylence,Eylence,04,,35.1541667,33.3958333
+cy,eylenja,Eylenja,04,,35.1541667,33.3958333
+cy,faleia,Faleia,06,,34.8583333,32.5875
+cy,falia,Falia,06,,34.8583333,32.5875
+cy,falya,Falya,06,,34.8583333,32.5875
+cy,famagusta,Famagusta,01,,35.125,33.95
+cy,famagusta walled city,Famagusta Walled City,01,,35.125,33.9416667
+cy,farmaka,Farmaka,04,,34.9125,33.1333333
+cy,farmakas,Farmakas,04,,34.9125,33.1333333
+cy,fasli,Fasli,06,,34.9833333,32.3708333
+cy,fasoulla,Fasoulla,05,,34.7666667,33.0291667
+cy,fasula,Fasula,05,,34.7666667,33.0291667
+cy,fasula,Fasula,06,,34.75,32.6333333
+cy,fasulla,Fasulla,05,,34.7666667,33.0291667
+cy,fasulla,Fasulla,06,,34.75,32.6333333
+cy,fidi,Fidi,06,,34.9291667,32.55
+cy,figardu,Figardu,04,,34.9625,33.1708333
+cy,fikardou,Fikardou,04,,34.9625,33.1708333
+cy,fikardu,Fikardu,04,,34.9625,33.1708333
+cy,filani,Filani,04,,34.9916667,33.2125
+cy,filousa,Filousa,06,,34.8541667,32.7458333
+cy,filusa,Filusa,06,,34.8541667,32.7458333
+cy,filya,Filya,04,,35.1875,33.0916667
+cy,fini,Fini,05,,34.8916667,32.8375
+cy,finikaria,Finikaria,05,,34.7541667,33.1
+cy,finikari,Finikari,05,,34.7541667,33.1
+cy,finikarya,Finikarya,05,,34.7541667,33.1
+cy,finikas,Finikas,06,,34.7541667,32.5666667
+cy,finike,Finike,06,,34.7541667,32.5666667
+cy,fiti,Fiti,06,,34.9291667,32.55
+cy,flamoudi,Flamoudi,01,,35.3958333,33.8583333
+cy,flamuda,Flâmuda,01,,35.3958333,33.8583333
+cy,flamudi,Flamudi,01,,35.3958333,33.8583333
+cy,flasu,Flâsu,04,,35.0625,32.8875
+cy,foini,Foini,05,,34.8916667,32.8375
+cy,foinikaria,Foinikaria,05,,34.7541667,33.1
+cy,foinikas,Foinikas,06,,34.7541667,32.5666667
+cy,fota,Fota,02,,35.2666667,33.2208333
+cy,frenaro,Frenaro,01,,35.0416667,33.925
+cy,frenaros,Frenaros,01,,35.0416667,33.925
+cy,frennaros,Frennaros,01,,35.0416667,33.925
+cy,frodisia,Frodisia,04,,35.0666667,32.6666667
+cy,ftericha,Ftericha,02,,35.325,33.2208333
+cy,fteriha,Fteriha,02,,35.325,33.2208333
+cy,fterikoudi,Fterikoudi,04,,34.9458333,33.0708333
+cy,fterikudi,Fterikudi,04,,34.9458333,33.0708333
+cy,fyllia,Fyllia,04,,35.1875,33.0916667
+cy,fyti,Fyti,06,,34.9291667,32.55
+cy,gabura,Gabura,04,,35.0125,33.0125
+cy,gadalyonda,Gadalyonda,04,,34.9916667,33.2958333
+cy,gahiga,Gahiga,06,,34.9166667,32.425
+cy,gaidhoura,Gaidhoura,01,,35.1666667,33.7875
+cy,gaidhouras,Gaidhouras,01,,35.1666667,33.7875
+cy,gaidouras,Gaidouras,01,,35.1666667,33.7875
+cy,galata,Galata,04,,34.9958333,32.9
+cy,galataria,Galataria,06,,34.8791667,32.6333333
+cy,galatarya,Galatarya,06,,34.8791667,32.6333333
+cy,galateia,Galateia,01,,35.4225,34.0716667
+cy,galatia,Galatia,01,,35.4225,34.0716667
+cy,galatya,Galatya,01,,35.4225,34.0716667
+cy,galini,Galini,04,,35.1375,32.7666667
+cy,galinoporni,Galinoporni,01,,35.5208333,34.3
+cy,gallepya,Gallepya,06,,34.8458333,32.5
+cy,gambya,Gambya,04,,35.0083333,33.2583333
+cy,gasiler,Gasiler,04,,35.0791667,33.4844444
+cy,gastirya,Gastirya,01,,35.3333333,34.0
+cy,gastria,Gastria,01,,35.3333333,34.0
+cy,gastriya,Gastriya,01,,35.3333333,34.0
+cy,gaydura,Gaydura,01,,35.1666667,33.7875
+cy,gayidura,Gayidura,01,,35.1666667,33.7875
+cy,gayretkoy,Gayretköy,04,,35.1625,33.1083333
+cy,gazibaf,Gazibaf,06,,34.7666667,32.4166667
+cy,gazikoy,Gaziköy,01,,35.1583333,33.5875
+cy,gaziler,Gaziler,04,,35.0791667,33.4844444
+cy,gazi magosa,Gazi Magosa,01,,35.125,33.95
+cy,gazimagusa,Gazimagusa,01,42532,35.125,33.95
+cy,gaziveran,Gaziveran,04,,35.1727778,32.9169444
+cy,gaziveren,Gaziveren,04,,35.1727778,32.9169444
+cy,gaziviran,Gaziviran,04,,35.1727778,32.9169444
+cy,gecitkale,Geçitkale,01,,35.2583333,33.7333333
+cy,gecitkale,Geçitkale,03,,34.825,33.3875
+cy,gecitkoy,Geçitköy,02,,35.3375,33.0708333
+cy,gelincik,Gelincik,01,,35.475,34.15
+cy,gemikonaga±,GemikonagÄ±,04,,35.1313889,32.8338889
+cy,gemi konaghi,Gemi Konaghi,04,,35.1313889,32.8338889
+cy,genagra,Genagra,01,,35.2166667,33.7
+cy,gengizkoy,Gengizköy,04,,35.1333333,32.8666667
+cy,gerakies,Gerakies,04,,35.0,32.8088889
+cy,gerani,Gerani,01,,35.3625,33.9208333
+cy,gerasa,Gerasa,05,,34.8041667,33.0
+cy,geri,Geri,04,7640,35.1,33.4166667
+cy,geroskipou,Geroskipou,06,,34.7666667,32.4666667
+cy,geunyeli,Geunyeli,04,,35.2166667,33.3041667
+cy,geunyely,Geunyely,04,,35.2166667,33.3041667
+cy,ghaziveran,Ghaziveran,04,,35.1727778,32.9169444
+cy,gialia,Gialia,06,,35.0833333,32.5333333
+cy,gialousa,Gialousa,01,,35.5333333,34.1916667
+cy,gilan,Gilân,05,,34.8458333,32.8625
+cy,gilani,Gilani,05,,34.8458333,32.8625
+cy,gilderen,Gilderen,02,,35.3375,33.1791667
+cy,gildirin,Gildirin,02,,35.3375,33.1791667
+cy,gilinya,Gilinya,06,,34.8833333,32.6333333
+cy,giolou,Giolou,06,,34.9166667,32.4666667
+cy,girit marot,Girit Marot,06,,34.9291667,32.5625
+cy,girit tera,Girit Tera,06,,34.95,32.4166667
+cy,girne,Girne,02,26720,35.3416667,33.3166667
+cy,goceri,Göçeri,02,,35.2916667,33.2166667
+cy,gokagac,Gokagac,05,,34.7083333,32.6833333
+cy,gokcebel,Gökçebel,06,,34.8583333,32.5875
+cy,gokhan,Gökhan,04,,35.2333333,33.5
+cy,gokhan,Gökhan,05,,34.825,32.8333333
+cy,golbasi,Gölbasi,01,,35.275,33.85
+cy,gonelli,Gönelli,04,,35.2166667,33.3041667
+cy,gonendere,Gönendere,04,,35.2666667,33.6625
+cy,gonyeli,Gönyeli,04,,35.2166667,33.3041667
+cy,gorfi,Gorfi,05,,34.8083333,32.9708333
+cy,gormeli,Görmeli,06,,34.9458333,32.55
+cy,gornec,Görneç,01,,35.2833333,33.575
+cy,goshi,Goshi,03,,34.975,33.5166667
+cy,gosi,Gosi,03,,34.975,33.5166667
+cy,gossi,Gossi,03,,34.975,33.5166667
+cy,goudhi,Goudhi,06,,34.9916667,32.4416667
+cy,goudi,Goudi,06,,34.9916667,32.4416667
+cy,goufes,Goufes,01,,35.2833333,33.6875
+cy,gouphaes,Gouphæs,01,,35.2833333,33.6875
+cy,goupha“s,GouphÅ“s,01,,35.2833333,33.6875
+cy,gouphes,Gouphes,01,,35.2833333,33.6875
+cy,gourri,Gourri,04,,34.9583333,33.1583333
+cy,gozubuyuk,Gözübüyük,02,,35.3166667,33.5
+cy,gozuguzel,Gözügüzel,05,,34.6375,32.9583333
+cy,gritmarut,Gritmarut,06,,34.9291667,32.5625
+cy,gudi,Gudi,06,,34.9916667,32.4416667
+cy,gufes,Gufes,01,,35.2833333,33.6875
+cy,gundogdu,Gundogdu,06,,34.9986111,32.3827778
+cy,gunebakan,Günebakan,04,,35.1666667,32.7166667
+cy,gunecakar,Günecakar,04,,35.1666667,32.7166667
+cy,guneskoy,Guneskoy,04,,35.175,32.9583333
+cy,gungor,Güngör,02,,35.2666667,33.425
+cy,guri,Guri,04,,34.9583333,33.1583333
+cy,gurpa±nar,GurpÄ±nar,04,,35.225,33.1416667
+cy,gurri,Gurri,04,,34.9583333,33.1583333
+cy,guvercinlik,Güvercinlik,01,,35.1,33.8625
+cy,guzelkoy,Güzelköy,04,,35.1980556,32.9913889
+cy,guzelyala±,GuzelyalÄ±,02,,35.3666667,33.1166667
+cy,guzelyurt,Güzelyurt,04,14836,35.1980556,32.9913889
+cy,gypsos,Gypsos,01,,35.2583333,33.7833333
+cy,hajinikoloues,Hajinikoloues,01,,35.2916667,33.8833333
+cy,halasa,Halasa,05,,34.7583333,32.9208333
+cy,halassa,Halassa,05,,34.7583333,32.9208333
+cy,halevga,Halevga,02,,35.2875,33.5333333
+cy,halleri,Halleri,04,,35.1683333,32.6588889
+cy,hamidiye,Hamidiye,02,,35.3291667,33.2625
+cy,hamidmandiralari,Hamidmandiralari,04,,35.225,33.3791667
+cy,hamid mandres,Hamid Mandres,04,,35.225,33.3791667
+cy,hamit,Hamit,04,,35.225,33.3791667
+cy,hamitkoy,Hamitköy,04,,35.0747222,32.9541667
+cy,hamit mandres,Hamit Mandres,04,,35.225,33.3791667
+cy,hanbeli,Hanbeli,02,,35.3,33.1083333
+cy,handri,Handri,05,,34.9458333,32.9958333
+cy,handriya,Handriya,05,,34.9458333,32.9958333
+cy,harca,Harça,04,,35.3208333,33.5583333
+cy,harcha,Harcha,04,,35.3208333,33.5583333
+cy,haspolat,Haspolat,04,,35.2083333,33.4208333
+cy,hiloraka,Hiloraka,06,,34.8041667,32.4083333
+cy,hirilliya,Hirilliya,04,,35.2166667,33.25
+cy,hirisida,Hirisida,04,,35.2416667,33.4833333
+cy,hirisilla,Hirisilla,04,,35.2166667,33.25
+cy,hirokitiya,Hirokitiya,03,,34.7958333,33.3375
+cy,hirsofu,Hirsofu,06,,35.005,32.4372222
+cy,hisarkoy,Hisarköy,02,,35.3,33.1083333
+cy,hloraka,Hloraka,06,,34.8041667,32.4083333
+cy,holetria,Holetria,06,,34.775,32.5875
+cy,holi,Holi,06,,34.9791667,32.4458333
+cy,hrisidha,Hrisidha,04,,35.2416667,33.4833333
+cy,hrisilyu,Hrisilyu,04,,35.2166667,33.25
+cy,hulu,Hulu,06,,34.8708333,32.5541667
+cy,ickoy,Ickoy,06,,34.8083333,32.4625
+cy,idalion,Idalion,04,,35.025,33.4208333
+cy,ikedere,Ikedere,04,,35.2458333,33.0958333
+cy,ikos,Ikos,04,,34.9991667,32.8325
+cy,ilgaz,Ilgaz,02,,35.325,33.2208333
+cy,incesu,Incesu,02,,35.3333333,33.2083333
+cy,incirli,Incirli,01,,35.075,33.7666667
+cy,incirli,Incirli,04,,35.1666667,33.3458333
+cy,ineia,Ineia,06,,34.9583333,32.3916667
+cy,inia,Inia,06,,34.9583333,32.3916667
+cy,inonu,Inonu,01,,35.1583333,33.7
+cy,inya,Inya,06,,34.9583333,32.3916667
+cy,ipsillat,Ipsillat,01,,35.25,33.6833333
+cy,ipso,Ipso,01,,35.2583333,33.7833333
+cy,ipsona,Ipsona,05,,34.6833333,32.9583333
+cy,ipsonas,Ipsonas,05,,34.6833333,32.9583333
+cy,ipsos,Ipsos,01,,35.2583333,33.7833333
+cy,irmi,Irmi,02,,35.2994444,32.9622222
+cy,isada,Isada,06,,34.8416667,32.475
+cy,iskele,Iskele,01,4491,35.2875,33.8916667
+cy,iskele,Iskele,03,,34.9125,33.6333333
+cy,ispaharigo,Ispaharigo,01,,35.2333333,33.8708333
+cy,ispilya,Ispilya,04,,34.9666667,32.9541667
+cy,ispitali,Ispitali,05,,34.7666667,33.0041667
+cy,istatos,Istatos,06,,34.8916667,32.6083333
+cy,istillos,Istillos,01,,35.175,33.8333333
+cy,istinco,Istinco,06,,34.9708333,32.5208333
+cy,istingo,Istingó,06,,34.9708333,32.5208333
+cy,istinjo,Istinjo,06,,34.9708333,32.5208333
+cy,istinjon,Istinjon,06,,34.9708333,32.5208333
+cy,istrovolos,Istrovolos,04,,35.15,33.3416667
+cy,istrovulo,Istrovulo,04,,35.15,33.3416667
+cy,istrumbi,Istrumbi,06,,34.8833333,32.4833333
+cy,iyikoy,Iyikoy,04,,35.1125,32.875
+cy,jelojara,Jelojara,06,,34.8,32.65
+cy,jiaz,Jiaz,06,,34.8166667,32.7208333
+cy,kabedes,Kabedes,04,,34.9791667,33.2541667
+cy,kadidada,Kadidada,04,,35.0833333,32.8916667
+cy,kadokopya,Kadokopya,04,,35.175,33.05
+cy,kafkalou,Kafkalou,04,,35.0375,33.0125
+cy,kafkalu,Kafkalu,04,,35.0375,33.0125
+cy,kaimakli,Kaimakli,04,,35.1833333,33.3833333
+cy,kakopetria,Kakopetria,04,,34.9916667,32.9041667
+cy,kakopetriya,Kakopetriya,04,,34.9916667,32.9041667
+cy,ka±la±caslan,KÄ±lÄ±caslan,02,,35.2708333,33.125
+cy,kalapanayot,Kalapanayot,04,,34.9916667,32.825
+cy,kalassa,Kalassa,05,,34.7583333,32.9208333
+cy,kalavac,Kalavaç,04,,35.2583333,33.55
+cy,kalavas,Kalavas,04,,35.2583333,33.55
+cy,kalavaso,Kalavaso,03,,34.7666667,33.3
+cy,kalavason,Kalavason,03,,34.7666667,33.3
+cy,kalavasos,Kalavasos,03,,34.7666667,33.3
+cy,kale bournou,Kalé Bournou,01,,35.5208333,34.3
+cy,kaleburnu,Kaleburnu,01,,35.5208333,34.3
+cy,kalecik,Kalecik,01,,35.3333333,34.0
+cy,kaleici,Kaleiçi,01,,35.125,33.9416667
+cy,kalepurnu,Kalepurnu,01,,35.5208333,34.3
+cy,kaleri,Kaleri,04,,35.1683333,32.6588889
+cy,kaliana,Kaliana,04,,35.0125,32.8916667
+cy,kalkanla±,KalkanlÄ±,04,,35.2458333,33.0375
+cy,kallepeia,Kallepeia,06,,34.8458333,32.5
+cy,kallepia,Kallepia,06,,34.8458333,32.5
+cy,kallepya,Kallepya,06,,34.8458333,32.5
+cy,kallurga,Kallurga,02,,35.3375,33.6291667
+cy,kalogrea,Kalogrea,02,,35.3375,33.6291667
+cy,kalogria,Kalogria,02,,35.3375,33.6291667
+cy,kalohorio,Kalohorio,03,,34.9291667,33.5333333
+cy,kalohorio,Kalohorio,04,,35.0125,33.1625
+cy,kalohorio,Kalohorio,05,,34.85,33.0333333
+cy,kalohoryo,Kalohoryo,03,,34.9291667,33.5333333
+cy,kalohoryo,Kalohoryo,04,,35.0125,33.1625
+cy,kalohoryo,Kalohoryo,05,,34.85,33.0333333
+cy,kalokhoria,Kalokhoria,03,,34.9291667,33.5333333
+cy,kalo khoria,Kalo Khoria,04,,35.1125,32.875
+cy,kalokhorio,Kalokhorio,03,,34.9291667,33.5333333
+cy,kalokhorio,Kalokhorio,04,,35.0125,33.1625
+cy,kalokhorio,Kalokhorio,05,,34.85,33.0333333
+cy,kalokhorio lefkas,Kalokhorio Lefkas,04,,35.1125,32.875
+cy,kalokhorio morphou,Kalokhorio Morphou,04,,35.2458333,33.0375
+cy,kalokhorio orinis,Kalokhorio Orinis,04,,35.0125,33.1625
+cy,kalon chorion,Kalon Chorion,03,,34.9291667,33.5333333
+cy,kalon chorion,Kalon Chorion,04,,35.0125,33.1625
+cy,kalon chorion,Kalon Chorion,05,,34.85,33.0333333
+cy,kalopanagiotis,Kalopanagiotis,04,,34.9916667,32.825
+cy,kalopanayiotis,Kalopanayiotis,04,,34.9916667,32.825
+cy,kalopanayot,Kalopanayot,04,,34.9916667,32.825
+cy,kalopsida,Kalopsida,01,,35.1,33.8
+cy,kalopsidha,Kalopsidha,01,,35.1,33.8
+cy,kalopsyda,Kalopsyda,01,,35.1,33.8
+cy,kalorka,Kalorka,02,,35.3375,33.6291667
+cy,kalyana,Kalyana,04,,35.0125,32.8916667
+cy,kalyvakia,Kalyvakia,04,,35.2583333,33.55
+cy,kambia,Kambia,04,,35.0083333,33.2583333
+cy,kambi,Kambi,04,,34.9083333,33.1291667
+cy,kambili,Kambili,02,,35.3,33.1083333
+cy,kambilli,Kambilli,02,,35.3,33.1083333
+cy,kambi pharmaka,Kambi Pharmaka,04,,34.9083333,33.1291667
+cy,kambiya,Kambiya,04,,35.0083333,33.2583333
+cy,kambo,Kambo,04,,35.0380556,32.7338889
+cy,kambos,Kambos,04,,35.0380556,32.7338889
+cy,kambya,Kambya,04,,35.0083333,33.2583333
+cy,kambyli,Kambyli,02,,35.3,33.1083333
+cy,kamilpasa,Kamilpasa,01,,35.1125,33.9291667
+cy,kaminara,Kaminara,05,,34.9291667,32.7833333
+cy,kaminarga,Kaminarga,05,,34.9291667,32.7833333
+cy,kaminaria,Kaminaria,05,,34.9291667,32.7833333
+cy,kaminarka,Kaminarka,05,,34.9291667,32.7833333
+cy,kaminarya,Kaminarya,05,,34.9291667,32.7833333
+cy,kampia,Kampia,04,,35.0083333,33.2583333
+cy,kampi,Kampi,04,,34.9083333,33.1291667
+cy,kampos,Kampos,04,,35.0380556,32.7338889
+cy,kampyli,Kampylí,02,,35.3,33.1083333
+cy,kamyali,Kamyali,01,,35.4291667,34.1333333
+cy,kanavya,Kanavya,06,,34.9166667,32.575
+cy,kandara,Kandara,01,,35.3833333,33.9
+cy,kandou,Kandou,05,,34.6916667,32.9041667
+cy,kandriya,Kandriya,05,,34.9458333,32.9958333
+cy,kandu,Kandu,05,,34.6916667,32.9041667
+cy,kanla± chiftlik,KanlÄ± Chiftlik,04,,35.2208333,33.2583333
+cy,kanla±koy,KanlÄ±koy,04,,35.2208333,33.2583333
+cy,kanli,Kanli,04,,35.2208333,33.2583333
+cy,kanli keuy,Kanli Keuy,04,,35.2208333,33.2583333
+cy,kannavia,Kannavia,04,,34.9833333,32.9791667
+cy,kannaviou,Kannaviou,06,,34.9166667,32.575
+cy,kannaviu,Kannaviu,06,,34.9166667,32.575
+cy,kannavya,Kannavya,04,,34.9833333,32.9791667
+cy,kannavyu,Kannavyu,06,,34.9166667,32.575
+cy,kantara,Kantara,01,,35.3833333,33.9
+cy,kantou,Kantou,05,,34.6916667,32.9041667
+cy,kapades,Kapades,04,,34.9791667,33.2541667
+cy,kapedhes,Kapedhes,04,,34.9791667,33.2541667
+cy,kapileion,Kapileion,05,,34.8333333,32.9583333
+cy,kapilio,Kapilio,05,,34.8333333,32.9583333
+cy,kapilion,Kapilion,05,,34.8333333,32.9583333
+cy,kapilyo,Kapilyo,05,,34.8333333,32.9583333
+cy,kapla±ca,KaplÄ±ca,01,,35.4208333,33.9083333
+cy,kapoura,Kapoura,04,,35.0125,33.0125
+cy,kapouti,Kapouti,04,,35.2458333,33.0375
+cy,kappedhes,Kappedhes,04,,34.9791667,33.2541667
+cy,kapura,Kapura,04,,35.0125,33.0125
+cy,kaputi,Kaputi,04,,35.2458333,33.0375
+cy,karaagac,Karaagac,04,,35.3208333,33.5583333
+cy,karaagac,Karaagac,06,,35.0272222,32.4786111
+cy,ka±ra±kkale,KÄ±rÄ±kkale,03,,35.075,33.5833333
+cy,karakol,Karakol,01,,35.1291667,33.9333333
+cy,karakoumi,Karakoumi,02,,35.3375,33.35
+cy,karakum,Karakum,02,,35.3375,33.35
+cy,karamacit,Karamacit,02,,35.3416667,33.0083333
+cy,karaman,Karaman,02,,35.3208333,33.25
+cy,karamoullides,Karamoullides,06,,35.0,32.4416667
+cy,karamoullidhes,Karamoullidhes,06,,35.0,32.4416667
+cy,karamulla,Karamulla,06,,35.0,32.4416667
+cy,karamulles,Karamulles,06,,35.0,32.4416667
+cy,karamulliyes,Karamulliyes,06,,35.0,32.4416667
+cy,karamulyez,Karamulyez,06,,35.0,32.4416667
+cy,karaoglanoglu,Karaoglanoglu,02,,35.3416667,33.3041667
+cy,karaolos plantation,Karaolos Plantation,01,,35.1458333,33.9291667
+cy,karava,Karava,02,,35.3416667,33.2
+cy,karavas,Karavas,02,,35.3416667,33.2
+cy,karavostasi,Karavostasi,04,,35.1313889,32.8338889
+cy,karavostas,Karavostas,04,,35.1313889,32.8338889
+cy,karavostassi,Karavostassi,04,,35.1313889,32.8338889
+cy,karga±,KargÄ±,04,,35.0833333,33.4833333
+cy,ka±rklar,KÄ±rklar,04,,35.1333333,33.5125
+cy,karmi,Karmi,02,,35.3208333,33.25
+cy,karni,Karni,02,,35.3208333,33.25
+cy,karokomi chiftlik,Karokomi Chiftlik,02,,35.3375,33.35
+cy,karovia,Karovia,01,,35.5041667,34.275
+cy,karpasa,Karpasa,02,,35.3,33.0666667
+cy,karpaseia,Karpaseia,02,,35.3,33.0666667
+cy,karpasha,Karpasha,02,,35.3,33.0666667
+cy,karpasia,Karpasia,02,,35.3,33.0666667
+cy,karsa±yaka,KarsÄ±yaka,01,,35.3458333,33.125
+cy,karsa±yaka,KarsÄ±yaka,06,,35.0291667,32.4166667
+cy,karskoumi,Karskoumi,02,,35.3375,33.35
+cy,kasaba,Kasaba,06,,34.775,32.4333333
+cy,katakopya,Katakopya,04,,35.175,33.05
+cy,katalionda,Katalionda,04,,34.9916667,33.2958333
+cy,kataliondas,Kataliondas,04,,34.9916667,33.2958333
+cy,kataliontas,Kataliontas,04,,34.9916667,33.2958333
+cy,katalynata ton plakoton,Katalynata ton Plakoton,05,,34.5833333,32.9458333
+cy,katalyonda,Katalyonda,04,,34.9916667,33.2958333
+cy,kathikas,Kathikas,06,,34.9166667,32.425
+cy,katidata,Katidata,04,,35.0833333,32.8916667
+cy,katika,Katika,06,,34.9166667,32.425
+cy,katikas,Katikas,06,,34.9166667,32.425
+cy,kat mora±,Kat MorÄ±,04,,35.05,33.1
+cy,kato akourdaleia,Kato Akourdaleia,06,,34.9541667,32.45
+cy,kato akourdalia,Kato Akourdalia,06,,34.9541667,32.45
+cy,kato akourdhalia,Kato Akourdhalia,06,,34.9541667,32.45
+cy,kato akurdalia,Kato Akurdalia,06,,34.9541667,32.45
+cy,kato akurdalya,Kato Akurdalya,06,,34.9541667,32.45
+cy,kato amiandos,Kato Amiandos,05,,34.9208333,32.9333333
+cy,kato amiantos,Kato Amiantos,05,,34.9208333,32.9333333
+cy,kato amiyando,Kato Amiyando,05,,34.9208333,32.9333333
+cy,kato archimandrita,Kato Archimandrita,06,,34.7375,32.6791667
+cy,kato arhimandrita,Kato Arhimandrita,06,,34.7375,32.6791667
+cy,kato arkhimandrita,Kato Arkhimandrita,06,,34.7375,32.6791667
+cy,kato arodesd,Kato Arodesd,06,,34.9416667,32.4041667
+cy,kato arodhes,Kato Arodhes,06,,34.9416667,32.4041667
+cy,kato aspiou,Kato Aspiou,05,,34.8,33.0166667
+cy,kato civiya,Kato Civiya,05,,34.7666667,32.8666667
+cy,kato deftera,Kato Deftera,04,,35.0875,33.2791667
+cy,kato dheftera,Kato Dheftera,04,,35.0875,33.2791667
+cy,kato dhikomo,Kato Dhikomo,03,,35.2666667,33.325
+cy,kato dhrys,Kato Dhrys,03,,34.85,33.3041667
+cy,kato dikomo,Kato Dikomo,03,,35.2666667,33.325
+cy,kato dikomon,Kato Dikomon,03,,35.2666667,33.325
+cy,katodris,Katodris,03,,34.85,33.3041667
+cy,kato drys,Kato Drys,03,,34.85,33.3041667
+cy,kato flasou,Kato Flasou,04,,35.0625,32.8875
+cy,kato flasu,Kato Flasu,04,,35.0625,32.8875
+cy,kato gialia,Kato Gialia,06,,35.1155556,32.5169444
+cy,kato kividhes,Kato Kividhes,05,,34.7666667,32.8666667
+cy,kato kophinou,Kato Kophinou,03,,34.825,33.3875
+cy,kato kopia,Kato Kopia,04,,35.175,33.05
+cy,katokopya,Katokopya,04,,35.175,33.05
+cy,kato koutrapha,Kato Koutrapha,04,,35.1008333,32.9786111
+cy,kato koutraphas,Kato Koutraphas,04,,35.1008333,32.9786111
+cy,kato kutrafa,Kato Kutrafa,04,,35.1008333,32.9786111
+cy,kato lakatameia,Kato Lakatameia,04,,35.1208333,33.3166667
+cy,kato lakatamia,Kato Lakatamia,04,,35.1208333,33.3166667
+cy,kato lakatamya,Kato Lakatamya,04,,35.1208333,33.3166667
+cy,kato lakkatamia,Káto Lakkatámia,04,,35.1208333,33.3166667
+cy,kato lefkara,Kato Lefkara,03,,34.8625,33.3166667
+cy,kato milo,Kato Milo,05,,34.8958333,33.0041667
+cy,kato milos,Kato Milos,05,,34.8958333,33.0041667
+cy,kato moni,Kato Moni,04,,35.05,33.1
+cy,kato mylos,Kato Mylos,05,,34.8958333,33.0041667
+cy,kato pafos,Káto Páfos,06,,34.7583333,32.4083333
+cy,kato panaya,Kato Panaya,06,,34.8375,32.5541667
+cy,kato panayia,Kato Panayia,06,,34.8375,32.5541667
+cy,kato paphos,Kato Paphos,06,,34.7583333,32.4083333
+cy,kato phlasou,Kato Phlasou,04,,35.0625,32.8875
+cy,kato pirgo,Kato Pirgo,04,,35.1802778,32.6825
+cy,kato platraes,Káto Plátræs,05,,34.875,32.8416667
+cy,kato platres,Kato Platres,05,,34.875,32.8416667
+cy,kato polemidhia,Kato Polemidhia,05,,34.6958333,33.0
+cy,kato polemidia,Káto Polemídia,05,,34.6958333,33.0
+cy,kato polemidya,Kato Polemidya,05,,34.6958333,33.0
+cy,kato pyrgos,Kato Pyrgos,01,,35.1833333,33.725
+cy,kato pyrgos,Kato Pyrgos,04,,35.1802778,32.6825
+cy,kato vlaso,Káto Vláso,04,,35.0625,32.8875
+cy,kato yalya,Kato Yalya,06,,35.1155556,32.5169444
+cy,kato yialia,Kato Yialia,06,,35.1155556,32.5169444
+cy,kato zadhia,Kato Zadhia,04,,35.1666667,33.0
+cy,kato zodeia,Kato Zodeia,04,,35.1666667,33.0
+cy,kato zodhia,Kato Zodhia,04,,35.1666667,33.0
+cy,kato zodia,Káto Zodia,04,,35.1666667,33.0
+cy,kato zodya,Kato Zodya,04,,35.1666667,33.0
+cy,katydhata,Katydhata,04,,35.0833333,32.8916667
+cy,kavakla±,KavaklÄ±,06,,34.7791667,32.65
+cy,kayadibi,Kayadibi,04,,35.1583333,32.6208333
+cy,kayakale,Kayakale,05,,34.6583333,32.9666667
+cy,kayalar,Kayalar,02,,35.3625,33.0333333
+cy,kaynakkoy,Kaynakköy,02,,35.2791667,33.3833333
+cy,kaynokkoy,Kaynokkoy,02,,35.2791667,33.3833333
+cy,kazabifan,Kazabifan,02,,35.3166667,33.35
+cy,kazafana,Kazafana,02,,35.3166667,33.35
+cy,kazafani,Kazafani,02,,35.3166667,33.35
+cy,ka±za±lay,KÄ±zÄ±lay,04,,35.2,33.3583333
+cy,ka±za±lbas-gelibolu,KÄ±zÄ±lbas-Gelibolu,04,,35.2,33.3583333
+cy,ka±za±lbas,KÄ±zÄ±lbas,04,,35.2,33.3583333
+cy,kazaphani,Kazaphani,02,,35.3166667,33.35
+cy,kazivera,Kazivera,04,,35.1727778,32.9169444
+cy,kedares,Kedares,06,,34.8375,32.7375
+cy,kedera,Kedera,06,,34.8375,32.7375
+cy,kedhare,Kedhare,06,,34.8375,32.7375
+cy,kedhares,Kedhares,06,,34.8375,32.7375
+cy,kellaki,Kellaki,04,,34.8166667,33.1583333
+cy,kellia,Kellia,03,,34.9791667,33.6208333
+cy,kelokedara,Kelokedara,06,,34.8,32.65
+cy,kelokedhara,Kelokedhara,06,,34.8,32.65
+cy,kelokethara,Kelokethara,06,,34.8,32.65
+cy,kepez,Kepez,01,,35.2833333,33.6875
+cy,kervanyolu,Kervanyolu,06,,35.0,32.4416667
+cy,keryneia,Keryneia,02,,35.3416667,33.3166667
+cy,kerynia,Kérynia,02,,35.3416667,33.3166667
+cy,keumurja,Keumurja,03,,35.2916667,33.2583333
+cy,keumurji,Keumurji,03,,35.2916667,33.2583333
+cy,keumurju,Keumurju,03,,35.2916667,33.2583333
+cy,keurnech,Keurnech,01,,35.2833333,33.575
+cy,khalari,Khalari,04,,35.1683333,32.6588889
+cy,khalassa,Khalassa,05,,34.7583333,32.9208333
+cy,khaleri,Khaleri,04,,35.1683333,32.6588889
+cy,khandria,Khandria,05,,34.9458333,32.9958333
+cy,kharcha,Kharcha,04,,35.3208333,33.5583333
+cy,khartja,Khartja,04,,35.3208333,33.5583333
+cy,khirokitia,Khirokitia,03,,34.7958333,33.3375
+cy,khlorakas,Khlorakas,06,,34.8041667,32.4083333
+cy,kholetria,Kholetria,06,,34.775,32.5875
+cy,kholi,Kholi,06,,34.9791667,32.4458333
+cy,khorno,Khorno,03,,34.9208333,33.3916667
+cy,khoulou,Khoulou,06,,34.8708333,32.5541667
+cy,khrisohu,Khrisohu,06,,35.005,32.4372222
+cy,khrysida,Khrysida,04,,35.2416667,33.4833333
+cy,khrysidha,Khrysidha,04,,35.2416667,33.4833333
+cy,khrysiliou,Khrysiliou,04,,35.2166667,33.25
+cy,khrysokhou,Khrysokhou,06,,35.005,32.4372222
+cy,kidasi,Kidasi,06,,34.8166667,32.7208333
+cy,kilamenos,Kilamenos,01,,35.4833333,34.1333333
+cy,kilanemos,Kilanemos,01,,35.4833333,34.1333333
+cy,kilani,Kilani,05,,34.8458333,32.8625
+cy,kilanimos,Kilanimos,01,,35.4833333,34.1333333
+cy,kili,Kili,06,,34.8625,32.4583333
+cy,kilinia,Kilinia,06,,34.8833333,32.6333333
+cy,kilitkaya,Kilitkaya,02,,35.4125,33.975
+cy,kinousa,Kinousa,06,,35.0319444,32.5113889
+cy,kinusa,Kinusa,06,,35.0319444,32.5113889
+cy,kio,Kio,06,,34.9708333,32.5208333
+cy,kiomurtzou,Kiomurtzou,03,,35.2916667,33.2583333
+cy,kioneli,Kioneli,04,,35.2166667,33.3041667
+cy,kionia,Kionia,04,,34.9208333,33.1958333
+cy,kiperunda,Kiperunda,05,,34.9375,32.975
+cy,kiraca±koy,KiracÄ±koy,03,,35.0666667,33.5416667
+cy,kira,Kira,04,,35.2041667,33.0625
+cy,kiran,Kiran,02,,35.2875,33.2375
+cy,kirni,Kirni,02,,35.2875,33.2375
+cy,kisonerga,Kisonerga,06,,34.825,32.4
+cy,kissonerga,Kissonerga,06,,34.825,32.4
+cy,kissoneros,Kissoneros,06,,34.825,32.4
+cy,kissousa,Kissousa,05,,34.8125,32.7958333
+cy,kissusa,Kissusa,05,,34.8125,32.7958333
+cy,kisusa,Kisusa,05,,34.8125,32.7958333
+cy,kitasi,Kitasi,06,,34.8166667,32.7208333
+cy,kithasi,Kithasi,06,,34.8166667,32.7208333
+cy,kiti,Kiti,03,,34.85,33.575
+cy,kition,Kition,03,,34.85,33.575
+cy,kitium,Kitium,03,,34.9166667,33.6291667
+cy,kitrea,Kitrea,04,,35.2541667,33.4833333
+cy,kitreya,Kitreya,04,,35.2541667,33.4833333
+cy,kittim,Kittim,03,,34.9166667,33.6291667
+cy,kividhes,Kividhes,05,,34.7708333,32.8416667
+cy,kivisili,Kivisili,03,,34.8375,33.5083333
+cy,kivisil,Kivisil,03,,34.8375,33.5083333
+cy,klavdhia,Klavdhia,03,,34.8916667,33.5125
+cy,klavdia,Klavdia,03,,34.8916667,33.5125
+cy,klavya,Klâvya,03,,34.8916667,33.5125
+cy,klepini,Klepini,02,,35.3083333,33.4333333
+cy,klirou,Klirou,04,,35.0208333,33.1791667
+cy,kliru,Kliru,04,,35.0208333,33.1791667
+cy,klonari,Klonari,05,,34.8291667,33.1833333
+cy,klorakas,Klorakas,06,,34.8041667,32.4083333
+cy,knodara,Knodara,04,,35.2666667,33.6625
+cy,knodhara,Knodhara,04,,35.2666667,33.6625
+cy,koccat,Koççat,04,,35.0125,33.35
+cy,koccina,Koççina,04,,35.1758333,32.6083333
+cy,koccinno-trimitya,Koççinno-Trimitya,04,,35.1541667,33.2
+cy,koccinotrimitya,Koççinotrimitya,04,,35.1541667,33.2
+cy,kochati,Kochati,04,,35.0125,33.35
+cy,kocinodrimitya,Koçinodrimitya,04,,35.1541667,33.2
+cy,kocyalaga±,KocyalagÄ±,03,,34.975,33.5166667
+cy,kocyataga±,KocyatagÄ±,03,,34.975,33.5166667
+cy,kofinou,Kofinou,03,,34.825,33.3875
+cy,kofinu,Kofinu,03,,34.825,33.3875
+cy,kofunye,Köfünye,03,,34.825,33.3875
+cy,koilanemos,Koilanemos,01,,35.4833333,34.1333333
+cy,koilani,Koilani,05,,34.8458333,32.8625
+cy,koilas ton kedron,Koilás tón Kédron,06,,34.9833333,32.6833333
+cy,koilineia,Koilineia,06,,34.8833333,32.6333333
+cy,kokkina,Kokkina,04,,35.1758333,32.6083333
+cy,kokkini trimithia,Kokkini Trimithia,04,,35.1541667,33.2
+cy,kokkinotrimithia,Kokkinotrimithia,04,,35.1541667,33.2
+cy,kokkinotrimitya,Kokkinotrimitya,04,,35.1541667,33.2
+cy,kokkinoyia,Kokkinoyia,05,,34.7083333,33.075
+cy,koklu,Köklü,01,,35.1083333,33.75
+cy,koloni,Koloni,06,,34.7541667,32.4666667
+cy,kolos,Kolos,05,,34.6708333,32.9291667
+cy,kolossi,Kolossi,05,,34.6708333,32.9291667
+cy,komad tuyalu,Komad Tuyalu,01,,35.4291667,34.1333333
+cy,koma tou gialou,Koma tou Gialou,01,,35.4291667,34.1333333
+cy,koma tou yialou,Koma tou Yialou,01,,35.4291667,34.1333333
+cy,koma to yialou,Koma to Yialou,01,,35.4291667,34.1333333
+cy,komatuyalu,Komatuyalu,01,,35.4291667,34.1333333
+cy,komialik,Komialik,01,,35.4291667,34.1333333
+cy,komi kebir,Komi Kebir,01,,35.4083333,34.0
+cy,komi,Komi,01,,35.4083333,34.0
+cy,kominarga,Kominarga,05,,34.9291667,32.7833333
+cy,komurcu,Kömürcü,03,,35.2916667,33.2583333
+cy,komyala±k,KomyalÄ±k,01,,35.4291667,34.1333333
+cy,kondea,Kondea,01,,35.1041667,33.7166667
+cy,kondemenos,Kondemenos,02,,35.2708333,33.125
+cy,kondeya,Kondeya,01,,35.1041667,33.7166667
+cy,kondovouna,Kondovouna,05,,34.6708333,32.9916667
+cy,konedra,Konedra,04,,35.2666667,33.6625
+cy,konetra,Konetra,04,,35.2666667,33.6625
+cy,konia,Konia,06,,34.7833333,32.4583333
+cy,konnia,Konnia,06,,34.7833333,32.4583333
+cy,kontea,Kontea,01,,35.1041667,33.7166667
+cy,kontemenos,Kontemenos,02,,35.2708333,33.125
+cy,konya,Konya,06,,34.7833333,32.4583333
+cy,kophino,Kophino,03,,34.825,33.3875
+cy,kophinou,Kophinou,03,,34.825,33.3875
+cy,kopia,Kopia,04,,35.175,33.05
+cy,kopru,Köprü,01,,35.1083333,33.75
+cy,kopru,Köprü,06,,34.7083333,32.575
+cy,koprulu,Köprülü,01,,35.1083333,33.75
+cy,koprulu,Köprülü,06,,34.7083333,32.575
+cy,kopuzlu,Kopuzlu,01,,35.325,33.8166667
+cy,korakou,Korakou,04,,35.0416667,32.8875
+cy,koraku,Koraku,04,,35.0416667,32.8875
+cy,koralou,Koralou,04,,35.0416667,32.8875
+cy,kordemen,Kördemen,02,,35.2708333,33.125
+cy,kordumen,Kördümen,02,,35.2708333,33.125
+cy,korfi,Korfi,05,,34.8083333,32.9708333
+cy,korkuteli,Korkuteli,01,,35.1666667,33.7875
+cy,kormacit,Kormacit,02,,35.3416667,33.0083333
+cy,kormakiti,Kormakiti,02,,35.3416667,33.0083333
+cy,kornec,Korneç,01,,35.2833333,33.575
+cy,kornokipos,Kornokipos,01,,35.2833333,33.575
+cy,korno,Korno,03,,34.9208333,33.3916667
+cy,kornos,Kornos,03,,34.9208333,33.3916667
+cy,koroveia,Koroveia,01,,35.5041667,34.275
+cy,korovia,Korovia,01,,35.5041667,34.275
+cy,korovya,Korovya,01,,35.5041667,34.275
+cy,korphi,Korphi,05,,34.8083333,32.9708333
+cy,korucam,Koruçam,02,,35.3416667,33.0083333
+cy,koruova,Koruova,01,,35.5041667,34.275
+cy,kosi,Kosi,03,,34.975,33.5166667
+cy,kosklu ciftlik,Kosklu Ciftlik,04,,35.1833333,33.35
+cy,kotchati,Kotchati,04,,35.0125,33.35
+cy,kotodori,Kotodori,03,,34.85,33.3041667
+cy,kotsiatis,Kotsiatis,04,,35.0125,33.35
+cy,kouka,Kouka,05,,34.85,32.8916667
+cy,kouklia,Kouklia,01,,35.1083333,33.75
+cy,kouklia,Kouklia,06,,34.7083333,32.575
+cy,kounetra,Kounetra,04,,35.2666667,33.6625
+cy,kourdaka,Kourdaka,06,,34.8583333,32.5416667
+cy,kourdali,Kourdali,04,,34.975,32.95
+cy,kourdhali,Kourdhali,04,,34.975,32.95
+cy,kourou monastir,Kourou Monastir,04,,35.225,33.5541667
+cy,kourou monastriri,Kourou Monastriri,04,,35.225,33.5541667
+cy,kourtaka,Kourtaka,06,,34.8583333,32.5416667
+cy,koutrapha,Koutrapha,04,,35.1008333,32.9786111
+cy,koutraphas,Koutraphas,04,,35.1008333,32.9786111
+cy,koutsovendis,Koutsovendis,02,,35.2666667,33.425
+cy,koutsoventis,Koutsoventis,02,,35.2666667,33.425
+cy,kouverjinlik,Kouverjinlik,01,,35.1,33.8625
+cy,koyuniu,Koyuniu,05,,34.8166667,32.7833333
+cy,koyunlu,Koyunlu,05,,34.8166667,32.7833333
+cy,kozan,Kozan,02,,35.3125,33.1416667
+cy,kozan,Kozan,03,,34.9166667,33.6291667
+cy,kozen,Kozen,02,,35.3125,33.1416667
+cy,kridhia,Kridhia,02,,35.4125,33.975
+cy,krini,Krini,02,,35.2875,33.2375
+cy,krisida,Krisida,04,,35.2416667,33.4833333
+cy,kritou marottou,Kritou Marottou,06,,34.9291667,32.5625
+cy,kritou tera,Kritou Tera,06,,34.95,32.4166667
+cy,kritou terra,Kritou Terra,06,,34.95,32.4166667
+cy,kritu marotu,Kritu Marotu,06,,34.9291667,32.5625
+cy,kritu terra,Kritu Terra,06,,34.95,32.4166667
+cy,kritya,Kritya,02,,35.4125,33.975
+cy,krovya,Krovya,01,,35.5041667,34.275
+cy,ksero,Ksero,04,,35.1416667,32.8333333
+cy,kserovuno,Kserovuno,04,,35.15,32.7333333
+cy,ksiliatos,Ksiliatos,04,,35.0333333,33.0458333
+cy,ksilodimbo,Ksilodimbo,03,,35.0166667,33.75
+cy,ksilodimbu,Ksilodimbu,03,,35.0166667,33.75
+cy,ksilofago,Ksilofago,03,,34.9791667,33.85
+cy,ksilofagu,Ksilofagu,03,,34.9791667,33.85
+cy,ksilofogo,Ksilofogo,03,,34.9791667,33.85
+cy,ksilotimbu,Ksilotimbu,03,,35.0166667,33.75
+cy,ksilyado,Ksilyado,04,,35.0333333,33.0458333
+cy,ksilyato,Ksilyato,04,,35.0333333,33.0458333
+cy,ktima,Ktima,06,,34.775,32.4333333
+cy,kuchuk kaimakli,Kuchuk Kaimakli,04,,35.1916667,33.375
+cy,kucukerenkoy,Küçükerenköy,01,,35.375,33.7041667
+cy,kucuk kaymakla±,Kucuk KaymaklÄ±,04,,35.1916667,33.375
+cy,kucukkoy,Küçükköy,04,,35.025,33.325
+cy,kucuk solcuklu,Küçük Solçuklu,04,,35.1625,32.6291667
+cy,kucuksu,Küçüksu,06,,34.8166667,32.525
+cy,kufez,Kufez,01,,35.2833333,33.6875
+cy,kuka,Kuka,05,,34.85,32.8916667
+cy,kukla,Kukla,01,,35.1083333,33.75
+cy,kukla,Kukla,06,,34.7083333,32.575
+cy,kumsal,Kumsal,04,,35.1916667,33.35
+cy,kumyala±,KumyalÄ±,01,,35.4291667,34.1333333
+cy,kurdaka,Kurdaka,06,,34.8583333,32.5416667
+cy,kurdali,Kurdali,04,,34.975,32.95
+cy,kurdemen,Kurdemen,02,,35.2708333,33.125
+cy,kurez,Kurez,01,,35.2833333,33.6875
+cy,kurtaga,Kurtaga,06,,34.8583333,32.5416667
+cy,kurtaka,Kurtaka,06,,34.8583333,32.5416667
+cy,kurtali,Kurtali,04,,34.975,32.95
+cy,kurtulug,Kurtulug,01,,35.3583333,33.9666667
+cy,kurtulus,Kurtulus,01,,35.3583333,33.9666667
+cy,kurudera,Kurudera,01,,35.1916667,33.6416667
+cy,kurudere,Kurudere,01,,35.1916667,33.6416667
+cy,kuru manastir,Kuru Manastir,04,,35.225,33.5541667
+cy,kuruova,Kuruova,01,,35.5041667,34.275
+cy,kurutepe,Kurutepe,04,,35.15,32.7333333
+cy,kusluca,Kusluca,06,,34.9583333,32.5291667
+cy,kutsovendis,Kutsovendis,02,,35.2666667,33.425
+cy,kutsoventi,Kutsoventi,02,,35.2666667,33.425
+cy,kutsoventis,Kutsoventis,02,,35.2666667,33.425
+cy,kuzucuk,Kuzucuk,01,,35.2375,33.8583333
+cy,kyli,Kyli,06,,34.8625,32.4583333
+cy,kynousa,Kynousa,06,,35.0319444,32.5113889
+cy,kyperounda,Kyperounda,05,,34.9375,32.975
+cy,kyperounta,Kyperounta,05,,34.9375,32.975
+cy,kyra,Kyra,04,,35.2041667,33.0625
+cy,kyrenia,Kyrenia,02,,35.3416667,33.3166667
+cy,kythraea,Kythræa,04,,35.2541667,33.4833333
+cy,kythrea,Kythrea,04,,35.2541667,33.4833333
+cy,lacca,Laçça,04,,35.1,33.3666667
+cy,lacci,Laççi,06,,35.0380556,32.3936111
+cy,lacha,Lacha,04,,35.1,33.3666667
+cy,lachi,Lachi,06,,35.0380556,32.3936111
+cy,lageia,Lageia,03,,34.8416667,33.2458333
+cy,lagoudera,Lagoudera,04,,34.9625,33.0291667
+cy,lagoudhera,Lagoudhera,04,,34.9625,33.0291667
+cy,lagudera,Lagudera,04,,34.9625,33.0291667
+cy,lakadamya,Lâkadamya,04,,35.1083333,33.3
+cy,lakatamia,Lakatamia,04,,35.1208333,33.3166667
+cy,lakkatamia,Lakkatamía,04,,35.1208333,33.3166667
+cy,lakki,Lakki,06,,35.0380556,32.3936111
+cy,laksa,Laksa,04,,35.1,33.3666667
+cy,lamba,Lâmba,06,,34.8083333,32.4166667
+cy,laneia,Laneia,05,,34.825,32.9208333
+cy,lania,Lania,05,,34.825,32.9208333
+cy,lanya,Lanya,05,,34.825,32.9208333
+cy,lapathos,Lapathos,01,,35.2708333,33.825
+cy,lapatos,Lapatos,01,,35.2708333,33.825
+cy,lapatoz,Lâpatoz,01,,35.2708333,33.825
+cy,lapithiou,Lapithiou,06,,34.9041667,32.5958333
+cy,lapithiu,Lapithiu,06,,34.9041667,32.5958333
+cy,lapithos,Lapithos,02,5215,35.3125,33.1416667
+cy,lapithou,Lapithou,03,,34.9166667,33.6291667
+cy,lapithou,Lapithou,06,,34.9041667,32.5958333
+cy,lapitos,Lapitos,02,,35.3375,33.1791667
+cy,lapityu,Lâpityu,06,,34.9041667,32.5958333
+cy,lapityu-larnaka,Lapityu-Larnaka,02,,35.3125,33.1416667
+cy,lapta,Lâpta,02,,35.3375,33.1791667
+cy,larnaca,Larnaca,03,48954,34.9166667,33.6291667
+cy,larnaka,Larnaka,02,,35.3125,33.1416667
+cy,larnaka,Larnaka,03,,34.9166667,33.6291667
+cy,larnakas tis lapithou,Larnakas tis Lapithou,02,,35.3125,33.1416667
+cy,lasa,Lasa,06,,34.925,32.5291667
+cy,latsia,Latsia,04,,35.1,33.3666667
+cy,latsi,Latsi,04,,35.1,33.3666667
+cy,latzi,Latzi,06,,35.0380556,32.3936111
+cy,laxia,Laxia,04,,35.1,33.3666667
+cy,laya,Laya,03,,34.8416667,33.2458333
+cy,layia,Layia,03,,34.8416667,33.2458333
+cy,lazania,Lazania,04,,34.95,33.175
+cy,lazanias,Lazanias,04,,34.95,33.175
+cy,lazanya,Lazanya,04,,34.95,33.175
+cy,lefka,Lefka,04,7836,35.1105556,32.8505556
+cy,lefkara,Lefkara,03,,34.8666667,33.3041667
+cy,lefkas,Lefkas,04,,35.1125,32.875
+cy,lefke-karadag,Lefke-Karadag,04,,35.1105556,32.8505556
+cy,lefke,Lefke,04,,35.1105556,32.8505556
+cy,lefkoniko,Lefkoniko,01,,35.2583333,33.7333333
+cy,lefkonikon,Lefkonikon,01,,35.2583333,33.7333333
+cy,lefkonuk,Lefkonuk,01,,35.2583333,33.7333333
+cy,lefkosa,Lefkosa,04,,35.1666667,33.3666667
+cy,lefkosia,Lefkosia,04,,35.1666667,33.3666667
+cy,leivadia,Leivadia,01,,35.4,34.025
+cy,leivadia,Leivadia,03,,34.9541667,33.6291667
+cy,leivadia,Leivadia,04,,34.9458333,33.0208333
+cy,lelymbou,Lelymbou,06,,34.8583333,32.5166667
+cy,lemba,Lemba,06,,34.8083333,32.4166667
+cy,lemesos,Lemesos,05,154018,34.675,33.0333333
+cy,lemessus,Lemessus,05,,34.675,33.0333333
+cy,lemitbu,Lemitbu,06,,34.8583333,32.5166667
+cy,lemithou,Lemithou,05,,34.95,32.8166667
+cy,lemithu,Lemithu,05,,34.95,32.8166667
+cy,lemitu,Lemitu,05,,34.95,32.8166667
+cy,lemona,Lemona,06,,34.8625,32.5583333
+cy,lempa,Lempa,06,,34.8083333,32.4166667
+cy,leonariso,Leonariso,01,,35.4708333,34.1416667
+cy,leonarisso,Leonarisso,01,,35.4708333,34.1416667
+cy,leopetra,Leopetra,01,,35.0083333,33.8916667
+cy,letimbou,Letimbou,06,,34.8583333,32.5166667
+cy,letimbu,Letimbu,06,,34.8583333,32.5166667
+cy,letimvou,Letimvou,06,,34.8583333,32.5166667
+cy,letymbou,Letymbou,06,,34.8583333,32.5166667
+cy,leymosun,Leymosun,05,,34.675,33.0333333
+cy,limasol,Limasol,05,,34.675,33.0333333
+cy,limassol,Limassol,05,,34.675,33.0333333
+cy,limbia,Limbia,04,,35.0,33.4625
+cy,limbya,Limbya,04,,35.0,33.4625
+cy,limnatis,Limnatis,05,,34.8166667,32.95
+cy,limnat,Limnat,05,,34.8166667,32.95
+cy,limnia,Limnia,01,,35.2,33.8583333
+cy,limnidi,Limnidi,04,,35.1708333,32.7375
+cy,limniti,Limniti,04,,35.1708333,32.7375
+cy,limnitis,Limnitis,04,,35.1708333,32.7375
+cy,limnya,Limnya,01,,35.2,33.8583333
+cy,limya,Limya,04,,35.0,33.4625
+cy,linnatis,Linnatis,05,,34.8166667,32.95
+cy,linou,Linou,04,,35.0752778,32.8955556
+cy,linu,Linu,04,,35.0752778,32.8955556
+cy,liopetri,Liopetri,01,,35.0083333,33.8916667
+cy,lisi,Lisi,01,,35.1083333,33.6833333
+cy,liso,Liso,06,,34.9958333,32.5125
+cy,lithrangomi,Lithrangomi,01,,35.4791667,34.1666667
+cy,litrangomi,Litrangomi,01,,35.4791667,34.1666667
+cy,litrankomi,Litrankomi,01,,35.4791667,34.1666667
+cy,litrodonda,Litrodonda,04,,34.95,33.2958333
+cy,litrodontas,Litrodontas,04,,34.95,33.2958333
+cy,litronda,Litronda,04,,34.95,33.2958333
+cy,litrongomi,Litrongomi,01,,35.4791667,34.1666667
+cy,livadhia,Livadhia,01,,35.4,34.025
+cy,livadhia,Livadhia,03,,34.9541667,33.6291667
+cy,livadhia,Livadhia,04,,34.9458333,33.0208333
+cy,livadhi,Livadhi,04,,35.1041667,32.5916667
+cy,livadia,Livadia,03,5329,34.9541667,33.6291667
+cy,livadya,Livadya,01,,35.4,34.025
+cy,livadya,Livadya,03,,34.9541667,33.6291667
+cy,livadya,Livadya,04,,34.9458333,33.0208333
+cy,livatia,Livatia,03,,34.9541667,33.6291667
+cy,livatya,Livatya,01,,35.4,34.025
+cy,livatya,Livatya,03,,34.9541667,33.6291667
+cy,livatya,Livatya,04,,34.9458333,33.0208333
+cy,livera,Livera,02,,35.3827778,32.9519444
+cy,liveras,Liveras,02,,35.3827778,32.9519444
+cy,liyopetri,Liyopetri,01,,35.0083333,33.8916667
+cy,lof,Lof,05,,34.825,32.8666667
+cy,lofos,Lofos,05,,34.825,32.8666667
+cy,lofou,Lofou,05,,34.825,32.8666667
+cy,lofu,Lofu,05,,34.825,32.8666667
+cy,lophos,Lophos,05,,34.825,32.8666667
+cy,loukrounou,Loukrounou,06,,34.9541667,32.4625
+cy,loura,Loura,05,,34.65,33.0083333
+cy,louroujina,Louroujina,04,,35.0125,33.4666667
+cy,louroukina,Louroukina,04,,35.0125,33.4666667
+cy,loutros,Loutros,04,,35.1458333,32.7463889
+cy,louvara,Louvara,05,,34.8375,33.0458333
+cy,louvaras,Louvaras,05,,34.8375,33.0458333
+cy,lower dikomo,Lower Dikomo,03,,35.2666667,33.325
+cy,lukrunu,Lukrunu,06,,34.9541667,32.4625
+cy,luricina,Lûricina,04,,35.0125,33.4666667
+cy,lurucina,Lurucina,04,,35.0125,33.4666667
+cy,lutro,Lutro,04,,35.1458333,32.7463889
+cy,luvara,Luvara,05,,34.8375,33.0458333
+cy,lymbia,Lymbia,04,,35.0,33.4625
+cy,lympia,Lympia,04,,35.0,33.4625
+cy,lysi,Lysi,01,,35.1083333,33.6833333
+cy,lyso,Lyso,06,,34.9958333,32.5125
+cy,lythrangomi,Lythrangomi,01,,35.4791667,34.1666667
+cy,lythrankomi,Lythránkomi,01,,35.4791667,34.1666667
+cy,lythrodhonda,Lythrodhonda,04,,34.95,33.2958333
+cy,lythrodhondas,Lythrodhondas,04,,34.95,33.2958333
+cy,lythrodonda,Lythrodonda,04,,34.95,33.2958333
+cy,lythrodontas,Lythrodontas,04,,34.95,33.2958333
+cy,maa,Maa,06,,34.8541667,32.3708333
+cy,madenlikoy,Madenliköy,04,,35.1,32.8833333
+cy,madikoloni,Madikoloni,05,,34.7666667,33.05
+cy,madyat,Madyat,03,,34.9666667,33.3333333
+cy,magosa,Magosa,01,,35.125,33.95
+cy,magounda,Magounda,06,,35.0491667,32.4880556
+cy,magunda,Magunda,06,,35.0491667,32.4880556
+cy,magusa,Magusa,01,,35.125,33.95
+cy,makounta,Makounta,06,,35.0491667,32.4880556
+cy,makrasiga,Makrasiga,01,,35.075,33.7666667
+cy,makrasika,Makrasika,01,,35.075,33.7666667
+cy,makrasyka,Makrasyka,01,,35.075,33.7666667
+cy,malatya,Malatya,02,,35.3291667,33.2083333
+cy,malatya,Malatya,06,,34.9875,32.5041667
+cy,malia,Malia,05,,34.8166667,32.7833333
+cy,malla±dag,MallÄ±dag,01,,35.3333333,33.6875
+cy,mallia,Mallia,05,,34.8166667,32.7833333
+cy,malounda,Malounda,01,,35.3333333,33.6875
+cy,malounda,Malounda,04,,35.0375,33.1833333
+cy,malounda,Malounda,06,,34.8625,32.6833333
+cy,malounta,Malounta,04,,35.0375,33.1833333
+cy,malounta,Malounta,06,,34.8625,32.6833333
+cy,maltepe,Maltepe,01,,35.5333333,34.1916667
+cy,malunda,Malunda,04,,35.0375,33.1833333
+cy,malunda,Malunda,06,,34.8625,32.6833333
+cy,malya,Malya,05,,34.8166667,32.7833333
+cy,mammari,Mammari,04,,35.1666667,33.2
+cy,mamonia,Mamonia,06,,34.7708333,32.6375
+cy,mamonya,Mamonya,06,,34.7708333,32.6375
+cy,mamoundali,Mamoundali,06,,34.9166667,32.6208333
+cy,mamountali,Mamountali,06,,34.9166667,32.6208333
+cy,mamundali,Mamundali,06,,34.9166667,32.6208333
+cy,manda±rya,MandÄ±rya,05,,34.8708333,32.8333333
+cy,mandirya,Mandirya,06,,34.7166667,32.5333333
+cy,mandna,Mandna,06,,34.7166667,32.5333333
+cy,mandraes,Mandraes,01,,35.35,33.8
+cy,mandraes,Mandræs,04,,35.0747222,32.9541667
+cy,mandralar,Mandralar,04,,35.225,33.3791667
+cy,mandraz,Mandraz,01,,35.35,33.8
+cy,mandres hamid,Mandres Hamid,04,,35.225,33.3791667
+cy,mandres,Mandres,01,,35.35,33.8
+cy,mandres,Mandres,04,,35.0747222,32.9541667
+cy,mandres morphou,Mandres Morphou,04,,35.0747222,32.9541667
+cy,mandrez,Mandrez,01,,35.35,33.8
+cy,mandria,Mandria,05,,34.8708333,32.8333333
+cy,mandria,Mandria,06,,34.7166667,32.5333333
+cy,mandriya,Mandriya,05,,34.8708333,32.8333333
+cy,mandriya,Mandriya,06,,34.7166667,32.5333333
+cy,mansoura,Mansoura,04,,35.1875,32.6375
+cy,mansura,Mansura,04,,35.1875,32.6375
+cy,mansur,Mansur,04,,35.1875,32.6375
+cy,maras,Maras,01,,35.1083333,33.9583333
+cy,marata,Marata,01,,35.2125,33.7791667
+cy,maratha,Maratha,01,,35.2125,33.7791667
+cy,marathounda,Marathounda,06,,34.7916667,32.4875
+cy,marathounta,Marathounta,06,,34.7916667,32.4875
+cy,marathovouno,Marathovouno,01,,35.2166667,33.6166667
+cy,marathovouno,Marathovouno,03,,35.0625,33.6458333
+cy,marathovounos,Marathovounos,01,,35.2166667,33.6166667
+cy,maratogno,Maratogno,01,,35.2166667,33.6166667
+cy,maratovno,Maratovno,01,,35.2166667,33.6166667
+cy,maratovuno,Maratovuno,01,,35.2166667,33.6166667
+cy,maratunda,Maratunda,06,,34.7916667,32.4875
+cy,maratunya,Maratunya,06,,34.7916667,32.4875
+cy,margi,Margi,04,,35.025,33.325
+cy,margo,Margo,04,,35.0833333,33.4833333
+cy,mari,Mari,03,,34.7416667,33.3
+cy,marina,Marína,03,,34.9125,33.6333333
+cy,marinoudha,Marinoudha,06,,34.7625,32.475
+cy,marki,Marki,04,,35.025,33.325
+cy,marko,Marko,04,,35.0833333,33.4833333
+cy,markon,Markon,04,,35.0833333,33.4833333
+cy,marmara,Marmara,04,,35.2,33.3458333
+cy,marona,Marona,06,,34.7708333,32.6666667
+cy,maronas,Maronas,06,,34.7708333,32.6666667
+cy,maroni,Maroni,03,,34.7583333,33.3555556
+cy,masari,Masari,04,,35.1875,33.075
+cy,mathiati,Mathiati,03,,34.9666667,33.3333333
+cy,mathiatis,Mathiatis,03,,34.9666667,33.3333333
+cy,mathikoloni,Mathikoloni,05,,34.7666667,33.05
+cy,matiatis,Matiatis,03,,34.9666667,33.3333333
+cy,matikoloni,Matikoloni,05,,34.7666667,33.05
+cy,matyat,Matyat,03,,34.9666667,33.3333333
+cy,mavioli,Mavioli,06,,35.0541667,32.4558333
+cy,mavroli,Mavroli,06,,35.0541667,32.4558333
+cy,mazoto,Mazoto,03,,34.8083333,33.4875
+cy,mazotos,Mazotos,03,,34.8083333,33.4875
+cy,mehmetcik,Mehmetcik,01,,35.4225,34.0716667
+cy,meladeia,Meladeia,06,,34.9875,32.5041667
+cy,meladhia,Meladhia,06,,34.9875,32.5041667
+cy,meladya,Melâdya,06,,34.9875,32.5041667
+cy,melanarga,Melanarga,01,,35.5125,34.2
+cy,melandra,Melandra,06,,34.9916667,32.525
+cy,melangra,Melangra,01,,35.5125,34.2
+cy,melatya,Melatya,06,,34.9875,32.5041667
+cy,melini,Melini,05,,34.8666667,33.1583333
+cy,melounda,Melounda,01,,35.3333333,33.6875
+cy,melouseia,Melouseia,03,,35.075,33.5833333
+cy,melousha,Melousha,03,,35.075,33.5833333
+cy,melunda,Melunda,01,,35.3333333,33.6875
+cy,melusa,Melusa,03,,35.075,33.5833333
+cy,meneou,Meneou,03,,34.85,33.5708333
+cy,meneu,Meneu,03,,34.85,33.5708333
+cy,menevi,Menevi,03,,34.85,33.5708333
+cy,meniko,Meniko,04,,35.1083333,33.1416667
+cy,menikon,Menikon,04,,35.1083333,33.1416667
+cy,mennogeia,Mennogeia,03,,34.8416667,33.4416667
+cy,mennoya,Mennoya,03,,34.8416667,33.4416667
+cy,menoya,Menoya,03,,34.8416667,33.4416667
+cy,menoyia,Menoyia,03,,34.8416667,33.4416667
+cy,meric,Meriç,04,,35.175,33.55
+cy,mersiniki,Mersiniki,01,,35.3416667,33.725
+cy,mersinlik,Mersinlik,01,,35.3416667,33.725
+cy,mersinli,Mersinli,05,,34.7166667,32.725
+cy,mersinniki,Mersinniki,01,,35.3416667,33.725
+cy,mersinnikki,Mersinnikki,01,,35.3416667,33.725
+cy,mesa chorion,Mesa Chorion,06,,34.8083333,32.4625
+cy,mesa geitonia,Mesa Geitonia,05,,34.7041667,33.0416667
+cy,mesahoryo,Mesahoryo,06,,34.8083333,32.4625
+cy,mesa khorio,Mesa Khorio,06,,34.8083333,32.4625
+cy,mesa khorion,Mesa Khorion,06,,34.8083333,32.4625
+cy,mesana,Mesana,06,,34.85,32.7041667
+cy,mesayitonia,Mesayitonia,05,,34.7041667,33.0416667
+cy,mesayitonya,Mesayitonya,05,,34.7041667,33.0416667
+cy,mesogi,Mesogi,06,,34.8166667,32.4583333
+cy,mesoyi,Mesoyi,06,,34.8166667,32.4583333
+cy,mevlevi,Mevlevi,04,,35.2041667,33.0625
+cy,mia milea,Mia Milea,04,,35.2083333,33.4208333
+cy,mia milia,Mia Milia,04,,35.2083333,33.4208333
+cy,milea,Milea,01,,35.2375,33.7833333
+cy,milia,Milia,01,,35.2375,33.7833333
+cy,milia,Milia,06,,34.9208333,32.5416667
+cy,miligur,Miligur,06,,34.9666667,32.75
+cy,milikouri,Milikouri,06,,34.9666667,32.75
+cy,milikuri,Milikuri,06,,34.9666667,32.75
+cy,miliou,Miliou,06,,34.9416667,32.4625
+cy,milya,Milya,01,,35.2375,33.7833333
+cy,milya,Milya,06,,34.9208333,32.5416667
+cy,milyu,Milyu,06,,34.9416667,32.4625
+cy,minareli keuy,Minareli Keuy,04,,35.2375,33.475
+cy,minarelikoy,Minareliköy,04,,35.2375,33.475
+cy,minzelli,Minzelli,04,,35.2041667,33.3416667
+cy,mirti,Mirti,02,,35.3083333,33.0666667
+cy,mitsero,Mitsero,04,,35.0458333,33.125
+cy,mitseron,Mitseron,04,,35.0458333,33.125
+cy,miyamilya,Miyamilya,04,,35.2083333,33.4208333
+cy,monagra,Monagra,01,,35.3166667,33.9341667
+cy,monagri,Monagri,05,,34.8083333,32.9125
+cy,monagroulli,Monagroulli,03,,34.75,33.2125
+cy,monagrulli,Monagrulli,03,,34.75,33.2125
+cy,monarga,Monarga,01,,35.3166667,33.9341667
+cy,monarka,Monarka,01,,35.3166667,33.9341667
+cy,moniatis,Moniatis,05,,34.8708333,32.8958333
+cy,moniat,Moniat,05,,34.8708333,32.8958333
+cy,moni,Moni,03,,34.7333333,33.2
+cy,moni,Moni,04,,35.05,33.1
+cy,monyat,Monyat,05,,34.8708333,32.8958333
+cy,mora,Mora,04,,35.175,33.55
+cy,morfou,Morfou,04,,35.1980556,32.9913889
+cy,morkoy,Morköy,04,,35.175,33.55
+cy,mormenekse,Mormenekse,01,,35.2,33.8583333
+cy,mormenekse,Mormenekse,03,,34.8791667,33.5833333
+cy,mor menekshe,Mor Menekshe,03,,34.8791667,33.5833333
+cy,moronero,Moronero,06,,34.8166667,32.525
+cy,moron nero,Moron Nero,06,,34.8166667,32.525
+cy,morphou,Morphou,04,,35.1980556,32.9913889
+cy,mosfileri,Mosfileri,04,,35.1761111,32.6344444
+cy,mosfiloti,Mosfiloti,03,,34.95,33.4291667
+cy,mosphileri,Mosphileri,04,,35.1761111,32.6344444
+cy,mosphili,Mosphili,04,,35.1761111,32.6344444
+cy,mosphiloti,Mosphiloti,03,,34.95,33.4291667
+cy,mothides,Mothides,02,,35.3333333,33.2083333
+cy,motides,Motides,02,,35.3333333,33.2083333
+cy,motidhes,Motidhes,02,,35.3333333,33.2083333
+cy,mousere,Mousere,06,,34.775,32.7166667
+cy,mousoulita,Mousoulita,01,,35.1916667,33.6416667
+cy,moutayaka,Moutayaka,05,,34.7208333,33.1
+cy,moutayiaka,Moutayiaka,05,,34.7208333,33.1
+cy,moutoullas,Moutoullas,04,,34.9833333,32.8291667
+cy,mouttagiaka,Mouttagiaka,05,,34.7208333,33.1
+cy,mudulla,Mudulla,04,,34.9833333,32.8291667
+cy,murataga,Murataga,01,,35.2125,33.7791667
+cy,musere,Musere,06,,34.775,32.7166667
+cy,musulita,Musulita,01,,35.1916667,33.6416667
+cy,mutayaka,Mutayaka,05,,34.7208333,33.1
+cy,muthiyaka,Muthiyaka,05,,34.7208333,33.1
+cy,mutlayaka,Mutlayaka,05,,34.7208333,33.1
+cy,mutluyaka,Mutluyaka,01,,35.175,33.8333333
+cy,mutluyaka,Mutluyaka,05,,34.7208333,33.1
+cy,muttayaka,Muttayaka,05,,34.7208333,33.1
+cy,mutulla,Mutulla,04,,34.9833333,32.8291667
+cy,mylea,Mylea,01,,35.2375,33.7833333
+cy,mylikouri,Mylikouri,06,,34.9666667,32.75
+cy,mylos,Mylos,05,,34.8958333,33.0041667
+cy,myrtou,Myrtou,02,,35.3083333,33.0666667
+cy,nama±k kemal,NamÄ±k Kemal,01,,35.1166667,33.9416667
+cy,narlikoy,Narliköy,04,,35.1333333,32.8666667
+cy,nata,Nata,06,,34.7666667,32.5666667
+cy,nea dhimmata,Nea Dhimmata,06,,35.1330556,32.5230556
+cy,nea dimmata,Nea Dimmata,06,,35.1330556,32.5230556
+cy,nea dimmatya,Nea Dimmatya,06,,35.1330556,32.5230556
+cy,nea pafos,Néa Páfos,06,,34.7666667,32.4166667
+cy,nea paphos,Nea Paphos,06,,34.7583333,32.4083333
+cy,neohoryo,Neohoryo,04,,35.2375,33.475
+cy,neohoryo,Neohoryo,06,,35.0252778,32.3647222
+cy,neokhoria,Neokhoria,04,,35.2375,33.475
+cy,neokhorio,Neokhorio,04,,35.2375,33.475
+cy,neokhorio,Neokhorio,06,,35.0252778,32.3647222
+cy,neokhorion,Neokhorion,06,,35.0252778,32.3647222
+cy,neon chorion,Neon Chorion,04,,35.2375,33.475
+cy,neon chorion,Neon Chorion,06,,35.0252778,32.3647222
+cy,nergisli,Nergisli,01,,35.2166667,33.7
+cy,neta,Neta,01,,35.4708333,34.2166667
+cy,new site of kholetria,New Site of Kholetria,06,,34.7625,32.6083333
+cy,nicida,Nicida,04,,35.175,32.9583333
+cy,nicidari,Nicidari,04,,35.0666667,32.9916667
+cy,nicitar,Nicitar,04,,35.0666667,32.9916667
+cy,nicosia,Nicosia,04,42342,35.1666667,33.3666667
+cy,nikita,Nikita,04,,35.175,32.9583333
+cy,nikitari,Nikitari,04,,35.0666667,32.9916667
+cy,nikitas,Nikitas,04,,35.175,32.9583333
+cy,nikokla,Nikokla,06,,34.7291667,32.575
+cy,nikokleia,Nikokleia,06,,34.7291667,32.575
+cy,nikoklia,Nikoklia,06,,34.7291667,32.575
+cy,nikoklo,Nikoklo,06,,34.7291667,32.575
+cy,nikolia,Nikolia,06,,34.7291667,32.575
+cy,nikos,Nikos,04,,34.9991667,32.8325
+cy,nisou,Nisou,04,,35.0208333,33.3916667
+cy,nisu,Nisu,04,,35.0208333,33.3916667
+cy,nisuyu,Nisuyu,04,,35.0208333,33.3916667
+cy,ockos,Ockos,04,,34.9991667,32.8325
+cy,odhou,Odhou,03,,34.8875,33.15
+cy,odou,Odou,03,,34.8875,33.15
+cy,odu,Odu,03,,34.8875,33.15
+cy,oglakli,Oglakli,04,,35.025,33.325
+cy,oikos,Oikos,04,,34.9991667,32.8325
+cy,olukonu,Olukönü,06,,34.9541667,32.4625
+cy,omerli,Ömerli,04,,35.1375,32.7666667
+cy,omodhos,Omodhos,05,,34.85,32.8083333
+cy,omodos,Omodos,05,,34.85,32.8083333
+cy,omorfo,Omorfo,04,,35.1980556,32.9913889
+cy,omorphita,Omorphita,04,,35.1916667,33.375
+cy,ora,Ora,03,,34.8625,33.1958333
+cy,orga,Orga,02,,35.3625,33.0333333
+cy,ormidhia,Ormidhia,03,,34.9958333,33.7833333
+cy,ormidia,Ormidia,03,,34.9958333,33.7833333
+cy,ormidya,Ormidya,03,,34.9958333,33.7833333
+cy,ormiteia,Ormiteia,03,,34.9958333,33.7833333
+cy,ormitya,Ormitya,03,,34.9958333,33.7833333
+cy,ornita,Ornita,01,,35.1583333,33.5708333
+cy,ornithi,Ornithi,01,,35.1583333,33.5708333
+cy,orniti,Orniti,01,,35.1583333,33.5708333
+cy,ornuta,Ornuta,01,,35.1583333,33.5708333
+cy,orounda,Orounda,04,,35.1041667,33.0916667
+cy,orounta,Orounta,04,,35.1041667,33.0916667
+cy,orta keuy,Orta Keuy,04,,35.2041667,33.3416667
+cy,ortakoi,Ortakoi,04,,35.2041667,33.3416667
+cy,ortakonak,Ortakonak,03,,34.825,33.3541667
+cy,ortakoy,Ortaköy,04,,35.2041667,33.3416667
+cy,orunda,Orunda,04,,35.1041667,33.0916667
+cy,orunta,Orunta,01,,35.1583333,33.5708333
+cy,otluk,Otluk,01,,35.3666667,34.0291667
+cy,otoun yiolou,Otoun Yiolou,01,,35.275,33.675
+cy,otuken,Ötüken,01,,35.2333333,33.8708333
+cy,otuken,Ötüken,03,,34.8416667,33.4416667
+cy,ovala±k,OvalÄ±k,06,,34.7333333,32.5166667
+cy,ovgoros,Ovgoros,01,,35.3666667,33.9333333
+cy,ozankoy,Ozanköy,02,,35.3166667,33.35
+cy,ozhan,Özhan,02,,35.275,33.1083333
+cy,pachna,Pachna,05,,34.7791667,32.7958333
+cy,pachyammos,Pachyammos,04,,35.1680556,32.5872222
+cy,paciammo,Paçiammo,04,,35.1680556,32.5872222
+cy,pafos,Páfos,06,35966,34.7666667,32.4166667
+cy,pahiammos,Pahiammos,04,,35.1680556,32.5872222
+cy,pahna,Pahna,05,,34.7791667,32.7958333
+cy,pakhna,Pakhna,05,,34.7791667,32.7958333
+cy,pakhy amjnos,Pakhy Amjnos,04,,35.1680556,32.5872222
+cy,pakhyammos,Pakhyammos,04,,35.1680556,32.5872222
+cy,pakky ammos,Pakký Ammos,04,,35.1680556,32.5872222
+cy,palaea paphos,Palæa Paphos,06,,34.7083333,32.575
+cy,palaekythro,Palaekythro,04,,35.2083333,33.4875
+cy,palaeo metokhi,Palæó Metókhi,04,,35.125,33.1916667
+cy,palaeomylos,Palæomylos,05,,34.9375,32.825
+cy,palaeosophos,Palæosophos,02,,35.3291667,33.2083333
+cy,palaichori,Palaichori,04,,34.925,33.0916667
+cy,palaiometochon,Palaiometochon,04,,35.125,33.1916667
+cy,palaiomylos,Palaiomylos,05,,34.9375,32.825
+cy,palaiosofos,Palaiosofos,02,,35.3291667,33.2083333
+cy,pala“okhorio,PalÅ“okhorio,04,,34.925,33.0916667
+cy,palea paphos,Palea Paphos,06,,34.7083333,32.575
+cy,palehor,Palehor,04,,34.925,33.0916667
+cy,palekhori orinis,Palekhori Orinis,04,,34.925,33.0916667
+cy,palekhori,Palekhori,04,,34.925,33.0916667
+cy,palekythro,Palekythro,04,,35.2083333,33.4875
+cy,paleokhorio,Paleokhorio,04,,34.925,33.0916667
+cy,paleometokhi,Paleometokhi,04,,35.125,33.1916667
+cy,paleometokho,Paleometokho,04,,35.125,33.1916667
+cy,paleomilo,Paleomilo,05,,34.9375,32.825
+cy,paleomotoho,Paleomotoho,04,,35.125,33.1916667
+cy,paleomylos,Paleomylos,05,,34.9375,32.825
+cy,paleosophos,Paleosophos,02,,35.3291667,33.2083333
+cy,paliambela,Paliambela,06,,35.1541667,32.5708333
+cy,paliampela,Paliampela,06,,35.1541667,32.5708333
+cy,palikitre,Palikitre,04,,35.2083333,33.4875
+cy,paliouriotissa,Paliouriotissa,04,,35.175,33.3875
+cy,pallouriotissa,Pallouriotissa,04,,35.175,33.3875
+cy,palodeia,Palodeia,05,,34.75,33.0041667
+cy,palodhia,Palodhia,05,,34.75,33.0041667
+cy,palodiya,Palodiya,05,,34.75,33.0041667
+cy,palodya,Palodya,05,,34.75,33.0041667
+cy,palouriotissa,Palouriotissa,04,,35.175,33.3875
+cy,palyambela,Palyambela,06,,35.1541667,32.5708333
+cy,palyometoho,Palyometoho,04,,35.125,33.1916667
+cy,palyomilo,Palyomilo,05,,34.9375,32.825
+cy,palyosofo,Palyosofo,02,,35.3291667,33.2083333
+cy,pamboula,Pamboula,05,,34.65,33.0083333
+cy,pamuklu,Pamuklu,01,,35.4,34.0791667
+cy,panagra,Panagra,02,,35.3375,33.0708333
+cy,pa±narbasa±,PÄ±narbasÄ±,02,,35.2875,33.2375
+cy,pa±narla±,PÄ±narlÄ±,01,,35.2416667,33.6458333
+cy,panayia apakou,Panayia Apakou,01,,35.5833333,34.4166667
+cy,panayia,Panayia,02,,35.3083333,33.0916667
+cy,panayia,Panayia,06,,34.9208333,32.6333333
+cy,pano akourdaleia,Pano Akourdaleia,06,,34.9416667,32.4458333
+cy,pano akourdalia,Pano Akourdália,06,,34.9416667,32.4458333
+cy,pano akourdhalia,Pano Akourdhalia,06,,34.9416667,32.4458333
+cy,pano akurdalya,Pano Akurdalya,06,,34.9416667,32.4458333
+cy,pano amiandos,Pano Amiandos,05,,34.9291667,32.9166667
+cy,pano amiantos,Pano Amiantos,05,,34.9291667,32.9166667
+cy,pano amiyando,Pano Amiyando,05,,34.9291667,32.9166667
+cy,pano archimandrita,Pano Archimandrita,06,,34.75,32.6791667
+cy,pano arhimandrita,Pano Arhimandrita,06,,34.75,32.6791667
+cy,pano arkhimandrita,Pano Arkhimandrita,06,,34.75,32.6791667
+cy,pano arodes,Pano Arodes,06,,34.9375,32.4083333
+cy,pano arodhes,Pano Arodhes,06,,34.9375,32.4083333
+cy,pano aspiou,Pano Aspiou,05,,34.8,33.0166667
+cy,pano civiya,Pano Civiya,05,,34.7708333,32.8416667
+cy,pano deftera,Pano Deftera,04,,35.0791667,33.2625
+cy,pano dheftera,Pano Dheftera,04,,35.0791667,33.2625
+cy,pano dhikomo,Pano Dhikomo,02,,35.2708333,33.325
+cy,pano dikomon,Pano Dikomon,02,,35.2708333,33.325
+cy,pano dikomo,Pano Dikomo,02,,35.2708333,33.325
+cy,pano flasou,Pano Flasou,04,,35.0683333,32.8891667
+cy,pano flasu,Pano Flasu,04,,35.0683333,32.8891667
+cy,pano kivides,Pano Kivides,05,,34.7708333,32.8416667
+cy,pano kividhes,Pano Kividhes,05,,34.7708333,32.8416667
+cy,pano kophina,Páno Kophína,03,,34.825,33.3875
+cy,pano kophinou,Pano Kophinou,03,,34.825,33.3875
+cy,pano koutrafas,Pano Koutrafas,04,,35.0908333,32.9941667
+cy,pano koutrapha,Pano Koutrapha,04,,35.0908333,32.9941667
+cy,pano koutraphas,Pano Koutraphas,04,,35.0908333,32.9941667
+cy,pano kutrafa,Pano Kutrafa,04,,35.0908333,32.9941667
+cy,pano lakatameia,Pano Lakatameia,04,,35.1083333,33.3
+cy,pano lakatamia,Pano Lakatamia,04,,35.1083333,33.3
+cy,pano lakkatamia,Páno Lakkatámia,04,,35.1083333,33.3
+cy,pano lefkara,Pano Lefkara,03,,34.8666667,33.3041667
+cy,pano panaya,Pano Panaya,06,,34.9208333,32.6333333
+cy,pano panayia,Pano Panayia,06,,34.9208333,32.6333333
+cy,pano phlasou,Pano Phlasou,04,,35.0683333,32.8891667
+cy,pano platraes,Páno Plátræs,05,,34.8875,32.8666667
+cy,pano platres,Pano Platres,05,,34.8875,32.8666667
+cy,pano polemidhia,Pano Polemidhia,05,,34.7,33.0
+cy,pano polemidia,Pano Polemidia,05,3781,34.7,33.0
+cy,pano polemidya,Pano Polemidya,05,,34.7,33.0
+cy,pano pyrgos,Pano Pyrgos,04,,35.1544444,32.6866667
+cy,pano vlaso,Páno Vláso,04,,35.0683333,32.8891667
+cy,pano zodeia,Pano Zodeia,04,,35.1666667,33.0166667
+cy,pano zodhia,Pano Zodhia,04,,35.1666667,33.0166667
+cy,pano zodia,Páno Zodia,04,,35.1666667,33.0166667
+cy,paphos,Paphos,06,,34.7666667,32.4166667
+cy,paralimni,Paralimni,01,11838,35.0375,33.9833333
+cy,paralim,Paralim,01,,35.0375,33.9833333
+cy,paramali,Paramali,05,,34.6958333,32.8
+cy,paramal,Paramal,05,,34.6958333,32.8
+cy,paramiha,Paramiha,05,,34.7625,32.9958333
+cy,paramita,Paramita,05,,34.7625,32.9958333
+cy,paramitha,Paramitha,05,,34.7625,32.9958333
+cy,paramytha,Paramytha,05,,34.7625,32.9958333
+cy,parekklisha,Parekklisha,03,,34.7458333,33.1583333
+cy,parekklisia,Parekklisia,03,,34.7458333,33.1583333
+cy,pareklisa,Pareklisa,03,,34.7458333,33.1583333
+cy,pareklisha,Pareklisha,03,,34.7458333,33.1583333
+cy,parmaga,Parmaga,04,,34.9125,33.1333333
+cy,parsada,Parsada,03,,34.825,33.2666667
+cy,parsa,Parsa,03,,34.825,33.2666667
+cy,parsata,Parsata,03,,34.825,33.2666667
+cy,pasakoy,Pasakoy,01,,35.1583333,33.6083333
+cy,pasha keuy,Pasha Keuy,01,,35.1583333,33.6083333
+cy,pasiammo,Pasiammo,04,,35.1680556,32.5872222
+cy,patric,Patriç,01,,35.3625,33.9958333
+cy,patriki,Patriki,01,,35.3625,33.9958333
+cy,pedhoulas,Pedhoulas,04,,34.9666667,32.8291667
+cy,pedoulas,Pedoulas,04,,34.9666667,32.8291667
+cy,pedula,Pedula,04,,34.9666667,32.8291667
+cy,pegeia,Pegeia,06,,34.8833333,32.3833333
+cy,pelathousa,Pelathousa,06,,35.0272222,32.4786111
+cy,pelathusa,Pelathusa,06,,35.0272222,32.4786111
+cy,pelatusa,Pelatusa,06,,35.0272222,32.4786111
+cy,pelendria,Pelendria,05,,34.9,32.9666667
+cy,pelendri,Pelendri,05,,34.9,32.9666667
+cy,pelitil,Pelitil,03,,35.075,33.5833333
+cy,pendakoma,Pendakoma,03,,34.7416667,33.2416667
+cy,pendakomo,Pendakomo,03,,34.7416667,33.2416667
+cy,pendalia,Pendalia,06,,34.8583333,32.6166667
+cy,pendalya,Pendalya,06,,34.8583333,32.6166667
+cy,pendaya,Pendaya,04,,35.1538889,32.8830556
+cy,pendayia,Pendayia,04,,35.1538889,32.8830556
+cy,pendelya,Pendelya,06,,34.8583333,32.6166667
+cy,pentageia,Pentageia,04,,35.1538889,32.8830556
+cy,pentakomon,Pentakomon,03,,34.7416667,33.2416667
+cy,pentalia,Pentalia,06,,34.8583333,32.6166667
+cy,pera chorion,Pera Chorion,04,,35.0166667,33.3875
+cy,perachorio,Perachorio,04,,35.0166667,33.3875
+cy,perahorio,Perahorio,04,,35.0166667,33.3875
+cy,perahorya,Perahorya,04,,35.0166667,33.3875
+cy,perahoryo,Perahoryo,04,,35.0166667,33.3875
+cy,perakhorio,Perakhorio,04,,35.0166667,33.3875
+cy,perapedhi,Perapedhi,05,,34.8583333,32.8708333
+cy,perapedi,Perapedi,05,,34.8583333,32.8708333
+cy,pera,Pera,04,,35.0333333,33.25
+cy,pergama,Pergama,03,,35.0416667,33.7083333
+cy,pergamos,Pergamos,03,,35.0416667,33.7083333
+cy,peristerona,Peristerona,01,,35.2166667,33.7583333
+cy,peristerona,Peristerona,04,,35.1333333,32.8666667
+cy,peristerona,Peristerona,06,,34.9916667,32.4916667
+cy,peristeronari,Peristeronari,04,,35.1333333,32.8666667
+cy,peristeronar,Peristeronar,04,,35.1333333,32.8666667
+cy,perivolia,Perivolia,01,,35.2833333,33.9083333
+cy,perivolia,Perivolia,03,,34.8291667,33.5833333
+cy,perivolia tou tricomou,Perivolia tou Tricomou,01,,35.2833333,33.9083333
+cy,perivolia tou trikomou,Perivolia tou Trikomou,01,,35.2833333,33.9083333
+cy,perivolya,Perivolya,01,,35.2833333,33.9083333
+cy,perivolya,Perivolya,03,,34.8291667,33.5833333
+cy,pertevpasa,Pertevpasa,01,,35.1083333,33.9416667
+cy,pervolya trikomu,Pervolya Trikomu,01,,35.2833333,33.9083333
+cy,petraduyeni,Petraduyeni,04,,35.2375,33.55
+cy,petra,Petra,04,,35.11,32.9080556
+cy,petra tou dhiyeni,Petra tou Dhiyeni,04,,35.2375,33.55
+cy,petra tou digeni,Petra tou Digeni,04,,35.2375,33.55
+cy,petre,Petre,04,,35.11,32.9080556
+cy,petrofani,Petrofani,03,,35.0458333,33.5166667
+cy,petrofan,Petrofan,03,,35.0458333,33.5166667
+cy,petrophani,Petrophani,03,,35.0458333,33.5166667
+cy,peya,Peya,06,,34.8833333,32.3833333
+cy,peyia,Peyia,06,,34.8833333,32.3833333
+cy,phalia,Phalia,06,,34.8583333,32.5875
+cy,pharmakas,Pharmakas,04,,34.9125,33.1333333
+cy,phasli,Phasli,06,,34.9833333,32.3708333
+cy,phasoula,Phasoula,05,,34.7666667,33.0291667
+cy,phasoula,Phasoula,06,,34.75,32.6333333
+cy,phasoulla,Phasoulla,05,,34.7666667,33.0291667
+cy,phikardhos,Phikardhos,04,,34.9625,33.1708333
+cy,phikardhou,Phikardhou,04,,34.9625,33.1708333
+cy,philani,Philani,04,,34.9916667,33.2125
+cy,philia,Philia,04,,35.1875,33.0916667
+cy,philousa kelokedhara,Philousa Kelokedhara,06,,34.8541667,32.7458333
+cy,philousa khrysokhou,Philousa Khrysokhou,06,,34.975,32.5
+cy,philousa,Philousa,06,,34.8541667,32.7458333
+cy,phinikaria,Phinikaria,05,,34.7541667,33.1
+cy,phinikas,Phinikas,06,,34.7541667,32.5666667
+cy,phini,Phini,05,,34.8916667,32.8375
+cy,phiti,Phiti,06,,34.9291667,32.55
+cy,phlamoudhi,Phlamoudhi,01,,35.3958333,33.8583333
+cy,phlasou,Phlasou,04,,35.0625,32.8875
+cy,phophitis dhaniil,Phophitis Dhaniil,01,,35.5791667,34.3541667
+cy,photia,Photia,02,,35.2666667,33.2208333
+cy,photta,Photta,02,,35.2666667,33.2208333
+cy,phrenaros,Phrenaros,01,,35.0416667,33.925
+cy,phterikoudhi,Phterikoudhi,04,,34.9458333,33.0708333
+cy,phterykha,Phterykha,02,,35.325,33.2208333
+cy,phterykoudi,Phterykoudi,04,,34.9458333,33.0708333
+cy,phykardou,Phykardou,04,,34.9625,33.1708333
+cy,phylia,Phylia,04,,35.1875,33.0916667
+cy,phyti,Phýti,06,,34.9291667,32.55
+cy,pienia,Pienia,04,,35.1666667,32.6541667
+cy,pigaenia,Pigænia,04,,35.1666667,32.6541667
+cy,pigenia,Pigenia,04,,35.1666667,32.6541667
+cy,pigenya,Pigenya,04,,35.1666667,32.6541667
+cy,pilani,Pilâni,04,,34.9916667,33.2125
+cy,pila,Pila,03,,35.0291667,33.6916667
+cy,pile,Pile,03,,35.0291667,33.6916667
+cy,pileri,Pileri,02,,35.2916667,33.2166667
+cy,pirga,Pirga,01,,35.1833333,33.725
+cy,pirga,Pirga,03,,34.925,33.4333333
+cy,pirhan,Pirhan,01,,35.1833333,33.725
+cy,piroi,Piroi,04,,35.0791667,33.4844444
+cy,piroyi,Piroyi,04,,35.0791667,33.4844444
+cy,piskobu,Piskobu,05,,34.6666667,32.9
+cy,piskobu,Piskobu,06,,34.7958333,32.525
+cy,pissouri,Pissouri,05,,34.6708333,32.7083333
+cy,pissuri,Pissuri,05,,34.6708333,32.7083333
+cy,pitargou,Pitargou,06,,34.8375,32.5333333
+cy,pitargu,Pitargu,06,,34.8375,32.5333333
+cy,piyenia,Piyenia,04,,35.1666667,32.6541667
+cy,piyi peristerona,Piyi Peristerona,01,,35.2166667,33.7583333
+cy,piyi,Piyi,01,,35.225,33.7666667
+cy,pladanistasa,Pladanistasa,04,,34.9458333,33.0458333
+cy,pladanisya,Plâdanisya,05,,34.7125,32.7083333
+cy,platani,Platani,01,,35.3375,33.75
+cy,plataniskia,Plataniskia,05,,34.7125,32.7083333
+cy,platanisso,Platanisso,01,,35.4958333,34.1083333
+cy,platanistasa,Platanistasa,04,,34.9458333,33.0458333
+cy,platanistassa,Platanistassa,04,,34.9458333,33.0458333
+cy,platanisteia,Platanisteia,05,,34.7125,32.7083333
+cy,platanisya,Platanisya,05,,34.7125,32.7083333
+cy,platimati,Platimati,02,,35.3166667,33.5
+cy,platres,Platres,05,,34.8875,32.8666667
+cy,platymatis,Platymatis,02,,35.3166667,33.5
+cy,podhimata,Podhimata,05,,34.6958333,33.075
+cy,polemidhia camp,Polemidhia Camp,05,,34.7166667,33.0083333
+cy,polemidhia,Polemidhia,05,,34.6958333,33.0
+cy,polemidia,Polemidia,05,,34.6958333,33.0
+cy,polemi,Polemi,06,,34.8875,32.5
+cy,polem,Polem,06,,34.8875,32.5
+cy,poli,Poli,06,,35.0366667,32.4263889
+cy,polis,Polis,06,1975,35.0366667,32.4263889
+cy,polistipos,Polistipos,04,,34.9416667,33.0166667
+cy,politikio,Politikio,04,,35.0291667,33.2416667
+cy,politiko,Politiko,04,,35.0291667,33.2416667
+cy,polystipos,Polystipos,04,,34.9416667,33.0166667
+cy,polystypos,Polystypos,04,,34.9416667,33.0166667
+cy,pomo,Pomo,06,,35.1563889,32.5477778
+cy,pomos,Pomos,06,,35.1563889,32.5477778
+cy,potamia,Potamia,04,,35.0458333,33.4458333
+cy,potamiou,Potamiou,05,,34.825,32.8083333
+cy,potami,Potami,04,,35.1083333,33.0291667
+cy,potamitissa,Potamitissa,05,,34.9083333,32.9875
+cy,potamos tou kambou,Potamos tou Kambou,04,,35.1444444,32.8038889
+cy,potamos tou kampou,Potamos tou Kampou,04,,35.1444444,32.8038889
+cy,potamo tu kambu,Potamo tu Kambu,04,,35.1444444,32.8038889
+cy,potamya,Potamya,04,,35.0458333,33.4458333
+cy,potamyu,Potamyu,05,,34.825,32.8083333
+cy,praetori,Prætori,06,,34.85,32.75
+cy,praitori,Praitori,06,,34.85,32.75
+cy,prasdyo,Prasdyo,04,,35.175,32.9375
+cy,prastio evdhimou,Prastio Evdhimou,05,,34.7333333,32.7791667
+cy,prastio morphou,Prastio Morphou,04,,35.175,32.9375
+cy,prastion,Prastion,01,,35.175,33.7583333
+cy,prastion,Prastion,04,,35.175,32.9375
+cy,prastion,Prastion,05,,34.7333333,32.7791667
+cy,prastion,Prastion,06,,34.7875,32.6958333
+cy,prastio,Prastio,01,,35.175,33.7583333
+cy,prastio,Prastio,04,,35.175,32.9375
+cy,prastio,Prastio,05,,34.7333333,32.7791667
+cy,prastio,Prastio,06,,34.7875,32.6958333
+cy,prastyo,Prastyo,01,,35.175,33.7583333
+cy,prastyo,Prastyo,04,,35.175,32.9375
+cy,prastyo,Prastyo,05,,34.7333333,32.7791667
+cy,prastyo,Prastyo,06,,34.7875,32.6958333
+cy,prasyo,Prasyo,05,,34.7333333,32.7791667
+cy,pretori,Pretori,06,,34.85,32.75
+cy,prodhomi,Prodhomi,06,,35.0291667,32.4166667
+cy,prodhromi,Prodhromi,06,,35.0291667,32.4166667
+cy,prodhromos,Prodhromos,05,,34.95,32.8291667
+cy,prodhromos,Prodhromos,06,,35.0291667,32.4166667
+cy,prodromi,Prodromi,06,,35.0291667,32.4166667
+cy,prodromo,Prodromo,05,,34.95,32.8291667
+cy,prodromos,Prodromos,05,,34.95,32.8291667
+cy,prodromos,Prodromos,06,,35.0291667,32.4166667
+cy,profiti daniyil,Profiti Daniyil,01,,35.5791667,34.3541667
+cy,prophitis daniil,Prophitis Daniil,01,,35.5791667,34.3541667
+cy,prophitis dhaniil,Prophitis Dhaniil,01,,35.5791667,34.3541667
+cy,psahi,Psahi,06,,34.9,32.5333333
+cy,psathi,Psathi,06,,34.9,32.5333333
+cy,psati,Psati,06,,34.9,32.5333333
+cy,pseftas,Pseftas,03,,34.95,33.4625
+cy,psematismeno,Psematismeno,03,,34.7666667,33.3458333
+cy,psematismenos,Psematismenos,03,,34.7666667,33.3458333
+cy,psematizmeno,Psematizmeno,03,,34.7666667,33.3458333
+cy,psevda,Psevda,03,,34.95,33.4625
+cy,psevdas,Psevdas,03,,34.95,33.4625
+cy,psevdhas,Psevdhas,03,,34.95,33.4625
+cy,psilatos,Psilatos,01,,35.25,33.6833333
+cy,psillatos,Psillatos,01,,35.25,33.6833333
+cy,psimolofou,Psimolofou,04,,35.0625,33.2625
+cy,psomolafa,Psomolafa,04,,35.0625,33.2625
+cy,psomolof,Psomolof,04,,35.0625,33.2625
+cy,psomolopho,Psomolopho,04,,35.0625,33.2625
+cy,psomolophou,Psomolophou,04,,35.0625,33.2625
+cy,psyllatos,Psyllatos,01,,35.25,33.6833333
+cy,pyla,Pyla,03,,35.0291667,33.6916667
+cy,pyrga,Pyrga,01,,35.1833333,33.725
+cy,pyrga,Pyrga,03,,34.7416667,33.1833333
+cy,pyrgos,Pyrgos,03,,34.7416667,33.1833333
+cy,pyroi,Pyroi,04,,35.0791667,33.4844444
+cy,ramit mandres,Ramit Mandres,04,,35.225,33.3791667
+cy,rasa koy,Rasa Koy,01,,35.1583333,33.6083333
+cy,rizokarpason,Rizokarpason,01,,35.6,34.375
+cy,rizokarpaso,Rizokarpaso,01,,35.6,34.375
+cy,rizokarpasso,Rizokarpasso,01,,35.6,34.375
+cy,sadrazamkoy,Sadrazamköy,02,,35.3827778,32.9519444
+cy,sahinler,Sahinler,04,,35.1875,33.075
+cy,saint amvrosios,Saint Amvrosios,02,,35.3416667,33.5791667
+cy,saint andronikos,Saint Andronikos,01,,35.3416667,33.8708333
+cy,saint athanasios,Saint Athanasios,05,,34.7125,33.05
+cy,saint dhimitrianos,Saint Dhimitrianos,06,,34.9083333,32.55
+cy,saint dometios,Saint Dometios,04,,35.1791667,33.3333333
+cy,saint elias,Saint Elias,01,,35.3291667,33.925
+cy,saint epiktitos,Saint Epiktitos,03,,35.325,33.3916667
+cy,saint epiphanios,Saint Epiphanios,04,,34.9875,33.1208333
+cy,saint ermilaos,Saint Ermilaos,02,,35.2791667,33.1708333
+cy,saint igkovos,Saint Igkovos,01,,35.325,33.8166667
+cy,saint ioannis,Saint Ioannis,04,,35.0666667,33.1833333
+cy,saint khariton,Saint Khariton,01,,35.3041667,33.6041667
+cy,saint konstantinos,Saint Konstantinos,05,,34.8666667,33.0666667
+cy,saint mamos,Saint Mamos,05,,34.85,32.95
+cy,saint marina,Saint Marina,06,,35.1125,32.5375
+cy,saint nicholaos,Saint Nicholaos,04,,35.1041667,32.8791667
+cy,saint nikolaos,Saint Nikolaos,01,,35.3333333,33.6791667
+cy,saint photios,Saint Photios,06,,34.875,32.6125
+cy,saint phyla,Saint Phyla,05,,34.7166667,33.025
+cy,saint sergios,Saint Sergios,01,,35.2,33.875
+cy,saint sozomenos,Saint Sozomenos,04,,35.0666667,33.4375
+cy,saint symeon,Saint Symeon,01,,35.4916667,34.2208333
+cy,saint theodoros,Saint Theodoros,01,,35.3666667,34.0291667
+cy,saint theodoros,Saint Theodoros,03,,34.8013889,33.3875
+cy,saint theodoros,Saint Theodoros,04,,35.175,32.65
+cy,saint therapon,Saint Therapon,05,,34.8125,32.8333333
+cy,saint trimithias,Saint Trimithias,04,,35.1166667,33.2125
+cy,saint varvara,Saint Varvara,06,,34.75,32.5125
+cy,saint vasilios,Saint Vasilios,04,,35.2291667,33.1833333
+cy,saint vavatsinia,Saint Vavatsinia,03,,34.8833333,33.1916667
+cy,saint yeorgios,Saint Yeorgios,01,,35.2583333,33.875
+cy,saint yeorgios,Saint Yeorgios,04,,35.1,32.8833333
+cy,saitta,Saitta,05,,34.8708333,32.9166667
+cy,saittas,Saittas,05,,34.8708333,32.9166667
+cy,sakarya,Sakarya,01,,35.1333333,33.9222222
+cy,sakarya,Sakarya,06,,34.7083333,32.575
+cy,salamiou,Salamiou,06,,34.8416667,32.6875
+cy,salamiu,Salamiu,06,,34.8416667,32.6875
+cy,salamyu,Salamyu,06,,34.8416667,32.6875
+cy,salina,Salina,03,,34.9166667,33.6291667
+cy,salines,Salines,03,,34.9166667,33.6291667
+cy,sa±na±rustu,SÄ±nÄ±rustu,01,,35.275,33.85
+cy,sanaya,Sanaya,05,,34.7333333,32.8791667
+cy,sandalaris,Sandalaris,01,,35.2125,33.8
+cy,sandallar,Sandallar,01,,35.2125,33.8
+cy,sanida,Sanida,05,,34.8083333,33.1875
+cy,sanidha,Sanidha,05,,34.8083333,33.1875
+cy,sanidka,Sanidka,05,,34.8083333,33.1875
+cy,saninler,Saninler,04,,35.1875,33.075
+cy,santalaris,Santalaris,01,,35.2125,33.8
+cy,santalar,Santalar,01,,35.2125,33.8
+cy,sarama,Sarama,06,,34.9583333,32.5291667
+cy,sarandi,Sarandi,04,,34.9708333,32.9958333
+cy,saranti,Saranti,04,,34.9708333,32.9958333
+cy,sa,Sa,03,,34.9375,33.3916667
+cy,sayitta,Sayitta,05,,34.8708333,32.9166667
+cy,sazla±koy,SazlÄ±koy,01,,35.4,34.025
+cy,sazla±koy,SazlÄ±koy,03,,34.9541667,33.6291667
+cy,sazla±koy,SazlÄ±koy,04,,34.9458333,33.0208333
+cy,scala,Scala,03,,34.9125,33.6333333
+cy,sedirler vadisi,Sedirler Vadisi,06,,34.9833333,32.6833333
+cy,sehitler,Sehitler,01,,35.2125,33.8
+cy,selain t' api,Selain t' Api,04,,35.1583333,32.6208333
+cy,selain t'appi,Selain T'appi,04,,35.1583333,32.6208333
+cy,selcuklu,Selçuklu,04,,35.1583333,32.6208333
+cy,selemani,Selemani,04,,35.1469444,32.7102778
+cy,selenias,Selenias,01,,35.5833333,34.3125
+cy,selladi tou appi,Selladi tou Appi,04,,35.1583333,32.6208333
+cy,sellain d'api,Sellain d'Api,04,,35.1583333,32.6208333
+cy,sellayi tu appa±,Sellayi tu AppÄ±,04,,35.1583333,32.6208333
+cy,serdarla±,SerdarlÄ±,01,,35.2583333,33.6
+cy,serhadkoy,Serhadköy,04,,35.1875,33.0916667
+cy,serhatkoy,Serhatköy,04,,35.1875,33.0916667
+cy,seri,Seri,04,,35.075,33.3208333
+cy,sha,Sha,03,,34.9375,33.3916667
+cy,sia,Siá,03,,34.9375,33.3916667
+cy,sihari,Sihari,02,,35.2791667,33.3833333
+cy,sikopetra,Sikopetra,05,,34.8791667,33.1125
+cy,silifke,Silifke,05,,34.8333333,32.8916667
+cy,siligu,Siligu,05,,34.8333333,32.8916667
+cy,silikou,Silikou,05,,34.8333333,32.8916667
+cy,siliku,Siliku,05,,34.8333333,32.8916667
+cy,sillura,Sillura,04,,35.2333333,33.1666667
+cy,simou,Simou,06,,34.9333333,32.5
+cy,simu,Simu,06,,34.9333333,32.5
+cy,sina oros,Sina Oros,04,,35.0102778,32.9036111
+cy,sinda,Sinda,01,,35.1583333,33.7
+cy,sinde,Sinde,01,,35.1583333,33.7
+cy,sindirgi,Sindirgi,01,,35.1583333,33.7
+cy,singrasa±,SingrasÄ±,01,,35.275,33.85
+cy,sinta,Sinta,01,,35.1583333,33.7
+cy,sipahi,Sipahi,01,,35.5416667,34.2166667
+cy,sirimevler,Sirimevler,02,,35.2791667,33.1708333
+cy,sirinevler,Sirinevler,02,,35.2791667,33.1708333
+cy,sirinkoy,Sirinkoy,04,,35.1297222,32.7497222
+cy,sirokitkya,Sirokitkya,03,,34.7958333,33.3375
+cy,siryanohori,Siryanohori,04,,35.2236111,32.9388889
+cy,siryanohor,Siryanohor,04,,35.2236111,32.9388889
+cy,siskilip,Siskilip,02,,35.3,33.1708333
+cy,sisklibo,Sisklibo,02,,35.3,33.1708333
+cy,sisklipos,Sisklipos,02,,35.3,33.1708333
+cy,sisklip,Sisklip,02,,35.3,33.1708333
+cy,skarino,Skarino,03,,34.825,33.3541667
+cy,skarinou,Skarinou,03,,34.825,33.3541667
+cy,skarinu,Skarinu,03,,34.825,33.3541667
+cy,skilloura,Skilloura,04,,35.2333333,33.1666667
+cy,skillouras,Skillouras,04,,35.2333333,33.1666667
+cy,skoritya,Skoritya,03,,34.7958333,33.3375
+cy,skoulli,Skoulli,06,,34.9833333,32.45
+cy,skouriotissa,Skouriotissa,04,,35.0925,32.8830556
+cy,skulli,Skulli,06,,34.9833333,32.45
+cy,skuryotissa,Skuryotissa,04,,35.0925,32.8830556
+cy,skylloura,Skylloura,04,,35.225,33.1416667
+cy,softades,Softades,03,,34.8361111,33.55
+cy,softalar,Softalar,03,,34.8361111,33.55
+cy,sogucak,Sogucak,06,,34.9166667,32.6208333
+cy,somolof,Somolof,04,,35.0625,33.2625
+cy,sophtadhes,Sophtadhes,03,,34.8361111,33.55
+cy,sotira,Sotira,01,,35.0291667,33.95
+cy,sotira,Sotira,05,,34.7291667,32.8625
+cy,soularavia,Soularavia,05,,34.7458333,32.9375
+cy,souni,Souni,05,,34.7416667,32.8875
+cy,souskiou,Souskiou,06,,34.7333333,32.6
+cy,spatariko,Spatariko,01,,35.2333333,33.8708333
+cy,spathariko,Spathariko,01,,35.2333333,33.8708333
+cy,spilia,Spilia,04,,34.9666667,32.9541667
+cy,spilya,Spilya,04,,34.9666667,32.9541667
+cy,spitali,Spitali,05,,34.7666667,33.0041667
+cy,spitalli,Spitalli,05,,34.7666667,33.0041667
+cy,stato-ayfoti,Stato-Ayfoti,06,,34.8833333,32.625
+cy,statos-agios fotios,Statos-Agios Fotios,06,,34.8833333,32.625
+cy,statos and ayios photios,Statos and Ayios Photios,06,,34.8833333,32.625
+cy,statos,Statos,06,,34.8916667,32.6083333
+cy,stato,Stato,06,,34.8916667,32.6083333
+cy,stavrokonno,Stavrokonno,06,,34.7875,32.6166667
+cy,stavrokonnou,Stavrokonnou,06,,34.7875,32.6166667
+cy,stavrokono,Stavrokono,06,,34.7875,32.6166667
+cy,stavros ruins,Stavros Ruins,06,,35.0166667,32.6333333
+cy,stavros,Stavros,06,,35.0166667,32.6333333
+cy,stavro,Stavro,06,,35.0166667,32.6333333
+cy,steni,Steni,06,,34.9958333,32.4708333
+cy,sterakova,Sterakova,05,,34.7125,32.825
+cy,sterakovou,Sterakovou,05,,34.7125,32.825
+cy,sterakovu,Sterakovu,05,,34.7125,32.825
+cy,stillos,Stillos,01,,35.175,33.8333333
+cy,stroncilo,Stroncilo,01,,35.1666667,33.6375
+cy,strongylos,Strongylos,01,,35.1666667,33.6375
+cy,strongylo,Strongylo,01,,35.1666667,33.6375
+cy,stroumbi,Stroumbi,06,,34.8833333,32.4833333
+cy,stroumpi,Stroumpi,06,,34.8833333,32.4833333
+cy,strovilo,Strovilo,04,,35.15,33.3416667
+cy,strovolos,Strovolos,04,,35.15,33.3416667
+cy,strovolo,Strovolo,04,,35.15,33.3416667
+cy,strumbi,Strumbi,06,,34.8833333,32.4833333
+cy,stylloi,Stylloi,01,,35.175,33.8333333
+cy,styllos,Styllos,01,,35.175,33.8333333
+cy,stylos,Stylos,01,,35.175,33.8333333
+cy,sukuryotissa,Sukuryotissa,04,,35.0925,32.8830556
+cy,suleymaniye,Süleymaniye,04,,35.1469444,32.7102778
+cy,suni,Suni,05,,34.7416667,32.8875
+cy,suskinu,Suskinu,06,,34.7333333,32.6
+cy,suskoy,Susköy,06,,34.7333333,32.6
+cy,susuz,Susuz,06,,34.7333333,32.6
+cy,sutluce,Sütlüce,01,,35.25,33.6833333
+cy,sygkrasi,Sygkrasi,01,,35.275,33.85
+cy,sykhari,Sykhari,02,,35.2791667,33.3833333
+cy,sykopetra,Sykopetra,05,,34.8791667,33.1125
+cy,syngrasis,Syngrasis,01,,35.275,33.85
+cy,syngrasi,Syngrasi,01,,35.275,33.85
+cy,syngrassis,Syngrassis,01,,35.275,33.85
+cy,synkrasi,Synkrasi,01,,35.275,33.85
+cy,syrianokhori,Syrianokhori,04,,35.2236111,32.9388889
+cy,sysklipos,Sysklipos,02,,35.3,33.1708333
+cy,tabanla±,TabanlÄ±,06,,34.9708333,32.5208333
+cy,tala,Tala,06,,34.8375,32.4333333
+cy,taskent,Taskent,02,,35.2708333,33.3916667
+cy,taskent,Taskent,03,,34.7833333,33.325
+cy,taskoy,Taskoy,04,,35.11,32.9080556
+cy,tasla±ca,TaslÄ±ca,01,,35.4708333,34.2166667
+cy,tasla±ca,TaslÄ±ca,06,,34.7666667,32.5666667
+cy,taslica,Taslica,05,,34.7458333,32.7333333
+cy,taslidere,Taslidere,04,,35.175,32.65
+cy,taspa±nar,TaspÄ±nar,04,,35.1172222,32.9480556
+cy,tatla±ca,TatlÄ±ca,06,,34.9833333,32.5333333
+cy,tatla±su,TatlÄ±su,01,,35.375,33.7541667
+cy,tatla±su,TatlÄ±su,03,,34.7416667,33.3
+cy,tatli sou,Tatli Sou,01,,35.1583333,33.5708333
+cy,tatli sou,Tatli Sou,03,,34.7416667,33.3
+cy,tavros,Tavros,01,,35.4,34.0791667
+cy,tavrou,Tavrou,01,,35.4,34.0791667
+cy,tavukcu,Tavukçu,01,,35.1583333,33.5708333
+cy,teknecik,Teknecik,02,,35.3083333,33.4708333
+cy,teletra,Teletra,06,,34.9166667,32.4541667
+cy,temblos,Temblos,02,,35.3333333,33.2958333
+cy,tembria,Tembria,04,,35.0291667,32.8916667
+cy,tembriya,Tembriya,04,,35.0291667,32.8916667
+cy,tembriye,Tembriye,04,,35.0291667,32.8916667
+cy,templos,Templos,02,,35.3333333,33.2958333
+cy,temroz,Temroz,02,,35.3333333,33.2958333
+cy,temvriya,Temvriya,04,,35.0291667,32.8916667
+cy,tepebasa±,TepebasÄ±,02,,35.3041667,33.0541667
+cy,tera,Tera,06,,34.9666667,32.425
+cy,terazi,Terazi,03,,34.7333333,33.3375
+cy,termia,Termia,02,,35.325,33.3291667
+cy,termiya,Termiya,02,,35.325,33.3291667
+cy,termya,Termya,02,,35.325,33.3291667
+cy,terra,Terra,06,,34.9666667,32.425
+cy,tersefanou,Tersefanou,03,,34.8541667,33.5458333
+cy,tersefan,Tersefan,03,,34.8541667,33.5458333
+cy,tersephanou,Tersephanou,03,,34.8541667,33.5458333
+cy,tersofanu,Tersofanu,03,,34.8541667,33.5458333
+cy,theletra,Theletra,06,,34.9166667,32.4541667
+cy,thermeia,Thermeia,02,,35.325,33.3291667
+cy,thermia chiftlik,Thermiá Chiftlík,02,,35.325,33.3291667
+cy,thermia,Thermia,02,,35.325,33.3291667
+cy,timbu,Timbu,04,,35.1333333,33.5125
+cy,timi,Timi,06,,34.7333333,32.5166667
+cy,tirhon,Tirhon,04,,35.225,33.4833333
+cy,tirmen,Tirmen,01,,35.3083333,33.6333333
+cy,tirmit,Tirmit,02,,35.3291667,33.2625
+cy,tochni,Tochni,03,,34.7833333,33.325
+cy,tokhni,Tokhni,03,,34.7833333,33.325
+cy,topcukoy,Topçuköy,01,,35.3416667,33.8708333
+cy,topsiou keuy,Topsiou Keuy,01,,35.3416667,33.8708333
+cy,trachonas,Trachonas,04,,35.2,33.3583333
+cy,trachoni,Trachoni,04,,35.225,33.4833333
+cy,trachoni,Trachoni,05,,34.6583333,32.9666667
+cy,trachypedoula,Trachypedoula,06,,34.8041667,32.6833333
+cy,trahipedula,Trahipedula,06,,34.8041667,32.6833333
+cy,trahona,Trahona,04,,35.2,33.3583333
+cy,trahoni,Trahoni,04,,35.225,33.4833333
+cy,trahoni,Trahoni,05,,34.6583333,32.9666667
+cy,trahon,Trahon,05,,34.6583333,32.9666667
+cy,trakhonas,Trakhonas,04,,35.2,33.3583333
+cy,trakhona,Trakhona,04,,35.2,33.3583333
+cy,trakhoni,Trakhoni,04,,35.225,33.4833333
+cy,trakhoni,Trakhoni,05,,34.6583333,32.9666667
+cy,trakhypedhoula,Trakhypedhoula,06,,34.8041667,32.6833333
+cy,trakhypedoula,Trakhypedoula,06,,34.8041667,32.6833333
+cy,trapeza,Trapeza,02,,35.3083333,33.4708333
+cy,trasipeyula,Trasipeyula,06,,34.8041667,32.6833333
+cy,treis elies,Treis Elies,05,,34.9333333,32.8
+cy,tremesa,Tremesa,03,,35.0833333,33.6083333
+cy,tremethousha,Tremethousha,03,,35.0833333,33.6083333
+cy,tremetousha,Tremetousha,03,,35.0833333,33.6083333
+cy,tremetusa,Tremetusa,06,,34.8166667,32.45
+cy,tremithousa,Tremithousa,06,,34.8166667,32.45
+cy,tremythousa,Tremythousa,06,,34.975,32.4875
+cy,tricomo bahceler,Tricomo Bahceler,01,,35.2833333,33.9083333
+cy,trikomo,Trikomo,01,,35.2875,33.8916667
+cy,trikoukkia,Trikoukkia,05,,34.9375,32.8375
+cy,trikucca,Trikuçça,05,,34.9375,32.8375
+cy,trikukya,Trikukya,05,,34.9375,32.8375
+cy,trimiklina,Trimiklina,05,,34.8458333,32.9125
+cy,trimiklini,Trimiklini,05,,34.8458333,32.9125
+cy,trimiklin,Trimiklin,05,,34.8458333,32.9125
+cy,trimithi,Trimithi,02,,35.3291667,33.2625
+cy,trimithousa khrysokhou,Trimithousa Khrysokhou,06,,34.975,32.4875
+cy,trimithousa paphos,Trimithousa Paphos,06,,34.8166667,32.45
+cy,trimithousa,Trimithousa,06,,34.8166667,32.45
+cy,trimithusa,Trimithusa,06,,34.8166667,32.45
+cy,trimiti,Trimiti,02,,35.3291667,33.2625
+cy,trimitusa,Trimitusa,06,,34.8166667,32.45
+cy,tripimeni,Tripimeni,01,,35.3083333,33.6333333
+cy,tris eliaes,Tris Eliæs,05,,34.9333333,32.8
+cy,tris elies,Tris Elies,05,,34.9333333,32.8
+cy,triselyes,Triselyes,05,,34.9333333,32.8
+cy,troulli,Troulli,03,,35.0333333,33.6166667
+cy,troulloi,Troulloi,03,,35.0333333,33.6166667
+cy,trulli,Trulli,03,,35.0333333,33.6166667
+cy,trusa,Trusa,06,,34.9625,32.4
+cy,trypimeni,Trypimeni,01,,35.3083333,33.6333333
+cy,tsada,Tsáda,06,,34.8416667,32.475
+cy,tsadha,Tsadha,06,,34.8416667,32.475
+cy,tsakistra,Tsakistra,04,,35.0236111,32.7241667
+cy,tseri,Tseri,04,,35.075,33.3208333
+cy,turkeli,Türkeli,04,,35.2291667,33.1833333
+cy,turkmenkoy,Türkmenköy,01,,35.1041667,33.7166667
+cy,turnalar,Turnalar,01,,35.3625,33.9208333
+cy,turunclu,Turunçlu,01,,35.1666667,33.6375
+cy,tuzla,Tuzla,01,,35.1625,33.8833333
+cy,tuzluca,Tuzluca,01,,35.3625,33.9958333
+cy,tymbou,Tymbou,04,,35.1333333,33.5125
+cy,tymvou,Tymvou,04,,35.1333333,33.5125
+cy,uc sehitler,Uc Sehitler,03,,34.975,33.5166667
+cy,uczeytinler,Üçzeytinler,05,,34.9333333,32.8
+cy,ulucam,Uluçam,06,,34.7708333,32.6666667
+cy,uluka±sla,UlukÄ±sla,01,,35.2166667,33.6166667
+cy,upper dikomo,Upper Dikomo,02,,35.2708333,33.325
+cy,uzunkoy,Uzunköy,01,,35.075,33.7666667
+cy,uzunmese,Uzunmese,06,,34.975,32.4875
+cy,vadili,Vadili,01,,35.1333333,33.6583333
+cy,valili,Valili,01,,35.1333333,33.6583333
+cy,vani,Vani,04,,35.2333333,33.5
+cy,varisa,Varisa,04,,35.1297222,32.7497222
+cy,variseia,Variseia,04,,35.1297222,32.7497222
+cy,varisha,Varisha,04,,35.1297222,32.7497222
+cy,varosha,Varosha,01,,35.1083333,33.9583333
+cy,vasa kilani,Vasa Kilani,05,,34.8333333,32.7916667
+cy,vasa limassol,Vasa Limassol,05,,34.8041667,33.2166667
+cy,vasa,Vasa,05,,34.8041667,33.2166667
+cy,vasileja,Vasileja,01,,35.3458333,33.125
+cy,vasilia,Vasilia,01,,35.3458333,33.125
+cy,vasili,Vasili,01,,35.475,34.15
+cy,vasilya,Vasilya,01,,35.3458333,33.125
+cy,vathylakas,Vathylakas,02,,35.4833333,34.1916667
+cy,vathylakkas,Vathylakkas,02,,35.4833333,34.1916667
+cy,vathylakka,Vathylakka,02,,35.4833333,34.1916667
+cy,vatilaka,Vatilaka,02,,35.4833333,34.1916667
+cy,vatilakka,Vatilakka,02,,35.4833333,34.1916667
+cy,vatili,Vatili,01,,35.1333333,33.6583333
+cy,vavatsinia,Vavatsinia,03,,34.8958333,33.2291667
+cy,vavatsinya,Vavatsinya,03,,34.8958333,33.2291667
+cy,vavilas,Vavilas,02,,35.3666667,33.1166667
+cy,vavila,Vavila,02,,35.3666667,33.1166667
+cy,vavilla,Vavilla,02,,35.3666667,33.1166667
+cy,vavla,Vavla,03,,34.8416667,33.2666667
+cy,vavylas,Vavylas,02,,35.3666667,33.1166667
+cy,vikla,Vikla,05,,34.8291667,33.1958333
+cy,visakia,Visakia,04,,35.0791667,33.0166667
+cy,vitsada,Vitsada,01,,35.2416667,33.6458333
+cy,vitsadha,Vitsadha,01,,35.2416667,33.6458333
+cy,vizaca,Vizaca,04,,35.0791667,33.0166667
+cy,vizacia,Vizacia,04,,35.0791667,33.0166667
+cy,vizakia,Vizakia,04,,35.0791667,33.0166667
+cy,vizakya,Vizakya,04,,35.0791667,33.0166667
+cy,vlaso,Vlaso,04,,35.0625,32.8875
+cy,vogolida,Vogolida,01,,35.3791667,34.075
+cy,vokolida,Vokolida,01,,35.3791667,34.075
+cy,vokolidha,Vokolidha,01,,35.3791667,34.075
+cy,vokolomandia,Vokolomandia,02,,35.3041667,33.0291667
+cy,voni,Voni,04,,35.2333333,33.5
+cy,vorglini,Vorglini,03,,34.9833333,33.6583333
+cy,voroglini,Voroglini,03,,34.9833333,33.6583333
+cy,voroklini,Voroklini,03,,34.9833333,33.6583333
+cy,voudo,Voudo,03,,34.9291667,33.5333333
+cy,vounaro,Vounaro,05,,34.6583333,32.9541667
+cy,vouna,Vouna,02,,35.2708333,33.3916667
+cy,vouni,Vouni,05,,34.825,32.8333333
+cy,vounon,Vounon,02,,35.2708333,33.3916667
+cy,vouno,Vouno,02,,35.2708333,33.3916667
+cy,vrecca,Vreçça,06,,34.8916667,32.6583333
+cy,vrecha,Vrecha,06,,34.8916667,32.6583333
+cy,vretcha,Vretcha,06,,34.8916667,32.6583333
+cy,vretsa,Vretsa,06,,34.8916667,32.6583333
+cy,vroisa,Vroisa,04,,35.0666667,32.6666667
+cy,vroisha,Vroisha,04,,35.0666667,32.6666667
+cy,vroisia,Vróisia,04,,35.0666667,32.6666667
+cy,vroyisa,Vroyisa,04,,35.0666667,32.6666667
+cy,vrysoules,Vrysoules,01,,35.1,33.8833333
+cy,vuda,Vuda,03,,34.9291667,33.5333333
+cy,vuni,Vuni,05,,34.825,32.8333333
+cy,vuno,Vuno,02,,35.2708333,33.3916667
+cy,vyzakia,Vyzakia,04,,35.0791667,33.0166667
+cy,xeri,Xeri,04,,35.075,33.3208333
+cy,xeros,Xeros,04,,35.1416667,32.8333333
+cy,xerovounos,Xerovounos,04,,35.15,32.7333333
+cy,xyliatos,Xyliatos,04,,35.0333333,33.0458333
+cy,xyliatou,Xyliatou,04,,35.0333333,33.0458333
+cy,xyliato,Xyliato,04,,35.0333333,33.0458333
+cy,xylophaghou,Xylophaghou,03,,34.9791667,33.85
+cy,xylophagou,Xylophagou,03,,34.9791667,33.85
+cy,xylophago,Xylophago,03,,34.9791667,33.85
+cy,xylotymbou,Xylotymbou,03,,35.0166667,33.75
+cy,xylotymbo,Xylotymbo,03,,35.0166667,33.75
+cy,xylotymvou,Xylotymvou,03,,35.0166667,33.75
+cy,yagmuralan,Yagmuralan,04,,35.0666667,32.6666667
+cy,yakaca±k,YakacÄ±k,06,,35.0491667,32.4880556
+cy,yala±ktas,YalÄ±ktas,05,,34.7166667,32.725
+cy,yalanca± koy,YalancÄ± koy,03,,34.7666667,33.3458333
+cy,yala±,YalÄ±,01,,35.3916667,33.7458333
+cy,ya±lda±ra±m,YÄ±ldÄ±rÄ±m,01,,35.2375,33.7833333
+cy,ya±lda±ra±m,YÄ±ldÄ±rÄ±m,03,,34.9791667,33.6208333
+cy,yalia,Yalia,06,,35.0833333,32.5333333
+cy,yalousa,Yalousa,01,,35.5333333,34.1916667
+cy,yalova,Yalova,05,,34.6666667,32.9
+cy,yalusa,Yalusa,01,,35.5333333,34.1916667
+cy,yalu,Yalu,06,,34.9166667,32.4666667
+cy,yalya,Yalya,06,,35.0833333,32.5333333
+cy,yamackoy,Yamaçköy,01,,35.0958333,33.9
+cy,yarkoy,Yarköy,01,,35.3291667,33.925
+cy,yayla,Yayla,04,,35.2236111,32.9388889
+cy,yayla,Yayla,06,,35.0833333,32.5333333
+cy,yedidalga,Yedidalga,04,,35.1444444,32.8038889
+cy,yedikonak,Yedikonak,01,,35.45,34.0333333
+cy,yedikonuk,Yedikonuk,01,,35.45,34.0333333
+cy,yenagra,Yenagra,01,,35.2166667,33.7
+cy,yenibogazici,Yenibogazici,01,,35.2,33.875
+cy,yenibosazici,Yenibosazici,01,,35.2,33.875
+cy,yenicekoy,Yeniceköy,04,,35.2375,33.55
+cy,yenierenkoy,Yenierenköy,01,,35.5333333,34.1916667
+cy,yeniizmir,Yeniizmir,01,,35.1291667,33.9305556
+cy,yenije keuy,Yenije Keuy,04,,35.2375,33.55
+cy,yenije keuy,Yenije Keuy,06,,35.0252778,32.3647222
+cy,yeni korfi,Yeni Korfi,05,,34.8083333,32.9708333
+cy,yenikoy,Yeniköy,06,,35.0252778,32.3647222
+cy,yenisehir,Yenisehir,01,,35.1416667,33.9208333
+cy,yenisehir,Yenisehir,04,,35.1875,33.3583333
+cy,yeraces,Yeraces,04,,35.0,32.8088889
+cy,yerakiaes,Yerakiæs,04,,35.0,32.8088889
+cy,yerakia“s,YerakiÅ“s,04,,35.0,32.8088889
+cy,yerakies,Yerakies,04,,35.0,32.8088889
+cy,yerani,Yerani,01,,35.3625,33.9208333
+cy,yerasa,Yerasa,05,,34.8041667,33.0
+cy,yeri,Yeri,04,,35.1,33.4166667
+cy,yermasoyia,Yermasoyia,05,,34.7208333,33.0833333
+cy,yerolakkos,Yerolakkos,04,,35.1833333,33.25
+cy,yerolakko,Yerolakko,04,,35.1833333,33.25
+cy,yerondas,Yerondas,02,,35.3666667,33.0333333
+cy,yerosibo,Yerosibo,06,,34.7666667,32.4666667
+cy,yerosibu,Yerosibu,06,,34.7666667,32.4666667
+cy,yeroskipos,Yeroskipos,06,,34.7666667,32.4666667
+cy,yerovasa,Yerovasa,05,,34.8166667,32.7416667
+cy,yerovasa±,YerovasÄ±,05,,34.8166667,32.7416667
+cy,yesila±rmak,YesilÄ±rmak,04,,35.1708333,32.7375
+cy,yesilkoy,Yesilkoy,01,,35.5083333,34.1625
+cy,yesilova,Yesilova,06,,34.7166667,32.5333333
+cy,yesiltepe,Yesiltepe,02,,35.3333333,33.2166667
+cy,yesilyurt,Yesilyurt,04,,35.1538889,32.8830556
+cy,yialia,Yialia,06,,35.0833333,32.5333333
+cy,yialousa,Yialousa,01,,35.5333333,34.1916667
+cy,yialoussa,Yialoussa,01,,35.5333333,34.1916667
+cy,yigitler,Yigitler,05,,34.8416667,32.7708333
+cy,yilmazkoy,Yilmazköy,04,,35.2333333,33.1666667
+cy,yiolou,Yiolou,06,,34.9166667,32.4666667
+cy,yipsos,Yipsos,01,,35.2583333,33.7833333
+cy,yogurtcular,Yogurtcular,06,,34.8791667,32.6333333
+cy,yolustu,Yolüstü,06,,34.7541667,32.4666667
+cy,yolu,Yolu,06,,34.9166667,32.4666667
+cy,yorgoz,Yorgoz,02,,35.3041667,33.0541667
+cy,yourri,Yourri,04,,34.9583333,33.1583333
+cy,ypsonas,Ypsonas,05,7349,34.6833333,32.9583333
+cy,yukara± alsanda±k,YukarÄ± AlsandÄ±k,05,,34.7708333,32.8416667
+cy,yukara±amyanto,YukarÄ±Amyanto,05,,34.9291667,32.9166667
+cy,yukara±arhimandrita,YukarÄ±Arhimandrita,06,,34.75,32.6791667
+cy,yukara± arodez,YukarÄ± Arodez,06,,34.9375,32.4083333
+cy,yukara± binatla±,YukarÄ± BinatlÄ±,05,,34.7,33.0
+cy,yukara± bostanca±,YukarÄ± BostancÄ±,04,,35.1666667,33.0166667
+cy,yukara± deftera,YukarÄ± Deftera,04,,35.0791667,33.2625
+cy,yukara± dikmen,YukarÄ± Dikmen,02,,35.2708333,33.325
+cy,yukara± dikomo,YukarÄ± Dikomo,02,,35.2708333,33.325
+cy,yukara± flasa,YukarÄ± Flasa,04,,35.0683333,32.8891667
+cy,yukara± kalkanla±,YukarÄ± KalkanlÄ±,06,,34.9375,32.4083333
+cy,yukara± kurtbogan,YukarÄ± Kurtbogan,04,,35.0908333,32.9941667
+cy,yukara± kutrafas,YukarÄ± Kutrafas,04,,35.0908333,32.9941667
+cy,yukara± lakadamya,YukarÄ± Lakadamya,04,,35.1083333,33.3
+cy,yukara± lakatamya,YukarÄ± Lakatamya,04,,35.1083333,33.3
+cy,yukara± lefkara,YukarÄ± Lefkara,03,,34.8666667,33.3041667
+cy,yukara±panaya,YukarÄ±Panaya,06,,34.9208333,32.6333333
+cy,yukara± platres,YukarÄ± Platres,05,,34.8875,32.8666667
+cy,yukara± polemitya,YukarÄ± Polemitya,05,,34.7,33.0
+cy,yukara± yesila±rmak,YukarÄ± YesilÄ±rmak,04,,35.15,32.7333333
+cy,yukara± zodya,YukarÄ± Zodya,04,,35.1666667,33.0166667
+cy,yukara± zotya,YukarÄ± Zotya,04,,35.1666667,33.0166667
+cy,yunus,Yunus,05,,34.6708333,32.9291667
+cy,yuvacik,Yuvacik,04,,35.2166667,33.25
+cy,yuvala±,YuvalÄ±,06,,34.7875,32.6958333
+cy,yuvarlak,Yuvarlak,01,,35.1666667,33.6375
+cy,zacharia,Zacharia,06,,34.9833333,32.5333333
+cy,zaharya,Zaharya,06,,34.9833333,32.5333333
+cy,zakaki,Zakaki,05,,34.6638889,33.0
+cy,zakati,Zakáti,05,,34.6638889,33.0
+cy,zakharia,Zakharia,06,,34.9833333,32.5333333
+cy,zanaca,Zanaca,05,,34.7333333,32.8791667
+cy,zanaja,Zanaja,05,,34.7333333,32.8791667
+cy,zanakia,Zanakia,05,,34.7333333,32.8791667
+cy,zeybekkoy,Zeybekköy,01,,34.9791667,33.9125
+cy,zeytinlik,Zeytinlik,02,,35.3333333,33.2958333
+cy,zeytinlik,Zeytinlik,04,,35.0583333,33.1041667
+cy,ziamet,Ziamet,01,,35.4708333,34.1416667
+cy,ziyamet,Ziyamet,01,1593,35.4708333,34.1416667
+cy,ziyi,Ziyi,03,,34.7333333,33.3375
+cy,zodhia,Zodhia,04,,35.1666667,33.0
+cy,zodia,Zodia,04,,35.1666667,33.0
+cy,zoobiyi,Zoobiyí,05,,34.8666667,33.0166667
+cy,zoopigi,Zoopigi,05,,34.8666667,33.0166667
+cy,zoopiyi,Zoopiyi,05,,34.8666667,33.0166667
+cy,zumrutkoy,Zümrütköy,04,,35.175,33.05
+cy,zygi,Zygi,03,,34.7333333,33.3375
+cy,zyyi,Zyyi,03,,34.7333333,33.3375

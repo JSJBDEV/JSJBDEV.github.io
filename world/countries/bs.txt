@@ -1,0 +1,501 @@
+bs,abercorn,Abercorn,24,,22.3666667,-73.95
+bs,abraham bay,Abraham Bay,16,,22.3666667,-72.9666667
+bs,abraham's bay,Abraham's Bay,16,,22.3666667,-72.9666667
+bs,adderleys,Adderleys,15,,23.6,-75.3
+bs,adderly,Adderly,15,,23.6,-75.3
+bs,adelaide,Adelaide,23,,25.0,-77.5166667
+bs,albert town,Albert Town,24,25,22.6,-74.35
+bs,alexander,Alexander,10,,23.65,-76.0166667
+bs,alice town,Alice Town,05,950,25.7166667,-79.3
+bs,alice town,Alice Town,27,,25.3333333,-76.4333333
+bs,allen,Allen,35,,23.95,-74.5166667
+bs,alligator bay settlement,Alligator Bay Settlement,15,,23.45,-75.2166667
+bs,alver town,Alver Town,24,,22.6,-74.35
+bs,anderson,Anderson,15,,23.5333333,-75.2333333
+bs,anderson,Anderson,24,,22.6166667,-73.8666667
+bs,andersons,Andersons,15,,23.2166667,-75.0833333
+bs,andros town,Andros Town,26,2456,24.7,-77.7666667
+bs,anne's tract settlement,Anne's Tract Settlement,10,,23.6833333,-76.05
+bs,arthur's town,Arthur's Town,06,,24.6333333,-75.7
+bs,arthur town,Arthur Town,06,,24.6333333,-75.7
+bs,august town,August Town,32,,25.0333333,-77.9833333
+bs,bahring point,Bahring Point,30,,24.45,-77.7166667
+bs,bailey's town,Bailey's Town,05,,25.7333333,-79.3
+bs,bailey town,Bailey Town,05,,25.7333333,-79.3
+bs,bailey town,Bailey Town,06,,24.15,-75.3166667
+bs,bains,Bains,15,,23.45,-75.2166667
+bs,bain town,Bain Town,06,,24.15,-75.3833333
+bs,bain town,Bain Town,25,,26.5166667,-78.7833333
+bs,bannerman town,Bannerman Town,33,,24.6333333,-76.1666667
+bs,barataria settlement,Barataria Settlement,10,,23.6833333,-76.0333333
+bs,baraterre,Baraterre,10,,23.6833333,-76.0333333
+bs,bar bay settlement,Bar Bay Settlement,22,,25.3833333,-76.8
+bs,bastian point,Bastian Point,30,,24.2333333,-77.6333333
+bs,bayley's town,Bayley's Town,05,,25.7333333,-79.3
+bs,bayley town,Bayley Town,05,,25.7333333,-79.3
+bs,behring point,Behring Point,30,,24.45,-77.7166667
+bs,behring point settlement,Behring Point Settlement,30,,24.45,-77.7166667
+bs,belair estates,Belair Estates,23,,25.0166667,-77.3666667
+bs,bennet harbour,Bennet Harbour,06,,24.5833333,-75.6333333
+bs,bennets harbour,Bennets Harbour,06,,24.5833333,-75.6333333
+bs,bennetts harbor,Bennetts Harbor,06,,24.5833333,-75.6333333
+bs,bennett's harbour,Bennett's Harbour,06,,24.5833333,-75.6333333
+bs,bennett's harbour settlement,Bennett's Harbour Settlement,06,,24.5833333,-75.6333333
+bs,berrys,Berrys,15,,22.95,-74.8833333
+bs,berrys settlement,Berrys Settlement,15,,22.95,-74.8833333
+bs,betsy bay,Betsy Bay,16,,22.4166667,-73.1333333
+bs,bevans town,Bevans Town,29,,26.6,-78.3166667
+bs,binnacle hill,Binnacle Hill,24,,22.3166667,-74.1333333
+bs,binnacle hill settlement,Binnacle Hill Settlement,24,,22.3166667,-74.1333333
+bs,black point,Black Point,10,,24.1,-76.3833333
+bs,black point,Black Point,30,,23.9833333,-77.55
+bs,black point settlement,Black Point Settlement,30,,23.9833333,-77.55
+bs,blackwood village,Blackwood Village,28,,26.8,-77.4333333
+bs,blair estates,Blair Estates,23,,25.05,-77.3
+bs,blanket sound,Blanket Sound,26,,24.85,-77.9
+bs,bluff,Bluff,05,,25.7833333,-79.3166667
+bs,bluff,Bluff,06,,24.5166667,-75.5833333
+bs,bluff,Bluff,22,,25.5,-76.7333333
+bs,bluff settlement,Bluff Settlement,06,,24.5166667,-75.5833333
+bs,bluff settlement,Bluff Settlement,22,,25.5,-76.7333333
+bs,bogue,Bogue,22,,25.45,-76.6666667
+bs,bowen sound,Bowen Sound,26,,24.5833333,-77.7333333
+bs,bowers,Bowers,15,,23.25,-75.0833333
+bs,bradford,Bradford,23,,25.0666667,-77.5166667
+bs,brandy hill,Brandy Hill,35,,24.0833333,-74.4333333
+bs,braudie point,Braudie Point,25,,26.5333333,-78.7333333
+bs,braudies point,Braudies Point,25,,26.5333333,-78.7333333
+bs,browns,Browns,24,,22.7166667,-74.0333333
+bs,buckleys,Buckleys,15,,23.15,-75.0833333
+bs,bullock harbour,Bullock Harbour,32,,25.7833333,-77.85
+bs,bullocks harbour,Bullocks Harbour,32,,25.7833333,-77.85
+bs,bullocks harbour settlement,Bullocks Harbour Settlement,32,,25.7833333,-77.85
+bs,burnt ground,Burnt Ground,15,,23.6166667,-75.2833333
+bs,burnt ground settlement,Burnt Ground Settlement,15,,23.6166667,-75.2833333
+bs,cabbage hill,Cabbage Hill,24,,22.75,-74.2166667
+bs,cabbage point,Cabbage Point,15,,22.9166667,-74.8833333
+bs,cabbage point settlement,Cabbage Point Settlement,15,,22.9166667,-74.8833333
+bs,cable beach,Cable Beach,23,,25.0666667,-77.4
+bs,cairey's,Cairey's,06,,24.4833333,-75.5666667
+bs,calabash bay,Calabash Bay,26,,24.7333333,-77.8
+bs,calvin hill,Calvin Hill,10,,23.6,-75.9666667
+bs,camperdown,Camperdown,23,,25.05,-77.2666667
+bs,cargill creek,Cargill Creek,26,,24.5,-77.7166667
+bs,carmichael village,Carmichael Village,23,,25.0166667,-77.4333333
+bs,cartwright,Cartwright,15,,23.1333333,-75.0666667
+bs,cedar harbor,Cedar Harbor,28,,26.9166667,-77.6333333
+bs,cedar harbour,Cedar Harbour,28,,26.9166667,-77.6333333
+bs,charokee sound settlement,Charokee Sound Settlement,31,,26.2833333,-77.0333333
+bs,cherokee,Cherokee,31,,26.2833333,-77.0333333
+bs,cherokee settlement,Cherokee Settlement,31,,26.2833333,-77.0333333
+bs,cherokee sound,Cherokee Sound,31,,26.2833333,-77.0333333
+bs,cherokee village,Cherokee Village,31,,26.2833333,-77.0333333
+bs,cheroki sound,Cheroki Sound,31,,26.2833333,-77.0333333
+bs,chesters,Chesters,24,,22.7,-73.9166667
+bs,church grove,Church Grove,24,,22.75,-74.2166667
+bs,city of nassau,City of Nassau,23,,25.0833333,-77.35
+bs,clarence,Clarence,15,,23.1,-74.9833333
+bs,clarence town,Clarence Town,15,1751,23.1,-74.9833333
+bs,clifton,Clifton,23,,25.0166667,-77.5666667
+bs,coakley town,Coakley Town,26,,24.7333333,-77.8166667
+bs,coakly town,Coakly Town,26,,24.7333333,-77.8166667
+bs,cockburn town,Cockburn Town,35,831,24.0333333,-74.5166667
+bs,colebrooke dale,Colebrooke Dale,27,,25.2,-76.25
+bs,colebrooke town,Colebrooke Town,27,,25.2,-76.25
+bs,colonel hill,Colonel Hill,24,240,22.7666667,-74.2166667
+bs,conch sound,Conch Sound,32,,25.1166667,-77.9833333
+bs,congo town,Congo Town,30,,24.1666667,-77.5833333
+bs,cooper's town,Cooper's Town,28,,26.8666667,-77.5166667
+bs,coral harbor,Coral Harbor,23,,24.9666667,-77.4666667
+bs,coral harbour,Coral Harbour,23,,24.9666667,-77.4666667
+bs,coral heights,Coral Heights,23,,25.0,-77.45
+bs,cornishtown,Cornishtown,28,,26.75,-77.4666667
+bs,cove,Cove,06,,24.4166667,-75.5333333
+bs,cove settlement,Cove Settlement,06,,24.4166667,-75.5333333
+bs,creek village,Creek Village,23,,25.0666667,-77.3
+bs,cripple hill,Cripple Hill,24,,22.7833333,-74.2333333
+bs,crossing rocks,Crossing Rocks,31,,26.1333333,-77.1833333
+bs,crossing rock settlement,Crossing Rock Settlement,31,,26.1333333,-77.1833333
+bs,crown haven,Crown Haven,28,,26.9,-77.8166667
+bs,cunningham,Cunningham,23,,25.0833333,-77.4333333
+bs,current,Current,22,,25.4333333,-76.7833333
+bs,current island settlement,Current Island Settlement,22,,25.3833333,-76.8
+bs,current settlement,Current Settlement,22,,25.4333333,-76.7833333
+bs,curtis,Curtis,10,,23.6333333,-75.9666667
+bs,davis settlement,Davis Settlement,06,,24.25,-75.35
+bs,deadmans cay,Deadmans Cay,15,,23.1666667,-75.0833333
+bs,deadmans cay settlement,Deadmans Cay Settlement,15,,23.1666667,-75.0833333
+bs,deep creek,Deep Creek,30,,24.0,-77.55
+bs,deep creek,Deep Creek,33,,24.7833333,-76.3
+bs,deep creek settlement,Deep Creek Settlement,33,,24.7833333,-76.3
+bs,delancey town,Delancey Town,33,,24.7666667,-76.2666667
+bs,delectable bay,Delectable Bay,24,,22.4333333,-74.0333333
+bs,delectable bay settlement,Delectable Bay Settlement,24,,22.4333333,-74.0333333
+bs,delectable,Delectable,24,,22.4333333,-74.0333333
+bs,devil point,Devil Point,06,,24.1166667,-75.4666667
+bs,devil's point,Devil's Point,06,,24.1166667,-75.4666667
+bs,devil's point settlement,Devil's Point Settlement,06,,24.1166667,-75.4666667
+bs,dixons,Dixons,35,,24.1,-74.45
+bs,doctor's creek,Doctor's Creek,15,,23.4666667,-75.2166667
+bs,douds,Douds,06,,24.2666667,-75.4
+bs,douds settlement,Douds Settlement,06,,24.2666667,-75.4
+bs,driggs hill,Driggs Hill,30,,24.2,-77.6
+bs,driggs hill settlement,Driggs Hill Settlement,30,,24.2,-77.6
+bs,dumfries,Dumfries,06,,24.6333333,-75.6666667
+bs,dumfries settlement,Dumfries Settlement,06,,24.6333333,-75.6666667
+bs,duncan town,Duncan Town,18,70,22.1908333,-75.7258333
+bs,dundas town,Dundas Town,31,,26.55,-77.0833333
+bs,dunmore,Dunmore,15,,23.05,-74.9
+bs,dunmore settlement,Dunmore Settlement,15,,23.05,-74.9
+bs,dunmore town,Dunmore Town,22,1523,25.5,-76.65
+bs,eight mile rock,Eight Mile Rock,25,,26.5166667,-78.7833333
+bs,englerston,Englerston,23,,25.05,-77.3333333
+bs,evil point,Evil Point,06,,24.1166667,-75.4666667
+bs,exuma harbour estates,Exuma Harbour Estates,10,,23.5,-75.7666667
+bs,fairfield,Fairfield,24,,22.7833333,-74.2166667
+bs,farmer's hill,Farmer's Hill,10,,23.6,-75.9
+bs,farmers hill settlement,Farmers Hill Settlement,10,,23.6,-75.9
+bs,farquharson,Farquharson,35,,24.0,-74.4666667
+bs,fire road village,Fire Road Village,28,,26.85,-77.5
+bs,forbes,Forbes,10,,23.4666667,-75.65
+bs,forbes hill,Forbes Hill,10,,23.4666667,-75.65
+bs,ford,Ford,15,,22.9166667,-74.8666667
+bs,forest,Forest,10,,23.5833333,-75.9166667
+bs,forest settlement,Forest Settlement,10,,23.5833333,-75.9166667
+bs,fortune hill,Fortune Hill,35,,24.0166667,-74.45
+bs,fox town,Fox Town,28,,26.9166667,-77.8
+bs,freeport city,Freeport City,25,,26.5333333,-78.7
+bs,freeport,Freeport,25,46535,26.5333333,-78.7
+bs,freetown,Freetown,06,,24.2833333,-75.4166667
+bs,freetown,Freetown,25,,26.5666667,-78.45
+bs,freetown settlement,Freetown Settlement,06,,24.2833333,-75.4166667
+bs,french wells,French Wells,24,,22.6833333,-74.3
+bs,french wells settlement,French Wells Settlement,24,,22.6833333,-74.3
+bs,fresh creek,Fresh Creek,26,,24.7333333,-77.8166667
+bs,gaiters settlement,Gaiters Settlement,06,,24.4666667,-75.55
+bs,gaitor's,Gaitor's,06,,24.4666667,-75.55
+bs,galloway landing,Galloway Landing,15,,23.0833333,-75.05
+bs,gambier village,Gambier Village,23,,25.0666667,-77.5
+bs,georgetown,Georgetown,10,,23.5,-75.7666667
+bs,gilbert grant,Gilbert Grant,10,,23.6,-75.9166667
+bs,glenelg,Glenelg,27,,24.9666667,-76.1833333
+bs,glenelg settlement,Glenelg Settlement,27,,24.9666667,-76.1833333
+bs,glintons,Glintons,15,,23.6333333,-75.3
+bs,golden gates estates,Golden Gates Estates,23,,25.0166667,-77.35
+bs,golden grove,Golden Grove,24,,22.4666667,-73.9
+bs,golden grove,Golden Grove,29,,26.6,-78.3333333
+bs,goodwill,Goodwill,24,,22.5166667,-73.8666667
+bs,gordon's,Gordon's,15,,22.8666667,-74.85
+bs,gordons settlement,Gordons Settlement,15,,22.8666667,-74.85
+bs,governor harbor,Governor Harbor,27,,25.1666667,-76.2333333
+bs,governor harbour,Governor Harbour,27,,25.1666667,-76.2333333
+bs,governors harbor,Governors Harbor,27,,25.1666667,-76.2333333
+bs,governor's harbour,Governor's Harbour,27,,25.1666667,-76.2333333
+bs,grays,Grays,15,,23.25,-75.1
+bs,great guana cay,Great Guana Cay,31,,26.6666667,-77.1166667
+bs,green castle,Green Castle,33,,24.8166667,-76.25
+bs,green turtle cay,Green Turtle Cay,28,,26.8333333,-77.3833333
+bs,green turtle cay settlement,Green Turtle Cay Settlement,28,,26.8333333,-77.3833333
+bs,green turtle key,Green Turtle Key,28,,26.8333333,-77.3833333
+bs,green turtle village,Green Turtle Village,28,,26.8166667,-77.45
+bs,gregory town,Gregory Town,27,,25.4,-76.55
+bs,halls landing,Halls Landing,35,,24.0,-74.5166667
+bs,harbour estate,Harbour Estate,35,,24.1,-74.5166667
+bs,harbour island,Harbour Island,22,,25.5,-76.65
+bs,hard bargain,Hard Bargain,15,,23.0166667,-74.8833333
+bs,hard bargain,Hard Bargain,26,,24.75,-77.8333333
+bs,hard bargain,Hard Bargain,34,,26.3166667,-77.5666667
+bs,hard bargain,Hard Bargain,35,,24.0666667,-74.45
+bs,hard bargain settlement,Hard Bargain Settlement,15,,23.0166667,-74.8833333
+bs,hard bargin,Hard Bargin,34,,26.3166667,-77.5666667
+bs,hard hill,Hard Hill,24,,22.6,-73.8666667
+bs,harts bay hill,Harts Bay Hill,06,,24.4166667,-75.5333333
+bs,hartswell,Hartswell,10,,23.4333333,-75.6666667
+bs,hatchet bay,Hatchet Bay,27,,25.3333333,-76.4333333
+bs,hatchet bay limited settlement,Hatchet Bay Limited Settlement,27,,25.3333333,-76.4333333
+bs,hawksbill,Hawksbill,25,,26.5,-78.7333333
+bs,hawks nest,Hawks Nest,06,,24.15,-75.5333333
+bs,hermitage,Hermitage,10,,23.5166667,-75.8333333
+bs,highbury park,Highbury Park,23,,25.0333333,-77.3166667
+bs,high rock,High Rock,29,3744,26.6208333,-78.2833333
+bs,high rock,High Rock,30,,24.1666667,-77.5833333
+bs,high rock settlement,High Rock Settlement,30,,24.1666667,-77.5833333
+bs,high rocks,High Rocks,29,,26.6208333,-78.2833333
+bs,high rock village,High Rock Village,29,,26.6208333,-78.2833333
+bs,holdiday track,Holdiday Track,35,,24.0166667,-74.45
+bs,holmes rock,Holmes Rock,25,,26.5333333,-78.8
+bs,holmes' rock village,Holmes' Rock Village,25,,26.55,-78.8333333
+bs,hope estate,Hope Estate,25,,26.6666667,-78.9333333
+bs,hope town,Hope Town,31,,26.55,-76.95
+bs,hope town settlement,Hope Town Settlement,31,,26.55,-76.95
+bs,hunter settlement,Hunter Settlement,25,,26.4833333,-78.7166667
+bs,hunters,Hunters,25,,26.4833333,-78.7166667
+bs,industrious hill,Industrious Hill,06,,24.45,-75.55
+bs,industrious hill settlement,Industrious Hill Settlement,06,,24.45,-75.55
+bs,james cistern,James Cistern,27,,25.3166667,-76.3666667
+bs,james's cistern,James's Cistern,27,,25.3166667,-76.3666667
+bs,jimmy hill,Jimmy Hill,10,,23.5666667,-75.8666667
+bs,john millars,John Millars,33,,24.6833333,-76.1833333
+bs,kemps bay,Kemps Bay,30,,24.0333333,-77.55
+bs,kemps bay settlement,Kemps Bay Settlement,30,,24.0333333,-77.55
+bs,killarney,Killarney,23,,25.05,-77.4166667
+bs,knowles,Knowles,06,,24.4,-75.4833333
+bs,knowles village,Knowles Village,06,,24.4,-75.4833333
+bs,landrail point,Landrail Point,24,,22.8,-74.35
+bs,landrail point settlement,Landrail Point Settlement,24,,22.8,-74.35
+bs,lisbon creek,Lisbon Creek,30,,24.2166667,-77.6333333
+bs,lisbon creek settlement,Lisbon Creek Settlement,30,,24.2166667,-77.6333333
+bs,little bay,Little Bay,34,,25.8333333,-77.1666667
+bs,little bay settlement,Little Bay Settlement,22,,25.3333333,-76.8333333
+bs,little creek,Little Creek,30,,23.95,-77.5333333
+bs,little farmers cay,Little Farmers Cay,10,,23.95,-76.3166667
+bs,long bay,Long Bay,35,,24.0,-74.5166667
+bs,louis town,Louis Town,05,,25.55,-79.2833333
+bs,love hill,Love Hill,26,,24.75,-77.85
+bs,love,Love,23,,25.0666667,-77.5
+bs,lovely bay,Lovely Bay,24,,22.6833333,-73.9666667
+bs,lower bogue,Lower Bogue,22,,25.4666667,-76.7166667
+bs,lower deadman's cay,Lower Deadman's Cay,15,,23.1833333,-75.1
+bs,lowe sound,Lowe Sound,32,,25.15,-78.0666667
+bs,lucaya,Lucaya,25,,26.5333333,-78.6666667
+bs,macbride,Macbride,23,,25.0666667,-77.4666667
+bs,majors,Majors,24,,22.6833333,-74.1166667
+bs,mangrove bush,Mangrove Bush,15,,23.1333333,-75.0666667
+bs,mangrove cay,Mangrove Cay,30,,24.25,-77.65
+bs,mangrove cay settlement,Mangrove Cay Settlement,30,,24.25,-77.65
+bs,man of war cay,Man of War Cay,31,,26.6,-77.0
+bs,man of war sound,Man of War Sound,26,,24.55,-77.75
+bs,mars bay,Mars Bay,30,,23.8666667,-77.5166667
+bs,mars bay settlement,Mars Bay Settlement,30,,23.8666667,-77.5166667
+bs,marsh harbor,Marsh Harbor,31,,26.55,-77.05
+bs,marsh harbour,Marsh Harbour,31,5314,26.55,-77.05
+bs,martin town,Martin Town,25,,26.5333333,-78.8
+bs,masons bay,Masons Bay,24,,22.5333333,-73.8833333
+bs,mastic point,Mastic Point,23,,25.05,-77.95
+bs,mastic point settlement,Mastic Point Settlement,23,,25.05,-77.95
+bs,mathew town,Mathew Town,13,,20.95,-73.6666667
+bs,matthew town,Matthew Town,13,452,20.95,-73.6666667
+bs,mc bride,Mc Bride,23,,25.0666667,-77.4666667
+bs,mccanns,McCanns,15,,23.3666667,-75.1666667
+bs,mckanns,McKanns,15,,23.3666667,-75.1666667
+bs,mckenzie,McKenzie,15,,23.0166667,-74.8833333
+bs,mcleans town,McLeans Town,28,,26.6,-77.95
+bs,mcqueens,McQueens,06,,24.1666667,-75.4666667
+bs,mc queens settlement,Mc Queens Settlement,06,,24.1666667,-75.4666667
+bs,michelson,Michelson,10,,23.4833333,-75.7666667
+bs,millar heights,Millar Heights,23,,25.0166667,-77.3833333
+bs,millars,Millars,23,,24.9833333,-77.45
+bs,millars,Millars,33,,24.65,-76.1666667
+bs,miller hill,Miller Hill,33,,24.65,-76.1666667
+bs,miller,Miller,23,,24.9833333,-77.45
+bs,millers hill,Millers Hill,32,,25.1166667,-77.9833333
+bs,millers,Millers,15,,23.4,-75.1666667
+bs,millers,Millers,23,,24.9833333,-77.45
+bs,millerton,Millerton,15,,23.55,-75.25
+bs,millerton settlement,Millerton Settlement,15,,23.55,-75.25
+bs,minns,Minns,26,,24.7,-77.7666667
+bs,mitchison,Mitchison,10,,23.4833333,-75.7666667
+bs,montreal,Montreal,35,,23.9666667,-74.5
+bs,morant bay,Morant Bay,24,,22.4,-74.0333333
+bs,morgan's bluff,Morgan's Bluff,32,,25.1666667,-78.0333333
+bs,mortimers,Mortimers,15,,22.9,-74.8666667
+bs,mortimers settlement,Mortimers Settlement,15,,22.9,-74.8666667
+bs,moss town,Moss Town,06,,24.25,-75.3833333
+bs,moss town,Moss Town,10,,23.5166667,-75.8333333
+bs,moss town,Moss Town,24,,22.8,-74.25
+bs,mount hope,Mount Hope,28,,26.9,-77.7666667
+bs,mount pleasant,Mount Pleasant,23,,25.0166667,-77.5166667
+bs,mount thompson,Mount Thompson,10,,23.5833333,-75.8833333
+bs,mount thompson settlement,Mount Thompson Settlement,10,,23.5833333,-75.8833333
+bs,moxey town,Moxey Town,30,,24.3,-77.6833333
+bs,murphy town,Murphy Town,31,,26.55,-77.1
+bs,nassau city,Nassau City,23,,25.0833333,-77.35
+bs,nassau estate,Nassau Estate,23,,25.0333333,-77.2833333
+bs,nassau,Nassau,23,227936,25.0833333,-77.35
+bs,new bight,New Bight,06,,24.3,-75.4166667
+bs,new bight settlement,New Bight Settlement,06,,24.3,-75.4166667
+bs,new plymouth,New Plymouth,28,,26.8333333,-77.3833333
+bs,new plymouth town,New Plymouth Town,28,,26.8333333,-77.3833333
+bs,new portsmouth,New Portsmouth,33,,24.9,-76.2
+bs,new portsmouth settlement,New Portsmouth Settlement,33,,24.9,-76.2
+bs,nicholls town,Nicholls Town,32,270,25.1333333,-78.0
+bs,nicolls town,Nicolls Town,32,,25.1333333,-78.0
+bs,nicols town,Nicols Town,32,,25.1333333,-78.0
+bs,norman castle,Norman Castle,28,,26.7,-77.4333333
+bs,normans castle,Normans Castle,28,,26.7,-77.4333333
+bs,north palmetto point,North Palmetto Point,27,,25.1666667,-76.1833333
+bs,north palmetto point settlement,North Palmetto Point Settlement,27,,25.1666667,-76.1833333
+bs,old bight,Old Bight,06,,24.25,-75.35
+bs,old grays,Old Grays,15,,23.2166667,-75.0833333
+bs,old place,Old Place,35,,23.9666667,-74.4833333
+bs,o'neils,O'Neils,15,,23.5,-75.2166667
+bs,orange creek,Orange Creek,06,,24.65,-75.7166667
+bs,orange hill,Orange Hill,23,,25.0666667,-77.4833333
+bs,owens town,Owens Town,26,,24.8833333,-78.0333333
+bs,palmetto point,Palmetto Point,27,,25.1666667,-76.1666667
+bs,pelican point,Pelican Point,25,,26.65,-78.0833333
+bs,pelican point settlement,Pelican Point Settlement,25,,26.65,-78.0833333
+bs,philippi settlement,Philippi Settlement,25,,26.4833333,-78.6833333
+bs,pibder point settlement,Pibder Point Settlement,25,,26.4833333,-78.6833333
+bs,pinder point,Pinder Point,25,,26.4833333,-78.6833333
+bs,pinders,Pinders,15,,23.2833333,-75.1
+bs,pinders point,Pinders Point,25,,26.4833333,-78.6833333
+bs,pinefield,Pinefield,24,,22.65,-73.8666667
+bs,pine ridge,Pine Ridge,25,,26.55,-78.7333333
+bs,pinewood gardens estate,Pinewood Gardens Estate,23,,25.0333333,-77.0
+bs,pirates well,Pirates Well,16,217,22.4333333,-73.0666667
+bs,pirate well,Pirate Well,16,,22.4333333,-73.0666667
+bs,pitts town,Pitts Town,24,,22.8,-74.35
+bs,pitts town point,Pitts Town Point,24,,22.8,-74.35
+bs,polly hill,Polly Hill,35,,24.0833333,-74.4333333
+bs,pompey bay,Pompey Bay,24,,22.4,-74.0166667
+bs,port boyd,Port Boyd,35,,23.7,-74.85
+bs,port boyd settlement,Port Boyd Settlement,35,,23.7,-74.85
+bs,port howe,Port Howe,06,,24.15,-75.3166667
+bs,port nelson,Port Nelson,35,91,23.6333333,-74.8333333
+bs,pure gold,Pure Gold,30,,23.9666667,-77.5333333
+bs,quarters,Quarters,35,,24.1,-74.5166667
+bs,ramsey,Ramsey,10,,23.5666667,-75.8666667
+bs,ramsey's,Ramsey's,10,,23.5666667,-75.8666667
+bs,reckley hill,Reckley Hill,35,,24.1,-74.45
+bs,red bay,Red Bay,32,,25.1333333,-78.1833333
+bs,red bay settlement,Red Bay Settlement,32,,25.1333333,-78.1833333
+bs,red bays,Red Bays,32,,25.1333333,-78.1833333
+bs,richmond hill,Richmond Hill,10,,23.5666667,-76.0166667
+bs,richmond hill settlement,Richmond Hill Settlement,10,,23.5666667,-76.0166667
+bs,richmond,Richmond,24,,22.8,-74.3333333
+bs,riding rocks,Riding Rocks,35,,24.0333333,-74.5166667
+bs,roakers,Roakers,06,,24.5166667,-75.5833333
+bs,roberts town,Roberts Town,25,,26.6666667,-78.95
+bs,rock sound,Rock Sound,33,1396,24.9,-76.2
+bs,rokers point settlement,Rokers Point Settlement,10,,23.6166667,-75.9166667
+bs,roker's,Roker's,06,,24.5166667,-75.5833333
+bs,rollesville,Rollesville,10,,23.6833333,-76.0
+bs,rolletown,Rolletown,10,,23.4666667,-75.7
+bs,rolle town,Rolle Town,30,,24.0,-77.55
+bs,rolleville,Rolleville,10,,23.6833333,-76.0
+bs,roses,Roses,15,,22.9833333,-74.8833333
+bs,roses settlement,Roses Settlement,15,,22.9833333,-74.8833333
+bs,roseville,Roseville,10,,23.6833333,-76.0
+bs,russell town,Russell Town,25,,26.5166667,-78.7
+bs,salina point,Salina Point,24,,22.2,-74.25
+bs,salina point settlement,Salina Point Settlement,24,,22.2,-74.25
+bs,salt pond,Salt Pond,15,,23.4166667,-75.1166667
+bs,salt pond settlement,Salt Pond Settlement,15,,23.4166667,-75.1166667
+bs,sam mckinnons,Sam McKinnons,15,,23.4,-75.1833333
+bs,san andros bahama village,San Andros Bahama Village,32,,25.0666667,-78.05
+bs,san andros,San Andros,32,,25.0666667,-78.05
+bs,sandilands village,Sandilands Village,23,,25.05,-77.3166667
+bs,sandy point,Sandy Point,31,,26.0166667,-77.4
+bs,sandy point settlement,Sandy Point Settlement,31,,26.0166667,-77.4
+bs,savannah sound,Savannah Sound,27,,25.1,-76.15
+bs,savannah sound settlement,Savannah Sound Settlement,27,,25.1,-76.15
+bs,savanna sound,Savanna Sound,27,,25.1,-76.15
+bs,scrub hill,Scrub Hill,15,,23.1,-75.0166667
+bs,sea breeze estates,Sea Breeze Estates,23,,25.0166667,-77.3166667
+bs,sea grape,Sea Grape,25,,26.5333333,-78.8166667
+bs,sea grape village,Sea Grape Village,25,,26.5333333,-78.8166667
+bs,seaview settlement,Seaview Settlement,24,,22.8166667,-74.2833333
+bs,self town,Self Town,28,,26.6,-77.95
+bs,seminets,Seminets,26,,24.8666667,-77.9333333
+bs,seymours settlement,Seymours Settlement,15,,23.65,-75.3166667
+bs,seymour's,Seymour's,15,,23.65,-75.3166667
+bs,simms settlement,Simms Settlement,15,,23.4833333,-75.2166667
+bs,simms,Simms,15,,23.4833333,-75.2166667
+bs,smith bay settlement,Smith Bay Settlement,06,,24.3333333,-75.4666667
+bs,smith bay,Smith Bay,06,,24.3333333,-75.4666667
+bs,smith point,Smith Point,25,,26.5,-78.6166667
+bs,smith's hill,Smith's Hill,30,,24.05,-77.5333333
+bs,smiths point settlement,Smiths Point Settlement,25,,26.5,-78.6166667
+bs,snake cay,Snake Cay,31,,26.45,-77.05
+bs,snug corner,Snug Corner,24,407,22.5333333,-73.8833333
+bs,south palmetto point settlement,South Palmetto Point Settlement,27,,25.15,-76.1833333
+bs,south palmetto point,South Palmetto Point,27,,25.15,-76.1722222
+bs,south victoria hill,South Victoria Hill,35,,24.0,-74.4666667
+bs,southwest point,Southwest Point,25,,26.4833333,-78.6833333
+bs,spanish wells settlement,Spanish Wells Settlement,22,,25.55,-76.75
+bs,spanish wells,Spanish Wells,22,,25.55,-76.75
+bs,spring city,Spring City,31,,26.4833333,-77.0833333
+bs,spring point,Spring Point,24,,22.45,-74.0
+bs,stafford creek,Stafford Creek,26,,24.8833333,-77.9
+bs,stafford,Stafford,26,,24.8833333,-77.9
+bs,staniard creek settlement,Staniard Creek Settlement,26,,24.8333333,-77.8833333
+bs,staniard creek,Staniard Creek,26,,24.8333333,-77.8833333
+bs,stanyard creek,Stanyard Creek,26,,24.8333333,-77.8833333
+bs,stapleton gardens,Stapleton Gardens,23,,25.05,-77.3666667
+bs,stella maris,Stella Maris,15,,23.6,-75.3
+bs,stepentown,Stepentown,10,,23.65,-75.95
+bs,stephenson settlement,Stephenson Settlement,06,,24.4333333,-75.5333333
+bs,stephenson,Stephenson,06,,24.4333333,-75.5333333
+bs,stephentown,Stephentown,10,,23.65,-75.95
+bs,stevens,Stevens,15,,23.0833333,-75.0166667
+bs,stevenston,Stevenston,10,,23.65,-75.95
+bs,steventon,Steventon,10,,23.65,-75.95
+bs,stuart manor,Stuart Manor,10,,23.6333333,-76.0
+bs,sugar loaf,Sugar Loaf,35,,23.65,-74.5166667
+bs,sweeting cay,Sweeting Cay,28,483,26.6,-77.8833333
+bs,sweeting's cay settlement,Sweeting's Cay Settlement,28,,26.6,-77.8833333
+bs,sweetings village,Sweetings Village,31,,26.35,-77.0333333
+bs,taits,Taits,15,,22.9833333,-74.8833333
+bs,tarpum bay settlement,Tarpum Bay Settlement,27,,24.9666667,-76.1833333
+bs,tarpum bay,Tarpum Bay,27,,24.9666667,-76.1833333
+bs,tasculum,Tasculum,23,,25.0666667,-77.4833333
+bs,tatnall,Tatnall,15,,23.4833333,-75.2
+bs,tea bay settlement,Tea Bay Settlement,06,,24.4,-75.5166667
+bs,tea bay,Tea Bay,06,,24.4,-75.5166667
+bs,the bight settlement,The Bight Settlement,06,,24.3166667,-75.4
+bs,the bight,The Bight,06,,24.3166667,-75.4
+bs,the bight,The Bight,34,,26.3,-77.55
+bs,the bluff settlement see the bluff,The Bluff Settlement see The Bluff,22,,25.5,-76.7333333
+bs,the bluff,The Bluff,22,,25.5,-76.7333333
+bs,the bluff,The Bluff,30,,24.1166667,-77.55
+bs,the charlton,The Charlton,16,,22.3666667,-72.9666667
+bs,the current,The Current,22,,25.4333333,-76.7833333
+bs,the ferry settlement,The Ferry Settlement,10,,23.45,-75.5666667
+bs,the forest,The Forest,10,,23.5833333,-75.9166667
+bs,the lot settlement,The Lot Settlement,06,,24.6333333,-75.6833333
+bs,the lot,The Lot,06,,24.6333333,-75.6833333
+bs,the rock cay,The Rock Cay,31,,26.2833333,-77.0333333
+bs,the village,The Village,06,,24.25,-75.4
+bs,thomas town,Thomas Town,25,,26.65,-78.9666667
+bs,thurston hill,Thurston Hill,06,,24.5333333,-75.6333333
+bs,trial farm,Trial Farm,35,,23.9666667,-74.4833333
+bs,true blue,True Blue,24,,22.0666667,-74.0666667
+bs,turnbull,Turnbull,15,,23.0833333,-75.0166667
+bs,tusculum,Tusculum,23,,25.0666667,-77.4833333
+bs,twin lakes,Twin Lakes,26,,24.7166667,-77.9833333
+bs,united estates,United Estates,35,,24.1,-74.45
+bs,upper bogue,Upper Bogue,22,,25.45,-76.6666667
+bs,victoria hill,Victoria Hill,35,,24.0333333,-74.4666667
+bs,victoria village,Victoria Village,15,,23.0833333,-74.95
+bs,vincent town,Vincent Town,25,,26.6666667,-78.95
+bs,water cay settlement,Water Cay Settlement,25,,26.75,-78.5
+bs,water cay,Water Cay,25,,26.75,-78.5
+bs,waterford settlement,Waterford Settlement,33,,24.75,-76.2333333
+bs,waterford,Waterford,33,,24.75,-76.2333333
+bs,waterloo,Waterloo,23,,25.0333333,-77.5333333
+bs,wemyss bight,Wemyss Bight,33,,24.75,-76.25
+bs,wemyss's bight,Wemyss's Bight,33,,24.75,-76.25
+bs,wemyss settlement,Wemyss Settlement,33,,24.75,-76.25
+bs,wemyss,Wemyss,15,,23.4166667,-75.1833333
+bs,wemyss,Wemyss,33,,24.75,-76.25
+bs,west end settlement,West End Settlement,25,,26.6833333,-78.9666667
+bs,west end,West End,25,,26.6833333,-78.9666667
+bs,west waterloo,West Waterloo,23,,25.0333333,-77.5333333
+bs,whitehouse,Whitehouse,15,,23.4,-75.1666667
+bs,whymms bight,Whymms Bight,33,,24.75,-76.25
+bs,william hope,William Hope,24,,22.8,-74.35
+bs,william's town,William's Town,10,,23.4166667,-75.55
+bs,williams town,Williams Town,25,,26.4833333,-78.6666667
+bs,william town,William Town,10,,23.4166667,-75.55
+bs,wilson city,Wilson City,31,,26.3666667,-77.0333333
+bs,windermere,Windermere,27,,25.1,-76.15
+bs,winton heights,Winton Heights,23,,25.0333333,-77.2666667
+bs,winton meadows,Winton Meadows,23,,25.0333333,-77.2666667
+bs,winton,Winton,23,,25.05,-77.2833333
+bs,wood cay settlement,Wood Cay Settlement,28,,26.9,-77.7333333
+bs,wood cay,Wood Cay,28,,26.9,-77.7333333
+bs,yamacraw beach estate,Yamacraw Beach Estate,23,,25.0333333,-77.2833333
+bs,zanicles settlement,Zanicles Settlement,06,,24.1333333,-75.3666667
+bs,zion hill,Zion Hill,06,,24.6166667,-75.65
+bs,zonicles,Zonicles,06,,24.1333333,-75.3666667

@@ -1,0 +1,56 @@
+ck,amuri,Amuri,00,285,-18.8538889,-159.7963889
+ck,areora,Areora,00,,-20.0066667,-158.1122222
+ck,arorangi,Arorangi,00,,-21.2316667,-159.8277778
+ck,arutanga,Arutanga,00,,-18.8686111,-159.8
+ck,arutunga,Arutunga,00,,-18.8686111,-159.8
+ck,avarua,Avarua,00,13374,-21.2077778,-159.775
+ck,avatiu,Avatiu,00,,-21.2055556,-159.7866667
+ck,home,Home,00,,-18.0608333,-163.1933333
+ck,ivirua,Ivirua,00,,-21.9177778,-157.8986111
+ck,ivirua village,Ivirua Village,00,,-21.9177778,-157.8986111
+ck,karanga village,Karanga Village,00,,-21.9083333,-157.905
+ck,kaumata village,Kaumata Village,00,,-21.9247222,-157.965
+ck,kimiangatau village,Kimiangatau Village,00,,-20.1466667,-157.35
+ck,mangarei village,Mangarei Village,00,,-19.6972222,-157.7166667
+ck,mapumai,Mapumai,00,,-19.9877778,-158.1188889
+ck,matavera,Matavera,00,,-21.2244444,-159.7333333
+ck,muri,Muri,00,,-21.2566667,-159.7319444
+ck,natikitea,Natikitea,00,,-20.0166667,-158.1166667
+ck,ngatangiia,Ngatangiia,00,,-21.2402778,-159.7291667
+ck,ngatiarua,Ngatiarua,00,,-19.9986111,-158.1333333
+ck,nikao,Nikao,00,,-21.2066667,-159.8094444
+ck,nikaupara,Nikaupara,00,,-18.87,-159.8033333
+ck,nukatere,Nukatere,00,,-19.8166667,-157.7166667
+ck,nukuao,Nukuao,00,,-20.1333333,-157.3666667
+ck,omoka,Omoka,00,180,-8.9816667,-158.0605556
+ck,omoko,Omoko,00,,-8.9816667,-158.0605556
+ck,oneroa,Oneroa,00,,-21.92,-157.9602778
+ck,palmerston island village,Palmerston Island Village,00,,-18.0608333,-163.1933333
+ck,palmerston,Palmerston,00,,-18.0608333,-163.1933333
+ck,papaolematuu,Papaolematuu,00,,-13.8333333,-172.0833333
+ck,papapapaitai,Papapapaitai,00,,-13.9333333,-171.75
+ck,papapapaiuta,Papapapaiuta,00,,-13.9333333,-171.75
+ck,pue,Pue,00,,-21.2047222,-159.7583333
+ck,reureu,Reureu,00,,-18.8669444,-159.8011111
+ck,roto,Roto,00,74,-10.8833333,-165.8333333
+ck,tamarua,Tamarua,00,,-21.9530556,-157.925
+ck,tamarua village,Tamarua Village,00,,-21.9530556,-157.925
+ck,tauhunu,Tauhunu,00,69,-10.425,-161.0352778
+ck,tauhunu village,Tauhunu Village,00,,-10.425,-161.0352778
+ck,tautua,Tautua,00,,-8.9602778,-157.9311111
+ck,tautu,Tautu,00,,-18.88,-159.7816667
+ck,tava'enga village,Tava'enga Village,00,,-21.9186111,-157.96
+ck,teenui,Teenui,00,,-19.9869444,-158.1291667
+ck,te enui,Te Enui,00,,-19.9869444,-158.1291667
+ck,temakatea village,Temakatea Village,00,,-21.92,-157.9602778
+ck,tengatangi,Tengatangi,00,,-19.9991667,-158.1155556
+ck,tengatangi village,Tengatangi Village,00,,-19.9991667,-158.1155556
+ck,te tautua,Te Tautua,00,,-8.9602778,-157.9311111
+ck,titikaveka,Titikaveka,00,,-21.2719444,-159.755
+ck,titikaweka,Titikaweka,00,,-21.2719444,-159.755
+ck,toamua,Toamua,00,,-13.8,-171.7833333
+ck,tukao,Tukao,00,,-10.3763889,-160.0116667
+ck,tuko,Tuko,00,,-10.3763889,-160.0116667
+ck,tuko village,Tuko Village,00,,-10.3763889,-160.0116667
+ck,vaipae,Vaipae,00,,-18.8713889,-159.7811111
+ck,village,Village,00,,-18.0608333,-163.1933333

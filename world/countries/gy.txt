@@ -1,0 +1,626 @@
+gy,abary,Abary,15,,6.55,-57.75
+gy,achiwib,Achiwib,19,,2.3,-59.5833333
+gy,achiwuib village,Achiwuib Village,19,,2.3,-59.5833333
+gy,acquero,Acquero,10,,7.65,-58.9333333
+gy,adelair,Adelair,19,,2.1333333,-59.6333333
+gy,adventure,Adventure,16,,7.0833333,-58.4833333
+gy,agricola village,Agricola Village,12,,6.4666667,-58.1666667
+gy,aishalton,Aishalton,19,,2.5166667,-59.25
+gy,aishalton village,Aishalton Village,19,,2.5166667,-59.25
+gy,ajimipepai,Ajimipepai,11,,5.9,-60.5666667
+gy,akar,Akar,11,,5.6833333,-60.3166667
+gy,akar village,Akar Village,11,,5.6833333,-60.3166667
+gy,akawini mission,Akawini Mission,16,,7.3666667,-58.7333333
+gy,akwero,Akwero,10,,7.65,-58.9333333
+gy,alberttown,Alberttown,12,,6.8166667,-58.15
+gy,albouystown,Albouystown,12,,6.8,-58.1666667
+gy,alexander village,Alexander Village,12,,6.8,-58.1666667
+gy,alexanderville,Alexanderville,12,,6.8333333,-58.15
+gy,alnes,Alnes,13,,6.2,-57.2833333
+gy,alness,Alness,13,,6.2,-57.2833333
+gy,altora village,Altora Village,19,,2.4833333,-59.1666667
+gy,amamure village,Amamure Village,11,,6.8,-60.0166667
+gy,amamuri village,Amamuri Village,11,,6.8,-60.0166667
+gy,amazon,Amazon,16,,7.3833333,-58.5833333
+gy,ambrose village,Ambrose Village,19,,3.0333333,-59.7666667
+gy,amokokopai village,Amokokopai Village,11,,5.3833333,-60.3
+gy,ampa,Ampa,14,,6.5,-58.5833333
+gy,amstel,Amstel,14,,6.8333333,-58.25
+gy,anna catherina,Anna Catherina,14,,6.7666667,-58.2666667
+gy,annai,Annai,19,,3.95,-59.1333333
+gy,anwai,Anwai,19,,3.95,-59.1333333
+gy,apanachi,Apanachi,11,,5.65,-59.2166667
+gy,apoteri,Apoteri,19,,4.0333333,-58.5833333
+gy,aqueero,Aqueero,10,,7.65,-58.9333333
+gy,arakaka,Arakaka,10,,7.5833333,-60.0166667
+gy,arakwai outstation,Arakwai Outstation,19,,2.7666667,-59.4833333
+gy,arau village,Arau Village,11,,6.4166667,-61.1333333
+gy,arawai village,Arawai Village,11,,6.3166667,-61.1666667
+gy,arnik village,Arnik Village,17,,5.0166667,-59.5333333
+gy,assura village,Assura Village,11,,5.8166667,-59.65
+gy,atamadpau,Atamadpau,19,,3.0,-59.7166667
+gy,attai,Attai,18,,5.0833333,-58.5166667
+gy,attai village,Attai Village,18,,5.0833333,-58.5166667
+gy,aunama,Aunama,11,,7.15,-60.0833333
+gy,aunama village,Aunama Village,11,,7.15,-60.0833333
+gy,aurora,Aurora,11,,6.8,-59.75
+gy,aurora,Aurora,16,,7.0,-58.5
+gy,awarabati,Awarabati,11,,6.8,-60.8
+gy,awariwaunau,Awariwaunau,19,,2.6666667,-59.2
+gy,awaruwaunawa,Awaruwaunawa,19,,2.6666667,-59.2
+gy,bagotstown,Bagotstown,12,,6.7833333,-58.1666667
+gy,baiabu,Baiabu,15,,6.55,-57.8833333
+gy,banakari,Banakari,14,,6.6166667,-58.6166667
+gy,barabara,Barabara,15,,6.55,-57.8833333
+gy,barabina hill,Barabina Hill,10,,8.2166667,-59.8
+gy,barakara,Barakara,11,,6.3833333,-58.6666667
+gy,barakara,Barakara,13,,5.85,-57.4666667
+gy,barakara mission,Barakara Mission,13,,5.85,-57.4666667
+gy,baramani,Baramani,10,,7.8333333,-59.2166667
+gy,baramanna,Baramanna,10,,7.8333333,-59.2166667
+gy,baramanni,Baramanni,10,,7.8333333,-59.2166667
+gy,baramita,Baramita,10,,7.35,-60.4833333
+gy,barimanni,Barimanni,10,,7.8333333,-59.2166667
+gy,barteke,Barteke,11,,6.4,-58.6166667
+gy,bartica,Bartica,11,11159,6.4,-58.6166667
+gy,bartica,Bartica,13,,5.7833333,-57.6333333
+gy,basha village,Basha Village,19,,3.3333333,-59.8
+gy,bel air,Bel Air,12,,6.8333333,-58.1333333
+gy,bel air,Bel Air,15,,6.3166667,-57.55
+gy,bel air gardens,Bel Air Gardens,12,,6.8333333,-58.1333333
+gy,bel air park,Bel Air Park,12,,6.8166667,-58.1333333
+gy,bel air springs,Bel Air Springs,12,,6.8333333,-58.1333333
+gy,belfield,Belfield,12,,6.7333333,-57.9666667
+gy,belfield village,Belfield Village,12,,6.7333333,-57.9666667
+gy,belladrum,Belladrum,15,,6.5166667,-57.7
+gy,berebisibali,Berebisibali,14,,6.6666667,-58.5666667
+gy,berebisiballi,Berebisiballi,14,,6.6666667,-58.5666667
+gy,beribissibali,Beribissibali,14,,6.6666667,-58.5666667
+gy,beribissiballi,Beribissiballi,14,,6.6666667,-58.5666667
+gy,berks,Berks,16,,7.4,-58.5666667
+gy,beterverwagting,Beterverwagting,12,,6.8,-58.0666667
+gy,bethany,Bethany,14,,6.8,-58.6
+gy,bethany,Bethany,16,,6.9666667,-58.5833333
+gy,biabu,Biabu,15,,6.55,-57.8833333
+gy,big baiabo,Big Baiabo,15,,6.55,-57.8833333
+gy,big baiabu,Big Baiabu,15,,6.55,-57.8833333
+gy,big biaboo,Big Biaboo,15,,6.55,-57.8833333
+gy,big biabu,Big Biabu,15,,6.55,-57.8833333
+gy,big diamond,Big Diamond,12,,6.7166667,-58.1833333
+gy,biloku,Biloku,19,,1.7666667,-58.55
+gy,blairmont,Blairmont,15,,6.25,-57.55
+gy,blairmont place,Blairmont Place,15,,6.25,-57.55
+gy,blygezight,Blygezight,12,,6.8166667,-58.1333333
+gy,blygezight gardens,Blygezight Gardens,12,,6.8333333,-58.1333333
+gy,bom sucesso,Bom Sucesso,19,,3.3833333,-59.8
+gy,bon success,Bon Success,19,,3.3833333,-59.8
+gy,bounty hall,Bounty Hall,16,,7.3666667,-58.5166667
+gy,bourda,Bourda,12,,6.8166667,-58.15
+gy,brandwagt-sari,Brandwagt-Sari,13,,5.9833333,-57.6333333
+gy,brighton,Brighton,13,,6.15,-57.2166667
+gy,burisanawa village,Burisanawa Village,19,,2.35,-59.35
+gy,bush lot,Bush Lot,13,,6.2166667,-57.2666667
+gy,bush lot,Bush Lot,15,,6.4,-57.6
+gy,bush lot village,Bush Lot Village,13,,6.2166667,-57.2666667
+gy,butakari,Butakari,11,,5.75,-58.6166667
+gy,butukari,Butukari,11,,5.75,-58.6166667
+gy,buxton,Buxton,12,,6.7833333,-58.0333333
+gy,cajueiro,Cajueiro,19,,3.8,-59.4
+gy,caledonia,Caledonia,14,,7.0,-58.4333333
+gy,campbellville,Campbellville,12,,6.8166667,-58.1333333
+gy,canefield,Canefield,13,,6.2333333,-57.4833333
+gy,cane grove,Cane Grove,12,,6.6166667,-57.9166667
+gy,capoey,Capoey,16,,7.2,-58.4333333
+gy,charity,Charity,16,,7.4,-58.6
+gy,charlestown,Charlestown,12,,6.8166667,-58.1666667
+gy,chenapowu village,Chenapowu Village,17,,4.9166667,-59.5666667
+gy,chinese landing,Chinese Landing,10,,7.5166667,-59.55
+gy,christianburg,Christianburg,18,,6.0166667,-58.3166667
+gy,clonbrook,Clonbrook,12,,6.7333333,-57.9333333
+gy,cockatara village,Cockatara Village,18,,6.0,-58.3
+gy,coomacka,Coomacka,18,,5.5666667,-57.9166667
+gy,courida park,Courida Park,12,,6.8166667,-58.1
+gy,crabwood creek,Crabwood Creek,13,,5.85,-57.15
+gy,craig,Craig,12,,6.6833333,-58.1666667
+gy,cummingsburg,Cummingsburg,12,,6.8166667,-58.1666667
+gy,dadanawa,Dadanawa,19,,2.8333333,-59.5166667
+gy,dalli,Dalli,14,,6.4833333,-58.5833333
+gy,danielstown,Danielstown,16,,7.3,-58.4833333
+gy,dartmouth,Dartmouth,16,,7.3666667,-58.5
+gy,dawa,Dawa,16,,7.2,-58.6
+gy,de jonge rachael,De Jonge Rachael,14,,6.7,-58.2
+gy,de kinderen,De Kinderen,12,,6.6333333,-57.8333333
+gy,de kindern,De Kindern,12,,6.6333333,-57.8333333
+gy,demerara,Demerara,12,,6.8,-58.1666667
+gy,den amstel,Den Amstel,14,,6.8333333,-58.25
+gy,den amstel village,Den Amstel Village,14,,6.8333333,-58.25
+gy,de vigilante,De Vigilante,15,,5.85,-57.7
+gy,diamond,Diamond,12,,6.7166667,-58.1833333
+gy,diamond place,Diamond Place,12,,6.7166667,-58.1833333
+gy,dukestown,Dukestown,13,,5.9,-57.1333333
+gy,durung bang,Durung Bang,16,,7.25,-58.8833333
+gy,ebini downs,Ebini Downs,18,,5.6666667,-57.7833333
+gy,ebini,Ebini,18,,5.6666667,-57.7833333
+gy,ekereku,Ekereku,11,,6.4666667,-60.8333333
+gy,elizabeth,Elizabeth,14,,6.9166667,-58.4333333
+gy,enachu,Enachu,11,,6.15,-60.0333333
+gy,enachu landing,Enachu Landing,11,,6.15,-60.0333333
+gy,enachu station,Enachu Station,11,,6.15,-60.0333333
+gy,enaruko village,Enaruko Village,17,,4.5666667,-59.6666667
+gy,enmore,Enmore,12,,6.7666667,-57.9833333
+gy,enterprise,Enterprise,14,,6.9333333,-58.4
+gy,epira,Epira,13,,5.1333333,-57.3333333
+gy,epira mission,Epira Mission,13,,5.1333333,-57.3333333
+gy,espera,Espera,13,,5.1333333,-57.3333333
+gy,eupukari,Eupukari,19,,3.6666667,-59.35
+gy,eurowa,Eurowa,16,,7.4,-58.6
+gy,fear not,Fear Not,16,,7.3,-58.4833333
+gy,first savannah,First Savannah,15,,6.3833333,-57.7833333
+gy,five star,Five Star,10,,7.6,-60.3666667
+gy,five star landing,Five Star Landing,10,,7.6,-60.3666667
+gy,five stars,Five Stars,10,,7.6,-60.3666667
+gy,fort wellington,Fort Wellington,15,2253,6.4,-57.6
+gy,fredericksburg,Fredericksburg,14,,6.95,-58.4333333
+gy,fyrish,Fyrish,13,,6.2833333,-57.3833333
+gy,fyrish village,Fyrish Village,13,,6.2833333,-57.3833333
+gy,georgetown,Georgetown,12,235017,6.8,-58.1666667
+gy,glasgow,Glasgow,12,,6.5166667,-58.2833333
+gy,glasgow village,Glasgow Village,12,,6.5166667,-58.2833333
+gy,gns kimbia,GNS Kimbia,18,,5.6166667,-57.7333333
+gy,golden fleece,Golden Fleece,16,,7.15,-58.4833333
+gy,golden fleece plantation,Golden Fleece Plantation,16,,7.15,-58.4833333
+gy,golden grove,Golden Grove,12,,6.7166667,-58.1833333
+gy,goldspie,Goldspie,13,,6.1,-57.2
+gy,good hope,Good Hope,13,,6.1,-57.2
+gy,good hope,Good Hope,19,,3.8666667,-59.5833333
+gy,good intent,Good Intent,12,,6.7166667,-58.2
+gy,gordon table,Gordon Table,15,,6.3833333,-57.7833333
+gy,governor light,Governor Light,15,,6.45,-57.7833333
+gy,grahams hall,Grahams Hall,12,,6.8333333,-58.0833333
+gy,grass hook,Grass Hook,15,,6.5333333,-57.9166667
+gy,great diamond,Great Diamond,12,,6.7166667,-58.1833333
+gy,hai maruni,Hai Maruni,12,,6.4,-58.2666667
+gy,hart,Hart,19,,3.75,-59.5833333
+gy,hawkins mission,Hawkins Mission,19,,3.4833333,-59.55
+gy,helena,Helena,15,,6.6833333,-57.9166667
+gy,helena number two,Helena Number Two,15,,6.7,-57.9333333
+gy,hiawa,Hiawa,19,,3.4,-59.6333333
+gy,hitia,Hitia,18,,5.8,-57.75
+gy,hittia settlement,Hittia Settlement,18,,5.8,-57.75
+gy,hobediah,Hobediah,10,,7.9666667,-59.8166667
+gy,hoff van aurich,Hoff Van Aurich,16,,7.1833333,-58.4833333
+gy,holmia,Holmia,17,,4.9666667,-59.5833333
+gy,hooboo,Hooboo,14,,6.8166667,-58.4666667
+gy,hopetown,Hopetown,14,,6.5333333,-58.2833333
+gy,hopetown,Hopetown,15,,6.3833333,-57.6166667
+gy,hororabo,Hororabo,11,,6.2833333,-58.7333333
+gy,hosororo,Hosororo,10,,8.1666667,-59.8
+gy,hossororo,Hossororo,10,,8.1666667,-59.8
+gy,hotakwai,Hotakwai,10,,8.0166667,-59.8166667
+gy,houston,Houston,12,,6.8,-58.1666667
+gy,hubu,Hubu,14,,6.8166667,-58.4666667
+gy,hururu,Hururu,18,,5.3666667,-58.0
+gy,hyde park,Hyde Park,12,,6.5,-58.2666667
+gy,iguapa,Iguapa,10,,7.4,-59.2666667
+gy,igupa village,Igupa Village,10,,7.4,-59.2666667
+gy,illimir village,Illimir Village,19,,2.2666667,-59.45
+gy,imbaimadai,Imbaimadai,11,,5.7,-60.2833333
+gy,imprenza,Imprenza,19,,3.1333333,-59.8333333
+gy,ipichau,Ipichau,17,,4.8833333,-60.0166667
+gy,ipishau,Ipisháu,17,,4.8833333,-60.0166667
+gy,ipisiau village,Ipisiau Village,17,,4.8833333,-60.0166667
+gy,ipotaikuru,Ipotaikuru,10,,7.4333333,-59.6
+gy,ishalton,Ishalton,19,,2.5166667,-59.25
+gy,isherton,Isherton,19,,2.3166667,-59.3666667
+gy,islington,Islington,13,,6.2166667,-57.5166667
+gy,issano,Issano,11,,5.8166667,-59.4166667
+gy,isseneru village,Isseneru Village,11,,6.4666667,-60.3333333
+gy,issororo,Issororo,10,,8.1666667,-59.8
+gy,issororo,Issororo,16,,7.25,-58.8833333
+gy,itabac,Itabac,17,,4.6,-60.1
+gy,itoni township,Itoni Township,18,,5.5333333,-58.25
+gy,ituni,Ituni,18,4567,5.5333333,-58.25
+gy,ituni townsite,Ituni Townsite,18,,5.5333333,-58.25
+gy,jacaretinga,Jacaretinga,19,,3.5166667,-59.6666667
+gy,jacoba,Jacoba,15,,6.45,-57.6666667
+gy,jakaretinga,Jakaretinga,19,,3.5166667,-59.6666667
+gy,java,Java,13,,6.1333333,-57.2
+gy,joanna,Joanna,13,,6.0833333,-57.2666667
+gy,johi,Johi,19,,1.85,-58.5333333
+gy,johi village,Johi Village,19,,1.85,-58.5333333
+gy,juanita,Juanita,10,,7.95,-60.2166667
+gy,kaibarupai village,Kaibarupai Village,19,,3.5666667,-59.8666667
+gy,kaikan,Kaikan,11,,6.1833333,-61.1333333
+gy,kaituma,Kaituma,10,,7.7333333,-59.8833333
+gy,kalacoon,Kalacoon,11,,6.4,-58.65
+gy,kalakoon house,Kalakoon House,11,,6.4,-58.65
+gy,kalakun,Kalakun,11,,6.4,-58.65
+gy,kalkoon,Kalkoon,11,,6.4,-58.65
+gy,kalkuni,Kalkuni,18,,5.55,-57.9166667
+gy,kamana village,Kamana Village,17,,4.8333333,-59.9333333
+gy,kamarang,Kamarang,11,,5.8666667,-60.6166667
+gy,kamaria,Kamaria,11,,6.4166667,-58.7666667
+gy,kamuda,Kamuda,11,,5.6333333,-60.3
+gy,kamuda village,Kamuda Village,11,,5.6333333,-60.3
+gy,kamwatta hill,Kamwatta Hill,10,,8.1166667,-59.85
+gy,kanapang village,Kanapang Village,17,,4.5333333,-60.1333333
+gy,karanambo,Karanambo,19,,3.75,-59.3
+gy,karasabai,Karasabai,19,,4.0333333,-59.5333333
+gy,karasabai village,Karasabai Village,19,,4.0333333,-59.5333333
+gy,karaudanawa,Karaudanawa,13,,2.4666667,-59.4333333
+gy,karia,Karia,14,,6.8333333,-58.5833333
+gy,kariakaria,Kariakaria,14,,6.8333333,-58.5833333
+gy,kariakau,Kariakau,10,,7.3666667,-59.7
+gy,kariaku,Kariaku,10,,7.3666667,-59.7
+gy,karisparu village,Karisparu Village,17,,4.9166667,-59.45
+gy,karto,Karto,17,,4.6666667,-59.8166667
+gy,kataliriwau outstation,Kataliriwau Outstation,19,,2.8166667,-59.25
+gy,kato,Kato,17,,4.6666667,-59.8166667
+gy,kato village,Kato Village,17,,4.6666667,-59.8166667
+gy,kaywaek,Kaywaek,11,,5.9333333,-60.6333333
+gy,kaywaek village,Kaywaek Village,11,,5.9333333,-60.6333333
+gy,keweigek,Keweigek,11,,5.9333333,-60.6333333
+gy,kingston,Kingston,12,,6.8166667,-58.1666667
+gy,kitty,Kitty,12,,6.8166667,-58.1333333
+gy,kitty village,Kitty Village,12,,6.8166667,-58.1333333
+gy,klip,Klip,11,,6.3833333,-58.6666667
+gy,kokadai,Kokadai,11,,5.75,-60.5666667
+gy,kokatara village,Kokatara Village,18,,6.0,-58.3
+gy,kokerite,Kokerite,10,,7.3333333,-59.5666667
+gy,kokerit,Kokerit,10,,7.3333333,-59.5666667
+gy,kokerit landing,Kokerit Landing,10,,7.3333333,-59.5666667
+gy,konashen,Konashen,19,,1.5666667,-58.6833333
+gy,konora village,Konora Village,10,,7.25,-60.0166667
+gy,konoro village,Konoro Village,10,,7.25,-60.0166667
+gy,kopinang mission,Kopinang Mission,17,,4.9333333,-59.8
+gy,koriabo,Koriabo,10,,7.6166667,-59.6333333
+gy,kotoewau,Kotoewau,19,,2.3,-59.15
+gy,kowaeng,Kowaeng,11,,5.65,-60.3
+gy,kowaeng village,Kowaeng Village,11,,5.65,-60.3
+gy,kukuieng,Kukuieng,17,,4.5833333,-59.6666667
+gy,kukui-eng village,Kukui-Eng Village,17,,4.5833333,-59.6666667
+gy,kumaka,Kumaka,10,,7.65,-58.95
+gy,kumaka,Kumaka,18,,5.5666667,-57.9166667
+gy,kumu village,Kumu Village,19,,3.3333333,-59.8
+gy,kurachi,Kurachi,11,,6.8833333,-60.2666667
+gy,kurikebaru,Kurikebaru,17,,4.75,-59.8833333
+gy,kurikebary,Kurikebary,17,,4.75,-59.8833333
+gy,kurukabaru,Kurukabaru,17,,4.75,-59.8833333
+gy,kurukabaru village,Kurukabaru Village,17,,4.75,-59.8833333
+gy,kurukuru-baibari,Kurukuru-Baibari,19,,1.7333333,-58.6166667
+gy,kurutuku village,Kurutuku Village,11,,6.9,-60.3
+gy,kwabanna,Kwabanna,10,,7.5666667,-59.15
+gy,kwaimatta,Kwaimatta,19,,3.8166667,-59.3333333
+gy,kwaimatta village,Kwaimatta Village,19,,3.8166667,-59.3333333
+gy,kwaiwatta village,Kwaiwatta Village,19,,3.8166667,-59.3333333
+gy,kwakwani,Kwakwani,18,,5.2833333,-58.05
+gy,kwamatta,Kwamatta,19,,3.8166667,-59.3333333
+gy,kwatata,Kwatata,19,,3.6333333,-59.5
+gy,kwiokrebaru,Kwiokrebaru,11,,6.0166667,-60.65
+gy,lacytown,Lacytown,12,,6.8166667,-58.1666667
+gy,la grange,La Grange,12,,6.7833333,-58.2
+gy,la juanita,La Juanita,10,,7.95,-60.2166667
+gy,lamaha gardens,Lamaha Gardens,12,,6.8166667,-58.1333333
+gy,lanaballi,Lanaballi,14,,6.6,-58.5666667
+gy,lancaster,Lancaster,18,,5.8333333,-58.25
+gy,land of canaan,Land of Canaan,12,,6.6,-58.2
+gy,la penitence,La Penitence,12,,6.8,-58.15
+gy,leeds,Leeds,13,,6.05,-57.1666667
+gy,lesbeholden,Lesbeholden,13,,6.15,-57.3
+gy,lethem,Lethem,19,716,3.3833333,-59.8
+gy,lethen,Lethen,19,,3.3833333,-59.8
+gy,lichfield,Lichfield,15,,6.4833333,-57.65
+gy,linden,Linden,18,44690,6.0,-58.3
+gy,lodge,Lodge,12,,6.8166667,-58.1333333
+gy,lodge village,Lodge Village,12,,6.8166667,-58.1333333
+gy,lorenza,Lorenza,14,,6.7,-58.2
+gy,louisiana,Louisiana,14,,6.9,-58.4333333
+gy,lower kamaria,Lower Kamaria,11,,6.4166667,-58.7666667
+gy,lowood,Lowood,12,,6.4,-58.2666667
+gy,low wood,Low Wood,12,,6.4,-58.2666667
+gy,lumidpau,Lumidpau,19,,2.4,-59.4833333
+gy,mabaruma,Mabaruma,10,717,8.2,-59.7833333
+gy,macaw,Macaw,13,,6.0833333,-57.5833333
+gy,macdonald,MacDonald,19,,3.5166667,-59.55
+gy,machabo,Machabo,16,,7.05,-58.55
+gy,mackenzie,Mackenzie,18,,6.0,-58.2833333
+gy,macusi village,Macusi Village,19,,3.0666667,-59.7166667
+gy,mahaica village,Mahaica Village,15,,6.6833333,-57.9166667
+gy,mahaicony,Mahaicony,15,2130,6.55,-57.8
+gy,mahaicony village,Mahaicony Village,15,,6.55,-57.8
+gy,mahdia,Mahdia,17,,5.2666667,-59.15
+gy,makari,Makari,17,,4.55,-58.55
+gy,makouria,Makouria,14,,6.4666667,-58.5833333
+gy,malali,Malali,18,,5.6166667,-58.35
+gy,mamir pawa,Mamir Pawa,19,,1.9666667,-59.7333333
+gy,manaka,Manaka,14,,6.7,-58.6166667
+gy,manari,Manari,10,,7.5166667,-59.8333333
+gy,manari,Manari,19,,3.4333333,-59.7666667
+gy,manari village,Manari Village,10,,7.5166667,-59.8333333
+gy,manawarin,Manawarin,10,,7.5833333,-58.8666667
+gy,marakanata,Marakanata,19,,3.6,-59.55
+gy,maria johanna,Maria Johanna,14,,6.9333333,-58.4666667
+gy,mariwa village,Mariwa Village,19,,3.05,-59.6666667
+gy,marlborough,Marlborough,16,,7.4833333,-58.6333333
+gy,martins burial ground,Martins Burial Ground,12,,6.5333333,-57.8833333
+gy,maruranau,Maruranau,19,,2.75,-59.1666667
+gy,maruranawa,Maruranawa,19,,2.75,-59.1666667
+gy,marurawaunawa,Marurawaunawa,19,,2.75,-59.1666667
+gy,marurawaunawa village,Marurawaunawa Village,19,,2.75,-59.1666667
+gy,masabona,Masabona,18,,5.6,-58.3833333
+gy,massara,Massara,19,,3.9,-59.3
+gy,massara village,Massara Village,19,,3.9,-59.3
+gy,matthews ridge,Matthews Ridge,10,,7.5,-60.1666667
+gy,mcdoom village,McDoom Village,14,,6.7833333,-58.1833333
+gy,mckenzie,McKenzie,18,,6.0,-58.2833333
+gy,mcturk,McTurk,19,,3.8,-59.4
+gy,meadow bank,Meadow Bank,14,,6.8,-58.1833333
+gy,melville,Melville,14,,6.9666667,-58.4666667
+gy,melvilles ranch,Melvilles Ranch,19,,2.8333333,-59.5166667
+gy,meritizero,Meritizero,19,,3.75,-59.5833333
+gy,meruwang,Meruwang,11,,5.8166667,-61.0
+gy,mibikuri,Mibikuri,13,,6.1166667,-57.2833333
+gy,minata,Minata,11,,5.95,-60.6
+gy,mission landing,Mission Landing,10,,7.75,-59.8666667
+gy,moco-moco,Moco-Moco,19,,3.3333333,-59.6666667
+gy,moco-moco village,Moco-Moco Village,19,,3.3333333,-59.6666667
+gy,mongreppo,Mongreppo,11,,6.4,-58.6166667
+gy,monkey mountain,Monkey Mountain,17,,4.4833333,-59.6833333
+gy,moraikobe,Moraikobe,15,,6.1,-57.95
+gy,morasi,Morasi,14,,6.75,-58.5
+gy,morawhanna,Morawhanna,10,,8.2666667,-59.75
+gy,moreiro,Moreiro,19,,3.9,-59.55
+gy,moreiru,Moreiru,19,,3.9,-59.55
+gy,morowta,Morowta,11,,5.75,-60.5833333
+gy,mortice,Mortice,15,,6.5,-57.8
+gy,mountain point,Mountain Point,19,,3.0,-59.6333333
+gy,mountain view,Mountain View,19,,3.5166667,-59.55
+gy,mount everard,Mount Everard,10,,7.8166667,-59.4666667
+gy,mubohina,Mubohina,10,,7.5833333,-59.1333333
+gy,muriakundi,Muriakundi,11,,7.1666667,-60.1333333
+gy,muriwa village,Muriwa Village,19,,3.05,-59.6666667
+gy,muruakundi,Muruakundi,11,,7.1666667,-60.1333333
+gy,muruwawe village,Muruwawe Village,11,,6.4666667,-61.15
+gy,nappi village,Nappi Village,19,,3.4166667,-59.5666667
+gy,new amsterdam,New Amsterdam,13,35039,6.25,-57.5166667
+gy,new burg,New Burg,12,,6.8166667,-58.15
+gy,new found out,New Found Out,15,,6.3833333,-58.0666667
+gy,new ground village,New Ground Village,13,,5.85,-57.4666667
+gy,new haven,New Haven,12,,6.0833333,-58.1333333
+gy,newtown,Newtown,12,,6.8166667,-58.1333333
+gy,nismes,Nismes,14,,6.75,-58.2
+gy,noitgedacht,Noitgedacht,18,,6.0,-58.3
+gy,number 2,Number 2,15,,6.7,-57.9333333
+gy,number 80,Number 80,13,,5.8833333,-57.1333333
+gy,number forty-five,Number Forty-five,13,,6.1,-57.2
+gy,number forty,Number Forty,15,,6.4666667,-57.6666667
+gy,number forty-one,Number Forty-one,15,,6.4666667,-57.6666667
+gy,number forty-six,Number Forty-six,13,,6.0833333,-57.2
+gy,number sixty-one,Number Sixty-one,13,,6.0,-57.15
+gy,number sixty-seven,Number Sixty-seven,13,,5.9666667,-57.15
+gy,number sixty-six,Number Sixty-six,13,,5.9666667,-57.15
+gy,number sixty-two,Number Sixty-two,13,,5.9833333,-57.15
+gy,number ten,Number Ten,12,,6.5833333,-57.8833333
+gy,number twelve,Number Twelve,15,,6.35,-57.5833333
+gy,old vigilante,Old Vigilante,15,,5.85,-57.7
+gy,old vigilantie,Old Vigilantie,15,,5.85,-57.7
+gy,onderneeming,Onderneeming,16,,7.1,-58.4833333
+gy,opadai,Opadai,11,,5.4333333,-60.5833333
+gy,oranapai landing,Oranapai Landing,11,,6.0666667,-59.9166667
+gy,oranapai,Oranapai,11,,6.0666667,-59.9166667
+gy,oranopai,Oranopai,11,,6.0666667,-59.9166667
+gy,oreala,Oreala,13,,5.3166667,-57.3333333
+gy,orealla mission,Orealla Mission,13,,5.3166667,-57.3333333
+gy,orealla,Orealla,13,,5.3166667,-57.3333333
+gy,orinduik,Orinduik,17,,4.7,-60.0166667
+gy,owenteik,Owenteik,17,,4.45,-59.5833333
+gy,pakera,Pakera,10,,7.4833333,-60.15
+gy,parabara,Parabara,19,,2.2166667,-59.3
+gy,paradise,Paradise,18,,5.5666667,-57.9166667
+gy,paramahatoi,Paramahatoi,17,,4.7166667,-59.7
+gy,paramakatoi,Paramakatoi,17,,4.7166667,-59.7
+gy,parapimai,Parapimai,10,,7.3666667,-59.6666667
+gy,paricaranal,Paricaranal,19,,3.5666667,-59.5833333
+gy,parika,Parika,14,,6.8666667,-58.4166667
+gy,parikaranal,Parikaranal,19,,3.5666667,-59.5833333
+gy,parishara,Parishara,19,,3.45,-59.5666667
+gy,parishara village,Parishara Village,19,,3.45,-59.5666667
+gy,paruima mission,Paruima Mission,11,,5.8,-61.05
+gy,paruima,Paruima,11,,5.8,-61.05
+gy,patarinau,Patarinau,19,,3.0333333,-59.7666667
+gy,patentia,Patentia,14,,6.7,-58.2
+gy,pathawaru,Pathawaru,11,,6.4333333,-61.1333333
+gy,peropo,Peropo,19,,4.1333333,-59.1166667
+gy,perth,Perth,15,,6.55,-57.8
+gy,perth village,Perth Village,15,,6.55,-57.8
+gy,phoenix town,Phoenix Town,14,,6.8,-58.2
+gy,pickersgill,Pickersgill,16,,7.2666667,-58.7166667
+gy,pickersgil,Pickersgil,16,,7.2666667,-58.7166667
+gy,pilanawa,Pilanawa,19,,2.7666667,-59.6833333
+gy,pilinawa,Pilinawa,19,,2.7666667,-59.6833333
+gy,pine ground,Pine Ground,15,,6.4166667,-57.7833333
+gy,pipillipai,Pipillipai,11,,5.5166667,-60.4333333
+gy,pirara,Pirara,19,,3.6166667,-59.6666667
+gy,plaisance,Plaisance,12,,6.8,-58.1
+gy,plaisance village,Plaisance Village,12,,6.8,-58.1
+gy,pomona,Pomona,16,,7.0666667,-58.4833333
+gy,port kaituma,Port Kaituma,10,,7.7333333,-59.8833333
+gy,port mourant,Port Mourant,13,,6.25,-57.3333333
+gy,port mourant village,Port Mourant Village,13,,6.25,-57.3333333
+gy,post ampa,Post Ampa,14,,6.5,-58.5833333
+gy,poterima,Poterima,11,,6.2833333,-58.5833333
+gy,powisanau village,Powisanau Village,19,,2.5333333,-59.45
+gy,prashad nagar,Prashad Nagar,12,,6.8333333,-58.1333333
+gy,primrose hill,Primrose Hill,14,,6.5833333,-58.6166667
+gy,princetown,Princetown,13,,5.9,-57.15
+gy,providence place,Providence Place,13,,6.2166667,-57.5166667
+gy,providence,Providence,12,,6.7666667,-58.1666667
+gy,pubu,Pubu,18,,5.2333333,-58.6166667
+gy,pukasanta village,Pukasanta Village,19,,3.0666667,-58.9
+gy,puwa,Puwa,17,,4.5166667,-59.9833333
+gy,puwa village,Puwa Village,17,,4.5166667,-59.9833333
+gy,quatata,Quatata,19,,3.6333333,-59.5
+gy,queenstown,Queenstown,12,,6.8166667,-58.15
+gy,queenstown,Queenstown,16,,7.2,-58.4833333
+gy,queenstown village,Queenstown Village,16,,7.2,-58.4833333
+gy,red hill settlement,Red Hill Settlement,10,,7.8666667,-59.4333333
+gy,ridge,Ridge,14,,6.9166667,-58.4833333
+gy,rising,Rising,13,,6.0833333,-57.2
+gy,rising sun,Rising Sun,13,,6.0833333,-57.2
+gy,riverstown,Riverstown,16,,7.0666667,-58.5
+gy,robbstown,Robbstown,12,,6.8166667,-58.1666667
+gy,rockstone,Rockstone,18,,5.9833333,-58.55
+gy,rose hall,Rose Hall,13,,6.2666667,-57.35
+gy,rose hall village,Rose Hall Village,13,,6.2666667,-57.35
+gy,rosignal,Rosignal,15,,6.2833333,-57.5333333
+gy,rosignol,Rosignol,15,5782,6.2833333,-57.5333333
+gy,sabernawau village,Sabernawau Village,19,,2.3333333,-59.2333333
+gy,saint bede's mission,Saint Bede's Mission,10,,7.5666667,-59.4666667
+gy,saint bedes,Saint Bedes,10,,7.5666667,-59.4666667
+gy,saint benedict mission,Saint Benedict Mission,10,,7.8166667,-59.8333333
+gy,saint cuthberts mission,Saint Cuthberts Mission,15,,6.3666667,-58.0833333
+gy,saint cuthberts,Saint Cuthberts,15,,6.3666667,-58.0833333
+gy,saint cuthberts village,Saint Cuthberts Village,15,,6.3666667,-58.0833333
+gy,saint edwards mission,Saint Edwards Mission,11,,6.3666667,-58.7
+gy,saint francis mission,Saint Francis Mission,15,,6.1,-57.95
+gy,saint ignatius mission,Saint Ignatius Mission,19,,3.3333333,-59.8
+gy,saint ignatius,Saint Ignatius,19,,3.3333333,-59.8
+gy,saint john,Saint John,15,,6.3833333,-57.6166667
+gy,saint mary,Saint Mary,17,,5.2,-59.0166667
+gy,saint marys,Saint Marys,11,,6.25,-58.5833333
+gy,saint mary's,Saint Mary's,17,,5.2,-59.0166667
+gy,saint nicholas mission,Saint Nicholas Mission,16,,7.5,-58.95
+gy,saint nicholas,Saint Nicholas,16,,7.5,-58.95
+gy,sand creek village,Sand Creek Village,19,,3.0,-59.5166667
+gy,sand hills,Sand Hills,18,,5.8,-57.75
+gy,santa cruz,Santa Cruz,10,,7.65,-59.2333333
+gy,santa fe ranch,Santa Fé Ranch,19,,3.7833333,-59.6
+gy,santa fe,Santa Fe,19,,3.7833333,-59.6
+gy,santa rosa mission,Santa Rosa Mission,10,,7.65,-58.95
+gy,santa rosa,Santa Rosa,10,,7.65,-58.95
+gy,sarah,Sarah,14,,6.9666667,-58.4666667
+gy,sawariwaunawa,Sawariwaunawa,19,,2.6833333,-59.65
+gy,sawariwau,Sawariwau,19,,2.6833333,-59.65
+gy,saxacalli,Saxacalli,14,,6.5833333,-58.6166667
+gy,saxakalli,Saxakalli,14,,6.5833333,-58.6166667
+gy,saxsacali,Saxsacali,14,,6.5833333,-58.6166667
+gy,scottsburg,Scottsburg,13,,5.9166667,-57.1333333
+gy,shea,Shea,19,,2.8166667,-59.1333333
+gy,shea village,Shea Village,19,,2.8166667,-59.1333333
+gy,shoa,Shoa,19,,2.8166667,-59.1333333
+gy,shulinab,Shulinab,19,,3.0833333,-59.7833333
+gy,shulinab village,Shulinab Village,19,,3.0833333,-59.7833333
+gy,simirie,Simirie,14,,6.5166667,-58.5833333
+gy,simiri,Simiri,16,,7.2166667,-58.6666667
+gy,sinclair landing,Sinclair Landing,10,,7.7666667,-59.8333333
+gy,sinking ground,Sinking Ground,15,,6.3333333,-57.8833333
+gy,sion,Sion,18,,5.6833333,-57.85
+gy,sirikie,Sirikie,16,,7.3,-58.6666667
+gy,sir james,Sir James,15,,6.2833333,-57.5333333
+gy,sisipelin,Sisipelin,17,,4.65,-59.55
+gy,sisipelin village,Sisipelin Village,17,,4.65,-59.55
+gy,skeldon place,Skeldon Place,13,,5.8833333,-57.1333333
+gy,skeldon,Skeldon,13,5859,5.8833333,-57.1333333
+gy,smythfield,Smythfield,13,,6.2333333,-57.5166667
+gy,soesdyke,Soesdyke,14,,6.5333333,-58.25
+gy,soesdyk,Soesdyk,14,,6.5333333,-58.25
+gy,somerset,Somerset,16,,7.4,-58.5666667
+gy,springlands place,Springlands Place,13,,5.9,-57.15
+gy,springlands,Springlands,13,,5.9,-57.15
+gy,stabroek,Stabroek,12,,6.8166667,-58.15
+gy,stanleytown,Stanleytown,13,,6.2333333,-57.5166667
+gy,stanleytown,Stanleytown,14,,6.7333333,-58.2
+gy,subryanville,Subryanville,12,,6.8333333,-58.1333333
+gy,suddie,Suddie,16,,7.1166667,-58.4833333
+gy,sunnyside,Sunnyside,19,,3.7,-59.65
+gy,surama,Surama,19,,4.1666667,-59.0833333
+gy,surama village,Surama Village,19,,4.1666667,-59.0833333
+gy,surprise hill,Surprise Hill,10,,7.8166667,-59.8
+gy,surumatra,Surumatra,19,,4.1666667,-59.0666667
+gy,tacama,Tacama,18,,5.5666667,-57.9166667
+gy,takama battle school,Takama Battle School,18,,5.6,-57.9666667
+gy,takama,Takama,18,,5.5666667,-57.9166667
+gy,tamtom,Tamtom,19,,2.35,-59.7166667
+gy,tamton,Tamton,19,,2.35,-59.7166667
+gy,tarlogie farm,Tarlogie Farm,13,,6.1833333,-57.2333333
+gy,tarlogie,Tarlogie,13,,6.1833333,-57.2333333
+gy,taruka,Taruka,17,,4.8,-59.6333333
+gy,taruma,Taruma,19,,2.0833333,-58.3833333
+gy,taruma village,Taruma Village,19,,2.0833333,-58.3833333
+gy,the clip,The Clip,11,,6.3833333,-58.6666667
+gy,tiger pond village,Tiger Pond Village,19,,4.05,-59.4333333
+gy,tipuru,Tipuru,19,,4.2166667,-59.5666667
+gy,tipuru village,Tipuru Village,19,,4.2166667,-59.5666667
+gy,toka,Toka,19,,3.9166667,-59.3833333
+gy,toka village,Toka Village,19,,3.9166667,-59.3833333
+gy,towakaima landing,Towakaima Landing,10,,7.3166667,-60.0
+gy,towakaima,Towakaima,10,,7.3166667,-60.0
+gy,towokaima fallssee towakaima,Towokaima Fallssee Towakaima,10,,7.3166667,-60.0
+gy,tuka,Tuka,19,,3.9166667,-59.3833333
+gy,tumareng,Tumareng,11,,6.1666667,-60.05
+gy,tumereng,Tumereng,11,,6.1666667,-60.05
+gy,tumureng,Tumureng,11,,6.1666667,-60.05
+gy,tuschen,Tuschen,14,,6.8833333,-58.35
+gy,uitvlugt,Uitvlugt,14,,6.8666667,-58.3
+gy,upper kamaria,Upper Kamaria,11,,6.4333333,-58.8
+gy,urisirima,Urisirima,18,,6.4333333,-58.6
+gy,velgrad,Velgrad,17,,4.8666667,-59.8
+gy,vergenoegen,Vergenoegen,14,,6.8666667,-58.35
+gy,vigilantie,Vigilantie,15,,5.85,-57.7
+gy,village burisanawa,Village Burisanawa,19,,2.35,-59.35
+gy,village nappita,Village Nappita,19,,3.4166667,-59.5666667
+gy,village shulinab,Village Shulinab,19,,3.0833333,-59.7833333
+gy,vreed en hoop,Vreed en Hoop,14,3073,6.8,-58.1833333
+gy,waikerebi mission,Waikerebi Mission,10,,7.5333333,-59.4
+gy,waioklepalul,Waioklepalul,11,,5.45,-60.15
+gy,waioklepaluta village,Waioklepaluta Village,11,,5.45,-60.15
+gy,waipa village,Waipa Village,17,,4.9333333,-60.0
+gy,wai-wai,Wai-Wai,19,,1.5833333,-58.65
+gy,waiwoi village,Waiwoi Village,19,,1.4333333,-58.8
+gy,wakadanawa,Wakadanawa,19,,1.9833333,-59.7166667
+gy,wakakulud village,Wakakulud Village,19,,1.3833333,-58.75
+gy,wakakulud,Wakakulud,19,,1.3833333,-58.75
+gy,wakapau village,Wakapau Village,16,,7.5166667,-58.8
+gy,wales,Wales,14,,6.7,-58.2
+gy,wandaik village,Wandaik Village,17,,4.45,-59.5833333
+gy,wandaik,Wandaik,17,,4.45,-59.5833333
+gy,wandapa village,Wandapa Village,17,,4.55,-59.7166667
+gy,wandapa,Wandapa,17,,4.55,-59.7166667
+gy,waramadan,Waramadan,11,,5.8166667,-60.75
+gy,waramadon village,Waramadon Village,11,,5.8166667,-60.75
+gy,waramuri mission,Waramuri Mission,10,,7.6166667,-58.8666667
+gy,waramuri,Waramuri,10,,7.6166667,-58.8666667
+gy,ward village,Ward village,13,,6.0666667,-57.1833333
+gy,warimure,Warimure,19,,2.9333333,-59.4833333
+gy,wariwau,Wariwau,19,,2.7166667,-59.2
+gy,wariwiau village,Wariwiau Village,19,,2.7166667,-59.2
+gy,waropoko mission,Waropoko Mission,10,,7.8166667,-59.25
+gy,waruma outstation,Waruma Outstation,19,,3.1,-59.9
+gy,waruma,Waruma,19,,3.1,-59.9
+gy,watooka village,Watooka Village,18,,6.0,-58.3
+gy,watuka,Watuka,18,,6.0,-58.3
+gy,waudapa village,Waudapa Village,17,,4.55,-59.7166667
+gy,wauna-yarakita,Wauna-Yarakita,10,,8.0833333,-59.9166667
+gy,wauna-yarikita,Wauna-Yarikita,10,,8.0833333,-59.9166667
+gy,weldaad,Weldaad,15,,6.5,-57.6833333
+gy,wel te vreeden,Wel te Vreeden,13,,5.85,-57.4666667
+gy,werk en rust,Werk en Rust,12,,6.7833333,-58.1666667
+gy,whim,Whim,13,,6.2666667,-57.35
+gy,wiapri,Wiapri,17,,4.95,-59.9833333
+gy,wichabai,Wichabai,19,,2.8666667,-59.5333333
+gy,windsor forest,Windsor Forest,14,,6.85,-58.2333333
+gy,wineperu,Wineperu,11,,6.1833333,-58.5833333
+gy,wiribisirikanali,Wiribisirikanali,18,,5.5,-58.3833333
+gy,wisemar,Wisemar,18,,6.0,-58.3166667
+gy,wismar,Wismar,18,,6.0,-58.3166667
+gy,wolga,Wolga,11,,6.4666667,-58.6166667
+gy,wortmanville,Wortmanville,12,,6.8166667,-58.15
+gy,woweta village,Woweta Village,19,,3.9833333,-59.0833333
+gy,woweta,Woweta,19,,3.9833333,-59.0833333
+gy,yakarinta,Yakarinta,19,,3.9,-59.25
+gy,yakusari,Yakusari,13,,6.05,-57.25
+gy,yepi village,Yepi Village,19,,1.35,-58.6666667
+gy,yepu village,Yepu Village,19,,1.3666667,-58.6333333
+gy,yupukari,Yupukari,19,,3.6666667,-59.35
+gy,yupukarri,Yupukarri,19,,3.6666667,-59.35
+gy,zion,Zion,18,,5.6833333,-57.85

@@ -1,0 +1,265 @@
+gg,albecq,Albècq,00,,49.469444,-2.601667
+gg,amherst,Amherst,00,,49.463611,-2.543611
+gg,bailiffs cross,Bailiffs Cross,00,,49.449167,-2.563333
+gg,bailloterie,Bailloterie,00,,49.489444,-2.531944
+gg,baubigny,Baubigny,00,,49.481944,-2.543056
+gg,baugy,Baugy,00,,49.490833,-2.525556
+gg,beaucamps,Beaucamps,00,,49.462222,-2.580278
+gg,beaucamps de bas,Beaucamps de Bas,00,,49.463889,-2.580833
+gg,beauregard,Beauregard,00,,49.430278,-2.369444
+gg,blanches rocques,Blanches Rocques,00,,49.469167,-2.591111
+gg,bordeaux,Bordeaux,00,,49.489722,-2.509444
+gg,bouet,Bouet,00,,49.468056,-2.541111
+gg,braeside,Braeside,00,,49.485833,-2.544444
+gg,braye,Braye,00,,49.466667,-2.55
+gg,braye du val,Braye du Val,00,,49.466667,-2.55
+gg,braye du valle,Braye du Valle,00,,49.487222,-2.535278
+gg,butes,Butes,00,,49.7175,-2.2025
+gg,calais,Calais,00,,49.433611,-2.539722
+gg,camp du roi,Camp du Roi,00,,49.476667,-2.561667
+gg,camptrehard,Camptréhard,00,,49.448889,-2.58
+gg,carmel,Carmel,00,,49.44,-2.559722
+gg,choisi,Choisi,00,,49.455556,-2.548056
+gg,claire mare,Claire Mare,00,,49.456111,-2.646111
+gg,clos du valle,Clos du Valle,00,,49.496667,-2.518056
+gg,closios,Closios,00,,49.496111,-2.534167
+gg,cobo,Côbo,00,,49.472778,-2.591944
+gg,cocagne,Cocagne,00,,49.492222,-2.508611
+gg,courtes fallaizes,Courtes Fallaizes,00,,49.431111,-2.5425
+gg,coutanchez,Coutanchez,00,,49.471667,-2.549167
+gg,crabby,Crabby,00,,49.720833,-2.204444
+gg,durand,Durand,00,,49.450278,-2.549167
+gg,duval,Duval,00,,49.413889,-2.377222
+gg,fauxquets,Fauxquets,00,,49.449167,-2.5925
+gg,fontenelle,Fontenelle,00,,49.501667,-2.515
+gg,fortebrie,Fortebrie,00,,49.488889,-2.514722
+gg,fort george,Fort George,00,,49.446389,-2.54
+gg,four cabot,Four Cabot,00,,49.445833,-2.573889
+gg,fregondee,Fregondée,00,,49.429722,-2.37
+gg,fregondie,Fregondie,00,,49.429722,-2.37
+gg,frie baton,Frie Baton,00,,49.451389,-2.630278
+gg,friquet,Friquet,00,,49.490833,-2.531389
+gg,girouette,Girouette,00,,49.454444,-2.633611
+gg,goubeys,Goubeys,00,,49.484167,-2.572778
+gg,grande roque,Grande Roque,00,,49.483889,-2.583333
+gg,grandes capelles,Grandes Capelles,00,,49.479167,-2.5525
+gg,grandes mielles,Grandes Mielles,00,,49.483333,-2.576389
+gg,grandes rocques,Grandes Rocques,00,,49.483889,-2.583333
+gg,grand fort,Grand Fort,00,,49.484167,-2.544444
+gg,grand rocq,Grand Rocq,00,,49.483889,-2.583333
+gg,grand roques,Grand Roques,00,,49.483889,-2.583333
+gg,groignet,Groignêt,00,,49.456667,-2.595556
+gg,hall,Hall,00,,49.458889,-2.611389
+gg,hatnez,Hatnez,00,,49.434167,-2.578611
+gg,hautnez,Hautnez,00,,49.433333,-2.6
+gg,hommet,Hommet,00,,49.476667,-2.574722
+gg,hommets,Hommets,00,,49.476667,-2.574722
+gg,hougue anthan,Hougue Anthan,00,,49.428611,-2.651389
+gg,hougue moulin,Hougue Moulin,00,,49.493056,-2.514444
+gg,hougue nicolle,Hougue Nicolle,00,,49.476944,-2.546667
+gg,hougues magues,Hougues Magues,00,,49.481389,-2.549167
+gg,houmet,Houmet,00,,49.476667,-2.574722
+gg,houmets,Houmets,00,,49.476667,-2.574722
+gg,icart,Icart,00,,49.421944,-2.560833
+gg,ivy gate,Ivy Gate,00,,49.492778,-2.536944
+gg,jerbourg,Jerbourg,00,,49.424722,-2.533611
+gg,king's mills,King's Mills,00,,49.457778,-2.603056
+gg,la beilleuse,La Beilleuse,00,,49.4375,-2.555
+gg,la bouvee,La Bouvée,00,,49.428889,-2.536944
+gg,la chaumiere,La Chaumière,00,,49.457222,-2.573056
+gg,la collinette,La Collinette,00,,49.431667,-2.353333
+gg,la colombelle,La Colombelle,00,,49.446111,-2.5475
+gg,la corbiere,La Corbière,00,,49.424167,-2.6125
+gg,la croix,La Croix,00,,49.428889,-2.614444
+gg,la donnellerie,La Donnellerie,00,,49.413333,-2.376111
+gg,la forge,La Forge,00,,49.429167,-2.350833
+gg,la fosse,La Fosse,00,,49.429722,-2.554722
+gg,la fregondee,La Fregondée,00,,49.429722,-2.37
+gg,la garenne,La Garenne,00,,49.494444,-2.54
+gg,la genetiere,La Génétière,00,,49.439444,-2.3575
+gg,la greve,La Grève,00,,49.493333,-2.533611
+gg,la hougue falle,La Hougue Falle,00,,49.436389,-2.633889
+gg,la houguette,La Houguette,00,,49.45,-2.639167
+gg,la lague,La Lague,00,,49.433611,-2.659722
+gg,la lande,La Lande,00,,49.503056,-2.508333
+gg,la miellette,La Miellette,00,,49.498889,-2.504444
+gg,la monnaie,La Monnaie,00,,49.452778,-2.571667
+gg,la moye,La Moye,00,,49.499722,-2.513889
+gg,l'ancresse,L'Ancresse,00,,49.498056,-2.526111
+gg,la passee,La Passèe,00,,49.491667,-2.568333
+gg,la planque,La Planque,00,,49.431111,-2.600556
+gg,la pomare,La Pomare,00,,49.447222,-2.644722
+gg,la porte,La Porte,00,,49.459444,-2.597222
+gg,la ramee,La Ramée,00,,49.471389,-2.556111
+gg,la roberge,La Roberge,00,,49.423611,-2.603889
+gg,la robergerie,La Robergerie,00,,49.481111,-2.526389
+gg,la rochelle,La Rochelle,00,,49.499444,-2.508889
+gg,la rocque,La Rocque,00,,49.459722,-2.646389
+gg,la saline,La Saline,00,,49.446389,-2.648611
+gg,la seigneurie,La Seigneurie,00,,49.437778,-2.3625
+gg,la sergentee,La Sergentee,00,,49.465833,-2.573889
+gg,la tonelle,La Tonelle,00,,49.474167,-2.530556
+gg,la tourgie,La Tourgie,00,,49.433056,-2.588611
+gg,la tour,La Tour,00,,49.441667,-2.359722
+gg,la turquie,La Turquie,00,,49.494167,-2.505556
+gg,l'aumone,L'Aumone,00,,49.463333,-2.57
+gg,la vaurocque,La Vaurocque,00,,49.430833,-2.365
+gg,la ville roussel,La Ville Roussel,00,,49.437222,-2.355278
+gg,la villette,La Villette,00,,49.431389,-2.568333
+gg,la villiaze,La Villiaze,00,,49.427222,-2.605833
+gg,la vrangue,La Vrangue,00,,49.424722,-2.600556
+gg,le bigard,Le Bigard,00,,49.424722,-2.605278
+gg,le bordage,Le Bordage,00,,49.428611,-2.589444
+gg,le bouillon,Le Bouillon,00,,49.441389,-2.590833
+gg,le bourg,Le Bourg,00,,49.431389,-2.5925
+gg,le catillion,Le Câtillion,00,,49.441667,-2.65
+gg,le catioroc,Le Catioroc,00,,49.457778,-2.641111
+gg,le chene,Le Chéne,00,,49.432222,-2.585833
+gg,l'eclet,L'Eclet,00,,49.442778,-2.631944
+gg,le clos bourel,Le Clos Bourel,00,,49.424722,-2.363056
+gg,le coudre,Le Coudré,00,,49.436667,-2.643333
+gg,le dos d'ane,Le Dos d'Ane,00,,49.425833,-2.365833
+gg,le douit,Le Douit,00,,49.443889,-2.640556
+gg,le fort,Le Fort,00,,49.442222,-2.358333
+gg,le foulon,Le Foulon,00,,49.458889,-2.557222
+gg,le gele,Le Gele,00,,49.460556,-2.612778
+gg,le gouffre,Le Gouffre,00,,49.421389,-2.595556
+gg,le grand fort,Le Grand Fort,00,,49.441389,-2.359167
+gg,le gron,Le Gron,00,,49.438889,-2.608611
+gg,le houmet,Le Houmet,00,,49.4925,-2.553889
+gg,le hurel,Le Hurel,00,,49.495,-2.529722
+gg,le landes,Le Landes,00,,49.429722,-2.598611
+gg,le manoir,Le Manoir,00,,49.426111,-2.610833
+gg,le marais,Le Marais,00,,49.46,-2.622222
+gg,le mont durand,Le Mont Durand,00,,49.450278,-2.549167
+gg,le picquerel,Le Picquerel,00,,49.491389,-2.549444
+gg,l'epinel,L'Epinel,00,,49.426111,-2.601944
+gg,le planel,Le Planel,00,,49.427778,-2.632222
+gg,le pont,Le Pont,00,,49.433333,-2.626389
+gg,le preel,Le Preel,00,,49.458056,-2.581667
+gg,l'eree,L'Eree,00,,49.454167,-2.651667
+gg,le roussel,Le Roussel,00,,49.436111,-2.585556
+gg,les adams,Les Adams,00,,49.453611,-2.646111
+gg,les annevilles,Les Annevilles,00,,49.478889,-2.562222
+gg,les arquets,Les Arquets,00,,49.4425,-2.643333
+gg,les baissieres,Les Baissieres,00,,49.466944,-2.563056
+gg,les bas courtils,Les Bas Courtils,00,,49.439444,-2.601944
+gg,les brehauts,Les Brehauts,00,,49.435556,-2.621667
+gg,les bruliaux,Les Bruliaux,00,,49.425,-2.616111
+gg,les buttes,Les Buttes,00,,49.435278,-2.626944
+gg,les camps du moulin,Les Camps du Moulin,00,,49.433611,-2.55
+gg,les capelles,Les Capelles,00,,49.48,-2.5575
+gg,les clercs,Les Clercs,00,,49.436111,-2.65
+gg,les clos landais,Les Clos Landais,00,,49.4475,-2.630556
+gg,les dicas,Les Dicas,00,,49.494444,-2.555556
+gg,les falles,Les Falles,00,,49.432778,-2.631111
+gg,les fontaines,Les Fontaines,00,,49.430833,-2.658056
+gg,les fontenelles,Les Fontenelles,00,,49.423611,-2.591389
+gg,les galliennes,Les Galliennes,00,,49.431389,-2.651111
+gg,les genats,Les Genâts,00,,49.4775,-2.58
+gg,les gigands,Les Gigands,00,,49.4825,-2.540833
+gg,les gouies,Les Gouies,00,,49.441667,-2.575556
+gg,les grantez,Les Grantez,00,,49.451667,-2.598333
+gg,les hautgards,Les Hautgards,00,,49.494444,-2.525
+gg,les heches,Les Heches,00,,49.43,-2.617222
+gg,les houards,Les Houards,00,,49.421667,-2.594444
+gg,les hubits,Les Hubits,00,,49.442222,-2.548333
+gg,les hurlaux,Les Hurlaux,00,,49.443889,-2.561944
+gg,les islets,Les Islets,00,,49.44,-2.628333
+gg,les jaonnets,Les Jaonnets,00,,49.448889,-2.596667
+gg,les jehans,Les Jehans,00,,49.430278,-2.633889
+gg,les laudes,Les Laudes,00,,49.495833,-2.52
+gg,les laurens,Les Laurens,00,,49.425278,-2.625278
+gg,les lohiers,Les Lohiers,00,,49.448889,-2.610833
+gg,les maingys,Les Maingys,00,,49.483333,-2.57
+gg,les marais,Les Marais,00,,49.450833,-2.646111
+gg,les marchez,Les Marchez,00,,49.428056,-2.6175
+gg,les martins,Les Martins,00,,49.429722,-2.626667
+gg,les mielles,Les Mielles,00,,49.498889,-2.520278
+gg,les monmains,Les Monmains,00,,49.483333,-2.514167
+gg,les mourains,Les Mourains,00,,49.469722,-2.5825
+gg,les niaux,Les Niaux,00,,49.451111,-2.581944
+gg,les nicolles,Les Nicolles,00,,49.430556,-2.581389
+gg,les nouettes,Les Nouettes,00,,49.431111,-2.606111
+gg,les padins,Les Padins,00,,49.4475,-2.624167
+gg,les pages,Les Pages,00,,49.4325,-2.571944
+gg,les paysans,Les Paysans,00,,49.446111,-2.635833
+gg,les pieces,Les Pieces,00,,49.433333,-2.583056
+gg,les quartiers,Les Quartiers,00,,49.473056,-2.551667
+gg,les reveaux,Les Reveaux,00,,49.438333,-2.631667
+gg,les rouvets,Les Rouvets,00,,49.481944,-2.565278
+gg,les sages,Les Sages,00,,49.434167,-2.639444
+gg,les salines,Les Salines,00,,49.485,-2.556111
+gg,les sauvagees,Les Sauvagees,00,,49.483611,-2.535556
+gg,les simons,Les Simons,00,,49.4275,-2.638611
+gg,les terres,Les Terres,00,,49.449722,-2.536667
+gg,les touillets,Les Touillets,00,,49.456944,-2.577778
+gg,les vardes,Les Vardes,00,,49.494167,-2.563056
+gg,les varendes,Les Varendes,00,,49.461944,-2.566667
+gg,les vauxbelets,Les Vauxbelets,00,,49.442222,-2.5875
+gg,les villets,Les Villets,00,,49.424722,-2.596667
+gg,les vinaires,Les Vinaires,00,,49.441111,-2.634722
+gg,le tertre,Le Tertre,00,,49.468889,-2.593889
+gg,le vallon,Le Vallon,00,,49.430278,-2.545
+gg,le variouf,Le Variouf,00,,49.426944,-2.587778
+gg,le vaugrat,Le Vaugrat,00,,49.490556,-2.561111
+gg,le villocq,Le Villocq,00,,49.468056,-2.575833
+gg,l'islet,L'Islet,00,,49.487778,-2.545
+gg,longstore,Longstore,00,,49.465,-2.536667
+gg,maraitaine,Maraitaine,00,,49.490278,-2.526944
+gg,mare de carteret,Mare de Carteret,00,,49.481389,-2.581111
+gg,maresquet,Maresquet,00,,49.486944,-2.515278
+gg,mont plaisant,Mont Plaisant,00,,49.4675,-2.589167
+gg,mont plaisir,Mont Plaisir,00,,49.430278,-2.603611
+gg,mont saint,Mont Saint,00,,49.456944,-2.623611
+gg,mouilpied,Mouilpied,00,,49.436667,-2.568056
+gg,neuf chemin,Neuf Chemin,00,,49.448889,-2.615278
+gg,newtown,Newtown,00,,49.719167,-2.199722
+gg,nicolles,Nicolles,00,,49.430556,-2.581389
+gg,north side,North Side,00,,49.485278,-2.516111
+gg,paradise,Paradise,00,,49.5,-2.516667
+gg,paradis,Paradis,00,,49.5,-2.516667
+gg,perelle,Perelle,00,,49.458056,-2.635833
+gg,pleinheaume,Pleinheaume,00,,49.486111,-2.563611
+gg,pleinmont,Pleinmont,00,,49.431944,-2.667222
+gg,pulais,Pulais,00,,49.495278,-2.568056
+gg,queux kings mill,Queux Kings Mill,00,,49.457778,-2.603056
+gg,ramee,Ramee,00,,49.471389,-2.556111
+gg,richmond,Richmond,00,,49.462222,-2.628056
+gg,rocque poisson,Rocque Poisson,00,,49.450833,-2.649722
+gg,rohais manor,Rohais Manor,00,,49.459167,-2.563056
+gg,rohais,Rohais,00,,49.459167,-2.563056
+gg,roque tourgis,Roque Tourgis,00,,49.716667,-2.216667
+gg,roselle,Roselle,00,,49.437222,-2.355278
+gg,rousse,Rousse,00,,49.496944,-2.555
+gg,rozel,Rozel,00,,49.450833,-2.541667
+gg,saint andrew,Saint Andrew,00,,49.443889,-2.578889
+gg,saint anne,Saint Anne,00,,49.715,-2.204167
+gg,saint annes,Saint Annes,00,,49.715,-2.204167
+gg,saint george,Saint George,00,,49.465556,-2.589444
+gg,saint germain,Saint Germain,00,,49.4675,-2.595833
+gg,saint johns,Saint Johns,00,,49.465,-2.54
+gg,saint peter port,Saint Peter Port,00,,49.456111,-2.540833
+gg,saint phillipe de torteval,Saint Phillipe de Torteval,00,,49.433333,-2.65
+gg,saint sampson,Saint Sampson,00,,49.483889,-2.523333
+gg,saint sampson's,Saint Sampson's,00,,49.483889,-2.523333
+gg,saint saviour,Saint Saviour,00,,49.456944,-2.635833
+gg,salerie,Salerie,00,,49.461667,-2.534167
+gg,saumarez,Saumarez,00,,49.466667,-2.6
+gg,sous l'eglise,Sous l'Eglise,00,,49.444167,-2.616667
+gg,south side,South Side,00,,49.481667,-2.515833
+gg,st. andrew,St. Andrew,00,,49.443889,-2.578889
+gg,st. anne,St. Anne,00,,49.715,-2.204167
+gg,st. george,St. George,00,,49.465556,-2.589444
+gg,st. germain,St. Germain,00,,49.4675,-2.595833
+gg,st. johns,St. Johns,00,,49.465,-2.54
+gg,st. saviour,St. Saviour,00,,49.456944,-2.635833
+gg,the bridge,The Bridge,00,,49.483056,-2.521667
+gg,torteval church,Torteval Church,00,,49.433333,-2.65
+gg,torteval,Torteval,00,,49.433333,-2.65
+gg,val au bourg,Val au Bourg,00,,49.426111,-2.558056
+gg,vazon,Vazon,00,,49.462778,-2.6125
+gg,village de putron,Village de Putron,00,,49.438333,-2.542778
+gg,ville au roi,Ville au Roi,00,,49.446389,-2.553889
+gg,vingtaine de l'epine,Vingtaine de l'Epine,00,,49.479444,-2.571111
+gg,woodlands,Woodlands,00,,49.457778,-2.5875

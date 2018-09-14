@@ -1,0 +1,760 @@
+gf,abouna sounga,Abouna Sounga,00,,4.05,-54.35
+gf,acarouani,Acarouani,00,,5.6,-53.8
+gf,acarouany,Acarouany,00,,5.6,-53.8
+gf,adieu-vat,Adieu-Vat,00,,4.8666667,-53.0
+gf,aeroplane conde,Aéroplane Condé,00,,4.4166667,-54.4333333
+gf,aeroplane konde,Aéroplane Kondé,00,,4.4166667,-54.4333333
+gf,agami,Agami,00,,3.7666667,-53.2166667
+gf,agode,Agode,00,,3.8333333,-54.1833333
+gf,akilengui,Akilengui,00,,5.0833333,-54.4
+gf,akodo,Akodo,00,,5.1666667,-54.3333333
+gf,akoumenai,Akouménaï,00,,2.95,-52.4
+gf,akoumenay,Akouménay,00,,2.95,-52.4
+gf,akoumenaye,Akoumenaye,00,,2.95,-52.4
+gf,akouti,Akouti,00,,4.3833333,-54.3166667
+gf,alicia,Alicia,00,,3.3833333,-52.9166667
+gf,alicoto,Alicoto,00,,3.1166667,-52.35
+gf,alikene,Alikéné,00,,3.3333333,-52.4166667
+gf,alikoto,Alikoto,00,,3.1166667,-52.35
+gf,aloike,Aloïké,00,,3.3166667,-54.0666667
+gf,alowike,Alowike,00,,3.3166667,-54.0666667
+gf,amekan tabiki,Amékan Tabiki,00,,4.8166667,-54.4666667
+gf,ana konde,Ana Kondé,00,,4.2333333,-54.3833333
+gf,ancien degrad fourmi rouge,Ancien Dégrad Fourmi Rouge,00,,3.2833333,-53.6
+gf,ancien degrad francis,Ancien Dégrad Francis,00,,3.5166667,-53.75
+gf,ancien degrad jougla,Ancien Dégrad Jougla,00,,5.5666667,-53.9333333
+gf,ancien degrad nicole,Ancien Degrad Nicole,00,,3.55,-53.8
+gf,ancien degrad vitalo,Ancien Dégrad Vitalo,00,,3.25,-53.5833333
+gf,ancien papaichton,Ancien Papaïchton,00,,3.8166667,-54.1666667
+gf,ancien village hubert,Ancien Village Hubert,00,,3.1,-53.25
+gf,ancien village mathurin,Ancien Village Mathurin,00,,4.5333333,-52.5333333
+gf,ancien village poteau carre,Ancien Village Poteau Carré,00,,4.5666667,-52.4
+gf,angouleme,Angoulême,00,,5.4,-53.65
+gf,ankel,Ankel,00,,5.3,-54.2166667
+gf,antecume pata,Antécume Pata,00,,3.2833333,-54.0666667
+gf,anton,Anton,00,,5.5333333,-53.4333333
+gf,aouara,Aouara,00,,5.7333333,-53.9
+gf,apatou,Apatou,00,4753,5.15,-54.3333333
+gf,approuague,Approuague,00,,4.4166667,-51.9333333
+gf,aratai,Arataï,00,,3.9833333,-52.5666667
+gf,arataye,Arataye,00,,3.9833333,-52.5666667
+gf,arotaye,Arotaye,00,,3.9833333,-52.5666667
+gf,asisi,Asisi,00,,3.8166667,-54.2
+gf,asisie,Asisie,00,,3.8166667,-54.2
+gf,assici,Assici,00,,3.8166667,-54.2
+gf,assisi,Assisi,00,,3.8166667,-54.2
+gf,assissi,Assissi,00,,3.8166667,-54.2
+gf,aubry,Aubry,00,,5.05,-53.65
+gf,avenir,Avenir,00,,4.7666667,-53.75
+gf,awara,Awara,00,,5.7333333,-53.9
+gf,babel,Babel,00,,5.0166667,-54.4333333
+gf,badek,Badek,00,,3.95,-52.9833333
+gf,baduel,Baduel,00,,4.9333333,-52.3166667
+gf,bagdad,Bagdad,00,,3.85,-53.0833333
+gf,bagot,Bagot,00,,4.5333333,-52.55
+gf,baino,Baïno,00,,4.9333333,-54.45
+gf,balate,Balaté,00,,5.4833333,-54.05
+gf,balourou,Balourou,00,,3.5166667,-53.1
+gf,bamboula,Bamboula,00,,3.8333333,-53.1833333
+gf,banana,Banana,00,,4.7,-52.5333333
+gf,banc de sable,Banc de Sable,00,,4.9833333,-52.75
+gf,banlieue-sud,Banlieue-Sud,00,,4.9333333,-52.3333333
+gf,barkarel,Barkarel,00,,3.55,-54.0
+gf,barthelemy,Barthélemy,00,,4.25,-52.55
+gf,bas-espoir,Bas-Espoir,00,,3.65,-53.6166667
+gf,batardeau,Batardeau,00,,4.25,-52.7166667
+gf,baticane,Baticane,00,,5.4833333,-53.65
+gf,ba“uf bois,BÅ“uf Bois,00,,4.9666667,-53.05
+gf,ba“uf mort,BÅ“uf Mort,00,,3.4166667,-52.9666667
+gf,bauge,Baugé,00,,4.2333333,-52.2166667
+gf,beau rivage,Beau Rivage,00,,4.7166667,-53.9166667
+gf,beau soleil,Beau Soleil,00,,4.8666667,-52.25
+gf,bec de sable,Bec de Sable,00,,4.9833333,-52.75
+gf,belizon,Bélizon,00,,4.25,-52.65
+gf,belle etoile,Belle Étoile,00,,3.9833333,-52.9666667
+gf,bellevue,Bellevue,00,,3.7666667,-54.1
+gf,benefica,Bénéfica,00,,4.8833333,-53.3166667
+gf,bernard,Bernard,00,,4.75,-53.9
+gf,bernardin,Bernardin,00,,3.6166667,-53.7
+gf,bicade,Bicade,00,,3.4,-53.45
+gf,bienvenue,Bienvenue,00,,3.1166667,-52.7
+gf,biguiston,Biguiston,00,,5.35,-54.15
+gf,bistouri,Bistouri,00,,4.5333333,-52.65
+gf,bita,Bita,00,,4.0333333,-52.55
+gf,blacus,Blacus,00,,3.6833333,-53.5333333
+gf,blicade,Blicade,00,,3.3,-53.85
+gf,bois bande,Bois Bandé,00,,4.25,-52.5833333
+gf,bois couronne,Bois Couronné,00,,4.8166667,-53.6833333
+gf,bois macaque,Bois Macaque,00,,4.9833333,-52.7666667
+gf,bois martin,Bois Martin,00,,5.0,-54.4333333
+gf,bonidoro,Bonidoro,00,,4.9166667,-54.45
+gf,boniville,Boniville,00,,3.8333333,-54.1833333
+gf,bonne entente,Bonne Entente,00,,5.0,-53.85
+gf,borie,Borie,00,,4.9333333,-53.45
+gf,bossou,Bossou,00,,5.0333333,-54.4166667
+gf,bostok,Bostok,00,,3.4333333,-53.9666667
+gf,boulanger,Boulanger,00,,4.5666667,-52.4166667
+gf,bourda,Bourda,00,,4.9333333,-52.2833333
+gf,bourg de kourou,Bourg de Kourou,00,,5.15,-52.65
+gf,brigandin,Brigandin,00,,5.4166667,-52.9833333
+gf,buja-le-haut,Buja-le-Haut,00,,3.1666667,-52.6833333
+gf,cabassou,Cabassou,00,,4.8833333,-52.3
+gf,cacao,Cacao,00,,4.5833333,-52.4666667
+gf,cafe,Café,00,,3.7333333,-53.7166667
+gf,cambrouse,Cambrouse,00,,5.1833333,-53.4833333
+gf,cambrousse,Cambrousse,00,,5.1833333,-53.4833333
+gf,cambrouze,Cambrouze,00,,3.65,-53.2333333
+gf,camelie,Camélie,00,,5.05,-54.4166667
+gf,camopi,Camopi,00,1295,3.1666667,-52.35
+gf,camp caimans,Camp Caïmans,00,,4.5666667,-52.2166667
+gf,camp charvein,Camp Charvein,00,,5.5666667,-53.9
+gf,camp de coswine,Camp de Coswine,00,,5.6666667,-53.95
+gf,camp de remire,Camp de Rémire,00,,4.9,-52.2666667
+gf,camp leonce,Camp Léonce,00,,4.5666667,-52.4
+gf,camp maipouri,Camp Maïpouri,00,,5.15,-53.9833333
+gf,camp rochambeau,Camp Rochambeau,00,,4.8333333,-52.3833333
+gf,camp voltaire,Camp Voltaire,00,,5.05,-54.0833333
+gf,capon,Capon,00,,3.9166667,-51.8333333
+gf,carbet brule,Carbet Brûlé,00,,3.3666667,-52.8833333
+gf,carbet gaulettes,Carbet Gaulettes,00,,3.8333333,-53.1333333
+gf,carbet hocco,Carbet Hocco,00,,3.8,-53.0
+gf,carbet la nuit,Carbet la Nuit,00,,3.7833333,-53.1833333
+gf,carbet la panne,Carbet la Panne,00,,4.1666667,-52.8833333
+gf,carbet mais,Carbet Maïs,00,,3.6333333,-53.0666667
+gf,carbet medard,Carbet Médard,00,,5.4,-53.6666667
+gf,carbet mitan,Carbet Mitan,00,,3.3,-52.8
+gf,carbets,Carbets,00,,3.4166667,-53.8833333
+gf,carbet tonkin,Carbet Tonkin,00,,4.85,-53.2666667
+gf,carbet toukan,Carbet Toukan,00,,5.2,-52.7666667
+gf,cariacou,Cariacou,00,,4.8166667,-53.15
+gf,carrefour de mana,Carrefour de Mana,00,,5.5,-53.9833333
+gf,carriere,Carrière,00,,4.2833333,-52.6666667
+gf,caussade,Caussade,00,,5.0666667,-52.6
+gf,caux,Caux,00,,4.4833333,-52.0333333
+gf,cayenne,Cayenne,00,61642,4.9333333,-52.3333333
+gf,central bief,Central Bief,00,,4.5166667,-52.4666667
+gf,cent-sous,Cent-Sous,00,,3.6666667,-53.3
+gf,certitude,Certitude,00,,3.8333333,-53.2666667
+gf,changement,Changement,00,,4.4833333,-52.4166667
+gf,chantier forestier de socoumou,Chantier Forestier de Socoumou,00,,5.05,-52.6833333
+gf,chapelle saramaka,Chapelle Saramaka,00,,3.6166667,-52.6666667
+gf,charenton,Charenton,00,,4.2166667,-52.7666667
+gf,charvein,Charvein,00,,5.5666667,-53.9
+gf,chatenay,Chatenay,00,,4.95,-52.3166667
+gf,chaton,Châton,00,,4.95,-52.3166667
+gf,chatonnet,Chatonnet,00,,4.8833333,-53.0166667
+gf,chire,Chire,00,,5.5333333,-53.5333333
+gf,chou-ming,Chou-Ming,00,,4.2833333,-52.15
+gf,cite alexandre,Cité Alexandre,00,,4.9333333,-52.3166667
+gf,cite ampigny,Cité Ampigny,00,,4.9333333,-52.3166667
+gf,cite anatole,Cité Anatole,00,,4.9333333,-52.3166667
+gf,cite brutus,Cité Brutus,00,,4.9333333,-52.3166667
+gf,cite cesaire,Cité Césaire,00,,4.9333333,-52.3333333
+gf,cite des castors,Cité des Castors,00,,4.95,-52.3166667
+gf,cite des manguiers,Cité des Manguiers,00,,4.9333333,-52.3166667
+gf,cite des paletuviers,Cité des Palétuviers,00,,4.9333333,-52.3333333
+gf,cite eau lisette,Cité Eau Lisette,00,,4.9333333,-52.3166667
+gf,cite homat,Cité Homat,00,,4.9166667,-52.3166667
+gf,cite jean-francois,Cité Jean-François,00,,4.9166667,-52.3166667
+gf,cite lafaurie,Cité Lafaurie,00,,4.9333333,-52.3333333
+gf,cite laurie,Cité Laurie,00,,4.9333333,-52.3166667
+gf,cite mirza,Cité Mirza,00,,4.9333333,-52.3166667
+gf,cite nzilla,Cité Nzilla,00,,4.9333333,-52.3166667
+gf,cite pascaline,Cité Pascaline,00,,4.9166667,-52.3166667
+gf,cite pasteur,Cité Pasteur,00,,4.9333333,-52.3166667
+gf,cite quintius,Cité Quintius,00,,4.9166667,-52.3166667
+gf,cite rebard,Cité Rebard,00,,4.9333333,-52.3166667
+gf,cite themire,Cité Themire,00,,4.9333333,-52.3166667
+gf,citron,Citron,00,,4.7333333,-53.95
+gf,civet,Civet,00,,3.4,-53.8333333
+gf,claude,Claude,00,,4.9166667,-53.4
+gf,clement,Clément,00,,3.3833333,-52.35
+gf,cochon brule,Cochon Brûlé,00,,3.8833333,-53.05
+gf,coco,Coco,00,,4.1333333,-52.5166667
+gf,cocoye,Cocoye,00,,4.0666667,-54.15
+gf,cogneau,Cogneau,00,,4.8666667,-52.3166667
+gf,cokioco,Cokioco,00,,4.9166667,-53.5
+gf,combi,Combi,00,,5.3333333,-52.9333333
+gf,combo,Combo,00,,4.8833333,-52.3166667
+gf,conamama,Conamama,00,,5.45,-53.1333333
+gf,coralie,Coralie,00,,4.5166667,-52.35
+gf,cormontibo,Cormontibo,00,,3.8,-54.1333333
+gf,cormotibo,Cormotibo,00,,3.8,-54.1333333
+gf,corossony,Corossony,00,,5.4166667,-53.0333333
+gf,coswine,Coswine,00,,5.6666667,-53.95
+gf,couachi,Couachi,00,,5.6166667,-53.7166667
+gf,couasse,Couasse,00,,4.75,-53.2666667
+gf,coulor,Coulor,00,,5.0,-53.6
+gf,couman-couman,Couman-Couman,00,,4.0333333,-51.6666667
+gf,counamama,Counamama,00,,5.45,-53.1333333
+gf,couriege,Couriège,00,,4.8,-53.2833333
+gf,couy,Couy,00,,4.0833333,-52.55
+gf,crique anguille,Crique Anguille,00,,4.8333333,-52.5166667
+gf,crique jacques,Crique Jacques,00,,5.65,-53.8333333
+gf,dagobert,Dagobert,00,,3.95,-53.45
+gf,dagou ede,Dagou Edé,00,,4.1666667,-52.2666667
+gf,danke,Danké,00,,4.3666667,-54.35
+gf,dardanelles,Dardanelles,00,,3.75,-52.6333333
+gf,decheance,Déchéance,00,,3.65,-53.5333333
+gf,decision,Décision,00,,5.0,-53.9
+gf,decouman eugene,Découman Eugène,00,,4.0833333,-52.55
+gf,decouverte,Découverte,00,,4.2166667,-52.6333333
+gf,degourdi,Dégourdi,00,,4.9666667,-53.0833333
+gf,degrad anel,Dégrad Anel,00,,4.3666667,-52.5833333
+gf,degrad balata,Dégrad Balata,00,,5.0,-52.6833333
+gf,degrad belizon,Dégrad Bélizon,00,,4.25,-52.65
+gf,degrad bicade,Dégrad Bicade,00,,3.4,-53.45
+gf,degrad blanc,Dégrad Blanc,00,,3.7333333,-53.2833333
+gf,degrad blockauss,Dégrad Blockauss,00,,4.65,-52.3333333
+gf,degrad bois blanc,Dégrad Bois Blanc,00,,3.8,-53.8833333
+gf,degrad brigette,Dégrad Brigette,00,,4.2833333,-52.6166667
+gf,degrad cacao,Dégrad Cacao,00,,4.5833333,-52.4666667
+gf,degrad cambrouze,Dégrad Cambrouze,00,,4.7666667,-54.0
+gf,degrad camopi,Dégrad Camopi,00,,3.3333333,-52.8166667
+gf,degrad canard,Dégrad Canard,00,,5.65,-53.7333333
+gf,degrad carbet mais,Dégrad Carbet Maïs,00,,3.6333333,-53.0666667
+gf,degrad claude,Dégrad Claude,00,,2.8833333,-53.0833333
+gf,degrad clemencin,Dégrad Clémencin,00,,5.1,-54.2
+gf,degrad clerc,Dégrad Clerc,00,,4.95,-52.7666667
+gf,degradcorreze,DégradCorrèze,00,,4.5166667,-52.3166667
+gf,degrad des cannes,Dégrad des Cannes,00,,4.85,-52.2666667
+gf,degrad des emerillon,Dégrad des Emerillon,00,,2.8833333,-53.0833333
+gf,degrad dimanche,Dégrad Dimanche,00,,4.9833333,-53.5333333
+gf,degrad dore,Dégrad Doré,00,,3.4166667,-52.75
+gf,degrad etats unis,Dégrad Etats Unis,00,,3.4166667,-53.4166667
+gf,degrad etienne,Dégrad Etienne,00,,4.45,-52.55
+gf,degrad florian,Dégrad Florian,00,,5.4166667,-53.4333333
+gf,degrad fourgassie,Dégrad Fourgassié,00,,4.6166667,-52.3166667
+gf,degrad fourmi,Dégrad Fourmi,00,,3.45,-53.5333333
+gf,degrad fourmi rouge,Dégrad Fourmi Rouge,00,,3.2833333,-53.6
+gf,degrad francis,Dégrad Francis,00,,3.5166667,-53.75
+gf,degrad fromager,Dégrad Fromager,00,,5.2333333,-52.9833333
+gf,degrad galouja,Dégrad Galouja,00,,2.1666667,-52.9833333
+gf,degrad galoupa,Dégrad Galoupa,00,,2.1666667,-52.9833333
+gf,degrad genipa,Dégrad Génipa,00,,5.3666667,-53.4333333
+gf,degrad haut camopi,Dégrad Haut Camopi,00,,2.5,-53.0666667
+gf,degrad henri,Dégrad Henri,00,,5.4166667,-53.1333333
+gf,degrad imperatrice,Dégrad Impératrice,00,,4.0666667,-52.45
+gf,degrad jalbot,Dégrad Jalbot,00,,4.2,-52.6333333
+gf,degrad janson,Dégrad Janson,00,,5.0166667,-52.7166667
+gf,degrad jason,Dégrad Jason,00,,5.0166667,-52.7166667
+gf,degrad jean-jean,Degrad Jean-Jean,00,,4.2333333,-52.0
+gf,degrad kwata,Dégrad Kwata,00,,3.4166667,-52.8666667
+gf,degrad la boue,Dégrad la Boue,00,,5.3833333,-53.4333333
+gf,degrad laurens,Dégrad Laurens,00,,3.2833333,-52.6666667
+gf,degrad limaroula,Dégrad Limaroula,00,,4.1833333,-52.3833333
+gf,degrad limousin,Dégrad Limousin,00,,4.5666667,-52.3
+gf,degrad maman piraye,Dégrad Maman Piraye,00,,5.4,-53.3166667
+gf,degrad maraudeur,Dégrad Maraudeur,00,,3.6,-53.7166667
+gf,degrad menado,Dégrad Ménado,00,,4.6166667,-52.4166667
+gf,degrad moufflet,Dégrad Moufflet,00,,4.4666667,-52.3666667
+gf,degrad neuf,Dégrad Neuf,00,,4.5166667,-52.7166667
+gf,degrad nicole,Dégrad Nicole,00,,3.55,-53.75
+gf,degrad papa jean,Dégrad Papa Jean,00,,4.95,-53.25
+gf,degrad pascal,Dégrad Pascal,00,,5.4166667,-53.35
+gf,degrad patagai,Dégrad Patagaï,00,,5.4333333,-53.2333333
+gf,degrad perdu temps,Dégrad Perdu Temps,00,,5.05,-53.4
+gf,degrad pierette,Dégrad Pierette,00,,4.0166667,-52.5666667
+gf,degrad pierre,Dégrad Pierre,00,,4.95,-53.1833333
+gf,degrad pierrette,Dégrad Pierrette,00,,4.0166667,-52.5666667
+gf,degrad pimpin,Dégrad Pimpin,00,,5.3166667,-54.1833333
+gf,degrad reinald,Dégrad Reinald,00,,2.9166667,-53.2833333
+gf,degrad roche,Dégrad Roche,00,,3.4166667,-53.8333333
+gf,degrad saint-eloi,Dégrad Saint-Éloi,00,,3.8,-53.3
+gf,degrad saint-leon,Dégrad Saint-Léon,00,,3.8833333,-53.3666667
+gf,degrad saint-paul,Dégrad Saint-Paul,00,,4.3833333,-54.3833333
+gf,degrad saint-pierre,Dégrad Saint-Pierre,00,,3.1166667,-52.65
+gf,degrad samson,Dégrad Samson,00,,4.0333333,-53.4666667
+gf,degrad saramaka,Dégrad Saramaka,00,,5.0166667,-52.7
+gf,degrad sardine,Dégrad Sardine,00,,3.6166667,-53.35
+gf,degrad savane,Dégrad Savane,00,,5.4833333,-53.25
+gf,degrad simon,Dégrad Simon,00,,5.15,-54.1666667
+gf,degrad tamanoir,Dégrad Tamanoir,00,,5.4166667,-53.4
+gf,degrad t.h.r.,Dégrad T.H.R.,00,,3.7166667,-53.5166667
+gf,degrad tigre,Dégrad Tigre,00,,4.9666667,-53.1333333
+gf,degrad vitalo,Dégrad Vitalo,00,,3.25,-53.5833333
+gf,degrad yaya,Dégrad Yaya,00,,4.6166667,-54.3333333
+gf,delices,Délices,00,,4.7333333,-53.7666667
+gf,depot lezand,Dépot Lezand,00,,4.9666667,-53.8
+gf,depot lezand ruines,Dépôt Lézand Ruines,00,,4.9666667,-53.8
+gf,depot lezard,Dépôt Lézard,00,,4.9666667,-53.8
+gf,desirade,Désirade,00,,4.75,-53.9166667
+gf,deta,Déta,00,,3.6666667,-53.5833333
+gf,deux branches,Deux Branches,00,,4.8833333,-53.0
+gf,deux fromagers,Deux Fromagers,00,,5.0,-53.7833333
+gf,deux jours,Deux Jours,00,,5.0166667,-53.15
+gf,devez,Devez,00,,4.5166667,-52.4333333
+gf,diamant,Diamant,00,,5.1666667,-52.6333333
+gf,dieudonne,Dieudonné,00,,4.9166667,-53.3833333
+gf,dieu-merci,Dieu-Merci,00,,4.5666667,-52.75
+gf,divalon,Divalon,00,,4.75,-53.8833333
+gf,docris,Docris,00,,3.8,-54.1166667
+gf,doglis,Doglis,00,,3.8,-54.1166667
+gf,domremy,Domrémy,00,,4.25,-52.75
+gf,dorlin,Dorlin,00,,3.75,-53.55
+gf,dosmond,Dosmond,00,,4.5833333,-52.7333333
+gf,dubol,Dubol,00,,4.1833333,-52.1833333
+gf,eau blanche,Eau Blanche,00,,5.0666667,-53.4833333
+gf,eau claire,Eau Claire,00,,3.6,-53.5833333
+gf,eau coulie,Eau Coulie,00,,4.9333333,-52.3166667
+gf,edmond,Edmond,00,,4.6,-52.4333333
+gf,edmont,Edmont,00,,4.6,-52.4333333
+gf,edouard,Édouard,00,,3.4,-53.8333333
+gf,edwin,Edwin,00,,4.6833333,-53.9
+gf,ekeny,Ekény,00,,4.05,-52.4666667
+gf,ekiny,Ekiny,00,,4.05,-52.4666667
+gf,elae,Elaé,00,,3.45,-54.0
+gf,elysee,Élysée,00,,4.75,-54.05
+gf,emerillon,Émerillon,00,,3.4166667,-53.0666667
+gf,emerillons,Emérillons,00,,3.4166667,-53.0666667
+gf,emerillons village,Emérillons Village,00,,3.4166667,-53.0666667
+gf,enene patatpe,Enéné Patatpe,00,,2.3333333,-54.5
+gf,enfants perdus,Enfants perdus,00,,3.8666667,-54.2166667
+gf,enfin,Enfin,00,,4.7333333,-53.9333333
+gf,enfin pepita,Enfin Pépita,00,,4.7333333,-53.9333333
+gf,entouca,Entouca,00,,3.4833333,-54.0166667
+gf,entoucas,Entoucas,00,,3.4833333,-54.0166667
+gf,esperance,Espérance,00,,3.6833333,-53.5333333
+gf,espoir,Espoir,00,,3.85,-53.35
+gf,etats-unis,États-Unis,00,,3.4166667,-53.4166667
+gf,etienne,Étienne,00,,4.45,-52.55
+gf,farnous,Farnous,00,,4.95,-52.4166667
+gf,faubourg l'abri,Faubourg l'Abri,00,,4.9333333,-52.3166667
+gf,fermes de saint-elie,Fermes de Saint-Élie,00,,5.3666667,-53.0166667
+gf,filon doyle,Filon Doyle,00,,4.5,-52.45
+gf,fleche,Flèche,00,,5.5333333,-53.4
+gf,florida,Florida,00,,3.65,-53.5333333
+gf,florissante,Florissante,00,,3.3833333,-52.8833333
+gf,foreshere,Foreshëre,00,,5.2333333,-54.2833333
+gf,forestiere,Forestière,00,,5.2333333,-54.2833333
+gf,fortune,Fortuné,00,,4.55,-52.3
+gf,fourgassie,Fourgassie,00,,4.6166667,-52.3166667
+gf,fracas,Fracas,00,,4.75,-53.6666667
+gf,gaa caba,Gaa Caba,00,,4.4833333,-54.4333333
+gf,gaa kaba,Gaa Kaba,00,,4.4833333,-54.4333333
+gf,gaillot,Gaillot,00,,5.15,-53.65
+gf,galloni,Galloni,00,,5.2166667,-54.2166667
+gf,galmot,Galmot,00,,5.3166667,-54.0833333
+gf,gare tigre,Gare Tigre,00,,4.9666667,-53.1333333
+gf,gaston,Gaston,00,,4.2833333,-52.1333333
+gf,gervais,Gervais,00,,4.6833333,-53.9166667
+gf,goelette,Goélette,00,,3.2833333,-52.8
+gf,goellette,Goellette,00,,3.2833333,-52.8
+gf,goupi patatpe,Goupi Patatpe,00,,2.5166667,-54.3333333
+gf,goupi patatpeu,Goupi Patatpeu,00,,2.5166667,-54.3333333
+gf,grand bala,Grand Bala,00,,4.3833333,-54.3
+gf,grand bassin,Grand Bassin,00,,4.5333333,-52.5166667
+gf,grand carbet,Grand Carbet,00,,3.65,-53.8333333
+gf,grand citron,Grand Citron,00,,4.2666667,-54.3833333
+gf,grand lac,Grand Lac,00,,4.8166667,-53.7
+gf,grand marquis,Grand Marquis,00,,3.75,-53.5833333
+gf,grand pont,Grand Pont,00,,3.7166667,-53.2833333
+gf,grand-santi,Grand-Santi,00,3942,4.25,-54.3833333
+gf,grand santi,Grand Santi,00,,4.3333333,-54.4
+gf,grand usine,Grand Usine,00,,3.3666667,-52.9166667
+gf,grand-village,Grand-Village,00,,5.5833333,-53.7166667
+gf,grigel,Grigel,00,,3.3166667,-53.65
+gf,gros roche,Gros Roche,00,,4.5666667,-52.6166667
+gf,grosse roche,Grosse Roche,00,,5.25,-53.4166667
+gf,guadeloupe,Guadeloupe,00,,4.7333333,-53.7833333
+gf,guatemala,Guatemala,00,,5.15,-52.6333333
+gf,guenouillet,Guenouillet,00,,4.9166667,-52.4666667
+gf,guillaume,Guillaume,00,,4.2666667,-52.25
+gf,guisambourg,Guisambourg,00,,4.4166667,-51.9333333
+gf,guisanbourg,Guisanbourg,00,,4.4166667,-51.9333333
+gf,guizambourg,Guizambourg,00,,4.4166667,-51.9333333
+gf,guizanbourg,Guizanbourg,00,,4.4166667,-51.9333333
+gf,honorable tchung ming,Honorable Tchung Ming,00,,4.2833333,-52.15
+gf,ilakana patatpe,Ilakana Patatpe,00,,2.6333333,-54.3
+gf,ilet lezard,Îlet Lézard,00,,5.05,-53.8
+gf,ilet malouin,Îlet Malouin,00,,4.9333333,-52.3333333
+gf,ilet tortue,Îlet Tortue,00,,5.2,-52.9666667
+gf,imperatrice,Impératrice,00,,4.0666667,-52.45
+gf,indiens oyampis,Indiens Oyampis,00,,3.1166667,-52.35
+gf,inipi,Inipi,00,,3.25,-52.95
+gf,ippoussing,Ippoussing,00,,4.1166667,-52.5666667
+gf,iracoubo,Iracoubo,00,1539,5.4833333,-53.2166667
+gf,irene,Irène,00,,4.1333333,-52.9166667
+gf,isnard et priane,Isnard et Priane,00,,4.9333333,-52.7333333
+gf,itousanseng,Itousanseng,00,,2.2,-52.9166667
+gf,jalbot,Jalbot,00,,4.2,-52.6166667
+gf,janvier,Janvier,00,,5.1666667,-54.15
+gf,javouhey,Javouhey,00,,5.6,-53.8166667
+gf,jean,Jean,00,,4.2333333,-52.0
+gf,jean jean,Jean Jean,00,,4.2333333,-52.0
+gf,jean-jean remission,Jean-Jean Rémission,00,,4.2333333,-52.0
+gf,jejo,Jejo,00,,5.4,-53.0
+gf,john,John,00,,4.9666667,-53.5833333
+gf,john sirot,John Sirot,00,,4.2833333,-52.15
+gf,junique,Junique,00,,5.1666667,-54.0333333
+gf,kagnouma,Kagnouma,00,,2.6333333,-52.55
+gf,kantali,Kantali,00,,5.4166667,-54.3166667
+gf,kariakou,Kariakou,00,,4.8166667,-53.15
+gf,kaw,Kaw,00,,4.4833333,-52.0333333
+gf,kepioudou,Kepioudou,00,,4.9833333,-54.4333333
+gf,kerenroch,Kérenroch,00,,5.1,-53.05
+gf,kofi kamiza,Kofi Kamiza,00,,4.1833333,-54.4
+gf,kokioko,Kokioko,00,,4.9166667,-53.5
+gf,kokoi,Kokoï,00,,4.0666667,-54.15
+gf,kokoye,Kokoye,00,,4.0666667,-54.15
+gf,kormontibo,Kormontibo,00,,3.8,-54.1333333
+gf,kormotibo,Kormotibo,00,,3.8,-54.1333333
+gf,kotioko,Kotioko,00,,3.4,-52.9
+gf,kouachi,Kouachi,00,,5.6166667,-53.7166667
+gf,kouachinana,Kouachinana,00,,5.6333333,-53.6833333
+gf,kouman-kouman,Kouman-Kouman,00,,4.0333333,-51.6666667
+gf,kouro,Kouro,00,,5.15,-52.65
+gf,kourou,Kourou,00,24035,5.15,-52.65
+gf,koutou,Koutou,00,,3.3,-52.7666667
+gf,koutouwao,Koutouwao,00,,5.5666667,-53.9333333
+gf,kwassie,Kwassie,00,,4.95,-54.4333333
+gf,la boue,La Boue,00,,4.15,-52.4666667
+gf,la chaumiere,La Chaumière,00,,4.8833333,-52.3666667
+gf,la conie,La Conie,00,,4.2333333,-52.7666667
+gf,la dame blanche,La Dame Blanche,00,,4.9166667,-52.3666667
+gf,la desirade,La Désirade,00,,4.75,-53.9166667
+gf,la douane,La Douane,00,,5.0333333,-52.7
+gf,la forestiere,La Forestière,00,,5.2333333,-54.2833333
+gf,la greve,La Grève,00,,3.8666667,-53.6833333
+gf,la levee,La Levée,00,,4.8333333,-52.3
+gf,la madeleine,La Madeleine,00,,4.9166667,-52.3166667
+gf,lamerique,Lamérique,00,,3.3333333,-53.0
+gf,la mirande distillerie,La Mirande Distillerie,00,,4.8833333,-52.3333333
+gf,la mirande,La Mirande,00,,4.8833333,-52.3333333
+gf,lamonet,Lamonet,00,,3.65,-54.0166667
+gf,l'amphitheatre,L'Amphithéâtre,00,,4.9,-52.3333333
+gf,langa tabiki,Langa Tabiki,00,,4.9833333,-54.4333333
+gf,la republique,La République,00,,4.8666667,-53.25
+gf,larivant,Larivant,00,,4.9,-52.3666667
+gf,larivaut,Larivaut,00,,4.9,-52.3666667
+gf,larivot,Larivot,00,,4.9,-52.3666667
+gf,la roche fende,La Roche Fendé,00,,4.3833333,-52.5666667
+gf,laurens,Laurens,00,,3.2833333,-52.6666667
+gf,laurent,Laurent,00,,5.5,-54.0333333
+gf,laussat,Laussat,00,,5.4833333,-53.5666667
+gf,la valere,La Valère,00,,4.8333333,-52.3333333
+gf,lavaud,Lavaud,00,,3.0,-54.1666667
+gf,la villette,La Villette,00,,4.95,-53.1666667
+gf,le bourg,Le Bourg,00,,5.15,-52.65
+gf,le dix-septieme,Le Dix-Septième,00,,4.8333333,-52.35
+gf,le gallion,Le Gallion,00,,4.7833333,-52.4333333
+gf,le larivot,Le Larivot,00,,4.9,-52.3666667
+gf,l'enfant perdu,L'Enfant Perdu,00,,3.8666667,-54.2166667
+gf,leonce,Léonce,00,,3.8,-53.7
+gf,le rallye,Le Rallye,00,,4.05,-52.95
+gf,les allies,Les Alliés,00,,5.0333333,-53.65
+gf,les bambous,Les Bambous,00,,5.6166667,-53.8
+gf,les halles,Les Halles,00,,5.7333333,-53.95
+gf,les hattes,Les Hattes,00,,5.7333333,-53.95
+gf,les malgaches,Les Malgaches,00,,5.4833333,-54.0166667
+gf,les roches,Les Roches,00,,5.15,-52.6333333
+gf,l'horizon,L'Horizon,00,,5.1333333,-53.65
+gf,lieu-dit bois macaque,Lieu-dit Bois Macaque,00,,4.9833333,-52.7666667
+gf,lieu-dit dubol,Lieu-dit Dubol,00,,4.1833333,-52.1833333
+gf,lieu-dit picard,Lieu-dit Picard,00,,4.2,-52.2666667
+gf,lieu-dit pois sucre,Lieu-dit Pois Sucré,00,,4.95,-52.7666667
+gf,lioni,Lioni,00,,4.1,-54.3333333
+gf,lipo lipo,Lipo Lipo,00,,3.3,-54.05
+gf,lissa,Lissa,00,,4.9833333,-54.4333333
+gf,l'observatoire,L'Observatoire,00,,4.5333333,-53.9666667
+gf,loca,Loca,00,,3.8333333,-54.2
+gf,loulouie,Loulouïe,00,,4.8666667,-53.0333333
+gf,lysis,Lysis,00,,4.5166667,-52.5166667
+gf,macouba,Macouba,00,,5.5333333,-53.4
+gf,macouria,Macouria,00,8786,4.9166667,-52.3666667
+gf,madame yeyenne,Madame Yeyenne,00,,3.2166667,-53.7166667
+gf,mafi,Mafi,00,,4.2833333,-52.1333333
+gf,magasin creole,Magasin Créole,00,,4.2,-54.4
+gf,maipouri,Maïpouri,00,,3.3666667,-52.3833333
+gf,malaitawa,Malaïtawa,00,,3.1333333,-54.2
+gf,malavate,Malavate,00,,3.3,-54.1
+gf,malmaison,Malmaison,00,,4.9833333,-52.45
+gf,malmanoury,Malmanoury,00,,5.3,-52.8333333
+gf,malterre,Malterre,00,,4.9333333,-52.3166667
+gf,maman koumarou,Maman Koumarou,00,,4.15,-52.2
+gf,maman valentin,Maman Valentin,00,,5.3333333,-53.6666667
+gf,mamaribo,Mamaribo,00,,5.5166667,-53.35
+gf,mana,Mana,00,5887,5.6666667,-53.7833333
+gf,mango,Mango,00,,4.9333333,-52.3166667
+gf,maniga,Maniga,00,,5.4166667,-53.2666667
+gf,maraudeur,Maraudeur,00,,3.6,-53.7166667
+gf,maraudeurs,Maraudeurs,00,,3.6,-53.7166667
+gf,mariani,Mariani,00,,5.15,-53.65
+gf,marian,Marian,00,,5.15,-53.65
+gf,marignan,Marignan,00,,4.6333333,-52.45
+gf,mario,Mario,00,,3.3166667,-52.3333333
+gf,maripa,Maripa,00,,3.8,-51.8833333
+gf,maripasoula,Maripasoula,00,,3.6333333,-54.0333333
+gf,maripa-village,Maripa-Village,00,,3.6333333,-54.05
+gf,maroni,Maroni,00,,5.5,-54.0333333
+gf,marquis,Marquis,00,,3.75,-53.6
+gf,mathurin,Mathurin,00,,4.5333333,-52.5333333
+gf,matiti,Matiti,00,,5.05,-52.6
+gf,matoary,Matoary,00,,4.85,-52.3333333
+gf,matoury,Matoury,00,26357,4.85,-52.3333333
+gf,mayman,Mayman,00,,5.1833333,-54.3166667
+gf,medeyre,Médeyre,00,,5.6,-53.65
+gf,menado,Ménado,00,,4.6,-52.4166667
+gf,migue,Migue,00,,4.2833333,-52.15
+gf,moges,Mogès,00,,4.7833333,-52.3333333
+gf,mompe soula,Mompé Soula,00,,4.55,-54.4333333
+gf,mondesir,Mondésir,00,,4.1833333,-52.8166667
+gf,monfina,Monfina,00,,4.1666667,-54.3666667
+gf,montabo,Montabo,00,,4.95,-52.3
+gf,montagne maripa,Montagne Maripa,00,,4.4166667,-52.3333333
+gf,montagne sable,Montagne Sable,00,,5.5666667,-53.6
+gf,montjoli,Montjoli,00,,4.9166667,-52.2666667
+gf,montjoly,Montjoly,00,,4.9166667,-52.2666667
+gf,montjoyeux,Montjoyeux,00,,4.95,-52.3
+gf,montsinery,Montsinéry,00,,4.9,-52.5
+gf,mont valerien,Mont Valérien,00,,4.9333333,-53.05
+gf,morpio,Morpio,00,,5.4833333,-53.3
+gf,morpion,Morpion,00,,5.0166667,-53.65
+gf,moucaya,Moucaya,00,,5.5166667,-53.3833333
+gf,moussoue santi tabiki,Moussoué Santi Tabiki,00,,4.5833333,-54.4166667
+gf,moyoco,Moyoco,00,,5.1666667,-52.65
+gf,nancibo,Nancibo,00,,4.6666667,-52.4833333
+gf,nasson,Nasson,00,,4.8166667,-54.4666667
+gf,nationale,Nationale,00,,4.5833333,-52.75
+gf,niewe rust,Niewe Rust,00,,5.5833333,-55.0333333
+gf,nouveau camp,Nouveau Camp,00,,5.55,-53.9333333
+gf,nouvelle alliance,Nouvelle Alliance,00,,4.0166667,-51.7333333
+gf,nouvelle angouleme,Nouvelle Angouleme,00,,5.4,-53.65
+gf,opoya,Opoya,00,,3.3833333,-54.05
+gf,organabo,Organabo,00,,5.5333333,-53.4666667
+gf,oscar,Oscar,00,,2.85,-52.45
+gf,ouanary,Ouanary,00,,4.2166667,-51.6666667
+gf,ouaqui,Ouaqui,00,,3.45,-54.0
+gf,ouragan,Ouragan,00,,3.9333333,-53.0166667
+gf,oyampis,Oyampis,00,,3.1166667,-52.35
+gf,oyapock,Oyapock,00,,3.9,-51.8
+gf,paille,Paillé,00,,4.2,-54.2333333
+gf,palassissi,Palassissi,00,,3.2833333,-54.0833333
+gf,papaichton,Papaïchton,00,,3.8,-54.1666667
+gf,papa momo,Papa Momo,00,,5.5333333,-53.6833333
+gf,papa moumou,Papa Moumou,00,,5.5333333,-53.6833333
+gf,parcours noir,Parcours Noir,00,,3.4166667,-52.1333333
+gf,pascal,Pascal,00,,4.25,-54.3833333
+gf,pascaud,Pascaud,00,,4.8666667,-52.2666667
+gf,patagaie,Patagaïe,00,,5.4333333,-53.2333333
+gf,patate,Patate,00,,5.0333333,-53.65
+gf,patawa,Patawa,00,,4.6833333,-52.5166667
+gf,patience,Patience,00,,3.4166667,-52.9166667
+gf,paul isnard,Paul Isnard,00,,4.7833333,-54.0166667
+gf,pedima,Pédima,00,,3.3,-54.1
+gf,pelea,Péléa,00,,3.2666667,-54.1166667
+gf,perdu temps,Perdu Temps,00,,4.9833333,-53.3666667
+gf,petit cabrit,Petit Cabrit,00,,4.4333333,-53.5833333
+gf,petit cayenne,Petit Cayenne,00,,4.8833333,-52.4
+gf,petit fouet,Petit Fouet,00,,4.9,-54.4666667
+gf,petit francois,Petit François,00,,3.1333333,-52.35
+gf,petit laussat,Petit Laussat,00,,5.45,-53.8833333
+gf,petit paradis,Petit Paradis,00,,3.6833333,-53.5333333
+gf,petit placer,Petit Placer,00,,4.5,-52.4833333
+gf,petit saut,Petit Saut,00,,5.35,-53.6833333
+gf,picard,Picard,00,,4.2,-52.2666667
+gf,pierette,Pierette,00,,4.0166667,-52.5666667
+gf,pierre hoho,Pierre Hoho,00,,3.3166667,-52.7333333
+gf,pierrette,Pierrette,00,,4.0166667,-52.5666667
+gf,pikinn tabiki,Pikinn Tabiki,00,,3.2333333,-54.0833333
+gf,piliwa,Piliwa,00,,5.7333333,-53.8833333
+gf,pina,Pina,00,,2.2833333,-52.85
+gf,placer a dieu vat,Placer A Dieu Vat,00,,4.8666667,-53.0
+gf,placer bief,Placer Bief,00,,4.5166667,-52.4666667
+gf,placer chantal,Placer Chantal,00,,4.4166667,-54.35
+gf,placer couriege,Placer Couriege,00,,4.8,-53.2833333
+gf,placer dieu va,Placer Dieu Va,00,,4.8666667,-53.0
+gf,placer paul isnard,Placer Paul Isnard,00,,4.7833333,-54.0166667
+gf,placers tibourou,Placers Tibourou,00,,4.4666667,-52.3333333
+gf,placer tresor,Placer Trésor,00,,4.5833333,-52.2833333
+gf,plaque roche,Plaque Roche,00,,5.3333333,-53.4333333
+gf,point de trijonction,Point de Trijonction,00,,5.5666667,-53.9333333
+gf,pointe caiman,Pointe Caïman,00,,4.9833333,-52.6666667
+gf,pointe combi,Pointe Combi,00,,5.3166667,-52.95
+gf,pointe isere,Pointe Isère,00,,5.7333333,-53.8666667
+gf,pois sucre,Pois Sucré,00,,4.95,-52.7666667
+gf,polemie,Polémie,00,,4.95,-53.7833333
+gf,polydor,Polydor,00,,3.2,-52.4
+gf,pompidou,Pompidou,00,,3.8,-54.1666667
+gf,ponta,Ponta,00,,5.2,-54.3166667
+gf,ponte caiman,Ponte Caïman,00,,4.9833333,-52.6666667
+gf,popote,Popote,00,,3.7,-53.2833333
+gf,populo,Populo,00,,5.6166667,-53.8166667
+gf,portal,Portal,00,,5.4166667,-54.1
+gf,port inini,Port Inini,00,,4.8166667,-52.4833333
+gf,providence,Providence,00,,4.6166667,-54.4
+gf,quatre carbets,Quatre Carbets,00,,3.7666667,-52.2
+gf,quesnel,Quesnel,00,,4.95,-52.5
+gf,ramire,Ramire,00,,4.8833333,-52.2833333
+gf,regina,Régina,00,,4.3166667,-52.1333333
+gf,remire-camp,Rémire-Camp,00,,4.9,-52.2666667
+gf,remire,Rémiré,00,,4.8833333,-52.2833333
+gf,repentir,Repentir,00,,3.8333333,-53.4
+gf,republique,République,00,,4.8666667,-53.25
+gf,reveil,Réveil,00,,4.9833333,-53.85
+gf,ridel,Ridel,00,,4.2833333,-52.15
+gf,risquetout,Risquetout,00,,4.9166667,-52.5166667
+gf,roche ara,Roche Ara,00,,4.1,-52.2166667
+gf,roche bardo,Roche Bardo,00,,5.1833333,-53.7166667
+gf,roche bravo,Roche Bravo,00,,5.2666667,-52.9666667
+gf,roche brigandin,Roche Brigandin,00,,5.45,-53.0
+gf,roche cabrit,Roche Cabrit,00,,4.4333333,-53.5833333
+gf,roche cambrouze,Roche Cambrouze,00,,5.4166667,-53.3833333
+gf,roche chapeau,Roche Chapeau,00,,2.9833333,-53.3166667
+gf,roche hirondelle,Roche Hirondelle,00,,5.4333333,-53.35
+gf,roche kawann,Roche Kawann,00,,5.1166667,-53.4
+gf,roche maman pian,Roche Maman Pian,00,,5.1,-53.0333333
+gf,roche mon pere,Roche Mon Père,00,,3.2833333,-52.2
+gf,roches blanches,Roches Blanches,00,,5.5,-53.3333333
+gf,roche serpent,Roche Serpent,00,,4.5666667,-53.0833333
+gf,roche singe rouge,Roche Singe Rouge,00,,5.1,-53.0333333
+gf,roche singes rouges,Roche Singes Rouges,00,,5.1,-53.0333333
+gf,roche tablon,Roche Tablon,00,,4.6333333,-52.3833333
+gf,roche tado,Roche Tado,00,,5.0833333,-53.0666667
+gf,rocoucoua,Rocoucoua,00,,5.45,-53.3333333
+gf,roncevaux,Roncevaux,00,,4.25,-52.6833333
+gf,roura,Roura,00,2230,4.7333333,-52.3333333
+gf,ruben,Ruben,00,,5.35,-54.1333333
+gf,rubis,Rubis,00,,4.15,-52.9
+gf,saint-antoine,Saint-Antoine,00,,5.6,-53.8833333
+gf,saint-bernard,Saint-Bernard,00,,5.1666667,-52.95
+gf,sainte anne degrad,Sainte Anne Dégrad,00,,4.8,-53.1166667
+gf,sainte-anne,Sainte-Anne,00,,4.5833333,-52.45
+gf,sainte elie,Sainte Élie,00,,4.8333333,-53.2833333
+gf,sainte-helene,Sainte-Hélène,00,,4.25,-52.5666667
+gf,sainte laurent,Sainte Laurent,00,,5.5,-54.0333333
+gf,saint-elie,Saint-Élie,00,,4.8333333,-53.2833333
+gf,saint-eloi,Saint-Éloi,00,,3.7333333,-53.2333333
+gf,sainte-marie-les-mines,Sainte-Marie-les-Mines,00,,4.5166667,-52.45
+gf,saint-esprit,Saint-Esprit,00,,4.2833333,-52.1333333
+gf,saint-eugene,Saint-Eugène,00,,4.85,-53.0666667
+gf,saint-georges,Saint-Georges,00,2743,3.9,-51.8
+gf,saint georges,Saint Georges,00,,3.8833333,-51.8333333
+gf,saint-jean,Saint-Jean,00,,4.1,-54.2
+gf,saint-joseph,Saint-Joseph,00,,3.1333333,-52.35
+gf,saint-laurent du maroni,Saint-Laurent du Maroni,00,,5.5,-54.0333333
+gf,saint laurent,Saint Laurent,00,,5.5,-54.0333333
+gf,saint-louis,Saint-Louis,00,,4.0333333,-51.6833333
+gf,saint-lucien,Saint-Lucien,00,,4.15,-52.5333333
+gf,saint-maurice,Saint-Maurice,00,,5.4666667,-54.0166667
+gf,saint-nazaire,Saint-Nazaire,00,,4.9666667,-53.1333333
+gf,saint-paul,Saint-Paul,00,,4.3833333,-54.3833333
+gf,saint-pierre,Saint-Pierre,00,,3.15,-52.6666667
+gf,sai,Saï,00,,3.4,-53.2333333
+gf,sania,Sania,00,,5.2,-54.3
+gf,santonia,Santonia,00,,4.75,-54.4666667
+gf,sapajou,Sapajou,00,,4.2666667,-52.7
+gf,sapokai,Sapokaï,00,,3.5666667,-52.6666667
+gf,sapotille,Sapotille,00,,5.3,-53.6166667
+gf,saulnier,Saulnier,00,,5.2666667,-52.9666667
+gf,saul,Saül,00,,3.6166667,-53.2
+gf,sautero,Sautero,00,,4.8166667,-52.3166667
+gf,saut sabbat,Saut Sabbat,00,,5.3833333,-53.6666667
+gf,saut tigre,Saut Tigre,00,,5.0166667,-53.0333333
+gf,savane manuel,Savane Manuel,00,,5.35,-52.95
+gf,senkinen,Senkinen,00,,5.1,-54.3666667
+gf,sikini,Sikini,00,,3.3833333,-52.5
+gf,siminiout,Siminiout,00,,2.9166667,-52.8333333
+gf,simon,Simon,00,,4.5666667,-52.6333333
+gf,sinamary,Sinamary,00,,5.3833333,-52.95
+gf,sinnamari,Sinnamari,00,,5.3833333,-52.95
+gf,sinnamary,Sinnamary,00,3190,5.3833333,-52.95
+gf,sinnama,Sinnama,00,,5.3833333,-52.95
+gf,sivirine,Sivirine,00,,5.3666667,-53.1833333
+gf,socoumou,Socoumou,00,,5.05,-52.6833333
+gf,sokoumou,Sokoumou,00,,5.05,-52.6833333
+gf,soncelle,Soncelle,00,,3.6666667,-53.9666667
+gf,soneelle,Soneelle,00,,3.6666667,-53.9666667
+gf,sonnelle,Sonnelle,00,,3.6666667,-53.9666667
+gf,sophie,Sophie,00,,3.9666667,-53.4833333
+gf,soula,Soula,00,,4.9,-52.4
+gf,sparouine,Sparouine,00,,5.2666667,-54.25
+gf,spes,Spes,00,,4.5166667,-52.4
+gf,sport,Sport,00,,4.4666667,-53.5833333
+gf,stoupan,Stoupan,00,,4.7666667,-52.3166667
+gf,sursaut,Sursaut,00,,4.9666667,-53.15
+gf,susini,Susini,00,,4.9333333,-52.2833333
+gf,suzini,Suzini,00,,4.9333333,-52.2833333
+gf,taconet,Taconet,00,,4.0333333,-52.5166667
+gf,taconnet,Taconnet,00,,4.0333333,-52.5166667
+gf,tampac,Tampac,00,,3.2,-52.5333333
+gf,tampak,Tampak,00,,3.2,-52.5333333
+gf,tampok,Tampok,00,,3.3333333,-53.8333333
+gf,tapontekampoe,Tapontekampoe,00,,3.2666667,-54.1166667
+gf,taponte,Taponté,00,,3.2666667,-54.1166667
+gf,terre rouge,Terre Rouge,00,,5.45,-54.05
+gf,theodore,Théodore,00,,4.0333333,-52.55
+gf,theophane,Théophane,00,,3.7166667,-54.0833333
+gf,timon,Timon,00,,4.4166667,-52.3833333
+gf,tonale,Tonale,00,,5.0166667,-52.4833333
+gf,tonate,Tonate,00,,5.0166667,-52.4833333
+gf,tonegrande,Tonégrande,00,,4.8333333,-52.45
+gf,tonkin,Tonkin,00,,4.85,-53.2666667
+gf,tonnegrande,Tonnégrande,00,,4.8333333,-52.45
+gf,tonnigrande,Tonnigrande,00,,4.8333333,-52.45
+gf,tortue,Tortue,00,,4.1833333,-52.3833333
+gf,toussine,Toussine,00,,4.7666667,-53.8833333
+gf,trois rois,Trois Rois,00,,4.95,-52.5333333
+gf,trois sauts,Trois Sauts,00,,2.25,-52.8833333
+gf,trou ara,Trou Ara,00,,5.3333333,-53.1833333
+gf,trou biron,Trou Biron,00,,4.9333333,-52.3
+gf,trou caimans,Trou Caïmans,00,,5.45,-53.1333333
+gf,trou poissons,Trou Poissons,00,,5.4333333,-53.0833333
+gf,trou poisson,Trou Poisson,00,,5.4333333,-53.0833333
+gf,valentin,Valentin,00,,5.3166667,-53.6666667
+gf,valide,Valide,00,,3.8666667,-53.3666667
+gf,venus,Venus,00,,5.2,-52.9833333
+gf,vichy,Vichy,00,,4.2,-52.7833333
+gf,victor,Victor,00,,4.9333333,-52.3166667
+gf,vierge des trois tonneaux,Vierge des Trois Tonneaux,00,,4.9,-53.2
+gf,vieux grand-santi,Vieux Grand-Santi,00,,4.3333333,-54.4
+gf,villaflore,Villaflore,00,,4.15,-52.3666667
+gf,village adnet,Village Adnet,00,,4.25,-52.2166667
+gf,village bauge,Village Baugé,00,,4.2333333,-52.2166667
+gf,village beauge,Village Beaugé,00,,4.2333333,-52.2166667
+gf,village blicade,Village Blicade,00,,3.3,-53.85
+gf,village bresilien,Village Brésilien,00,,5.15,-52.65
+gf,village chinois,Village Chinois,00,,4.1833333,-52.8666667
+gf,village coco,Village Coco,00,,4.3,-52.1333333
+gf,village creole,Village Créole,00,,3.2166667,-53.7166667
+gf,village emerillons,Village Emerillons,00,,3.4,-53.8333333
+gf,village emerillon,Village Emérillon,00,,3.4,-53.8333333
+gf,village esperance,Village Espérance,00,,4.6666667,-54.3166667
+gf,village fracas,Village Fracas,00,,4.75,-53.6666667
+gf,village gaa caba,Village Gaa Caba,00,,4.4833333,-54.4333333
+gf,village galibi,Village Galibi,00,,5.4,-54.1166667
+gf,village galloni,Village Galloni,00,,5.2166667,-54.2166667
+gf,village gaston,Village Gaston,00,,4.2833333,-52.1333333
+gf,village grigel,Village Grigel,00,,3.3166667,-53.65
+gf,village guillaume,Village Guillaume,00,,4.2666667,-52.25
+gf,village imperatrice,Village Impératrice,00,,4.0666667,-52.45
+gf,village inipi,Village Inipi,00,,3.25,-52.95
+gf,village la greve,Village La Grève,00,,3.8666667,-53.6833333
+gf,village lioni,Village Lioni,00,,4.1,-54.3333333
+gf,village maffi,Village Maffi,00,,4.2833333,-52.1333333
+gf,village migue,Village Migue,00,,4.2833333,-52.15
+gf,village portal,Village Portal,00,,5.4166667,-54.1
+gf,village roucouyenne,Village Roucouyenne,00,,3.3166667,-54.0666667
+gf,village saint-esprit,Village Saint-Esprit,00,,4.2833333,-52.1333333
+gf,village saint-paul,Village Saint-Paul,00,,4.3833333,-54.3833333
+gf,village saramaca,Village Saramaca,00,,4.4,-52.3833333
+gf,village saramaka,Village Saramaka,00,,5.15,-52.6333333
+gf,village sophie,Village Sophie,00,,3.9666667,-53.4833333
+gf,villages oyampi,Villages Oyampi,00,,2.2,-52.9166667
+gf,village tortue,Village Tortue,00,,4.1833333,-52.3833333
+gf,village yaya,Village Yaya,00,,4.6166667,-54.3333333
+gf,vini,Vini,00,,3.6833333,-53.95
+gf,wacapou,Wacapou,00,,3.6833333,-54.0833333
+gf,wakapou,Wakapou,00,,3.6833333,-54.0833333
+gf,wempi,Wempi,00,,3.3833333,-53.9333333
+gf,weni we,Weni Wé,00,,3.6833333,-53.95
+gf,weti-chiton,Wéti-Chiton,00,,4.75,-54.4666667
+gf,wilfried,Wilfried,00,,3.7,-54.0833333
+gf,winiwe,Winiwé,00,,3.6833333,-53.95
+gf,yalou patatpeu,Yalou Patatpeu,00,,2.5333333,-54.3333333
+gf,yalou patatpe,Yalou Patatpe,00,,2.5333333,-54.3333333
+gf,yaya,Yaya,00,,4.6166667,-54.3333333
+gf,yofe,Yofé,00,,5.4333333,-53.6833333
+gf,yolande,Yolande,00,,4.1,-52.95
+gf,zidok,Zidok,00,,2.25,-52.8666667
+gf,zombi,Zombi,00,,4.6,-52.4

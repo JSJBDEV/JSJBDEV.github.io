@@ -1,0 +1,6 @@
+cx,drumsite,Drumsite,00,,-10.4333333,105.6833333
+cx,flying fish cove,Flying Fish Cove,00,,-10.4166667,105.7166667
+cx,settlement,Settlement,00,,-10.4166667,105.6666667
+cx,south point,South Point,00,,-10.5666667,105.65
+cx,the settlement,The Settlement,00,,-10.4166667,105.7166667
+cx,waterfall,Waterfall,00,,-10.45,105.6666667

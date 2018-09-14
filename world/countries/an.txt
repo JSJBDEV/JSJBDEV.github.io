@@ -1,0 +1,269 @@
+an,ararat,Ararat,00,,12.1105556,-68.9194444
+an,australie,Australie,00,,12.1166667,-68.95
+an,barber,Barber,00,2424,12.2833333,-69.0666667
+an,bau seroe,Bau Seroe,00,,12.3,-69.1
+an,bella vista,Bella Vista,00,,12.15,-68.25
+an,bel nem,Bel Nem,00,,12.1166667,-68.2833333
+an,belvedere,Belvédère,00,,18.05,-63.0333333
+an,beneden prinsen,Beneden Prinsen,00,,18.0333333,-63.0333333
+an,beneden prinsen kwartier,Beneden Prinsen Kwartier,00,,18.0333333,-63.0333333
+an,benesuela,Benesuela,00,,12.2666667,-68.3333333
+an,benners,Benners,00,,17.4833333,-62.9833333
+an,berg altena,Berg Altena,00,,12.1077778,-68.9175
+an,blomonte,Blomonte,00,,12.15,-68.9333333
+an,blomonti,Blomonti,00,,12.15,-68.9333333
+an,bloomingdale,Bloomingdale,00,,18.0166667,-63.0333333
+an,boka sami,Boka Samí,00,,12.1333333,-68.9833333
+an,bona vista,Bona Vista,00,,12.1166667,-68.85
+an,bonavista,Bonavista,00,,12.1666667,-68.9833333
+an,botele,Botele,00,,12.2333333,-68.3166667
+an,bottom,Bottom,00,,17.6333333,-63.25
+an,bouille,Bouille,00,,17.4666667,-62.9666667
+an,bou'i seru,Bou'i Seru,00,,12.3,-69.1
+an,boven bolivia,Boven Bolivia,00,,12.1833333,-68.2166667
+an,boven prinsen,Boven Prinsen,00,,18.0333333,-63.0333333
+an,boven prinsen kwartier,Boven Prinsen Kwartier,00,,18.0333333,-63.0333333
+an,bricat,Bricat,00,,12.15,-68.2166667
+an,brievengat,Brievengat,00,,12.15,-68.9
+an,buena esperansa,Buena Esperansa,00,,12.1666667,-68.2166667
+an,buena vista,Buena Vista,00,,12.1333333,-68.95
+an,bullenbaai,Bullenbaai,00,,12.1666667,-69.0
+an,caranjito,Caranjito,00,,12.1333333,-68.25
+an,cas chikitoe,Cas Chikitoe,00,,12.1166667,-68.9666667
+an,cas cora,Cas Corá,00,,12.1666667,-68.2166667
+an,cerrito,Cerrito,00,,12.1166667,-68.9166667
+an,chapel piece,Chapel Piece,00,,17.4666667,-62.9833333
+an,cher asile,Cher Asile,00,,12.1066667,-68.9152778
+an,coeroeboeroe,Coeroeboeroe,00,,12.2,-68.2666667
+an,colon,Colon,00,,12.1138889,-68.9402778
+an,concordia,Concordia,00,,17.4833333,-62.9666667
+an,cornet,Cornet,00,,12.1058333,-68.92
+an,cottage pasture,Cottage Pasture,00,,17.4833333,-62.9833333
+an,crispeen,Crispeen,00,,17.6166667,-63.2333333
+an,cul de sac,Cul de Sac,00,,18.0333333,-63.0666667
+an,cupe coy,Cupe Coy,00,,18.05,-63.1333333
+an,deenterra,Deenterra,00,,12.1666667,-68.2666667
+an,defiance,Defiance,00,,18.0333333,-63.0333333
+an,de hoop,De Hoop,00,,12.1333333,-68.95
+an,dentera,Dentera,00,,12.1666667,-68.2666667
+an,den tuna,Den Tuna,00,,12.1666667,-68.2666667
+an,diamond,Diamond,00,,18.0333333,-63.0833333
+an,domi,Domi,00,,12.1175,-68.9427778
+an,domingitu,Domingitu,00,,12.1,-68.9
+an,dominguito,Dominguito,00,,12.1,-68.9
+an,dorp antriol,Dorp Antriol,00,,12.1666667,-68.2666667
+an,dorp lagoen,Dorp Lagoen,00,,12.3166667,-69.1666667
+an,dorp lagun,Dorp Lagún,00,,12.3166667,-69.1666667
+an,dorp nikiboco,Dorp Nikiboco,00,,12.15,-68.2666667
+an,dorp nikiboko,Dorp Nikiboko,00,,12.15,-68.2666667
+an,dorp noor i salina,Dorp Noor i Sãlina,00,,12.1833333,-68.2666667
+an,dorp nor i salina,Dorp Nor i Saliña,00,,12.1833333,-68.2666667
+an,dorp rincan,Dorp Rincan,00,,12.2333333,-68.3333333
+an,dorp rincon,Dorp Rincón,00,,12.2333333,-68.3333333
+an,dorp sabana,Dorp Sabana,00,,12.15,-68.25
+an,dorp sint michiel,Dorp Sint Michiel,00,,12.1333333,-68.9833333
+an,dorp sint willebrordus,Dorp Sint Willebrordus,00,,12.2166667,-69.05
+an,dorp sint willibrordus,Dorp Sint Willibrordus,00,,12.2166667,-69.05
+an,dorp soto,Dorp Soto,00,,12.2666667,-69.1
+an,dorp tera cora,Dorp Tera Corá,00,,12.1333333,-68.2666667
+an,dorp tera kora,Dorp Tera Kora,00,,12.1333333,-68.2666667
+an,dorp westpunt,Dorp Westpunt,00,,12.3666667,-69.1333333
+an,emmastad,Emmastad,00,,12.1333333,-68.9166667
+an,emmstad,Emmstad,00,,12.1333333,-68.9166667
+an,english quarter,English Quarter,00,,17.6166667,-63.2166667
+an,entrejol,Entrejol,00,,12.1666667,-68.2666667
+an,experiment,Experiment,00,,18.0166667,-63.0333333
+an,filipsburg,Filipsburg,00,,18.0166667,-63.0333333
+an,fiscal,Fiscal,00,,17.4833333,-62.9833333
+an,fleur de marie,Fleur de Marie,00,,12.1,-68.9166667
+an,fontein,Fontein,00,,12.25,-69.0833333
+an,fortuna abau,Fortuna Abau,00,,12.1666667,-68.9166667
+an,fortuna abou,Fortuna Abou,00,,12.1666667,-68.9166667
+an,fortuna abu,Fortuna Abu,00,,12.1666667,-68.9166667
+an,gato,Gato,00,,12.1666667,-68.9666667
+an,gilheads,Gilheads,00,,17.4666667,-62.9666667
+an,glass bottle,Glass Bottle,00,,17.4666667,-62.9666667
+an,godet,Godet,00,,17.4833333,-62.9833333
+an,golden rock,Golden Rock,00,823,17.4833333,-62.9833333
+an,great bay,Great Bay,00,,18.0166667,-63.0333333
+an,groot kwartier,Groot Kwartier,00,,12.1333333,-68.9166667
+an,guatemala,Guatemala,00,,12.1666667,-68.2333333
+an,habai,Habai,00,,12.1263889,-68.9483333
+an,hato,Hato,00,13,12.1833333,-68.2833333
+an,hearty,Hearty,00,,17.4833333,-62.9666667
+an,hellsgate,Hellsgate,00,,17.65,-63.2333333
+an,hoop,Hoop,00,,12.1166667,-68.2833333
+an,industrie,Industrie,00,,18.0333333,-63.0666667
+an,ishiri,Ishiri,00,,12.1333333,-68.2333333
+an,jan doran,Jan Doran,00,,12.2166667,-68.35
+an,jan doret,Jan Doret,00,,12.15,-68.9666667
+an,janwe,Janwé,00,,12.1,-68.9
+an,jan zoutvat,Jan Zoutvat,00,,12.0916667,-68.85
+an,juan domingo,Juan Domingo,00,,12.1666667,-68.95
+an,juicio,Juicio,00,,12.1166667,-68.9666667
+an,julianadorp,Julianadorp,00,,12.15,-68.95
+an,juliandorp,Juliandorp,00,,12.15,-68.95
+an,karke,Karké,00,,12.2333333,-69.0333333
+an,kas chikitu,Kas Chikitu,00,,12.1166667,-68.9666667
+an,kashu tuin,Kashu Tuin,00,,12.2,-69.0166667
+an,kibra hacha,Kibra Hacha,00,,12.1666667,-68.2666667
+an,koera joeri,Koera Joeri,00,,12.35,-69.15
+an,kokorobi,Kokorobi,00,,12.2333333,-68.3166667
+an,kolontjie,Kolontjie,00,,12.1166667,-68.9
+an,koolbaai,Koolbaai,00,,18.0333333,-63.0666667
+an,kortijn,Kortijn,00,,12.1152778,-68.9375
+an,krakeel,Krakeel,00,,12.2333333,-69.0333333
+an,kralendijk,Kralendijk,00,3081,12.15,-68.2666667
+an,kunchi,Kunchi,00,,12.25,-68.3
+an,kunuku abou,Kunuku Abou,00,,12.2,-69.0166667
+an,kura juri,Kura Juri,00,,12.35,-69.15
+an,kuruburu,Kuruburu,00,,12.2,-68.2666667
+an,labra,Labra,00,,12.25,-68.3833333
+an,lagoen,Lagoen,00,,12.3166667,-69.1666667
+an,lagun,Lagún,00,289,12.3166667,-69.1666667
+an,leeuwarden,Leeuwarden,00,,12.2166667,-68.2666667
+an,leverock town,Leverock Town,00,,17.6333333,-63.25
+an,libie,Libie,00,,12.1166667,-68.8666667
+an,lower hell's gate,Lower Hell's Gate,00,,17.6333333,-63.2166667
+an,lower prince's quarter,Lower Prince's Quarter,00,,18.0333333,-63.0333333
+an,lower town,Lower Town,00,,17.4666667,-62.9833333
+an,mansion,Mansion,00,,17.4833333,-62.9666667
+an,marchena,Marchena,00,,12.1166667,-68.9333333
+an,mari pompun,Mari Pompun,00,,12.1,-68.9083333
+an,mary's fancy,Mary's Fancy,00,,18.0333333,-63.05
+an,mentor,Mentor,00,,12.1666667,-68.2666667
+an,middle region,Middle Region,00,,18.0333333,-63.0333333
+an,montange,Montange,00,,12.1,-68.8666667
+an,montan'i rei,Montan'i Rei,00,,12.1,-68.8666667
+an,montanja di reij,Montanja di Reij,00,,12.1,-68.8666667
+an,montanje,Montanje,00,,12.1,-68.8666667
+an,morgenster,Morgenster,00,,12.0833333,-68.8333333
+an,motet,Motet,00,,12.1166667,-68.9333333
+an,mountain piece,Mountain Piece,00,,17.4833333,-62.95
+an,mundo,Mundo,00,,12.1161111,-68.9472222
+an,mundo nobo,Mundo Nobo,00,,12.1,-68.9666667
+an,nazareth,Nazareth,00,,18.05,-63.0333333
+an,new ground,New Ground,00,,17.4833333,-62.9833333
+an,newport,Newport,00,,12.05,-68.8166667
+an,nieuw nederland,Nieuw Nederland,00,,12.1038889,-68.9166667
+an,nieuwpoort,Nieuwpoort,00,1937,12.05,-68.8166667
+an,nikiboko,Nikiboko,00,,12.15,-68.2666667
+an,nobo,Nobo,00,,12.1144444,-68.9466667
+an,noord di salinja,Noord di Salinja,00,,12.1833333,-68.2666667
+an,one hoe,One Hoe,00,,18.05,-63.0333333
+an,onima,Onima,00,,12.25,-68.3166667
+an,orange grove,Orange Grove,00,,18.0333333,-63.0833333
+an,orange town,Orange Town,00,,17.4666667,-62.9833333
+an,oranje pan,Oranje Pan,00,,12.0333333,-68.25
+an,oranjestad,Oranjestad,00,1097,17.4666667,-62.9833333
+an,orinoco,Orinoco,00,,12.15,-68.2166667
+an,otrabanda,Otrabanda,00,,12.1166667,-68.95
+an,otrobanda,Otrobanda,00,,12.1166667,-68.95
+an,over the pond,Over the Pond,00,,18.0333333,-63.05
+an,overzijde,Overzijde,00,,12.1166667,-68.95
+an,paradijs,Paradijs,00,,12.1088889,-68.9133333
+an,para mira,Para Mira,00,,12.2333333,-68.3333333
+an,paramira,Paramira,00,,17.4833333,-62.9666667
+an,pareira,Pareira,00,,12.1,-68.9166667
+an,parera,Parera,00,,12.1,-68.9166667
+an,philipsburg,Philipsburg,00,,18.0166667,-63.0333333
+an,pietermaai,Pietermaai,00,,12.1,-68.9166667
+an,pine garden,Pine Garden,00,,18.0333333,-63.0333333
+an,playa,Playa,00,,12.15,-68.2666667
+an,porta makaku,Porta Makaku,00,,12.2666667,-68.3333333
+an,porto spano,Porto Spaño,00,,12.2333333,-68.2666667
+an,prospect farm,Prospect Farm,00,,18.0333333,-63.0666667
+an,prospect,Prospect,00,,17.4666667,-62.9833333
+an,punda,Punda,00,,12.1,-68.9166667
+an,rancho,Rancho,00,,12.15,-68.9166667
+an,republiek,Republiek,00,,12.15,-68.25
+an,rigot,Rigot,00,,12.25,-68.35
+an,rincon,Rincón,00,1496,12.2333333,-68.3333333
+an,riscado,Riscado,00,,12.2333333,-68.3666667
+an,rockland,Rockland,00,,18.0333333,-63.05
+an,rood huis,Rood Huis,00,,12.1666667,-68.2166667
+an,roosendaal,Roosendaal,00,,12.1333333,-68.95
+an,roozendaal,Roozendaal,00,,12.1333333,-68.25
+an,rozendaal,Rozendaal,00,,12.1333333,-68.95
+an,rust en vrede,Rust en Vrede,00,,12.1166667,-68.9
+an,rustoord,Rustoord,00,,12.1166667,-68.9
+an,rust,Rust,00,,12.1166667,-68.9
+an,sabana westpunt,Sabana Westpunt,00,,12.3666667,-69.1666667
+an,sabaneta,Sabaneta,00,,12.2333333,-68.3333333
+an,saint john's flat,Saint John's Flat,00,,17.6166667,-63.2333333
+an,saint peter,Saint Peter,00,,18.05,-63.0666667
+an,salina abou,Saliña Abou,00,,12.1,-68.9
+an,salina,Saliña,00,,12.1666667,-68.2666667
+an,salinja,Salinja,00,,12.1,-68.9
+an,san bernardo,San Bernardo,00,,12.1833333,-68.2666667
+an,san jose,San José,00,,12.1166667,-68.2333333
+an,san pedro,San Pedro,00,,12.25,-69.0333333
+an,santa catarina,Santa Catarina,00,,12.15,-68.2166667
+an,santa clara,Santa Clara,00,,12.1333333,-68.2166667
+an,santa cruz,Santa Cruz,00,,12.2333333,-68.35
+an,santa krus,Santa Krus,00,,12.3,-69.1333333
+an,santa maria,Santa Maria,00,,12.15,-68.9333333
+an,santa rosa,Santa Rosa,00,,12.1166667,-68.8833333
+an,saunders,Saunders,00,,18.0333333,-63.05
+an,schaarlo,Schaarlo,00,,12.1,-68.9166667
+an,scharloo,Scharloo,00,,12.1,-68.9166667
+an,schotsenhoek,Schotsenhoek,00,,17.4833333,-62.9833333
+an,senkuria,Senkuria,00,,12.15,-68.2666667
+an,ser'i bientu,Ser'i Bientu,00,,12.3166667,-69.1
+an,seritu,Seritu,00,,12.1166667,-68.9166667
+an,seroe bientoe,Seroe Bientoe,00,,12.3166667,-69.1
+an,seroebiento,Seroebiento,00,,12.3166667,-69.1
+an,simsonbaai,Simsonbaai,00,,18.0333333,-63.1
+an,simson bay village,Simson Bay Village,00,,18.0333333,-63.1
+an,simsons bay,Simsons Bay,00,,18.0333333,-63.1
+an,sint jago,Sint Jago,00,,12.1097222,-68.9222222
+an,sint john,Sint John,00,,17.6166667,-63.2333333
+an,sint john's,Sint John's,00,,17.6166667,-63.2333333
+an,sint joris,Sint Joris,00,,12.2333333,-68.3333333
+an,sint josefsdal,Sint Josefsdal,00,,12.2833333,-69.0833333
+an,sint jozefdal,Sint Jozefdal,00,,12.2833333,-69.0833333
+an,sint jozefsdal,Sint Jozefsdal,00,,12.2833333,-69.0833333
+an,sint michiel liber,Sint Michiel Liber,00,,12.15,-68.9833333
+an,sint michiel,Sint Michiel,00,5138,12.1333333,-68.9833333
+an,sint willebrordus,Sint Willebrordus,00,,12.2166667,-69.05
+an,slangenbaai,Slangenbaai,00,,12.1333333,-68.9833333
+an,soto,Soto,00,1987,12.2666667,-69.1
+an,spring garden,Spring Garden,00,,18.0333333,-63.0333333
+an,steenrijk,Steenrijk,00,,12.1005556,-68.9105556
+an,su casa,Su Casa,00,,12.1166667,-68.9666667
+an,sucker garden,Sucker Garden,00,,18.0333333,-63.0333333
+an,suffisant dorp,Suffisant Dorp,00,,12.15,-68.9166667
+an,suriname dorp,Suriname Dorp,00,,12.15,-68.9333333
+an,tera hundu,Tera Hundu,00,,12.1833333,-68.2666667
+an,terra corra,Terra Corra,00,,12.1333333,-68.2666667
+an,the bottom,The Bottom,00,488,17.6333333,-63.25
+an,the corner,The Corner,00,,18.0166667,-63.0833333
+an,the gap,The Gap,00,,17.6166667,-63.25
+an,the hope,The Hope,00,,18.0166667,-63.0333333
+an,the level,The Level,00,,17.6166667,-63.2166667
+an,the villa,The Villa,00,,18.0166667,-63.05
+an,trial,Trial,00,,18.0333333,-63.05
+an,union farm,Union Farm,00,,18.05,-63.0333333
+an,upper hell's gate,Upper Hell's Gate,00,,17.65,-63.2333333
+an,upper prince's quarter,Upper Prince's Quarter,00,,18.0333333,-63.0333333
+an,upper town,Upper Town,00,,17.4666667,-62.9833333
+an,valentijn,Valentijn,00,,12.1166667,-68.9333333
+an,venezuela,Venezuela,00,,12.2666667,-68.3333333
+an,vianen,Vianen,00,,12.1,-68.9166667
+an,vineyard,Vineyard,00,,18.0166667,-63.0333333
+an,vlijt,Vlijt,00,,12.1666667,-68.2666667
+an,vredeberg,Vredeberg,00,,12.0916667,-68.85
+an,vredenberg,Vredenberg,00,,12.0916667,-68.85
+an,wanapa,Wanapa,00,,12.1166667,-68.2333333
+an,weis afo,Weis Afó,00,,12.15,-68.9333333
+an,weis,Weis,00,,12.15,-68.9333333
+an,weitje,Weitje,00,,12.0166667,-68.9833333
+an,welgelegen,Welgelegen,00,,12.12,-68.9466667
+an,westpunt,Westpunt,00,783,12.3666667,-69.1666667
+an,willebrordus,Willebrordus,00,,12.2166667,-69.05
+an,willemstad,Willemstad,00,97590,12.1,-68.9166667
+an,wilton,Wilton,00,,17.4666667,-62.9833333
+an,windsor,Windsor,00,,18.0166667,-63.0833333
+an,windward side,Windward Side,00,442,17.6333333,-63.2333333
+an,wishi,Wishi,00,,12.1166667,-68.9666667
+an,zeelandia,Zeelandia,00,,12.1166667,-68.9

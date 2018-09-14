@@ -1,0 +1,525 @@
+gp,abeymes,Abeymes,00,,16.2666667,-61.5
+gp,abymes,Abymes,00,,16.2666667,-61.5
+gp,acomat,Acomat,00,,16.2166667,-61.75
+gp,agapy,Agapy,00,,15.9833333,-61.25
+gp,anse-bertrand,Anse-Bertrand,00,5146,16.4666667,-61.5
+gp,anse des cayes,Anse des Cayes,00,,17.9166667,-62.85
+gp,anse des flamands,Anse des Flamands,00,,17.9166667,-62.85
+gp,ausset,Ausset,00,,16.0666667,-61.7666667
+gp,bagatelle,Bagatelle,00,,15.95,-61.3
+gp,baie mahault,Baie Mahault,00,,16.3166667,-61.0166667
+gp,baie-mahault,Baie-Mahault,00,30553,16.2666667,-61.5833333
+gp,baille-argent,Baille-Argent,00,,16.25,-61.8
+gp,baillif,Baillif,00,5705,16.0166667,-61.7333333
+gp,baimbridge,Baimbridge,00,,16.2333333,-61.5166667
+gp,ballet,Ballet,00,,15.9,-61.3166667
+gp,bananier,Bananier,00,,16.0,-61.6
+gp,barbier,Barbier,00,,16.1666667,-61.6
+gp,barre de l'ile,Barre de l'Île,00,,15.95,-61.2666667
+gp,barre de l'ile numero un,Barre de l'Île Numéro Un,00,,15.95,-61.2666667
+gp,bas du fort,Bas du Fort,00,,16.2166667,-61.5
+gp,basse-terre,Basse-Terre,00,11472,16.0,-61.7166667
+gp,bas vent,Bas Vent,00,,16.3333333,-61.7666667
+gp,bazin,Bazin,00,,16.2666667,-61.4833333
+gp,beaugendre,Beaugendre,00,,16.0833333,-61.75
+gp,beauplan,Beauplan,00,,16.4166667,-61.45
+gp,beauport,Beauport,00,,16.4166667,-61.5
+gp,beauregard,Beauregard,00,,15.8833333,-61.25
+gp,beaurenom,Beaurenom,00,,15.8833333,-61.3
+gp,beausejour,Beauséjour,00,,15.9,-61.2166667
+gp,beausoleil,Beausoleil,00,,16.25,-61.7833333
+gp,bel air,Bel Air,00,,16.0666667,-61.75
+gp,belcourt,Belcourt,00,,16.25,-61.5833333
+gp,belle-allee,Belle-Allée,00,,16.25,-61.3
+gp,belle-annee,Belle-Année,00,,16.25,-61.3
+gp,belle esperance,Belle Espérance,00,,16.3,-61.5
+gp,belle place,Belle Place,00,,16.2666667,-61.4333333
+gp,belle-plaine,Belle-Plaine,00,,16.2833333,-61.5166667
+gp,bellevue,Bellevue,00,,15.9166667,-61.2333333
+gp,benard,Bénard,00,,16.3833333,-61.4333333
+gp,berard,Bérard,00,,16.25,-61.35
+gp,besnard,Besnard,00,,16.0833333,-61.5833333
+gp,betin,Betin,00,,16.45,-61.5
+gp,bezard,Bezard,00,,15.9333333,-61.2333333
+gp,bichemin,Bichemin,00,,16.0833333,-61.75
+gp,bielle,Bielle,00,,15.9166667,-61.25
+gp,bis,Bis,00,,16.2666667,-61.6666667
+gp,bisdary,Bisdary,00,,15.9833333,-61.7166667
+gp,blanchet,Blanchet,00,,15.9833333,-61.7
+gp,blanchette,Blanchette,00,,15.9833333,-61.7
+gp,blandin,Blandin,00,,16.0333333,-61.75
+gp,blondin,Blondin,00,,16.0333333,-61.75
+gp,bois debout,Bois Debout,00,,16.0166667,-61.5833333
+gp,boismorin,Boismorin,00,,16.4,-61.4833333
+gp,boisripeau,Boisripeau,00,,16.2833333,-61.4833333
+gp,boisvin,Boisvin,00,,16.2666667,-61.4666667
+gp,boivin,Boivin,00,,16.2666667,-61.3666667
+gp,bon,Bon,00,,15.95,-61.3166667
+gp,bonfils,Bonfils,00,,16.0666667,-61.5666667
+gp,bonne mere,Bonne Mère,00,,16.2666667,-61.6666667
+gp,bonnet,Bonnet,00,,15.9166667,-61.2833333
+gp,bonneval,Bonneval,00,,15.8833333,-61.3
+gp,bontemps,Bontemps,00,,15.9166667,-61.2
+gp,bontemps-rameau,Bontemps-Rameau,00,,15.9166667,-61.2
+gp,bord de mer,Bord de Mer,00,,15.9666667,-61.65
+gp,bordeaux-bourg,Bordeaux-Bourg,00,,16.3333333,-61.45
+gp,boree,Borée,00,,15.95,-61.2166667
+gp,borel,Borel,00,,16.2666667,-61.6166667
+gp,boricaud,Boricaud,00,,16.2833333,-61.4333333
+gp,bosredon,Bosrédon,00,,16.3166667,-61.4666667
+gp,boucan,Boucan,00,,16.2833333,-61.6666667
+gp,bouillante,Bouillante,00,7541,16.1333333,-61.7666667
+gp,bouillante-village,Bouillante-Village,00,,16.1,-61.75
+gp,bouille,Bouillé,00,,16.1833333,-61.6
+gp,bouliqui,Bouliqui,00,,16.2666667,-61.45
+gp,bourg des saintes,Bourg des Saintes,00,,15.8666667,-61.5666667
+gp,boyer,Boyer,00,,15.9833333,-61.65
+gp,brefort,Bréfort,00,,16.2666667,-61.6333333
+gp,brion,Brion,00,,16.3166667,-61.45
+gp,broue,Broue,00,,16.0833333,-61.7666667
+gp,brouel,Brouel,00,,16.0833333,-61.7666667
+gp,bruman,Bruman,00,,16.4166667,-61.5166667
+gp,brument,Brument,00,,16.4166667,-61.5166667
+gp,budan,Budan,00,,16.2333333,-61.6
+gp,cadet,Cadet,00,,15.8833333,-61.2333333
+gp,cadet de reine,Cadet de Reine,00,,16.1,-61.75
+gp,cafeiere,Caféière,00,,16.3166667,-61.7666667
+gp,calebas,Calebas,00,,16.3,-61.6833333
+gp,calvaire,Calvaire,00,,16.2666667,-61.3666667
+gp,cambrai,Cambrai,00,,16.0,-61.2666667
+gp,cambrefort,Cambrefort,00,,16.0666667,-61.5666667
+gp,campeche,Campêche,00,,16.4333333,-61.4333333
+gp,camp jacob,Camp Jacob,00,,16.0333333,-61.7
+gp,capesterre-belle-eau,Capesterre-Belle-Eau,00,19823,16.05,-61.55
+gp,capesterre,Capesterre,00,,15.8833333,-61.2166667
+gp,carangaise,Carangaise,00,,16.0666667,-61.55
+gp,caraque,Caraque,00,,16.25,-61.4833333
+gp,carbet,Carbet,00,,16.0166667,-61.5833333
+gp,castel,Castel,00,,16.25,-61.65
+gp,chalet,Chalet,00,,15.9666667,-61.3
+gp,champfleury,Champfleury,00,,15.9833333,-61.6833333
+gp,chapelle sainte-therese,Chapelle Sainte-Thérèse,00,,15.9833333,-61.25
+gp,charneau,Charneau,00,,16.0,-61.6666667
+gp,chartreux,Chartreux,00,,16.2333333,-61.65
+gp,chassaing,Chassaing,00,,16.25,-61.2333333
+gp,chateaubrun,Châteaubrun,00,,16.25,-61.35
+gp,chateau-gaillard,Château-Gaillard,00,,16.3,-61.3833333
+gp,chazeau,Chazeau,00,,16.3,-61.45
+gp,chazeaux,Chazeaux,00,,16.3,-61.45
+gp,clugny,Clugny,00,,16.3166667,-61.4
+gp,cocotier,Cocotier,00,,15.95,-61.2833333
+gp,cocoyer,Cocoyer,00,,16.2333333,-61.4666667
+gp,coignet,Coignet,00,,16.3666667,-61.4166667
+gp,colombier,Colombier,00,,17.9166667,-62.85
+gp,conchou,Conchou,00,,16.3333333,-61.3166667
+gp,corossol,Corossol,00,,17.9,-62.85
+gp,couchon,Couchon,00,,16.3333333,-61.3166667
+gp,courbaril,Courbaril,00,,15.95,-61.3
+gp,courcelles,Courcelles,00,,16.25,-61.3166667
+gp,courcelles sucrerie,Courcelles Sucrerie,00,,16.25,-61.3166667
+gp,creuilly,Creuilly,00,,16.3666667,-61.4
+gp,cul de sac,Cul de Sac,00,,18.1,-63.0333333
+gp,darboussier,Darboussier,00,,16.2333333,-61.5166667
+gp,david,David,00,,16.5333333,-61.4666667
+gp,de berard,De Bérard,00,,16.25,-61.35
+gp,decostier,Decostier,00,,16.2833333,-61.65
+gp,de pombiray,De Pombiray,00,,16.2833333,-61.3
+gp,de poyen,De Poyen,00,,16.1833333,-61.6166667
+gp,d' equainville,D' Équainville,00,,16.25,-61.3833333
+gp,desbonnes,Desbonnes,00,,16.3333333,-61.7333333
+gp,descostiers,Descostiers,00,,16.2833333,-61.65
+gp,deshaies,Deshaies,00,,16.3,-61.7833333
+gp,deshauteurs,Deshauteurs,00,,16.25,-61.4166667
+gp,deshayes,Deshayes,00,,16.3,-61.7833333
+gp,desmarais,Desmarais,00,,15.95,-61.3
+gp,desplan,Desplan,00,,16.2166667,-61.7666667
+gp,d'esquainville,D'Esquainville,00,,16.25,-61.3833333
+gp,desruisseaux,Desruisseaux,00,,15.95,-61.2166667
+gp,destreland,Destréland,00,,16.25,-61.5666667
+gp,destrelan,Destrelan,00,,16.25,-61.5666667
+gp,destrelland,Destrelland,00,,16.25,-61.5666667
+gp,de surgy,De Surgy,00,,16.2666667,-61.3166667
+gp,diavet,Diavet,00,,16.3166667,-61.7
+gp,dole,Dôlé,00,,15.9833333,-61.6666667
+gp,dorilas,Dorilas,00,,16.0833333,-61.7666667
+gp,dorot,Dorot,00,,15.95,-61.25
+gp,douville,Douville,00,,16.1333333,-61.5833333
+gp,dubedou,Dubédou,00,,16.3,-61.2833333
+gp,dubois,Dubois,00,,15.95,-61.7166667
+gp,ducos,Ducos,00,,15.8833333,-61.2833333
+gp,dupre,Dupré,00,,16.2166667,-61.3833333
+gp,dupuy,Dupuy,00,,16.25,-61.6
+gp,durivage,Durivage,00,,16.2166667,-61.3833333
+gp,durocher,Durocher,00,,15.9166667,-61.2666667
+gp,duzer,Duzer,00,,16.3333333,-61.7333333
+gp,emilien,Émilien,00,,16.3166667,-61.4333333
+gp,faup,Faup,00,,15.9166667,-61.3
+gp,favreau,Favreau,00,,16.25,-61.3
+gp,ferry,Ferry,00,,16.2666667,-61.8
+gp,fery,Féry,00,,16.2666667,-61.8
+gp,fexland,Fexland,00,,16.35,-61.4666667
+gp,fextand,Fextand,00,,16.35,-61.4666667
+gp,folle anse,Folle Anse,00,,15.9166667,-61.3166667
+gp,fond cacao,Fond Cacao,00,,16.0333333,-61.5833333
+gp,fond-caraibe,Fond-Caraïbe,00,,16.25,-61.2333333
+gp,fonds cacao,Fonds Cacao,00,,16.0333333,-61.5833333
+gp,fonds d' or,Fonds d' Or,00,,16.3,-61.35
+gp,fontaine,Fontaine,00,,16.3166667,-61.4
+gp,fouche,Fouché,00,,16.2333333,-61.4
+gp,galard,Galard,00,,16.0166667,-61.6833333
+gp,galebas,Galebas,00,,16.3,-61.6833333
+gp,gallard,Gallard,00,,16.0166667,-61.6833333
+gp,gardel,Gardel,00,,16.3,-61.3166667
+gp,garel,Garel,00,,15.95,-61.25
+gp,garnier,Garnier,00,,16.3166667,-61.4833333
+gp,gay,Gay,00,,15.9166667,-61.3
+gp,gensolin,Gensolin,00,,16.3166667,-61.4666667
+gp,gest,Gest,00,,16.0666667,-61.7666667
+gp,girard,Girard,00,,15.9,-61.2
+gp,giraud,Giraud,00,,15.95,-61.2666667
+gp,goguette,Goguette,00,,16.45,-61.5
+gp,gosier,Gosier,00,,16.2,-61.4833333
+gp,gourbevre,Gourbevre,00,,15.9833333,-61.6833333
+gp,gourbeyre,Gourbeyre,00,8572,15.9833333,-61.6833333
+gp,goyave,Goyave,00,,16.1333333,-61.5666667
+gp,gozier,Gozier,00,,16.2,-61.4833333
+gp,grand bassin,Grand Bassin,00,,15.95,-61.2333333
+gp,grand bois,Grand Bois,00,,16.2333333,-61.45
+gp,grand-bourg,Grand-Bourg,00,5869,15.8833333,-61.3
+gp,grand case,Grand Case,00,,15.9333333,-61.2
+gp,grand' case,Grand' Case,00,,16.2166667,-61.7833333
+gp,grand-case,Grand-Case,00,,18.1,-63.05
+gp,grand croix,Grand Croix,00,,16.05,-61.7333333
+gp,grand cul-de-sac,Grand Cul-de-Sac,00,,17.9,-62.8
+gp,grande anse,Grande Anse,00,,15.85,-61.6166667
+gp,grande case,Grande Case,00,,18.1,-63.05
+gp,grande plaine,Grande Plaine,00,,16.2,-61.7666667
+gp,grande riviere,Grande Rivière,00,,16.0833333,-61.7166667
+gp,grande savane,Grande Savane,00,,16.1833333,-61.6
+gp,grand etang,Grand Étang,00,,15.9333333,-61.2166667
+gp,grand fond,Grand Fond,00,,17.8833333,-62.8
+gp,grand pierre,Grand Pierre,00,,15.9666667,-61.2833333
+gp,grands fonds,Grands Fonds,00,,16.2666667,-61.4166667
+gp,grelin,Grelin,00,,15.95,-61.2666667
+gp,grenade,Grenade,00,,16.1,-61.75
+gp,gresset,Gresset,00,,16.0666667,-61.5666667
+gp,grippon,Grippon,00,,16.3333333,-61.45
+gp,gros cap,Gros Cap,00,,16.4,-61.4166667
+gp,gros morne,Gros Morne,00,,16.2166667,-61.7833333
+gp,guenette,Guénette,00,,16.3166667,-61.3166667
+gp,guignes,Guignès,00,,15.9666667,-61.25
+gp,guillochat,Guillochat,00,,16.3166667,-61.3333333
+gp,guillocheau,Guillocheau,00,,16.3166667,-61.3333333
+gp,guillot,Guillot,00,,16.3,-61.2666667
+gp,gustaf,Gustaf,00,,17.8833333,-62.85
+gp,gustavia,Gustavia,00,,17.8833333,-62.85
+gp,guthavia,Guthavia,00,,17.8833333,-62.85
+gp,hameau du pont,Hameau du Pont,00,,18.0666667,-63.0666667
+gp,hameau,Hameau,00,,16.4,-61.4166667
+gp,haut de la montagne,Haut de la Montagne,00,,16.4333333,-61.4666667
+gp,hauteurs-lezarde,Hauteurs-Lézarde,00,,16.2,-61.6166667
+gp,hoguet,Hoguet,00,,16.1166667,-61.7833333
+gp,houelbourg,Houëlbourg,00,,16.2333333,-61.5666667
+gp,hurault,Hurault,00,,16.05,-61.5666667
+gp,ilet perou,Îlet Pérou,00,,16.05,-61.55
+gp,jabrun-du-sud,Jabrun-du-Sud,00,,16.3,-61.45
+gp,jabrun,Jabrun,00,,16.2333333,-61.6
+gp,jacquelot,Jacquelot,00,,15.9333333,-61.2
+gp,jarry,Jarry,00,,16.2333333,-61.55
+gp,kahouanne,Kahouanne,00,,16.25,-61.2
+gp,la baie mahault,La Baie Mahault,00,,16.2666667,-61.5833333
+gp,la barriere,La Barrière,00,,16.2166667,-61.4666667
+gp,labarthe,Labarthe,00,,16.2833333,-61.2833333
+gp,la bathie,La Bathie,00,,16.3166667,-61.5
+gp,la bertaudiere,La Bertaudière,00,,16.4833333,-61.4666667
+gp,la berthaudiere,La Berthaudière,00,,16.4833333,-61.4666667
+gp,labithie,Labithie,00,,16.3166667,-61.5
+gp,la boucan,La Boucan,00,,16.2833333,-61.6666667
+gp,labuthie,Labuthie,00,,16.3166667,-61.5
+gp,la chapelle,La Chapelle,00,,15.8833333,-61.25
+gp,la coulee,La Coulée,00,,16.25,-61.25
+gp,la coulisse,La Coulisse,00,,16.0666667,-61.7333333
+gp,lacroix,Lacroix,00,,16.4,-61.4333333
+gp,la goguette,La Goguette,00,,16.45,-61.5
+gp,la grande anse,La Grande Anse,00,,16.3,-61.0666667
+gp,la grande plaine,La Grande Plaine,00,,16.2,-61.7666667
+gp,la grange,La Grange,00,,16.1333333,-61.5666667
+gp,la grivelliere,La Grivellière,00,,16.0666667,-61.75
+gp,lahglois,Lahglois,00,,16.3333333,-61.4
+gp,la jaille,La Jaille,00,,16.2333333,-61.5666667
+gp,lalanne,Lalanne,00,,16.4,-61.5333333
+gp,la lise,La Lise,00,,16.15,-61.75
+gp,la martiniere,La Martinière,00,,16.3166667,-61.3666667
+gp,lamentin,Lamentin,00,14892,16.2666667,-61.6166667
+gp,lami,Lami,00,,15.8833333,-61.3
+gp,lamotte,Lamotte,00,,16.25,-61.4
+gp,langlois,Langlois,00,,16.3333333,-61.4
+gp,langval,Langval,00,,16.2666667,-61.5
+gp,la plaine,La Plaine,00,,16.0,-61.6166667
+gp,la pointe a pitre,La Pointe à Pitre,00,,16.2333333,-61.5166667
+gp,la pointe-noire,La Pointe-Noire,00,,16.2333333,-61.7833333
+gp,laporte,Laporte,00,,16.35,-61.7833333
+gp,la ramee,La Ramée,00,,16.3333333,-61.7
+gp,la retraite,La Retraite,00,,16.2166667,-61.6
+gp,la rose,La Rose,00,,15.9333333,-61.25
+gp,la rosette,La Rosette,00,,16.3333333,-61.3666667
+gp,la rosiere,La Rosière,00,,16.2333333,-61.65
+gp,la roziere,La Rozière,00,,16.2333333,-61.65
+gp,la saline,La Saline,00,,17.8833333,-62.8166667
+gp,la source,La Source,00,,16.1333333,-61.7666667
+gp,lasserre,Lasserre,00,,16.3166667,-61.4333333
+gp,latapie,Latapie,00,,15.9666667,-61.6333333
+gp,laugmont,Laugmont,00,,16.0166667,-61.6
+gp,laureal,Lauréal,00,,16.3166667,-61.3333333
+gp,le baillif,Le Baillif,00,,16.0166667,-61.7333333
+gp,le bourg des saintes,Le Bourg des Saintes,00,,15.8666667,-61.5666667
+gp,le bourg,Le Bourg,00,,15.85,-61.6333333
+gp,le galet,Le Galet,00,,16.3,-61.0833333
+gp,le gosier,Le Gosier,00,28700,16.2,-61.4833333
+gp,le gouverneur,Le Gouverneur,00,,17.8666667,-62.8333333
+gp,le haut du morne,Le Haut du Morne,00,,15.9,-61.2166667
+gp,le lamentin,Le Lamentin,00,,16.2666667,-61.6166667
+gp,le marguis,Le Marguis,00,,16.1166667,-61.7833333
+gp,le marigot,Le Marigot,00,,16.0333333,-61.5666667
+gp,le marquis,Le Marquis,00,,16.1166667,-61.7833333
+gp,lemercier,Lemercier,00,,16.3333333,-61.35
+gp,le morne a l'eau,Le Morne a l'Eau,00,,16.3333333,-61.45
+gp,le moule,Le Moule,00,22694,16.3333333,-61.3333333
+gp,le petit marigot,Le Petit Marigot,00,,16.0333333,-61.5666667
+gp,l'ermitage,L'Ermitage,00,,16.4333333,-61.45
+gp,les abymes,Les Abymes,00,63061,16.2666667,-61.5
+gp,les basses,Les Basses,00,,15.8666667,-61.2833333
+gp,les galets,Les Galets,00,,16.3,-61.0833333
+gp,les habitants,Les Habitants,00,,16.05,-61.75
+gp,les mangles,Les Mangles,00,,16.3833333,-61.45
+gp,le souffleur,Le Souffleur,00,,16.3166667,-61.0333333
+gp,les plaines,Les Plaines,00,,16.2166667,-61.75
+gp,les sables,Les Sables,00,,16.3,-61.0666667
+gp,les trois rivieres,Les Trois Rivières,00,,15.9666667,-61.6333333
+gp,lesueur,Lesueur,00,,16.0833333,-61.75
+gp,l'etang noir,L'Étang Noir,00,,15.9333333,-61.2333333
+gp,lezarde,Lézarde,00,,16.2,-61.6166667
+gp,l'habituee,L'Habituée,00,,16.0166667,-61.6
+gp,l'hermitage,L'Hermitage,00,,16.4333333,-61.45
+gp,l'ilet,L'Îlet,00,,16.2833333,-61.5166667
+gp,lise,Lise,00,,16.15,-61.75
+gp,littoral,Littoral,00,,15.95,-61.3
+gp,longmont,Longmont,00,,16.0166667,-61.6
+gp,longval,Longval,00,,16.2666667,-61.5
+gp,lorient,Lorient,00,,17.9,-62.8166667
+gp,louisiane,Louisiane,00,,16.2666667,-61.3833333
+gp,l'union,L'Union,00,,16.25,-61.5166667
+gp,lurin,Lurin,00,,17.8833333,-62.8333333
+gp,madeleine,Madeleine,00,,16.0333333,-61.7333333
+gp,mahaudiere,Mahaudière,00,,16.4666667,-61.5
+gp,mahaut,Mahaut,00,,16.1833333,-61.7666667
+gp,maisonceile,Maisonceile,00,,16.3833333,-61.4666667
+gp,maisoncelle,Maisoncelle,00,,16.3833333,-61.4666667
+gp,maisoncel,Maisoncel,00,,16.3833333,-61.4666667
+gp,maletie,Maletie,00,,15.9833333,-61.25
+gp,malgre tout,Malgré Tout,00,,16.2666667,-61.2666667
+gp,malgretout,Malgrétout,00,,16.45,-61.4666667
+gp,malignon,Malignon,00,,16.3,-61.45
+gp,marc gaillard,Marc Gaillard,00,,16.2166667,-61.4333333
+gp,marchand,Marchand,00,,16.2833333,-61.6666667
+gp,marechal,Maréchal,00,,15.9166667,-61.3166667
+gp,mare gaillard,Mare Gaillard,00,,16.2166667,-61.4333333
+gp,marie-louise,Marie-Louise,00,,15.9833333,-61.2666667
+gp,marie-therese,Marie-Thérèse,00,,16.45,-61.4333333
+gp,marigot,Marigot,00,3368,18.0666667,-63.0833333
+gp,marquisat,Marquisat,00,,16.0333333,-61.5666667
+gp,marsol,Marsol,00,,16.0833333,-61.75
+gp,martiniere,Martiniere,00,,16.3166667,-61.3666667
+gp,massiau,Massiau,00,,16.4666667,-61.45
+gp,massioux,Massioux,00,,16.4666667,-61.45
+gp,massol,Massol,00,,16.0833333,-61.75
+gp,mathurin noel,Mathurin Noël,00,,16.1,-61.7666667
+gp,matouba,Matouba,00,,16.0333333,-61.6833333
+gp,mayoumbe,Mayoumbé,00,,15.9666667,-61.2333333
+gp,mazeau,Mazeau,00,,16.2833333,-61.8
+gp,menard,Ménard,00,,16.0,-61.2833333
+gp,merlet,Merlet,00,,15.9666667,-61.2833333
+gp,mesnard,Mesnard,00,,16.0,-61.2833333
+gp,metivier,Métivier,00,,16.0833333,-61.75
+gp,molignon,Molignon,00,,16.3,-61.45
+gp,monplaisir,Monplaisir,00,,16.3166667,-61.6666667
+gp,mon repos,Mon Repos,00,,15.9166667,-61.2833333
+gp,monroc,Monroc,00,,16.4333333,-61.4833333
+gp,montalegre,Montalègre,00,,16.25,-61.6666667
+gp,montalegue,Montalègue,00,,16.25,-61.6666667
+gp,montebello,Montebello,00,,16.1666667,-61.6
+gp,montplaisir,Montplaisir,00,,16.3166667,-61.6666667
+gp,montval,Montval,00,,16.05,-61.75
+gp,moringlane,Moringlane,00,,15.9166667,-61.2833333
+gp,morne-a-l'eau,Morne-à-l'Eau,00,,16.3333333,-61.45
+gp,morne bourg,Morne Bourg,00,,16.1833333,-61.5833333
+gp,morne rouge,Morne Rouge,00,,16.3,-61.65
+gp,morphy,Morphy,00,,16.25,-61.7833333
+gp,moule,Moule,00,,16.3333333,-61.3333333
+gp,moustique,Moustique,00,,16.3,-61.6666667
+gp,murat,Murat,00,,15.8833333,-61.3
+gp,neau,Néau,00,,16.2,-61.6166667
+gp,neree,Nerée,00,,16.2666667,-61.4833333
+gp,neuf-chateau,Neuf-Château,00,,16.0833333,-61.6
+gp,nogent,Nogent,00,,16.35,-61.7166667
+gp,notre dame du phare,Notre Dame du Phare,00,,16.3166667,-61.0333333
+gp,orleans,Orléans,00,,18.0666667,-63.0333333
+gp,pagesy,Pagesy,00,,16.1166667,-61.7666667
+gp,palais-sainte-marguerite,Palais-Sainte-Marguerite,00,,16.35,-61.3833333
+gp,parnasse,Parnasse,00,,16.0333333,-61.7
+gp,partarieux,Partarieux,00,,15.8833333,-61.3166667
+gp,pasquereau,Pasquereau,00,,16.2833333,-61.6166667
+gp,pauvert,Pauvert,00,,16.25,-61.25
+gp,pavillon,Pavillon,00,,15.9166667,-61.1833333
+gp,pelisson,Pelisson,00,,15.9333333,-61.25
+gp,petit-bourg,Petit-Bourg,00,24996,16.1833333,-61.5833333
+gp,petit-canal,Petit-Canal,00,8554,16.3833333,-61.4833333
+gp,petit canat,Petit Canat,00,,16.3833333,-61.4833333
+gp,petit carbet,Petit Carbet,00,,15.9666667,-61.6333333
+gp,petit cul de sac,Petit Cul de Sac,00,,17.9,-62.7833333
+gp,petite anse,Petite Anse,00,,16.1,-61.7666667
+gp,petites-anses,Petites-Anses,00,,15.85,-61.6333333
+gp,petites mamelles,Petites Mamelles,00,,16.05,-61.6166667
+gp,petit marigot,Petit Marigot,00,,16.0333333,-61.5666667
+gp,petit portland,Petit Portland,00,,16.4666667,-61.4333333
+gp,philipsbourg,Philipsbourg,00,,16.4333333,-61.4666667
+gp,pichon,Pichon,00,,16.4166667,-61.45
+gp,pigeon,Pigeon,00,,16.15,-61.7666667
+gp,pirogue,Pirogue,00,,15.9,-61.2666667
+gp,plaisance,Plaisance,00,,16.2333333,-61.3833333
+gp,planel,Planel,00,,16.05,-61.7
+gp,plessis-nogent,Plessis-Nogent,00,,16.35,-61.7166667
+gp,pointe-a-pitre,Pointe-à-Pitre,00,,16.2333333,-61.5166667
+gp,pointe a raie,Pointe à Raie,00,,16.35,-61.4833333
+gp,pointe-noire,Pointe-Noire,00,7750,16.2333333,-61.7833333
+gp,point noire,Point Noire,00,,16.2333333,-61.7833333
+gp,poirier,Poirier,00,,16.2333333,-61.35
+gp,pombiray,Pombiray,00,,16.2833333,-61.3
+gp,port blanc,Port Blanc,00,,16.2333333,-61.45
+gp,portel,Portel,00,,15.9,-61.2833333
+gp,portland,Portland,00,,16.3166667,-61.3166667
+gp,port louis,Port Louis,00,,15.9,-61.2833333
+gp,port-louis,Port-Louis,00,5515,16.4166667,-61.5166667
+gp,poucet,Poucet,00,,16.2166667,-61.5
+gp,pousset,Pousset,00,,16.2166667,-61.5
+gp,poussette,Poussette,00,,16.2166667,-61.5
+gp,pouzzole,Pouzzole,00,,16.4166667,-61.5166667
+gp,pouzzol,Pouzzol,00,,16.4166667,-61.5166667
+gp,poyen,Poyen,00,,16.2833333,-61.6666667
+gp,pressac,Pressac,00,,16.4666667,-61.4666667
+gp,pressec,Pressec,00,,16.4666667,-61.4666667
+gp,prise d'eau,Prise d'Eau,00,,16.2,-61.6333333
+gp,public,Public,00,,17.9,-62.85
+gp,quartier de colombier,Quartier de Colombier,00,,17.9166667,-62.85
+gp,quartier de grand' case,Quartier de Grand' Case,00,,18.0833333,-63.0666667
+gp,quartier de la grande case,Quartier de la Grande Case,00,,18.0833333,-63.0666667
+gp,quartier de la grande saline,Quartier de la Grande Saline,00,,17.8833333,-62.8166667
+gp,quartier de lorient,Quartier de Lorient,00,,17.9,-62.8166667
+gp,quartier de public,Quartier de Public,00,,17.9,-62.85
+gp,quartier des flamands,Quartier des Flamands,00,,17.9166667,-62.85
+gp,quartier de toiny,Quartier de Toiny,00,,17.9,-62.8
+gp,quartier d'orleans,Quartier d'Orléans,00,,18.0666667,-63.0333333
+gp,quartier du colombier,Quartier du Colombier,00,,18.0833333,-63.0666667
+gp,quartier du corossol,Quartier du Corossol,00,,17.9,-62.85
+gp,quartier du gouverneur,Quartier du Gouverneur,00,,17.8666667,-62.8333333
+gp,quartier du grand fond,Quartier du Grand Fond,00,,17.8833333,-62.8
+gp,quartier du marigot,Quartier du Marigot,00,,17.9166667,-62.8166667
+gp,quartier du roi,Quartier du Roi,00,,17.9,-62.85
+gp,quartier lorient,Quartier Lorient,00,,17.9,-62.8166667
+gp,quartier saint-jean,Quartier Saint-Jean,00,,17.8833333,-62.8333333
+gp,quatre chemins,Quatre Chemins,00,,16.2833333,-61.4833333
+gp,rabi,Rabi,00,,15.9,-61.25
+gp,radelin,Radelin,00,,16.3166667,-61.7833333
+gp,raie point,Raie Point,00,,16.35,-61.4833333
+gp,rambaud,Rambaud,00,,18.0833333,-63.0666667
+gp,ravine chaude,Ravine Chaude,00,,16.2333333,-61.6666667
+gp,reiset,Reiset,00,,16.2833333,-61.65
+gp,reixet,Reixet,00,,16.2833333,-61.65
+gp,reizet,Reizet,00,,16.2833333,-61.65
+gp,reizet-sainte-marie,Reizet-Sainte-Marie,00,,16.2833333,-61.65
+gp,renard,Renard,00,,16.3,-61.3166667
+gp,reneville,Renéville,00,,16.2833333,-61.3166667
+gp,renneville,Renneville,00,,16.2833333,-61.3166667
+gp,retz,Retz,00,,15.9166667,-61.3333333
+gp,reunion,Réunion,00,,16.3,-61.2666667
+gp,ribourgeon,Ribourgeon,00,,15.9666667,-61.25
+gp,richemont,Richemont,00,,16.4,-61.4666667
+gp,richeplaine,Richeplaine,00,,16.2666667,-61.3333333
+gp,richeval,Richeval,00,,16.35,-61.45
+gp,rifflet,Rifflet,00,,16.3333333,-61.7666667
+gp,riviere chaude,Rivière Chaude,00,,16.2333333,-61.6666667
+gp,robert,Robert,00,,15.9,-61.25
+gp,rousseau,Rousseau,00,,16.5333333,-61.4166667
+gp,roussel,Roussel,00,,15.9,-61.3166667
+gp,routhiers,Routhiers,00,,16.0333333,-61.5833333
+gp,ruillier,Ruillier,00,,16.2666667,-61.65
+gp,saiette,Saiette,00,,16.3166667,-61.45
+gp,saint-bernard,Saint-Bernard,00,,16.25,-61.25
+gp,saint-charles,Saint-Charles,00,,15.9333333,-61.3
+gp,saint-claude,Saint-Claude,00,10135,16.0166667,-61.6833333
+gp,sainte-anne,Sainte-Anne,00,22861,16.2333333,-61.3666667
+gp,sainte-claire,Sainte-Claire,00,,16.1166667,-61.5666667
+gp,sainte-croix,Sainte-Croix,00,,15.9333333,-61.2333333
+gp,sainte-madeleine,Sainte-Madeleine,00,,16.2833333,-61.3
+gp,sainte-marguerite,Sainte-Marguerite,00,,16.35,-61.4
+gp,sainte-marie des bois,Sainte-Marie des Bois,00,,16.0666667,-61.5833333
+gp,sainte-marie,Sainte-Marie,00,,16.1,-61.55
+gp,sainte-marthe,Sainte-Marthe,00,,16.25,-61.25
+gp,sainte marthe sucrerie,Sainte Marthe Sucrerie,00,,16.25,-61.25
+gp,sainte-rose,Sainte-Rose,00,20194,16.3333333,-61.6833333
+gp,saint-felix,Saint-Félix,00,,16.2,-61.45
+gp,saint-francois,Saint-François,00,12733,16.25,-61.2666667
+gp,saint-gilles,Saint-Gilles,00,,15.9833333,-61.6333333
+gp,saint-jacques,Saint-Jacques,00,,16.4833333,-61.45
+gp,saint-james,Saint-James,00,,18.05,-63.0833333
+gp,saint-jean,Saint-Jean,00,,17.8833333,-62.8333333
+gp,saint-louis,Saint-Louis,00,,15.95,-61.3
+gp,saint-marc,Saint-Marc,00,,15.9,-61.2666667
+gp,saint-pierre,Saint-Pierre,00,,16.45,-61.5166667
+gp,saint-prix,Saint-Prix,00,,16.4166667,-61.4333333
+gp,saint-sauveur,Saint-Sauveur,00,,16.0,-61.5833333
+gp,saint-val-labique,Saint-Val-Labique,00,,16.0,-61.75
+gp,satge,Satgé,00,,16.0166667,-61.6166667
+gp,savane,Savane,00,,15.9833333,-61.6166667
+gp,seforge,Seforge,00,,16.2666667,-61.3666667
+gp,sevray,Sevray,00,,16.05,-61.75
+gp,seze favreau,Sèze Favreau,00,,16.25,-61.2833333
+gp,seze favreux,Seze Favreux,00,,16.25,-61.2833333
+gp,seze,Sèze,00,,16.25,-61.2833333
+gp,siblet,Siblet,00,,15.9333333,-61.3
+gp,sofaia,Sofaïa,00,,16.2833333,-61.7166667
+gp,souffleur,Souffleur,00,,16.3166667,-61.0333333
+gp,subercazeau,Subercazeau,00,,16.3,-61.6666667
+gp,subercazeaux,Subercazeaux,00,,16.3,-61.6666667
+gp,sucrerie blanchet,Sucrerie Blanchet,00,,16.3166667,-61.4
+gp,sucrerie bonne-mere,Sucrerie Bonne-Mère,00,,16.2666667,-61.6666667
+gp,surgy,Surgy,00,,16.2666667,-61.3166667
+gp,terre-de-bas,Terre-de-Bas,00,1315,15.85,-61.6333333
+gp,terre-de-haut,Terre-de-Haut,00,,15.8666667,-61.5666667
+gp,toigny,Toigny,00,,17.9,-62.8
+gp,trianon,Trianon,00,,15.9,-61.3166667
+gp,trioncelle,Trioncelle,00,,16.2666667,-61.5833333
+gp,trionzelle,Trionzelle,00,,16.2666667,-61.5833333
+gp,trois-ilets,Trois-Îlets,00,,15.9333333,-61.3333333
+gp,trois-rivieres,Trois-Rivières,00,8812,15.9666667,-61.6333333
+gp,valeau,Valeau,00,,16.0166667,-61.7
+gp,vallee d'or,Vallée d'Or,00,,16.2666667,-61.25
+gp,vallon vrimouth,Vallon Vrimouth,00,,15.9333333,-61.2666667
+gp,vanniers,Vanniers,00,,15.9166667,-61.2666667
+gp,verdier,Verdier,00,,16.2,-61.6
+gp,verge,Vergé,00,,15.9333333,-61.25
+gp,vermont,Vermont,00,,16.4,-61.4666667
+gp,vernou,Vernou,00,,16.1833333,-61.65
+gp,versailles,Versailles,00,,16.2166667,-61.5833333
+gp,vezou,Vezou,00,,16.3,-61.2666667
+gp,vezoux,Vezoux,00,,16.3,-61.2666667
+gp,vidon,Vidon,00,,15.9,-61.2333333
+gp,vieux bourg,Vieux Bourg,00,,16.3333333,-61.5
+gp,vieux-fort,Vieux-Fort,00,,15.95,-61.6833333
+gp,vieux-habitants,Vieux-Habitants,00,7729,16.05,-61.75
+gp,village,Village,00,,16.1,-61.75
+gp,vince,Vince,00,,16.2333333,-61.6
+gp,vipart,Vipart,00,,16.3333333,-61.4
+gp,vital,Vital,00,,15.9166667,-61.2166667
+gp,zevallos,Zévallos,00,,16.3,-61.2833333
+gp,zevalos,Zévalos,00,,16.3,-61.2833333

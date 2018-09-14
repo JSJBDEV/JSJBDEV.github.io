@@ -1,0 +1,2890 @@
+am,abaran,Abaran,01,,40.5961111,44.3536111
+am,abaran verin,Abaran Verin,01,,40.5961111,44.3536111
+am,abilkend,Abilkend,02,,40.0236111,44.4244444
+am,ablkend,Ablkend,02,,40.0236111,44.4244444
+am,abovyan,Abovyan,02,1379,40.0488889,44.5475
+am,abovyan,Abovyan,05,35677,40.2691667,44.6244444
+am,achadzhur,Achadzhur,09,,40.9902778,45.1452778
+am,ach'ajur,Ach'ajur,09,,40.9902778,45.1452778
+am,achanan,Achanan,08,,39.2347222,46.4313889
+am,achasu,Achasu,09,,40.9902778,45.1452778
+am,achkhlu,Achkhlu,08,,39.2294444,46.3083333
+am,achpach,Achpach,08,,39.25,46.0833333
+am,achtarak,Achtarak,01,,40.3016667,44.3591667
+am,adamkhan,Adamkhan,04,,40.1875,45.1938889
+am,adyaman,Adyaman,01,,40.4833333,43.95
+am,adzhatin,Adzhatin,08,,39.2038889,46.1386111
+am,adzhebadzh,Adzhebadzh,08,,39.25,46.0833333
+am,adzhibadzh,Adzhibadzh,08,,39.25,46.0833333
+am,adzhilu,Adzhilu,08,,39.1608333,46.2875
+am,agadzor,Agadzor,05,,40.2561111,44.6766667
+am,agagchi,Agagchi,01,,40.4666667,43.95
+am,agalu,Agalu,04,,40.1830556,45.8255556
+am,agamzalu,Agamzalu,02,,40.0666667,44.4666667
+am,agarakadzor,Agarakadzor,10,1195,39.7363889,45.3455556
+am,agarak,Agarak,01,1575,40.3077778,44.2847222
+am,agarak,Agarak,06,1278,41.0105556,44.4675
+am,agarak,Agarak,08,4707,39.2038889,46.5472222
+am,agavnadzor,Agavnadzor,05,,40.5841667,44.6913889
+am,agavnadzor,Agavnadzor,10,,39.7836111,45.2280556
+am,agavnatun,Agavnatun,01,,40.2336111,44.2513889
+am,agbash,Agbash,02,,40.0488889,44.5475
+am,agbulag,Agbulag,04,,40.5263889,45.2772222
+am,agbulag,Agbulag,06,,40.8652778,44.0305556
+am,agbulakh,Agbulakh,04,,40.5263889,45.2772222
+am,agbulakh,Agbulakh,06,,40.8652778,44.0305556
+am,agbulalakh,Agbulalakh,04,,40.5263889,45.2772222
+am,agdan,Agdan,09,,40.8486111,45.1497222
+am,agdzhakala,Agdzhakala,01,,40.3452778,44.0555556
+am,agdzhakala,Agdzhakala,03,,40.2,44.2275
+am,agdzhakishlag,Agdzhakishlag,02,,40.0380556,44.5638889
+am,agdzhakishlag,Agdzhakishlag,11,,40.1333333,44.4333333
+am,agdzharkh,Agdzharkh,03,,40.1005556,44.0969444
+am,agekhush,AgÎkhush,04,,40.25,45.85
+am,agexus,Agexus,04,,40.2791667,45.8319444
+am,aghavnadzor,Aghavnadzor,05,1252,40.5841667,44.6913889
+am,aghavnadzor,Aghavnadzor,10,1925,39.7836111,45.2280556
+am,aghavnatun,Aghavnatun,01,2913,40.2336111,44.2513889
+am,aghavnavank',Aghavnavank',09,,40.7308333,45.0933333
+am,aghberk',Aghberk',04,,40.5263889,45.2772222
+am,aghbulagh,Aghbulagh,08,,39.3511111,46.3983333
+am,aghin,Aghin,07,,40.59,43.6983333
+am,aghitu,Aghitu,08,,39.5152778,46.0808333
+am,aghk'end,Aghk'end,08,,39.4763889,45.9977778
+am,aghkend,Aghkend,10,,39.9022222,45.2475
+am,aghk'ilisa,Aghk'ilisa,02,,40.0225,45.0136111
+am,aghnjadzor,Aghnjadzor,10,,39.9022222,45.2475
+am,aghts'k',Aghts'k',01,,40.3163889,44.2536111
+am,aghudi,Aghudi,08,,39.5152778,46.0808333
+am,aghvani,Aghvani,08,,39.355,46.3030556
+am,aghvorik,Aghvorik,07,,41.0758333,43.755
+am,aghyokhush,Aghyokhush,04,,40.2791667,45.8319444
+am,agin,Agin,07,,40.59,43.6983333
+am,agkilisa,Agkilisa,02,,40.0225,45.0136111
+am,agkilisa,Agkilisa,06,,40.9544444,44.0908333
+am,agkilisa,Agkilisa,09,,40.7155556,45.0483333
+am,agndzhadzor,Agndzhadzor,10,,39.9022222,45.2475
+am,agnilisa,Agnilisa,02,,39.8458333,45.1658333
+am,agpara,Agpara,05,,40.5094444,44.7338889
+am,agsu,Agsu,09,,40.9,45.2833333
+am,agudi,Agudi,08,,39.5152778,46.0808333
+am,agvani,Agvani,08,,39.355,46.3030556
+am,agveran,Agveran,05,,40.5166667,44.5666667
+am,agvi,Agvi,06,,41.0666667,44.5833333
+am,agzibir,Agzibir,04,,40.4611111,45.065
+am,ahnidzor,Ahnidzor,06,,40.91,44.8213889
+am,aigedzor,Aigedzor,08,,39.4858333,46.4197222
+am,ajabaj,Ajabaj,08,,39.25,46.0833333
+am,aj'ap'nyak,Aj'ap'nyak,11,,40.1991667,44.4705556
+am,ajaraj,Ajaraj,08,,39.25,46.0833333
+am,ajaran,Ajaran,08,,39.25,46.0833333
+am,ajatin,Ajatin,08,,39.2038889,46.1386111
+am,ajbaj,Ajbaj,08,,39.25,46.0833333
+am,ajbej,Ajbej,08,,39.25,46.0833333
+am,ajbij,Ajbij,08,,39.25,46.0833333
+am,ajebach',Ajebach',08,,39.25,46.0833333
+am,ajebaj,Ajebaj,08,,39.25,46.0833333
+am,ajevach',Ajevach',08,,39.25,46.0833333
+am,ajibaj,Ajibaj,08,,39.25,46.0833333
+am,ajilu,Ajilu,08,,39.1608333,46.2875
+am,ajizur,Ajizur,08,,39.2622222,46.3725
+am,ajlu,Ajlu,08,,39.1608333,46.2875
+am,ajrlu,Ajrlu,08,,39.1608333,46.2875
+am,ajylu,Ajylu,08,,39.1608333,46.2875
+am,akhavnadzor,Akhavnadzor,05,,40.5841667,44.6913889
+am,akhavnadzor,Akhavnadzor,10,,39.7836111,45.2280556
+am,akhavnatukh,Akhavnatukh,01,,40.2336111,44.2513889
+am,akhavnatun,Akhavnatun,01,,40.2336111,44.2513889
+am,akhbrak,Akhbrak,05,,40.5094444,44.7338889
+am,akhkala,Akhkala,04,,40.45,45.0925
+am,akhkend,Akhkend,10,,39.7744444,45.6005556
+am,akhkikhli,Akhkikhli,09,,40.7877778,45.0505556
+am,akhkikhlu,Akhkikhlu,09,,40.7877778,45.0505556
+am,akhkilisa,Akhkilisa,04,,40.1833333,45.8666667
+am,akhkilisa,Akhkilisa,07,,40.8666667,43.95
+am,akhlatian,Akhlatian,08,,39.4422222,46.0352778
+am,akhlat'yan,Akhlat'yan,08,,39.4422222,46.0352778
+am,akhnidzor,Akhnidzor,06,,40.91,44.8213889
+am,akhpat,Akhpat,06,,41.095,44.7102778
+am,akhpradzor,Akhpradzor,04,,40.1,45.65
+am,akhpyurak,Akhpyurak,05,,40.5094444,44.7338889
+am,akhs,Akhs,01,,40.3163889,44.2536111
+am,akhsibara,Akhsibara,09,,41.0647222,45.0575
+am,akhsu,Akhsu,09,,40.9,45.2833333
+am,akhta,Akhta,05,,40.5016667,44.7547222
+am,akhta,Akhta,10,,39.6447222,45.565
+am,akhtakhana,Akhtakhana,08,,39.2686111,46.3563889
+am,akhtala,Akhtala,05,,40.5016667,44.7547222
+am,akht'ala,Akht'ala,06,,41.1483333,44.7655556
+am,akhtanak,Akhtanak,09,,41.2238889,44.9377778
+am,akhtanak,Akhtanak,11,,40.1863889,44.4238889
+am,akhti,Akhti,05,,40.5016667,44.7547222
+am,akhula,Akhula,06,,40.6813889,44.1688889
+am,akhum,Akhum,09,,40.9638889,45.3491667
+am,akhund bzovan,Akhund Bzovan,02,,40.0,44.5666667
+am,akhundov,Akhundov,05,,40.6136111,44.5941667
+am,akhurik,Akhurik,07,,40.75,43.7833333
+am,akhuryan,Akhuryan,07,7672,40.7813889,43.8963889
+am,akko,Akko,01,,40.3811111,43.6994444
+am,aknalich,Aknalich,03,2654,40.1430556,44.1483333
+am,aknashen,Aknashen,03,1362,40.0958333,44.2861111
+am,akner,Akner,06,,41.0830556,44.69
+am,akner,Akner,08,,39.5066667,46.3086111
+am,ak'ori,Ak'ori,06,,41.0922222,44.6161111
+am,aksibara,Aksibara,09,,41.0647222,45.0575
+am,akunk,Akunk,01,,40.4166667,43.9
+am,akunk',Akunk',04,,40.1522222,45.72
+am,akunk',Akunk',05,,40.2691667,44.6836111
+am,alages,Alages,01,,40.3330556,43.6580556
+am,alagez,AlagÎz,01,,40.3330556,43.6580556
+am,alagyaz,Alagyaz,01,,40.3330556,43.6580556
+am,alagyaz,Alagyaz,10,,39.8588889,45.3613889
+am,alagyoz,Alagyoz,01,,40.3330556,43.6580556
+am,alakilisa,Alakilisa,07,,40.9666667,43.8166667
+am,alap'ars,Alap'ars,05,,40.4213889,44.6347222
+am,alatala,Alatala,09,,40.8,45.4
+am,alavar,Alavar,06,,40.77,44.3841667
+am,alaverdi,Alaverdi,06,13186,41.1305556,44.6519444
+am,alaverdy,Alaverdy,06,,41.1305556,44.6519444
+am,alawerdy,Alawerdy,06,,41.1305556,44.6519444
+am,alayaz,Alayaz,10,,39.8588889,45.3613889
+am,aldara,Aldara,08,,38.9383333,46.345
+am,alek'pol,Alek'pol,07,,40.7894444,43.8475
+am,alek'sandrapol,Alek'sandrapol,07,,40.7894444,43.8475
+am,alek'sandrobol,Alek'sandrobol,07,,40.7894444,43.8475
+am,aleksandropol',Aleksandropol',07,,40.7894444,43.8475
+am,aleksandrovka,Aleksandrovka,04,,40.5075,44.9588889
+am,aleksandrovka,Aleksandrovka,06,,41.0366667,44.4052778
+am,aleksandrovka,Aleksandrovka,07,,40.7461111,43.7969444
+am,alexandropol',Alexandropol',07,,40.7894444,43.8475
+am,alibeklu,Alibeklu,03,,40.1513889,44.2663889
+am,alichali,Alichali,04,,40.1502778,45.5158333
+am,alighulashen,Alighulashen,08,,39.4858333,46.4197222
+am,alighuli ashaghy,Alighuli Ashaghy,08,,39.4858333,46.4197222
+am,alikhan,Alikhan,07,,40.9166667,44.05
+am,alikhan-payasy,Alikhan-Payasy,10,,39.8127778,45.2911111
+am,alikrykh,Alikrykh,04,,40.1238889,45.3566667
+am,alikuchak,Alikuchak,01,,40.5252778,44.3916667
+am,alikulik'yand,Alikulik'yand,08,,39.4858333,46.4197222
+am,alilu,Alilu,08,,39.4644444,45.9238889
+am,alkhat'yan,Alkhat'yan,08,,39.4422222,46.0352778
+am,allaverdy,Allaverdy,06,,41.1305556,44.6519444
+am,almalu,Almalu,10,,39.5661111,45.3769444
+am,alvar,Alvar,07,,41.0508333,43.7491667
+am,amaghu,Amaghu,10,,39.6813889,45.2163889
+am,amagu,Amagu,10,,39.6813889,45.2163889
+am,amamlu,Amamlu,06,,40.8372222,44.2675
+am,amamth,Amamth,06,,40.8372222,44.2675
+am,amasia,Amasia,07,1675,40.9466667,43.7813889
+am,amasiya,Amasiya,03,,40.0833333,43.9666667
+am,amasiya,Amasiya,07,,40.9466667,43.7813889
+am,amberd,Amberd,01,1267,40.2416667,44.2727778
+am,amirkher,Amirkher,04,,40.65,45.1166667
+am,amodzh,Amodzh,06,,41.0666667,44.6
+am,amrakits',Amrakits',06,,40.9972222,44.4272222
+am,anastasavan,Anastasavan,02,,39.9458333,44.6088889
+am,anastasavan,Anastasavan,11,,40.2191667,44.4794444
+am,angeghakot',Angeghakot',08,,39.5680556,45.9438889
+am,angekhakot,Angekhakot,08,,39.5680556,45.9438889
+am,angelaut,Angelaut,08,,39.5680556,45.9438889
+am,anipemza,Anipemza,07,,40.4486111,43.6041667
+am,ankadzor,Ankadzor,09,,40.8833333,44.65
+am,ankavan,Ankavan,05,,40.6441667,44.4813889
+am,antaramut,Antaramut,06,,40.9386111,44.5591667
+am,antarashat,Antarashat,08,,39.3002778,46.3291667
+am,antarramej,Antarramej,04,,40.6833333,45.1333333
+am,antarramut,Antarramut,06,,40.9386111,44.5591667
+am,antarrashat,Antarrashat,08,,39.3002778,46.3291667
+am,antarut,Antarut,01,,40.35,44.2666667
+am,anushavan,Anushavan,07,1532,40.6419444,43.9822222
+am,apaga,Apaga,03,1634,40.0961111,44.2511111
+am,aparan,Aparan,01,5670,40.5961111,44.3536111
+am,aparanbol,Aparanbol,01,,40.5961111,44.3536111
+am,aparanpol,Aparanpol,01,,40.5961111,44.3536111
+am,aparan verin,Aparan Verin,01,,40.5961111,44.3536111
+am,apaven,Apaven,06,,41.2,44.35
+am,ap'nagyugh,Ap'nagyugh,01,,40.4394444,44.3961111
+am,apnagyukh,Apnagyukh,01,,40.4394444,44.3961111
+am,aqarak,Aqarak,08,,39.2038889,46.5472222
+am,arabkir,Arabkir,11,,40.2002778,44.4941667
+am,arachadzor,Arachadzor,08,,39.2622222,46.3725
+am,aragats,Aragats,01,2952,40.3330556,43.6580556
+am,aragats,Aragats,03,5092,40.2183333,44.2327778
+am,aragatsotn,Aragatsotn,01,,40.2588889,44.1819444
+am,aragyugh,Aragyugh,05,,40.4025,44.5436111
+am,aragyukh,Aragyukh,05,999,40.4025,44.5436111
+am,arai,Arai,01,,40.4622222,44.3736111
+am,arak's,Arak's,03,,40.0547222,44.3027778
+am,arak'savan,Arak'savan,02,,40.0011111,44.47
+am,aralek,Aralek,02,,39.9002778,44.6533333
+am,aralykh,Aralykh,03,,40.1172222,44.2705556
+am,aralykh,Aralykh,07,,40.7,43.75
+am,aramis,Aramis,08,,39.4611111,46.1025
+am,aramus,Aramus,05,3214,40.2511111,44.6630556
+am,arapi,Arapi,07,1738,40.7797222,43.8005556
+am,ararat,Ararat,02,6554,39.8094444,44.7144444
+am,arates,Arates,10,,39.9041667,45.44
+am,aravet,Aravet,07,,41.0466667,43.7769444
+am,aravus,Aravus,08,,39.405,45.9011111
+am,arazap,Arazap,03,1373,40.0427778,44.1458333
+am,arazdayan,Arazdayan,02,,39.7166667,44.75
+am,arbat',Arbat',03,,40.1369444,44.3983333
+am,arch'adzor,Arch'adzor,08,,39.2622222,46.3725
+am,archis,Archis,09,1235,41.1641667,44.8725
+am,archut,Archut,06,,40.8630556,44.3822222
+am,ardashar,Ardashar,02,,40.0005556,44.585
+am,ardenis,Ardenis,07,,41.0786111,43.7238889
+am,ardvi,Ardvi,06,,41.0166667,44.6
+am,areg,Areg,01,,40.3891667,43.8141667
+am,aregnadem,Aregnadem,07,,40.9286111,43.7491667
+am,areguni,Areguni,04,,40.3416667,45.6083333
+am,areni,Areni,10,1718,39.7208333,45.1838889
+am,arevabuyr,Arevabuyr,02,1041,40.0361111,44.4688889
+am,arevashat,Arevashat,03,1403,40.1416667,44.3708333
+am,arevashet,Arevashet,03,,40.1416667,44.3708333
+am,arevashogh,Arevashogh,06,2435,40.8613889,44.2727778
+am,arevashokh,Arevashokh,06,,40.8613889,44.2727778
+am,arevatsag,Arevatsag,06,,40.9738889,44.6105556
+am,arevik,Arevik,03,2455,40.1005556,44.0969444
+am,arevik,Arevik,07,1522,40.7361111,43.8927778
+am,arevis,Arevis,08,,39.405,45.9011111
+am,arevshat,Arevshat,02,2089,40.0391667,44.5416667
+am,arevshat,Arevshat,07,1623,40.6486111,44.0444444
+am,argavand,Argavand,02,1703,40.1580556,44.44
+am,argavand,Argavand,03,2047,40.0608333,44.0952778
+am,argel,Argel,05,2528,40.3794444,44.5994444
+am,argishti,Argishti,05,,40.1377778,44.5716667
+am,arich,Arich,07,,40.5980556,44.0075
+am,arikhvali,Arikhvali,07,,40.8666667,43.9166667
+am,arin,Arin,10,,39.7272222,45.4938889
+am,arindzh,Arindzh,05,,40.2313889,44.5711111
+am,arjadzor,Arjadzor,08,,39.2622222,46.3725
+am,arjagur-avsarlu,Arjagur-Avsarlu,08,,39.1330556,46.26
+am,arjazur,Arjazur,08,,39.2622222,46.3725
+am,arjut,Arjut,06,,40.8630556,44.3822222
+am,arkel,Arkel,05,,40.3794444,44.5994444
+am,armanis,Armanis,06,,41.0080556,44.3291667
+am,armash,Armash,10,2434,39.7666667,44.8083333
+am,armavir,Armavir,03,2752,40.0897222,44.0483333
+am,armutlu,Armutlu,03,,40.0772222,44.0886111
+am,armutlu,Armutlu,07,,40.6,43.9
+am,armyanskiy gerger,Armyanskiy Gerger,06,,40.9569444,44.4427778
+am,arpa,Arpa,10,,39.7208333,45.1838889
+am,arpavar,Arpavar,02,,40.0391667,44.5416667
+am,arpeni,Arpeni,07,,40.9166667,43.8833333
+am,arp'i,Arp'i,10,,39.7391667,45.2616667
+am,arp'unk',Arp'unk',04,,40.2833333,45.7333333
+am,arrach'adzor,Arrach'adzor,08,,39.2622222,46.3725
+am,arrajadzor,Arrajadzor,08,,39.2622222,46.3725
+am,arrajnadzor,Arrajnadzor,08,,39.2622222,46.3725
+am,arrap'i,Arrap'i,07,,40.7797222,43.8005556
+am,arratashen,Arratashen,03,,40.1286111,44.2275
+am,arrinj,Arrinj,05,,40.2313889,44.5711111
+am,arrjahur,Arrjahur,08,,39.1330556,46.26
+am,arshaluys,Arshaluys,03,3808,40.1688889,44.2141667
+am,artabuynk',Artabuynk',10,,39.8586111,45.3294444
+am,artagyukh,Artagyukh,06,,40.8355556,44.0466667
+am,artanish,Artanish,04,,40.4958333,45.3627778
+am,artashar,Artashar,03,,40.1091667,44.1811111
+am,artashat,Artashat,02,20562,39.9538889,44.5505556
+am,artashavan,Artashavan,01,,40.3936111,44.3813889
+am,artashe,Artashe,08,,39.4858333,46.4197222
+am,artashen,Artashen,03,,40.1286111,44.2275
+am,artashen,Artashen,07,,41.0094444,43.9227778
+am,artashen,Artashen,08,,39.4858333,46.4197222
+am,artavan,Artavan,01,,40.4780556,44.4005556
+am,artavan,Artavan,10,,39.6575,45.6166667
+am,artavaz,Artavaz,05,,40.6191667,44.5747222
+am,artemed,Artemed,03,,40.1727778,44.2925
+am,arteni,Arteni,01,3086,40.2983333,43.7541667
+am,art'ik,Art'ik,07,,40.6172222,43.9758333
+am,artimet,Artimet,03,1501,40.1513889,44.2663889
+am,artiz,Artiz,05,,40.1588889,44.7966667
+am,artsbashen,Artsbashen,04,,40.6461111,45.5155556
+am,artsevanik',Artsevanik',08,,39.2616667,46.4736111
+am,artsni,Artsni,06,,41.2141667,44.37
+am,artsvaberd,Artsvaberd,09,3193,40.8336111,45.4711111
+am,artsvakar,Artsvakar,04,,40.3552778,45.1725
+am,artsvanik,Artsvanik,08,,39.2616667,46.4736111
+am,artsvanist,Artsvanist,04,2819,40.1544444,45.5022222
+am,artsvashen,Artsvashen,04,,40.6461111,45.5155556
+am,artsvenik,Artsvenik,08,,39.2616667,46.4736111
+am,artzvanik,Artzvanik,08,,39.2616667,46.4736111
+am,arum,Arum,01,,40.2905556,44.0697222
+am,arzakan,Arzakan,05,2660,40.4494444,44.6063889
+am,arzakyand,Arzakyand,05,,40.4494444,44.6063889
+am,arzhis,Arzhis,08,,39.4333333,46.2216667
+am,arzni,Arzni,05,2244,40.2963889,44.5958333
+am,ashaga zeyva,Ashaga Zeyva,08,,39.3180556,46.4952778
+am,ashaya-zeyva,Ashaya-Zeyva,08,,39.3180556,46.4952778
+am,ashnak,Ashnak,01,1131,40.3275,43.9166667
+am,ashotavan,Ashotavan,08,,39.4763889,45.9977778
+am,ashots'k',Ashots'k',07,,41.0375,43.8580556
+am,ashtarak,Ashtarak,01,18779,40.3016667,44.3591667
+am,ashtarakats' gyugh,Ashtarakats' Gyugh,01,,40.3016667,44.3591667
+am,astazur,Astazur,08,,38.9427778,46.3769444
+am,astghadzor,Astghadzor,04,3520,40.1238889,45.3566667
+am,astkhadzor,Astkhadzor,04,,40.1238889,45.3566667
+am,astvatsinkal,Astvatsinkal,01,,40.4647222,44.4319444
+am,atamkhan,Atamkhan,04,,40.1875,45.1938889
+am,at'an,At'an,09,,40.9338889,44.8491667
+am,atarbekyan,Atarbekyan,03,,40.1513889,44.2663889
+am,at'arbekyan,At'arbekyan,05,,40.5338889,44.7691667
+am,atarbekyan,Atarbekyan,05,,40.5338889,44.7691667
+am,atdash,Atdash,04,,40.035,45.1897222
+am,at'ghunk',At'ghunk',08,,39.4858333,46.4197222
+am,atis,Atis,05,,40.3405556,44.7297222
+am,atsarat,Atsarat,04,,40.3427778,45.1133333
+am,atsashen,Atsashen,01,,40.4333333,43.7666667
+am,atsavan,Atsavan,05,,40.1377778,44.6522222
+am,atsavan,Atsavan,08,,39.4627778,45.9730556
+am,atsik,Atsik,01,,40.1641667,43.9408333
+am,atsik,Atsik,07,,40.8475,43.8741667
+am,avagabinaper,Avagabinaper,09,,40.785,45.2911111
+am,avan-arrinj,Avan-Arrinj,11,,40.2225,44.5702778
+am,avan,Avan,01,,40.3333333,44.1694444
+am,avan,Avan,11,,40.215,44.5786111
+am,avan vardgesi,Avan Vardgesi,03,,40.1727778,44.2925
+am,avazak,Avazak,05,,40.4058333,44.5922222
+am,avazan,Avazan,04,,40.3,45.7
+am,avdalagalu,Avdalagalu,04,,40.1377778,45.3291667
+am,avdalar,Avdalar,05,,40.1377778,44.6522222
+am,avdibek,Avdibek,06,,40.7986111,44.1072222
+am,avgeat,Avgeat,06,,41.0191667,44.6213889
+am,avsarlu,Avsarlu,08,,39.1330556,46.26
+am,avshar,Avshar,02,4215,39.8405556,44.6836111
+am,avshen,Avshen,01,,40.7258333,44.2916667
+am,avtona,Avtona,01,,40.3833333,44.05
+am,axpradzor,Axpradzor,04,,40.1,45.65
+am,ayar,Ayar,10,,39.7363889,45.3455556
+am,ayarlu,Ayarlu,01,,40.2633333,44.2636111
+am,ayasasi,Ayasasi,10,,39.9041667,45.44
+am,ayaslu,Ayaslu,02,,40.0030556,44.5575
+am,aydarbek,Aydarbek,06,,41.0972222,44.4008333
+am,aydarli,Aydarli,06,,40.7833333,44.3833333
+am,aygabats,Aygabats,07,,40.7,43.9
+am,aygavan,Aygavan,02,3758,39.8647222,44.6702778
+am,aygeat,Aygeat,06,,41.0161111,44.5952778
+am,aygedzor,Aygedzor,02,,39.9458333,44.6088889
+am,aygedzor,Aygedzor,08,2535,39.4627778,46.4152778
+am,aygedzor,Aygedzor,09,,40.8255556,45.5408333
+am,aygehat,Aygehat,06,,41.0161111,44.5952778
+am,aygehovit,Aygehovit,09,2888,40.9744444,45.2519444
+am,aygek,Aygek,03,1095,40.1886111,44.3833333
+am,aygeovit,Aygeovit,09,,40.9744444,45.2519444
+am,aygepar,Aygepar,09,,40.9419444,45.4622222
+am,aygepat,Aygepat,02,1349,39.95,44.6
+am,aygerlich,Aygerlich,03,,40.1430556,44.1483333
+am,aygeshat,Aygeshat,01,1358,40.2355556,44.2866667
+am,aygeshat,Aygeshat,03,1606,40.0666667,44.0666667
+am,aygestan,Aygestan,02,2431,40.0030556,44.5575
+am,aygezard,Aygezard,02,3192,39.9458333,44.6088889
+am,aygut,Aygut,04,997,40.6841667,45.1730556
+am,aykadzor,Aykadzor,07,,40.5377778,43.6608333
+am,aykasar,Aykasar,07,,40.6,43.8833333
+am,aykashen,Aykashen,03,,40.0727778,44.3069444
+am,aykavan,Aykavan,03,,40.0833333,44.05
+am,aykavan,Aykavan,07,,40.7558333,43.77
+am,aynadzor,Aynadzor,10,,39.7836111,45.2280556
+am,aynali,Aynali,01,,40.3666667,43.9666667
+am,aynt'ap',Aynt'ap',02,,40.0986111,44.4680556
+am,ayravank',Ayravank',04,,40.4344444,45.0969444
+am,ayrenyats,Ayrenyats,07,,40.6327778,43.8705556
+am,ayrivan,Ayrivan,04,,40.4344444,45.0969444
+am,ayrivan,Ayrivan,11,,40.1811111,44.5136111
+am,ayrk',Ayrk',04,,40.1263889,45.7911111
+am,ayrum,Ayrum,06,2174,41.195,44.8925
+am,ayrum,Ayrum,09,2174,41.1716667,44.8191667
+am,aysasi,Aysasi,10,,39.9041667,45.44
+am,aysori dvin,Aysori Dvin,02,,40.0252778,44.5908333
+am,aytag,Aytag,03,,40.1808333,44.2297222
+am,aytakh,Aytakh,03,,40.1808333,44.2297222
+am,azad,Azad,04,,40.1833333,45.8666667
+am,azatamut,Azatamut,09,1850,40.9758333,45.1980556
+am,azatan,Azatan,07,4448,40.7238889,43.8205556
+am,azatashen-alighuli,Azatashen-Alighuli,08,,39.4858333,46.4197222
+am,azatashen,Azatashen,02,,40.135,44.415
+am,azatavan,Azatavan,02,2886,39.9833333,44.5
+am,azatavan,Azatavan,03,2886,40.1333333,44.0666667
+am,azat,Azat,04,,40.1833333,45.8666667
+am,azatek,Azatek,10,,39.65,45.4383333
+am,azeri,Azeri,10,,39.7188889,45.6483333
+am,azizbekov,Azizbekov,07,,40.9286111,43.7491667
+am,azizbekov,Azizbekov,10,,39.6372222,45.5086111
+am,azizkend,Azizkend,02,,39.95,44.95
+am,azizlu,Azizlu,04,,40.15,45.8666667
+am,aznvadzor,Aznvadzor,06,,40.8769444,44.4169444
+am,babadzhan,Babadzhan,04,,40.4166667,45.4833333
+am,babajan,Babajan,04,,40.4166667,45.4833333
+am,babakishi,Babakishi,05,,40.4552778,44.5205556
+am,baburli,Baburli,07,,40.6,43.7333333
+am,badal,Badal,03,,40.0902778,44.1625
+am,badzhogli,Badzhogli,07,,40.7558333,43.77
+am,baganis,Baganis,09,,41.1166667,45.0666667
+am,bagaran,Bagaran,03,,40.1494444,43.6927778
+am,bagar,Bagar,04,,40.2833333,45.7333333
+am,bagarlu,Bagarlu,08,,39.2208333,46.2202778
+am,baghramian,Baghramian,02,,39.9766667,44.5194444
+am,baghramyan,Baghramyan,02,,39.9766667,44.5194444
+am,baghramyan,Baghramyan,03,1690,40.1908333,43.8494444
+am,bagramyan,Bagramyan,02,,39.9766667,44.5194444
+am,bagramyan,Bagramyan,03,,40.1933333,44.3686111
+am,bagratashen,Bagratashen,09,3024,41.2458333,44.8211111
+am,bagravan,Bagravan,07,,40.4802778,43.6708333
+am,bahar,Bahar,04,,40.2833333,45.7833333
+am,baharlu,Baharlu,08,,39.2208333,46.2202778
+am,bakavank,Bakavank,08,,39.2455556,46.1077778
+am,bakhchalar,Bakhchalar,03,,40.1333333,43.6666667
+am,balahovit,Balahovit,05,2982,40.2536111,44.6038889
+am,balak',Balak',08,,39.54,45.9388889
+am,balakend,Balakend,09,,41.1833333,45.0333333
+am,balaovit,Balaovit,05,,40.2536111,44.6038889
+am,balikli,Balikli,07,,41.0927778,43.6597222
+am,balykhli,Balykhli,07,,41.0927778,43.6597222
+am,balykhly,Balykhly,07,,41.0927778,43.6597222
+am,bambakashat,Bambakashat,03,3089,40.1144444,44.0122222
+am,bambakavan,Bambakavan,02,,40.0161111,44.5186111
+am,bandivan,Bandivan,07,,40.9561111,43.8030556
+am,barabat'um,Barabat'um,08,,39.2108333,46.4155556
+am,barana,Barana,09,,41.1725,44.9936111
+am,baran,Baran,09,,41.1725,44.9936111
+am,barbatum,Barbatum,08,,39.2108333,46.4155556
+am,bardidzor,Bardidzor,09,,40.8102778,45.1075
+am,bardzrashen,Bardzrashen,02,1273,40.0852778,44.5786111
+am,bardzravan,Bardzravan,08,,39.3977778,46.3297222
+am,bardzruni,Bardzruni,10,,39.5208333,45.4822222
+am,barekamavan,Barekamavan,09,,41.1791667,45.1097222
+am,barepat,Barepat,04,,40.6666667,45.1166667
+am,bariabad,Bariabad,04,,40.6666667,45.1166667
+am,bartsrashen,Bartsrashen,02,,40.0852778,44.5786111
+am,bartsrashen,Bartsrashen,07,,40.6,43.7333333
+am,bartsravan,Bartsravan,08,,39.3977778,46.3297222
+am,bartsruni,Bartsruni,10,,39.5208333,45.4822222
+am,basargech'ar,Basargech'ar,04,,40.1805556,45.7283333
+am,bash abaran,Bash Abaran,01,,40.5961111,44.3536111
+am,bash aparan,Bash Aparan,01,,40.5961111,44.3536111
+am,bash gyarni,Bash Gyarni,05,,40.1194444,44.7230556
+am,bashgyukh,Bashgyukh,05,,40.2691667,44.6836111
+am,bashgyukh,Bashgyukh,07,,40.6252778,44.0202778
+am,bashkend,Bashkend,04,,40.2583333,45.1375
+am,bashkend,Bashkend,10,,39.7938889,45.3633333
+am,bashnalu,Bashnalu,02,,39.9766667,44.5194444
+am,batikyan,Batikyan,04,,40.3269444,45.1063889
+am,bavra,Bavra,07,,41.1275,43.7758333
+am,bayandur,Bayandur,07,,40.7008333,43.7730556
+am,bayandur,Bayandur,08,,39.6033333,46.3680556
+am,bayburd,Bayburd,02,,40.1,44.7833333
+am,baydash,Baydash,08,,39.2005556,46.3711111
+am,baykht'ash,Baykht'ash,08,,39.2005556,46.3711111
+am,baysuz,Baysuz,01,,40.3608333,44.0552778
+am,baysyz,Baysyz,01,,40.3608333,44.0552778
+am,baytar,Baytar,07,,40.9666667,43.8166667
+am,bazarchay,Bazarchay,08,,39.6680556,45.8097222
+am,bazardzhug,Bazardzhug,01,,40.4622222,44.3736111
+am,bazirkhana,Bazirkhana,07,,40.5155556,43.8133333
+am,bazmakhpyur,Bazmakhpyur,01,,40.3347222,44.3102778
+am,bazmavan,Bazmavan,05,,40.3211111,44.5797222
+am,bazum,Bazum,06,1114,40.8680556,44.4455556
+am,bebdash,Bebdash,08,,39.2005556,46.3711111
+am,bedzhazlu,Bedzhazlu,02,,39.9588889,44.5591667
+am,bek'dash,Bek'dash,08,,39.2005556,46.3711111
+am,bekh,Bekh,08,,39.2005556,46.3711111
+am,bekyand,Bekyand,06,,40.8372222,44.1091667
+am,bendik,Bendik,06,,41.1575,44.7086111
+am,beniamin,Beniamin,07,,40.6833333,43.85
+am,berdashen,Berdashen,07,,41.0536111,43.6688889
+am,berdavan,Berdavan,09,3150,41.2027778,45.0033333
+am,berd,Berd,09,8374,40.8808333,45.3916667
+am,berdkunk',Berdkunk',04,,40.45,45.0925
+am,berkanush,Berkanush,02,,39.9833333,44.5166667
+am,berkarat,Berkarat,06,,40.6813889,44.1688889
+am,berk'arrat,Berk'arrat,06,,40.6813889,44.1688889
+am,berkashat,Berkashat,03,,40.05,43.9166667
+am,berrdagyugh,Berrdagyugh,09,,40.8808333,45.3916667
+am,berrdgyugh,Berrdgyugh,09,,40.8808333,45.3916667
+am,bert,Bert,09,,40.8808333,45.3916667
+am,beyuk-vedi,Beyuk-Vedi,02,,39.9105556,44.7277778
+am,birali,Birali,02,,39.8333333,44.9666667
+am,biurakan,Biurakan,01,,40.3413889,44.2736111
+am,biyuk-vedi,Biyuk-Vedi,02,,39.9105556,44.7277778
+am,bjni,Bjni,05,,40.4594444,44.6486111
+am,bjurakan,Bjurakan,01,,40.3413889,44.2736111
+am,blagodarnoye,Blagodarnoye,06,,41.0833333,44.1833333
+am,blkher,Blkher,01,,40.4861111,44.3825
+am,bnunik',Bnunik',08,,39.4444444,46.0058333
+am,bnunis,Bnunis,08,,39.4444444,46.0058333
+am,bogazkyasan,Bogazkyasan,07,,40.5666667,43.8666667
+am,bogdanovka,Bogdanovka,06,,41.1880556,44.3272222
+am,bogutlu,Bogutlu,01,,40.2983333,43.7541667
+am,boloraberd,Boloraberd,10,,39.6683333,45.3444444
+am,bol'shaya mazra,Bol'shaya Mazra,04,,40.2186111,45.7694444
+am,bol'shaya shishtapa,Bol'shaya Shishtapa,07,,41.0491667,43.8233333
+am,bol'shaya zeyva,Bol'shaya Zeyva,03,,40.1297222,44.2244444
+am,bol'shiye demurchi,Bol'shiye Demurchi,02,,40.0947222,44.3894444
+am,bol'shoy dzhamushli,Bol'shoy Dzhamushli,01,,40.6813889,44.2902778
+am,bol'shoy gilanlar,Bol'shoy Gilanlar,02,,40.1,44.8136111
+am,bol'shoy mantash,Bol'shoy Mantash,07,,40.6494444,44.0508333
+am,bol'shoy tapakey,Bol'shoy Tapakey,07,,41.0536111,43.6688889
+am,borisovka,Borisovka,08,,39.6541667,45.8305556
+am,bozdogan,Bozdogan,07,,40.5561111,43.7208333
+am,bozekhush,Bozekhush,07,,40.9927778,43.9388889
+am,bozigekh,Bozigekh,06,,40.7380556,44.6875
+am,brnakot,Brnakot,08,1912,39.4969444,45.9730556
+am,brrat'umb,Brrat'umb,08,,39.2108333,46.4155556
+am,brrnakot',Brrnakot',08,,39.4969444,45.9730556
+am,brrun,Brrun,08,,39.5338889,46.3030556
+am,brun,Brun,08,1028,39.5338889,46.3030556
+am,bugdashen,Bugdashen,07,,40.4802778,43.6708333
+am,bulagli,Bulagli,02,,40.0236111,44.4244444
+am,bulakhlar,Bulakhlar,10,,39.7352778,45.5377778
+am,bulakhly,Bulakhly,02,,40.0236111,44.4244444
+am,bununis,Bununis,08,,39.4444444,46.0058333
+am,burakan,Burakan,01,,40.3413889,44.2736111
+am,burastan,Burastan,02,,39.9833333,44.5
+am,buravet,Buravet,01,,40.3666667,44.3333333
+am,buzhakan,Buzhakan,05,1678,40.4552778,44.5205556
+am,byl mazra,Byl Mazra,08,,39.1352778,46.2066667
+am,byurakan,Byurakan,01,3902,40.3413889,44.2736111
+am,byuravan,Byuravan,02,1228,40.0161111,44.5186111
+am,byuregavan,Byuregavan,05,,40.3147222,44.5936111
+am,byureghavan,Byureghavan,05,6972,40.3147222,44.5936111
+am,bzhni,Bzhni,05,,40.4594444,44.6486111
+am,bzovan,Bzovan,02,,40.0,44.5666667
+am,bzovdal,Bzovdal,06,,40.8680556,44.4455556
+am,chabukhly,Chabukhly,04,,40.6330556,44.9522222
+am,chakaten,Chakaten,08,,39.1444444,46.4402778
+am,chakhmakh,Chakhmakh,07,,40.9,43.7
+am,chakhmakhly,Chakhmakhly,09,,41.0194444,45.2519444
+am,chakhrlu,Chakhrlu,04,,40.1722222,45.6886111
+am,chakhyrlu,Chakhyrlu,04,,40.1722222,45.6886111
+am,chakidyn,Chakidyn,08,,39.1444444,46.4402778
+am,chalab,Chalab,07,,40.915,43.7719444
+am,chalabi,Chalabi,09,,40.8255556,45.5261111
+am,chambarak,Chambarak,04,6153,40.5952778,45.3475
+am,chamrlu,Chamrlu,01,,40.5333333,44.4166667
+am,chamyrlu,Chamyrlu,01,,40.5333333,44.4166667
+am,chanakhchi,Chanakhchi,02,,39.8094444,45.0511111
+am,ch'anakhch'i,Ch'anakhch'i,08,,39.2833333,46.3833333
+am,changli,Changli,02,,40.02,44.8363889
+am,chapin,Chapin,08,,39.2669444,46.4580556
+am,ch'apni,Ch'apni,08,,39.2669444,46.4580556
+am,ch'arants'avan,Ch'arants'avan,05,,40.4097222,44.6430556
+am,charbakh,Charbakh,11,,40.1388889,44.4502778
+am,ch'arents'avan,Ch'arents'avan,05,,40.4097222,44.6430556
+am,chatkran,Chatkran,05,,40.2344444,44.7269444
+am,chaybasar,Chaybasar,07,,41.0466667,43.7769444
+am,chaykend,Chaykend,04,,40.6863889,45.1263889
+am,ch'ayk'end,Ch'ayk'end,08,,39.2280556,46.1291667
+am,chaykend,Chaykend,10,,39.6966667,45.5594444
+am,chibukhchi,Chibukhchi,03,,40.0516667,44.1905556
+am,chibukhly,Chibukhly,04,,40.6330556,44.9522222
+am,chichakli,Chichakli,04,,40.1266667,45.6158333
+am,chiftali,Chiftali,07,,41.0211111,43.9036111
+am,chigdamal,Chigdamal,06,,40.8613889,44.2727778
+am,chigdamlu,Chigdamlu,02,,39.9833333,44.5
+am,chikdamal,Chikdamal,06,,40.8613889,44.2727778
+am,chikdamlu,Chikdamlu,02,,39.9833333,44.5
+am,chimankend,Chimankend,02,,39.9166667,44.8166667
+am,ch'inari,Ch'inari,09,,40.8497222,45.5719444
+am,ch'inch'in,Ch'inch'in,09,,40.9116667,45.3541667
+am,ch'invinli,Ch'invinli,07,,41.0891667,43.5613889
+am,chirakhlu,Chirakhlu,10,,39.6880556,45.6005556
+am,chirchir,Chirchir,04,,40.5561111,44.9111111
+am,chirchiri,Chirchiri,09,,40.8175,45.1341667
+am,chirish,Chirish,08,,39.2669444,46.135
+am,chirpili,Chirpili,07,,40.55,43.65
+am,ch'iva,Ch'iva,10,,39.7672222,45.1408333
+am,chivinli,Chivinli,07,,41.0891667,43.5613889
+am,chizikhlar,Chizikhlar,07,,40.9480556,43.8561111
+am,ch'kalov,Ch'kalov,06,,40.9344444,44.6533333
+am,ch'kalovka,Ch'kalovka,04,,40.5075,44.9588889
+am,chknag,Chknag,01,,40.5841667,44.4338889
+am,chknakh,Chknakh,01,,40.5841667,44.4338889
+am,chlokhan,Chlokhan,07,,40.6833333,43.85
+am,chobankara,Chobankara,03,,40.1158333,44.3194444
+am,ch'obanlu,Ch'obanlu,08,,39.2666667,46.3666667
+am,chobanmaz,Chobanmaz,01,,40.7258333,44.2916667
+am,chochkan,Chochkan,06,1740,41.1861111,44.8313889
+am,choentsavan,Choentsavan,05,,40.4097222,44.6430556
+am,ch'orat'an,Ch'orat'an,09,,40.8611111,45.48
+am,chorlit,Chorlit,07,,40.95,43.9166667
+am,chorlu,Chorlu,07,,40.95,43.9166667
+am,chorort gyukh,Chorort Gyukh,11,,40.1863889,44.4238889
+am,chotur,Chotur,06,,40.7725,44.2191667
+am,chrakhli,Chrakhli,06,,40.7461111,44.0883333
+am,chubukhly,Chubukhly,04,,40.6330556,44.9522222
+am,chubuliki,Chubuliki,04,,40.6330556,44.9522222
+am,chullu,Chullu,08,,39.2733333,46.4138889
+am,dadakishlag,Dadakishlag,05,,40.6136111,44.5941667
+am,dada-kishlyag,Dada-Kishlyag,05,,40.6136111,44.5941667
+am,dadakyashlag,Dadakyashlag,05,,40.6136111,44.5941667
+am,dadalu,Dadalu,01,,40.4,43.95
+am,dagarli,Dagarli,07,,40.7333333,43.7833333
+am,dailakhlu,Dailakhlu,10,,39.7272222,45.4938889
+am,dalar,Dalar,02,2504,39.9669444,44.5363889
+am,dalarik,Dalarik,03,3080,40.2183333,43.8602778
+am,dalikardash,Dalikardash,04,,40.2891667,45.1341667
+am,dalikdash,Dalikdash,04,,40.1677778,45.1991667
+am,dallaklu,Dallaklu,05,,40.3116667,44.7488889
+am,dalular,Dalular,02,,39.9669444,44.5363889
+am,danagirmaz,Danagirmaz,01,,40.6216667,44.2991667
+am,danushavan,Danushavan,06,,41.0161111,44.5952778
+am,darabas,Darabas,08,,39.44,46.1222222
+am,darabaz,Darabaz,08,,39.44,46.1222222
+am,darachichag,Darachichag,05,,40.5386111,44.7113889
+am,darach'iman,Darach'iman,08,,39.2047222,46.4813889
+am,dara,Dara,04,,40.3666667,45.5666667
+am,daragyukh,Daragyukh,07,,41.1611111,43.8844444
+am,darakend,Darakend,06,,40.9463889,44.1263889
+am,darakend,Darakend,10,,39.6075,45.6072222
+am,darakert,Darakert,02,2325,40.1058333,44.4138889
+am,darakey,Darakey,07,,41.1611111,43.8844444
+am,darakoy,Darakoy,07,,41.1611111,43.8844444
+am,daranak,Daranak,04,,40.3666667,45.5666667
+am,darapas,Darapas,08,,39.44,46.1222222
+am,darband,Darband,07,,40.8666667,43.8833333
+am,darbas,Darbas,06,,40.8380556,44.4233333
+am,darbas,Darbas,08,,39.44,46.1222222
+am,darb,Darb,10,,39.7188889,45.6483333
+am,darbnik,Darbnik,02,,40.1069444,44.3763889
+am,dargalu,Dargalu,02,,39.9458333,44.6088889
+am,dargalu verkhniy,Dargalu Verkhniy,02,,39.95,44.6
+am,darik,Darik,07,,41.1227778,43.6730556
+am,darpas,Darpas,06,1785,40.8380556,44.4233333
+am,dash abaron,Dash Abaron,01,,40.5961111,44.3536111
+am,dashalty,Dashalty,10,,39.7055556,45.4416667
+am,dashkala,Dashkala,07,,40.5436111,43.8277778
+am,dashkand,Dashkand,04,,40.1263889,45.7911111
+am,dashkend,Dashkend,04,,40.1263889,45.7911111
+am,dashkerpi,Dashkerpi,07,,40.9666667,43.7666667
+am,dashlu,Dashlu,02,,39.9166667,44.75
+am,dashnoa,Dashnoa,02,,39.9497222,45.0161111
+am,dashtadem,Dashtadem,06,,41.1366667,44.175
+am,dashtavan,Dashtavan,02,1762,40.1016667,44.3905556
+am,dasht,Dasht,01,,40.2280556,44.3011111
+am,dastakern,Dastakern,08,,39.3683333,46.0366667
+am,dastakert,Dastakert,08,,39.3683333,46.0366667
+am,dastakyurd,Dastakyurd,08,,39.3683333,46.0366667
+am,davalinskiy tsemzavod,Davalinskiy Tsemzavod,02,,39.8302778,44.7025
+am,davalu,Davalu,02,,39.8094444,44.7144444
+am,davdashen,Davdashen,01,,40.3666667,43.9666667
+am,davidashen,Davidashen,05,,40.2158333,44.4811111
+am,david-bek,David-Bek,08,,39.3180556,46.4952778
+am,davitashen,Davitashen,05,,40.2158333,44.4811111
+am,davit' bek,Davit' Bek,08,,39.3180556,46.4952778
+am,davrus,Davrus,08,,39.2955556,46.3597222
+am,davtashen,Davtashen,05,,40.2158333,44.4811111
+am,daylakhlu,Daylakhlu,10,,39.7272222,45.4938889
+am,daymadaglu,Daymadaglu,08,,39.2833333,46.3913889
+am,ddmashen,Ddmashen,04,2157,40.5719444,44.8122222
+am,debedashen,Debedashen,06,,41.2333333,44.8166667
+am,debed,Debed,06,,40.9175,44.6491667
+am,debetashen,Debetashen,06,,41.2333333,44.8166667
+am,debet,Debet,06,,40.9175,44.6491667
+am,deghtsut,Deghtsut,02,,40.0263889,44.5488889
+am,dekhtsut,Dekhtsut,02,,40.0263889,44.5488889
+am,delijan,Delijan,09,,40.7408333,44.8630556
+am,delishan,Delishan,09,,40.7408333,44.8630556
+am,delizhan,Delizhan,09,,40.7408333,44.8630556
+am,demurchi,Demurchi,02,,40.0947222,44.3894444
+am,demurchilar,Demurchilar,06,,41.2,44.3166667
+am,derek,Derek,01,,40.7033333,44.3261111
+am,dgyr,Dgyr,01,,40.3438889,44.2377778
+am,dian,Dian,01,,40.3527778,44.0761111
+am,dilichan,Dilichan,09,,40.7408333,44.8630556
+am,dili,Dili,09,,40.7408333,44.8630556
+am,dilijan,Dilijan,09,13480,40.7408333,44.8630556
+am,dili p'ok'r,Dili P'ok'r,09,,40.7408333,44.8630556
+am,dilishan,Dilishan,09,,40.7408333,44.8630556
+am,dilizhan,Dilizhan,09,,40.7408333,44.8630556
+am,dimitrov,Dimitrov,02,1212,40.0080556,44.4880556
+am,dirak,Dirak,07,,40.7836111,43.9541667
+am,diraklar,Diraklar,07,,40.7836111,43.9541667
+am,ditak,Ditak,02,,40.0452778,44.5186111
+am,ditavan,Ditavan,09,,40.9588889,45.2019444
+am,dits'mayri,Dits'mayri,08,,39.2047222,46.4813889
+am,dodmashen,Dodmashen,04,,40.5719444,44.8122222
+am,doghs,Doghs,01,1186,40.2227778,44.2716667
+am,dokhkuz,Dokhkuz,02,,40.0088889,44.5444444
+am,dokhs,Dokhs,01,,40.2227778,44.2716667
+am,donguzyan,Donguzyan,02,,40.0925,44.3919444
+am,dort'ni,Dort'ni,08,,39.3002778,46.3291667
+am,dostlu,Dostlu,09,,41.1791667,45.1097222
+am,dostlug,Dostlug,03,,40.1197222,44.3775
+am,dovekh,Dovekh,09,,41.1833333,45.0333333
+am,dovrus,Dovrus,08,,39.2955556,46.3597222
+am,dovruz,Dovruz,08,,39.2955556,46.3597222
+am,dprabak,Dprabak,04,,40.6863889,45.1263889
+am,drakhtik,Drakhtik,04,1016,40.5688889,45.2319444
+am,dsegh,Dsegh,06,2484,40.9633333,44.6516667
+am,dsekh,Dsekh,06,,40.9633333,44.6516667
+am,duvakh,Duvakh,09,,41.1833333,45.0333333
+am,duzk'end,Duzk'end,07,,40.7813889,43.8963889
+am,duzkend,Duzkend,07,,41.0508333,43.7491667
+am,duzk'end mets,Duzk'end Mets,07,,40.7813889,43.8963889
+am,duzkharab,Duzkharab,07,,41.0094444,43.9227778
+am,duzk'yand,Duzk'yand,07,,40.7813889,43.8963889
+am,dvin armyanskiy,Dvin Armyanskiy,02,,40.02,44.5852778
+am,dvin,Dvin,02,2795,40.02,44.5852778
+am,dvoragyukh,Dvoragyukh,04,,40.1666667,45.1833333
+am,dyarrgyarr,Dyarrgyarr,06,,40.9569444,44.4427778
+am,dyg,Dyg,08,,39.5547222,46.4758333
+am,dyolli,Dyolli,07,,41.0786111,43.7238889
+am,dzagidzor,Dzagidzor,06,,40.9866667,44.6558333
+am,dzhabachalu,Dzhabachalu,02,,40.0452778,44.4736111
+am,dzhadzhur,Dzhadzhur,07,,40.8505556,43.9480556
+am,dzhafarabat,Dzhafarabat,03,,40.0433333,43.9447222
+am,dzhafarapat,Dzhafarapat,02,,40.1580556,44.44
+am,dzhalab,Dzhalab,07,,40.915,43.7719444
+am,dzhalalogly,Dzhalalogly,06,,41.0075,44.3866667
+am,dzhamushli,Dzhamushli,01,,40.6813889,44.2902778
+am,dzhamushlu bol'shoy,Dzhamushlu Bol'shoy,01,,40.6813889,44.2902778
+am,dzhamushlu,Dzhamushlu,01,,40.6905556,44.2736111
+am,dzhanakhmed,Dzhanakhmed,04,,40.2677778,45.8391667
+am,dzhanfida,Dzhanfida,03,,40.0455556,44.0208333
+am,dzhangi,Dzhangi,01,,40.6961111,44.23
+am,dzhani,Dzhani,10,,39.9063889,45.4997222
+am,dzhannatlu,Dzhannatlu,02,,40.0713889,44.5605556
+am,dzhararat,Dzhararat,05,,40.5533333,44.7575
+am,dzhardzharis,Dzhardzharis,01,,40.7033333,44.3261111
+am,dzharkhech,Dzharkhech,09,,40.7780556,44.9625
+am,dzharkhedzh,Dzharkhedzh,09,,40.7780556,44.9625
+am,dzhelaloglu,Dzhelaloglu,06,,41.0075,44.3866667
+am,dzhermuk,Dzhermuk,10,,39.8416667,45.6722222
+am,dzhibillu,Dzhibillu,08,,39.25,46.5166667
+am,dzhil,Dzhil,04,,40.4544444,45.4536111
+am,dzhiliza,Dzhiliza,06,,41.2155556,44.6702778
+am,dzhirmanis,Dzhirmanis,02,,39.9561111,45.0533333
+am,dzhiviskli,Dzhiviskli,04,,40.6641667,45.2425
+am,dzhivrishch',Dzhivrishch',11,,40.1855556,44.5869444
+am,dzhogaz,Dzhogaz,09,,41.0666667,45.15
+am,dzhomardlu,Dzhomardlu,08,,39.4194444,45.9266667
+am,dzhoragyukh,Dzhoragyukh,01,,40.4666667,43.9
+am,dzhorakhpyur,Dzhorakhpyur,05,,40.205,44.6430556
+am,dzhraber,Dzhraber,05,,40.3519444,44.645
+am,dzhradzor,Dzhradzor,07,,40.915,43.7719444
+am,dzhraovit,Dzhraovit,02,,40.0452778,44.4736111
+am,dzhrapi,Dzhrapi,07,,40.55,43.65
+am,dzhrarat,Dzhrarat,03,,40.0713889,44.2630556
+am,dzhrarat,Dzhrarat,05,,40.5533333,44.7575
+am,dzhrarat,Dzhrarat,06,,40.7461111,44.0883333
+am,dzhrashen,Dzhrashen,03,,40.0833333,44.0166667
+am,dzhrashen,Dzhrashen,06,,40.7875,44.1972222
+am,dzhrashen,Dzhrashen,11,,40.0547222,44.5133333
+am,dzhrvezh,Dzhrvezh,11,,40.1855556,44.5869444
+am,dzhudzhakyand,Dzhudzhakyand,06,,41.1877778,44.1861111
+am,dzhudzhevan,Dzhudzhevan,09,,41.1322222,45.0111111
+am,dzhul,Dzhul,10,,39.6575,45.6166667
+am,dzitankov,Dzitankov,07,1162,40.5155556,43.8133333
+am,dzit'hank'ov,Dzit'hank'ov,07,,40.5155556,43.8133333
+am,dzitkhankov,Dzitkhankov,07,,40.5155556,43.8133333
+am,dzoraghbyur,Dzoraghbyur,05,2011,40.205,44.6430556
+am,dzoraghp'yur,Dzoraghp'yur,05,,40.205,44.6430556
+am,dzoraglukh,Dzoraglukh,01,,40.5802778,44.4852778
+am,dzoragyugh,Dzoragyugh,04,,40.1752778,45.175
+am,dzoragyugh,Dzoragyugh,06,,40.9516667,44.6052778
+am,dzoragyukh,Dzoragyukh,01,,40.4666667,43.9
+am,dzoragyukh,Dzoragyukh,04,3570,40.1752778,45.175
+am,dzoragyukh,Dzoragyukh,06,,40.9516667,44.6052778
+am,dzorakap,Dzorakap,07,,40.5666667,43.8666667
+am,dzorakhpyur,Dzorakhpyur,05,,40.205,44.6430556
+am,dzoramut,Dzoramut,06,,41.1997222,44.29
+am,dzorap,Dzorap,01,,40.3163889,44.2536111
+am,dzorashen,Dzorashen,07,,40.5666667,43.7833333
+am,dzorashen,Dzorashen,08,,39.4858333,46.4197222
+am,dzorastan,Dzorastan,08,,39.2686111,46.3563889
+am,dzoravank',Dzoravank',04,,40.7027778,45.1005556
+am,dzun,Dzun,06,,41.0538889,44.6113889
+am,dzyunashogh,Dzyunashogh,06,,41.1794444,44.1811111
+am,echmiadzin,Echmiadzin,03,,40.1625,44.3422222
+am,echmiatsin,Echmiatsin,03,,40.1727778,44.2925
+am,efendi,Efendi,04,,40.5044444,45.0227778
+am,efendi,Efendi,06,,40.8475,44.3166667
+am,eghnajur,Eghnajur,07,,41.0891667,43.5613889
+am,ejmiatsin,Ejmiatsin,03,,40.1727778,44.2925
+am,elar,Elar,05,,40.2691667,44.6244444
+am,ellar,Ellar,07,,41.1127778,43.5963889
+am,ellar oyugi,Ellar Oyugi,07,,41.1127778,43.5963889
+am,elmalu,Elmalu,10,,39.5661111,45.3769444
+am,elpin,Elpin,10,,39.8058333,45.1102778
+am,erandzor,Erandzor,08,,38.9572222,46.4597222
+am,erdapin,Erdapin,10,,39.8586111,45.3294444
+am,erebuni,Erebuni,11,,40.1397222,44.5277778
+am,ereun,Ereun,11,,40.1811111,44.5136111
+am,erevan,Erevan,11,,40.1811111,44.5136111
+am,erewan,Erewan,11,,40.1811111,44.5136111
+am,eridzor,Eridzor,09,,40.8333333,45.5333333
+am,erivan,Erivan,11,,40.1811111,44.5136111
+am,erizak,Erizak,07,,40.9833333,43.65
+am,ertich,Ertich,10,,39.7405556,45.2666667
+am,evdzhilar,Evdzhilar,03,,40.0427778,44.1458333
+am,evlu,Evlu,06,,41.1997222,44.29
+am,eylas,Eylas,02,,40.1086111,44.4144444
+am,fantan,Fantan,05,1019,40.3941667,44.685
+am,farukh,Farukh,05,,40.5844444,44.7533333
+am,ferik,Ferik,03,,40.1863889,44.2094444
+am,fioletovo,Fioletovo,06,1264,40.7247222,44.7138889
+am,fontan,Fontan,05,,40.3941667,44.685
+am,franganots,Franganots,01,,40.2463889,44.2725
+am,gadzhibagir,Gadzhibagir,01,,40.6030556,44.3927778
+am,gadzhi bagr,Gadzhi Bagr,01,,40.6030556,44.3927778
+am,gadzhi bayram,Gadzhi Bayram,03,,40.1333333,43.6666667
+am,gadzhikara,Gadzhikara,01,,40.2355556,44.2866667
+am,gadzhikara,Gadzhikara,06,,40.82,44.3972222
+am,gadzhi-khalil,Gadzhi-Khalil,01,,40.6361111,44.2230556
+am,gadzhilar,Gadzhilar,03,,40.2008333,44.2772222
+am,gadzhi mukhan,Gadzhi Mukhan,04,,40.4769444,45.0375
+am,gadzhi nazar,Gadzhi Nazar,07,,40.8280556,43.9483333
+am,gagarin,Gagarin,04,1305,40.5369444,44.8577778
+am,galavar,Galavar,06,,40.77,44.3841667
+am,galidzor,Galidzor,08,,39.4102778,46.2952778
+am,gamzachemanskaya,Gamzachemanskaya,06,,40.7380556,44.6875
+am,gamzachiman,Gamzachiman,06,,40.7380556,44.6875
+am,gandzak'ar,Gandzak'ar,09,,40.84,45.1630556
+am,gandzak,Gandzak,04,3841,40.3147222,45.1113889
+am,gargarr,Gargarr,06,,40.9569444,44.4427778
+am,garibdzhanyan,Garibdzhanyan,07,,40.7461111,43.7969444
+am,garnarich,Garnarich,07,,41.0791667,43.6022222
+am,garni,Garni,05,6827,40.1194444,44.7230556
+am,garnovit,Garnovit,01,,40.4833333,43.95
+am,garrgarr,Garrgarr,06,,40.9569444,44.4427778
+am,garrnarrich,Garrnarrich,07,,41.0791667,43.6022222
+am,garrni,Garrni,05,,40.1194444,44.7230556
+am,garzhis,Garzhis,08,,39.4333333,46.2216667
+am,gasankend,Gasankend,10,,39.8333333,45.3016667
+am,gavar,Gavar,04,21681,40.3588889,45.1266667
+am,gavarr,Gavarr,04,,40.3588889,45.1266667
+am,gaydarli,Gaydarli,06,,40.7833333,44.3833333
+am,gay,Gay,02,3309,40.0838889,44.3055556
+am,gecherlau,Gecherlau,03,,40.1297222,44.0705556
+am,gechrlu,Gechrlu,03,,40.1297222,44.0705556
+am,gedakbulag,Gedakbulag,04,,40.1638889,45.5722222
+am,gedaklu,Gedaklu,02,,39.9661111,44.5333333
+am,gegamavan,Gegamavan,04,,40.5619444,44.8827778
+am,geghadir,Geghadir,01,,40.6588889,44.1072222
+am,geghadir,Geghadir,05,,40.1563889,44.6511111
+am,geghadir,Geghadir,07,,40.6847222,44.0238889
+am,geghahovit,Geghahovit,04,,40.1005556,45.3041667
+am,geghak'ar,Geghak'ar,04,,40.1166667,45.6833333
+am,geghamabak,Geghamabak,04,,40.1566667,45.8011111
+am,geghamasar,Geghamasar,04,1060,40.3116667,45.68
+am,geghamavan,Geghamavan,04,1597,40.5619444,44.8827778
+am,geghanist,Geghanist,02,2409,40.1497222,44.4344444
+am,geghanush,Geghanush,08,,39.1688889,46.4169444
+am,geghard,Geghard,05,,40.1588889,44.7966667
+am,geghark'unik',Geghark'unik',04,,40.2583333,45.1375
+am,gegharot,Gegharot,01,,40.7058333,44.2194444
+am,geghashen,Geghashen,05,,40.2344444,44.7269444
+am,geghavank',Geghavank',08,,39.2169444,46.1902778
+am,geghi,Geghi,08,,39.22,46.1555556
+am,gegi,Gegi,08,,39.22,46.1555556
+am,gekhadir,Gekhadir,01,,40.6588889,44.1072222
+am,gekhadir,Gekhadir,05,,40.1563889,44.6511111
+am,gekhadir,Gekhadir,07,,40.6847222,44.0238889
+am,gekhadzor,Gekhadzor,01,,40.6327778,44.1730556
+am,gekhakert,Gekhakert,03,,40.1852778,44.2422222
+am,gekhanist,Gekhanist,02,,40.1497222,44.4344444
+am,gekhanist,Gekhanist,07,,40.6847222,44.0238889
+am,gekhanush,Gekhanush,08,,39.1688889,46.4169444
+am,gekhard,Gekhard,05,,40.1588889,44.7966667
+am,gekharkuni,Gekharkuni,04,,40.2583333,45.1375
+am,gekharkunik,Gekharkunik,04,,40.2583333,45.1375
+am,gekharot,Gekharot,01,,40.7058333,44.2194444
+am,gekhashen,Gekhashen,05,,40.2344444,44.7269444
+am,gekhi,Gekhi,08,,39.22,46.1555556
+am,gelaysor,Gelaysor,02,,40.0633333,44.8147222
+am,gel,GÎl,04,,40.1636111,45.2277778
+am,gelkend,GÎlkend,04,,40.6841667,45.1730556
+am,gelli,GÎlli,07,,41.0786111,43.7238889
+am,geran,GÎran,06,,40.8955556,44.1991667
+am,gerger,Gerger,06,,40.9569444,44.4427778
+am,gerger,Gerger,10,,39.7733333,45.5386111
+am,gergeri,Gergeri,06,,40.9569444,44.4427778
+am,gerger russkiy,Gerger Russkiy,06,,40.9569444,44.4427778
+am,geryusy,Geryusy,08,,39.5077778,46.3386111
+am,geshin,Geshin,10,,39.8011111,45.1313889
+am,getahovit,Getahovit,09,2005,40.8958333,45.1313889
+am,getamech,Getamech,05,,40.275,44.585
+am,getamej,Getamej,05,,40.275,44.585
+am,getap',Getap',01,,40.3872222,43.6216667
+am,getap',Getap',10,,39.7636111,45.3061111
+am,getapi,Getapi,07,,40.65,44.0
+am,getapnia,Getapnia,02,,40.1405556,44.4325
+am,getap'nya,Getap'nya,02,,40.1405556,44.4325
+am,getar,Getar,01,,40.3872222,43.6216667
+am,getashen,Getashen,02,,40.0380556,44.5638889
+am,getashen,Getashen,03,2114,40.0433333,43.9447222
+am,getashen,Getashen,09,,41.0502778,45.1013889
+am,getatag,Getatag,08,,39.4247222,46.1213889
+am,getat'agh,Getat'agh,08,,39.4247222,46.1213889
+am,getatakh,Getatakh,08,,39.4247222,46.1213889
+am,getazat,Getazat,02,1947,40.0380556,44.5638889
+am,getik,Getik,07,,40.9166667,44.05
+am,getik,Getik,10,,39.6966667,45.5594444
+am,getk,Getk,07,,40.7333333,43.7833333
+am,geyarchin,Geyarchin,09,,40.75,45.05
+am,geygmbet,GÎygmbet,02,,40.1497222,44.4344444
+am,geykilisa,GÎykilisa,05,,40.3244444,44.6938889
+am,geysu,GÎysu,04,,40.3,45.7
+am,gey yekhush,Gey Yekhush,06,,40.8755556,44.0972222
+am,gezaldara,Gezaldara,01,,40.6327778,44.1730556
+am,gezaldara,Gezaldara,06,,40.8769444,44.4169444
+am,gezeldara,Gezeldara,04,,40.135,45.4363889
+am,gezlu,Gezlu,01,,40.4166667,43.9
+am,ghabakhlu,Ghabakhlu,10,,39.8672222,45.4719444
+am,ghai-kend,Ghai-kend,10,,39.6966667,45.5594444
+am,ghalak'yand,Ghalak'yand,09,,40.8808333,45.3916667
+am,ghap'an,Ghap'an,08,,39.2011111,46.415
+am,gharabulagh,Gharabulagh,07,,41.0477778,43.5855556
+am,gharaghaya,Gharaghaya,10,,39.8986111,45.4836111
+am,gharak'ilisa,Gharak'ilisa,06,,40.8127778,44.4883333
+am,gharatgha,Gharatgha,08,,39.2819444,46.3419444
+am,gharibjanian,Gharibjanian,07,,40.7461111,43.7969444
+am,gharibjanyan,Gharibjanyan,07,,40.7461111,43.7969444
+am,ghashka,Ghashka,02,,39.8327778,45.0261111
+am,ghavushugh,Ghavushugh,10,,39.8794444,45.4263889
+am,ghazanch'i,Ghazanch'i,07,,41.0788889,43.8216667
+am,ghazaravan,Ghazaravan,01,,40.3477778,44.3416667
+am,ghonjali,Ghonjali,07,,41.0016667,43.6594444
+am,ghovshut,Ghovshut,08,,39.2086111,46.2408333
+am,ghukasavan,Ghukasavan,02,2113,40.1261111,44.4177778
+am,ghukasyan,Ghukasyan,07,,41.0375,43.8580556
+am,ghurdghulagh,Ghurdghulagh,08,,39.3427778,46.4338889
+am,ghursali,Ghursali,06,,40.8272222,44.3436111
+am,ghushch'i,Ghushch'i,08,,39.45,45.9666667
+am,ghyotur,Ghyotur,10,,39.7636111,45.3061111
+am,ghzlgyul,Ghzlgyul,10,,39.9041667,45.44
+am,ghzljugh,Ghzljugh,08,,39.56,46.0436111
+am,ghzyljugh,Ghzyljugh,08,,39.56,46.0436111
+am,gilanlar,Gilanlar,02,,40.1,44.8136111
+am,gimri,Gimri,07,,40.7894444,43.8475
+am,ginevet,Ginevet,03,,40.15,44.3666667
+am,girt',Girt',08,,39.2155556,46.1055556
+am,gladzor,Gladzor,10,2080,39.7783333,45.3477778
+am,glamuzh,Glamuzh,05,,40.3916667,44.6072222
+am,gnaberd,Gnaberd,02,,40.0058333,44.5744444
+am,gndevaz,Gndevaz,10,,39.7591667,45.6180556
+am,gnishik,Gnishik,10,,39.6558333,45.3
+am,gogaran,Gogaran,06,1088,40.8955556,44.1991667
+am,gogavan,Gogavan,06,,41.2,44.3166667
+am,goght'anik,Goght'anik,10,,39.8672222,45.4719444
+am,goght',Goght',05,,40.1394444,44.7794444
+am,gokht,Gokht,05,,40.1394444,44.7794444
+am,golgat,Golgat,07,,40.6847222,44.0238889
+am,golovino,Golovino,09,,40.7130556,44.8494444
+am,gomadzor,Gomadzor,04,,40.5636111,44.9486111
+am,gomaran,Gomaran,08,,39.1819444,46.4138889
+am,gomer,Gomer,09,,40.8333333,45.55
+am,gomk',Gomk',10,,39.6294444,45.5691667
+am,gomshavar,Gomshavar,06,,41.1,44.9166667
+am,gomur,Gomur,10,,39.6294444,45.5691667
+am,gora sangyar-topa,Gora Sangyar-Topa,01,,40.6755556,44.2444444
+am,gorayk',Gorayk',08,,39.6680556,45.8097222
+am,gorbatakh,Gorbatakh,10,,39.8947222,45.3355556
+am,gorbatekh,Gorbatekh,10,,39.8947222,45.3355556
+am,goris,Goris,08,20379,39.5077778,46.3386111
+am,gorovan,Gorovan,02,,39.9,44.7333333
+am,gors,Gors,10,,39.8625,45.2302778
+am,gosh,Gosh,09,994,40.7225,45.0033333
+am,grampa,Grampa,03,,40.1869444,44.2666667
+am,griboyedov,Griboyedov,03,1879,40.1130556,44.2716667
+am,gtashen,Gtashen,07,,40.9188889,43.7169444
+am,gudemnis,Gudemnis,08,,38.9333333,46.1833333
+am,gugark',Gugark',06,,40.8072222,44.5380556
+am,gukarrich,Gukarrich,04,,40.3116667,45.68
+am,gukasavan,Gukasavan,02,,40.1261111,44.4177778
+am,gukasyan,Gukasyan,07,,40.9466667,43.7813889
+am,gulistan,Gulistan,10,,39.5441667,45.4166667
+am,gumri,Gumri,07,,40.7894444,43.8475
+am,gumry,Gumry,07,,40.7894444,43.8475
+am,guney,G¸ney,04,,40.3416667,45.6083333
+am,gusanagyugh,Gusanagyugh,07,,40.6691667,43.7883333
+am,gusanagyukh,Gusanagyukh,07,,40.6691667,43.7883333
+am,guseyn kuli,Guseyn Kuli,04,,40.1830556,45.8255556
+am,gushch'i,Gushch'i,08,,39.45,45.9666667
+am,gutnikishlag,Gutnikishlag,07,,40.6666667,43.9
+am,gyabur,Gyabur,10,,39.6244444,45.5925
+am,gyabut,Gyabut,10,,39.6244444,45.5925
+am,gyadigvank,Gyadigvank,10,,39.9258333,45.5113889
+am,gyadikvank,Gyadikvank,10,,39.8986111,45.4836111
+am,gyadikvank',Gyadikvank',10,,39.9258333,45.5113889
+am,gyalto,Gyalto,01,,40.3833333,43.7333333
+am,gyalur,Gyalur,08,,39.0613889,46.2758333
+am,gyamrez,Gyamrez,05,,40.2333333,44.7
+am,gyard,Gyard,08,,39.2155556,46.1055556
+am,gyard nerk'in,Gyard Nerk'in,08,,39.2155556,46.1055556
+am,gyart',Gyart',08,,39.2155556,46.1055556
+am,gyrad,Gyrad,08,,39.2155556,46.1055556
+am,gyukh,Gyukh,04,,40.3305556,45.1838889
+am,gyulabarrak,Gyulabarrak,06,,40.9697222,44.4713889
+am,gyulablu,Gyulablu,01,,40.5802778,44.4852778
+am,gyulagarak,Gyulagarak,06,2109,40.9697222,44.4713889
+am,gyulagorak,Gyulagorak,06,,40.9697222,44.4713889
+am,gyulistan,Gyulistan,10,,39.5441667,45.4166667
+am,gyulist,Gyulist,10,,39.5441667,45.4166667
+am,gyullibulag armyanskiy,Gyullibulag Armyanskiy,07,,40.95,43.9166667
+am,gyullibulag,Gyullibulag,07,,40.8686111,43.7072222
+am,gyullibulagh,Gyullibulagh,07,,40.8686111,43.7072222
+am,gyulliduz,Gyulliduz,10,,39.8986111,45.4836111
+am,gyulliduz otselok,Gyulliduz Otselok,10,,39.8986111,45.4836111
+am,gyullidzha,Gyullidzha,01,,40.5716667,44.4027778
+am,gyullidzha,Gyullidzha,06,,40.8738889,44.21
+am,gyullidzha,Gyullidzha,07,,41.0975,43.6163889
+am,gyullija,Gyullija,07,,41.0975,43.6163889
+am,gyulludara,Gyulludara,06,,40.7397222,44.4230556
+am,gyumri,Gyumri,07,148383,40.7894444,43.8475
+am,gyumush,Gyumush,05,,40.3916667,44.6072222
+am,gyunashli,Gyunashli,04,,40.2677778,45.8391667
+am,gyuney,Gyuney,04,,40.3416667,45.6083333
+am,gyutashen,Gyutashen,07,,40.9188889,43.7169444
+am,gyutkum,Gyutkum,08,,39.1688889,46.4169444
+am,haghardzin,Haghardzin,09,,40.7780556,44.9625
+am,haghartsin,Haghartsin,09,3370,40.7780556,44.9625
+am,haghpat,Haghpat,06,,41.095,44.7102778
+am,haght'anak,Haght'anak,09,,41.2238889,44.9377778
+am,haght'anak,Haght'anak,11,,40.1863889,44.4238889
+am,hajat'in,Hajat'in,08,,39.2038889,46.1386111
+am,hajibaj,Hajibaj,08,,39.25,46.0833333
+am,hakhpat,Hakhpat,06,,41.095,44.7102778
+am,hakko,Hakko,01,,40.3811111,43.6994444
+am,halaj,Halaj,08,,39.2347222,46.4313889
+am,halavar,Halavar,06,,40.77,44.3841667
+am,halidzor,Halidzor,08,,39.4102778,46.2952778
+am,hamgach'iman,Hamgach'iman,06,,40.7380556,44.6875
+am,hank'avan,Hank'avan,05,,40.6441667,44.4813889
+am,hardzis,Hardzis,08,,39.4333333,46.2216667
+am,harrich,Harrich,07,,40.5980556,44.0075
+am,hart'agyugh,Hart'agyugh,06,,40.8355556,44.0466667
+am,hartashen,Hartashen,07,,41.0094444,43.9227778
+am,hart'ashen,Hart'ashen,08,,39.4858333,46.4197222
+am,hart'avan,Hart'avan,01,,40.4780556,44.4005556
+am,harzhis,Harzhis,08,,39.4333333,46.2216667
+am,hasankand,Hasankand,10,,39.8333333,45.3016667
+am,hatis,Hatis,05,,40.3405556,44.7297222
+am,hats'avan,Hats'avan,05,,40.1377778,44.6522222
+am,hats'avan,Hats'avan,08,,39.4627778,45.9730556
+am,hats'ik,Hats'ik,01,,40.1641667,43.9408333
+am,hats'ik,Hats'ik,07,,40.8475,43.8741667
+am,hayanist,Hayanist,03,2031,40.1197222,44.3775
+am,haykadzor,Haykadzor,07,,40.5377778,43.6608333
+am,haykashen,Haykashen,03,1140,40.0727778,44.3069444
+am,haykavan,Haykavan,07,1201,40.7558333,43.77
+am,hayravank',Hayravank',04,,40.4344444,45.0969444
+am,hayrenyats',Hayrenyats',07,,40.6327778,43.8705556
+am,hayt'agh,Hayt'agh,03,,40.1808333,44.2297222
+am,herher,Herher,06,,40.9569444,44.4427778
+am,herher,Herher,10,,39.7733333,45.5386111
+am,hermon,Hermon,10,,39.8794444,45.4263889
+am,hesan kand,Hesan Kand,10,,39.8333333,45.3016667
+am,hin,Hin,09,,40.7408333,44.8630556
+am,hnaberd,Hnaberd,01,1817,40.6427778,44.1444444
+am,hnaberd,Hnaberd,02,,40.0058333,44.5744444
+am,hoktember,Hoktember,03,5348,40.1361111,44.0138889
+am,hoktemberyan,Hoktemberyan,03,,40.1522222,44.0308333
+am,horadis,Horadis,10,,39.5527778,45.4044444
+am,horbategh,Horbategh,10,,39.8947222,45.3355556
+am,horom,Horom,07,1893,40.6541667,43.8822222
+am,horrom,Horrom,07,,40.6541667,43.8822222
+am,hors,Hors,10,,39.8625,45.2302778
+am,hovk',Hovk',09,,40.7911111,45.0225
+am,hovtamej,Hovtamej,03,,40.1836111,44.2572222
+am,hovtashat,Hovtashat,02,3472,40.1019444,44.3427778
+am,hovtashen,Hovtashen,02,1134,40.0244444,44.45
+am,hovtun,Hovtun,07,,40.9666667,43.8166667
+am,hrazdan,Hrazdan,02,,40.0672222,44.4361111
+am,hrazdan,Hrazdan,05,40796,40.5016667,44.7547222
+am,hunut,Hunut,08,,39.25,46.3833333
+am,hushakert,Hushakert,03,,40.0811111,43.9263889
+am,ibish,Ibish,07,,40.9833333,43.65
+am,idzhevan,Idzhevan,09,,40.8755556,45.1491667
+am,iejmiatsin,Iejmiatsin,03,,40.1727778,44.2925
+am,igdalu,Igdalu,03,,40.0405556,44.0675
+am,ijevan,Ijevan,09,14737,40.8755556,45.1491667
+am,ilanchalan,Ilanchalan,01,,40.3936111,44.3813889
+am,ilanli,Ilanli,07,,41.0466667,43.7769444
+am,ilanly,Ilanly,07,,41.0466667,43.7769444
+am,ilkhiabi,Ilkhiabi,07,,40.7,43.9
+am,illi,Illi,07,,40.9166667,43.8166667
+am,illi karakilisa,Illi Karakilisa,07,,40.9166667,43.8166667
+am,illmazlu,Illmazlu,06,,41.1411111,44.1741667
+am,ilmazlu,Ilmazlu,06,,41.1411111,44.1741667
+am,imanshalu,Imanshalu,02,,40.02,44.4911111
+am,imeni beriya,Imeni Beriya,03,,40.1616667,44.0883333
+am,imeni beriya,Imeni Beriya,11,,40.1847222,44.4597222
+am,imeni dzerzhinskogo,Imeni Dzerzhinskogo,03,,40.0833333,44.0
+am,imeni kalinina,Imeni Kalinina,02,,40.0236111,44.4244444
+am,imeni kirova,Imeni Kirova,02,,39.9158333,44.6002778
+am,imeni mikoyana,Imeni Mikoyana,01,,40.1758333,44.0186111
+am,imeni shaumyana,Imeni Shaumyana,06,,40.7883333,44.5316667
+am,imeni shaumyana,Imeni Shaumyana,11,,40.1847222,44.4597222
+am,imeni stalina,Imeni Stalina,03,,40.05,43.9666667
+am,imeni tairova,Imeni Tairova,11,,40.1833333,44.4833333
+am,imeni voroshilova,Imeni Voroshilova,01,,40.1641667,43.9408333
+am,imeni zhdanova,Imeni Zhdanova,03,,40.1616667,44.0883333
+am,imrkhan,Imrkhan,07,,40.67,43.8663889
+am,imrlu,Imrlu,01,,40.5747222,44.4547222
+am,inakdag,Inakdag,04,,40.2333333,45.85
+am,inaklu,Inaklu,01,,40.35,44.2666667
+am,inchevar,Inchevar,08,,39.2558333,46.4394444
+am,indzhevar,Indzhevar,08,,39.2558333,46.4394444
+am,injevar,Injevar,08,,39.2558333,46.4394444
+am,ipakli,Ipakli,02,,40.1086111,44.4144444
+am,ipakly,Ipakly,02,,40.1086111,44.4144444
+am,iravan,Iravan,11,,40.1811111,44.5136111
+am,irimis,Irimis,08,,39.4611111,46.1025
+am,irind,Irind,01,,40.3833333,43.9833333
+am,isaakyan,Isaakyan,07,,40.6166667,43.7252778
+am,isahakian,Isahakian,07,,40.6166667,43.7252778
+am,isahakyan,Isahakyan,07,,40.6166667,43.7252778
+am,isharandi,Isharandi,09,,40.9144444,45.0725
+am,ishkanasar,Ishkanasar,08,,39.56,46.0436111
+am,istibulagh,Istibulagh,09,,40.8755556,45.1491667
+am,itkran,Itkran,10,,39.5441667,45.4166667
+am,itsakar,Itsakar,09,,40.8666667,45.3
+am,jaghats'adzor,Jaghats'adzor,04,,40.1466667,45.8155556
+am,jajur,Jajur,07,,40.8505556,43.9480556
+am,jajurr,Jajurr,07,,40.8505556,43.9480556
+am,jamshlu,Jamshlu,01,,40.6905556,44.2736111
+am,janfida,Janfida,03,2986,40.0455556,44.0208333
+am,jegward,Jegward,05,,40.3216667,44.4813889
+am,jermuk,Jermuk,10,4582,39.8416667,45.6722222
+am,jibillu,Jibillu,08,,39.25,46.5166667
+am,jiliza,Jiliza,06,,41.2155556,44.6702778
+am,jil,Jil,04,,40.4544444,45.4536111
+am,jomardlu,Jomardlu,08,,39.4194444,45.9266667
+am,jraber,Jraber,05,,40.3519444,44.645
+am,jradzor,Jradzor,07,,40.915,43.7719444
+am,jrahovit,Jrahovit,02,1032,40.0452778,44.4736111
+am,jrambar,Jrambar,01,,40.4819444,44.4330556
+am,jrap'i,Jrap'i,07,,40.5569444,43.6827778
+am,jrarat,Jrarat,03,,40.0713889,44.2630556
+am,jrarat,Jrarat,06,,40.7461111,44.0883333
+am,jrarrat,Jrarrat,03,,40.0713889,44.2630556
+am,jrarrat,Jrarrat,05,,40.5533333,44.7575
+am,jrarrat,Jrarrat,06,,40.7461111,44.0883333
+am,jrashen,Jrashen,06,3078,40.7875,44.1972222
+am,jrashen,Jrashen,11,1696,40.0547222,44.5133333
+am,jrvezh,Jrvezh,11,,40.1855556,44.5869444
+am,kaayrlu,Kaayrlu,02,,39.8666667,44.95
+am,kabakhlu,Kabakhlu,05,,40.5891667,44.5769444
+am,kabakhlu,Kabakhlu,10,,39.8672222,45.4719444
+am,kabakhtapa,Kabakhtapa,01,,40.35,43.8333333
+am,kachachkut,Kachachkut,06,,41.1166667,44.6
+am,kachagan,Kachagan,06,,40.7883333,44.1844444
+am,kadrlu,Kadrlu,02,,39.8666667,44.95
+am,kadzharan,Kadzharan,08,,39.1511111,46.16
+am,kafan,Kafan,08,,39.2011111,46.415
+am,kafin,Kafin,08,,39.2011111,46.415
+am,kaghnut,Kaghnut,08,,39.2741667,46.5063889
+am,k'aghsi,K'aghsi,05,,40.4805556,44.7411111
+am,kagrizner,Kagrizner,10,,39.7258333,45.4613889
+am,kahurt,Kahurt,08,,39.2708333,46.1188889
+am,kaikuli-kazanchi,Kaikuli-Kazanchi,07,,41.0788889,43.8216667
+am,k'ajaran,K'ajaran,08,,39.1216667,46.1561111
+am,k'ajarants',K'ajarants',08,,39.1216667,46.1561111
+am,kak'avadzor,Kak'avadzor,01,,40.3436111,44.0119444
+am,kakavadzor,Kakavadzor,05,,40.5844444,44.7533333
+am,kakhakn,Kakhakn,04,,40.2833333,45.7833333
+am,kakhnut,Kakhnut,08,,39.2741667,46.5063889
+am,kakhsi,Kakhsi,05,,40.4805556,44.7411111
+am,kakhtsrashen,Kakhtsrashen,02,,39.9666667,44.6166667
+am,kalacha,Kalacha,01,,40.4408333,44.3641667
+am,kalachik,Kalachik,08,,39.6216667,45.9047222
+am,kalagar,Kalagar,03,,40.0433333,43.9447222
+am,kalagiran,Kalagiran,06,,40.9386111,44.5591667
+am,kalakut,Kalakut,01,,40.2833333,44.0166667
+am,kalali,Kalali,07,,40.6666667,43.7666667
+am,kalara,Kalara,02,,40.1261111,44.4177778
+am,kalasar,Kalasar,10,,39.8833333,45.4186111
+am,kalaser,Kalaser,10,,39.8833333,45.4186111
+am,kalavan,Kalavan,04,,40.65,45.1166667
+am,kaler,Kaler,08,,39.0613889,46.2758333
+am,kaliniko,Kaliniko,06,,41.1244444,44.2819444
+am,kalinin,Kalinin,02,,40.0236111,44.4244444
+am,kalinin,Kalinin,06,,41.1244444,44.2819444
+am,kalinino,Kalinino,06,,41.1244444,44.2819444
+am,kaltakhchi,Kaltakhchi,06,,40.8355556,44.0466667
+am,kamaris,Kamaris,05,2064,40.2358333,44.6938889
+am,kamarl,Kamarl,02,,39.9538889,44.5505556
+am,kamarlu,Kamarlu,02,,39.9538889,44.5505556
+am,kamarlu,Kamarlu,03,,40.0713889,44.2891667
+am,kamarlyu,Kamarlyu,02,,39.9538889,44.5505556
+am,kamkhut,Kamkhut,07,,40.9,43.7
+am,kamo,Kamo,04,,40.3588889,45.1266667
+am,kamo,Kamo,07,1340,40.8280556,43.9483333
+am,kamyshkut,Kamyshkut,06,,40.9041667,44.6325
+am,kamyshlu,Kamyshlu,03,,40.1125,44.1722222
+am,kamyshlu,Kamyshlu,04,,40.1833333,45.6666667
+am,kamzak,Kamzak,06,,40.8952778,44.1463889
+am,kanach'ut,Kanach'ut,02,,40.0088889,44.5444444
+am,kanakeravan,Kanakeravan,11,2950,40.2472222,44.5366667
+am,kanaker,Kanaker,11,,40.22,44.5383333
+am,k'anak'erravan,K'anak'erravan,11,,40.2472222,44.5366667
+am,k'anak'err,K'anak'err,11,,40.22,44.5383333
+am,kanlidzha,Kanlidzha,07,,40.8375,43.7719444
+am,kanli,Kanli,04,,40.1833333,45.6666667
+am,kantarat,Kantarat,08,,39.1352778,46.2066667
+am,kapanak,Kapanak,07,,40.7666667,43.9833333
+am,kapan,Kapan,08,33161,39.2011111,46.415
+am,kaps,Kaps,07,,40.8666667,43.7166667
+am,kapuli,Kapuli,07,,40.6691667,43.7883333
+am,kaputan,Kaputan,05,1252,40.3244444,44.6938889
+am,kapuyt,Kapuyt,10,,39.625,45.5922222
+am,karaberd,Karaberd,06,,40.8477778,44.5222222
+am,k'araberd,K'araberd,07,,40.5436111,43.8277778
+am,karaboya,Karaboya,06,,40.8397222,44.02
+am,karabulag,Karabulag,01,,40.4530556,44.4641667
+am,karabulag,Karabulag,07,,41.0477778,43.5855556
+am,karaburun,Karaburun,01,,40.2402778,43.8097222
+am,karachanta,Karachanta,07,,40.9286111,43.7491667
+am,karachiman,Karachiman,08,,39.2047222,46.4813889
+am,karadaglu,Karadaglu,02,,40.0333333,44.4833333
+am,karadash,Karadash,09,,41.0197222,45.1425
+am,karadzhalar,Karadzhalar,01,,40.3366667,44.1041667
+am,karadzhoran,Karadzhoran,05,,40.4025,44.5436111
+am,karadzor,Karadzor,06,,40.8475,44.3166667
+am,karagamzalu,Karagamzalu,02,,39.9833333,44.5
+am,k'araglukh,K'araglukh,02,,39.8955556,45.2688889
+am,k'arahunj,K'arahunj,08,,39.4791667,46.3588889
+am,karaiman,Karaiman,04,,40.2811111,45.7827778
+am,karaisa orkara isa,Karaisa orKara Isa,06,,41.1016667,44.1538889
+am,karakala,Karakala,03,,40.0502778,43.8663889
+am,karakala,Karakala,05,,40.2775,44.7983333
+am,karakala,Karakala,06,,41.1102778,44.1419444
+am,karakaya,Karakaya,04,,40.7027778,45.1005556
+am,karakaya,Karakaya,10,,39.9108333,45.4766667
+am,k'arakert,K'arakert,01,,40.2402778,43.8097222
+am,karakhach,Karakhach,02,,39.8502778,44.9830556
+am,karakhs,Karakhs,06,,40.8127778,44.4883333
+am,karakhs,Karakhs,07,,40.7238889,43.8205556
+am,karakilisa,Karakilisa,01,,40.4780556,44.4005556
+am,karakilisa,Karakilisa,06,,41.1630556,44.3691667
+am,karakilisa,Karakilisa,07,,40.7238889,43.8205556
+am,karakilisa,Karakilisa,08,,39.5208333,46.0322222
+am,karakilisa tret'ya,Karakilisa Tret'ya,07,,40.9313889,44.0691667
+am,karakilisa turki,Karakilisa Turki,07,,40.75,43.7833333
+am,karakilis,Karakilis,06,,40.8127778,44.4883333
+am,karakishlag,Karakishlag,03,,40.1205556,44.3741667
+am,karaklis,Karaklis,06,,40.8127778,44.4883333
+am,karakoymaz,Karakoymaz,01,,40.3619444,43.9827778
+am,karakoyun,Karakoyun,04,,40.1333333,45.85
+am,karakula,Karakula,01,,40.3872222,43.6216667
+am,karalar,Karalar,02,,39.8988889,44.6483333
+am,karal,Karal,06,,40.825,44.1413889
+am,kara-mamed,Kara-Mamed,07,,40.85,43.7
+am,karanamaz,Karanamaz,07,,41.0758333,43.755
+am,karanlug,Karanlug,01,,40.6144444,44.3908333
+am,karanlug,Karanlug,04,,40.1447222,45.3063889
+am,karanlukhdara,Karanlukhdara,09,,40.9333333,45.1333333
+am,karanlukh,Karanlukh,04,,40.1044444,45.2897222
+am,k'arashamb,K'arashamb,05,,40.405,44.5763889
+am,k'arashen,K'arashen,08,,39.54,46.4080556
+am,k'arat'agh,K'arat'agh,08,,39.2819444,46.3419444
+am,karatag,Karatag,08,,39.2819444,46.3419444
+am,karatga,Karatga,08,,39.2819444,46.3419444
+am,karaundzh,Karaundzh,08,,39.4791667,46.3588889
+am,karavansarai,Karavansarai,09,,40.8755556,45.1491667
+am,k'aravansaray,K'aravansaray,09,,40.8755556,45.1491667
+am,karavan savan,Karavan Savan,09,,40.8755556,45.1491667
+am,karbi,Karbi,01,3521,40.3338889,44.3777778
+am,karbulag,Karbulag,07,,41.0477778,43.5855556
+am,karchaghbyur,Karchaghbyur,04,2274,40.1638889,45.5722222
+am,karchaghpyur,Karchaghpyur,04,,40.1638889,45.5722222
+am,karchakhpyur,Karchakhpyur,04,,40.1638889,45.5722222
+am,karchawan,Karchawan,08,,38.8963889,46.1788889
+am,karchevan,Karchevan,08,,38.8963889,46.1788889
+am,kard,Kard,08,,39.2155556,46.1055556
+am,kard nerk'in,Kard Nerk'in,08,,39.2155556,46.1055556
+am,karenis,Karenis,05,,40.3916667,44.6072222
+am,kargabazar,Kargabazar,03,,40.0666667,44.3166667
+am,kargavank,Kargavank,05,,40.3569444,44.5230556
+am,karibdzhanyan,Karibdzhanyan,07,,40.7461111,43.7969444
+am,karindzh,Karindzh,06,,40.9733333,44.6886111
+am,karkhun,Karkhun,03,,40.0833333,44.25
+am,karmir agek,Karmir Agek,06,,40.9875,44.5347222
+am,karmirgyugh,Karmirgyugh,04,,40.3388889,45.1427778
+am,karmir gyukh,Karmir Gyukh,04,,40.3305556,45.1838889
+am,karmir,Karmir,04,,40.3388889,45.1427778
+am,karmirkharab,Karmirkharab,04,,40.1111111,45.5030556
+am,karmir-kulali,Karmir-Kulali,09,,40.8272222,45.5436111
+am,karmir-ovit,Karmir-Ovit,05,,40.6288889,44.5236111
+am,karmir vank',Karmir Vank',08,,39.2616667,46.4736111
+am,karmrakar,Karmrakar,07,,40.8666667,43.8833333
+am,karmrashen,Karmrashen,01,,40.2402778,43.8097222
+am,karmrashen,Karmrashen,10,,39.8163889,45.5305556
+am,karmravan,Karmravan,07,,41.0127778,43.8694444
+am,karmyrkharah,Karmyrkharah,04,,40.1111111,45.5030556
+am,karnut,Karnut,07,,40.7836111,43.9541667
+am,karrnut,Karrnut,07,,40.7836111,43.9541667
+am,k'art'i,K'art'i,08,,39.2155556,46.1055556
+am,kart',Kart',08,,39.2155556,46.1055556
+am,karvansara,Karvansara,01,,40.6508333,44.1977778
+am,karvansara,Karvansara,04,,40.0427778,45.2438889
+am,k'arvansara,K'arvansara,09,,40.8755556,45.1491667
+am,k'asagh,K'asagh,01,,40.5961111,44.3536111
+am,k'asakh,K'asakh,01,,40.2341667,44.4525
+am,kasakh,Kasakh,01,4247,40.5333333,44.4166667
+am,kashka,Kashka,02,,39.8327778,45.0261111
+am,k'ashuni,K'ashuni,08,,39.3305556,46.2616667
+am,kasmali,Kasmali,07,,40.65,44.0
+am,katan,Katan,08,,39.2011111,46.415
+am,katnadzhur,Katnadzhur,06,,40.825,44.1413889
+am,katnagbyur,Katnagbyur,06,,41.0375,44.2202778
+am,kat'naghbyur,Kat'naghbyur,01,,40.3772222,43.9383333
+am,kat'naghbyur,Kat'naghbyur,05,,40.2561111,44.6766667
+am,kat'naghbyur,Kat'naghbyur,06,,41.0375,44.2202778
+am,katnaghpyur,Katnaghpyur,01,,40.3772222,43.9383333
+am,katnaghpyur,Katnaghpyur,06,,41.0375,44.2202778
+am,kat'najur,Kat'najur,06,,40.825,44.1413889
+am,katnakhpyur,Katnakhpyur,01,,40.3772222,43.9383333
+am,katnakhpyur,Katnakhpyur,05,,40.2561111,44.6766667
+am,katnakhpyur,Katnakhpyur,06,,41.0375,44.2202778
+am,katnarat,Katnarat,06,,41.0883333,44.1794444
+am,katnarat,Katnarat,08,,39.1352778,46.2066667
+am,kat'narrat,Kat'narrat,06,,41.0883333,44.1794444
+am,kat'narrat,Kat'narrat,08,,39.1352778,46.2066667
+am,kavart,Kavart,08,,39.235,46.3947222
+am,kavchut,Kavchut,08,,39.2086111,46.2408333
+am,kavushug,Kavushug,10,,39.8794444,45.4263889
+am,kayabash,Kayabash,04,,40.1566667,45.8011111
+am,kayalu,Kayalu,10,,39.6925,45.5061111
+am,kaynepolis,Kaynepolis,03,,40.1727778,44.2925
+am,kayrak'aghak',Kayrak'aghak',03,,40.1727778,44.2925
+am,kazanchi,Kazanchi,07,,40.6758333,43.9486111
+am,kazarapat,Kazarapat,07,,40.6166667,43.7252778
+am,kaznafar,Kaznafar,01,,40.4911111,44.3491667
+am,kechik-vedi,Kechik-Vedi,10,,39.9,44.5997222
+am,kech'ut,Kech'ut,10,,39.7994444,45.6625
+am,k'efashen,K'efashen,08,,39.2333333,46.1
+am,kefli,Kefli,07,,40.9166667,44.0333333
+am,kegach,Kegach,07,,40.5833333,43.6833333
+am,kelanlu aralykh,KÎlanlu Aralykh,03,,40.1172222,44.2705556
+am,kelanlu,KÎlanlu,02,,39.9561111,45.0533333
+am,kenakeravan,Kenakeravan,11,,40.2472222,44.5366667
+am,kenaker,Kenaker,11,,40.22,44.5383333
+am,kerin ptghni,Kerin Ptghni,05,,40.2702778,44.6011111
+am,kerpalu,KÎrpalu,03,,40.1688889,44.2141667
+am,kerpikend,Kerpikend,02,,40.0730556,44.8313889
+am,kerpilu,Kerpilu,09,,41.2166667,44.9333333
+am,keru,KÎru,08,,39.4858333,46.4197222
+am,k'ervansera,K'ervansera,09,,40.8755556,45.1491667
+am,kesamamed,KÎsamamed,04,,40.3269444,45.1063889
+am,keshishkend,Keshishkend,01,,40.7058333,44.2194444
+am,keshishkend,Keshishkend,10,,39.7611111,45.3333333
+am,keshishkent,Keshishkent,10,,39.7611111,45.3333333
+am,keshishveran,Keshishveran,02,,39.8166667,45.0
+am,ketanlu,KÎtanlu,10,,39.8163889,45.5305556
+am,k'et'i,K'et'i,07,,40.8841667,43.8488889
+am,keti verkhniye,Keti Verkhniye,07,,40.9,43.8833333
+am,ketran,Ketran,05,,40.275,44.585
+am,khachagbyur,Khachagbyur,04,,40.1722222,45.6886111
+am,khach'aghbyur,Khach'aghbyur,04,,40.1722222,45.6886111
+am,khachakilisa,Khachakilisa,07,,40.6,44.0166667
+am,khachaparakh,Khachaparakh,03,,40.1258333,44.4030556
+am,khach'ardzan,Khach'ardzan,09,,40.7191667,45.0583333
+am,khachidur,Khachidur,06,,41.0766667,44.7402778
+am,khachigyukh,Khachigyukh,06,,40.9175,44.6491667
+am,khach'ik,Khach'ik,10,,39.6216667,45.2055556
+am,khach'p'as,Khach'p'as,03,,40.1258333,44.4030556
+am,khaladzh,Khaladzh,08,,39.2347222,46.4313889
+am,khalaj,Khalaj,08,,39.2347222,46.4313889
+am,khalisa,Khalisa,02,,39.8166667,44.6669444
+am,khandzhugaz,Khandzhugaz,06,,40.8769444,44.4169444
+am,kharaba kelanlu,Kharaba KÎlanlu,02,,40.0505556,44.3327778
+am,kharachiman,Kharachiman,08,,39.2047222,46.4813889
+am,kharatlu,Kharatlu,02,,40.0333333,44.4666667
+am,kharkov,Kharkov,07,,40.5166667,43.6
+am,khashtarak,Khashtarak,09,1728,40.9386111,45.1797222
+am,khasht'arrak,Khasht'arrak,09,,40.9386111,45.1797222
+am,khatunarkh,Khatunarkh,03,,40.0919444,44.2686111
+am,khavaradzor,Khavaradzor,09,,40.9333333,45.1333333
+am,khazarapat,Khazarapat,07,,40.6166667,43.7252778
+am,khdran,Khdran,08,,39.2238889,46.5288889
+am,khdrants',Khdrants',08,,39.2238889,46.5288889
+am,kherbeklu,Kherbeklu,03,,40.1147222,43.6708333
+am,khlatag,Khlatag,08,,39.2686111,46.3563889
+am,khnaberd,Khnaberd,01,,40.6427778,44.1444444
+am,khnaberd,Khnaberd,02,,40.0058333,44.5744444
+am,khnatsakh,Khnatsakh,08,,39.6036111,46.3927778
+am,khndrants',Khndrants',08,,39.2238889,46.5288889
+am,khndrats'i,Khndrats'i,08,,39.2238889,46.5288889
+am,khndzoresk,Khndzoresk,08,1940,39.5122222,46.4336111
+am,khndzorut,Khndzorut,06,,40.7833333,44.5333333
+am,khndzorut,Khndzorut,10,,39.5661111,45.3769444
+am,khnkoyan,Khnkoyan,06,,40.8397222,44.02
+am,khnok,Khnok,08,,39.4763889,45.9977778
+am,khoghvani,Khoghvani,08,,39.355,46.3030556
+am,khordzor,Khordzor,08,,39.2005556,46.3711111
+am,khoronk',Khoronk',03,,40.1358333,44.2444444
+am,khoronk',Khoronk',06,,40.9352778,44.7636111
+am,khosrov,Khosrov,02,,40.0222222,44.915
+am,khotavan,Khotavan,08,,39.44,46.3361111
+am,khot,Khot,08,,39.44,46.3361111
+am,khotorants',Khotorants',08,,39.2238889,46.5288889
+am,khovt,Khovt,08,,39.44,46.3361111
+am,khozikend,Khozikend,07,,41.0791667,43.6022222
+am,khoznavar,Khoznavar,08,,39.6213889,46.3558333
+am,khrkoyan,Khrkoyan,06,,40.8397222,44.02
+am,khtrants',Khtrants',08,,39.2238889,46.5288889
+am,khznauz,Khznauz,03,,40.2183333,44.2327778
+am,kichik vedi,Kichik Vedi,10,,39.9,44.5997222
+am,kilisa,Kilisa,06,,40.75,44.4166667
+am,kilisakyand,Kilisakyand,08,,39.0788889,46.4936111
+am,kipchag,Kipchag,07,,40.5980556,44.0075
+am,kirakosik,Kirakosik,08,,39.4763889,45.9977778
+am,kirgi,Kirgi,09,,40.8411111,45.4983333
+am,kirgilu,Kirgilu,08,,39.115,46.4786111
+am,kirkhbulag,Kirkhbulag,04,,40.1522222,45.72
+am,kirkhdagirman,Kirkhdagirman,01,,40.6427778,44.1444444
+am,kirmizlu,Kirmizlu,01,,40.4361111,43.9452778
+am,kirovakan,Kirovakan,06,,40.8127778,44.4883333
+am,kirovka,Kirovka,09,,41.2838889,44.8138889
+am,kirov,Kirov,06,,40.9936111,44.4366667
+am,kirowakan,Kirowakan,06,,40.8127778,44.4883333
+am,k'irs,K'irs,08,,39.2911111,46.1083333
+am,k'irt',K'irt',08,,39.2155556,46.1055556
+am,kishlag,Kishlag,04,,40.3552778,45.1725
+am,kishlag,Kishlag,06,,40.8425,44.4375
+am,kishlag,Kishlag,10,,39.8019444,45.2488889
+am,kizildag,Kizildag,06,,41.2141667,44.37
+am,kizildash,Kizildash,06,,41.2141667,44.37
+am,kizildzhug,Kizildzhug,08,,39.56,46.0436111
+am,kizildzhuk,Kizildzhuk,08,,39.56,46.0436111
+am,kizilgyul,Kizilgyul,10,,39.9041667,45.44
+am,kizilkend,Kizilkend,04,,40.4213889,45.5333333
+am,kizilkharab,Kizilkharab,04,,40.0636111,45.1438889
+am,kizilkilisa armyanskaya,Kizilkilisa Armyanskaya,07,,41.0127778,43.8694444
+am,kizilkilisa,Kizilkilisa,06,,41.2141667,44.37
+am,kizilkoch,Kizilkoch,07,,41.0375,43.8580556
+am,kizil-kulag,Kizil-Kulag,09,,40.9083333,45.4402778
+am,kizilshafag,Kizilshafag,08,,39.4113889,46.02
+am,kizilshafak,Kizilshafak,06,,41.1877778,44.1861111
+am,kizilshafak,Kizilshafak,08,,39.4113889,46.02
+am,kiziltamur,Kiziltamur,01,,40.2797222,44.295
+am,kizilvank,Kizilvank,04,,40.1266667,45.6158333
+am,kizkala,Kizkala,06,,41.05,44.35
+am,kizlshafak,Kizlshafak,08,,39.4113889,46.02
+am,klichatakh,Klichatakh,01,,40.4669444,43.7333333
+am,kochbek,Kochbek,10,,39.6869444,45.6794444
+am,kochb,Kochb,09,,41.1830556,44.9727778
+am,kochki,Kochki,06,,41.0552778,44.2716667
+am,kodukh-vank,Kodukh-Vank,10,,39.9258333,45.5113889
+am,koges,Koges,06,,40.9875,44.5347222
+am,koghb,Koghb,09,,41.1830556,44.9727778
+am,koghes,Koghes,06,,40.9875,44.5347222
+am,kogos,Kogos,06,,40.9875,44.5347222
+am,kokhb,Kokhb,09,,41.1830556,44.9727778
+am,k'olageran,K'olageran,06,,40.9386111,44.5591667
+am,kolakran,Kolakran,04,,40.1608333,45.4538889
+am,konakhkran,Konakhkran,07,,40.8480556,43.9213889
+am,kondagsaz,Kondagsaz,01,,40.6580556,44.3061111
+am,kondakhsaz,Kondakhsaz,01,,40.6580556,44.3061111
+am,kond,Kond,11,,40.1830556,44.4986111
+am,kondzhali,Kondzhali,07,,41.0016667,43.6594444
+am,koragbyur,Koragbyur,07,,41.105,43.8411111
+am,korakhpyur,Korakhpyur,07,,41.105,43.8411111
+am,korbulag,Korbulag,01,,40.6427778,44.2733333
+am,korbulakh,Korbulakh,01,,40.6427778,44.2733333
+am,korchlu,Korchlu,05,,40.6,44.6166667
+am,kornidzor,Kornidzor,08,,39.5480556,46.5311111
+am,korovakan,Korovakan,06,,40.8127778,44.4883333
+am,korrnidzor,Korrnidzor,08,,39.5480556,46.5311111
+am,koshabulag,Koshabulag,01,,40.3675,44.2727778
+am,koshabulag,Koshabulag,04,,40.1638889,45.8033333
+am,koshabulakh,Koshabulakh,04,,40.1638889,45.8033333
+am,koshavank,Koshavank,07,,40.5377778,43.6608333
+am,kosh,Kosh,01,2581,40.3072222,44.16
+am,koshkotan,Koshkotan,09,,41.1191667,45.0652778
+am,kotayk',Kotayk',05,,40.275,44.6605556
+am,kotigekh,Kotigekh,09,,41.1355556,45.125
+am,kot'i,Kot'i,09,,41.1355556,45.125
+am,koturbulag,Koturbulag,06,,41.0375,44.2202778
+am,koturvan,Koturvan,10,,39.9258333,45.5113889
+am,kovshut,Kovshut,08,,39.2086111,46.2408333
+am,koysu,Kˆysu,04,,40.3,45.7
+am,koytu,Koytu,01,,40.3463889,44.2041667
+am,koytul,Koytul,01,,40.3463889,44.2041667
+am,koytur,Koytur,10,,39.7636111,45.3061111
+am,kozman,Kozman,09,,41.15,44.9
+am,krasar,Krasar,07,,41.0177778,43.8233333
+am,krashen,Krashen,07,,40.8666667,43.95
+am,kraside,Kraside,04,,40.5952778,45.3475
+am,krasnosel'sk,Krasnosel'sk,04,,40.5952778,45.3475
+am,krasnoye,Krasnoye,04,,40.5952778,45.3475
+am,krchak,Krchak,01,,40.5252778,44.3916667
+am,krdevan,Krdevan,09,,40.9136111,45.0994444
+am,krivoy most,Krivoy Most,09,,40.9833333,45.1833333
+am,kruglaya shishka,Kruglaya Shishka,06,,41.1166667,44.35
+am,krykh,Krykh,07,,40.5666667,43.7833333
+am,k'uch'ak,K'uch'ak,01,,40.5252778,44.3916667
+am,kuchuma,Kuchuma,08,,39.2,46.2666667
+am,kulali,Kulali,04,,40.3305556,45.1838889
+am,kulali,Kulali,09,,40.8255556,45.5408333
+am,kuldarvish,Kuldarvish,01,,40.45,43.95
+am,kulidzhan,Kulidzhan,07,,40.665,44.0188889
+am,kumayri,Kumayri,07,,40.7894444,43.8475
+am,kumri,K¸mri,07,,40.7894444,43.8475
+am,kunakhkran,Kunakhkran,07,,40.8480556,43.9213889
+am,kunen,Kunen,09,,41.0502778,45.1013889
+am,kurdbulag,Kurdbulag,07,,41.0177778,43.8233333
+am,kurdbulakh,Kurdbulakh,07,,41.0177778,43.8233333
+am,kurdbulak,Kurdbulak,07,,41.0177778,43.8233333
+am,kurdkulag,Kurdkulag,08,,39.3427778,46.4338889
+am,kurdkulag,Kurdkulag,10,,39.6683333,45.3444444
+am,kurdkulakh,Kurdkulakh,08,,39.3427778,46.4338889
+am,kurdukuli,Kurdukuli,03,,40.0897222,44.0483333
+am,kuris,Kuris,08,,38.9241667,46.18
+am,kursali,Kursali,06,,40.8272222,44.3436111
+am,kurt'an,Kurt'an,06,,40.9619444,44.5663889
+am,kurtkulag,Kurtkulag,10,,39.6683333,45.3444444
+am,kuru-araz,Kuru-Araz,03,,40.0722222,44.2158333
+am,kurubogaz,Kurubogaz,01,,40.6938889,44.3566667
+am,kurumsulu,Kurumsulu,09,,41.1791667,45.1097222
+am,kush-bilyak,Kush-Bilyak,10,,39.7994444,45.6625
+am,kushch'i,Kushch'i,08,,39.45,45.9666667
+am,kushchi,Kushchi,10,,39.7994444,45.6625
+am,kushch'i-t'azak'end,Kushch'i-T'azak'end,08,,39.45,45.9666667
+am,kutakan,Kutakan,04,,40.2677778,45.8391667
+am,kut',Kut',04,,40.1808333,45.9016667
+am,kuybishev,Kuybishev,09,,40.7780556,44.9625
+am,kuybyshev,Kuybyshev,06,,41.0147222,44.2905556
+am,kuybyshev,Kuybyshev,09,,40.7780556,44.9625
+am,kuzigidan,Kuzigidan,03,,40.0666667,44.0666667
+am,kuzikend,Kuzikend,07,,41.0791667,43.6022222
+am,kyalagarkh,Kyalagarkh,03,,40.05,43.9333333
+am,kyalali,Kyalali,07,,40.6666667,43.7666667
+am,kyalashbek,Kyalashbek,01,,40.4,43.75
+am,kyalr,Kyalr,08,,39.0613889,46.2758333
+am,k'yalur,K'yalur,08,,39.0613889,46.2758333
+am,k'yank'yan,K'yank'yan,05,,40.3405556,44.7297222
+am,kyarimarkh,Kyarimarkh,03,,40.1133333,44.0552778
+am,kyarimkend,Kyarimkend,04,,40.3047222,45.0552778
+am,kyarkibash,Kyarkibash,04,,40.1897222,45.6775
+am,kyarpichlu,Kyarpichlu,05,,40.1563889,44.6511111
+am,kyasaman,Kyasaman,04,,40.2830556,45.7322222
+am,kyasikbash,Kyasikbash,04,,40.1,45.2833333
+am,kyavar,Kyavar,04,,40.3588889,45.1266667
+am,kyavtarlu,Kyavtarlu,07,,40.6563889,43.9363889
+am,kyotanli,Kyotanli,10,,39.8163889,45.5305556
+am,kyrkhdagirman,Kyrkhdagirman,01,,40.6427778,44.1444444
+am,kyuchuk vedi,Kyuchuk Vedi,10,,39.9,44.5997222
+am,kyulludzha,Kyulludzha,05,,40.2061111,44.6936111
+am,kyumayri,Kyumayri,07,,40.7894444,43.8475
+am,kyumri,Kyumri,07,,40.7894444,43.8475
+am,kyurakyan,Kyurakyan,03,,40.1833333,44.2166667
+am,kyurdikend,Kyurdikend,08,,39.1572222,46.1997222
+am,k'yurut,K'yurut,08,,39.2708333,46.1188889
+am,kyuzadzhik,Kyuzadzhik,04,,40.2730556,45.1444444
+am,kyzloran,Kyzloran,06,,40.8666667,44.2333333
+am,kyzylaÄù-kochaÄù,Kyzyl‚Äù-koch‚Äù,07,,41.0375,43.8580556
+am,kyzyldag,Kyzyldag,06,,41.2141667,44.37
+am,kyzyldzhug,Kyzyldzhug,08,,39.56,46.0436111
+am,kyzyldzhuk,Kyzyldzhuk,08,,39.56,46.0436111
+am,kyzylkach,Kyzylkach,07,,41.0375,43.8580556
+am,kyzylkend,Kyzylkend,07,,41.05,43.5833333
+am,kzloran,Kzloran,06,,40.8666667,44.2333333
+am,kzylk'end,Kzylk'end,04,,40.4166667,45.4833333
+am,kzyl-koch,Kzyl-Koch,07,,41.0375,43.8580556
+am,laligekh,Laligekh,09,,40.9922222,45.2841667
+am,laligokh,Laligokh,09,,40.9925,45.2788889
+am,laligyukh,Laligyukh,09,,40.9922222,45.2841667
+am,lalvar,Lalvar,09,,41.2333333,44.85
+am,lambalu,Lambalu,06,,41.2333333,44.8166667
+am,landzhakhpyur,Landzhakhpyur,04,,40.2730556,45.1444444
+am,landzhar,Landzhar,02,,39.825,44.9833333
+am,landzhazat,Landzhazat,02,,40.0613889,44.5777778
+am,landzhik,Landzhik,07,,40.5094444,43.8563889
+am,lanjaghbyur,Lanjaghbyur,04,2097,40.2730556,45.1444444
+am,lanjarr,Lanjarr,02,,39.825,44.9833333
+am,lanjazat,Lanjazat,02,,40.0613889,44.5777778
+am,lanjik,Lanjik,07,,40.5094444,43.8563889
+am,last,Last,08,,39.4858333,46.4197222
+am,lchap',Lchap',04,,40.4611111,45.065
+am,lchashen,Lchashen,04,4182,40.5202778,44.9308333
+am,lchkadzor,Lchkadzor,09,,41.1666667,44.9166667
+am,ledzhan,Ledzhan,06,,41.0302778,44.4419444
+am,legvaz,Legvaz,08,,38.9447222,46.2102778
+am,lehap,Lehap,04,,40.4611111,45.065
+am,lehvaz,Lehvaz,08,,38.9447222,46.2102778
+am,lejan,Lejan,06,,41.0302778,44.4419444
+am,lekh,Lekh,08,,39.5547222,46.4758333
+am,lendzhazat,Lendzhazat,02,,40.0613889,44.5777778
+am,leninakan,Leninakan,07,,40.7894444,43.8475
+am,lenughi,Lenughi,03,1499,40.1238889,43.9652778
+am,lenugi,Lenugi,03,,40.1358333,44.2444444
+am,lermontov,Lermontov,06,,40.765,44.63
+am,lermontovo,Lermontovo,06,,40.765,44.63
+am,lernadzor,Lernadzor,08,,39.1572222,46.1997222
+am,lernakert,Lernakert,04,,40.1,45.2833333
+am,lernakert,Lernakert,07,1306,40.5669444,43.9361111
+am,lernanist,Lernanist,05,2511,40.4675,44.7980556
+am,lernantsk,Lernantsk,06,1192,40.7955556,44.2783333
+am,lernantsk,Lernantsk,07,,40.9,43.8833333
+am,lernapar,Lernapar,06,,40.7486111,44.1605556
+am,lernapat,Lernapat,06,1710,40.82,44.3972222
+am,lernarot,Lernarot,01,,40.35,44.1166667
+am,lernashen,Lernashen,08,,39.38,46.1322222
+am,lernavan,Lernavan,06,1517,40.7883333,44.1844444
+am,lernhovit,Lernhovit,06,,41.1702778,44.31
+am,lernovit,Lernovit,06,,41.1702778,44.31
+am,lernut,Lernut,07,,40.8666667,43.9166667
+am,lerrnadzor,Lerrnadzor,08,,39.1572222,46.1997222
+am,lerrnagog,Lerrnagog,01,,40.2569444,43.9080556
+am,lerrnakert,Lerrnakert,04,,40.1,45.2833333
+am,lerrnakert,Lerrnakert,07,,40.5669444,43.9361111
+am,lerrnanist,Lerrnanist,05,,40.4675,44.7980556
+am,lerrnants'k',Lerrnants'k',06,,40.7955556,44.2783333
+am,lerrnapat,Lerrnapat,06,,40.82,44.3972222
+am,lerrnashen,Lerrnashen,08,,39.38,46.1322222
+am,lerrnhovit,Lerrnhovit,06,,41.1702778,44.31
+am,lichadzar,Lichadzar,09,,41.1666667,44.9166667
+am,lichik,Lichik,08,,39.0561111,46.1741667
+am,lichkadzor,Lichkadzor,09,,41.1666667,44.9166667
+am,lichk',Lichk',04,,40.1636111,45.2277778
+am,lichk',Lichk',08,,39.0561111,46.1741667
+am,lishk,Lishk,08,,39.0561111,46.1741667
+am,lizhin,Lizhin,08,,39.45,46.16
+am,lizin,Lizin,08,,39.45,46.16
+am,lorasar,Lorasar,07,,41.1127778,43.5963889
+am,lori berd,Lori Berd,06,,41.0166667,44.4
+am,loriyskiy sovkhoz,Loriyskiy Sovkhoz,06,,41.0883333,44.1794444
+am,lor,Lor,08,,39.4125,46.1263889
+am,lorplemsovkhoz,Lorplemsovkhoz,06,,41.0883333,44.1794444
+am,lorut,Lorut,06,1101,40.9388889,44.7725
+am,ltse,Ltse,08,,39.45,46.16
+am,ltsen,Ltsen,08,,39.45,46.16
+am,lukashin,Lukashin,01,2197,40.1758333,44.0186111
+am,lukashin,Lukashin,11,,40.1980556,44.4511111
+am,lusadzor,Lusadzor,09,,40.9333333,45.1333333
+am,lusagekh,Lusagekh,03,,40.0888889,44.27
+am,lusaghbyur,Lusaghbyur,06,,40.8652778,44.0305556
+am,lusaghbyur,Lusaghbyur,07,,40.6455556,43.7494444
+am,lusagyugh,Lusagyugh,01,,40.6144444,44.3908333
+am,lusagyugh,Lusagyugh,03,,40.0888889,44.27
+am,lusagyukh,Lusagyukh,01,,40.6144444,44.3908333
+am,lusagyukh,Lusagyukh,03,,40.0888889,44.27
+am,lusahovit,Lusahovit,09,,40.95,45.1833333
+am,lusakert,Lusakert,02,,40.0391667,44.5416667
+am,lusakert,Lusakert,05,,40.3794444,44.5994444
+am,lusakert,Lusakert,07,,40.6666667,43.8666667
+am,lusakhpyur,Lusakhpyur,06,,40.8652778,44.0305556
+am,lusakhpyur,Lusakhpyur,07,,40.6455556,43.7494444
+am,lusarrat,Lusarrat,02,,39.8744444,44.5991667
+am,lusashogh,Lusashogh,02,,39.8483333,44.9783333
+am,lusavan,Lusavan,05,,40.4097222,44.6430556
+am,machidli,Machidli,07,,40.6502778,43.975
+am,madan,Madan,08,,39.2011111,46.415
+am,madina,Madina,04,1024,40.0802778,45.2511111
+am,maflar,Maflar,09,,40.9,45.4333333
+am,magandzh,Magandzh,08,,39.4627778,46.4152778
+am,magandzhug,Magandzhug,08,,39.4627778,46.4152778
+am,magaradzhug,Magaradzhug,07,,40.9188889,43.7169444
+am,magaradzhuk,Magaradzhuk,07,,40.9188889,43.7169444
+am,magda,Magda,01,,40.35,44.1166667
+am,maghanjugh,Maghanjugh,08,,39.4627778,46.4152778
+am,magharajugh,Magharajugh,07,,40.9188889,43.7169444
+am,magmudzhuk,Magmudzhuk,07,,40.5933333,43.94
+am,mahmutcuk,Mahmutcuk,07,,40.5933333,43.94
+am,maisian,Maisian,07,,40.8530556,43.8294444
+am,maisyan,Maisyan,07,1521,40.8530556,43.8294444
+am,makarashen,Makarashen,06,,40.82,44.3972222
+am,mak'enis,Mak'enis,04,,40.1238889,45.6108333
+am,makhmudlu,Makhmudlu,08,,39.2280556,46.1291667
+am,makhmudzhug,Makhmudzhug,07,,40.5933333,43.94
+am,makravan,Makravan,05,,40.5275,44.7372222
+am,maksim gor'kiy,Maksim Gor'kiy,06,,41.0366667,44.4052778
+am,maksim gor'kly,Maksim Gor'kly,06,,41.0366667,44.4052778
+am,malatiya,Malatiya,11,,40.1747222,44.4608333
+am,malaya mazra,Malaya Mazra,04,,40.2580556,45.7225
+am,malaya shishtapa,Malaya Shishtapa,07,,41.0358333,43.8130556
+am,malaya zeyva,Malaya Zeyva,03,,40.1344444,44.2016667
+am,maldash,Maldash,08,,39.3305556,46.2616667
+am,maliklar,Maliklar,08,,39.6216667,45.9047222
+am,malishka,Malishka,10,4174,39.7369444,45.3875
+am,malyye demurchi,Malyye Demurchi,02,,40.1069444,44.3763889
+am,malyye dzhamushli,Malyye Dzhamushli,01,,40.6905556,44.2736111
+am,malyy kyapanak,Malyy Kyapanak,07,,40.7666667,44.0
+am,malyy mantash,Malyy Mantash,07,,40.65,44.05
+am,malyy shagriar,Malyy Shagriar,03,,40.0725,44.0083333
+am,mamai,Mamai,09,,41.2838889,44.8138889
+am,mamay,Mamay,09,,41.2838889,44.8138889
+am,manes,Manes,06,,41.0833333,44.6333333
+am,mantash,Mantash,07,,40.6494444,44.0508333
+am,manvo,Manvo,06,,41.0833333,44.6333333
+am,maralik,Maralik,07,4959,40.5722222,43.8669444
+am,maralzami,Maralzami,08,,38.9836111,46.2333333
+am,margahovit,Margahovit,06,3308,40.7380556,44.6875
+am,margaovit,Margaovit,06,,40.7380556,44.6875
+am,margara,Margara,03,1360,40.0336111,44.1738889
+am,markara,Markara,03,,40.0336111,44.1738889
+am,marmarashen,Marmarashen,02,2946,40.0575,44.4711111
+am,marmarik,Marmarik,05,,40.5827778,44.6683333
+am,marmashen,Marmashen,07,1644,40.8375,43.7719444
+am,marmorashen,Marmorashen,02,,40.0575,44.4711111
+am,martiros,Martiros,10,,39.5966667,45.5077778
+am,marts',Marts',06,,40.9569444,44.7044444
+am,martuki,Martuki,04,,40.1447222,45.3063889
+am,martuni,Martuni,04,11037,40.1447222,45.3063889
+am,martuny,Martuny,04,,40.1447222,45.3063889
+am,masis,Masis,02,18911,40.0138889,44.4858333
+am,mastara,Mastara,01,,40.4497222,43.87
+am,mastara,Mastara,03,,40.2183333,43.8602778
+am,masumlu,Masumlu,02,,39.95,44.6
+am,mayakovski,Mayakovski,05,1727,40.2522222,44.6383333
+am,mayakovskiy,Mayakovskiy,05,,40.2522222,44.6383333
+am,mayisyan,Mayisyan,07,,40.8530556,43.8294444
+am,mazra,Mazra,04,,40.2186111,45.7694444
+am,mazra,Mazra,08,,39.1352778,46.2066667
+am,medovka,Medovka,06,,41.1227778,44.3455556
+am,meghradzor,Meghradzor,05,2659,40.6147222,44.6522222
+am,meghrashen,Meghrashen,07,1107,40.6758333,43.9486111
+am,meghri,Meghri,08,4540,38.9022222,46.2383333
+am,meghrut,Meghrut,06,,40.8072222,44.5380556
+am,meghvahovit,Meghvahovit,06,,41.1016667,44.1538889
+am,megrablu,Megrablu,02,,40.0336111,44.5558333
+am,megradzor,Megradzor,05,,40.6147222,44.6522222
+am,megrashat,Megrashat,07,,40.85,43.7
+am,megrashen,Megrashen,07,,40.6758333,43.9486111
+am,megriban,Megriban,01,,40.3772222,43.9383333
+am,megri,Megri,08,,38.9022222,46.2383333
+am,megrut,Megrut,06,,40.8072222,44.5380556
+am,megry,Megry,08,,38.9022222,46.2383333
+am,mehub,Mehub,05,,40.2536111,44.6038889
+am,mekhmandar,Mekhmandar,02,,40.0991667,44.3472222
+am,mekhub,Mekhub,05,,40.2536111,44.6038889
+am,melikgekh,Melikgekh,09,,41.0341667,45.1180556
+am,melik'gyugh,Melik'gyugh,01,,40.6694444,44.3575
+am,melikgyukh,Melikgyukh,01,,40.6694444,44.3575
+am,melikgyukh,Melikgyukh,09,,41.0341667,45.1180556
+am,melikkend,Melikkend,01,,40.6694444,44.3575
+am,meliklar,Meliklar,08,,39.6216667,45.9047222
+am,meliklu,Meliklu,08,,39.6216667,45.9047222
+am,merdzavan,Merdzavan,03,2702,40.1816667,44.3991667
+am,mergi,Mergi,08,,38.9022222,46.2383333
+am,mertsavan,Mertsavan,03,,40.1816667,44.3991667
+am,meshakend,Meshakend,04,,40.6833333,45.1333333
+am,metsamor,Metsamor,03,8789,40.0713889,44.2891667
+am,mets arikhvali,Mets Arikhvali,07,,40.6494444,44.0508333
+am,metsavan,Metsavan,06,4767,41.2016667,44.2288889
+am,mets ayrum,Mets Ayrum,09,,41.1716667,44.8191667
+am,mets dzhamshlu,Mets Dzhamshlu,01,,40.6813889,44.2902778
+am,mets gilanlar,Mets Gilanlar,02,,40.1,44.8136111
+am,mets-gilaylar,Mets-Gilaylar,02,,40.1,44.8136111
+am,mets jamyshlu,Mets Jamyshlu,01,,40.6813889,44.2902778
+am,mets karakilisa,Mets Karakilisa,06,,40.8127778,44.4883333
+am,mets karakoyun,Mets Karakoyun,04,,40.15,45.8666667
+am,mets keti,Mets Keti,07,,40.8841667,43.8488889
+am,mets kyapanak,Mets Kyapanak,07,,40.7652778,43.9908333
+am,mets mant'ash,Mets Mant'ash,07,,40.6494444,44.0508333
+am,mets masrik,Mets Masrik,04,2570,40.2186111,45.7694444
+am,mets-mazra,Mets-Mazra,04,,40.2186111,45.7694444
+am,mets parni,Mets Parni,06,1934,40.8372222,44.1091667
+am,mets sariar,Mets Sariar,07,,40.8933333,43.9525
+am,mets sepasar,Mets Sepasar,07,,41.0491667,43.8233333
+am,mets shagriar,Mets Shagriar,03,,40.0677778,43.9855556
+am,mets shishtapa,Mets Shishtapa,07,,41.0491667,43.8233333
+am,mets shorlu demurchi,Mets Shorlu Demurchi,02,,40.0947222,44.3894444
+am,mets tapakey,Mets Tapakey,07,,41.0536111,43.6688889
+am,metz mantash,Metz Mantash,07,,40.6494444,44.0508333
+am,mgart,Mgart,06,,40.9980556,44.5825
+am,mgub,Mgub,05,,40.2536111,44.6038889
+am,mikhaylovka,Mikhaylovka,04,,40.5952778,45.3475
+am,mikhaylovka,Mikhaylovka,05,,40.6441667,44.4813889
+am,mikhaylovka,Mikhaylovka,06,,41.1652778,44.2775
+am,mikoyan,Mikoyan,10,,39.7611111,45.3333333
+am,milikgekh,Milikgekh,09,,41.0341667,45.1180556
+am,mirak,Mirak,01,,40.645,44.3241667
+am,miskhana,Miskhana,05,,40.6441667,44.4813889
+am,mkhch'yan,Mkhch'yan,02,,40.02,44.4911111
+am,moges,Moges,08,,39.2741667,46.5063889
+am,mogez,Mogez,08,,39.2741667,46.5063889
+am,moghes,Moghes,08,,39.2741667,46.5063889
+am,mogri,Mogri,08,,38.9022222,46.2383333
+am,molla badal,Molla Badal,03,,40.0902778,44.1625
+am,molla bayazet,Molla Bayazet,03,,40.1144444,44.0122222
+am,molla dursun,Molla Dursun,03,,40.2133333,44.2966667
+am,molla eylublu,Molla Eylublu,06,,41.1997222,44.29
+am,molla eyublu,Molla Eyublu,06,,41.1997222,44.29
+am,molla gekcha,Molla GÎkcha,07,,40.5722222,43.8669444
+am,molla kasum,Molla Kasum,01,,40.5108333,44.4288889
+am,molla musa,Molla Musa,07,,40.7383333,43.7758333
+am,monastyr' gekhard,Monastyr' Gekhard,02,,40.1419444,44.83
+am,moqez,Moqez,08,,39.2741667,46.5063889
+am,mosesgegh,Mosesgegh,09,1964,40.9063889,45.4913889
+am,mosesgekh,Mosesgekh,09,,40.9063889,45.4913889
+am,mozrov,Mozrov,10,,39.7008333,45.3402778
+am,mravyan,Mravyan,01,,40.5386111,44.4744444
+am,mrganush,Mrganush,02,1032,40.0286111,44.5586111
+am,mrgashat,Mrgashat,03,4961,40.1297222,44.0705556
+am,mrgashen,Mrgashen,05,1623,40.285,44.5422222
+am,mrgastan,Mrgastan,03,,40.2008333,44.2772222
+am,mrgavan,Mrgavan,02,1713,39.9661111,44.5333333
+am,mrgavet,Mrgavet,02,2131,40.0283333,44.4827778
+am,mrravyan,Mrravyan,01,,40.5386111,44.4744444
+am,mugamlu,Mugamlu,03,,40.0166667,44.2833333
+am,mugam,Mugam,03,,40.0166667,44.2833333
+am,mugandzhug,Mugandzhug,08,,39.4627778,46.4152778
+am,mugan,Mugan,03,,40.1836111,44.2572222
+am,mughanjugh,Mughanjugh,08,,39.4627778,46.4152778
+am,mugni,Mugni,01,,40.3177778,44.3727778
+am,mukhan,Mukhan,04,,40.4769444,45.0375
+am,mulk'i,Mulk'i,01,,40.5863889,44.3713889
+am,mundzhukhli,Mundzhukhli,01,,40.7205556,44.2083333
+am,murad tapa,Murad Tapa,11,,40.2472222,44.5366667
+am,murkhuz,Murkhuz,08,,39.3644444,45.9886111
+am,murkuz,Murkuz,08,,39.6541667,45.8305556
+am,musakan,Musakan,07,,40.7383333,43.7758333
+am,musaler,Musaler,03,2323,40.1544444,44.3777778
+am,musalerr,Musalerr,03,,40.1544444,44.3777778
+am,musallam,Musallam,08,,39.1883333,46.2538889
+am,musayelian,Musayelian,07,,40.9927778,43.9388889
+am,musayelyan,Musayelyan,07,1499,40.7652778,43.9908333
+am,mushakan,Mushakan,11,,40.1458333,44.5661111
+am,mushavan,Mushavan,11,,40.1458333,44.5661111
+am,muslugli,Muslugli,07,,40.5094444,43.8563889
+am,muts'k',Muts'k',08,,39.5319444,45.9072222
+am,myasnikyan,Myasnikyan,03,3458,40.1775,43.9063889
+am,nadezhdino,Nadezhdino,04,,40.5030556,45.2702778
+am,nagapetavan,Nagapetavan,07,,40.6,44.0166667
+am,nalband,Nalband,06,,40.8583333,44.1613889
+am,nalbandyan,Nalbandyan,03,4019,40.0677778,43.9855556
+am,narimanlu,Narimanlu,02,,40.0672222,44.4361111
+am,narimanlu,Narimanlu,04,,40.1830556,45.8255556
+am,navlar,Navlar,10,,39.7402778,45.4952778
+am,navur,Navur,09,1227,40.8613889,45.3175
+am,nazrvan,Nazrvan,01,,40.3477778,44.3416667
+am,nazyrvan,Nazyrvan,01,,40.3477778,44.3416667
+am,nedzhirlu,Nedzhirlu,02,,40.0772222,44.3925
+am,negots,Negots,09,,41.1333333,44.7833333
+am,nerin-chambarak,Nerin-Chambarak,04,,40.6247222,45.33
+am,nerki-karmirakhpyur,Nerki-Karmirakhpyur,09,,40.9480556,45.4330556
+am,nerkin adyaman,Nerkin Adyaman,04,,40.1458333,45.2638889
+am,nerkin agbash,Nerkin Agbash,02,,40.0391667,44.5416667
+am,nerkin agdan,Nerkin Agdan,09,,40.9583333,45.1563889
+am,nerkin agdzhakala,Nerkin Agdzhakala,01,,40.3452778,44.0555556
+am,nerkin akhta,Nerkin Akhta,05,,40.5016667,44.7547222
+am,nerkin aluchalu,Nerkin Aluchalu,04,,40.1502778,45.5158333
+am,nerkin and,Nerkin And,08,,39.0411111,46.5169444
+am,nerkin aylanlu,Nerkin Aylanlu,03,,40.1358333,44.2444444
+am,nerkin bazmaberd,Nerkin Bazmaberd,01,,40.3452778,44.0555556
+am,nerkin ch'arbakh,Nerkin Ch'arbakh,11,,40.1291667,44.4472222
+am,nerkin dvin,Nerkin Dvin,02,,40.02,44.5852778
+am,nerkin dzhrapi,Nerkin Dzhrapi,07,,40.55,43.65
+am,nerkin gedaklu,Nerkin Gedaklu,08,,39.2225,46.4661111
+am,nerk'in getashen,Nerk'in Getashen,04,,40.1458333,45.2638889
+am,nerkin gezaldara,Nerkin Gezaldara,04,,40.135,45.4363889
+am,nerk'in girat'agh,Nerk'in Girat'agh,08,,39.2194444,46.2727778
+am,nerkin giratakh,Nerkin Giratakh,08,,39.2194444,46.2727778
+am,nerk'in gyodak'lu,Nerk'in Gyodak'lu,08,,39.2225,46.4661111
+am,nerk'in hand,Nerk'in Hand,08,,39.0411111,46.5169444
+am,nerk'in kamarlu,Nerk'in Kamarlu,02,,39.95,44.55
+am,nerkin kanlidzha,Nerkin Kanlidzha,07,,40.85,43.75
+am,nerkin karabakhlar,Nerkin Karabakhlar,02,,39.9166667,44.8166667
+am,nerkin karakoymaz,Nerkin Karakoymaz,01,,40.3619444,43.9827778
+am,nerkin karanlukh,Nerkin Karanlukh,04,,40.1447222,45.3063889
+am,nerkin karkhun,Nerkin Karkhun,03,,40.0547222,44.3027778
+am,nerk'in karmiraghbyur,Nerk'in Karmiraghbyur,09,,40.9480556,45.4330556
+am,nerkin karmiraghpyur,Nerkin Karmiraghpyur,09,,40.9480556,45.4330556
+am,nerkin karmirakhpyur,Nerkin Karmirakhpyur,09,,40.9480556,45.4330556
+am,nerkin khatunarkh,Nerkin Khatunarkh,02,,40.0811111,44.3155556
+am,nerkin khndzoresk,Nerkin Khndzoresk,08,,39.5061111,46.4961111
+am,nerk'in khotanan,Nerk'in Khotanan,08,,39.2836111,46.3777778
+am,nerkin kilisa,Nerkin Kilisa,06,,40.7397222,44.4230556
+am,nerkin nedzhirlu,Nerkin Nedzhirlu,02,,40.0772222,44.3925
+am,nerkin pirtikan,Nerkin Pirtikan,01,,40.4666667,43.9
+am,nerk'in sasunashen,Nerk'in Sasunashen,01,,40.3619444,43.9827778
+am,nerkin shengavit',Nerkin Shengavit',11,,40.1338889,44.4841667
+am,nerk'in shorzha,Nerk'in Shorzha,04,,40.11,45.8361111
+am,nerkin talin,Nerkin Talin,01,,40.3333333,43.85
+am,nerk'in turkmenlu,Nerk'in Turkmenlu,03,,40.0888889,44.27
+am,nerkin zagalu,Nerkin Zagalu,04,,40.1819444,45.635
+am,nerkin-zeyva,Nerkin-Zeyva,03,,40.1297222,44.2244444
+am,nezrvan,Nezrvan,01,,40.3477778,44.3416667
+am,niavan,Niavan,02,,40.0333333,44.5333333
+am,nigatun,Nigatun,01,,40.4408333,44.3641667
+am,nigavan,Nigavan,01,,40.6216667,44.2991667
+am,nikitino,Nikitino,06,,40.7247222,44.7138889
+am,nikolayevka,Nikolayevka,05,,40.3519444,44.645
+am,nikolayevka,Nikolayevka,06,,40.9936111,44.4366667
+am,nizami,Nizami,02,1060,40.0913889,44.4041667
+am,nizhne akhti,Nizhne Akhti,05,,40.5016667,44.7547222
+am,nizhneye nedzhirlu,Nizhneye Nedzhirlu,02,,40.0772222,44.3925
+am,nizhniy adyaman,Nizhniy Adyaman,04,,40.1458333,45.2638889
+am,nizhniy agbash,Nizhniy Agbash,02,,40.0391667,44.5416667
+am,nizhniy agdan,Nizhniy Agdan,09,,40.9583333,45.1563889
+am,nizhniy aluchalu,Nizhniy Aluchalu,04,,40.1502778,45.5158333
+am,nizhniy aylanlu,Nizhniy Aylanlu,03,,40.1358333,44.2444444
+am,nizhniy ayrum,Nizhniy Ayrum,09,,41.1716667,44.8191667
+am,nizhniy chambarak,Nizhniy Chambarak,04,,40.6247222,45.33
+am,nizhniy charbakh,Nizhniy Charbakh,11,,40.1291667,44.4472222
+am,nizhniy dvin,Nizhniy Dvin,02,,40.02,44.5852778
+am,nizhniye akhty,Nizhniye Akhty,05,,40.5016667,44.7547222
+am,nizhniye chanakhchi,Nizhniye Chanakhchi,02,,39.8094444,45.0511111
+am,nizhniye keti,Nizhniye Keti,07,,40.8841667,43.8488889
+am,nizhniy giratag,Nizhniy Giratag,08,,39.2194444,46.2727778
+am,nizhniy karabaglyar,Nizhniy Karabaglyar,02,,39.9166667,44.8166667
+am,nizhniy karakoymaz,Nizhniy Karakoymaz,01,,40.3619444,43.9827778
+am,nizhniy-karanlug,Nizhniy-Karanlug,04,,40.1447222,45.3063889
+am,nizhniy karkhun,Nizhniy Karkhun,03,,40.0547222,44.3027778
+am,nizhniy karmragbyur,Nizhniy Karmragbyur,09,,40.9480556,45.4330556
+am,nizhniy khatunarkh,Nizhniy Khatunarkh,02,,40.0811111,44.3155556
+am,nizhniy khotanan,Nizhniy Khotanan,08,,39.2836111,46.3777778
+am,nizhniy pirtikan,Nizhniy Pirtikan,01,,40.4666667,43.9
+am,nizhniy talin,Nizhniy Talin,01,,40.3333333,43.85
+am,nizhniy vardanadzor,Nizhniy Vardanadzor,08,,38.9694444,46.2141667
+am,nizhniy zagalu,Nizhniy Zagalu,04,,40.1819444,45.635
+am,nizhnyaya agdzhakala,Nizhnyaya Agdzhakala,01,,40.3452778,44.0555556
+am,nizhnyaya akhtala,Nizhnyaya Akhtala,06,,41.1483333,44.7655556
+am,nizhnyaya akhta,Nizhnyaya Akhta,05,,40.5016667,44.7547222
+am,nizhnyaya gezaldara,Nizhnyaya Gezaldara,01,,40.6588889,44.1072222
+am,nizhnyaya gezaldara,Nizhnyaya Gezaldara,04,,40.135,45.4363889
+am,nizhnyaya kilisa,Nizhnyaya Kilisa,06,,40.7397222,44.4230556
+am,nizhnyaya shorzha,Nizhnyaya Shorzha,04,,40.11,45.8361111
+am,norabak,Norabak,04,,40.15,45.8666667
+am,norabats',Norabats',02,,40.1052778,44.43
+am,noraberd,Noraberd,07,,40.6666667,43.7666667
+am,noraber,Noraber,07,,40.6666667,43.7666667
+am,nor achin,Nor Achin,05,,40.3019444,44.5830556
+am,noraduz,Noraduz,04,,40.3822222,45.1783333
+am,noragavit',Noragavit',11,,40.1180556,44.4752778
+am,noragyugh,Noragyugh,11,,40.1677778,44.4933333
+am,norak'aghak',Norak'aghak',03,,40.1727778,44.2925
+am,norakert,Norakert,01,2485,40.1922222,44.3466667
+am,norakert,Norakert,04,,40.2669444,45.6833333
+am,norakhpyur,Norakhpyur,07,,40.95,43.7
+am,nor amanos,Nor Amanos,03,,40.2247222,44.1333333
+am,noramarg,Noramarg,02,1811,40.0236111,44.4244444
+am,noramut,Noramut,06,,41.1,44.1166667
+am,nor-aparan,Nor-Aparan,11,,40.1325,44.4833333
+am,nor arabkir,Nor Arabkir,11,,40.2002778,44.4941667
+am,nor-arachadzor,Nor-Arachadzor,08,,39.3422222,46.4
+am,nor aresh,Nor Aresh,05,,40.1386111,44.5638889
+am,nor aresh,Nor Aresh,11,,40.1475,44.5255556
+am,nor armavir,Nor Armavir,03,1597,40.0866667,43.99
+am,nor artanet,Nor Artanet,05,,40.2988889,44.5541667
+am,nor artik,Nor Artik,01,,40.45,43.7
+am,norashenik,Norashenik,08,,39.2675,46.3908333
+am,norashen,Norashen,01,,40.4694444,44.4794444
+am,norashen,Norashen,02,3049,40.0041667,44.5947222
+am,norashen,Norashen,04,,40.5044444,45.0227778
+am,norashen,Norashen,06,1386,41.1880556,44.3272222
+am,norashen,Norashen,09,,40.8769444,45.4594444
+am,noratus,Noratus,04,5426,40.3822222,45.1783333
+am,noravan,Noravan,08,,39.5194444,46.1005556
+am,nor aznaberd,Nor Aznaberd,10,,39.5441667,45.4166667
+am,nor-bajaset,Nor-Bajaset,04,,40.3588889,45.1266667
+am,nor bashgyukh,Nor Bashgyukh,04,,40.6622222,45.2666667
+am,nor-bataniya,Nor-Bataniya,11,,40.1563889,44.5172222
+am,nor bayazet,Nor Bayazet,04,,40.3588889,45.1266667
+am,nor butaniya,Nor Butaniya,11,,40.1563889,44.5172222
+am,nor byut'ania,Nor Byut'ania,11,,40.1563889,44.5172222
+am,nor dzhrashen,Nor Dzhrashen,11,,40.0547222,44.5133333
+am,nor geghi,Nor Geghi,05,4896,40.3211111,44.5797222
+am,nor gekhi,Nor Gekhi,05,,40.3211111,44.5797222
+am,nor gyugh,Nor Gyugh,05,,40.2666667,44.6563889
+am,nor gyukh,Nor Gyukh,05,1462,40.2666667,44.6563889
+am,nor hachyn,Nor Hachyn,05,,40.3019444,44.5830556
+am,norka,Norka,11,,40.1794444,44.5427778
+am,nor-kesariya,Nor-Kesariya,11,,40.1758333,44.4505556
+am,nor kharberd,Nor Kharberd,02,,40.0891667,44.4777778
+am,nork',Nork',11,,40.1794444,44.5427778
+am,nor-kokhb,Nor-Kokhb,11,,40.1644444,44.4580556
+am,nor kokhp,Nor Kokhp,11,,40.1644444,44.4580556
+am,nor kyank,Nor Kyank,02,,39.9002778,44.6163889
+am,nor kyank',Nor Kyank',07,,40.6502778,43.975
+am,nor kyurin,Nor Kyurin,02,,40.0905556,44.4638889
+am,nor malat'ia,Nor Malat'ia,11,,40.1747222,44.4608333
+am,nor marash,Nor Marash,11,,40.1741667,44.5408333
+am,nor-norka,Nor-Norka,11,,40.1983333,44.5652778
+am,nor nork',Nor Nork',11,,40.1983333,44.5652778
+am,nor sasunik,Nor Sasunik,01,,40.2472222,44.3380556
+am,nor yedesia,Nor Yedesia,03,,40.2247222,44.1333333
+am,nor-yedisia,Nor-Yedisia,03,,40.2247222,44.1333333
+am,nor yerznka,Nor Yerznka,05,1459,40.3133333,44.4047222
+am,nor zeyt'un,Nor Zeyt'un,11,,40.2036111,44.5430556
+am,novo bayazet,Novo Bayazet,04,,40.3588889,45.1266667
+am,novosel'tsevo,Novosel'tsevo,06,,41.0666667,44.2666667
+am,novosel'tsovo,Novosel'tsovo,06,,41.0666667,44.2666667
+am,novoye,Novoye,08,,39.2291667,46.4830556
+am,novyi bayaset,Novyi Bayaset,04,,40.3588889,45.1266667
+am,noyakert,Noyakert,02,1751,39.8166667,44.6669444
+am,noyemberyan,Noyemberyan,09,5119,41.1725,44.9936111
+am,nshavan,Nshavan,02,1916,40.0263889,44.5252778
+am,nubarashen,Nubarashen,11,,40.0919444,44.5491667
+am,nuparashen,Nuparashen,11,,40.0919444,44.5491667
+am,nurnus,Nurnus,05,,40.3575,44.6058333
+am,nurrnus,Nurrnus,05,,40.3575,44.6058333
+am,nyuvadi,Nyuvadi,08,,38.8941667,46.4788889
+am,nyuvedi,Nyuvedi,08,,38.8941667,46.4788889
+am,odzhakhkuli,Odzhakhkuli,07,,40.7797222,43.8005556
+am,odzun,Odzun,06,4524,41.0538889,44.6113889
+am,oganavan,Oganavan,01,,40.3422222,44.3863889
+am,oghch'oghli,Oghch'oghli,07,,40.8094444,43.7527778
+am,ogrudzha,Ogrudzha,04,,40.2811111,45.7827778
+am,ogurbeklu,Ogurbeklu,02,,39.9833333,44.5166667
+am,okhchi,Okhchi,08,,39.1963889,46.4633333
+am,okhchogli,Okhchogli,07,,40.8094444,43.7527778
+am,okhtar,Okhtar,08,,39.2802778,46.3625
+am,oksuz,Oksuz,07,,41.1227778,43.6730556
+am,oksyuz,Oksyuz,07,,41.1227778,43.6730556
+am,oktember,Oktember,03,,40.1361111,44.0138889
+am,oktemberyan,Oktemberyan,03,,40.1522222,44.0308333
+am,ollag,Ollag,02,,40.0780556,44.7494444
+am,onut,Onut,09,,40.9744444,45.2519444
+am,opartsi,Opartsi,06,,40.9602778,44.4941667
+am,oparts,Oparts,06,,40.9602778,44.4941667
+am,opartsy,Opartsy,06,,40.9602778,44.4941667
+am,orbatekh,Orbatekh,10,,39.8947222,45.3355556
+am,ordaklu,Ordaklu,04,,40.5202778,44.9308333
+am,ordzhonikidze,Ordzhonikidze,04,,40.57,45.3955556
+am,orgov,Orgov,01,,40.3333333,44.25
+am,orom,Orom,07,,40.6541667,43.8822222
+am,ortachia,Ortachia,01,,40.6938889,44.3566667
+am,ort'achya,Ort'achya,01,,40.6938889,44.3566667
+am,ortakend,Ortakend,10,,39.7783333,45.3477778
+am,ortakilisa,Ortakilisa,07,,40.8530556,43.8294444
+am,oshakan,Oshakan,01,4768,40.2705556,44.2691667
+am,ovandara,Ovandara,06,,41.0316667,44.5269444
+am,ovit,Ovit,01,,40.6216667,44.2991667
+am,ovit,Ovit,07,,40.7666667,44.0
+am,ovnanadzor,Ovnanadzor,06,,41.0316667,44.5269444
+am,ovtamech,Ovtamech,03,,40.1836111,44.2572222
+am,ovtashat,Ovtashat,02,,40.1019444,44.3427778
+am,ovtashen,Ovtashen,02,,40.0244444,44.45
+am,ovtashen,Ovtashen,07,,40.6666667,43.9
+am,ovuni,Ovuni,07,,40.8666667,43.8
+am,paghakn,Paghakn,07,,41.0666667,43.65
+am,pahakn,Pahakn,07,,41.0666667,43.65
+am,palutli,Palutli,07,,40.9166667,43.8833333
+am,p'ambak,P'ambak,04,,40.3861111,45.5319444
+am,pambak,Pambak,06,,40.8330556,44.3402778
+am,p'ambak,P'ambak,06,,40.8361111,44.5561111
+am,pamb armyanskiy,Pamb Armyanskiy,06,,40.7486111,44.1605556
+am,pamb kurdskiy,Pamb Kurdskiy,01,,40.7216667,44.2697222
+am,pamb,Pamb,01,,40.7216667,44.2697222
+am,p'anik,P'anik,07,,40.6563889,43.9363889
+am,papanino,Papanino,09,,40.7419444,44.8452778
+am,p'arak'ar,P'arak'ar,03,,40.1638889,44.4058333
+am,paravakar,Paravakar,09,1637,40.9805556,45.3991667
+am,paravaker,Paravaker,09,,40.9805556,45.3991667
+am,p'araznavert,P'araznavert,01,,40.5961111,44.3536111
+am,parni,Parni,06,,40.8372222,44.1091667
+am,parni,Parni,07,,40.6419444,43.9822222
+am,paros,Paros,07,,40.6,44.0166667
+am,p'arpi,P'arpi,01,,40.3294444,44.3072222
+am,parravak'ar,Parravak'ar,09,,40.9805556,45.3991667
+am,parravat'ap',Parravat'ap',08,,39.2108333,46.4155556
+am,pashaghu,Pashaghu,10,,39.6372222,45.5086111
+am,pashakend,Pashakend,04,,40.3427778,45.1133333
+am,pashakend,Pashakend,05,,40.5827778,44.6683333
+am,pashalu,Pashalu,10,,39.6372222,45.5086111
+am,pash aparan,Pash Aparan,01,,40.5961111,44.3536111
+am,pashkend,Pashkend,05,,40.5827778,44.6683333
+am,patridzh,Patridzh,01,,40.2794444,44.2702778
+am,patrindzh,Patrindzh,01,,40.2794444,44.2702778
+am,payagan,Payagan,08,,39.2455556,46.1077778
+am,p'ayahan,P'ayahan,08,,39.2455556,46.1077778
+am,pemzashen,Pemzashen,07,2436,40.5933333,43.94
+am,persi,Persi,01,,40.3666667,44.3333333
+am,petrovka,Petrovka,06,,41.15,44.3166667
+am,p'ilmazra,P'ilmazra,08,,39.1352778,46.2066667
+am,pipis,Pipis,09,,41.0666667,45.15
+am,pirdaudan,Pirdaudan,08,,39.25,46.1333333
+am,pirdoudan,Pirdoudan,08,,39.25,46.1333333
+am,p'irilu,P'irilu,08,,39.2233333,46.1852778
+am,p'irlu,P'irlu,08,,39.2233333,46.1852778
+am,pirmalak,Pirmalak,01,,40.3891667,43.8141667
+am,pirmazra,Pirmazra,08,,39.1352778,46.2066667
+am,pirtikyan,Pirtikyan,01,,40.4661111,43.8997222
+am,pirudan,Pirudan,08,,39.25,46.1333333
+am,pkhrut,Pkhrut,08,,39.1255556,46.2258333
+am,pkhtavan,Pkhtavan,09,,41.2166667,44.9166667
+am,pnunis,Pnunis,08,,39.4444444,46.0058333
+am,pokr arkhvali,Pokr Arkhvali,07,,40.65,44.05
+am,pokrashen,Pokrashen,07,,40.9,43.8833333
+am,pokravan,Pokravan,05,,40.3569444,44.5230556
+am,pokr ayrum,Pokr Ayrum,06,,41.1558333,44.7944444
+am,pokr karakilisa,Pokr Karakilisa,07,,40.7238889,43.8205556
+am,pokr keti,Pokr Keti,07,,40.9,43.8833333
+am,pokr kyapanak,Pokr Kyapanak,07,,40.7666667,44.0
+am,pokr mantash,Pokr Mantash,07,1838,40.65,44.05
+am,p'ok'r masrik,P'ok'r Masrik,04,,40.2580556,45.7225
+am,pokr-mazra,Pokr-Mazra,04,,40.2580556,45.7225
+am,pokrovka,Pokrovka,06,,41.0147222,44.2905556
+am,pokr parni,Pokr Parni,07,,40.6419444,43.9822222
+am,p'ok'r sariar,P'ok'r Sariar,07,,40.9258333,44.0186111
+am,p'ok'r sepasar,P'ok'r Sepasar,07,,41.0358333,43.8130556
+am,pokr shagriar,Pokr Shagriar,03,,40.0725,44.0083333
+am,pokr shishtapa,Pokr Shishtapa,07,,41.0358333,43.8130556
+am,pokr shorlu demurchi,Pokr Shorlu Demurchi,02,,40.1069444,44.3763889
+am,p'ok'r vedi,P'ok'r Vedi,02,,39.895,44.6125
+am,polad ayrum,Polad Ayrum,09,,40.7191667,45.0583333
+am,polad,Polad,09,,40.7191667,45.0583333
+am,por,Por,10,,39.6438889,45.4702778
+am,p'orr,P'orr,10,,39.6438889,45.4702778
+am,poselok imeni kalinina,PosÎlok Imeni Kalinina,02,,40.0094444,44.4327778
+am,poselok imeni shaumyana,PosÎlok Imeni Shaumyana,11,,40.1847222,44.4597222
+am,poselok zakfederatsii,PosÎlok Zakfederatsii,11,,40.1475,44.5255556
+am,privolnoye,Privolnoye,06,,41.1461111,44.4425
+am,proshaberd,Proshaberd,10,,39.6683333,45.3444444
+am,proshian,Proshian,05,,40.2480556,44.415
+am,proshyan,Proshyan,05,4333,40.2480556,44.415
+am,prravt'umb,Prravt'umb,08,,39.2108333,46.4155556
+am,prroshyan,Prroshyan,05,,40.2480556,44.415
+am,pshatavan,Pshatavan,03,2159,40.0405556,44.0675
+am,ptghni,Ptghni,05,1231,40.2566667,44.585
+am,ptghunk',Ptghunk',03,,40.1644444,44.3636111
+am,ptgni,Ptgni,05,,40.2566667,44.585
+am,ptkhni,Ptkhni,05,,40.2566667,44.585
+am,ptkhunk,Ptkhunk,03,,40.1644444,44.3636111
+am,ptykhni,Ptykhni,05,,40.2566667,44.585
+am,p'ukhrut mazra,P'ukhrut Mazra,08,,39.1352778,46.2066667
+am,pusak,Pusak,08,,39.3752778,45.9961111
+am,pushi,Pushi,08,,38.9666667,46.2166667
+am,pushkag,Pushkag,08,,38.9666667,46.2166667
+am,pushkino,Pushkino,06,,40.9583333,44.4088889
+am,pykhrut,Pykhrut,08,,39.1255556,46.2258333
+am,pylmazra,Pylmazra,08,,39.1352778,46.2066667
+am,qacaran,Qacaran,08,,39.1511111,46.16
+am,qafan,Qafan,08,,39.2011111,46.415
+am,qayabasa±,Qayabasƒ±,04,,40.1830556,45.8255556
+am,qizilqach,Qizilqach,07,,41.0375,43.8580556
+am,qusabulaq,Qusabulaq,04,,40.1566667,45.8011111
+am,ragimabad,Ragimabad,02,,40.1,44.3666667
+am,ranchpar,Ranchpar,02,989,40.0252778,44.3702778
+am,randamal,Randamal,05,,40.5533333,44.7575
+am,randa,Randa,05,,40.5533333,44.7575
+am,randomal,Randomal,05,,40.5533333,44.7575
+am,rantamah,Rantamah,05,,40.5533333,44.7575
+am,razdan,Razdan,02,,40.0672222,44.4361111
+am,razdan,Razdan,05,,40.2344444,44.7269444
+am,razvaliny adzhilu,Razvaliny Adzhilu,08,,39.1608333,46.2875
+am,razvaliny avsarlu,Razvaliny Avsarlu,08,,39.1330556,46.26
+am,razvaliny kelanlu,Razvaliny Kelanlu,02,,39.9561111,45.0533333
+am,reganlu,Reganlu,02,,39.8647222,44.6702778
+am,revan,Revan,11,,40.1811111,44.5136111
+am,revazlu,Revazlu,09,,40.9588889,45.2019444
+am,revaz,Revaz,09,,40.9588889,45.2019444
+am,rind,Rind,10,1368,39.7597222,45.18
+am,rndamal,Rndamal,05,,40.5533333,44.7575
+am,rranch'par,Rranch'par,02,,40.0252778,44.3702778
+am,rrind,Rrind,10,,39.7597222,45.18
+am,rrya t'aza,Rrya T'aza,01,,40.6580556,44.3061111
+am,rya-taza,Rya-Taza,01,,40.6580556,44.3061111
+am,sabunchi,Sabunchi,01,,40.4333333,43.7666667
+am,sabunchi,Sabunchi,02,,39.9997222,44.4666667
+am,sachlu,Sachlu,01,,40.4694444,44.4794444
+am,sadibagdi,Sadibagdi,06,,40.9344444,44.6533333
+am,sagmosavan,Sagmosavan,01,,40.3858333,44.3938889
+am,salakh,Salakh,09,,40.7308333,45.0933333
+am,salli,Salli,10,,39.8736111,45.2766667
+am,salut,Salut,07,,40.9666667,43.9333333
+am,salvard,Salvard,08,,39.4644444,45.9238889
+am,samadarvish,Samadarvish,01,,40.5841667,44.4338889
+am,samagar,Samagar,03,,40.1852778,44.2422222
+am,samaghar,Samaghar,03,2343,40.1852778,44.2422222
+am,samrly,Samrly,07,,40.9380556,44.0411111
+am,samurli,Samurli,07,,40.9380556,44.0411111
+am,sanain,Sanain,06,,41.0969444,44.6627778
+am,sandzharavaz,Sandzharavaz,08,,39.2441667,46.1369444
+am,sangyar,Sangyar,01,,40.6563889,44.2416667
+am,sapar ali,Sapar Ali,08,,39.405,45.9011111
+am,saraart,Saraart,06,,40.8738889,44.21
+am,saradzhalar,Saradzhalar,02,,39.985,44.4322222
+am,saragyugh,Saragyugh,07,,41.1611111,43.8844444
+am,saragyukh,Saragyukh,07,,41.1611111,43.8844444
+am,sarahart',Sarahart',06,,40.8738889,44.21
+am,sarakap,Sarakap,07,,40.5561111,43.7208333
+am,saralandzh,Saralandzh,01,,40.6030556,44.3927778
+am,saralandzh,Saralandzh,05,,40.3997222,44.5186111
+am,saralandzh,Saralandzh,06,,40.8755556,44.0972222
+am,saralandzh,Saralandzh,07,,40.6252778,44.0202778
+am,saralanj,Saralanj,05,,40.3997222,44.5186111
+am,saral,Saral,06,,40.8425,44.3625
+am,saramech,Saramech,06,1111,40.7725,44.2191667
+am,saramist,Saramist,05,,40.2127778,44.785
+am,saranist,Saranist,05,,40.2127778,44.785
+am,sarapat,Sarapat,07,,40.9380556,44.0411111
+am,saratak,Saratak,07,1115,40.67,43.8663889
+am,saratovka,Saratovka,06,,41.0780556,44.3163889
+am,saravan,Saravan,10,,39.7188889,45.6483333
+am,sarch'apet,Sarch'apet,06,,41.1991667,44.3852778
+am,sardar-abad,Sardar-Abad,03,,40.1522222,44.0308333
+am,sardarapat,Sardarapat,03,,40.1361111,44.0138889
+am,sardzhalar,Sardzhalar,02,,39.985,44.4322222
+am,sariar bol'shoy,Sariar Bol'shoy,07,,40.8933333,43.9525
+am,sariar malyy,Sariar Malyy,07,,40.9258333,44.0186111
+am,sariar,Sariar,06,,41.2,44.35
+am,saribash,Saribash,07,,40.6,43.8833333
+am,sarigyugh,Sarigyugh,09,,41.0563889,45.1458333
+am,sarigyukh,Sarigyukh,09,1096,41.0563889,45.1458333
+am,sarit'agh,Sarit'agh,11,,40.1605556,44.5277778
+am,sari tag,Sari Tag,11,,40.1605556,44.5277778
+am,sariyagub,Sariyagub,04,,40.1466667,45.8155556
+am,sarmsakhlu,Sarmsakhlu,06,,40.8477778,44.5222222
+am,sarnaghpyur,Sarnaghpyur,01,,40.5188889,43.92
+am,sarnakhbyur,Sarnakhbyur,04,,40.0666667,45.15
+am,sarnakhpyur,Sarnakhpyur,01,,40.5188889,43.92
+am,sarnakhpyur,Sarnakhpyur,04,,40.0666667,45.15
+am,sarnakunk,Sarnakunk,08,,39.6480556,45.885
+am,sarrnaghbyur,Sarrnaghbyur,01,,40.5188889,43.92
+am,sarrnakunk',Sarrnakunk',08,,39.6480556,45.885
+am,sarukhan,Sarukhan,04,6173,40.2891667,45.1341667
+am,sarvanlar,Sarvanlar,02,,40.0586111,44.3863889
+am,sasunik,Sasunik,01,1959,40.2472222,44.3380556
+am,satanakhach,Satanakhach,04,,40.3416667,45.6083333
+am,sayat'-nova,Sayat'-Nova,02,,40.0741667,44.3975
+am,saybalu,Saybalu,08,,39.6480556,45.885
+am,schanlu,Schanlu,01,,40.3833333,44.05
+am,semenovka,SemÎnovka,04,,40.6530556,44.9097222
+am,semyonovka,Semyonovka,04,,40.6530556,44.9097222
+am,sers,Sers,10,,39.5627778,45.4797222
+am,ses,Ses,10,,39.5627778,45.4797222
+am,sevaberd,Sevaberd,05,,40.2775,44.7983333
+am,sevak'ar,Sevak'ar,08,,39.27,46.4455556
+am,sevan,Sevan,04,17083,40.555,44.9536111
+am,sevk'ar,Sevk'ar,09,,41.0197222,45.1425
+am,shaab,Shaab,05,,40.2522222,44.6383333
+am,shabadin,Shabadin,08,,39.2991667,46.4208333
+am,shafak,Shafak,04,,40.2,45.6833333
+am,shagab,Shagab,02,,39.8666667,44.9
+am,shagali-eylar,Shagali-Eylar,09,,40.8833333,44.65
+am,shagali,Shagali,06,,40.9080556,44.6069444
+am,shagaplu,Shagaplu,02,,39.8666667,44.9
+am,shagap',Shagap',02,,39.8666667,44.9
+am,shagat,Shagat,08,,39.5616667,45.9122222
+am,shaghat,Shaghat,08,1011,39.5616667,45.9122222
+am,shaghik,Shaghik,07,,41.0477778,43.5855556
+am,shagriar bol'shoy,Shagriar Bol'shoy,03,,40.0677778,43.9855556
+am,shagriar,Shagriar,03,,40.0677778,43.9855556
+am,shagriz,Shagriz,04,,40.5619444,44.8827778
+am,shaharshik,Shaharshik,08,,39.405,45.9011111
+am,shahumian,Shahumian,02,,39.9308333,44.5783333
+am,shahumian,Shahumian,03,,40.2133333,44.2966667
+am,shahumian,Shahumian,06,,40.7883333,44.5316667
+am,shahumyani anvan avazan,Shahumyani Anvan Avazan,06,,40.7883333,44.5316667
+am,shahumyan,Shahumyan,02,3905,39.9308333,44.5783333
+am,shahumyan,Shahumyan,03,,40.2133333,44.2966667
+am,shahumyan,Shahumyan,06,1843,40.7883333,44.5316667
+am,shahumyan,Shahumyan,11,,40.1847222,44.4597222
+am,shakhnazar,Shakhnazar,06,,41.2016667,44.2288889
+am,shak'i,Shak'i,08,,39.5641667,45.9975
+am,shamakhyan,Shamakhyan,09,,40.7625,44.8363889
+am,shamb,Shamb,08,,39.4675,46.15
+am,shamiram,Shamiram,01,,40.2833333,44.1
+am,shamiran,Shamiran,01,,40.2833333,44.1
+am,shamlugh,Shamlugh,06,,41.1680556,44.7075
+am,shamlug,Shamlug,06,,41.1680556,44.7075
+am,shamsua,Shamsua,08,,39.3511111,46.3983333
+am,shamsuz,Shamsuz,08,,39.3511111,46.3983333
+am,shamut,Shamut,09,,40.9333333,44.7833333
+am,sharbulakh,Sharbulakh,11,,40.1458333,44.5661111
+am,shatik,Shatik,10,,39.8333333,45.3016667
+am,shatin,Shatin,10,1671,39.8333333,45.3016667
+am,shatjrek,Shatjrek,04,,40.1638889,45.8033333
+am,shatvan,Shatvan,04,,40.1830556,45.8255556
+am,shaumyana,Shaumyana,06,,40.78,44.5841667
+am,shaumyan,Shaumyan,02,,39.9308333,44.5783333
+am,shaumyan,Shaumyan,03,,40.2133333,44.2966667
+am,shaumyan,Shaumyan,06,,40.7883333,44.5316667
+am,shaumyan,Shaumyan,11,,40.1847222,44.4597222
+am,shavarshavan,Shavarshavan,09,,41.1355556,45.125
+am,shavarut,Shavarut,03,,40.0833333,43.75
+am,shehirchik,Shehirchik,08,,39.405,45.9011111
+am,shenat'agh,Shenat'agh,08,,39.38,46.1322222
+am,shenatag,Shenatag,08,,39.38,46.1322222
+am,shenavan,Shenavan,01,1587,40.4861111,44.3825
+am,shenavan,Shenavan,03,1757,40.05,43.9333333
+am,shenavan,Shenavan,06,,40.8666667,44.2333333
+am,shengavit,Shengavit,11,,40.1397222,44.4841667
+am,shenkani,Shenkani,01,,40.6427778,44.2733333
+am,shgardzhik,Shgardzhik,08,,39.2263889,46.3361111
+am,shgarshik,Shgarshik,01,,40.4166667,43.9666667
+am,shgharshik,Shgharshik,08,,39.2263889,46.3361111
+am,shidlu,Shidlu,02,,39.8277778,44.6372222
+am,shikahogh,Shikahogh,08,,39.0952778,46.4736111
+am,shikakhokh,Shikakhokh,08,,39.0952778,46.4736111
+am,shikhlar,Shikhlar,02,,39.8666667,44.5833333
+am,shikhlar,Shikhlar,08,,39.4113889,46.02
+am,shinagat,Shinagat,08,,39.38,46.1322222
+am,shingait,Shingait,11,,40.1397222,44.4841667
+am,shinkovit,Shinkovit,11,,40.1397222,44.4841667
+am,shinuair,Shinuair,08,,39.4341667,46.3155556
+am,shinuayr,Shinuayr,08,,39.4341667,46.3155556
+am,shinuhayr,Shinuhayr,08,2206,39.4341667,46.3155556
+am,shirabad,Shirabad,03,,40.1638889,44.4058333
+am,shirakala,Shirakala,01,,40.4744444,44.3619444
+am,shirakamut,Shirakamut,06,2008,40.8605556,44.1527778
+am,shirakavan,Shirakavan,07,,40.6591667,43.7386111
+am,shirak,Shirak,07,1007,40.8480556,43.9213889
+am,shirazlu,Shirazlu,02,,39.8725,44.6544444
+am,shiraz,Shiraz,02,,39.8725,44.6544444
+am,shirvandzhug,Shirvandzhug,07,,40.5669444,43.9361111
+am,shirvan,Shirvan,07,,40.5669444,43.9361111
+am,shishkaya,Shishkaya,04,,40.3116667,45.68
+am,shishkert,Shishkert,08,,39.0708333,46.3508333
+am,shishtapa,Shishtapa,07,,41.0491667,43.8233333
+am,shkhadzhi,Shkhadzhi,01,,40.4166667,43.9666667
+am,shkhlar,Shkhlar,02,,39.8666667,44.5833333
+am,shlorut,Shlorut,09,,40.8808333,45.3916667
+am,shnogh,Shnogh,06,2872,41.1477778,44.8377778
+am,shnokh,Shnokh,06,,41.1477778,44.8377778
+am,shorbulagh,Shorbulagh,11,,40.1458333,44.5661111
+am,shorbulakh,Shorbulakh,11,,40.1458333,44.5661111
+am,shordzhalu,Shordzhalu,04,,40.5030556,45.2702778
+am,shorlu mekhmandar,Shorlu Mekhmandar,02,,40.0991667,44.3472222
+am,shorlu,Shorlu,02,,40.0947222,44.3894444
+am,shorzha,Shorzha,04,,40.0966667,45.8002778
+am,shrvenants',Shrvenants',08,,39.2833333,46.3913889
+am,shurabad,Shurabad,07,,41.0666667,43.65
+am,shurakend,Shurakend,02,,40.0075,44.4222222
+am,shurnukh,Shurnukh,08,,39.3775,46.3913889
+am,shurrnukh,Shurrnukh,08,,39.3775,46.3913889
+am,shvandor,Shvandor,08,,38.9427778,46.3769444
+am,shvanidzor,Shvanidzor,08,,38.9427778,46.3769444
+am,silikyan,Silikyan,11,,40.2113889,44.4391667
+am,sip'anik,Sip'anik,02,,40.1069444,44.3522222
+am,sipan,Sipan,01,,40.7216667,44.2697222
+am,sirbat'as,Sirbat'as,08,,39.2238889,46.5288889
+am,sirkatag,Sirkatag,08,,39.2238889,46.5288889
+am,sirkat'as,Sirkat'as,08,,39.2238889,46.5288889
+am,sisavan,Sisavan,02,1793,39.9,44.6666667
+am,sisavan,Sisavan,06,,41.1702778,44.31
+am,sisavan,Sisavan,08,,39.5208333,46.0322222
+am,sisian,Sisian,08,15208,39.4627778,45.9730556
+am,sisqaya,Sisqaya,04,,40.3116667,45.68
+am,sis,Sis,02,1135,40.0586111,44.3863889
+am,sizavet,Sizavet,07,,41.105,43.8411111
+am,siznak,Siznak,08,,39.1994444,46.4733333
+am,snikh,Snikh,07,,40.95,43.7
+am,sodk',Sodk',04,,40.2030556,45.8647222
+am,soflu,Soflu,08,,39.3752778,45.9961111
+am,sogyutlu,Sogyutlu,01,,40.5188889,43.92
+am,solak,Solak,05,2295,40.4636111,44.7086111
+am,songyurlu,Songyurlu,07,,40.6327778,43.8705556
+am,songyur,Songyur,07,,40.6327778,43.8705556
+am,sorik,Sorik,01,,40.4,43.7166667
+am,sot'k',Sot'k',04,,40.2030556,45.8647222
+am,sotlu,Sotlu,08,,39.3752778,45.9961111
+am,sotsgyukh,Sotsgyukh,05,,40.1294444,44.6780556
+am,sovetakan,Sovetakan,03,1613,40.1133333,44.0552778
+am,sovetakert,Sovetakert,04,,40.1722222,45.6886111
+am,sovetashen,Sovetashen,02,,39.8094444,45.0511111
+am,sovetashen,Sovetashen,11,,40.0919444,44.5491667
+am,sovkhoz gecherlyu,Sovkhoz Gecherlyu,03,,40.1594444,44.0913889
+am,sovkhoz nomer shest',Sovkhoz Nomer Shest',03,,40.05,43.9666667
+am,sovugbulakh,Sovugbulakh,06,,41.1791667,44.1188889
+am,soylan,Soylan,10,,39.6916667,45.4652778
+am,spandaryan,Spandaryan,07,1226,40.665,44.0188889
+am,spandaryan,Spandaryan,08,,39.6216667,45.9047222
+am,spandaryan,Spandaryan,11,,40.2113889,44.4391667
+am,spitak,Spitak,06,15063,40.7955556,44.2783333
+am,srashen,Srashen,08,,39.0788889,46.4936111
+am,srigekh,Srigekh,09,,41.0563889,45.1458333
+am,srygekh,Srygekh,09,,41.0563889,45.1458333
+am,ssewan,Ssewan,04,,40.555,44.9536111
+am,stepahavan,Stepahavan,06,,41.0075,44.3866667
+am,step'anavan,Step'anavan,06,,41.0075,44.3866667
+am,stepanawan-lori,Stepanawan-Lori,06,,41.0075,44.3866667
+am,subatan,Subatan,04,,40.1166667,45.6833333
+am,sukhan,Sukhan,08,,39.2272222,46.1980556
+am,sultanabad,Sultanabad,07,,41.0666667,43.65
+am,sultan ali kishlak,Sultan Ali Kishlak,04,,40.2677778,45.8391667
+am,sultanbek,Sultanbek,10,,39.5208333,45.4822222
+am,surbyadag,Surbyadag,08,,39.2238889,46.5288889
+am,surenavan,Surenavan,10,2241,39.75,44.8
+am,surnux,Surnux,08,,39.3775,46.3913889
+am,suser,Suser,01,,40.4669444,43.7333333
+am,susuz,Susuz,01,,40.4663889,43.7561111
+am,svan,Svan,07,,40.6455556,43.7494444
+am,svanverdi,Svanverdi,07,,40.6455556,43.7494444
+am,svarants',Svarants',08,,39.3608333,46.2102778
+am,sverdlov,Sverdlov,06,,41.0972222,44.4008333
+am,syunik',Syunik',08,,39.2036111,46.4680556
+am,syznak,Syznak,08,,39.2036111,46.4680556
+am,t'airov,T'airov,03,,40.1613889,44.4222222
+am,taitan,Taitan,02,,39.9,44.6833333
+am,takhanshalu,Takhanshalu,02,,40.0672222,44.4361111
+am,takiya,Takiya,01,,40.3347222,44.3102778
+am,taknali,Taknali,07,,40.9333333,43.8333333
+am,takyalu,Takyalu,05,,40.6191667,44.5747222
+am,takyarlu,Takyarlu,01,,40.5080556,44.3497222
+am,takyarlu,Takyarlu,05,,40.6191667,44.5747222
+am,t'ak'yarrlu,T'ak'yarrlu,05,,40.6191667,44.5747222
+am,tala,Tala,09,,40.8961111,45.1261111
+am,talibogly,Talibogly,07,,40.6666667,43.8666667
+am,talib,Talib,07,,40.6666667,43.8666667
+am,t'alin,T'alin,01,,40.3822222,43.8786111
+am,talin,Talin,01,4945,40.3369444,43.8588889
+am,talish,Talish,01,,40.2925,44.0791667
+am,tamamlu,Tamamlu,02,,39.9833333,44.5
+am,tamdzhirlu,Tamdzhirlu,01,,40.5386111,44.4744444
+am,t'anahat,T'anahat,08,,39.4194444,45.9266667
+am,tandzatap',Tandzatap',08,,39.3605556,46.2713889
+am,tandzaver,Tandzaver,08,,39.3502778,46.3283333
+am,tandzut,Tandzut,03,1816,40.0772222,44.0886111
+am,tandzut,Tandzut,09,,40.8666667,44.9666667
+am,tapadibi,Tapadibi,03,,40.0833333,44.05
+am,tapadolag,Tapadolag,07,,40.7361111,43.8927778
+am,tapadolak,Tapadolak,07,,40.7361111,43.8927778
+am,tapakey,Tapakey,07,,41.0536111,43.6688889
+am,t'ap'akyoy,T'ap'akyoy,07,,41.0536111,43.6688889
+am,tapanli,Tapanli,06,,40.8491667,44.1838889
+am,tapan,Tapan,06,,40.8491667,44.1838889
+am,tap'erakan,Tap'erakan,02,,39.9186111,44.6061111
+am,taratumb,Taratumb,10,,39.8913889,45.2508333
+am,taronik,Taronik,03,1874,40.1330556,44.1991667
+am,tarp,Tarp,10,,39.7077778,45.6180556
+am,tarratumb,Tarratumb,10,,39.8913889,45.2508333
+am,tarsachay,Tarsachay,09,,40.7666667,45.0166667
+am,tashir,Tashir,06,7318,41.1244444,44.2819444
+am,tashtun,Tashtun,08,,39.0647222,46.1719444
+am,t'asik,T'asik,08,,39.45,45.9666667
+am,taten,Taten,08,,39.3816667,46.24
+am,tatevges,Tatevges,08,,39.4213889,46.3752778
+am,tat'ev,Tat'ev,08,,39.3816667,46.24
+am,taua kale,Taua Kale,09,,40.8808333,45.3916667
+am,t'auzkala,T'auzkala,09,,40.8808333,45.3916667
+am,t'auzk'end,T'auzk'end,09,,40.8808333,45.3916667
+am,tavros,Tavros,08,,39.2955556,46.3597222
+am,t'avruz,T'avruz,08,,39.2955556,46.3597222
+am,tavshankishlag,Tavshankishlag,07,,40.6591667,43.7386111
+am,t'avshut,T'avshut,07,,41.0833333,43.8
+am,t'avuzghala,T'avuzghala,09,,40.8808333,45.3916667
+am,taya-kala,Taya-Kala,09,,40.8808333,45.3916667
+am,taycharukh,Taycharukh,05,,40.6147222,44.6522222
+am,taytan,Taytan,02,,39.9,44.6833333
+am,t'azagyugh,T'azagyugh,04,,40.1416667,45.1913889
+am,t'azagyugh,T'azagyugh,08,,39.45,45.9666667
+am,tazagyukh,Tazagyukh,02,,40.1419444,44.83
+am,tazagyukh,Tazagyukh,04,2248,40.1416667,45.1913889
+am,tazagyukh,Tazagyukh,05,,40.2666667,44.6563889
+am,tazagyukh,Tazagyukh,07,,41.0833333,43.8
+am,tazagyukh,Tazagyukh,08,,39.45,45.9666667
+am,tazagyukh,Tazagyukh,11,,40.0983333,44.4633333
+am,tazakend,Tazakend,07,,41.0833333,43.8
+am,t'azak'end,T'azak'end,08,,39.45,45.9666667
+am,tedshirabad,Tedshirabad,05,,40.205,44.6430556
+am,tedzhirabad,Tedzhirabad,05,,40.205,44.6430556
+am,tedzhrabak,Tedzhrabak,05,,40.205,44.6430556
+am,t'eghenik',T'eghenik',05,,40.4238889,44.5755556
+am,tegh,Tegh,08,2120,39.5547222,46.4758333
+am,t'eghut,T'eghut,09,,40.7777778,44.935
+am,tekher,Tekher,01,,40.35,44.2533333
+am,tekh,Tekh,08,,39.5547222,46.4758333
+am,tekhut,Tekhut,06,,41.1180556,44.8458333
+am,terp,Terp,10,,39.7188889,45.6483333
+am,tghuni,Tghuni,08,,39.3644444,45.9886111
+am,tgit,Tgit,05,,40.4238889,44.5755556
+am,tilichan,Tilichan,09,,40.7408333,44.8630556
+am,tili,Tili,09,,40.7408333,44.8630556
+am,titoy-kharabase,Titoy-Kharabase,07,,41.1275,43.7758333
+am,tkhit,Tkhit,05,,40.4238889,44.5755556
+am,tkhkut,Tkhkut,08,,38.9836111,46.2333333
+am,tlik,Tlik,07,,40.4,43.6166667
+am,tokhanshalu,Tokhanshalu,02,,40.0672222,44.4361111
+am,tokhludzha,Tokhludzha,04,,40.5688889,45.2319444
+am,tolk,Tolk,11,,40.05,44.5
+am,tolors,Tolors,08,,39.4605556,46.0461111
+am,tolor,Tolor,08,,39.4605556,46.0461111
+am,tomartash,Tomartash,07,,40.6666667,43.9166667
+am,toparli,Toparli,07,,40.8475,43.8741667
+am,topar,Topar,07,,40.8475,43.8741667
+am,torfavan,Torfavan,04,,40.1833333,45.6333333
+am,torini,Torini,08,,39.3002778,46.3291667
+am,t'orosgyugh,T'orosgyugh,07,,40.935,43.8775
+am,torosgyukh,Torosgyukh,07,,40.935,43.8775
+am,torpakhkala,Torpakhkala,02,,40.0058333,44.5744444
+am,tort'in,Tort'in,08,,39.3002778,46.3291667
+am,tortni,Tortni,08,,39.3002778,46.3291667
+am,tort'n,Tort'n,08,,39.3002778,46.3291667
+am,torunik',Torunik',08,,39.4113889,46.02
+am,totmashen,Totmashen,04,,40.5719444,44.8122222
+am,t'ous gale,T'ous Gale,09,,40.8808333,45.3916667
+am,t'ous,T'ous,09,,40.8808333,45.3916667
+am,tovruz,Tovruz,08,,39.2955556,46.3597222
+am,tovuzkala,Tovuzkala,09,,40.8808333,45.3916667
+am,t'ovuz,T'ovuz,09,,40.8808333,45.3916667
+am,trazagyukh,Trazagyukh,11,,40.0983333,44.4633333
+am,tretuk',Tretuk',04,,40.2333333,45.85
+am,tsaghkaber,Tsaghkaber,06,1207,40.7986111,44.1072222
+am,tsaghkadzor,Tsaghkadzor,05,1408,40.5386111,44.7113889
+am,tsaghkahovit,Tsaghkahovit,01,1551,40.6361111,44.2230556
+am,tsaghkalanj,Tsaghkalanj,03,,40.2,44.2275
+am,tsaghkavan,Tsaghkavan,09,,40.9419444,45.3311111
+am,tsaghkunk',Tsaghkunk',03,,40.1794444,44.27
+am,tsaghkunk',Tsaghkunk',04,,40.5830556,44.8694444
+am,tsaghkut,Tsaghkut,07,,41.0975,43.6163889
+am,tsakghadzor,Tsakghadzor,08,,39.2238889,46.5288889
+am,tsakhkaber,Tsakhkaber,06,,40.7986111,44.1072222
+am,tsakhkadzor,Tsakhkadzor,05,,40.5386111,44.7113889
+am,tsakhkaladzh,Tsakhkaladzh,03,,40.2,44.2275
+am,tsakhkaovit,Tsakhkaovit,01,,40.6361111,44.2230556
+am,tsakhkasar,Tsakhkasar,01,,40.4661111,43.8997222
+am,tsakhkashat,Tsakhkashat,06,,41.0766667,44.7402778
+am,tsakhkashen,Tsakhkashen,01,,40.5080556,44.3497222
+am,tsakhkashen,Tsakhkashen,02,,40.0333333,44.4833333
+am,tsakhkashen,Tsakhkashen,04,,40.3047222,45.0552778
+am,tsakhkashen,Tsakhkashen,06,,40.7986111,44.1072222
+am,tsakhkashen,Tsakhkashen,07,,41.105,43.8411111
+am,tsakhkavan,Tsakhkavan,09,,40.9419444,45.3311111
+am,tsakhkunk,Tsakhkunk,03,,40.1794444,44.27
+am,tsakhkunk,Tsakhkunk,04,,40.5830556,44.8694444
+am,tsakk'ar,Tsakk'ar,04,,40.1677778,45.1991667
+am,tsamakaberd,Tsamakaberd,04,,40.57,44.9869444
+am,ts'amak'asar,Ts'amak'asar,01,,40.4663889,43.7561111
+am,tsap'at'agh,Tsap'at'agh,04,,40.4213889,45.5333333
+am,tsat'er,Tsat'er,06,,40.9605556,44.6294444
+am,tsav,Tsav,08,,39.0519444,46.4580556
+am,tsghuk,Tsghuk,08,,39.6541667,45.8305556
+am,ts'ghuni,Ts'ghuni,08,,39.3644444,45.9886111
+am,tsiatsan,Tsiatsan,03,1050,40.1869444,44.2666667
+am,tsilk'ar,Tsilk'ar,01,,40.7205556,44.2083333
+am,ts'oghamarg,Ts'oghamarg,07,,40.9480556,43.8561111
+am,tsokhamarg,Tsokhamarg,07,,40.9480556,43.8561111
+am,tsornatap,Tsornatap,11,,40.1458333,44.5661111
+am,tsovagyugh,Tsovagyugh,04,3857,40.6330556,44.9522222
+am,tsovagyukh,Tsovagyukh,04,,40.6330556,44.9522222
+am,tsovak,Tsovak,04,2531,40.1819444,45.635
+am,tsovazard,Tsovazard,04,1949,40.4769444,45.0375
+am,tsovinar,Tsovinar,04,3968,40.1608333,45.4538889
+am,tsrrvis,Tsrrvis,09,,40.95,45.1833333
+am,tsrviz,Tsrviz,09,,40.95,45.1833333
+am,ttudzhur,Ttudzhur,01,,40.5747222,44.4547222
+am,ttudzhur,Ttudzhur,04,,40.6508333,45.305
+am,t't'ujur,T't'ujur,01,,40.5747222,44.4547222
+am,t't'ujur,T't'ujur,04,,40.6508333,45.305
+am,tudzhur,Tudzhur,04,,40.6508333,45.305
+am,tufashen,Tufashen,07,,40.6,43.9
+am,tulnabi,Tulnabi,05,,40.3997222,44.5186111
+am,tumanian,Tumanian,06,,40.9866667,44.6558333
+am,tumanyan,Tumanyan,06,1693,40.9633333,44.6516667
+am,t'umanyan,T'umanyan,06,,40.9866667,44.6558333
+am,t'unis ajylu,T'unis Ajylu,08,,39.1608333,46.2875
+am,turdzhan,Turdzhan,09,,40.7833333,45.3166667
+am,tuskyulu,Tuskyulu,04,,40.1666667,45.6833333
+am,tutiya,Tutiya,05,,40.2127778,44.785
+am,t'uvruz,T'uvruz,08,,39.2955556,46.3597222
+am,t'uzukala,T'uzukala,09,,40.8808333,45.3916667
+am,tyakyalu,Tyakyalu,05,,40.6191667,44.5747222
+am,tyrchkhan,Tyrchkhan,06,,40.9113889,44.1144444
+am,tytudzhur,Tytudzhur,04,,40.6508333,45.305
+am,tzaghkaber,Tzaghkaber,06,,40.7986111,44.1072222
+am,tzaghkahovit,Tzaghkahovit,01,,40.6361111,44.2230556
+am,tzaghkavan,Tzaghkavan,09,,40.9419444,45.3311111
+am,tzaghkunk,Tzaghkunk,04,,40.5830556,44.8694444
+am,tzakkar,Tzakkar,04,,40.1677778,45.1991667
+am,tzav,Tzav,08,,39.0519444,46.4580556
+am,tzilkar,Tzilkar,01,,40.7205556,44.2083333
+am,tzovagyugh,Tzovagyugh,04,,40.6330556,44.9522222
+am,uch'k'ilisa,Uch'k'ilisa,03,,40.1727778,44.2925
+am,uckilise,‹Ákilise,03,,40.1727778,44.2925
+am,udzhan,Udzhan,01,,40.3022222,44.2055556
+am,ughedzor,Ughedzor,10,,39.6869444,45.6794444
+am,uits,Uits,08,,39.5166667,46.05
+am,ujan,Ujan,01,,40.3022222,44.2055556
+am,uliya sarvanlar,Uliya Sarvanlar,02,,40.0586111,44.3863889
+am,ulukhanlu,Ulukhanlu,02,,40.0672222,44.4361111
+am,unut,Unut,08,,39.25,46.3833333
+am,urasar,Urasar,06,,41.0152778,44.28
+am,urrut,Urrut,06,,41.0711111,44.3969444
+am,urrut,Urrut,08,,39.4886111,46.1413889
+am,urts'adzor,Urts'adzor,02,,39.9125,44.8175
+am,urtsalanj,Urtsalanj,03,,39.8530556,44.985
+am,urut,Urut,06,1102,41.0711111,44.3969444
+am,urut,Urut,08,,39.4886111,46.1413889
+am,ushi,Ushi,01,1276,40.3536111,44.3686111
+am,usuklyar,Usuklyar,06,,41.0538889,44.6113889
+am,uyts,Uyts,08,,39.5166667,46.05
+am,uzhanis,Uzhanis,08,,39.2355556,46.5419444
+am,uzunlar,Uzunlar,06,,41.0538889,44.6113889
+am,uzunoba,Uzunoba,03,,40.0608333,44.0952778
+am,uzuntala,Uzuntala,09,,40.9744444,45.2519444
+am,uz,Uz,08,,39.5166667,46.05
+am,vaagni,Vaagni,06,,40.9080556,44.6069444
+am,vagashen,Vagashen,04,,40.1377778,45.3291667
+am,vagatur,Vagatur,08,,39.6033333,46.3680556
+am,vagharshapat,Vagharshapat,03,49514,40.1727778,44.2925
+am,vaghashen,Vaghashen,04,3235,40.1377778,45.3291667
+am,vaghatin,Vaghatin,08,,39.5052778,46.1180556
+am,vaghatur,Vaghatur,08,,39.6033333,46.3680556
+am,vagramaberd,Vagramaberd,07,,40.85,43.75
+am,vagravar,Vagravar,08,,38.95,46.1833333
+am,vagudi,Vagudi,08,,39.5052778,46.1180556
+am,vagudy,Vagudy,08,,39.5052778,46.1180556
+am,vahagni,Vahagni,06,1184,40.9080556,44.6069444
+am,vahan,Vahan,04,1153,40.57,45.3955556
+am,vahravar,Vahravar,08,,38.95,46.1833333
+am,valeroktista,Valeroktista,03,,40.1727778,44.2925
+am,vali agalu,Vali Agalu,04,,40.1752778,45.175
+am,vanadzor,Vanadzor,06,101099,40.8127778,44.4883333
+am,vanevan,Vanevan,04,,40.2,45.6833333
+am,vank,Vank,08,,39.0483333,46.2511111
+am,varagavan,Varagavan,09,,40.9569444,45.3383333
+am,vardablur,Vardablur,01,,40.6961111,44.23
+am,vardablur,Vardablur,06,1297,40.95,44.4666667
+am,vardadzor,Vardadzor,11,2095,40.1916667,45.1875
+am,vardagbyur,Vardagbyur,07,,40.95,43.9166667
+am,vardahovit,Vardahovit,10,,39.8986111,45.4836111
+am,vardakar,Vardakar,07,,40.6666667,43.9166667
+am,vardakhpyur,Vardakhpyur,07,,40.95,43.9166667
+am,vardanadzor,Vardanadzor,08,,38.9694444,46.2141667
+am,vardanashen,Vardanashen,03,,40.0516667,44.1905556
+am,vardanavan,Vardanavan,05,,40.4227778,44.6280556
+am,vardanidzor,Vardanidzor,08,,38.9694444,46.2141667
+am,vardanlu,Vardanlu,06,,40.7833333,44.5333333
+am,vardaolur,Vardaolur,01,,40.6961111,44.23
+am,vardashat,Vardashat,02,,39.8327778,45.0261111
+am,vardashen,Vardashen,02,,40.0336111,44.5558333
+am,vardashen,Vardashen,11,,40.1447222,44.5405556
+am,vardavank,Vardavank,08,,39.2333333,46.5
+am,vardenik,Vardenik,04,7709,40.135,45.4363889
+am,vardenis,Vardenis,01,,40.5716667,44.4027778
+am,vardenis,Vardenis,04,11382,40.1805556,45.7283333
+am,vardenut,Vardenut,01,,40.4744444,44.3619444
+am,vardgesavan,Vardgesavan,03,,40.1727778,44.2925
+am,vardnav,Vardnav,06,,40.7875,44.1972222
+am,varmaziar,Varmaziar,03,,40.1416667,44.3708333
+am,varser,Varser,04,1614,40.5561111,44.9111111
+am,vartablur,Vartablur,01,,40.6961111,44.23
+am,vartakhpyur,Vartakhpyur,07,,40.95,43.9166667
+am,vartandzor,Vartandzor,08,,38.9694444,46.2141667
+am,vayk',Vayk',10,,39.6916667,45.4652778
+am,vazashen,Vazashen,09,,40.9922222,45.2841667
+am,vedi,Vedi,02,12192,39.9105556,44.7277778
+am,veligekh,Veligekh,09,,40.9419444,45.3311111
+am,veli,Veli,09,,40.9419444,45.3311111
+am,verdablur,Verdablur,06,,40.9708333,44.5088889
+am,verev khotanan,Verev Khotanan,08,,39.3105556,46.3775
+am,verin adyaman,Verin Adyaman,04,,40.1327778,45.2486111
+am,verin agbash,Verin Agbash,02,,40.0488889,44.5475
+am,verin-agdan,Verin-Agdan,09,,40.8486111,45.1497222
+am,verin agdzhakala,Verin Agdzhakala,01,,40.3666667,44.0166667
+am,verin akhtala,Verin Akhtala,06,,41.1666667,44.7666667
+am,verin akhta,Verin Akhta,05,,40.4675,44.7980556
+am,verin and,Verin And,08,,39.1533333,46.1822222
+am,verin artashat,Verin Artashat,02,3931,40.0005556,44.585
+am,verin aylanlu,Verin Aylanlu,03,,40.1794444,44.27
+am,verin aznaberd,Verin Aznaberd,10,,39.5441667,45.4166667
+am,verin bazmaberd,Verin Bazmaberd,01,,40.3666667,44.0166667
+am,verin-chambarak,Verin-Chambarak,04,,40.6038889,45.3436111
+am,verin ch'arbakh,Verin Ch'arbakh,11,,40.1388889,44.4502778
+am,verin dvin,Verin Dvin,02,1853,40.0252778,44.5908333
+am,verin dzhrapi,Verin Dzhrapi,07,,40.5833333,43.6833333
+am,verin dzhrashen,Verin Dzhrashen,05,,40.1386111,44.5638889
+am,verin dzhrashen,Verin Dzhrashen,11,,40.05,44.5
+am,verin gedaklu,Verin Gedaklu,08,,39.2333333,46.5
+am,verin getashen,Verin Getashen,04,4173,40.1327778,45.2486111
+am,verin girat'agh,Verin Girat'agh,08,,39.2402778,46.2666667
+am,verin giratakh,Verin Giratakh,08,,39.2402778,46.2666667
+am,verin-gukasyan,Verin-Gukasyan,07,,41.0375,43.8580556
+am,verin gyodak'lu,Verin Gyodak'lu,08,,39.2333333,46.5
+am,verin hand,Verin Hand,08,,39.1533333,46.1822222
+am,verin jrashen,Verin Jrashen,05,,40.1386111,44.5638889
+am,verin kanlidzha,Verin Kanlidzha,07,,40.8375,43.7719444
+am,verin karakoymaz,Verin Karakoymaz,01,,40.3666667,43.9833333
+am,verin karkhun,Verin Karkhun,03,,40.0713889,44.2630556
+am,verin karmiraghbyur,Verin Karmiraghbyur,09,,40.8841667,45.4413889
+am,verin karmirakhpyur,Verin Karmirakhpyur,09,,40.8841667,45.4413889
+am,verin kelanlu,Verin KÎlanlu,03,,40.1172222,44.2705556
+am,verin kerpilu,Verin Kerpilu,09,,41.2166667,44.9333333
+am,verin khatunarkh,Verin Khatunarkh,03,,40.0919444,44.2686111
+am,verin khotanan,Verin Khotanan,08,,39.3105556,46.3775
+am,verin-kilisa,Verin-Kilisa,06,,40.75,44.4166667
+am,verin-kulibeklu,Verin-Kulibeklu,03,,40.15,44.1666667
+am,verin kurdkend,Verin Kurdkend,02,,40.0041667,44.5947222
+am,verin kuylasar,Verin Kuylasar,02,,40.0161111,44.5186111
+am,verin nedzhirlu,Verin Nedzhirlu,02,,40.0833333,44.4166667
+am,verin pirtikan,Verin Pirtikan,01,,40.4661111,43.8997222
+am,verin sasunashen,Verin Sasunashen,01,,40.3666667,43.9833333
+am,verin shengavit',Verin Shengavit',11,,40.1397222,44.4841667
+am,verin shorzha,Verin Shorzha,04,,40.0966667,45.8002778
+am,verin talin,Verin Talin,01,,40.3822222,43.8786111
+am,verin turkmenlu,Verin Turkmenlu,03,,40.0961111,44.2511111
+am,verin vachagan,Verin Vachagan,08,,39.1791667,46.3744444
+am,verin zeyva,Verin Zeyva,03,,40.1344444,44.2016667
+am,verishen,Verishen,08,2114,39.5358333,46.3119444
+am,verkhniy adyaman,Verkhniy Adyaman,04,,40.1327778,45.2486111
+am,verkhniy agbash,Verkhniy Agbash,02,,40.0488889,44.5475
+am,verkhniy agdan,Verkhniy Agdan,09,,40.8486111,45.1497222
+am,verkhniy aluchalu,Verkhniy Aluchalu,04,,40.1047222,45.5352778
+am,verkhniy artashat,Verkhniy Artashat,02,,40.0005556,44.585
+am,verkhniy ayrum,Verkhniy Ayrum,06,,41.1558333,44.7944444
+am,verkhniy bandivan,Verkhniy Bandivan,07,,40.9561111,43.8030556
+am,verkhniy chambarak,Verkhniy Chambarak,04,,40.6038889,45.3436111
+am,verkhniy dargalu,Verkhniy Dargalu,02,,39.95,44.6
+am,verkhniy dvin,Verkhniy Dvin,02,,40.0252778,44.5908333
+am,verkhniy giratag,Verkhniy Giratag,08,,39.2402778,46.2666667
+am,verkhniy kalakut,Verkhniy Kalakut,01,,40.2833333,44.0166667
+am,verkhniy karakoymaz,Verkhniy Karakoymaz,01,,40.3666667,43.9833333
+am,verkhniy karanlug,Verkhniy Karanlug,04,,40.1044444,45.2897222
+am,verkhniy karkhun,Verkhniy Karkhun,03,,40.0713889,44.2630556
+am,verkhniy karmragbyur,Verkhniy Karmragbyur,09,,40.8841667,45.4413889
+am,verkhniy khatunarkh,Verkhniy Khatunarkh,03,,40.0919444,44.2686111
+am,verkhniy khotanan,Verkhniy Khotanan,08,,39.3105556,46.3775
+am,verkhniy kulibeklu,Verkhniy Kulibeklu,03,,40.15,44.1666667
+am,verkhniy kuylasar,Verkhniy Kuylasar,02,,40.0161111,44.5186111
+am,verkhniy nedzhirlu,Verkhniy Nedzhirlu,02,,40.0833333,44.4166667
+am,verkhniy pirtikan,Verkhniy Pirtikan,01,,40.4661111,43.8997222
+am,verkhniy shengavit,Verkhniy Shengavit,11,,40.1397222,44.4841667
+am,verkhniy shinkovit,Verkhniy Shinkovit,11,,40.1397222,44.4841667
+am,verkhniy talin,Verkhniy Talin,01,,40.3822222,43.8786111
+am,verkhniy vachagan,Verkhniy Vachagan,08,,39.1791667,46.3744444
+am,verkhniy zagalu,Verkhniy Zagalu,04,,40.1027778,45.6391667
+am,verkhnyaya agdzhakala,Verkhnyaya Agdzhakala,01,,40.3666667,44.0166667
+am,verkhnyaya akhtala,Verkhnyaya Akhtala,06,,41.1666667,44.7666667
+am,verkhnyaya akhta,Verkhnyaya Akhta,05,,40.4675,44.7980556
+am,verkhnyaya aylanlu,Verkhnyaya Aylanlu,03,,40.1794444,44.27
+am,verkhnyaya gezaldara,Verkhnyaya Gezaldara,01,,40.6327778,44.1730556
+am,verkhnyaya gezaldara,Verkhnyaya Gezaldara,04,,40.0997222,45.4725
+am,verkhnyaya shorzha,Verkhnyaya Shorzha,04,,40.0966667,45.8002778
+am,vernashen,Vernashen,10,1162,39.7938889,45.3633333
+am,voghjaberd,Voghjaberd,05,,40.1663889,44.6483333
+am,voghji,Voghji,07,,40.8094444,43.7527778
+am,voghji,Voghji,08,,39.1963889,46.4633333
+am,vokhchaberd,Vokhchaberd,05,,40.1663889,44.6483333
+am,vokhchi,Vokhchi,08,,39.1963889,46.4633333
+am,volorut,Volorut,09,,40.8808333,45.3916667
+am,vordnav,Vordnav,06,,40.7875,44.1972222
+am,vorontsovka,Vorontsovka,06,,41.1244444,44.2819444
+am,vorotan,Vorotan,08,,39.4213889,46.3752778
+am,vortnav,Vortnav,06,,40.7875,44.1972222
+am,voskeask,Voskeask,07,,40.7383333,43.7758333
+am,voskeat,Voskeat,01,,40.2794444,44.2702778
+am,voskeat,Voskeat,03,,40.1413889,44.3291667
+am,voskehask,Voskehask,07,1803,40.7383333,43.7758333
+am,voskehat,Voskehat,03,2181,40.1413889,44.3291667
+am,voskepar,Voskepar,09,,41.0647222,45.0575
+am,vosketap',Vosketap',02,,39.8725,44.6544444
+am,vosketas,Vosketas,01,,40.45,43.95
+am,voskevan,Voskevan,09,1287,41.1191667,45.0652778
+am,voskevaz,Voskevaz,01,3789,40.2797222,44.295
+am,voskresenovka,Voskresenovka,06,,40.765,44.63
+am,vostan,Vostan,02,2925,39.9588889,44.5591667
+am,yagdan,Yagdan,06,,41.0091667,44.5083333
+am,yaghdan,Yaghdan,06,,41.0091667,44.5083333
+am,yagublu,Yagublu,06,,40.8072222,44.5380556
+am,yamandzhalu,Yamandzhalu,02,,40.0333333,44.5333333
+am,yana±x,Yanƒ±x,04,,40.0069444,45.2405556
+am,yanygh,Yanygh,04,,40.0069444,45.2405556
+am,yanykhpaya,Yanykhpaya,04,,40.6833333,45.0833333
+am,yanykhskiy sovkhoz,Yanykhskiy Sovkhoz,04,,40.0069444,45.2405556
+am,yanykh,Yanykh,04,,40.0069444,45.2405556
+am,yariuzlu,Yariuzlu,04,,40.1519444,45.6144444
+am,yasaul,Yasaul,07,,40.8666667,43.8
+am,yaudzhi,Yaudzhi,08,,39.4333333,46.2333333
+am,yaydzhi,Yaydzhi,04,,40.5736111,44.7863889
+am,yaydzhi,Yaydzhi,08,,39.4333333,46.2333333
+am,yayji,Yayji,08,,39.4333333,46.2333333
+am,yegegnut,Yegegnut,06,,40.9041667,44.6325
+am,yeghegik,Yeghegik,10,,39.7611111,45.3333333
+am,yeghegis,Yeghegis,10,,39.8586111,45.3294444
+am,yeghegnadzor,Yeghegnadzor,10,,39.7611111,45.3333333
+am,yeghegnavan,Yeghegnavan,02,1221,39.8277778,44.6372222
+am,yeghegnut,Yeghegnut,03,1746,40.0902778,44.1625
+am,yeghegnut,Yeghegnut,06,1154,40.9041667,44.6325
+am,yegheg,Yegheg,08,,39.2991667,46.4208333
+am,yeghipatrush,Yeghipatrush,01,,40.5386111,44.4744444
+am,yeghnajur,Yeghnajur,07,,41.0891667,43.5613889
+am,yeghvard,Yeghvard,05,10705,40.3216667,44.4813889
+am,yeghvard,Yeghvard,08,,39.2247222,46.5605556
+am,yegvard,Yegvard,05,,40.3216667,44.4813889
+am,yegvard,Yegvard,08,,39.2247222,46.5605556
+am,yegvart,Yegvart,05,,40.3216667,44.4813889
+am,yegvart,Yegvart,08,,39.2247222,46.5605556
+am,yekanlar,Yekanlar,07,,40.6486111,44.0444444
+am,yekan,Yekan,07,,40.6486111,44.0444444
+am,yekhegis,Yekhegis,10,,39.8588889,45.3613889
+am,yekhegnadzor,Yekhegnadzor,10,,39.7611111,45.3333333
+am,yekhegnut,Yekhegnut,06,,40.9041667,44.6325
+am,yekheknut,Yekheknut,03,,40.0902778,44.1625
+am,yekheknut,Yekheknut,06,,40.9041667,44.6325
+am,yekhnik,Yekhnik,01,,40.4,43.95
+am,yelenovka,Yelenovka,04,,40.555,44.9536111
+am,yelgovan,Yelgovan,05,,40.275,44.6605556
+am,yellidzha,Yellidzha,02,,40.1,44.7833333
+am,yelp'in,Yelp'in,10,,39.8058333,45.1102778
+am,yemazli,Yemazli,08,,39.2463889,46.4316667
+am,yemazlu,Yemazlu,08,,39.2463889,46.4316667
+am,yengidzha,Yengidzha,02,,39.9,44.6666667
+am,yengidzha,Yengidzha,11,,40.1166667,44.4336111
+am,yenikcùnd,Yenik«ùnd,04,,40.2333333,45.85
+am,yenikend,Yenikend,02,,39.9,44.7333333
+am,yenikend,Yenikend,04,,40.2333333,45.85
+am,yenikey,YenikÎy,07,,40.5166667,43.6
+am,yeni-yel,Yeni-YÎl,07,,41.0758333,43.755
+am,yeniyol,Yeniyol,07,,41.0758333,43.755
+am,yenokavan,Yenokavan,09,,40.9136111,45.0994444
+am,yeranos,Yeranos,04,,40.2080556,45.1861111
+am,yeraskhahun,Yeraskhahun,03,1346,40.0722222,44.2158333
+am,yeraskhaun,Yeraskhaun,03,,40.0722222,44.2158333
+am,yeraskh,Yeraskh,02,,39.7308333,44.8355556
+am,yerazgavors,Yerazgavors,07,1285,40.7,43.75
+am,yeremes,Yeremes,08,,39.4611111,46.1025
+am,yerets'vanik,Yerets'vanik,08,,39.2616667,46.4736111
+am,yerets',Yerets',08,,39.2616667,46.4736111
+am,yerets'-yerets'vanik,Yerets'-Yerets'vanik,08,,39.2616667,46.4736111
+am,yerevan,Yerevan,11,1093499,40.1811111,44.5136111
+am,yerindzhatap,Yerindzhatap,01,,40.4530556,44.4641667
+am,yerinjatap,Yerinjatap,01,,40.4530556,44.4641667
+am,yeritsatumb,Yeritsatumb,08,,39.3977778,46.3297222
+am,yerits'vanik,Yerits'vanik,08,,39.2616667,46.4736111
+am,yerits'vank',Yerits'vank',08,,39.2616667,46.4736111
+am,yerizak,Yerizak,07,,40.9833333,43.65
+am,yerndzhatap,Yerndzhatap,01,,40.4530556,44.4641667
+am,yernjatap',Yernjatap',01,,40.4530556,44.4641667
+am,yerord karakilisa,Yerord Karakilisa,07,,40.9313889,44.0691667
+am,yerts'u vank',Yerts'u Vank',08,,39.2616667,46.4736111
+am,yervandashat,Yervandashat,03,,40.1147222,43.6708333
+am,yervandavan,Yervandavan,11,,40.1811111,44.5136111
+am,yesaul,Yesaul,07,,40.8666667,43.8
+am,yeshil,Yeshil,01,,40.3436111,44.0119444
+am,yevgard,Yevgard,05,,40.3216667,44.4813889
+am,yukhari gedaklyu,Yukhari Gedaklyu,08,,39.2333333,46.5
+am,yukhary-kerpilu,Yukhary-Kerpilu,09,,41.2166667,44.9333333
+am,yuva,Yuva,02,,39.9308333,44.5783333
+am,zakhmat,Zakhmat,03,,40.1258333,44.4030556
+am,zakhmet,Zakhmet,03,,40.1258333,44.4030556
+am,zangakatun,Zangakatun,02,1130,39.8094444,45.0511111
+am,zangezur,Zangezur,08,,39.2011111,46.415
+am,zangibasar,Zangibasar,02,,40.0672222,44.4361111
+am,zangilar,Zangilar,02,,40.0925,44.3919444
+am,zarindzha,Zarindzha,01,,40.4666667,43.7833333
+am,zarishat,Zarishat,07,,41.0016667,43.6594444
+am,zaritap,Zaritap,10,1323,39.6372222,45.5086111
+am,zarkend,Zarkend,04,,40.1808333,45.9016667
+am,zarndzha,Zarndzha,01,,40.4666667,43.7833333
+am,zarndzha,Zarndzha,01,,40.4666667,43.7833333
+am,zarrit'ap',Zarrit'ap',10,,39.6372222,45.5086111
+am,zarr,Zarr,05,,40.2611111,44.7361111
+am,zart'onk',Zart'onk',03,,40.1091667,44.1605556
+am,zar,Zar,05,1340,40.2611111,44.7361111
+am,zarzibil,Zarzibil,04,,40.1808333,45.9016667
+am,zedea,Zedea,10,,39.6819444,45.3916667
+am,zeita,Zeita,10,,39.6819444,45.3916667
+am,zeyta,Zeyta,10,,39.6819444,45.3916667
+am,zeytun,Zeytun,11,,40.2036111,44.5430556
+am,zeyva,Zeyva,03,,40.1297222,44.2244444
+am,zeyva,Zeyva,08,,39.3180556,46.4952778
+am,zhani kabakhlu,Zhani Kabakhlu,10,,39.8672222,45.4719444
+am,zhdanov,Zhdanov,03,1512,40.1616667,44.0883333
+am,zhdanov,Zhdanov,06,,40.8425,44.4375
+am,zhirmanis,Zhirmanis,02,,39.9561111,45.0533333
+am,zod,Zod,04,,40.2030556,45.8647222
+am,zograblu,Zograblu,02,,40.0286111,44.5586111
+am,zolak'ar,Zolak'ar,04,,40.125,45.375
+am,zolakhach,Zolakhach,04,,40.125,45.375
+am,zorakert,Zorakert,07,,41.0927778,43.6597222
+am,zorak,Zorak,02,1390,40.0925,44.3919444
+am,zoravan,Zoravan,05,1167,40.3569444,44.5230556
+am,zorba,Zorba,01,,40.4,43.7166667
+am,zovaber,Zovaber,04,1470,40.5736111,44.7863889
+am,zovaber,Zovaber,08,,39.4333333,46.2333333
+am,zovasar,Zovasar,01,,40.4744444,43.95
+am,zovashen,Zovashen,02,,39.8166667,45.0
+am,zovashen,Zovashen,05,,40.3116667,44.7488889
+am,zovk',Zovk',05,,40.2061111,44.6936111
+am,zovuni,Zovuni,01,4484,40.5108333,44.4288889
+am,zuygaghbyur,Zuygaghbyur,07,,41.0211111,43.9036111
+am,zuygaghpyur,Zuygaghpyur,07,,41.0211111,43.9036111
+am,zuygakhpyur,Zuygakhpyur,07,,41.0211111,43.9036111

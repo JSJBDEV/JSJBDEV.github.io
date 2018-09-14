@@ -1,0 +1,334 @@
+bn,abang,Abang,00,,4.7,114.6833333
+bn,bandar seri begawan,Bandar Seri Begawan,00,,4.8833333,114.9333333
+bn,bandong,Bandong,00,,4.8833333,114.7666667
+bn,bangar,Bangar,00,,4.7166667,115.0666667
+bn,bang pangan,Bang Pangan,00,,4.65,114.6333333
+bn,bang tangur,Bang Tangur,00,,4.6166667,114.6
+bn,batu apoi,Batu Apoi,00,,4.7,115.1
+bn,belait,Belait,00,,4.45,114.3166667
+bn,benutan,Benutan,00,,4.6,114.7166667
+bn,biang,Biang,00,,4.65,115.1
+bn,binchaya,Binchaya,00,,4.7333333,114.5666667
+bn,bintauran,Bintauran,00,,4.8666667,114.7166667
+bn,brooketon,Brooketon,00,,5.0333333,115.0666667
+bn,brunei,Brunei,00,,4.8833333,114.9333333
+bn,brunei town,Brunei Town,00,,4.8833333,114.9333333
+bn,bruni,Bruni,00,,4.8833333,114.9333333
+bn,buang tawar,Buang Tawar,00,,4.8833333,114.9666667
+bn,bukit puan,Bukit Puan,00,,4.5333333,114.45
+bn,butir,Butir,00,,4.85,114.95
+bn,danau,Danau,00,,4.7666667,114.5833333
+bn,istana darul hana,Istana Darul Hana,00,,4.8833333,114.9166667
+bn,jerudong,Jerudong,00,,4.95,114.85
+bn,kampong abang,Kampong Abang,00,,4.6833333,114.7166667
+bn,kampong amo,Kampong Amo,00,,4.6166667,115.1
+bn,kampong ampar,Kampong Ampar,00,,4.7833333,114.8166667
+bn,kampong ampat setengah,Kampong Ampat Setengah,00,,4.95,114.95
+bn,kampong anching,Kampong Anching,00,,4.9666667,114.9666667
+bn,kampong baharu,Kampong Baharu,00,,4.8,114.8
+bn,kampong bakaladong,Kampong Bakaladong,00,,4.6833333,114.6666667
+bn,kampong bandong,Kampong Bandong,00,,4.8833333,114.7666667
+bn,kampong bangana,Kampong Bangana,00,,4.65,114.7166667
+bn,kampong bang pangan,Kampong Bang Pangan,00,,4.65,114.6333333
+bn,kampong bang tagor,Kampong Bang Tagor,00,,4.6166667,114.6
+bn,kampong bang togor,Kampong Bang Togor,00,,4.6166667,114.6166667
+bn,kampong bantun,Kampong Bantun,00,,4.8833333,114.8666667
+bn,kampong baru baru,Kampong Baru Baru,00,,4.6666667,115.1
+bn,kampong batang duri,Kampong Batang Duri,00,,4.5666667,115.1333333
+bn,kampong batong,Kampong Batong,00,,4.8166667,114.8166667
+bn,kampong batu empat,Kampong Batu Empat,00,,4.7833333,114.8166667
+bn,kampong batu lapan,Kampong Batu Lapan,00,,4.8833333,114.85
+bn,kampong batu marang,Kampong Batu Marang,00,,4.9833333,115.0333333
+bn,kampong bawong,Kampong Bawong,00,,4.8333333,114.9666667
+bn,kampong bebatek,Kampong Bebatek,00,,4.85,114.8333333
+bn,kampong bebatok,Kampong Bebatok,00,,4.85,114.8333333
+bn,kampong belaban,Kampong Belaban,00,,4.6666667,115.0833333
+bn,kampong belayong,Kampong Belayong,00,,4.6333333,115.05
+bn,kampong belima,Kampong Belima,00,,4.95,114.95
+bn,kampong benuta,Kampong Benuta,00,,4.6,114.7166667
+bn,kampong benutan,Kampong Benutan,00,,4.6,114.7166667
+bn,kampong berakas,Kampong Berakas,00,,4.9333333,114.95
+bn,kampong berangan,Kampong Berangan,00,,4.9,114.95
+bn,kampong berbunot,Kampong Berbunot,00,,4.8833333,115.0333333
+bn,kampong berdang,Kampong Berdang,00,,4.9,114.9833333
+bn,kampong beribi,Kampong Beribi,00,,4.8833333,114.8833333
+bn,kampong biang,Kampong Biang,00,,4.65,115.1
+bn,kampong bibit,Kampong Bibit,00,,4.8833333,114.9
+bn,kampong binchaya,Kampong Binchaya,00,,4.7333333,114.5666667
+bn,kampong bintauran,Kampong Bintauran,00,,4.8666667,114.7166667
+bn,kampong birau,Kampong Birau,00,,4.7833333,114.7333333
+bn,kampong buangang,Kampong Buangang,00,,4.6166667,114.6833333
+bn,kampong buang bulan,Kampong Buang Bulan,00,,4.6833333,115.0833333
+bn,kampong buangsakar,Kampong Buangsakar,00,,4.85,114.95
+bn,kampong buang tawar,Kampong Buang Tawar,00,,4.8833333,114.9666667
+bn,kampong bukit bang tangur,Kampong Bukit Bang Tangur,00,,4.6166667,114.6
+bn,kampong bukit,Kampong Bukit,00,,4.6333333,114.65
+bn,kampong bukit kota,Kampong Bukit Kota,00,,4.7,114.7166667
+bn,kampong bukit panggal,Kampong Bukit Panggal,00,,4.8333333,114.7333333
+bn,kampong bukit sulang,Kampong Bukit Sulang,00,,4.65,114.7333333
+bn,kampong bukit tambai,Kampong Bukit Tambai,00,,4.7666667,114.7333333
+bn,kampong bukok,Kampong Bukok,00,,4.65,115.05
+bn,kampong bunot,Kampong Bunot,00,,4.85,114.8833333
+bn,kampong bupangang,Kampong Bupangang,00,,4.65,114.6333333
+bn,kampong bupungan,Kampong Bupungan,00,,4.65,114.6333333
+bn,kampong burong pingai berakas,Kampong Burong Pingai Berakas,00,,4.9333333,114.9166667
+bn,kampong burong pingai,Kampong Burong Pingai,00,,4.65,114.6333333
+bn,kampong damuan,Kampong Damuan,00,,4.8666667,114.8
+bn,kampong danau,Kampong Danau,00,,4.7666667,114.5833333
+bn,kampong delima,Kampong Delima,00,,4.95,114.95
+bn,kampong empat setengah,Kampong Empat Setengah,00,,4.95,114.95
+bn,kampong gadong,Kampong Gadong,00,,4.9166667,114.9166667
+bn,kampong ikas,Kampong Ikas,00,,4.8666667,114.8
+bn,kampong imang,Kampong Imang,00,,4.8,114.8
+bn,kampong jangsak,Kampong Jangsak,00,,4.8833333,114.8666667
+bn,kampong jerudong,Kampong Jerudong,00,,4.95,114.85
+bn,kampong jerundong,Kampong Jerundong,00,,4.95,114.85
+bn,kampong junjongan,Kampong Junjongan,00,,4.8,114.85
+bn,kampong kalamasi,Kampong Kalamasi,00,,4.8333333,114.95
+bn,kampong kandang,Kampong Kandang,00,,4.8,114.65
+bn,kampong kapok,Kampong Kapok,00,,5.0333333,115.05
+bn,kampong kasat,Kampong Kasat,00,,4.85,114.95
+bn,kampong katimahar,Kampong Katimahar,00,,4.8666667,114.8
+bn,kampong katok,Kampong Katok,00,,4.9333333,114.8833333
+bn,kampong kayu kapur,Kampong Kayu Kapur,00,,4.7333333,114.6666667
+bn,kampong kebia,Kampong Kebia,00,,4.7666667,114.7333333
+bn,kampong kebun,Kampong Kebun,00,,4.75,114.7333333
+bn,kampong kelalang,Kampong Kelalang,00,,4.7333333,114.6666667
+bn,kampong keluyoh,Kampong Keluyoh,00,,4.6666667,114.5
+bn,kampong kenua,Kampong Kenua,00,,4.6166667,115.05
+bn,kampong kerangan nyatan,Kampong Kerangan Nyatan,00,,4.4166667,114.6
+bn,kampong keriam,Kampong Keriam,00,,4.8166667,114.6833333
+bn,kampong ketimahar,Kampong Ketimahar,00,,4.8666667,114.8
+bn,kampong kiajong,Kampong Kiajong,00,,4.9166667,114.7833333
+bn,kampong kiarong,Kampong Kiarong,00,,4.9,114.9166667
+bn,kampong kiudang,Kampong Kiudang,00,,4.75,114.7333333
+bn,kampong kiulap,Kampong Kiulap,00,,4.9,114.9166667
+bn,kampong kobong,Kampong Kobong,00,,4.6333333,115.0333333
+bn,kampong kopang,Kampong Kopang,00,,4.85,114.7833333
+bn,kampong kota batu,Kampong Kota Batu,00,,4.8833333,114.95
+bn,kampong krulap,Kampong Krulap,00,,4.9,114.9166667
+bn,kampong kuala abang,Kampong Kuala Abang,00,,4.7,114.6833333
+bn,kampong kuala balai,Kampong Kuala Balai,00,,4.45,114.3166667
+bn,kampong kuala tutong,Kampong Kuala Tutong,00,,4.7833333,114.6
+bn,kampong kuala ungar,Kampong Kuala Ungar,00,,4.6166667,114.6666667
+bn,kampong kuidang,Kampong Kuidang,00,,4.75,114.7333333
+bn,kampong kupang,Kampong Kupang,00,,4.85,114.7833333
+bn,kampong kwidong,Kampong Kwidong,00,,4.75,114.7333333
+bn,kampong labi,Kampong Labi,00,,4.3833333,114.4333333
+bn,kampong labut,Kampong Labut,00,,4.75,115.1
+bn,kampong lagu,Kampong Lagu,00,,4.8833333,114.8
+bn,kampong lambak,Kampong Lambak,00,,4.9666667,114.95
+bn,kampong lamunin,Kampong Lamunin,00,,4.6833333,114.7166667
+bn,kampong layong,Kampong Layong,00,,4.6833333,114.6666667
+bn,kampong lepong,Kampong Lepong,00,,4.6,115.05
+bn,kampong lilas,Kampong Lilas,00,,4.7,114.5166667
+bn,kampong limau manis,Kampong Limau Manis,00,,4.75,114.8166667
+bn,kampong limpas,Kampong Limpas,00,,4.8333333,114.9166667
+bn,kampong lopat,Kampong Lopat,00,,4.6833333,115.2
+bn,kampong luagan dudok,Kampong Luagan Dudok,00,,4.8166667,114.7166667
+bn,kampong lubok johar,Kampong Lubok Johar,00,,4.8,114.6166667
+bn,kampong lubok johor,Kampong Lubok Johor,00,,4.8,114.6166667
+bn,kampong lubok,Kampong Lubok,00,,4.7833333,114.6666667
+bn,kampong lubok pulau,Kampong Lubok Pulau,00,,4.7833333,114.6666667
+bn,kampong lubok tanjong maya,Kampong Lubok Tanjong Maya,00,,4.75,114.6666667
+bn,kampong lugu,Kampong Lugu,00,,4.8833333,114.8
+bn,kampong lumapas,Kampong Lumapas,00,,4.85,114.9166667
+bn,kampong luminin,Kampong Luminin,00,,4.6833333,114.7166667
+bn,kampong lupak luas,Kampong Lupak Luas,00,,4.8666667,114.9333333
+bn,kampong madewa,Kampong Madewa,00,,4.85,114.9
+bn,kampong mangkam,Kampong Mangkam,00,,4.7333333,114.75
+bn,kampong mata mata,Kampong Mata Mata,00,,4.9,114.9
+bn,kampong medaras,Kampong Medaras,00,,4.9666667,114.9166667
+bn,kampong mengawang,Kampong Mengawang,00,,4.8833333,114.85
+bn,kampong mentiri,Kampong Mentiri,00,,4.9833333,115.0166667
+bn,kampong menua,Kampong Menua,00,,4.6166667,115.05
+bn,kampong menunggol,Kampong Menunggol,00,,4.8833333,114.9833333
+bn,kampong menunggul,Kampong Menunggul,00,,4.8833333,114.9833333
+bn,kampong meranti,Kampong Meranti,00,,4.75,114.6666667
+bn,kampong mongawang,Kampong Mongawang,00,,4.8833333,114.85
+bn,kampong mulaut,Kampong Mulaut,00,,4.8666667,114.8333333
+bn,kampong mulut,Kampong Mulut,00,,4.8666667,114.8333333
+bn,kampong mungkom,Kampong Mungkom,00,,4.7333333,114.75
+bn,kampong mungunul,Kampong Mungunul,00,,4.9333333,114.8333333
+bn,kampong nangka,Kampong Nangka,00,,4.8833333,114.8333333
+bn,kampong nong kelulau,Kampong Nong Kelulau,00,,4.7333333,114.65
+bn,kampong padanok,Kampong Padanok,00,,4.7166667,114.7166667
+bn,kampong padnunok,Kampong Padnunok,00,,4.7166667,114.7166667
+bn,kampong pagalan,Kampong Pagalan,00,,4.7833333,114.8333333
+bn,kampong paganan,Kampong Paganan,00,,4.55,115.0666667
+bn,kampong pak,Kampong Pak,00,,4.6833333,115.1833333
+bn,kampong palait,Kampong Palait,00,,4.9333333,114.95
+bn,kampong panapa,Kampong Panapa,00,,4.7333333,114.6666667
+bn,kampong panchor dulit,Kampong Panchor Dulit,00,,4.8166667,114.65
+bn,kampong panchor,Kampong Panchor,00,,4.8,114.6666667
+bn,kampong panchor papan,Kampong Panchor Papan,00,,4.8,114.6666667
+bn,kampong panchuran,Kampong Panchuran,00,,4.9666667,115.0166667
+bn,kampong panchur dulit,Kampong Panchur Dulit,00,,4.8166667,114.65
+bn,kampong panchur papan,Kampong Panchur Papan,00,,4.8,114.6666667
+bn,kampong pangkalan mau,Kampong Pangkalan Mau,00,,4.75,114.7333333
+bn,kampong pangkalan parai,Kampong Pangkalan Parai,00,,4.6666667,114.6333333
+bn,kampong pangkalan piasau,Kampong Pangkalan Piasau,00,,4.6833333,114.65
+bn,kampong pangkalan ran,Kampong Pangkalan Ran,00,,4.6666667,114.6333333
+bn,kampong panjang,Kampong Panjang,00,,4.95,114.9
+bn,kampong pantau marai,Kampong Pantau Marai,00,,4.8,114.8
+bn,kampong paring,Kampong Paring,00,,4.95,115.0166667
+bn,kampong parit biang,Kampong Parit Biang,00,,4.6166667,115.1
+bn,kampong parit,Kampong Parit,00,,4.8833333,114.9333333
+bn,kampong pasang,Kampong Pasang,00,,4.9166667,114.9166667
+bn,kampong patong,Kampong Patong,00,,4.8166667,114.9166667
+bn,kampong pegalayan,Kampong Pegalayan,00,,4.7833333,114.8333333
+bn,kampong pelambayan,Kampong Pelambayan,00,,4.8833333,114.9666667
+bn,kampong pelombong,Kampong Pelombong,00,,5.0333333,115.1
+bn,kampong pelumpong,Kampong Pelumpong,00,,5.0333333,115.1
+bn,kampong penabai,Kampong Penabai,00,,4.8,114.6166667
+bn,kampong penanjong,Kampong Penanjong,00,,4.85,114.6833333
+bn,kampong penapar,Kampong Penapar,00,,4.7333333,114.6666667
+bn,kampong penchor dulit,Kampong Penchor Dulit,00,,4.8166667,114.65
+bn,kampong penchor papan,Kampong Penchor Papan,00,,4.8,114.6666667
+bn,kampong pengkalan batu,Kampong Pengkalan Batu,00,,4.7833333,114.8333333
+bn,kampong pengkalan maut,Kampong Pengkalan Maut,00,,4.75,114.7333333
+bn,kampong pengkalan parai,Kampong Pengkalan Parai,00,,4.6666667,114.6333333
+bn,kampong pengkalan piasau,Kampong Pengkalan Piasau,00,,4.6833333,114.65
+bn,kampong pengkalan ran,Kampong Pengkalan Ran,00,,4.6666667,114.6333333
+bn,kampong peninjau,Kampong Peninjau,00,,4.9333333,114.8333333
+bn,kampong penonok,Kampong Penonok,00,,4.7166667,114.7166667
+bn,kampong penulud,Kampong Penulud,00,,4.75,114.6666667
+bn,kampong penyatang,Kampong Penyatang,00,,4.75,114.5833333
+bn,kampong pepara,Kampong Pepara,00,,4.8,114.8166667
+bn,kampong pepatan,Kampong Pepatan,00,,4.9,115.0333333
+bn,kampong peradayan,Kampong Peradayan,00,,4.7333333,115.0833333
+bn,kampong perumpang,Kampong Perumpang,00,,4.6833333,114.4833333
+bn,kampong perumpong,Kampong Perumpong,00,,4.6833333,114.4833333
+bn,kampong perupok,Kampong Perupok,00,,4.75,114.6166667
+bn,kampong potong,Kampong Potong,00,,4.8333333,114.7833333
+bn,kampong pudak,Kampong Pudak,00,,4.9,114.9833333
+bn,kampong pugat,Kampong Pugat,00,,4.8,114.8166667
+bn,kampong pulaie,Kampong Pulaie,00,,4.9333333,114.95
+bn,kampong pulai,Kampong Pulai,00,,4.9333333,114.95
+bn,kampong pulau muda,Kampong Pulau Muda,00,,4.9333333,114.9166667
+bn,kampong purau purau,Kampong Purau Purau,00,,4.3666667,114.6
+bn,kampong putat,Kampong Putat,00,,4.8333333,114.9833333
+bn,kampong rambai,Kampong Rambai,00,,4.6333333,114.65
+bn,kampong rambal,Kampong Rambal,00,,4.6333333,114.65
+bn,kampong rampaya,Kampong Rampaya,00,,4.6333333,114.65
+bn,kampong ranggu,Kampong Ranggu,00,,4.8666667,114.9166667
+bn,kampong rendangan,Kampong Rendangan,00,,4.8333333,114.8333333
+bn,kampong rimba,Kampong Rimba,00,,4.9166667,114.9
+bn,kampong riong,Kampong Riong,00,,4.8166667,114.6833333
+bn,kampong sabun,Kampong Sabun,00,,5.0333333,115.0666667
+bn,kampong salam bigar,Kampong Salam Bigar,00,,4.9833333,114.9833333
+bn,kampong salapit,Kampong Salapit,00,,4.8666667,114.8166667
+bn,kampong sangkarai,Kampong Sangkarai,00,,4.8,114.65
+bn,kampong sawah,Kampong Sawah,00,,4.5166667,114.55
+bn,kampong selangan,Kampong Selangan,00,,4.9166667,114.8333333
+bn,kampong selayan,Kampong Selayan,00,,4.9,114.85
+bn,kampong selayun,Kampong Selayun,00,,4.9,114.85
+bn,kampong semabat,Kampong Semabat,00,,4.5666667,115.0666667
+bn,kampong sengkarai,Kampong Sengkarai,00,,4.8,114.65
+bn,kampong sengkurong,Kampong Sengkurong,00,,4.8833333,114.8333333
+bn,kampong sentul,Kampong Sentul,00,,4.7833333,114.7333333
+bn,kampong serasa,Kampong Serasa,00,,5.0166667,115.05
+bn,kampong serdang,Kampong Serdang,00,,4.9,114.9833333
+bn,kampong serusup,Kampong Serusup,00,,4.95,114.9333333
+bn,kampong sibakit,Kampong Sibakit,00,,4.7333333,114.6666667
+bn,kampong sibut,Kampong Sibut,00,,4.6166667,115.1
+bn,kampong silirubai,Kampong Silirubai,00,,4.8333333,114.8666667
+bn,kampong sinarubai,Kampong Sinarubai,00,,4.8333333,114.8666667
+bn,kampong sinaut,Kampong Sinaut,00,,4.8166667,114.75
+bn,kampong sinonuk,Kampong Sinonuk,00,,4.6333333,114.6666667
+bn,kampong subok,Kampong Subok,00,,4.8833333,114.95
+bn,kampong subun,Kampong Subun,00,,5.0333333,115.0666667
+bn,kampong sumbiling,Kampong Sumbiling,00,,4.5833333,115.1166667
+bn,kampong sungai asam,Kampong Sungai Asam,00,,4.8833333,114.9333333
+bn,kampong sungai besar,Kampong Sungai Besar,00,,4.9333333,115.0166667
+bn,kampong sungai bubus,Kampong Sungai Bubus,00,,5.0166667,115.1
+bn,kampong sungai burong,Kampong Sungai Burong,00,,4.7166667,114.7166667
+bn,kampong sungai hanching,Kampong Sungai Hanching,00,,4.9666667,114.9666667
+bn,kampong sungai kelugus,Kampong Sungai Kelugus,00,,4.8333333,114.9166667
+bn,kampong sungai lampai,Kampong Sungai Lampai,00,,4.8833333,114.95
+bn,kampong sungai liang,Kampong Sungai Liang,00,,4.6833333,114.5
+bn,kampong sungai liang kechil,Kampong Sungai Liang Kechil,00,,4.6666667,114.4833333
+bn,kampong sungai salam begar,Kampong Sungai Salam Begar,00,,4.9833333,114.9833333
+bn,kampong supodian,Kampong Supodian,00,,4.6833333,114.5
+bn,kampong tanah burok,Kampong Tanah Burok,00,,4.8333333,114.6666667
+bn,kampong tanjong berapan,Kampong Tanjong Berapan,00,,4.8166667,114.6666667
+bn,kampong tanjong durian,Kampong Tanjong Durian,00,,4.8166667,114.75
+bn,kampong tanjong,Kampong Tanjong,00,,4.8833333,114.8333333
+bn,kampong tanjong maya,Kampong Tanjong Maya,00,,4.75,114.6666667
+bn,kampong tanjong menugan,Kampong Tanjong Menugan,00,,4.8333333,114.7166667
+bn,kampong tanjong menungan,Kampong Tanjong Menungan,00,,4.8333333,114.7166667
+bn,kampong tanjong nangka,Kampong Tanjong Nangka,00,,4.8833333,114.8166667
+bn,kampong tanjong santul,Kampong Tanjong Santul,00,,4.6833333,114.6666667
+bn,kampong telaga baka,Kampong Telaga Baka,00,,4.8166667,114.6833333
+bn,kampong telaga beka,Kampong Telaga Beka,00,,4.8166667,114.6833333
+bn,kampong telamba,Kampong Telamba,00,,4.7333333,114.5666667
+bn,kampong telisai,Kampong Telisai,00,,4.7333333,114.5666667
+bn,kampong terap bau,Kampong Terap Bau,00,,4.8666667,114.9333333
+bn,kampong timahu,Kampong Timahu,00,,4.8666667,114.8166667
+bn,kampong timbunan,Kampong Timbunan,00,,4.95,114.9666667
+bn,kampong tulang,Kampong Tulang,00,,4.8833333,114.8333333
+bn,kampong tunah jambu,Kampong Tunah Jambu,00,,4.9833333,114.9833333
+bn,kampong tunggulian,Kampong Tunggulian,00,,4.6833333,114.5
+bn,kampong ugar,Kampong Ugar,00,,4.7666667,114.5833333
+bn,kampong ukong,Kampong Ukong,00,,4.6666667,114.6333333
+bn,kampong wasan,Kampong Wasan,00,,4.7666667,114.7833333
+bn,karangan nyatan,Karangan Nyatan,00,,4.4166667,114.6
+bn,karangen nyatan,Karangen Nyatan,00,,4.4166667,114.6
+bn,karengen nyatan,Karengen Nyatan,00,,4.4166667,114.6
+bn,kayukapur,Kayukapur,00,,4.7333333,114.6666667
+bn,kebia,Kebia,00,,4.7666667,114.7333333
+bn,ketimahar,Ketimahar,00,,4.8666667,114.8
+bn,kiajong,Kiajong,00,,4.9166667,114.7833333
+bn,krangan nyata,Krangan Nyata,00,,4.4166667,114.6
+bn,kuala balai,Kuala Balai,00,,4.45,114.3166667
+bn,kuala belait,Kuala Belait,00,,4.5833333,114.1833333
+bn,kubong,Kubong,00,,4.6333333,115.0333333
+bn,kupang,Kupang,00,,4.85,114.7833333
+bn,kwala balai,Kwala Balai,00,,4.45,114.3166667
+bn,kwala belait,Kwala Belait,00,,4.5833333,114.1833333
+bn,labi,Labi,00,,4.3833333,114.4333333
+bn,lambak,Lambak,00,,4.9666667,114.95
+bn,lilas,Lilas,00,,4.7,114.5166667
+bn,lombak pulau,Lombak Pulau,00,,4.7833333,114.6666667
+bn,lombok,Lombok,00,,4.7833333,114.6666667
+bn,luagan dudok,Luagan Dudok,00,,4.8166667,114.7166667
+bn,lubok tanjong maya,Lubok Tanjong Maya,00,,4.75,114.6666667
+bn,lugu,Lugu,00,,4.8833333,114.8
+bn,maura,Maura,00,,5.0333333,115.0666667
+bn,melilas,Melilas,00,,4.2333333,114.6666667
+bn,muara,Muara,00,,5.0333333,115.0666667
+bn,nong kelulau,Nong Kelulau,00,,4.7333333,114.65
+bn,panaga,Panaga,00,,4.6,114.2833333
+bn,panapar,Panapar,00,,4.7333333,114.6666667
+bn,pangkalan siong,Pangkalan Siong,00,,4.4833333,114.55
+bn,pelumpong,Pelumpong,00,,5.0333333,115.1
+bn,penanjong,Penanjong,00,,4.85,114.6833333
+bn,pengkalan maut,Pengkalan Maut,00,,4.75,114.7333333
+bn,pengkalan piasau,Pengkalan Piasau,00,,4.6833333,114.65
+bn,pengkalan siong,Pengkalan Siong,00,,4.4833333,114.55
+bn,penulud,Penulud,00,,4.75,114.6666667
+bn,perumpong,Perumpong,00,,4.6833333,114.4833333
+bn,purau purau,Purau Purau,00,,4.3833333,114.6166667
+bn,rambai,Rambai,00,,4.6333333,114.65
+bn,rampayoh,Rampayoh,00,,4.3833333,114.45
+bn,rasau,Rasau,00,,4.55,114.2166667
+bn,rimba,Rimba,00,,4.9166667,114.9
+bn,rumah bawang grang,Rumah Bawang Grang,00,,4.2166667,114.6833333
+bn,rumah samawa,Rumah Samawa,00,,4.2333333,114.6666667
+bn,rumah supon,Rumah Supon,00,,4.4833333,114.7833333
+bn,salayan,Salayan,00,,4.9,114.85
+bn,sangkurong,Sangkurong,00,,4.8833333,114.8333333
+bn,sarasap,Sarasap,00,,5.0166667,115.05
+bn,sengkurong,Sengkurong,00,,4.8833333,114.8333333
+bn,serasa,Serasa,00,,5.0166667,115.05
+bn,seria,Seria,00,,4.6166667,114.3166667
+bn,subok,Subok,00,,4.8833333,114.95
+bn,sukang hilir,Sukang Hilir,00,,4.4,114.6
+bn,sukang,Sukang,00,,4.3166667,114.6166667
+bn,tangki ayer,Tangki Ayer,00,,4.9166667,114.9333333
+bn,temada,Temada,00,,4.55,115.0666667
+bn,temburong,Temburong,00,,4.7166667,115.0666667
+bn,tempuan ugar,Tempuan Ugar,00,,4.7666667,114.5833333
+bn,tempuan ugas,Tempuan Ugas,00,,4.7666667,114.5833333
+bn,tutong,Tutong,00,,4.8,114.65
+bn,ukong,Ukong,00,,4.6666667,114.6333333

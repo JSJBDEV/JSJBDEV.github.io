@@ -1,0 +1,183 @@
+ag,aberdeen,Aberdeen,04,,17.0666667,-61.8166667
+ag,aberdeen village,Aberdeen Village,04,,17.0666667,-61.8166667
+ag,all saints,All Saints,06,2526,17.05,-61.8
+ag,all saints village,All Saints Village,06,,17.05,-61.8
+ag,barnes hill,Barnes Hill,03,,17.15,-61.8
+ag,barnes hill village,Barnes Hill Village,03,,17.15,-61.8
+ag,bats cave,Bats Cave,06,,17.0166667,-61.75
+ag,belmont,Belmont,04,,17.1,-61.8166667
+ag,bendals,Bendals,04,,17.0666667,-61.8333333
+ag,bendals village,Bendals Village,04,,17.0666667,-61.8333333
+ag,bethesda,Bethesda,06,,17.05,-61.75
+ag,bethesda village,Bethesda Village,06,,17.05,-61.75
+ag,betty's hope,Betty's Hope,07,,17.0666667,-61.7333333
+ag,big duers,Big Duers,07,,17.0666667,-61.7666667
+ag,bishops,Bishops,05,,17.0333333,-61.8166667
+ag,blakes,Blakes,06,,17.05,-61.7333333
+ag,blubber valley,Blubber Valley,05,,17.0666667,-61.8666667
+ag,bolands,Bolands,05,,17.0333333,-61.8833333
+ag,boland village,Boland Village,05,,17.0333333,-61.8833333
+ag,bolans,Bolans,05,,17.0333333,-61.8833333
+ag,boon house,Boon House,04,,17.1666667,-61.8333333
+ag,branns hamlet,Branns Hamlet,04,,17.1166667,-61.8333333
+ag,buckleys,Buckleys,04,,17.0666667,-61.8166667
+ag,burkes,Burkes,06,,17.05,-61.7666667
+ag,cades bay,Cades Bay,05,,17.0166667,-61.85
+ag,carlisle,Carlisle,03,831,17.1333333,-61.8
+ag,carlisle,Carlisle,05,,17.0166667,-61.8333333
+ag,carlisle's estate,Carlisle's Estate,05,,17.0166667,-61.8333333
+ag,cassada gardens,Cassada Gardens,03,,17.1166667,-61.8
+ag,cedar grove,Cedar Grove,04,,17.1666667,-61.8166667
+ag,cedar grove village,Cedar Grove Village,04,,17.1666667,-61.8166667
+ag,cedar hall,Cedar Hall,05,,17.0666667,-61.8666667
+ag,cedar valley mill,Cedar Valley Mill,03,,17.1333333,-61.8
+ag,christian hill,Christian Hill,06,,17.0333333,-61.75
+ag,clare hall,Clare Hall,04,,17.1166667,-61.8166667
+ag,claremont,Claremont,05,,17.0166667,-61.8166667
+ag,clarence house,Clarence House,06,,17.0,-61.7666667
+ag,cobbs cross,Cobbs Cross,06,,17.0166667,-61.7666667
+ag,cochranes,Cochranes,07,,17.0666667,-61.7666667
+ag,cocoa hall,Cocoa Hall,07,,17.1,-61.7333333
+ag,coconut hall,Coconut Hall,07,,17.1,-61.7333333
+ag,codrington,Codrington,01,682,17.6333333,-61.8333333
+ag,codrington village,Codrington Village,01,,17.6333333,-61.8333333
+ag,collins,Collins,08,,17.0833333,-61.7333333
+ag,comfort hall,Comfort Hall,08,,17.0833333,-61.7
+ag,crab hill,Crab Hill,05,,17.0333333,-61.8833333
+ag,crab hill village,Crab Hill Village,05,,17.0333333,-61.8833333
+ag,creekside,Creekside,04,,17.1,-61.8333333
+ag,crosbies,Crosbies,04,,17.1666667,-61.8166667
+ag,delaps,Delaps,06,,17.05,-61.7333333
+ag,doigs,Doigs,06,,17.0166667,-61.8
+ag,dulcina,Dulcina,01,,17.5833333,-61.8166667
+ag,ebenezer,Ebenezer,05,,17.0833333,-61.8666667
+ag,emanuel,Emanuel,04,,17.0666667,-61.8333333
+ag,english harbour town,English Harbour Town,06,,17.0166667,-61.7666667
+ag,falmouth,Falmouth,06,,17.0166667,-61.7833333
+ag,far hill village,Far Hill Village,08,,17.05,-61.7
+ag,ffryes,Ffryes,06,,17.05,-61.7333333
+ag,fitches creek,Fitches Creek,03,,17.1166667,-61.7833333
+ag,fitzroy town,Fitzroy Town,04,,17.1166667,-61.85
+ag,five islands village,Five Islands Village,04,,17.1166667,-61.8833333
+ag,freeman,Freeman,07,,17.05,-61.7833333
+ag,freemans,Freemans,07,,17.05,-61.7833333
+ag,freemanville,Freemanville,07,,17.05,-61.7833333
+ag,freemonville,Freemonville,07,,17.05,-61.7833333
+ag,freetown,Freetown,08,623,17.05,-61.7
+ag,freetown village,Freetown Village,08,,17.05,-61.7
+ag,frryes,Frryes,06,,17.05,-61.7333333
+ag,gambles,Gambles,04,,17.1166667,-61.8333333
+ag,gaynors,Gaynors,08,,17.0666667,-61.7
+ag,gilberts,Gilberts,08,,17.0833333,-61.7333333
+ag,glanvilles,Glanvilles,08,,17.0833333,-61.7166667
+ag,glebe,Glebe,05,,17.0333333,-61.8666667
+ag,golden grove,Golden Grove,04,,17.1,-61.8333333
+ag,grants,Grants,08,,17.0833333,-61.7166667
+ag,gray house,Gray House,04,,17.1,-61.85
+ag,gray house village,Gray House Village,04,,17.1,-61.85
+ag,grays,Grays,04,,17.1,-61.85
+ag,grays,Grays,08,,17.0833333,-61.7
+ag,grays hill,Grays Hill,04,,17.1,-61.85
+ag,green bay,Green Bay,04,,17.1166667,-61.85
+ag,gunthorpes,Gunthorpes,03,,17.1166667,-61.8
+ag,hamiltons,Hamiltons,04,,17.05,-61.8333333
+ag,hamiltons village,Hamiltons Village,04,,17.05,-61.8333333
+ag,harveys,Harveys,05,,17.0333333,-61.8666667
+ag,herberts,Herberts,04,,17.0833333,-61.8
+ag,jennings,Jennings,05,,17.0833333,-61.8666667
+ag,jennings village,Jennings Village,05,,17.0833333,-61.8666667
+ag,john hughes,John Hughes,05,,17.05,-61.8166667
+ag,johnson point,Johnson Point,05,,17.0333333,-61.8833333
+ag,johnson point village,Johnson Point Village,05,,17.0333333,-61.8833333
+ag,johnsons point,Johnsons Point,05,,17.0333333,-61.8833333
+ag,lavingtons,Lavingtons,06,,17.05,-61.7333333
+ag,liberta,Liberta,06,1668,17.0333333,-61.7833333
+ag,liberta village,Liberta Village,06,,17.0333333,-61.7833333
+ag,little duer,Little Duer,07,,17.0666667,-61.75
+ag,little duers,Little Duers,07,,17.0666667,-61.75
+ag,long lane,Long Lane,07,,17.0666667,-61.7333333
+ag,lower lyons,Lower Lyons,06,,17.05,-61.7333333
+ag,lyon,Lyon,06,,17.05,-61.7333333
+ag,lyons,Lyons,06,,17.05,-61.7333333
+ag,mathew,Mathew,06,,17.0666667,-61.8
+ag,matthews,Matthews,06,,17.0666667,-61.8
+ag,mayers,Mayers,08,,17.0833333,-61.7
+ag,mercers creek,Mercers Creek,08,,17.0833333,-61.7333333
+ag,mill reef club,Mill Reef Club,08,,17.0333333,-61.6833333
+ag,montpelier,Montpelier,08,,17.05,-61.7166667
+ag,morris loobys,Morris Loobys,06,,17.0333333,-61.75
+ag,mount william,Mount William,06,,17.0333333,-61.8
+ag,mount williem,Mount Williem,06,,17.0333333,-61.8
+ag,new division,New Division,05,,17.0833333,-61.8666667
+ag,newfield,Newfield,08,,17.0333333,-61.7333333
+ag,newfield village,Newfield Village,08,,17.0333333,-61.7333333
+ag,new winthorpes,New Winthorpes,03,,17.15,-61.8
+ag,old road,Old Road,05,623,17.0166667,-61.8333333
+ag,old road town,Old Road Town,05,,17.0166667,-61.8333333
+ag,old road village,Old Road Village,05,,17.0166667,-61.8333333
+ag,orange valley mill,Orange Valley Mill,05,,17.0333333,-61.8666667
+ag,osbourn,Osbourn,03,,17.1333333,-61.8
+ag,painter village,Painter Village,03,,17.1166667,-61.8
+ag,pares,Pares,07,,17.0833333,-61.75
+ag,pares village,Pares Village,07,,17.0833333,-61.75
+ag,parham,Parham,07,969,17.0833333,-61.7666667
+ag,parrys,Parrys,07,,17.0666667,-61.7666667
+ag,pattersons dwelling house,Pattersons Dwelling House,06,,17.0333333,-61.7833333
+ag,pattersons,Pattersons,06,,17.0166667,-61.7833333
+ag,paynter,Paynter,03,,17.1166667,-61.8
+ag,paynters,Paynters,03,,17.1166667,-61.8
+ag,piggotts,Piggotts,03,,17.1166667,-61.8
+ag,pigots village,Pigots Village,03,,17.1333333,-61.8
+ag,pigotts,Pigotts,03,,17.1333333,-61.8
+ag,potters,Potters,04,,17.0833333,-61.8166667
+ag,potters village,Potters Village,04,,17.0833333,-61.8166667
+ag,renfrew,Renfrew,04,,17.0833333,-61.8
+ag,rotten town,Rotten Town,06,,17.0166667,-61.7666667
+ag,saint john,Saint John,04,,17.1166667,-61.85
+ag,saint john's,Saint John's,04,,17.1166667,-61.85
+ag,saint johnstone village,Saint Johnstone Village,04,,17.1166667,-61.8333333
+ag,saint johnston,Saint Johnston,04,,17.1166667,-61.8333333
+ag,saint johnston village,Saint Johnston Village,04,,17.1166667,-61.8333333
+ag,saint lukes,Saint Lukes,04,,17.0666667,-61.8333333
+ag,saint lukes village,Saint Lukes Village,04,,17.0666667,-61.8333333
+ag,saint mark's,Saint Mark's,03,,17.1166667,-61.8
+ag,saint marks village,Saint Marks Village,03,,17.1166667,-61.8
+ag,saint philips,Saint Philips,08,,17.05,-61.7166667
+ag,sawcolts,Sawcolts,05,,17.05,-61.8166667
+ag,seaforth,Seaforth,05,,17.1,-61.8666667
+ag,seaforths,Seaforths,05,,17.1,-61.8666667
+ag,seatons,Seatons,08,,17.0833333,-61.7166667
+ag,seatons village,Seatons Village,08,,17.0833333,-61.7166667
+ag,sea view farm,Sea View Farm,04,,17.0833333,-61.8
+ag,seton village,Seton Village,08,,17.0833333,-61.7166667
+ag,sign,Sign,08,,17.0833333,-61.7
+ag,simpson,Simpson,06,,17.05,-61.7333333
+ag,spencers,Spencers,08,,17.0833333,-61.7
+ag,sutherlands development,Sutherlands Development,04,,17.1166667,-61.8166667
+ag,sweets,Sweets,06,,17.05,-61.8
+ag,sweets village,Sweets Village,06,,17.05,-61.8
+ag,swetes,Swetes,06,727,17.05,-61.8
+ag,swetes village,Swetes Village,06,,17.05,-61.8
+ag,table hill gordon,Table Hill Gordon,07,,17.05,-61.7833333
+ag,the brook,The Brook,08,,17.0666667,-61.6833333
+ag,the caves,The Caves,01,,17.6833333,-61.7833333
+ag,the diamond,The Diamond,07,,17.0666667,-61.75
+ag,the garden,The Garden,07,,17.0666667,-61.7333333
+ag,the grove,The Grove,03,,17.1,-61.8
+ag,tomlinson,Tomlinson,03,,17.1166667,-61.8
+ag,urlings,Urlings,05,,17.0333333,-61.8666667
+ag,urlins,Urlins,05,,17.0333333,-61.8666667
+ag,vernons,Vernons,07,,17.1,-61.7666667
+ag,watsons,Watsons,08,,17.05,-61.6833333
+ag,watson,Watson,08,,17.05,-61.6833333
+ag,weatherills,Weatherills,04,,17.1666667,-61.8333333
+ag,wickhams,Wickhams,08,,17.0833333,-61.7
+ag,wickham,Wickham,08,,17.0833333,-61.7
+ag,willikie's,Willikie's,08,,17.0833333,-61.7
+ag,willikies,Willikies,08,,17.0833333,-61.7
+ag,willis freemans,Willis Freemans,06,,17.05,-61.7666667
+ag,willock village,Willock Village,04,,17.1666667,-61.8166667
+ag,willoughby,Willoughby,08,,17.0333333,-61.7166667
+ag,winthorpes village,Winthorpes Village,03,,17.15,-61.8
+ag,woods,Woods,04,,17.1333333,-61.8166667
+ag,yorks,Yorks,05,,17.0833333,-61.8666667

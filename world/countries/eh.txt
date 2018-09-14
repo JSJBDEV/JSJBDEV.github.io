@@ -1,0 +1,78 @@
+eh,aaium,Aaium,00,,27.1536111,-13.2033333
+eh,aaiun,Aaiún,00,,27.1536111,-13.2033333
+eh,aargub,Aargub,00,,23.6166667,-15.8666667
+eh,ad dakhla,Ad Dakhla,00,,23.7,-15.9333333
+eh,ad dchira,Ad Dchira,00,,27.0261111,-13.0519444
+eh,aguenit,Agüenit,00,,22.1833333,-13.1333333
+eh,aiun,Aiun,00,,27.1536111,-13.2033333
+eh,al ayoun,Al Ayoun,00,,27.1536111,-13.2033333
+eh,anzarane,Anzarane,00,,21.6,-16.5
+eh,auserd,Auserd,00,,22.5833333,-14.3
+eh,ausert,Ausert,00,,22.5833333,-14.3
+eh,ausserd,Ausserd,00,,22.5833333,-14.3
+eh,aussert,Aussert,00,,22.5833333,-14.3
+eh,bir anzaraen,Bir Anzaraen,00,,23.8833333,-14.5333333
+eh,bir anzarane,Bir Anzarane,00,,23.8833333,-14.5333333
+eh,bir enzaran,Bir Enzarán,00,,23.8833333,-14.5333333
+eh,bir gandus,Bir Gandús,00,,21.6,-16.5
+eh,bir ganduz,Bir Ganduz,00,,21.6,-16.5
+eh,bir nasaran,Bir Nasaran,00,,23.8833333,-14.5333333
+eh,bir nazaran,Bir Nazaran,00,,23.8833333,-14.5333333
+eh,boujdour,Boujdour,00,,26.1333333,-14.5
+eh,bu craa,Bu Craa,00,,26.2833333,-12.7666667
+eh,cabo bojador,Cabo Bojador,00,,26.1333333,-14.5
+eh,cape blanc,Cape Blanc,00,,26.1333333,-14.5
+eh,dakhlah,Dakhlah,00,,23.7,-15.9333333
+eh,daora,Daora,00,,27.4625,-12.9922222
+eh,dchira,Dchira,00,,27.0261111,-13.0519444
+eh,dora,Dora,00,,27.4625,-12.9922222
+eh,echdeiria,Echdeiria,00,,27.2333333,-10.45
+eh,echediria,Echediria,00,,27.2333333,-10.45
+eh,edchedereia,Edchedereia,00,,27.2333333,-10.45
+eh,edchera,Edchera,00,,27.0261111,-13.0519444
+eh,ejbei uad el aabd,Ejbei Uad el Aabd,00,,27.1536111,-13.2033333
+eh,el aaiun,El Aaiún,00,,27.1536111,-13.2033333
+eh,el aargub,El Aargub,00,,23.6166667,-15.8666667
+eh,el aium,El Aium,00,,27.1536111,-13.2033333
+eh,el aiun,El Aiún,00,,27.1536111,-13.2033333
+eh,el argub,El Argub,00,,23.6166667,-15.8666667
+eh,esmara,Esmara,00,,26.7333333,-11.6833333
+eh,factoria villa cisneros,Factoria Villa Cisneros,00,,23.7,-15.9333333
+eh,fondeadero del aaiun,Fondeadero del Aaiún,00,,23.6166667,-15.8666667
+eh,guelta zemmur,Guelta Zemmur,00,,25.1491667,-12.3658333
+eh,guelta zemur,Guelta Zemur,00,,25.1491667,-12.3658333
+eh,gueria,Gueria,00,,20.8333333,-17.1
+eh,hasi chor,Hasi Chor,00,,21.3,-13.0166667
+eh,hasi el fauuar,Hasi el Fauuar,00,,22.6833333,-12.7166667
+eh,hasi gueleita,Hasi Gueleita,00,,25.1491667,-12.3658333
+eh,jcheibi el gardeg,Jcheibi el Gardeg,00,,27.2666667,-10.3833333
+eh,khreibichat,Khreïbichat,00,,27.2333333,-11.7833333
+eh,la aguera,La Agüera,00,,20.8333333,-17.1
+eh,la aguerra,La Aguerra,00,,20.8333333,-17.1
+eh,la aquera,La Aquera,00,,20.8333333,-17.1
+eh,laayoune,Laayoune,00,,27.1536111,-13.2033333
+eh,laayoune plage,Laayoune Plage,00,,27.0961111,-13.4158333
+eh,la guera,La Güera,00,,20.8333333,-17.1
+eh,la'youn,La'Youn,00,,27.1536111,-13.2033333
+eh,lemsid,Lemsid,00,,26.55,-13.85
+eh,mahbes,Mahbés,00,,27.1666667,-9.8333333
+eh,metmarfag,Metmárfag,00,,26.4333333,-13.4333333
+eh,oum dreyga,Oum Dreyga,00,,24.1666667,-13.25
+eh,piedra del kaisser,Piedra del Kaisser,00,,27.2333333,-11.7833333
+eh,playa de aaiun,Playa de Aaiún,00,,27.0961111,-13.4158333
+eh,playa del aaiun,Playa del Aaiun,00,,27.0961111,-13.4158333
+eh,samlat el hafad,Samlat el Hafad,00,,27.4333333,-12.4
+eh,semara,Semara,00,,26.7333333,-11.6833333
+eh,smara,Smara,00,,26.7333333,-11.6833333
+eh,smar,Smar,00,,26.7333333,-11.6833333
+eh,sug,Sug,00,,21.6,-14.15
+eh,tichla,Tichla,00,,21.6,-14.9666667
+eh,tifarita,Tifarita,00,,26.15,-10.55
+eh,tifariti,Tifariti,00,,26.15,-10.55
+eh,uad damran,Uad Damran,00,,27.4625,-12.9922222
+eh,uad el bir,Uad el Bir,00,,23.8833333,-14.5333333
+eh,uad guenifa,Uad Guenifa,00,,20.8333333,-17.1
+eh,villa cisneras,Villa Cisneras,00,,23.7,-15.9333333
+eh,villa cisneros,Villa Cisneros,00,,23.7,-15.9333333
+eh,zoug,Zoug,00,,21.6,-14.15
+eh,zug,Zug,00,,21.6,-14.15

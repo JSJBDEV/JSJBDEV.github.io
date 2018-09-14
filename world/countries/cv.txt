@@ -1,0 +1,319 @@
+cv,achada baleia,Achada Baleia,17,,15.05,-23.4833333
+cv,achada grande,Achada Grande,17,,14.9833333,-24.3166667
+cv,achada monte,Achada Monte,17,,15.2333333,-23.65
+cv,achadinha,Achadinha,17,,15.2333333,-23.7166667
+cv,agua das fortes,Água das Fortes,00,,16.9666667,-25.2166667
+cv,agua dos fortes,Água dos Fortes,00,,16.9666667,-25.2166667
+cv,alcatraz,Alcatraz,17,,15.2166667,-23.1166667
+cv,amador,Amador,17,,16.1166667,-22.8333333
+cv,areia branca,Areia Branca,00,,16.9,-24.9666667
+cv,assomada,Assomada,17,7808,15.1,-23.6833333
+cv,assumada,Assumada,17,,15.1,-23.6833333
+cv,atalaia,Atalaia,17,,15.0333333,-24.4
+cv,baboso,Baboso,00,,16.9833333,-25.2
+cv,bafareira,Bafareira,17,,16.1833333,-22.8333333
+cv,bafureira,Bafureira,17,,16.1833333,-22.8333333
+cv,baleia,Baleia,17,,14.85,-24.7
+cv,baluarte,Baluarte,17,,15.0,-24.4
+cv,barbasco,Barbasco,00,,17.1833333,-25.05
+cv,barreiro,Barreiro,17,,15.1333333,-23.1666667
+cv,beirona,Beirona,00,,16.6833333,-22.9333333
+cv,bela vista,Bela Vista,00,,16.8,-22.9666667
+cv,biscainhos,Biscainhos,17,,15.25,-23.7
+cv,boa ventura,Boa Ventura,17,,16.1333333,-22.9
+cv,bofareira,Bofareira,17,,16.1833333,-22.8333333
+cv,bomfim,Bomfim,00,,16.7,-22.9
+cv,bonita,Bonita,00,,17.0833333,-25.3166667
+cv,botija,Botija,00,,17.05,-25.3333333
+cv,buracona,Buracona,00,,16.8,-23.0
+cv,cabecadas,Cabeçadas,17,,16.1166667,-22.9
+cv,cabecalinho,Cabeçalinho,00,,16.6,-24.3166667
+cv,cabeco de tarafes,Cabeço de Tarafes,17,,16.1333333,-22.7333333
+cv,cabeco dos tarafes,Cabeço dos Tarafes,17,,16.1333333,-22.7333333
+cv,cachacinho,Cachacinho,00,,16.6,-24.3166667
+cv,cachaco,Cachaço,00,,17.05,-25.2
+cv,cachaco,Cachaço,17,,14.8333333,-24.7
+cv,cachoca,Cachoca,17,,14.8333333,-24.7
+cv,caculi,Caculi,00,,17.1666667,-25.1
+cv,caleijao,Caleijão,00,,16.6,-24.3166667
+cv,calejao,Calejão,00,,16.6,-24.3166667
+cv,calhau,Calhau,00,,16.85,-24.8666667
+cv,calheta,Calheta,17,,15.1833333,-23.6
+cv,camaroes,Camarões,00,,16.6666667,-24.35
+cv,carrical,Carriçal,00,,16.55,-24.0833333
+cv,carvoeiros,Carvoeiros,00,,16.65,-24.3166667
+cv,casa do cabo submarino,Casa do Cabo Submarino,00,,16.8166667,-25.0666667
+cv,cascabulho,Cascabulho,17,,15.2666667,-23.1833333
+cv,castilhiano,Castilhiano,00,,16.5833333,-24.05
+cv,chacha,Chacha,17,,15.2,-23.6666667
+cv,cha da egreja,Chã da Egreja,00,,17.1666667,-25.1666667
+cv,cha da igreja,Chã da Igreja,00,,17.1666667,-25.1666667
+cv,cha da ribeira,Chã da Ribeira,00,,17.1166667,-25.2666667
+cv,cha de dentro,Chã de Dentro,17,,15.2333333,-23.6833333
+cv,cha de figueiras,Chã de Figueiras,17,,15.1833333,-23.7166667
+cv,cha de igreja,Chã de Igreja,00,,17.1666667,-25.1666667
+cv,cha de morte,Chã de Morte,00,,17.05,-25.2166667
+cv,cha de paulo,Chã de Paulo,00,,17.15,-25.2
+cv,cha de queimada,Chã de Queimada,00,,17.15,-25.2
+cv,cha de queimado,Chã de Queimado,00,,17.0833333,-25.2
+cv,cha de vazinha,Chã de Vazinha,00,,17.15,-25.2
+cv,cha do morto,Chã do Morto,00,,17.05,-25.2166667
+cv,cha do norte,Chã do Norte,00,,17.1166667,-25.2666667
+cv,chao queimado,Chão Queimado,00,,17.0833333,-25.2
+cv,cha queimada,Chã Queimada,00,,17.15,-25.2
+cv,charco,Charco,17,,15.1333333,-23.75
+cv,cha varzinha,Chã Varzinha,00,,17.15,-25.2
+cv,cidade velha,Cidade Velha,17,,14.9166667,-23.6166667
+cv,cirio,Círio,00,,17.0666667,-25.2333333
+cv,corvo,Corvo,00,,17.2,-25.1166667
+cv,corvo,Corvo,17,,15.0,-24.3166667
+cv,cova figueira,Cova Figueira,17,,14.8833333,-24.3
+cv,covoada,Covoada,00,,16.65,-24.35
+cv,cruz do pe do verde,Cruz do Pé do Verde,00,,16.8833333,-24.95
+cv,cruzinha,Cruzinha,00,,17.1666667,-25.1666667
+cv,curral branco,Curral Branco,17,,16.0333333,-22.8
+cv,curral,Curral,00,,17.1666667,-25.1166667
+cv,curral das vacas,Curral das Vacas,00,,17.05,-25.2333333
+cv,curral velho,Curral Velho,17,,15.9833333,-22.8
+cv,dacabalaio,Dacabalaio,17,,14.85,-24.3333333
+cv,dacalabaio,Dacalabaio,17,,14.85,-24.3333333
+cv,derrubado,Derrubado,17,,16.2333333,-22.8
+cv,egreja,Egreja,17,,15.0333333,-24.3333333
+cv,endriano,Endriano,00,,17.1166667,-25.1833333
+cv,ereja,Ereja,17,,15.0333333,-24.3333333
+cv,escabecada de baixo,Escabeçada de Baixo,00,,17.1333333,-25.15
+cv,escabecada,Escabeçada,00,,17.1333333,-25.15
+cv,escada,Escada,00,,16.5833333,-24.3666667
+cv,esgamaleiro,Esgamaleiro,00,,17.1166667,-25.15
+cv,espadana,Espadanã,00,,17.1,-25.1666667
+cv,espingueira,Espingueira,17,,16.2166667,-22.8
+cv,estancia bras,Estância Brás,00,,16.6666667,-24.3166667
+cv,estancia braz,Estancia Braz,00,,16.6666667,-24.3166667
+cv,faja,Fajã,17,,14.8666667,-24.75
+cv,fajansinha,Fajansinha,00,,17.15,-25.1666667
+cv,fajasinha,Fajãsinha,17,,15.05,-24.35
+cv,fajasinhas,Fajasinhas,17,,15.05,-24.35
+cv,fajazinha,Fajãzinha,00,,17.15,-25.1666667
+cv,fajazinha,Fajãzinha,17,,15.05,-24.35
+cv,fanade,Fanade,00,,17.1333333,-25.1666667
+cv,fazenda real,Fazenda Real,00,,16.8666667,-24.95
+cv,feijoal,Feijoal,00,,16.75,-22.9
+cv,figueira da horta,Figueira da Horta,17,,15.15,-23.15
+cv,figueira da naus,Figueira da Naus,17,,15.1833333,-23.7333333
+cv,figueira das naus,Figueira das Naus,17,,15.1833333,-23.7333333
+cv,figueira de coxe,Figueira de Coxe,00,,16.6333333,-24.2166667
+cv,figueira pavao,Figueira Pavão,17,,14.85,-24.3166667
+cv,figueiras de baixo,Figueiras de Baixo,00,,17.15,-25.2166667
+cv,figueiras de cimas,Figueiras de Cimas,00,,17.1333333,-25.2
+cv,figueira seca,Figueira Seca,17,,15.15,-23.15
+cv,fiura,Fiura,00,,16.85,-22.9166667
+cv,fogao,Fogão,17,,16.0833333,-22.85
+cv,fontainhas,Fontainhas,00,,16.5833333,-24.3333333
+cv,fonte aleixo,Fonte Aleixo,17,,14.8333333,-24.3666667
+cv,forno,Forno,17,,14.8833333,-24.45
+cv,fundo das figueiras,Fundo das Figueiras,17,,16.15,-22.7333333
+cv,fundo de figueias,Fundo de Figueias,17,,16.15,-22.7333333
+cv,fundo de figueiras,Fundo de Figueiras,17,,16.15,-22.7333333
+cv,fundura,Fundura,17,,15.1666667,-23.7
+cv,furna,Furna,17,,14.8833333,-24.6833333
+cv,furno,Furno,17,,14.8833333,-24.6833333
+cv,gala,Gala,17,,16.2,-22.7166667
+cv,galinheiro,Galinheiro,17,,15.0,-24.45
+cv,galinheiros,Galinheiros,17,,15.0,-24.45
+cv,garca,Garça,17,,14.8666667,-24.7
+cv,gata,Gata,17,,16.2,-22.7166667
+cv,gouveia,Gouveia,17,,14.9333333,-23.6833333
+cv,igreja,Igreja,17,,15.0333333,-24.3333333
+cv,ilheu,Ilhéu,17,,15.2,-23.6333333
+cv,inhuco,Inhuco,17,,14.9333333,-24.45
+cv,italiano,Italiano,17,,14.9666667,-24.4666667
+cv,janela,Janela,00,,17.1166667,-25.0
+cv,janelas,Janelas,00,,17.1166667,-25.0
+cv,joao barrosa,João Barrosa,17,,16.0166667,-22.75
+cv,joao barroza,João Barroza,17,,16.0166667,-22.75
+cv,joao daninha,João Daninha,00,,16.9666667,-25.2333333
+cv,joao galego,João Galego,17,,16.15,-22.75
+cv,juncalinho,Juncalinho,00,,16.6166667,-24.1333333
+cv,lagarica,Lagariça,17,,14.9166667,-24.4666667
+cv,lagoa atras,Lagoa Atrás,17,,15.0166667,-24.3333333
+cv,lagoa atraz,Lagoa Atraz,17,,15.0166667,-24.3333333
+cv,lagoa,Lagoa,17,,15.1333333,-23.15
+cv,lapa cachorro,Lapa Cachorro,17,,15.2666667,-23.7
+cv,lazareto,Lazareto,00,,16.8666667,-25.0333333
+cv,lazaretto,Lazaretto,00,,16.8666667,-25.0333333
+cv,leiro,Leiro,00,,17.0,-25.2
+cv,logar novo,Logar Novo,17,,14.9333333,-24.4833333
+cv,lombo das dancas,Lombo das Danças,00,,16.9833333,-25.2166667
+cv,lombo da torre,Lombo da Torre,00,,17.0,-25.2166667
+cv,lombo de figueira,Lombo de Figueira,00,,17.1,-25.0666667
+cv,lombo de galinha,Lombo de Galinha,00,,17.1333333,-25.2166667
+cv,lombo do mar,Lombo do Mar,00,,17.1166667,-25.1666667
+cv,lombo galinha,Lombo Galinha,00,,17.1333333,-25.2166667
+cv,lugar novo,Lugar Novo,17,,14.9333333,-24.4833333
+cv,luzia nunes,Luzia Nunes,17,,14.8666667,-24.45
+cv,madeiral,Madeiral,00,,16.8333333,-24.95
+cv,maio,Maio,17,,15.1333333,-23.2166667
+cv,malveira,Malveira,17,,15.1333333,-23.7166667
+cv,mangue de sete ribeiras,Mangue de Sete Ribeiras,17,,15.2333333,-23.65
+cv,mangue,Mangue,17,,15.2333333,-23.65
+cv,mao para tras,Mão para Trás,00,,17.1833333,-25.0666667
+cv,maopara traz,Mãopara Traz,00,,17.1833333,-25.0666667
+cv,martiana,Martiana,00,,17.1,-25.25
+cv,massape,Massapé,17,,15.2333333,-23.7
+cv,mateusinho,Mateusinho,00,,16.85,-24.9333333
+cv,mateuzinho,Mateuzinho,00,,16.85,-24.9333333
+cv,mato correia,Mato Correia,17,,15.2,-23.65
+cv,meio de espanha de figueiras,Meio de Espanha de Figueiras,00,,17.1333333,-25.2
+cv,meio de espanha,Meio de Espanha,00,,17.1333333,-25.2
+cv,miguel pires,Miguel Pires,00,,17.0833333,-25.2333333
+cv,mihdelo,Mihdelo,00,,16.8833333,-25.0
+cv,mindello,Mindello,00,,16.8833333,-25.0
+cv,mindelo,Mindelo,00,69441,16.8833333,-25.0
+cv,mira-mira,Mira-Mira,17,,14.9666667,-24.45
+cv,moerao,Moerão,17,,15.25,-23.7166667
+cv,moia moia,Moia Moia,17,,15.0166667,-23.4666667
+cv,montagarro,Montagarro,17,,14.95,-23.5166667
+cv,montanha,Montanha,17,,15.0833333,-23.6
+cv,montao,Montão,17,,15.25,-23.7166667
+cv,monte joana,Monte Joana,00,,17.1666667,-25.05
+cv,monte vermelho,Monte Vermelho,17,,14.8333333,-24.3333333
+cv,montinho,Montinho,17,,15.2166667,-23.7166667
+cv,morre braz,Morre Braz,00,,16.6333333,-24.2
+cv,morrinho d' egua,Morrinho d' Égua,00,,17.1,-25.2666667
+cv,morrinho,Morrinho,00,,16.9666667,-25.2333333
+cv,morrinho,Morrinho,17,,15.2666667,-23.2333333
+cv,morro alto,Morro Alto,00,,16.6166667,-24.1833333
+cv,morro,Morro,17,,15.1833333,-23.2333333
+cv,nha marco,Nhã Marco,00,,16.7,-22.95
+cv,nhuco,Nhuco,17,,14.9333333,-24.45
+cv,nora,Nora,17,,15.0166667,-23.55
+cv,nossa senhora da luz,Nossa Senhora da Luz,17,,15.1333333,-23.2166667
+cv,nossa senhora do monte,Nossa Senhora do Monte,17,,14.85,-24.7166667
+cv,orgaos,Órgãos,17,,15.0666667,-23.6166667
+cv,ortelao,Ortelão,00,,16.6166667,-24.3666667
+cv,pae amaro,Pae Amaro,17,,16.0333333,-22.7333333
+cv,pai amaro,Pai Amaro,17,,16.0333333,-22.7333333
+cv,pai joana,Pai Joana,17,,15.2666667,-23.1166667
+cv,palha carga,Palha Carga,17,,15.2166667,-23.6666667
+cv,palhal,Palhal,00,,16.6166667,-24.35
+cv,palha verde,Palha Verde,00,,16.6666667,-22.9333333
+cv,palmeira,Palmeira,00,,16.7666667,-22.9833333
+cv,patim,Patim,17,,14.8666667,-24.4333333
+cv,pau,Pau,17,,14.85,-24.7333333
+cv,pedra de lume,Pedra de Lume,00,,16.7666667,-22.9
+cv,pedra lume,Pedra Lume,00,,16.7666667,-22.9
+cv,pedra lum,Pedra Lum,00,,16.7666667,-22.9
+cv,pedrinha,Pedrinha,00,,16.9666667,-25.15
+cv,pedro vaz,Pedro Vaz,17,,15.25,-23.1333333
+cv,penha de franca,Penha de França,00,,17.1833333,-25.0666667
+cv,penteada,Penteada,17,,14.8833333,-24.4666667
+cv,perdia,Perdia,00,,17.1,-25.0333333
+cv,picos,Picos,17,,15.0833333,-23.65
+cv,pinchossa,Pinchossa,17,,15.1666667,-23.6
+cv,pinto,Pinto,00,,17.0833333,-25.1666667
+cv,point adeante,Point Adeante,17,,16.1833333,-22.85
+cv,pombas,Pombas,00,1790,17.15,-25.0166667
+cv,ponta adeante,Ponta Adeante,17,,16.1833333,-22.85
+cv,ponta adiante,Ponta Adiante,17,,16.1833333,-22.85
+cv,ponta da cruz,Ponta da Cruz,00,,16.75,-24.75
+cv,ponta do sol,Ponta do Sol,00,4001,17.2,-25.1
+cv,ponta sao francisco,Ponta São Francisco,17,,14.9833333,-23.5
+cv,portal,Portal,17,,15.25,-23.7166667
+cv,port ingles,Port Ingles,17,,15.1333333,-23.2166667
+cv,porto do rincao,Porto do Rincão,17,,15.05,-23.7833333
+cv,porto dos mosteiros,Porto dos Mosteiros,17,,15.0333333,-24.3333333
+cv,porto gouveia,Porto Gouveia,17,,14.9333333,-23.6833333
+cv,porto inglez,Porto Inglez,17,,15.1333333,-23.2166667
+cv,porto novo,Porto Novo,00,5494,17.0333333,-25.0666667
+cv,porto rincao,Porto Rincão,17,,15.05,-23.7833333
+cv,povoacao velha,Povoação Velha,17,,16.0333333,-22.9166667
+cv,praia abaixo,Praia Abaixo,17,,15.0666667,-23.4833333
+cv,praia baixo,Praia Baixo,17,,15.0666667,-23.4833333
+cv,praia branca,Praia Branca,00,,16.65,-24.4
+cv,praia,Praia,17,111611,14.9166667,-23.5166667
+cv,prainha,Prainha,00,,16.6,-22.9166667
+cv,prazeres,Prazeres,17,,16.0,-22.8166667
+cv,preguica,Preguiça,00,,16.5666667,-24.2833333
+cv,queimada,Queimada,00,,16.6333333,-24.3166667
+cv,queimadas,Queimadas,00,,16.6333333,-24.3166667
+cv,queimado,Queimado,00,,16.9833333,-25.2333333
+cv,rabil,Rabil,17,,16.1333333,-22.8833333
+cv,reguinho,Reguinho,00,,16.85,-22.9333333
+cv,relva,Relva,17,,14.9833333,-24.3166667
+cv,ribeira brava,Ribeira Brava,00,5242,16.6166667,-24.3
+cv,ribeira calhau,Ribeira Calhau,00,,16.6333333,-24.3666667
+cv,ribeira da barca,Ribeira da Barca,17,,15.1333333,-23.7666667
+cv,ribeira da cruz,Ribeira da Cruz,00,,17.1166667,-25.25
+cv,ribeira da prata,Ribeira da Prata,00,,16.65,-24.3666667
+cv,ribeira da prata,Ribeira da Prata,17,,15.2333333,-23.75
+cv,ribeira de barca,Ribeira de Barca,17,,15.1333333,-23.7666667
+cv,ribeira de prata,Ribeira de Prata,17,,15.2333333,-23.75
+cv,ribeira dos calhaus,Ribeira dos Calhaus,00,,16.6333333,-24.3666667
+cv,ribeira fria,Ribeira Fria,00,,17.05,-25.1666667
+cv,ribeira funda,Ribeira Funda,00,,16.6833333,-24.35
+cv,ribeira grande,Ribeira Grande,00,,17.1833333,-25.0666667
+cv,ribeira ilheu,Ribeira Ilhéu,17,,15.0333333,-24.3833333
+cv,ribeirao chiqueiro,Ribeirão Chiqueiro,17,,15.0166667,-23.5333333
+cv,ribeirao sal,Ribeirão Sal,17,,15.2333333,-23.6833333
+cv,ribeira prata,Ribeira Prata,00,,16.65,-24.3666667
+cv,ribeira vermelha,Ribeira Vermelha,00,,17.0833333,-25.2833333
+cv,rui vaz,Rui Vaz,17,,15.0333333,-23.6166667
+cv,sacramento,Sacramento,17,,15.05,-23.5666667
+cv,salamansa,Salamansa,00,,16.9,-24.95
+cv,salamanza,Salamanza,00,,16.9,-24.95
+cv,sal rei,Sal Rei,17,2089,16.1833333,-22.9166667
+cv,sal-rel,Sal-Rel,17,,16.1833333,-22.9166667
+cv,sambango,Sambango,17,,15.05,-24.35
+cv,san iago,San Iago,17,,15.1333333,-23.5333333
+cv,santa barbara,Santa Bárbara,17,,14.8833333,-24.7
+cv,santa cruz,Santa Cruz,17,,15.1333333,-23.5666667
+cv,santa maria,Santa Maria,00,16967,16.6,-22.9
+cv,santiago,Santiago,17,,15.1333333,-23.5333333
+cv,santo antonio,Santo António,17,,15.2666667,-23.1333333
+cv,sao domingos,São Domingos,17,,15.0166667,-23.5666667
+cv,sao filipe,São Filipe,17,8063,14.9,-24.5166667
+cv,sao joao,São João,17,,14.95,-23.6666667
+cv,sao jorge,São Jorge,17,,15.0166667,-24.4333333
+cv,sao martinho,São Martinho,17,,14.9166667,-23.5833333
+cv,sao pedro,São Pedro,00,,16.8166667,-25.0833333
+cv,sao tiago,São Tiago,17,,15.1333333,-23.5333333
+cv,selada do mocho,Selada do Mocho,00,,17.15,-25.1666667
+cv,selada,Selada,00,,17.1,-25.2666667
+cv,seladinha,Seladinha,00,,16.9666667,-25.3166667
+cv,serrado,Serrado,17,,14.9166667,-24.4666667
+cv,sinagoga,Sinagoga,00,,17.1833333,-25.0333333
+cv,sol point,Sol Point,00,,17.2,-25.1
+cv,tabuadinha,Tabuadinha,00,,17.0833333,-25.1666667
+cv,tabuga,Tabuga,00,,17.0166667,-25.2
+cv,tarrafal da vila de ribeira grande,Tarrafal da Vila de Ribeira Grande,00,,17.1833333,-25.0666667
+cv,tarrafal,Tarrafal,00,,16.5666667,-24.3666667
+cv,tarrafal,Tarrafal,17,6366,15.2833333,-23.7666667
+cv,tarvafal,Tarvafal,00,,16.9666667,-25.3166667
+cv,telha,Telha,00,,16.5666667,-24.3666667
+cv,tongom,Tongom,17,,14.9166667,-24.4833333
+cv,tongon,Tongon,17,,14.9166667,-24.4833333
+cv,toril,Toril,17,,15.3,-23.7166667
+cv,torno d'agua,Torno d'Água,00,,16.6166667,-24.3666667
+cv,tras-os-montes,Tras-os-Montes,17,,15.3,-23.7166667
+cv,trindade,Trindade,17,,14.95,-23.5666667
+cv,urgueiro,Urgueiro,00,,17.0833333,-25.2
+cv,urzeleiros,Urzeleiros,00,,17.0833333,-25.2
+cv,urzeleiro,Urzeleiro,00,,17.0833333,-25.2
+cv,vale da custa,Vale da Custa,17,,14.9833333,-23.4833333
+cv,vale da gusta,Vale da Gusta,17,,14.9833333,-23.4833333
+cv,velha,Velha,17,,14.9166667,-23.6166667
+cv,vicente dias,Vicente Dias,17,,14.8833333,-24.4666667
+cv,vila da ribeira brava,Vila da Ribeira Brava,00,,16.6166667,-24.3
+cv,vila de nova cintra,Vila de Nova Cintra,17,,14.8666667,-24.7166667
+cv,vila de nova sintra,Vila de Nova Sintra,17,,14.8666667,-24.7166667
+cv,vila de sao filippe,Vila de São Filippe,17,,14.9,-24.5166667
+cv,vila do maio,Vila do Maio,17,2962,15.1333333,-23.2166667
+cv,vila do porto novo,Vila do Pôrto Novo,00,,17.0333333,-25.0666667
+cv,vila do tarrafal,Vila do Tarrafal,17,,15.2833333,-23.7666667
+cv,vila maria pia,Vila Maria Pia,00,,17.2,-25.1
+cv,vila nova cinteus,Vila Nova Cinteus,17,,14.8666667,-24.7166667
+cv,vila nova sintra,Vila Nova Sintra,17,,14.8666667,-24.7166667
+cv,vila nova,Vila Nova,17,,14.9333333,-23.5166667
+cv,vila sao filipe,Vila São Filipe,17,,14.9,-24.5166667
+cv,vinagre,Vinagre,17,,14.8666667,-24.7
+cv,xa xa,Xá Xá,17,,15.2,-23.6666667

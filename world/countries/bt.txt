@@ -1,0 +1,284 @@
+bt,alla,Alla,22,,27.35,89.9666667
+bt,ama,Ama,22,,27.35,89.9
+bt,atsho chhubar,Atsho Chhubar,13,,27.4833333,89.4
+bt,bachap,Bachap,08,,26.9833333,89.8166667
+bt,balfai,Balfai,12,,27.2166667,91.5
+bt,bali,Bali,18,,27.2166667,90.7166667
+bt,barshong,Barshong,20,,27.7,89.55
+bt,benkar,Benkar,19,,27.3166667,91.5666667
+bt,beteni,Beteni,07,,27.0333333,90.2333333
+bt,bhangbarai,Bhangbarai,09,,27.2666667,90.3
+bt,bhangtar,Bhangtar,17,,26.8166667,91.7166667
+bt,bhurgaon,Bhurgaon,09,,26.9,90.4333333
+bt,bioka,Bioka,18,,26.9,90.9166667
+bt,bitana,Bitana,09,,27.05,90.3
+bt,borshang,Borshang,20,,27.7,89.55
+bt,bumtang,Bumtang,05,,27.55,90.7166667
+bt,bumtang tang,Bumtang Tang,05,,27.6,90.8166667
+bt,bumthang,Bumthang,05,,27.6,90.8166667
+bt,buri chu,Buri Chu,07,,27.0,90.2166667
+bt,byakar dzong,Byakar Dzong,05,,27.55,90.7166667
+bt,byaradingka,Byaradingka,20,,27.7666667,89.45
+bt,chalaika,Chalaika,08,,27.0833333,89.8666667
+bt,chamarchi,Chamarchi,16,,26.9,89.1
+bt,chanchukha dzong,Chanchukha Dzong,09,,27.1333333,90.35
+bt,changchukha dzong,Changchukha Dzong,09,,27.1333333,90.35
+bt,changra,Changra,21,,27.4,90.4666667
+bt,chapcha,Chapcha,06,,27.2,89.55
+bt,chapchha,Chapchha,06,,27.2,89.55
+bt,cha-shih-ch'u-tsung,Cha-shih-ch'ü-tsung,20,,27.4833333,89.6166667
+bt,chemaito,Chemaito,22,,27.5,90.2833333
+bt,chendebi,Chendebi,21,,27.45,90.3333333
+bt,chengmari,Chengmari,16,,26.9166667,89.0333333
+bt,chengmore,Chengmore,16,,26.9166667,89.0333333
+bt,chhukha,Chhukha,06,1203,27.0666667,89.5833333
+bt,chhukha dzong,Chhukha Dzong,06,,27.0666667,89.5833333
+bt,chilo,Chilo,22,,27.55,90.0
+bt,chirang,Chirang,07,,27.0666667,90.1
+bt,chukha,Chukha,06,,27.0666667,89.5833333
+bt,chungkar,Chungkar,14,,27.05,91.4166667
+bt,chuyul,Chuyul,13,,27.5333333,89.3
+bt,daga,Daga,08,,27.0666667,89.8833333
+bt,dagapela,Dagapela,07,,26.9333333,89.95
+bt,daifam,Daifam,17,,26.9,92.1
+bt,dam,Dam,08,,27.1166667,89.7666667
+bt,damecha,Damecha,12,,27.3,91.45
+bt,dametsi,Dametsi,12,,27.3,91.45
+bt,damoitsi,Damoitsi,12,,27.3,91.45
+bt,damotse,Damotse,12,,27.3,91.45
+bt,damphu,Damphu,07,2040,27.0166667,90.1
+bt,damthang,Damthang,10,,27.4166667,89.35
+bt,daphu,Daphu,06,,26.9666667,89.3833333
+bt,dawakha,Dawakha,15,,27.6666667,89.9166667
+bt,demtsi,Demtsi,12,,27.3,91.45
+bt,denchukha,Denchukha,16,,27.0166667,89.25
+bt,denehukha,Denehukha,16,,27.0166667,89.25
+bt,dewangiri,Dewangiri,17,,26.8666667,91.4666667
+bt,dhaje,Dhaje,07,,26.9666667,90.1166667
+bt,dhur,Dhur,05,,27.6,90.65
+bt,diptsang,Diptsang,17,,27.05,91.9833333
+bt,dogsar,Dogsar,11,,27.95,91.0333333
+bt,domaphu,Domaphu,07,,27.0166667,90.1
+bt,domka,Domka,12,,27.0666667,91.0666667
+bt,donkar,Donkar,11,,27.6,91.1833333
+bt,doring,Doring,10,,27.2,89.2
+bt,dorkha,Dorkha,16,,27.0166667,89.2166667
+bt,dorokha,Dorokha,16,,27.0166667,89.2166667
+bt,doronagaon,Doronagaon,07,,26.8333333,89.8166667
+bt,dotanang,Dotanang,20,,27.5833333,89.6333333
+bt,drugyel dzong,Drugyel Dzong,13,,27.5,89.3333333
+bt,duna dzong,Duna Dzong,06,,27.0333333,89.4
+bt,dungna,Dungna,06,,27.0333333,89.4
+bt,du phodrang,Du Phodrang,22,,27.4833333,89.9
+bt,dzongsa dzong,Dzongsa Dzong,16,,27.1,88.8833333
+bt,galechugaon,Galechugaon,09,,27.0,90.5333333
+bt,gangtey gonpa,Gangtey Gonpa,22,,27.5,90.1666667
+bt,gasa dzong,Gasa Dzong,15,,27.9166667,89.6833333
+bt,gasa,Gasa,15,1612,27.9166667,89.6833333
+bt,gasila,Gasila,22,,27.3333333,89.8
+bt,gesekha,Gesekha,10,,27.4166667,89.25
+bt,geylegphug,Geylegphug,09,7464,26.85,90.5
+bt,ghunkarah,Ghunkarah,19,,27.4,91.5666667
+bt,giala,Giala,22,,27.3666667,89.9666667
+bt,gnimthenla,Gnimthenla,07,,26.9,89.85
+bt,gongchuandgaon,Gongchuandgaon,09,,27.0333333,90.4333333
+bt,go)nphu,Go)nphu,18,,27.0833333,90.7666667
+bt,gyepozhing,Gyepozhing,12,,27.1833333,91.1666667
+bt,gyetsa,Gyetsa,05,,27.5166667,90.6333333
+bt,ha dzong,Ha Dzong,10,,27.3666667,89.2833333
+bt,ha,Ha,10,1505,27.3666667,89.2833333
+bt,haracha,Haracha,07,,27.1833333,90.0333333
+bt,hatisar,Hatisar,09,,26.85,90.5
+bt,hilari,Hilari,10,,27.4,88.9833333
+bt,hlari,Hlari,10,,27.4,88.9833333
+bt,jakar,Jakar,05,4829,27.55,90.7333333
+bt,jokhar dzong,Jokhar Dzong,05,,27.55,90.7333333
+bt,jumsa,Jumsa,16,,27.1,88.8833333
+bt,kagha,Kagha,21,,27.5333333,90.4666667
+bt,kalikhola,Kalikhola,09,,26.7166667,90.85
+bt,kamganka,Kamganka,08,,27.25,89.9666667
+bt,kangpar,Kangpar,19,,27.1666667,91.7333333
+bt,kechangka,Kechangka,10,,27.4166667,89.25
+bt,kechungka,Kechungka,10,,27.4166667,89.25
+bt,kencho,Kencho,15,,27.75,89.7166667
+bt,kenga,Kenga,12,,27.1,91.25
+bt,kengkhar,Kengkhar,12,,27.1,91.25
+bt,khamna,Khamna,19,,27.45,91.5833333
+bt,khampa,Khampa,19,,27.45,91.5833333
+bt,khar,Khar,14,,27.0,91.35
+bt,khenpa dzong,Khenpa Dzong,11,,27.8166667,91.0833333
+bt,khitokha,Khitokha,06,,26.9,89.6166667
+bt,kisona,Kisona,08,,27.25,90.0
+bt,kungtar,Kungtar,11,,27.5333333,91.05
+bt,kurjey,Kurjey,05,,27.6166667,90.7
+bt,kyapcha dzong,Kyapcha Dzong,06,,27.2,89.55
+bt,lalai,Lalai,09,,26.7833333,90.5166667
+bt,lamedada,Lamedada,07,,26.95,90.1333333
+bt,lamidangra,Lamidangra,07,,26.9666667,90.1
+bt,lamti,Lamti,21,,27.3333333,90.5666667
+bt,lao,Lao,11,,27.8166667,91.5
+bt,laya,Laya,15,,28.0666667,89.6833333
+bt,lenlung,Lenlung,11,,27.65,91.15
+bt,lhedang,Lhedang,05,,27.9166667,90.75
+bt,lhuntshi,Lhuntshi,11,1935,27.65,91.15
+bt,lhuntsi dzong,Lhuntsi Dzong,11,,27.65,91.15
+bt,lingshi dzong,Lingshi Dzong,11,,27.65,91.15
+bt,lingshi dzong,Lingshi Dzong,20,,27.9166667,89.4333333
+bt,lingshi,Lingshi,20,,27.9166667,89.4333333
+bt,lobnig,Lobnig,06,,27.15,89.55
+bt,louri,Louri,19,,27.1,91.9333333
+bt,lunana,Lunana,15,,28.05,90.1666667
+bt,lung chen,Lung Chen,22,,27.6333333,90.1833333
+bt,manikyangsa,Manikyangsa,22,,27.5333333,90.1
+bt,maogaon,Maogaon,09,,27.0333333,90.4
+bt,mochhu,Mochhu,10,,27.1333333,89.1166667
+bt,momai thang,Momai Thang,07,,26.9166667,89.85
+bt,mongar dzong,Mongar Dzong,12,,27.25,91.2
+bt,mongar,Mongar,12,1397,27.25,91.2
+bt,monka,Monka,11,,27.3833333,91.1666667
+bt,nab chote,Nab Chöte,21,,27.5833333,90.4333333
+bt,naitola,Naitola,17,,26.9,91.2666667
+bt,naktsang,Naktsang,10,,27.3833333,89.2666667
+bt,namtil,Namtil,21,,27.3333333,90.4
+bt,namtir,Namtir,21,,27.3333333,90.4
+bt,nangnang,Nangnang,05,,27.6,90.8833333
+bt,naspe,Naspe,05,,27.6833333,90.7166667
+bt,ngalangkang,Ngalangkang,19,,27.45,91.5833333
+bt,nganglam,Nganglam,17,,26.7833333,91.25
+bt,niche kalikhola,Niche Kalikhola,07,,26.8833333,90.0666667
+bt,nimgong,Nimgong,12,,27.2,90.95
+bt,ningsang la,Ningsang La,19,,27.1833333,91.8
+bt,ohemaito,Ohemaito,22,,27.5,90.2833333
+bt,pachu,Pachu,06,,26.9,89.35
+bt,pajo,Pajo,22,,27.5333333,89.8833333
+bt,panbang,Panbang,18,,26.8666667,90.9833333
+bt,pangkha,Pangkha,18,,26.95,90.8166667
+bt,panka,Panka,18,,26.95,90.8166667
+bt,paro dzong,Paro Dzong,13,,27.4333333,89.4166667
+bt,paro,Paro,13,4536,27.4333333,89.4166667
+bt,pemagatsel,Pemagatsel,14,1720,27.0333333,91.45
+bt,pengkhua,Pengkhua,09,,26.7166667,90.05
+bt,phisugaon,Phisugaon,09,,26.75,90.1
+bt,phunchholing,Phunchholing,06,,26.85,89.3833333
+bt,phuntsholing,Phuntsholing,06,65892,26.85,89.3833333
+bt,phuntsoling,Phuntsoling,06,,26.85,89.3833333
+bt,pieksao,Pieksao,18,,26.9333333,90.9833333
+bt,pimi,Pimi,05,,27.5666667,90.9833333
+bt,pinkhua,Pinkhua,09,,26.7166667,90.05
+bt,pinsoperi,Pinsoperi,08,,27.1166667,89.95
+bt,punaka,Punaka,15,,27.6166667,89.8666667
+bt,punakha,Punakha,15,18170,27.6166667,89.8666667
+bt,punakla,Punakla,15,,27.6166667,89.8666667
+bt,rading,Rading,14,,26.9666667,91.4666667
+bt,radi,Radi,19,,27.3666667,91.6833333
+bt,raga,Raga,06,,27.3,89.5333333
+bt,rapley,Rapley,16,,27.1,89.2833333
+bt,rife,Rife,05,,27.8833333,90.5166667
+bt,rimpung dzong,Rimpung Dzong,13,,27.4333333,89.4166667
+bt,ritang,Ritang,22,,27.55,90.1666667
+bt,rungzyung,Rungzyung,19,,27.35,91.6666667
+bt,saidu,Saidu,11,,27.8333333,90.9333333
+bt,sakden,Sakden,19,,27.3833333,91.8666667
+bt,sakdon,Sakdon,19,,27.3833333,91.8666667
+bt,sakteng,Sakteng,19,,27.3833333,91.8666667
+bt,samchhi,Samchhi,18,,27.3,90.6166667
+bt,samchi,Samchi,16,,26.8666667,89.1
+bt,samdrop,Samdrop,21,,27.4,90.5
+bt,samdrup choling,Samdrup Choling,21,,27.4,90.5
+bt,samdrup jongkhar,Samdrup Jongkhar,17,14134,26.8166667,91.5666667
+bt,samdrup,Samdrup,21,,27.4,90.5
+bt,samtengang,Samtengang,22,,27.5333333,90.0
+bt,sana,Sana,19,,27.5833333,91.3833333
+bt,sanchi,Sanchi,18,,27.3,90.6166667
+bt,sangbay,Sangbay,10,,27.1666667,89.0833333
+bt,sangkari,Sangkari,10,,27.3,89.3166667
+bt,sarbhang,Sarbhang,09,,26.8666667,90.2666667
+bt,sasoka,Sasoka,05,,27.75,90.8666667
+bt,sassi,Sassi,14,,27.1333333,91.4333333
+bt,sawang,Sawang,11,,27.7333333,91.2
+bt,sawaphu,Sawaphu,22,,27.3666667,90.2
+bt,senghe dzong,Senghe Dzong,11,,27.9166667,91.35
+bt,sengor,Sengor,05,,27.3666667,91.0166667
+bt,shabling,Shabling,11,,27.7333333,91.1166667
+bt,shali,Shali,19,,27.4833333,91.5666667
+bt,shamgong dzong,Shamgong Dzong,18,,27.2333333,90.65
+bt,shangong dzong,Shangong Dzong,18,,27.2333333,90.65
+bt,shapang,Shapang,19,,27.65,91.4666667
+bt,sharitang,Sharitang,10,,27.4166667,89.0166667
+bt,sharithang,Sharithang,10,,27.4166667,89.0166667
+bt,shegaria,Shegaria,15,,27.6666667,90.0
+bt,shemgang,Shemgang,18,1182,27.2333333,90.65
+bt,shingbe,Shingbe,11,,27.9333333,91.6166667
+bt,shingkarap,Shingkarap,13,,27.6166667,89.2666667
+bt,shiuji,Shiuji,10,,27.1666667,89.0166667
+bt,shodug,Shodug,20,,27.7666667,89.45
+bt,shongar dzong,Shongar Dzong,12,,27.25,91.0833333
+bt,shuri,Shuri,05,,27.5,90.75
+bt,sibsu,Sibsu,08,,26.9972222,88.9
+bt,singhi dzong,Singhi Dzong,11,,27.9166667,91.35
+bt,singur,Singur,05,,27.3666667,91.0166667
+bt,singye dzong,Singye Dzong,11,,27.9166667,91.35
+bt,sipchu,Sipchu,08,,26.9972222,88.9
+bt,sombe dzong,Sombe Dzong,10,,27.1666667,89.0833333
+bt,somchi,Somchi,18,,27.3,90.6166667
+bt,suchha,Suchha,06,,27.2333333,89.45
+bt,sufali,Sufali,18,,26.8666667,90.9833333
+bt,taga dzong,Taga Dzong,08,3168,27.0666667,89.8833333
+bt,ta-ga-na,Ta-Ga-Na,08,,27.0666667,89.8833333
+bt,ta-hsi-su-tsung,Ta-hsi-su-tsung,20,,27.4833333,89.6166667
+bt,ta-hsi-su-tun,Ta-hsi-su-tun,20,,27.4833333,89.6166667
+bt,tala,Tala,06,,26.8666667,89.5666667
+bt,tamjee,Tamjee,15,,27.6666667,89.9
+bt,tamji,Tamji,15,,27.8,89.6333333
+bt,tangsebi,Tangsebi,21,,27.4333333,90.4333333
+bt,taripe,Taripe,19,,27.65,91.45
+bt,taripo,Taripo,19,,27.65,91.45
+bt,tash chho dzong,Tash Chho Dzong,20,,27.4833333,89.6166667
+bt,tashi chho dzong,Tashi Chho Dzong,20,,27.4833333,89.6166667
+bt,tashi chhuc dzong,Tashi Chhuc Dzong,20,,27.4833333,89.6166667
+bt,tashi gang dzong,Tashi Gang Dzong,19,,27.3166667,91.5666667
+bt,tashigang,Tashigang,19,4519,27.3166667,91.5666667
+bt,tashigangtsi,Tashigangtsi,19,,27.5833333,91.4666667
+bt,ta-shih-ch'u,Ta-shih-ch'u,20,,27.4833333,89.6166667
+bt,tashi tang-tsi dzong,Tashi Tang-tsi Dzong,19,,27.5833333,91.4666667
+bt,tashi yangtse,Tashi Yangtse,19,,27.5833333,91.4666667
+bt,tashi yang-tsi dzong,Tashi Yang-tsi Dzong,19,,27.5833333,91.4666667
+bt,tashtanje,Tashtanje,17,,26.9833333,92.0166667
+bt,tassisudon,Tassisudon,20,,27.4833333,89.6166667
+bt,tendu,Tendu,16,,27.1333333,88.8833333
+bt,thebong,Thebong,12,,27.2666667,91.2666667
+bt,thimbu,Thimbu,20,,27.4833333,89.6
+bt,thimpago,Thimpago,20,,27.4833333,89.6
+bt,thimphu,Thimphu,20,,27.4833333,89.6
+bt,thimpu,Thimpu,20,,27.4833333,89.6
+bt,thimsing,Thimsing,19,,27.1333333,91.6166667
+bt,thrimshing,Thrimshing,19,,27.1333333,91.6166667
+bt,thumgaon,Thumgaon,07,,26.9833333,89.9666667
+bt,thunkar,Thunkar,11,,27.8166667,91.0833333
+bt,tima,Tima,10,,27.1666667,89.0333333
+bt,tobrang,Tobrang,11,,27.7166667,91.5
+bt,tongla kenga,Tongla Kenga,12,,27.1333333,91.2166667
+bt,tongsa dzong,Tongsa Dzong,21,,27.5166667,90.5
+bt,tongsa,Tongsa,21,2365,27.5166667,90.5
+bt,torma shong,Torma Shong,11,,27.4833333,91.1
+bt,tormoshangsa,Tormoshangsa,11,,27.4833333,91.1
+bt,tosumani,Tosumani,11,,27.8666667,91.2333333
+bt,tosuman,Tosuman,11,,27.8666667,91.2333333
+bt,trashi chhodzong,Trashi Chhödzong,20,,27.4833333,89.6166667
+bt,trashi cho dzong,Trashi Chö Dzong,20,,27.4833333,89.6166667
+bt,trashicho,Trashicho,20,,27.4833333,89.6166667
+bt,tsangka,Tsangka,21,,27.4833333,90.4666667
+bt,tse kang,Tse Kang,11,,27.75,91.2333333
+bt,tseshinang,Tseshinang,22,,27.75,90.0666667
+bt,tshalunang,Tshalunang,13,,27.4333333,89.65
+bt,tungka la,Tungka La,14,,26.95,91.3666667
+bt,ura,Ura,05,,27.4166667,90.9166667
+bt,usak,Usak,06,,27.25,89.7666667
+bt,wamrong,Wamrong,19,,27.0666667,91.5666667
+bt,wangchukling,Wangchukling,05,,27.55,90.7333333
+bt,wangdiphodrang,Wangdiphodrang,22,3393,27.4833333,89.9
+bt,wangdu phodrang,Wangdü Phodrang,22,,27.4833333,89.9
+bt,weitsang,Weitsang,05,,27.9166667,90.75
+bt,yalang,Yalang,19,,27.4333333,91.6333333
+bt,yuwak,Yuwak,22,,27.5166667,89.8666667
+bt,zarafi,Zarafi,18,,27.15,90.6833333

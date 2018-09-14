@@ -1,0 +1,536 @@
+bb,airy hill,Airy Hill,06,,13.1833333,-59.55
+bb,alexandra,Alexandra,07,,13.2833333,-59.6
+bb,allen view,Allen View,11,,13.1833333,-59.5666667
+bb,alleynedale,Alleynedale,07,,13.2833333,-59.6166667
+bb,allmans,Allmans,07,,13.2666667,-59.6333333
+bb,animal flower cave,Animal Flower Cave,07,,13.3333333,-59.6
+bb,apes hill,Apes Hill,04,,13.2166667,-59.6
+bb,appleby,Appleby,04,,13.15,-59.6333333
+bb,applewhaites,Applewhaites,11,,13.1666667,-59.5666667
+bb,archer,Archer,07,,13.3166667,-59.6333333
+bb,archers,Archers,07,,13.3166667,-59.6333333
+bb,arch hall,Arch Hall,11,,13.1666667,-59.6166667
+bb,arthurs seat,Arthurs Seat,11,,13.15,-59.6
+bb,ashbury,Ashbury,05,,13.1666667,-59.5333333
+bb,ashton hall,Ashton Hall,09,,13.25,-59.6333333
+bb,atlantic shores,Atlantic Shores,01,,13.0333333,-59.5166667
+bb,babbs,Babbs,07,,13.2833333,-59.6333333
+bb,bagatelle,Bagatelle,11,,13.15,-59.6166667
+bb,bairds,Bairds,03,,13.1333333,-59.5333333
+bb,bakers,Bakers,09,,13.2333333,-59.6166667
+bb,bank hall,Bank Hall,08,,13.1,-59.6
+bb,bannatyne,Bannatyne,01,,13.0833333,-59.5333333
+bb,bathsheba,Bathsheba,06,1765,13.2166667,-59.5166667
+bb,baxters,Baxters,02,,13.2166667,-59.5666667
+bb,bayfield,Bayfield,10,,13.15,-59.45
+bb,bayley,Bayley,10,,13.15,-59.45
+bb,bayleys,Bayleys,10,,13.15,-59.45
+bb,bayville,Bayville,08,,13.0833333,-59.6
+bb,belair,Belair,03,,13.15,-59.55
+bb,bel air,Bel Air,10,,13.1166667,-59.4333333
+bb,belle,Belle,08,,13.1166667,-59.5833333
+bb,belleplaine,Belleplaine,02,,13.25,-59.5666667
+bb,belmont,Belmont,08,,13.0833333,-59.6
+bb,benab,Benab,02,,13.2166667,-59.5333333
+bb,bennetts,Bennetts,11,,13.1666667,-59.6
+bb,benny hall,Benny Hall,09,,13.2666667,-59.6
+bb,benthams,Benthams,07,,13.2833333,-59.6166667
+bb,bentleys,Bentleys,10,,13.1166667,-59.5
+bb,bibbys lane,Bibbys Lane,08,,13.1333333,-59.5833333
+bb,bishops,Bishops,07,,13.3,-59.6
+bb,bissex,Bissex,06,,13.2166667,-59.55
+bb,blackmans,Blackmans,06,623,13.1833333,-59.5333333
+bb,black rock,Black Rock,08,,13.1333333,-59.6333333
+bb,blacksage alley,Blacksage Alley,07,,13.3,-59.5833333
+bb,blades,Blades,10,,13.1,-59.4666667
+bb,blades hill,Blades Hill,10,,13.15,-59.45
+bb,bloomsbury,Bloomsbury,11,,13.2,-59.5666667
+bb,blowers,Blowers,11,,13.2,-59.6166667
+bb,blue waters,Blue Waters,01,,13.0666667,-59.5833333
+bb,boarded hall,Boarded Hall,01,,13.1,-59.5333333
+bb,bonwell,Bonwell,06,,13.1833333,-59.5333333
+bb,boscobelle,Boscobelle,09,,13.2833333,-59.5666667
+bb,bourbon,Bourbon,07,,13.2833333,-59.6333333
+bb,bowmanston,Bowmanston,05,,13.1666667,-59.5166667
+bb,branchbury,Branchbury,06,,13.1833333,-59.55
+bb,breedy's,Breedy's,02,,13.25,-59.5833333
+bb,brereton,Brereton,10,,13.1166667,-59.5
+bb,bridgefield,Bridgefield,11,,13.15,-59.5833333
+bb,bridgetown,Bridgetown,08,98511,13.1,-59.6166667
+bb,briggs,Briggs,01,,13.1,-59.5333333
+bb,brighton,Brighton,03,,13.1166667,-59.5166667
+bb,brighton,Brighton,08,,13.1,-59.6166667
+bb,brittons hill,Brittons Hill,08,,13.0833333,-59.5833333
+bb,brome field,Brome Field,07,,13.3,-59.6333333
+bb,bruce,Bruce,02,,13.2333333,-59.55
+bb,bruce vale,Bruce Vale,02,,13.2333333,-59.55
+bb,buckden house,Buckden House,06,,13.2,-59.5333333
+bb,bulkely factory,Bulkely Factory,03,,13.1166667,-59.5333333
+bb,bushy park,Bushy Park,10,,13.1333333,-59.4666667
+bb,callendar,Callendar,01,,13.0666667,-59.5166667
+bb,campaign castle,Campaign Castle,03,,13.1166667,-59.5166667
+bb,canefield,Canefield,06,,13.2,-59.5833333
+bb,cane vale,Cane Vale,01,,13.05,-59.5333333
+bb,cane wood,Cane Wood,11,,13.15,-59.5833333
+bb,carlton,Carlton,04,,13.2166667,-59.6333333
+bb,carrington,Carrington,10,,13.1166667,-59.4833333
+bb,carrington,Carrington,11,,13.1833333,-59.5666667
+bb,carter,Carter,05,,13.1833333,-59.5
+bb,castle,Castle,09,,13.2666667,-59.6
+bb,castle grant,Castle Grant,06,,13.2,-59.55
+bb,cattlewash,Cattlewash,02,,13.2166667,-59.5333333
+bb,cave hill,Cave Hill,07,,13.3,-59.5833333
+bb,cave hill,Cave Hill,08,,13.1333333,-59.6166667
+bb,chance hall,Chance Hall,07,,13.3166667,-59.6
+bb,chancery lane,Chancery Lane,01,,13.0666667,-59.5
+bb,chapman,Chapman,11,,13.1833333,-59.5666667
+bb,charnocks,Charnocks,01,,13.0833333,-59.5
+bb,cheapside,Cheapside,08,,13.0833333,-59.6166667
+bb,checker hall,Checker Hall,07,,13.2833333,-59.6333333
+bb,cherry grove,Cherry Grove,05,,13.15,-59.5166667
+bb,cheshire,Cheshire,05,,13.1833333,-59.5
+bb,chimborazo,Chimborazo,06,,13.2,-59.55
+bb,christie,Christie,11,,13.1666667,-59.6
+bb,church hill,Church Hill,07,,13.2833333,-59.6166667
+bb,church view,Church View,05,,13.1833333,-59.4833333
+bb,church village,Church Village,10,,13.1333333,-59.4833333
+bb,clapham,Clapham,08,,13.0833333,-59.5833333
+bb,cleland,Cleland,02,,13.2666667,-59.5833333
+bb,clermont,Clermont,11,,13.15,-59.6166667
+bb,cliff,Cliff,05,,13.15,-59.4833333
+bb,cliff cottage,Cliff Cottage,05,,13.1666667,-59.4833333
+bb,clifton hall,Clifton Hall,05,,13.2,-59.5
+bb,clifton hill,Clifton Hill,11,,13.1666667,-59.5666667
+bb,cluffs,Cluffs,07,,13.3333333,-59.6166667
+bb,coach hill,Coach Hill,05,,13.1666667,-59.4833333
+bb,coconut hall,Coconut Hall,07,,13.3166667,-59.6
+bb,codrington,Codrington,05,,13.1833333,-59.4666667
+bb,codrington,Codrington,08,,13.1166667,-59.6
+bb,codrington college,Codrington College,05,,13.1833333,-59.4666667
+bb,coffee gully,Coffee Gully,06,,13.1833333,-59.55
+bb,coles cave,Coles Cave,11,,13.1833333,-59.5666667
+bb,coles pasture,Coles Pasture,10,,13.15,-59.4166667
+bb,college savannah,College Savannah,05,,13.1666667,-59.45
+bb,colleton,Colleton,05,,13.1833333,-59.4833333
+bb,colleton,Colleton,07,,13.2666667,-59.6333333
+bb,collins,Collins,09,,13.2833333,-59.5833333
+bb,congo road,Congo Road,10,,13.1166667,-59.45
+bb,connell town,Connell Town,07,,13.3166667,-59.6166667
+bb,constant,Constant,03,,13.1166667,-59.55
+bb,content,Content,07,,13.3,-59.6333333
+bb,cottage,Cottage,03,,13.15,-59.55
+bb,cottage,Cottage,07,,13.2833333,-59.6
+bb,cottage vale,Cottage Vale,10,,13.1333333,-59.4833333
+bb,cove,Cove,07,,13.3333333,-59.6
+bb,coverly,Coverly,01,,13.0833333,-59.4833333
+bb,crab hill,Crab Hill,07,727,13.3166667,-59.6333333
+bb,dash valley,Dash Valley,03,,13.1,-59.5666667
+bb,date tree hill,Date Tree Hill,09,,13.2833333,-59.5833333
+bb,deacons,Deacons,08,,13.1,-59.6166667
+bb,diamond corner,Diamond Corner,09,,13.2666667,-59.6
+bb,diamond valley,Diamond Valley,10,,13.1,-59.4333333
+bb,dover,Dover,01,,13.05,-59.5666667
+bb,drax hall,Drax Hall,03,,13.1333333,-59.5166667
+bb,drax hall hope,Drax Hall Hope,03,,13.1333333,-59.5333333
+bb,drax hall jump,Drax Hall Jump,03,,13.1333333,-59.5166667
+bb,draxhall woods,Draxhall Woods,03,,13.1333333,-59.5166667
+bb,drax hill green,Drax Hill Green,03,,13.15,-59.5333333
+bb,dukes,Dukes,11,,13.1833333,-59.5833333
+bb,dunscombe,Dunscombe,06,,13.2,-59.5833333
+bb,durant,Durant,01,,13.0833333,-59.5333333
+bb,durants,Durants,01,,13.0833333,-59.5333333
+bb,durants,Durants,04,,13.15,-59.6333333
+bb,durham,Durham,07,,13.3,-59.6
+bb,ealing grove,Ealing Grove,01,,13.05,-59.5
+bb,ealing park,Ealing Park,01,,13.0333333,-59.5
+bb,eastbourne,Eastbourne,10,,13.1166667,-59.4333333
+bb,east lynne,East Lynne,03,,13.1166667,-59.5333333
+bb,easy hall,Easy Hall,06,,13.2,-59.5333333
+bb,ebenezer,Ebenezer,10,,13.1166667,-59.5
+bb,ebworth,Ebworth,09,,13.2666667,-59.6166667
+bb,eden lodge,Eden Lodge,08,,13.1333333,-59.6
+bb,edey,Edey,01,,13.0833333,-59.5333333
+bb,edgecumbe,Edgecumbe,10,,13.1166667,-59.5
+bb,edge hill,Edge Hill,11,,13.15,-59.6
+bb,elizabeth park,Elizabeth Park,01,,13.0833333,-59.5666667
+bb,ellerton,Ellerton,03,,13.1333333,-59.55
+bb,ellesmere,Ellesmere,03,,13.15,-59.5333333
+bb,ellis castle,Ellis Castle,09,,13.2833333,-59.5833333
+bb,endeavour,Endeavour,04,,13.2,-59.6
+bb,endeavour,Endeavour,11,,13.1666667,-59.5833333
+bb,enterprise,Enterprise,01,,13.05,-59.5333333
+bb,exchange,Exchange,11,,13.15,-59.5833333
+bb,fairfield,Fairfield,07,,13.3,-59.6166667
+bb,fairfield,Fairfield,08,,13.1166667,-59.6
+bb,fairview,Fairview,01,,13.0833333,-59.5
+bb,fair view,Fair View,03,,13.15,-59.5333333
+bb,fairy valley,Fairy Valley,01,,13.0666667,-59.5
+bb,fairy valley rock,Fairy Valley Rock,01,,13.05,-59.5
+bb,farmers,Farmers,06,,13.2,-59.5833333
+bb,farm road,Farm Road,09,,13.2333333,-59.6333333
+bb,fisher pond,Fisher Pond,11,,13.1666667,-59.55
+bb,fitts,Fitts,08,,13.1333333,-59.6333333
+bb,flatfield,Flatfield,07,,13.3166667,-59.6
+bb,flat rock,Flat Rock,03,,13.15,-59.5666667
+bb,folkestone park,Folkestone Park,04,,13.1833333,-59.6333333
+bb,fortescue,Fortescue,05,,13.1666667,-59.45
+bb,foster hall,Foster Hall,03,,13.1166667,-59.5666667
+bb,foster hall,Foster Hall,05,,13.2,-59.5
+bb,fosters,Fosters,07,,13.2833333,-59.6333333
+bb,foul bay,Foul Bay,10,,13.0833333,-59.45
+bb,four cross roads,Four Cross Roads,05,,13.1666667,-59.5166667
+bb,four roads,Four Roads,10,,13.1,-59.4666667
+bb,four winds,Four Winds,04,,13.2166667,-59.6333333
+bb,frazers,Frazers,02,,13.2166667,-59.5333333
+bb,free hill,Free Hill,03,,13.1333333,-59.55
+bb,free hill,Free Hill,07,,13.3,-59.6
+bb,french,French,09,,13.25,-59.6
+bb,frere pilgrim,Frere Pilgrim,01,,13.1,-59.5333333
+bb,friendship,Friendship,07,,13.3,-59.6333333
+bb,friendship terrace,Friendship Terrace,08,,13.1333333,-59.6
+bb,frizers,Frizers,02,,13.2166667,-59.5333333
+bb,fruitful hill,Fruitful Hill,11,,13.2,-59.5666667
+bb,fustic,Fustic,07,,13.2666667,-59.6333333
+bb,gall hill,Gall Hill,01,,13.0666667,-59.5333333
+bb,garrison,Garrison,08,,13.0666667,-59.6
+bb,gays,Gays,09,,13.2833333,-59.5833333
+bb,gemswick,Gemswick,10,,13.0666667,-59.4666667
+bb,gibbes,Gibbes,09,,13.2333333,-59.6333333
+bb,gibbons boggs,Gibbons Boggs,01,,13.05,-59.5333333
+bb,gibbons,Gibbons,01,,13.05,-59.5166667
+bb,gibbs,Gibbs,09,,13.2333333,-59.6333333
+bb,glebe land,Glebe Land,05,,13.1666667,-59.4833333
+bb,golden grove,Golden Grove,10,,13.15,-59.45
+bb,golden ridge,Golden Ridge,11,,13.1666667,-59.55
+bb,good intene,Good Intene,03,,13.1166667,-59.5333333
+bb,goodland,Goodland,01,,13.05,-59.5166667
+bb,graeme hall,Graeme Hall,01,,13.0833333,-59.5666667
+bb,grape hall,Grape Hall,07,,13.3166667,-59.6333333
+bb,graveyard,Graveyard,09,,13.2833333,-59.5833333
+bb,grazettes,Grazettes,08,,13.1333333,-59.6
+bb,green garden,Green Garden,01,,13.0333333,-59.5166667
+bb,green hill,Green Hill,08,,13.1333333,-59.6
+bb,greenidge,Greenidge,07,,13.3166667,-59.6166667
+bb,greenland,Greenland,02,623,13.25,-59.5666667
+bb,greens,Greens,05,,13.15,-59.5166667
+bb,greenwich,Greenwich,04,,13.1833333,-59.6166667
+bb,gregg farm,Gregg Farm,02,,13.2166667,-59.5833333
+bb,groeme hall,Groeme Hall,01,,13.0833333,-59.5666667
+bb,guinea,Guinea,05,,13.15,-59.4833333
+bb,haggatt hall,Haggatt Hall,03,,13.1,-59.5666667
+bb,half acre,Half Acre,07,,13.2833333,-59.6166667
+bb,halton,Halton,10,,13.1333333,-59.4833333
+bb,hannays,Hannays,01,,13.1,-59.5166667
+bb,hannays,Hannays,07,,13.2833333,-59.6333333
+bb,hannays tenantry,Hannays Tenantry,01,,13.1,-59.5166667
+bb,harris,Harris,07,,13.3,-59.6166667
+bb,harrismith,Harrismith,10,,13.1166667,-59.4166667
+bb,harrisons,Harrisons,07,,13.3,-59.6333333
+bb,harrow,Harrow,10,,13.1333333,-59.4666667
+bb,hastings,Hastings,01,,13.0666667,-59.5833333
+bb,haymans factory,Haymans Factory,09,,13.25,-59.6166667
+bb,haynes field,Haynes Field,05,,13.1833333,-59.5166667
+bb,haynesville,Haynesville,11,,13.15,-59.6166667
+bb,heddings,Heddings,10,,13.1,-59.45
+bb,henley,Henley,05,,13.15,-59.5166667
+bb,henrys,Henrys,08,,13.0833333,-59.6
+bb,heywoods,Heywoods,09,,13.25,-59.65
+bb,heywoods village,Heywoods Village,09,,13.25,-59.65
+bb,highgate,Highgate,08,,13.0833333,-59.5833333
+bb,highgate house,Highgate House,08,,13.0833333,-59.5833333
+bb,highland,Highland,10,,13.1,-59.4833333
+bb,hillaby,Hillaby,02,519,13.2166667,-59.5833333
+bb,hillcrest,Hillcrest,06,,13.2,-59.5166667
+bb,holders,Holders,11,,13.1666667,-59.6166667
+bb,holetown,Holetown,04,1350,13.1833333,-59.65
+bb,hope,Hope,07,,13.3166667,-59.6
+bb,hopeland,Hopeland,10,,13.1,-59.45
+bb,hopewell,Hopewell,01,,13.05,-59.5166667
+bb,hopewell,Hopewell,11,,13.1666667,-59.5833333
+bb,hothersal,Hothersal,05,,13.1833333,-59.5
+bb,hothersal turning,Hothersal Turning,08,,13.1166667,-59.5833333
+bb,howells,Howells,08,,13.1,-59.5833333
+bb,hoytes,Hoytes,02,,13.2166667,-59.5666667
+bb,hoytes,Hoytes,11,,13.15,-59.6166667
+bb,husbands,Husbands,07,,13.2833333,-59.65
+bb,husbands,Husbands,11,,13.15,-59.6166667
+bb,inch marlowe,Inch Marlowe,01,,13.0666667,-59.5
+bb,indian ground,Indian Ground,09,,13.25,-59.6
+bb,industry hall,Industry Hall,10,,13.15,-59.4333333
+bb,jackmans,Jackmans,08,,13.1333333,-59.5833333
+bb,jackson,Jackson,11,,13.15,-59.6
+bb,jamestown park,Jamestown Park,04,,13.1833333,-59.6333333
+bb,jemmotts,Jemmotts,07,,13.3,-59.6
+bb,jericho,Jericho,03,,13.15,-59.55
+bb,jezreel,Jezreel,10,,13.1166667,-59.45
+bb,joes river,Joes River,02,,13.2166667,-59.5333333
+bb,jordan,Jordan,03,,13.1333333,-59.55
+bb,jordans,Jordans,03,,13.1333333,-59.55
+bb,josey hill,Josey Hill,07,,13.3,-59.6
+bb,kelzer hill,Kelzer Hill,01,,13.05,-59.5333333
+bb,kendal factory,Kendal Factory,05,,13.15,-59.5
+bb,kendal hill,Kendal Hill,01,,13.0666667,-59.55
+bb,kendal,Kendal,05,,13.15,-59.5
+bb,kent,Kent,01,,13.0833333,-59.55
+bb,kingsland,Kingsland,01,,13.0833333,-59.5333333
+bb,kirtons,Kirtons,10,,13.1,-59.45
+bb,lakes,Lakes,02,,13.2333333,-59.55
+bb,lamberts,Lamberts,07,,13.3,-59.5833333
+bb,lancaster,Lancaster,11,,13.2,-59.6166667
+bb,lascelles,Lascelles,04,,13.1833333,-59.6333333
+bb,lazaretto,Lazaretto,08,,13.1333333,-59.6166667
+bb,lead vale,Lead Vale,01,,13.0833333,-59.5
+bb,lears,Lears,11,,13.15,-59.5833333
+bb,lemon arbour,Lemon Arbour,05,,13.1666667,-59.5333333
+bb,less beholden,Less Beholden,06,,13.2166667,-59.55
+bb,lewis vale,Lewis Vale,10,,13.15,-59.45
+bb,lion castle tenantry,Lion Castle Tenantry,11,,13.1833333,-59.5833333
+bb,lion,Lion,03,,13.1333333,-59.55
+bb,litchfield,Litchfield,09,,13.25,-59.6333333
+bb,little battaleys,Little Battaleys,09,,13.2333333,-59.6333333
+bb,locust hall,Locust Hall,03,,13.15,-59.5666667
+bb,lodge road,Lodge Road,01,,13.0666667,-59.5333333
+bb,lords castle,Lords Castle,10,,13.1166667,-59.4333333
+bb,lower birneys,Lower Birneys,03,,13.1,-59.5666667
+bb,lower carlton,Lower Carlton,04,,13.2166667,-59.65
+bb,lower estate,Lower Estate,03,,13.1333333,-59.5666667
+bb,lower greys,Lower Greys,01,,13.1,-59.5166667
+bb,lowland,Lowland,01,,13.0833333,-59.5166667
+bb,lowland,Lowland,07,,13.3,-59.6
+bb,lowlands,Lowlands,01,,13.0833333,-59.5166667
+bb,lowthers,Lowthers,01,,13.0833333,-59.4833333
+bb,lucas street,Lucas Street,10,,13.1166667,-59.45
+bb,luke hill,Luke Hill,09,,13.2666667,-59.6166667
+bb,malvern,Malvern,06,,13.2,-59.5166667
+bb,mangrove,Mangrove,02,,13.2333333,-59.6
+bb,mangrove,Mangrove,10,,13.0833333,-59.4666667
+bb,mapp hill,Mapp Hill,03,,13.1,-59.5666667
+bb,marchfield,Marchfield,10,,13.1166667,-59.4666667
+bb,marine gardens,Marine Gardens,01,,13.0666667,-59.5833333
+bb,market hill,Market Hill,03,,13.15,-59.55
+bb,marley vale,Marley Vale,10,,13.15,-59.4333333
+bb,martins bay,Martins Bay,05,,13.1833333,-59.4833333
+bb,massiah street,Massiah Street,05,,13.1666667,-59.4833333
+bb,maxwell coast,Maxwell Coast,01,,13.0666667,-59.55
+bb,maxwell hill,Maxwell Hill,01,,13.0666667,-59.5666667
+bb,maxwell,Maxwell,01,,13.0666667,-59.55
+bb,maycock,Maycock,07,,13.2833333,-59.6333333
+bb,maynards,Maynards,09,,13.25,-59.6333333
+bb,melverton,Melverton,03,,13.1333333,-59.5166667
+bb,melvin hill,Melvin Hill,06,,13.2,-59.55
+bb,merricks,Merricks,10,,13.1333333,-59.4166667
+bb,mile and a quarter,Mile and a Quarter,09,,13.25,-59.6166667
+bb,molyneux,Molyneux,04,,13.1833333,-59.6166667
+bb,montrose,Montrose,01,,13.0666667,-59.5333333
+bb,moonshine hall,Moonshine Hall,03,,13.15,-59.55
+bb,moore hill,Moore Hill,02,,13.2666667,-59.5833333
+bb,moores,Moores,05,,13.1666667,-59.5
+bb,morgan lewis,Morgan Lewis,09,,13.2666667,-59.5666667
+bb,mount brevitor,Mount Brevitor,09,,13.2666667,-59.6
+bb,mount friendship,Mount Friendship,08,,13.1,-59.5833333
+bb,mount gay,Mount Gay,07,,13.3,-59.6
+bb,mount hillaby,Mount Hillaby,02,,13.2166667,-59.5833333
+bb,mount,Mount,03,,13.1333333,-59.5333333
+bb,mount pleasant,Mount Pleasant,07,,13.3,-59.6
+bb,mount pleasant,Mount Pleasant,10,,13.15,-59.4666667
+bb,mount royer,Mount Royer,07,,13.3,-59.6166667
+bb,mount standfast,Mount Standfast,04,,13.2,-59.6333333
+bb,mount stepney,Mount Stepney,02,,13.2666667,-59.5833333
+bb,mount view,Mount View,07,,13.3,-59.6
+bb,mount wilton,Mount Wilton,11,,13.1833333,-59.5666667
+bb,mullins,Mullins,04,,13.2166667,-59.6333333
+bb,navy gardens,Navy Gardens,01,,13.0666667,-59.5833333
+bb,neils,Neils,03,,13.1166667,-59.5666667
+bb,nesfield,Nesfield,07,,13.2833333,-59.6166667
+bb,newbury,Newbury,03,,13.1333333,-59.55
+bb,newcastle,Newcastle,05,,13.2,-59.4833333
+bb,new orleans,New Orleans,08,,13.1,-59.6166667
+bb,newton terrace,Newton Terrace,01,,13.0666667,-59.5333333
+bb,nicholas abbey,Nicholas Abbey,09,,13.2833333,-59.5833333
+bb,ocean city,Ocean City,10,,13.0833333,-59.3833333
+bb,oistins,Oistins,01,2285,13.0666667,-59.5333333
+bb,oistin's town,Oistin's Town,01,,13.0666667,-59.5333333
+bb,oldbury,Oldbury,10,,13.0833333,-59.4666667
+bb,old post office,Old Post Office,03,,13.15,-59.55
+bb,orange hill,Orange Hill,04,,13.2,-59.6
+bb,orange hill,Orange Hill,09,,13.25,-59.6
+bb,oughtersons,Oughtersons,10,,13.1333333,-59.4666667
+bb,oxford,Oxford,07,,13.2833333,-59.6
+bb,oxnards,Oxnards,08,,13.1333333,-59.6166667
+bb,packers,Packers,01,,13.0833333,-59.5
+bb,padmore,Padmore,10,,13.1166667,-59.4666667
+bb,palmers,Palmers,10,,13.15,-59.4666667
+bb,paragon,Paragon,01,,13.0666667,-59.4833333
+bb,parish land,Parish Land,01,,13.0666667,-59.5166667
+bb,pegwell,Pegwell,01,,13.05,-59.5333333
+bb,pickerings,Pickerings,07,,13.3,-59.6
+bb,pie corner,Pie Corner,07,,13.3,-59.5833333
+bb,pilgrim place,Pilgrim Place,01,,13.0666667,-59.5166667
+bb,pilgrim road,Pilgrim Road,01,,13.0666667,-59.5
+bb,pine housing estate,Pine Housing Estate,08,,13.1,-59.6
+bb,pinelands,Pinelands,08,,13.0833333,-59.5833333
+bb,pine,Pine,08,,13.1,-59.6
+bb,plumtree,Plumtree,04,,13.2,-59.6
+bb,pool,Pool,05,,13.1833333,-59.5
+bb,poreys spring,Poreys Spring,11,,13.1833333,-59.6
+bb,porters,Porters,04,,13.2,-59.6333333
+bb,portland,Portland,09,,13.2666667,-59.6
+bb,prerogative,Prerogative,03,,13.15,-59.5333333
+bb,prior park,Prior Park,08,,13.1333333,-59.6166667
+bb,prospect,Prospect,02,,13.25,-59.5833333
+bb,prospect,Prospect,08,,13.1333333,-59.6333333
+bb,proutes,Proutes,03,,13.15,-59.5666667
+bb,providence,Providence,01,,13.0666667,-59.5166667
+bb,redland,Redland,06,,13.1833333,-59.5333333
+bb,redmans,Redmans,11,,13.15,-59.6
+bb,reeds hill,Reeds Hill,11,,13.15,-59.6166667
+bb,regency park,Regency Park,01,,13.0833333,-59.5666667
+bb,rendezvous,Rendezvous,01,,13.0666667,-59.5833333
+bb,retreat,Retreat,03,,13.15,-59.55
+bb,retreat,Retreat,07,,13.3166667,-59.6166667
+bb,retreat,Retreat,09,,13.25,-59.6333333
+bb,rices,Rices,10,,13.1,-59.45
+bb,river,River,10,,13.1333333,-59.4333333
+bb,roach,Roach,03,,13.15,-59.55
+bb,robinsons,Robinsons,10,,13.1166667,-59.4333333
+bb,rock dundo,Rock Dundo,04,,13.2166667,-59.6166667
+bb,rock dundo,Rock Dundo,08,,13.1166667,-59.6
+bb,rockfield,Rockfield,07,,13.3,-59.5833333
+bb,rock hall,Rock Hall,07,,13.2833333,-59.6
+bb,rock hall,Rock Hall,09,,13.25,-59.6
+bb,rock hall,Rock Hall,11,,13.1833333,-59.6
+bb,rockley,Rockley,08,,13.0666667,-59.6
+bb,rosegate,Rosegate,05,,13.1666667,-59.4833333
+bb,rose hill,Rose Hill,09,,13.2666667,-59.6166667
+bb,rouen,Rouen,08,,13.1,-59.5833333
+bb,round rock,Round Rock,01,,13.0333333,-59.5
+bb,rowans,Rowans,03,,13.1333333,-59.5666667
+bb,ruby,Ruby,10,,13.1333333,-59.45
+bb,saint andrews,Saint Andrews,02,,13.25,-59.55
+bb,saint davids,Saint Davids,01,,13.0833333,-59.55
+bb,saint elizabeths,Saint Elizabeths,06,,13.2,-59.5333333
+bb,saint judes,Saint Judes,03,,13.15,-59.5333333
+bb,saint lawrence,Saint Lawrence,01,,13.0666667,-59.5833333
+bb,saint margarets,Saint Margarets,05,,13.1833333,-59.5
+bb,saint marks,Saint Marks,05,,13.1666667,-59.45
+bb,saint martins,Saint Martins,10,,13.0833333,-59.4666667
+bb,saint mathias,Saint Mathias,08,,13.0666667,-59.6
+bb,saint nicholas,Saint Nicholas,09,,13.2833333,-59.5833333
+bb,salmond,Salmond,07,,13.3166667,-59.6333333
+bb,salters,Salters,03,,13.1166667,-59.5666667
+bb,sam lords castle,Sam Lords Castle,10,,13.1166667,-59.4333333
+bb,sandford,Sandford,10,,13.1333333,-59.45
+bb,sandy lane,Sandy Lane,04,,13.1666667,-59.6333333
+bb,sargeant,Sargeant,01,,13.0833333,-59.5666667
+bb,sayes court,Sayes Court,01,,13.05,-59.5166667
+bb,scarboro,Scarboro,01,,13.05,-59.5333333
+bb,scarborough,Scarborough,01,,13.05,-59.5333333
+bb,seales,Seales,01,,13.0833333,-59.5
+bb,sealy hall,Sealy Hall,05,,13.1666667,-59.4666667
+bb,sealy hill,Sealy Hill,10,,13.15,-59.4333333
+bb,searles,Searles,01,,13.0833333,-59.5
+bb,seaview,Seaview,01,,13.05,-59.5
+bb,seaview,Seaview,07,,13.3166667,-59.6
+bb,seaview,Seaview,11,,13.1666667,-59.6166667
+bb,sedge pond,Sedge Pond,02,,13.25,-59.5833333
+bb,sheraton park,Sheraton Park,01,,13.0666667,-59.55
+bb,sherbourne,Sherbourne,05,,13.1666667,-59.5166667
+bb,shop hill,Shop Hill,11,,13.15,-59.6
+bb,shorey,Shorey,02,,13.25,-59.5666667
+bb,silver hill,Silver Hill,01,,13.0666667,-59.55
+bb,silver sands,Silver Sands,01,,13.05,-59.5
+bb,sion hill,Sion Hill,01,,13.0833333,-59.5
+bb,sion hill,Sion Hill,09,,13.2333333,-59.6166667
+bb,six cross roads,Six Cross Roads,10,,13.1166667,-59.4833333
+bb,six mens,Six Mens,09,,13.25,-59.6333333
+bb,skeenes hill,Skeenes Hill,01,,13.1,-59.5166667
+bb,small hope,Small Hope,05,,13.1666667,-59.5
+bb,small town,Small Town,05,,13.1666667,-59.5
+bb,south district,South District,03,,13.1,-59.55
+bb,speightstown,Speightstown,09,3634,13.25,-59.65
+bb,spencers,Spencers,10,,13.0833333,-59.4666667
+bb,spreightstown,Spreightstown,09,,13.25,-59.65
+bb,springfield,Springfield,02,,13.2166667,-59.5333333
+bb,spring hall,Spring Hall,07,,13.3166667,-59.6
+bb,spring head,Spring Head,02,,13.2333333,-59.6
+bb,station hill,Station Hill,08,,13.1,-59.6
+bb,stepney,Stepney,03,,13.1166667,-59.55
+bb,stewart hill,Stewart Hill,10,,13.15,-59.4666667
+bb,st. patricks,St. Patricks,01,,13.1,-59.5
+bb,stroude land,Stroude Land,10,,13.1166667,-59.45
+bb,sturges,Sturges,11,,13.2,-59.5666667
+bb,sugar hill,Sugar Hill,06,,13.1833333,-59.55
+bb,summervale,Summervale,10,,13.1333333,-59.4666667
+bb,sunbury,Sunbury,10,,13.1166667,-59.4833333
+bb,sunset crest,Sunset Crest,04,,13.1666667,-59.6333333
+bb,supers,Supers,10,,13.15,-59.45
+bb,surinam,Surinam,06,,13.1833333,-59.5333333
+bb,sutherland road,Sutherland Road,07,,13.2666667,-59.6333333
+bb,swanns,Swanns,02,,13.2333333,-59.5833333
+bb,sweet bottom,Sweet Bottom,11,,13.1666667,-59.55
+bb,sweet vale,Sweet Vale,11,,13.1666667,-59.55
+bb,tent bay,Tent Bay,05,,13.2,-59.5
+bb,the baltic,The Baltic,09,,13.2833333,-59.5833333
+bb,the bridge town,The Bridge Town,08,,13.1,-59.6166667
+bb,the crane,The Crane,10,,13.1,-59.45
+bb,the garden,The Garden,04,,13.2,-59.6333333
+bb,the glebe,The Glebe,03,,13.1166667,-59.55
+bb,the hole,The Hole,04,,13.1833333,-59.65
+bb,the risk,The Risk,09,,13.2833333,-59.5666667
+bb,the whim,The Whim,09,,13.25,-59.6333333
+bb,thicket,Thicket,10,,13.15,-59.45
+bb,thornbury hill,Thornbury Hill,01,,13.05,-59.5333333
+bb,todds,Todds,05,,13.1666667,-59.5166667
+bb,top rock,Top Rock,01,,13.0666667,-59.5666667
+bb,trents,Trents,04,,13.2,-59.6333333
+bb,trents,Trents,07,,13.3,-59.6166667
+bb,turners hall,Turners Hall,02,,13.2333333,-59.5833333
+bb,turnpike,Turnpike,03,,13.1166667,-59.55
+bb,two mile hill,Two Mile Hill,08,,13.0833333,-59.5833333
+bb,union hall,Union Hall,10,,13.1166667,-59.45
+bb,union,Union,03,,13.1333333,-59.5333333
+bb,upper carlton,Upper Carlton,04,,13.2166667,-59.6166667
+bb,upper parks,Upper Parks,06,,13.2,-59.55
+bb,upper salmonds,Upper Salmonds,07,,13.3,-59.5833333
+bb,valley,Valley,03,,13.1166667,-59.5666667
+bb,vaucluse factory,Vaucluse Factory,11,,13.1666667,-59.5833333
+bb,vauxhall,Vauxhall,01,,13.0833333,-59.5666667
+bb,venture,Venture,05,,13.1833333,-59.5166667
+bb,verdun,Verdun,05,,13.1833333,-59.5
+bb,vineyard,Vineyard,10,,13.15,-59.45
+bb,wakefield tenantry,Wakefield Tenantry,05,,13.1666667,-59.5166667
+bb,wakefield,Wakefield,05,,13.1833333,-59.5166667
+bb,walkers terrace,Walkers Terrace,03,,13.1333333,-59.55
+bb,walkes spring,Walkes Spring,11,,13.1666667,-59.5666667
+bb,walronds,Walronds,01,,13.0833333,-59.4833333
+bb,wanstead,Wanstead,08,,13.1333333,-59.6166667
+bb,warleigh,Warleigh,09,,13.25,-59.6333333
+bb,warners,Warners,01,,13.0666667,-59.5666667
+bb,warrens,Warrens,11,,13.15,-59.6
+bb,waterford,Waterford,08,,13.1166667,-59.5833333
+bb,watts village,Watts Village,01,,13.1,-59.5333333
+bb,waverley cot,Waverley Cot,03,,13.1333333,-59.5333333
+bb,welches,Welches,01,,13.05,-59.55
+bb,welchman hall,Welchman Hall,11,,13.1833333,-59.5666667
+bb,welchtown,Welchtown,02,,13.2666667,-59.5833333
+bb,welch town,Welch Town,02,,13.2666667,-59.5833333
+bb,welch town,Welch Town,05,,13.1666667,-59.4833333
+bb,wellhouse,Wellhouse,10,,13.1333333,-59.4333333
+bb,well road,Well Road,07,,13.3,-59.5833333
+bb,westmoreland,Westmoreland,04,,13.2166667,-59.6166667
+bb,weston,Weston,04,,13.2166667,-59.6333333
+bb,weymouth,Weymouth,08,,13.0833333,-59.6
+bb,white hall,White Hall,09,,13.25,-59.6166667
+bb,whitehaven,Whitehaven,05,,13.1666667,-59.45
+bb,white hill,White Hill,11,,13.2,-59.5666667
+bb,wilcox,Wilcox,01,,13.05,-59.5
+bb,wildey,Wildey,03,,13.1,-59.5666667
+bb,wilson hill,Wilson Hill,05,,13.1666667,-59.5333333
+bb,windsor,Windsor,03,,13.1166667,-59.5166667
+bb,windy hill,Windy Hill,02,,13.2333333,-59.55
+bb,windy ridge,Windy Ridge,05,,13.1666667,-59.4666667
+bb,woodbourne,Woodbourne,01,,13.0833333,-59.4833333
+bb,workhall,Workhall,10,,13.1166667,-59.45
+bb,worthing,Worthing,01,,13.0666667,-59.5833333
+bb,wotton,Wotton,01,,13.0666667,-59.5333333
+bb,yorkshire,Yorkshire,01,,13.1,-59.5

@@ -1,0 +1,91 @@
+fk,anson,Anson,00,,-51.5166667,-58.1166667
+fk,bahia fox,Bahia Fox,00,,-51.95,-60.0333333
+fk,beaver settlement,Beaver Settlement,00,,-51.8583333,-61.25
+fk,bluff cove,Bluff Cove,00,,-51.75,-58.1833333
+fk,bluff cove settlement,Bluff Cove Settlement,00,,-51.75,-58.1833333
+fk,bombilia house,Bombilia House,00,,-51.5166667,-58.7
+fk,burnside house,Burnside House,00,,-51.7833333,-58.9333333
+fk,campo verde,Campo Verde,00,,-51.5333333,-58.9666667
+fk,camp verde,Camp Verde,00,,-51.5333333,-58.9666667
+fk,cantera de arena,Cantera de Arena,00,,-51.4833333,-58.75
+fk,carcass island settlement,Carcass Island Settlement,00,,-51.2833333,-60.55
+fk,ceritos,Ceritos,00,,-51.7166667,-58.85
+fk,cerritos,Cerritos,00,,-51.7166667,-58.85
+fk,chartres,Chartres,00,,-51.7,-60.0666667
+fk,chartres settlement,Chartres Settlement,00,,-51.7,-60.0666667
+fk,cranmer,Cranmer,00,,-51.3333333,-59.9333333
+fk,darwin,Darwin,00,,-51.8,-58.9833333
+fk,darwin settlement,Darwin Settlement,00,,-51.8,-58.9833333
+fk,dos lomas,Dos Lomas,00,,-51.7833333,-59.25
+fk,douglas settlement,Douglas Settlement,00,,-51.45,-58.5833333
+fk,douglas station,Douglas Station,00,,-51.45,-58.5833333
+fk,dunnose head,Dunnose Head,00,,-51.7333333,-60.4
+fk,dunnose head settlement,Dunnose Head Settlement,00,,-51.7333333,-60.4
+fk,east settlement,East Settlement,00,,-51.95,-60.0333333
+fk,estancia house,Estancia House,00,,-51.6666667,-58.2166667
+fk,evelyn station,Evelyn Station,00,,-51.5666667,-58.4166667
+fk,fitzroy,Fitzroy,00,,-51.7833333,-58.2333333
+fk,fitzroy north,Fitzroy North,00,,-51.7333333,-58.25
+fk,fitzroy settlement,Fitzroy Settlement,00,,-51.7833333,-58.2333333
+fk,fitzroy south,Fitzroy South,00,,-51.7833333,-58.2333333
+fk,foam creek house,Foam Creek House,00,,-51.4666667,-58.3166667
+fk,foam creek settlement,Foam Creek Settlement,00,,-51.4666667,-58.3166667
+fk,fox bay east settlement,Fox Bay East Settlement,00,,-51.95,-60.0333333
+fk,fox bay west settlement,Fox Bay West Settlement,00,,-51.95,-60.1
+fk,goose green,Goose Green,00,,-51.8166667,-58.9666667
+fk,goose green settlement,Goose Green Settlement,00,,-51.8166667,-58.9666667
+fk,green patch settlement,Green Patch Settlement,00,,-51.55,-58.1166667
+fk,hill cove,Hill Cove,00,,-51.5,-60.15
+fk,hope cottage,Hope Cottage,00,,-51.8166667,-59.3166667
+fk,horqueta,Horqueta,00,,-51.8666667,-59.2333333
+fk,horseshoe bay,Horseshoe Bay,00,,-51.5333333,-58.2166667
+fk,johnson harbour settlement,Johnson Harbour Settlement,00,,-51.4833333,-58.0333333
+fk,johnsons harbour,Johnsons Harbour,00,,-51.5,-58.0333333
+fk,keppel settlement,Keppel Settlement,00,,-51.3166667,-59.9333333
+fk,lively settlement,Lively Settlement,00,,-51.9833333,-58.45
+fk,mare harbour rancho,Mare Harbour Rancho,00,,-51.9,-58.4
+fk,mariqueta,Mariqueta,00,,-51.9,-59.4
+fk,mariquita,Mariquita,00,,-51.9,-59.4
+fk,mid rancho,Mid Rancho,00,,-51.8333333,-58.6
+fk,new island settlement,New Island Settlement,00,,-51.7166667,-61.2833333
+fk,north arm,North Arm,00,,-52.1,-59.35
+fk,north arm settlement,North Arm Settlement,00,,-52.1,-59.35
+fk,orqueta,Orqueta,00,,-51.8666667,-59.2333333
+fk,pebble island farm,Pebble Island Farm,00,,-51.3166667,-59.5833333
+fk,pebble island settlement,Pebble Island Settlement,00,,-51.3166667,-59.5833333
+fk,piedra sola,Piedra Sola,00,,-51.5333333,-58.7666667
+fk,port howard,Port Howard,00,,-51.6166667,-59.5
+fk,port louis,Port Louis,00,,-51.5166667,-58.1166667
+fk,port louis settlement,Port Louis Settlement,00,,-51.5166667,-58.1166667
+fk,port louis south,Port Louis South,00,,-51.6,-58.15
+fk,port san carlos,Port San Carlos,00,,-51.5,-58.9833333
+fk,port san carlos settlement,Port San Carlos Settlement,00,,-51.5,-58.9833333
+fk,port stanley,Port Stanley,00,,-51.7,-57.85
+fk,port stephens,Port Stephens,00,,-52.0833333,-60.8166667
+fk,port stephens settlement,Port Stephens Settlement,00,,-52.0833333,-60.8166667
+fk,rincon grande,Rincon Grande,00,,-51.4833333,-58.3
+fk,rincon grande settlement,Rincon Grande Settlement,00,,-51.4833333,-58.3
+fk,roy cove,Roy Cove,00,,-51.5333333,-60.3833333
+fk,roy cove settlement,Roy Cove Settlement,00,,-51.5333333,-60.3833333
+fk,saint louis,Saint Louis,00,,-51.5166667,-58.1166667
+fk,salvador,Salvador,00,,-51.4666667,-58.3666667
+fk,salvador settlement corral,Salvador Settlement Corral,00,,-51.4666667,-58.3666667
+fk,salvador settlement,Salvador Settlement,00,,-51.4666667,-58.3666667
+fk,san carlos estate,San Carlos Estate,00,,-51.5666667,-59.0166667
+fk,san carlos,San Carlos,00,,-51.5666667,-59.0166667
+fk,san carlos settlement,San Carlos Settlement,00,,-51.5666667,-59.0166667
+fk,sand fountain,Sand Fountain,00,,-51.4833333,-58.75
+fk,saunders island settlement,Saunders Island Settlement,00,,-51.3666667,-60.0833333
+fk,soledad,Soledad,00,,-51.5166667,-58.1166667
+fk,speedwell island settlement,Speedwell Island Settlement,00,,-52.2166667,-59.6833333
+fk,spring point settlement,Spring Point Settlement,00,,-51.8166667,-60.45
+fk,spring point,Spring Point,00,,-51.8166667,-60.45
+fk,stanley harbour,Stanley Harbour,00,,-51.7,-57.85
+fk,stanley,Stanley,00,,-51.7,-57.85
+fk,teal inlet settlement,Teal Inlet Settlement,00,,-51.5666667,-58.4166667
+fk,teal inlet,Teal Inlet,00,,-51.5666667,-58.4166667
+fk,tranquilidad,Tranquilidad,00,,-51.7666667,-59.15
+fk,walker creek,Walker Creek,00,,-51.9666667,-58.7666667
+fk,weddell settlement,Weddell Settlement,00,,-52.8833333,-60.9
+fk,westpoint island settlement,Westpoint Island Settlement,00,,-51.35,-60.6833333
+fk,west settlement,West Settlement,00,,-51.95,-60.1
