@@ -1,0 +1,19 @@
+sj,barentsburg,Barentsburg,00,576,78.0666667,14.2333333
+sj,funksjonaerbyen,Funksjonærbyen,00,,78.2166667,15.6333333
+sj,grumantbyen,Grumantbyen,00,,78.1833333,15.1333333
+sj,grumant city,Grumant City,00,,78.1833333,15.1333333
+sj,haugen,Haugen,00,,78.2166667,15.6333333
+sj,longyearbyen,Longyearbyen,00,1232,78.2166667,15.6333333
+sj,longyear city,Longyear City,00,,78.2166667,15.6333333
+sj,longyear-tal-stadt,Longyear-Tal-Stadt,00,,78.2166667,15.6333333
+sj,navarhaugen,Navarhaugen,00,,78.2166667,15.6333333
+sj,neu-aalesund,Neu-Aalesund,00,,78.9333333,11.95
+sj,new aalesund,New Aalesund,00,,78.9333333,11.95
+sj,ny-alesund,Ny-Ålesund,00,40,78.9333333,11.95
+sj,nybyen,Nybyen,00,,78.2,15.6166667
+sj,ostre sverdrupbyen,Østre Sverdrupbyen,00,,78.2,15.6166667
+sj,sveagruvan,Sveagruvan,00,,77.9,16.6833333
+sj,sveagruva,Sveagruva,00,,77.9,16.6833333
+sj,sveakaivos,Sveakaivos,00,,77.9,16.6833333
+sj,svea,Svea,00,,77.9,16.6833333
+sj,svenskstad,Svenskstad,00,,77.9,16.6833333

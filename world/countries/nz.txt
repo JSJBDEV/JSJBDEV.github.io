@@ -1,0 +1,2644 @@
+nz,abbotsford,Abbotsford,G2,,-45.883333,170.416667
+nz,adams flat,Adams Flat,G3,,-46.116667,169.833333
+nz,addington,Addington,E9,,-43.55,172.616667
+nz,admiralty bay,Admiralty Bay,F7,,-40.95,173.916667
+nz,ahaura,Ahaura,G3,,-42.35,171.533333
+nz,ahikiwi,Ahikiwi,E7,,-35.783333,173.733333
+nz,ahimia,Ahimia,E7,,-36.85,175.483333
+nz,ahipara,Ahipara,E7,1093,-35.166667,173.166667
+nz,ahititi,Ahititi,F1,,-38.433333,178.05
+nz,ahuiti,Ahuiti,G2,,-39.633333,175
+nz,ahurangi,Ahurangi,G2,,-39.7,175.116667
+nz,ahuriri,Ahuriri,F2,,-39.483333,176.9
+nz,ahuriri village,Ahuriri Village,F2,,-39.248889,177.861944
+nz,ahuroa,Ahuroa,E7,,-36.483333,174.566667
+nz,aickens,Aickens,G3,,-42.783333,171.616667
+nz,aka aka,Aka Aka,E7,,-37.3,174.766667
+nz,akatore,Akatore,F7,,-46.15,170.116667
+nz,akerama,Akerama,E7,,-35.483333,174.166667
+nz,akitio,Akitio,G2,,-40.6,176.416667
+nz,albany,Albany,E7,,-36.716667,174.7
+nz,albert road,Albert Road,F9,,-39.166667,174.133333
+nz,albert town,Albert Town,F7,,-44.683333,169.2
+nz,albury,Albury,E9,,-44.233333,170.866667
+nz,alford forest,Alford Forest,E9,,-43.616667,171.5
+nz,alfredton,Alfredton,G2,,-40.683333,175.85
+nz,algies bay,Algies Bay,E7,,-36.435278,174.740278
+nz,allandale,Allandale,F7,,-43.65,172.65
+nz,allanton,Allanton,F7,,-45.916667,170.266667
+nz,allerton,Allerton,F2,,-39.674444,176.824167
+nz,alma,Alma,F7,,-45.116667,170.916667
+nz,altimarloch,Altimarloch,F4,,-41.733333,173.866667
+nz,altimarlock,Altimarlock,F4,,-41.733333,173.866667
+nz,alton,Alton,F2,,-39.666667,174.45
+nz,amberley,Amberley,F2,1105,-43.166667,172.733333
+nz,amodeo,Amodeo,E7,,-36.666667,175.433333
+nz,amodeo bay,Amodeo Bay,E7,,-36.666667,175.433333
+nz,anama,Anama,E9,,-43.75,171.433333
+nz,annat,Annat,E9,,-43.383333,172
+nz,aohanga,Aohanga,G2,,-40.676944,176.351111
+nz,aokautere,Aokautere,G2,,-40.366667,175.666667
+nz,aongatete,Aongatete,E7,,-37.616667,175.95
+nz,aorere,Aorere,F5,,-40.716667,172.6
+nz,aotea,Aotea,G1,,-37.916667,174.8
+nz,aotuhia,Aotuhia,F9,,-39.25,174.816667
+nz,aparima,Aparima,F8,,-46.083333,168.05
+nz,apata,Apata,E7,,-37.65,176
+nz,apiti,Apiti,F1,,-39.966667,175.883333
+nz,appleby,Appleby,E9,,-41.3,173.116667
+nz,arahura,Arahura,G3,,-42.666667,171.033333
+nz,arai point,Arai Point,E7,,-36.166667,174.616667
+nz,aramiro,Aramiro,E7,,-37.883333,175.05
+nz,aramoana,Aramoana,F2,,-45.783333,170.7
+nz,aramoho,Aramoho,G2,,-39.916667,175.05
+nz,aranga,Aranga,E7,,-35.733333,173.616667
+nz,aranui,Aranui,F2,,-43.516667,172.7
+nz,arapae,Arapae,E7,,-38.416667,175.083333
+nz,arapito,Arapito,G2,,-41.266667,172.166667
+nz,arapohue,Arapohue,E7,,-35.983333,173.966667
+nz,arapuni,Arapuni,85,,-38.066667,175.65
+nz,ararata,Ararata,G2,,-39.516667,174.366667
+nz,ararimu,Ararimu,E7,,-37.15,175.033333
+nz,aratapu,Aratapu,E7,,-36.016667,173.9
+nz,arcadia,Arcadia,E9,,-44.733333,168.366667
+nz,ardlussa,Ardlussa,G2,,-45.816667,168.65
+nz,ardmore,Ardmore,F2,,-37.033333,175
+nz,ardmore college,Ardmore College,F2,,-37.033333,175
+nz,argyll east,Argyll East,F2,,-39.866667,176.533333
+nz,aria,Aria,F1,,-38.55,174.983333
+nz,ariki,Ariki,F5,,-41.8,172.216667
+nz,aropaki,Aropaki,F8,,-46.283333,167.733333
+nz,arthur pass,Arthur Pass,E9,,-42.95,171.566667
+nz,arthur's pass,Arthur's Pass,E9,,-42.95,171.566667
+nz,arthurs point,Arthurs Point,F7,,-44.983333,168.666667
+nz,arthurton,Arthurton,F7,,-46.116667,169.166667
+nz,arundel,Arundel,E9,,-43.983333,171.283333
+nz,ashhurst,Ashhurst,G2,,-40.3,175.75
+nz,ashley,Ashley,E9,,-43.283333,172.6
+nz,ashley bank,Ashley Bank,E9,,-43.283333,172.6
+nz,ashley clinton,Ashley Clinton,F2,,-39.95,176.25
+nz,ashton,Ashton,E9,,-44.033333,171.766667
+nz,ashwick flat,Ashwick Flat,E9,,-44,170.833333
+nz,ataahua,Ataahua,E9,,-43.783333,172.65
+nz,atapo,Atapo,F5,,-41.616667,172.783333
+nz,atarau,Atarau,G3,,-42.333333,171.483333
+nz,atawhai,Atawhai,F5,,-41.233333,173.316667
+nz,atene,Atene,F9,,-39.733333,175.15
+nz,athenree,Athenree,E7,563,-37.466667,175.916667
+nz,athol,Athol,F7,,-45.516667,168.583333
+nz,atiamuri,Atiamuri,E7,,-38.383333,176.016667
+nz,atiamuri bridge,Atiamuri Bridge,E7,,-38.383333,176.016667
+nz,auckland,Auckland,E7,417910,-36.866667,174.766667
+nz,aukopae,Aukopae,F9,,-38.9,175.166667
+nz,auroa,Auroa,F9,,-39.483333,174.05
+nz,autawa,Autawa,F9,,-39.216667,174.466667
+nz,avondale,Avondale,E7,,-36.883333,174.7
+nz,avondale,Avondale,F1,,-41.683333,173.633333
+nz,awaawakino,Awaawakino,F1,,-37.966667,177.45
+nz,awahuri,Awahuri,G2,,-40.266667,175.516667
+nz,awa-iti,Awa-iti,F2,,-40.866667,173
+nz,awakaponga,Awakaponga,E7,,-37.933333,176.766667
+nz,awakeri,Awakeri,E7,,-38,176.9
+nz,awakino,Awakino,E7,,-38.65,174.633333
+nz,awamangu,Awamangu,F7,,-46.1,169.65
+nz,awamarino,Awamarino,E7,,-38.266667,174.8
+nz,awamoko,Awamoko,F7,,-44.933333,170.883333
+nz,awamunga,Awamunga,F7,,-46.1,169.65
+nz,awanui,Awanui,F2,388,-35.05,173.25
+nz,awapiri,Awapiri,F4,,-41.833333,173.733333
+nz,awaroa,Awaroa,F2,,-36.816667,175.116667
+nz,awarua,Awarua,G2,,-35.583333,173.85
+nz,awarua plains,Awarua Plains,F8,,-46.483333,168.383333
+nz,awatea,Awatea,F2,,-46.366667,169.533333
+nz,awatoto,Awatoto,F2,,-39.55,176.9
+nz,awatuna,Awatuna,F9,,-39.45,174.05
+nz,awhitu,Awhitu,E7,,-37.083333,174.65
+nz,awhitu central,Awhitu Central,E7,,-37.083333,174.583333
+nz,aylesbury,Aylesbury,E9,,-43.533333,172.266667
+nz,babylon,Babylon,E7,,-35.9,173.816667
+nz,bainesse,Bainesse,G2,,-40.416667,175.383333
+nz,bainham,Bainham,F5,,-40.766667,172.55
+nz,balcairn,Balcairn,E9,,-43.2,172.7
+nz,balclutha,Balclutha,F7,4441,-46.233889,169.75
+nz,balfour,Balfour,G2,,-45.833333,168.583333
+nz,ballance,Ballance,G2,,-40.4,175.8
+nz,bankside,Bankside,E7,,-43.7,172.083333
+nz,bannockburn,Bannockburn,G2,,-45.083333,169.166667
+nz,barnego,Barnego,F7,,-46.233333,169.716667
+nz,barnego flat,Barnego Flat,F7,,-46.233333,169.716667
+nz,barrhill,Barrhill,E9,,-43.666667,171.85
+nz,barrys bay,Barrys Bay,E9,,-43.766667,172.9
+nz,barrytown,Barrytown,G3,,-42.25,171.333333
+nz,bartlett,Bartlett,F1,,-38.85,177.883333
+nz,bartlett's,Bartlett's,F1,,-38.85,177.883333
+nz,bastings,Bastings,F2,,-45.783333,169.466667
+nz,batley,Batley,E7,,-36.216667,174.316667
+nz,baton,Baton,F5,,-41.316667,172.716667
+nz,bayleys beach,Bayleys Beach,E7,,-35.95,173.733333
+nz,baylys beach,Baylys Beach,E7,,-35.95,173.733333
+nz,bayswater,Bayswater,E7,,-36.815556,174.773333
+nz,bay view,Bay View,F4,,-39.416667,176.883333
+nz,beachlands,Beachlands,E7,,-36.883333,175
+nz,bealey,Bealey,E9,,-43.033333,171.6
+nz,beaumont,Beaumont,E9,,-45.816667,169.533333
+nz,beautiful valley,Beautiful Valley,E9,,-44.116667,171
+nz,becks,Becks,F7,,-45,169.733333
+nz,belfast,Belfast,E9,,-43.45,172.633333
+nz,belgrove,Belgrove,F5,,-41.45,172.95
+nz,bell block,Bell Block,F9,,-39.033333,174.15
+nz,bell hill,Bell Hill,G3,,-42.55,171.6
+nz,bells,Bells,E9,,-43.3,172.583333
+nz,belmont,Belmont,G2,,-36.8075,174.786389
+nz,bendigo,Bendigo,F7,,-44.916667,169.35
+nz,benhar,Benhar,G2,,-46.233333,169.8
+nz,benmore,Benmore,F1,,-45.95,168.35
+nz,benmore stream,Benmore Stream,F7,,-44.35,170
+nz,bennets,Bennets,E9,,-43.3,172.3
+nz,bennetts,Bennetts,E9,,-43.3,172.3
+nz,berhampore,Berhampore,G2,,-41.316667,174.783333
+nz,berlins,Berlins,F5,,-41.866667,171.833333
+nz,berwen,Berwen,F7,,-44.533333,169.866667
+nz,berwick,Berwick,F7,,-45.95,170.1
+nz,bethlehem,Bethlehem,E8,,-37.7,176.116667
+nz,bexley,Bexley,E9,,-43.35,172.066667
+nz,bideford,Bideford,G2,,-40.866667,175.866667
+nz,big omaha,Big Omaha,E7,,-36.333333,174.733333
+nz,birchfield,Birchfield,F5,,-41.683333,171.8
+nz,birch grove,Birch Grove,F8,,-46.116667,167.733333
+nz,birch hill,Birch Hill,F2,,-41.65,173.283333
+nz,birchwood,Birchwood,G2,,-45.933333,167.866667
+nz,blackball,Blackball,F4,321,-42.366667,171.416667
+nz,blackburn,Blackburn,F2,,-39.866667,176.283333
+nz,blackpool,Blackpool,G2,,-36.788889,175.014444
+nz,blacks point,Blacks Point,F5,,-42.133333,171.883333
+nz,blackstone hill,Blackstone Hill,F7,,-44.95,169.916667
+nz,blackwater,Blackwater,E9,,-42.25,171.766667
+nz,blind river,Blind River,F4,,-41.683333,174.116667
+nz,blueskin,Blueskin,F8,,-45.75,170.566667
+nz,bluespur,Bluespur,E9,,-45.883333,169.683333
+nz,blue spur,Blue Spur,G3,,-42.716667,171.033333
+nz,bluff,Bluff,E7,1938,-46.6,168.333333
+nz,bog roy,Bog Roy,F7,,-44.566667,170.1
+nz,bombay,Bombay,E7,740,-37.166667,174.983333
+nz,bortons,Bortons,F7,,-44.883333,170.766667
+nz,braeburn,Braeburn,F8,,-41.183333,173
+nz,brighams creek,Brighams Creek,E7,,-36.783333,174.6
+nz,brighton,Brighton,F7,,-42.033333,171.383333
+nz,brightwater,Brightwater,G2,1677,-41.383333,173.116667
+nz,broad bay,Broad Bay,F7,,-45.85,170.616667
+nz,broadwood,Broadwood,E7,,-35.266667,173.383333
+nz,bromley,Bromley,E9,,-43.55,172.7
+nz,brooklyn,Brooklyn,G2,,-41.316667,174.75
+nz,brookside,Brookside,G2,,-43.7,172.3
+nz,broughton bay,Broughton Bay,F4,,-41.216667,173.933333
+nz,browns bay,Browns Bay,E7,,-36.716667,174.75
+nz,browns,Browns,F8,,-46.15,168.416667
+nz,bruce bay,Bruce Bay,G3,,-43.583333,169.683333
+nz,brunnerton,Brunnerton,G3,,-42.433333,171.316667
+nz,brunswick,Brunswick,G2,,-39.85,175.016667
+nz,bruntwood,Bruntwood,E7,,-37.85,175.433333
+nz,brydone,Brydone,F8,,-46.25,168.8
+nz,buckland,Buckland,E7,,-37.233333,174.916667
+nz,bull creek,Bull Creek,F7,,-46.183333,170.133333
+nz,bulls,Bulls,G2,1781,-40.166667,175.383333
+nz,bulls town district,Bulls Town District,G2,,-40.166667,175.383333
+nz,bunnythorpe,Bunnythorpe,G2,,-40.283333,175.633333
+nz,buried village,Buried Village,E7,,-38.216667,176.366667
+nz,burkes pass,Burkes Pass,E9,,-44.083333,170.65
+nz,burnham,Burnham,E9,1239,-43.616667,172.316667
+nz,burnside,Burnside,F8,,-45.9,170.45
+nz,burwood,Burwood,E9,,-43.5,172.7
+nz,bush gully,Bush Gully,G2,,-41.316667,175.65
+nz,caberfeidh,Caberfeidh,F8,,-46.516667,169.483333
+nz,cable bay,Cable Bay,E7,,-41.166667,173.416667
+nz,cairnbrae,Cairnbrae,F2,,-43.666667,171.683333
+nz,cambrian,Cambrian,F7,,-44.9,169.75
+nz,camden,Camden,E9,,-41.85,173.683333
+nz,camerons,Camerons,G3,,-42.55,171.133333
+nz,campbells bay,Campbells Bay,E7,,-36.75,174.766667
+nz,canvastown,Canvastown,F4,,-41.3,173.666667
+nz,cape runaway,Cape Runaway,F1,,-37.566667,178.016667
+nz,cardiff,Cardiff,F9,,-39.366667,174.233333
+nz,cardrona,Cardrona,E9,,-44.883333,169
+nz,care,Care,E9,,-44.316667,170.95
+nz,carew,Carew,E9,,-43.966667,171.366667
+nz,carnarvon,Carnarvon,G2,,-40.283333,175.316667
+nz,carswells,Carswells,G2,,-40.933333,175.916667
+nz,carters beach,Carters Beach,F5,,-41.75,171.566667
+nz,carters mill,Carters Mill,G3,,-43.973333,168.854167
+nz,cashmere,Cashmere,G2,,-43.583333,172.633333
+nz,cashmere hills,Cashmere Hills,G2,,-43.583333,172.633333
+nz,cass,Cass,E9,,-43.033333,171.75
+nz,castlecliff,Castlecliff,G2,,-39.95,174.983333
+nz,castle hill,Castle Hill,G2,,-43.233333,171.716667
+nz,castlepoint,Castlepoint,G2,,-40.9,176.216667
+nz,cave,Cave,E9,,-44.316667,170.95
+nz,caversham,Caversham,F7,,-45.9,170.483333
+nz,centre bush,Centre Bush,F8,,-46.05,168.333333
+nz,chaneys,Chaneys,E9,,-43.433333,172.65
+nz,charing cross,Charing Cross,E9,,-43.55,172.15
+nz,charleston,Charleston,F5,,-41.9,171.433333
+nz,charlton,Charlton,F8,,-46.15,168.916667
+nz,charwell forks,Charwell Forks,F1,,-42.416667,173.366667
+nz,chaslands,Chaslands,F7,,-46.583333,169.333333
+nz,chatto creek,Chatto Creek,F7,,-45.133333,169.516667
+nz,chatton,Chatton,F8,,-45.983333,168.916667
+nz,chelsea,Chelsea,E9,,-36.816667,174.7
+nz,cheltenham,Cheltenham,E7,,-40.15,175.666667
+nz,chertsey,Chertsey,E9,,-43.8,171.933333
+nz,chesterfield,Chesterfield,G3,,-42.616667,171.083333
+nz,cheviot,Cheviot,F2,425,-42.816667,173.266667
+nz,chorlton,Chorlton,E9,,-43.716667,173.033333
+nz,christchurch,Christchurch,E9,363925,-43.533333,172.633333
+nz,churchill,Churchill,E7,,-37.416667,175.066667
+nz,clandeboye,Clandeboye,E9,,-44.216667,171.383333
+nz,claremont,Claremont,F2,,-44.383333,171.116667
+nz,clarence,Clarence,F4,,-42.166667,173.933333
+nz,clarendon,Clarendon,E9,,-46.05,170.033333
+nz,clareville,Clareville,G2,,-41.016667,175.55
+nz,clarke's,Clarke's,F7,,-45.733333,170.05
+nz,clarks,Clarks,F7,,-45.733333,170.05
+nz,clarks junction,Clarks Junction,F7,,-45.733333,170.05
+nz,clarksville,Clarksville,F7,,-46.133333,169.916667
+nz,clarkville,Clarkville,E9,,-43.416667,172.616667
+nz,claudelands,Claudelands,E7,,-37.783333,175.283333
+nz,clearburn,Clearburn,F7,,-44.35,170
+nz,clevedon,Clevedon,E7,,-37,175.05
+nz,clifden,Clifden,F8,,-46.033333,167.716667
+nz,cliff road,Cliff Road,G2,,-40.066667,175.416667
+nz,clifton,Clifton,F2,,-43.558333,172.75
+nz,clinton,Clinton,E9,343,-46.2,169.366667
+nz,clive,Clive,F2,,-39.583333,176.916667
+nz,closeburn,Closeburn,E9,,-45.083333,168.466667
+nz,clyde,Clyde,F7,890,-45.183333,169.316667
+nz,clydevale,Clydevale,F7,,-46.1,169.533333
+nz,coal creek,Coal Creek,F5,,-45.483333,169.3
+nz,coal creek flat,Coal Creek Flat,F7,,-45.483333,169.3
+nz,coalgate,Coalgate,E9,,-43.483333,171.966667
+nz,coatesville,Coatesville,E7,,-36.716667,174.65
+nz,cobden,Cobden,G3,,-42.433333,171.216667
+nz,colac bay,Colac Bay,E7,,-46.366667,167.883333
+nz,colac,Colac,E7,,-46.366667,167.883333
+nz,collingwood,Collingwood,F5,,-40.666667,172.683333
+nz,colville,Colville,E7,,-36.633333,175.466667
+nz,colyton,Colyton,G2,,-40.233333,175.65
+nz,conical hill,Conical Hill,F2,,-46.066667,169.233333
+nz,conical hills,Conical Hills,F2,,-46.066667,169.233333
+nz,coopers creek,Coopers Creek,E7,,-43.283333,172.1
+nz,corbyvale,Corbyvale,F5,,-41.5,172.05
+nz,corinth,Corinth,G2,,-39.666667,175.166667
+nz,cormacks,Cormacks,F7,,-45.083333,170.9
+nz,coroglen,Coroglen,E7,,-36.916667,175.7
+nz,coromandel,Coromandel,E7,1502,-36.766667,175.5
+nz,courtenay,Courtenay,E9,,-43.45,172.2
+nz,coutts island,Coutts Island,E9,,-43.433333,172.616667
+nz,cowes,Cowes,E7,,-36.783333,175.15
+nz,craigieburn,Craigieburn,G2,,-43.1,171.866667
+nz,crail bay,Crail Bay,F4,,-41.15,173.966667
+nz,creighton,Creighton,E9,,-45,168.433333
+nz,cricklewood,Cricklewood,F1,,-44.183333,170.866667
+nz,crofton,Crofton,G2,,-40.1,175.383333
+nz,cronadun,Cronadun,F5,,-42.033333,171.866667
+nz,cross creek,Cross Creek,G2,,-41.166667,175.216667
+nz,crushington,Crushington,F5,,-42.15,171.9
+nz,culverden,Culverden,E9,432,-42.766667,172.85
+nz,cunninghams,Cunninghams,G2,,-40.083333,175.65
+nz,cust,Cust,E9,,-43.316667,172.366667
+nz,dacre,Dacre,F8,,-46.316667,168.633333
+nz,dairy flat,Dairy Flat,E7,,-36.666667,174.65
+nz,dalefield,Dalefield,G2,,-41.05,175.483333
+nz,darfield,Darfield,F2,1593,-43.483333,172.116667
+nz,dargaville,Dargaville,E7,4672,-35.933333,173.883333
+nz,dashwood,Dashwood,F4,,-41.633333,174.066667
+nz,dawson falls,Dawson Falls,F9,,-39.333333,174.1
+nz,dawson gate,Dawson Gate,F2,,-39.366667,174.15
+nz,days bay,Days Bay,G2,,-41.266667,174.916667
+nz,deborah,Deborah,F7,,-45.116667,170.933333
+nz,deep creek,Deep Creek,F4,,-41.35,173.633333
+nz,denniston,Denniston,F5,,-41.733333,171.8
+nz,devenport,Devenport,E9,,-36.829722,174.799444
+nz,dipton,Dipton,F8,,-45.9,168.366667
+nz,dobson,Dobson,G3,738,-42.45,171.3
+nz,domett,Domett,E9,,-42.85,173.216667
+nz,donnellys crossing,Donnellys Crossing,E7,,-35.716667,173.616667
+nz,dorie,Dorie,E9,,-43.883333,172.15
+nz,douglas,Douglas,F9,,-39.3,174.466667
+nz,dovedale,Dovedale,F5,,-41.333333,172.933333
+nz,doyleston,Doyleston,E9,,-43.75,172.3
+nz,driving creek,Driving Creek,E7,,-36.733333,175.5
+nz,dromore,Dromore,E9,,-43.85,171.85
+nz,drummond,Drummond,F8,,-46.15,168.15
+nz,drury,Drury,E7,,-37.1,174.95
+nz,drybread,Drybread,F7,,-44.983333,169.616667
+nz,dumbarton,Dumbarton,F7,,-45.6,169.316667
+nz,dunback,Dunback,F7,,-45.383333,170.633333
+nz,dunedin,Dunedin,F7,114346,-45.866667,170.5
+nz,dunrobin,Dunrobin,F7,,-45.8,169.316667
+nz,dunsandel,Dunsandel,E9,438,-43.666667,172.183333
+nz,duntroon,Duntroon,F4,,-44.866667,170.683333
+nz,duvauchelle,Duvauchelle,E9,,-43.75,172.933333
+nz,duvauchelles,Duvauchelles,E9,,-43.75,172.933333
+nz,ealing,Ealing,E9,,-44.05,171.416667
+nz,earnscleugh,Earnscleugh,F7,,-45.216667,169.316667
+nz,earnscleugh settlement,Earnscleugh Settlement,F7,,-45.216667,169.316667
+nz,eastbourne,Eastbourne,E9,,-41.3,174.9
+nz,east cape,East Cape,F1,,-37.7,178.55
+nz,east chatton,East Chatton,F8,,-45.983333,168.966667
+nz,east end,East End,F9,,-46.604167,168.347222
+nz,eastern bush,Eastern Bush,F8,,-45.983333,167.766667
+nz,east taieri,East Taieri,F7,,-45.9,170.333333
+nz,east takaka,East Takaka,F5,,-40.916667,172.833333
+nz,east tamaki,East Tamaki,E7,,-36.95,174.9
+nz,edendale,Edendale,G2,583,-46.316667,168.783333
+nz,edendale town district,Edendale Town District,G2,,-46.316667,168.783333
+nz,edgecumbe,Edgecumbe,E7,1642,-37.983333,176.833333
+nz,edievale,Edievale,F7,,-45.8,169.366667
+nz,egmont village,Egmont Village,F9,479,-39.15,174.15
+nz,eiffelton,Eiffelton,E9,,-44.033333,171.683333
+nz,elgin,Elgin,F2,,-43.95,171.816667
+nz,ellesmere,Ellesmere,G2,,-43.683333,172.366667
+nz,elsthorpe,Elsthorpe,F2,,-39.916667,176.816667
+nz,eltham,Eltham,F9,2235,-39.429167,174.3
+nz,endeavour inlet,Endeavour Inlet,F4,,-41.083333,174.183333
+nz,enfield,Enfield,F2,,-44.966667,170.783333
+nz,erehwon,Erehwon,G2,,-39.516667,175.966667
+nz,erina,Erina,F4,,-41.55,173.6
+nz,erua,Erua,G2,,-39.233333,175.4
+nz,eskdale,Eskdale,F2,,-39.4,176.833333
+nz,esk valley,Esk Valley,E9,,-44.533333,171.083333
+nz,ethelton,Ethelton,E9,,-42.883333,173.083333
+nz,eureka,Eureka,E7,,-37.733333,175.416667
+nz,evansdale,Evansdale,F8,,-45.716667,170.566667
+nz,evans flat,Evans Flat,E9,,-45.9,169.633333
+nz,eyre creek,Eyre Creek,F8,,-45.583333,168.466667
+nz,fabians valley,Fabians Valley,E7,,-41.5,173.583333
+nz,fairburn,Fairburn,F5,,-35.1,173.4
+nz,fairdown,Fairdown,F5,,-41.733333,171.7
+nz,fairfax,Fairfax,F8,,-46.2,168.05
+nz,fairfield,Fairfield,F2,,-45.9,170.4
+nz,fairlie,Fairlie,G2,788,-44.1,170.833333
+nz,fairton,Fairton,E9,,-43.866667,171.8
+nz,fairview,Fairview,F2,,-44.416667,171.166667
+nz,favona,Favona,E7,,-36.933333,174.8
+nz,fendalton,Fendalton,E9,,-43.516667,172.6
+nz,fergusons,Fergusons,G3,,-42.966667,170.733333
+nz,fern flat,Fern Flat,E7,,-41.783333,172.25
+nz,fernhill,Fernhill,F2,,-39.583333,176.766667
+nz,fernleigh,Fernleigh,F4,,-37.25,174.75
+nz,fernside,Fernside,F1,,-41.083333,175.366667
+nz,fitzroy,Fitzroy,F9,,-39.05,174.1
+nz,five rivers,Five Rivers,F8,,-45.616667,168.45
+nz,flagstaff,Flagstaff,F2,,-45.833333,170.483333
+nz,flaxton,Flaxton,E9,,-43.35,172.633333
+nz,flemington,Flemington,F2,,-44.016667,171.733333
+nz,flints bush,Flints Bush,F8,,-46.3,168.15
+nz,fordell,Fordell,G2,,-39.966667,175.2
+nz,forsyth,Forsyth,F7,,-45.95,169.733333
+nz,fort galatea,Fort Galatea,E7,,-38.4,176.733333
+nz,fortrose,Fortrose,F8,,-46.566667,168.8
+nz,foxhill,Foxhill,F5,,-41.433333,172.983333
+nz,foxton beach,Foxton Beach,F1,,-40.466667,175.216667
+nz,foxton,Foxton,F1,4780,-40.466667,175.3
+nz,frankton,Frankton,F7,,-45.016667,168.716667
+nz,frankton junction,Frankton Junction,E7,,-37.8,175.266667
+nz,frankton wharf,Frankton Wharf,F7,,-45.016667,168.716667
+nz,franz josef,Franz Josef,F8,315,-43.4,170.183333
+nz,franz josef glacier,Franz Josef Glacier,F8,,-43.4,170.183333
+nz,frasertown,Frasertown,F1,302,-38.968611,177.400556
+nz,french farm,French Farm,E9,,-43.783333,172.9
+nz,freshford,Freshford,F8,,-45.783333,168.783333
+nz,fruitlands,Fruitlands,F7,,-45.35,169.3
+nz,galloway,Galloway,G2,,-45.216667,169.45
+nz,garston,Garston,F8,,-45.466667,168.683333
+nz,gate pa,Gate Pa,E8,,-37.716667,176.133333
+nz,georgetown,Georgetown,F7,,-44.916667,170.85
+nz,gibbston,Gibbston,F7,,-45.033333,168.966667
+nz,gimmerburn,Gimmerburn,F7,,-45.166667,170
+nz,gisborne,Gisborne,F1,34274,-38.653333,178.004167
+nz,gladstone,Gladstone,G2,,-41.083333,175.65
+nz,glen afton,Glen Afton,E7,,-37.616667,175.033333
+nz,glenavy,Glenavy,E9,,-44.916667,171.1
+nz,glenbrook,Glenbrook,F2,,-37.216667,174.783333
+nz,glencoe,Glencoe,E7,,-46.183333,168.683333
+nz,glendhu,Glendhu,F1,,-44.666667,169.016667
+nz,glenduan,Glenduan,F5,,-41.186111,173.365
+nz,glen eden,Glen Eden,G2,,-36.916667,174.65
+nz,glen eden town district,Glen Eden Town District,G2,,-36.916667,174.65
+nz,glenfield,Glenfield,F8,,-36.766667,174.733333
+nz,glengarry,Glengarry,F2,,-41.833333,172.233333
+nz,glenham,Glenham,F8,,-46.4,168.85
+nz,glenhope,Glenhope,F2,,-41.65,172.65
+nz,gleniti,Gleniti,F4,,-44.383333,171.2
+nz,glenkenich,Glenkenich,F7,,-45.966667,169.233333
+nz,glenledi,Glenledi,F7,,-46.183333,170.083333
+nz,glenlee,Glenlee,F4,,-41.883333,173.6
+nz,glen murray,Glen Murray,E7,,-37.45,174.966667
+nz,glenomaru,Glenomaru,F7,,-46.383333,169.683333
+nz,glenorchy,Glenorchy,F2,,-44.85,168.383333
+nz,glenore,Glenore,F2,,-46.1,169.866667
+nz,glen oroua,Glen Oroua,G2,,-40.333333,175.4
+nz,glenorve,Glenorve,G2,,-40.333333,175.4
+nz,glenpark,Glenpark,E9,,-45.433333,170.666667
+nz,glenroy,Glenroy,F8,,-43.516667,171.833333
+nz,glentanner,Glentanner,E9,,-43.9,170.116667
+nz,glentunnel,Glentunnel,E9,,-43.483333,171.933333
+nz,glinkes gully,Glinkes Gully,E7,,-36.083333,173.866667
+nz,glinks gully,Glinks Gully,E7,,-36.083333,173.866667
+nz,glorit,Glorit,E7,,-36.483333,174.45
+nz,golden downs,Golden Downs,F5,,-41.583333,172.883333
+nz,goldsboro,Goldsboro,F1,,-42.666667,171.116667
+nz,goldsborough,Goldsborough,F1,,-42.666667,171.116667
+nz,goodwood,Goodwood,F7,,-45.55,170.716667
+nz,goose bay,Goose Bay,F4,,-42.483333,173.533333
+nz,gordon,Gordon,E7,,-37.7,175.833333
+nz,gordonton,Gordonton,E7,,-37.666667,175.3
+nz,gorge road,Gorge Road,F8,,-46.483333,168.7
+nz,gowanbridge,Gowanbridge,F5,,-41.716667,172.566667
+nz,gracefield,Gracefield,G2,,-41.233333,174.916667
+nz,grahams beach,Grahams Beach,E7,,-37.066667,174.633333
+nz,granity,Granity,F5,,-41.633333,171.85
+nz,greatford,Greatford,G2,,-40.133333,175.416667
+nz,greenfield,Greenfield,F7,,-46.1,169.583333
+nz,greenhills,Greenhills,G2,,-46.55,168.3
+nz,greenhithe,Greenhithe,E7,,-36.766667,174.683333
+nz,greenmeadows,Greenmeadows,F2,,-39.533333,176.866667
+nz,greenpark,Greenpark,E9,,-43.683333,172.5
+nz,greenstone,Greenstone,F1,,-42.633333,171.266667
+nz,greenvale,Greenvale,F8,,-45.883333,169.05
+nz,green valley,Green Valley,E9,,-45.283333,170.516667
+nz,greerton,Greerton,E7,,-37.716667,176.133333
+nz,greville harbour,Greville Harbour,F5,,-40.816667,173.8
+nz,greymouth,Greymouth,G3,9418,-42.466667,171.2
+nz,grove bush,Grove Bush,F8,,-46.3,168.483333
+nz,grove,Grove,F4,,-41.283333,173.916667
+nz,grovetown,Grovetown,F4,,-41.483333,173.966667
+nz,gummies bush,Gummies Bush,F8,,-46.283333,168.016667
+nz,guthrie,Guthrie,E7,,-38.3,176.15
+nz,haast,Haast,G3,,-43.883333,169.05
+nz,hackthorne,Hackthorne,E9,,-43.816667,171.566667
+nz,hairini,Hairini,E7,,-37.733333,176.166667
+nz,hakahaka,Hakahaka,F1,,-41.3,174.116667
+nz,hakaru,Hakaru,E7,,-36.133333,174.516667
+nz,hakataramea,Hakataramea,E9,,-44.733333,170.483333
+nz,hakatere,Hakatere,E9,,-44.05,171.8
+nz,halcombe,Halcombe,E9,446,-40.15,175.5
+nz,haldane,Haldane,F8,,-46.633333,169
+nz,half-moon bay,Half-moon Bay,G2,,-46.9,168.133333
+nz,halfway bush,Halfway Bush,F2,,-45.85,170.466667
+nz,halkett,Halkett,E9,,-43.483333,172.3
+nz,halkett town,Halkett Town,E9,,-43.483333,172.3
+nz,halswell,Halswell,E9,,-43.583333,172.566667
+nz,hamilton bay,Hamilton Bay,F7,,-40.983333,173.85
+nz,hamilton city,Hamilton City,G1,,-37.783333,175.283333
+nz,hamilton,Hamilton,G1,152642,-37.783333,175.283333
+nz,hampden,Hampden,F7,,-41.8,172.333333
+nz,hamurana,Hamurana,E7,,-38.033333,176.266667
+nz,hamurana springs,Hamurana Springs,E7,,-38.033333,176.266667
+nz,hangatiki,Hangatiki,E7,,-38.25,175.166667
+nz,hanmer,Hanmer,E9,,-42.516667,172.816667
+nz,hanmer springs,Hanmer Springs,E9,784,-42.516667,172.816667
+nz,hapuku,Hapuku,F4,,-42.333333,173.733333
+nz,harapepe,Harapepe,E7,,-37.933333,175.133333
+nz,harewood,Harewood,F1,,-43.483333,172.583333
+nz,harewood settlement,Harewood Settlement,F1,,-43.483333,172.583333
+nz,harihari,Harihari,E7,345,-43.15,170.55
+nz,haruru,Haruru,E7,,-35.266667,174.05
+nz,hastings,Hastings,F2,61696,-39.65,176.833333
+nz,hastwell,Hastwell,G2,,-40.716667,175.7
+nz,hastwells,Hastwells,G2,,-40.716667,175.7
+nz,hataitai,Hataitai,G2,,-41.3,174.8
+nz,hatfield,Hatfield,E9,,-43.766667,171.966667
+nz,hatuma,Hatuma,F2,,-40.033333,176.5
+nz,haumoana,Haumoana,E9,,-39.616667,176.95
+nz,haunui,Haunui,F2,,-40.6,176.05
+nz,hautapu,Hautapu,F2,,-37.866667,175.45
+nz,hauturu,Hauturu,F1,,-38.1,174.933333
+nz,hauwai,Hauwai,F4,,-41.75,174.15
+nz,havelock,Havelock,F4,504,-41.283333,173.766667
+nz,havelock north,Havelock North,F2,,-39.666667,176.883333
+nz,havelock north town district,Havelock North Town District,F2,,-39.666667,176.883333
+nz,havelock suburban,Havelock Suburban,F4,,-41.366667,173.766667
+nz,havelock town district,Havelock Town District,F4,,-41.283333,173.766667
+nz,hawarden,Hawarden,F2,,-42.933333,172.633333
+nz,hawea flat,Hawea Flat,F7,,-44.65,169.3
+nz,hawera,Hawera,E7,11069,-39.591667,174.283333
+nz,hawkeswood,Hawkeswood,F2,,-42.65,173.333333
+nz,hawkins,Hawkins,E9,,-43.483333,172.033333
+nz,hawkswood,Hawkswood,F2,,-42.65,173.333333
+nz,haywards,Haywards,G2,,-41.15,174.983333
+nz,hazelburn,Hazelburn,E9,,-44.2,170.983333
+nz,hazletts,Hazletts,F8,,-46.266667,168.083333
+nz,heathcote,Heathcote,F7,,-43.583333,172.716667
+nz,heathcote valley,Heathcote Valley,E9,,-43.583333,172.716667
+nz,hector,Hector,F5,,-41.6,171.883333
+nz,heddon bush,Heddon Bush,F8,,-46.083333,168.15
+nz,hedgehope,Hedgehope,F8,,-46.2,168.533333
+nz,helena bay,Helena Bay,E7,,-35.433333,174.35
+nz,helvetia,Helvetia,E7,,-37.183333,174.866667
+nz,henley,Henley,F7,,-45.983333,170.166667
+nz,herbert,Herbert,F7,,-45.233333,170.783333
+nz,herbertville,Herbertville,F2,,-40.499444,176.545833
+nz,herekino,Herekino,E7,,-35.25,173.216667
+nz,herepo,Herepo,G3,,-43.116667,170.55
+nz,heretaunga,Heretaunga,G2,,-41.15,175.033333
+nz,heriot,Heriot,F7,,-45.833333,169.266667
+nz,herne bay,Herne Bay,E7,,-36.846111,174.729167
+nz,herriot,Herriot,F7,,-45.833333,169.266667
+nz,hicks bay,Hicks Bay,F1,,-37.6,178.3
+nz,highbank,Highbank,E9,,-43.616667,171.75
+nz,highcliffe,Highcliffe,E9,,-45.883333,170.583333
+nz,highcliff,Highcliff,F7,,-45.883333,170.583333
+nz,hihitahi,Hihitahi,G2,,-39.566667,175.7
+nz,hikuai,Hikuai,E7,,-37.083333,175.783333
+nz,hikumutu,Hikumutu,G2,,-38.95,175.283333
+nz,hikurangi,Hikurangi,F9,,-35.6,174.3
+nz,hikurangi town district,Hikurangi Town District,F9,,-35.6,174.3
+nz,hikutaia,Hikutaia,E7,,-37.283333,175.65
+nz,hilderthorpe,Hilderthorpe,F7,,-44.983333,171.066667
+nz,hillend,Hillend,F7,,-46.133333,169.75
+nz,hillersden,Hillersden,F4,,-41.6,173.433333
+nz,hillgrove,Hillgrove,F8,,-45.366667,170.833333
+nz,hillsborough,Hillsborough,E7,,-39.1,174.15
+nz,hilton,Hilton,E9,,-44.15,171.166667
+nz,himatangi,Himatangi,G2,538,-40.4,175.316667
+nz,hinahina,Hinahina,F7,,-46.483333,169.666667
+nz,hinakura,Hinakura,G2,,-41.3,175.633333
+nz,hindon,Hindon,F7,,-45.733333,170.3
+nz,hindon railway,Hindon Railway,F7,,-45.716667,170.333333
+nz,hinds,Hinds,E9,,-44,171.566667
+nz,hinerua,Hinerua,F8,,-39.85,176.233333
+nz,hinuera,Hinuera,E7,,-37.883333,175.766667
+nz,hira,Hira,F5,,-41.215278,173.396111
+nz,hirstfield,Hirstfield,F8,,-46.283333,167.733333
+nz,hiruharama,Hiruharama,F1,,-39.55,175.066667
+nz,hiwipango,Hiwipango,F5,,-41.516667,172.933333
+nz,hobsonville,Hobsonville,E7,,-36.8,174.666667
+nz,ho ho,Ho Ho,G3,,-42.716667,171.033333
+nz,hohonu,Hohonu,G3,,-42.683333,171.266667
+nz,hokio,Hokio,G2,,-40.583333,175.183333
+nz,hokitika,Hokitika,G3,3401,-42.716667,170.966667
+nz,hokonui,Hokonui,G2,,-46.116667,168.483333
+nz,homai,Homai,E7,,-37.016667,174.883333
+nz,homedale,Homedale,G2,,-41.266667,174.95
+nz,homewood,Homewood,F2,,-41.1,173.95
+nz,honikiwi,Honikiwi,E7,,-38.15,175.1
+nz,hook,Hook,E9,,-44.683333,171.133333
+nz,hope,Hope,G2,,-41.366667,173.15
+nz,hopelands,Hopelands,F2,,-40.35,175.966667
+nz,horeke,Horeke,E7,,-35.35,173.6
+nz,hornby,Hornby,E9,,-43.55,172.533333
+nz,horndon,Horndon,F2,,-43.483333,172.116667
+nz,horoeke,Horoeke,E7,,-35.35,173.6
+nz,horoera,Horoera,F1,,-37.65,178.483333
+nz,horopito,Horopito,G2,,-39.35,175.383333
+nz,hororata,Hororata,E9,,-43.533333,171.95
+nz,horotiu,Horotiu,E7,,-37.716667,175.2
+nz,horrelville,Horrelville,E9,,-43.333333,172.333333
+nz,horseshoe bend,Horseshoe Bend,F2,,-45.75,169.466667
+nz,hoteo,Hoteo,E7,,-36.383333,174.533333
+nz,houhora,Houhora,E7,,-34.783333,173.1
+nz,houipapa,Houipapa,F7,,-46.483333,169.566667
+nz,houpoto,Houpoto,F1,,-37.883333,177.583333
+nz,houto,Houto,E7,,-35.75,173.983333
+nz,howard,Howard,F5,,-41.766667,172.666667
+nz,howard junction,Howard Junction,F2,,-41.7,172.666667
+nz,howick,Howick,E7,,-36.883333,174.933333
+nz,howick town district,Howick Town District,E7,,-36.883333,174.933333
+nz,huapai,Huapai,E7,,-36.766667,174.55
+nz,huarau,Huarau,E7,,-36.1,174.3
+nz,huatoki,Huatoki,F2,,-39.133333,174.05
+nz,huhuka,Huhuka,G3,,-43.966667,168.916667
+nz,huia,Huia,E7,,-37,174.583333
+nz,huinga,Huinga,F9,,-39.35,174.416667
+nz,huirangi,Huirangi,F9,,-39.05,174.266667
+nz,huiroa,Huiroa,F9,,-39.25,174.466667
+nz,hukanui,Hukanui,F2,,-40.566667,175.7
+nz,hukapapa,Hukapapa,G2,,-39.05,175.383333
+nz,hukarere,Hukarere,F5,,-42.25,171.7
+nz,hukerenui,Hukerenui,E7,,-35.516667,174.183333
+nz,humphreys,Humphreys,G3,,-42.733333,171.116667
+nz,humua,Humua,F2,,-40.566667,175.733333
+nz,hundalee,Hundalee,F4,,-42.566667,173.433333
+nz,hunter,Hunter,E9,,-44.616667,171.05
+nz,hunterville,Hunterville,G2,520,-39.933333,175.566667
+nz,hunterville town district,Hunterville Town District,G2,,-39.933333,175.566667
+nz,hunts road,Hunts Road,F7,,-46.416667,169.666667
+nz,hunua,Hunua,E7,,-37.083333,175.066667
+nz,hurleyville,Hurleyville,F9,,-39.633333,174.5
+nz,huruiki,Huruiki,E7,,-35.466667,174.316667
+nz,hyde,Hyde,F7,,-45.3,170.25
+nz,idaburn valley,Idaburn Valley,F7,,-45.033333,169.833333
+nz,ida valley,Ida Valley,F7,,-45.033333,169.833333
+nz,ikamatua,Ikamatua,F5,,-42.266667,171.683333
+nz,ikawai,Ikawai,E9,,-44.866667,170.85
+nz,inaha,Inaha,F9,,-39.566667,174.166667
+nz,inangahua camp,Inangahua Camp,F5,,-41.85,171.933333
+nz,inangahua,Inangahua,F5,,-41.85,171.95
+nz,inangahua junction,Inangahua Junction,F5,,-41.85,171.95
+nz,inangahua landing,Inangahua Landing,F5,,-41.916667,171.883333
+nz,inchbonnie,Inchbonnie,G3,,-42.733333,171.466667
+nz,invercargill,Invercargill,F8,47287,-46.4,168.35
+nz,irwell,Irwell,E9,,-43.716667,172.333333
+nz,isla bank,Isla Bank,F8,,-46.2,168.133333
+nz,island bay,Island Bay,E9,,-41.333333,174.783333
+nz,island block,Island Block,E7,,-45.75,169.466667
+nz,island cliff,Island Cliff,F7,,-44.95,170.666667
+nz,jackson,Jackson,F9,,-42.75,171.516667
+nz,jacksons,Jacksons,G3,,-42.75,171.516667
+nz,jamestown,Jamestown,F7,,-44.4,168.05
+nz,jerusalem,Jerusalem,G2,,-39.55,175.066667
+nz,johnsonville,Johnsonville,G2,,-41.233333,174.783333
+nz,johnsonville town district,Johnsonville Town District,G2,,-41.233333,174.783333
+nz,johnstone,Johnstone,F4,,-46.016667,169.766667
+nz,johnstone's,Johnstone's,F4,,-46.016667,169.766667
+nz,jordan,Jordan,F4,,-41.816667,173.766667
+nz,judgeford,Judgeford,G2,,-41.116667,174.933333
+nz,kaawa,Kaawa,E7,,-37.5,174.833333
+nz,kaeaea,Kaeaea,E7,,-38.383333,175.066667
+nz,kaeo,Kaeo,E7,508,-35.1,173.783333
+nz,kaharoa,Kaharoa,F1,,-38.016667,176.216667
+nz,kahuika,Kahuika,F7,,-46.516667,169.466667
+nz,kahutara,Kahutara,E7,,-41.233333,175.333333
+nz,kaiaka,Kaiaka,E7,,-35.1,173.416667
+nz,kaiata,Kaiata,G3,,-42.466667,171.25
+nz,kaiaua,Kaiaua,F1,,-37.133333,175.283333
+nz,kaihere,Kaihere,E7,,-37.366667,175.433333
+nz,kaihiku,Kaihiku,F7,,-46.233333,169.55
+nz,kaihinu,Kaihinu,G2,,-42.683333,171.016667
+nz,kaihu,Kaihu,E7,,-35.766667,173.7
+nz,kai iwi beach,Kai Iwi Beach,G2,,-39.866667,174.9
+nz,kai iwi,Kai Iwi,G2,,-39.85,174.933333
+nz,kaikarangi,Kaikarangi,G2,,-39.9,175.6
+nz,kaikora,Kaikora,F1,,-39.893056,176.599167
+nz,kaikou,Kaikou,E7,,-35.55,173.95
+nz,kaikoura,Kaikoura,F1,,-42.416667,173.683333
+nz,kaikoura suburban,Kaikoura Suburban,F1,,-42.383333,173.65
+nz,kaimai,Kaimai,E8,,-37.833333,175.966667
+nz,kaimata,Kaimata,F9,,-39.166667,174.3
+nz,kaimaumau,Kaimaumau,E7,,-34.916667,173.266667
+nz,kaimiro,Kaimiro,F9,,-39.2,174.15
+nz,kaingapai hakataramea station,Kaingapai Hakataramea Station,E9,,-44.6,170.566667
+nz,kaingapai,Kaingapai,E9,,-44.6,170.566667
+nz,kaingaroa,Kaingaroa,E7,,-35.033333,173.333333
+nz,kaipaki,Kaipaki,E7,,-37.933333,175.366667
+nz,kaipara flat,Kaipara Flat,E7,,-36.416667,174.55
+nz,kaipara flats,Kaipara Flats,E7,,-36.416667,174.55
+nz,kairanga,Kairanga,G2,,-40.35,175.533333
+nz,kairara,Kairara,E7,,-35.8,173.816667
+nz,kairua,Kairua,E7,,-37.716667,176.283333
+nz,kairuru,Kairuru,F5,,-41.033333,172.933333
+nz,kaitangata,Kaitangata,F4,851,-46.275,169.85
+nz,kaitaratahi,Kaitaratahi,F1,,-38.533333,177.916667
+nz,kaitawa,Kaitawa,F1,,-40.5,175.883333
+nz,kaitieke,Kaitieke,G2,,-39.1,175.266667
+nz,kaitoke,Kaitoke,F2,,-41.083333,175.166667
+nz,kaituna,Kaituna,G2,,-41.466667,173.783333
+nz,kaiuma,Kaiuma,F4,,-41.233333,173.766667
+nz,kaiwaka,Kaiwaka,F2,565,-36.166667,174.45
+nz,kaiwarawara,Kaiwarawara,G2,,-41.266667,174.783333
+nz,kaiwarra,Kaiwarra,G2,,-41.266667,174.783333
+nz,kaiwhara,Kaiwhara,G2,,-41.266667,174.783333
+nz,kaiwharawhara,Kaiwharawhara,G2,,-41.266667,174.783333
+nz,kakahi,Kakahi,G2,,-38.916667,175.383333
+nz,kakahu bush,Kakahu Bush,E9,,-44.15,171.116667
+nz,kakanui,Kakanui,E7,443,-45.183333,170.9
+nz,kakapo bay,Kakapo Bay,F1,,-41.333333,174.116667
+nz,kaka point,Kaka Point,F7,,-46.383333,169.783333
+nz,kakapotahi,Kakapotahi,G3,,-42.983333,170.7
+nz,kakapuaka,Kakapuaka,F7,,-46.266667,169.716667
+nz,kakaramea,Kakaramea,G2,,-39.716667,174.45
+nz,kakatahi,Kakatahi,G2,,-39.683333,175.333333
+nz,kamahi,Kamahi,G2,,-46.333333,168.716667
+nz,kamaka,Kamaka,G3,,-42.433333,171.383333
+nz,kamo,Kamo,E7,,-35.683333,174.316667
+nz,kamo town district,Kamo Town District,E7,,-35.683333,174.316667
+nz,kaniere,Kaniere,G3,,-42.75,171
+nz,kanieri,Kanieri,G3,,-42.75,171
+nz,kanohi,Kanohi,E7,,-36.583333,174.516667
+nz,kapara,Kapara,F9,,-39.533333,174.75
+nz,kaponga,Kaponga,F9,357,-39.433333,174.15
+nz,kaponga town district,Kaponga Town District,F9,,-39.433333,174.15
+nz,kapowai,Kapowai,F5,,-40.9,173.833333
+nz,kapuka,Kapuka,F8,,-46.466667,168.633333
+nz,kapuni,Kapuni,F9,,-39.483333,174.133333
+nz,karamea,Karamea,F2,500,-41.25,172.116667
+nz,karamu,Karamu,F2,,-37.883333,175.133333
+nz,karangahake,Karangahake,E7,,-37.433333,175.716667
+nz,karangarua,Karangarua,G3,,-43.533333,169.816667
+nz,karekare,Karekare,F1,,-36.983333,174.483333
+nz,karetu,Karetu,E7,,-35.366667,174.15
+nz,karewa,Karewa,F1,,-43.8,-176.466667
+nz,karewarewa,Karewarewa,G2,,-39.866667,175.95
+nz,karioi,Karioi,G2,,-39.45,175.516667
+nz,karitane,Karitane,E9,427,-45.65,170.666667
+nz,karori,Karori,G2,,-41.283333,174.733333
+nz,kartigi,Kartigi,F7,,-45.4,170.833333
+nz,katea,Katea,F7,,-46.416667,169.633333
+nz,katikati,Katikati,E7,3232,-37.55,175.916667
+nz,katiki,Katiki,F7,,-45.4,170.833333
+nz,kauaeranga,Kauaeranga,E7,,-37.166667,175.583333
+nz,kauangaroa,Kauangaroa,G2,,-39.916667,175.3
+nz,kauhoe,Kauhoe,F8,,-45.733333,168.666667
+nz,kaukapakapa,Kaukapakapa,E7,,-36.616667,174.5
+nz,kaupokonui,Kaupokonui,F9,,-39.55,174.066667
+nz,kauri,Kauri,E7,,-35.633333,174.3
+nz,kauroa,Kauroa,E7,,-37.833333,174.933333
+nz,kauru hill,Kauru Hill,F7,,-45.1,170.75
+nz,kauwhata,Kauwhata,G2,,-37.4,175.15
+nz,kawakawa,Kawakawa,E7,1399,-35.383333,174.066667
+nz,kawakawa town district,Kawakawa Town District,E7,,-35.383333,174.066667
+nz,kawatiri,Kawatiri,F2,,-41.7,172.6
+nz,kawau island,Kawau Island,E7,,-36.416667,174.85
+nz,kaweku,Kaweku,F5,,-45.933333,168.7
+nz,kawerau,Kawerau,E7,6702,-38.1,176.7
+nz,kawhia,Kawhia,E7,543,-38.066667,174.816667
+nz,kawhia town district,Kawhia Town District,E7,,-38.066667,174.816667
+nz,kawiti,Kawiti,E7,,-35.416667,173.95
+nz,kekerangu,Kekerangu,F4,,-42,174.016667
+nz,kekerengu,Kekerengu,F4,,-42,174.016667
+nz,kelburn,Kelburn,G2,,-41.283333,174.766667
+nz,kelchers,Kelchers,E9,,-44.783333,170.85
+nz,kelso,Kelso,F7,,-45.9,169.233333
+nz,kelvin grove,Kelvin Grove,F2,,-40.333333,175.633333
+nz,kenana,Kenana,E7,,-35.05,173.566667
+nz,kenepuru head,Kenepuru Head,F4,,-41.166667,174.116667
+nz,kennedys bay,Kennedys Bay,E7,,-36.683333,175.55
+nz,kennington,Kennington,F8,,-46.4,168.45
+nz,kent road,Kent Road,F9,,-39.133333,174.116667
+nz,kerepeehi,Kerepeehi,E7,,-37.3,175.533333
+nz,kerepehi,Kerepehi,E7,537,-37.3,175.533333
+nz,kereta,Kereta,E7,,-36.866667,175.416667
+nz,kerikeri inlet,Kerikeri Inlet,E7,,-35.2,174.033333
+nz,kerikeri,Kerikeri,F2,5654,-35.216667,173.966667
+nz,kerrytown,Kerrytown,E9,,-44.283333,171.2
+nz,khandallah,Khandallah,G2,,-41.25,174.783333
+nz,kihikihi,Kihikihi,E7,,-38.033333,175.35
+nz,kihikihi town district,Kihikihi Town District,E7,,-38.033333,175.35
+nz,kikiwa,Kikiwa,F5,,-41.65,172.866667
+nz,kilbirnie,Kilbirnie,G2,,-41.316667,174.8
+nz,killinchy,Killinchy,E9,,-43.733333,172.25
+nz,kimbell,Kimbell,E9,,-44.05,170.75
+nz,kimbolton,Kimbolton,G2,,-40.05,175.783333
+nz,kimihia,Kimihia,E7,,-37.516667,175.166667
+nz,kingsdown,Kingsdown,E9,,-44.466667,171.216667
+nz,kingston,Kingston,G2,,-45.333333,168.7
+nz,kinikini,Kinikini,F2,,-39.151944,177.835278
+nz,kinleith,Kinleith,E7,,-38.283333,175.9
+nz,kinloch,Kinloch,F1,,-44.85,168.333333
+nz,kinohaku,Kinohaku,E7,,-38.15,174.833333
+nz,kioreroa,Kioreroa,F6,,-35.733333,174.35
+nz,kirikau,Kirikau,G2,,-39.016667,175.133333
+nz,kirikopuni,Kirikopuni,E7,,-35.816667,174.016667
+nz,kirikopunui,Kirikopunui,E7,,-35.816667,174.016667
+nz,kiripaka,Kiripaka,E7,,-35.633333,174.433333
+nz,kiritaki,Kiritaki,F2,,-40.233333,175.983333
+nz,kiritehere,Kiritehere,E7,,-38.333333,174.733333
+nz,kirwee,Kirwee,E9,,-43.5,172.216667
+nz,kiteroa,Kiteroa,F1,,-45.7,170.25
+nz,kiwi,Kiwi,F2,,-41.5,172.75
+nz,kiwitahi,Kiwitahi,E7,,-37.7,175.6
+nz,kiwitea,Kiwitea,G2,,-40.116667,175.733333
+nz,knapdale,Knapdale,F8,,-46.016667,168.916667
+nz,kohekohe,Kohekohe,G2,,-37.183333,174.65
+nz,kohukohu,Kohukohu,E7,,-35.35,173.533333
+nz,kohukohu town district,Kohukohu Town District,E7,,-35.35,173.533333
+nz,kohumaru,Kohumaru,E7,,-35.066667,173.533333
+nz,kohuratahi,Kohuratahi,F9,,-39.1,174.766667
+nz,koiterangi,Koiterangi,G3,,-42.866667,171.016667
+nz,kokakoriki,Kokakoriki,G2,,-39.033333,175.116667
+nz,kokapo,Kokapo,E7,,-36.283333,174.466667
+nz,kokatahi,Kokatahi,G3,,-42.833333,171.033333
+nz,kokiri,Kokiri,G3,,-42.5,171.383333
+nz,kokonga,Kokonga,F1,,-45.216667,170.25
+nz,kokopu,Kokopu,E7,,-35.7,174.133333
+nz,komako,Komako,G2,,-45.183333,170.166667
+nz,komakorau,Komakorau,E7,,-37.633333,175.266667
+nz,komata,Komata,F2,,-37.366667,175.733333
+nz,komata north,Komata North,E7,,-37.333333,175.666667
+nz,komiti,Komiti,E7,,-35.05,173.5
+nz,kongahu,Kongahu,F5,,-41.3,172.1
+nz,konini,Konini,F2,,-40.5,175.783333
+nz,kononi,Kononi,F7,,-45.966667,169.533333
+nz,kopaki,Kopaki,E7,,-38.466667,175.266667
+nz,kopua,Kopua,F2,,-40.083333,176.3
+nz,kopuaranga,Kopuaranga,G2,,-40.833333,175.666667
+nz,kopuawhara,Kopuawhara,F2,,-38.966667,177.9
+nz,kopu,Kopu,E7,,-37.183333,175.566667
+nz,kopuku,Kopuku,E7,,-37.283333,175.166667
+nz,kopuriki,Kopuriki,E7,,-38.333333,176.783333
+nz,koputaroa,Koputaroa,G2,,-40.583333,175.333333
+nz,koraki,Koraki,F2,,-39.283333,176.85
+nz,korakonui,Korakonui,E7,,-38.166667,175.433333
+nz,korere,Korere,F5,,-41.533333,172.8
+nz,korere valley,Korere Valley,F5,,-41.516667,172.8
+nz,koriniti,Koriniti,G2,,-39.666667,175.166667
+nz,korito,Korito,F9,,-39.166667,174.1
+nz,korokoro,Korokoro,G2,,-41.216667,174.866667
+nz,koromiko,Koromiko,F4,,-41.35,173.95
+nz,kororareka,Kororareka,F2,,-35.266667,174.116667
+nz,kotemaori,Kotemaori,F2,,-39.066667,177.033333
+nz,kotuku,Kotuku,G2,,-42.55,171.466667
+nz,koutu,Koutu,E7,,-35.466667,173.416667
+nz,kowai bush,Kowai Bush,E9,,-43.3,171.916667
+nz,kowhatu,Kowhatu,E9,,-44.566667,170.666667
+nz,kowhitirangi,Kowhitirangi,G3,,-42.866667,171.016667
+nz,kuaotunu,Kuaotunu,E7,,-36.716667,175.733333
+nz,kumeroa,Kumeroa,F2,,-40.333333,175.983333
+nz,kumeu,Kumeu,E7,,-36.766667,174.566667
+nz,kuri bush,Kuri Bush,F7,,-46.033333,170.233333
+nz,kurow,Kurow,E9,422,-44.733333,170.466667
+nz,kyeburn diggings,Kyeburn Diggings,F7,,-45,170.283333
+nz,kyeburn,Kyeburn,F7,,-45.15,170.25
+nz,kyle,Kyle,E9,,-43.916667,172.1
+nz,ladbrooks,Ladbrooks,E9,,-43.616667,172.533333
+nz,lady barkley,Lady Barkley,F8,,-46.1,168.333333
+nz,lady barkly,Lady Barkly,F8,,-46.1,168.333333
+nz,laghmor,Laghmor,G2,,-43.883333,171.633333
+nz,lagmhor,Lagmhor,E9,,-43.883333,171.633333
+nz,lake coleridge,Lake Coleridge,E9,,-43.366667,171.533333
+nz,lake kaniere,Lake Kaniere,G3,,-42.8,171.133333
+nz,lake kanieri,Lake Kanieri,G3,,-42.8,171.133333
+nz,lake ohia,Lake Ohia,E7,,-34.983333,173.366667
+nz,lake pukaki,Lake Pukaki,E9,,-44.183333,170.15
+nz,lake rotoiti,Lake Rotoiti,E7,,-41.8,172.833333
+nz,lake rotoroa,Lake Rotoroa,E7,,-41.8,172.6
+nz,lake tekapo,Lake Tekapo,E9,330,-44.016667,170.5
+nz,langridge,Langridge,F4,,-41.983333,173.416667
+nz,lauder,Lauder,G2,,-45.05,169.666667
+nz,lauriston,Lauriston,G2,,-43.733333,171.783333
+nz,leamington,Leamington,E7,,-37.883333,175.466667
+nz,leamington town district,Leamington Town District,E7,,-37.883333,175.466667
+nz,le bons bay,Le Bons Bay,E9,,-43.75,173.083333
+nz,leeston,Leeston,E9,1272,-43.766667,172.3
+nz,leeston town district,Leeston Town District,E9,,-43.766667,172.3
+nz,lee stream,Lee Stream,F7,,-45.8,170.116667
+nz,leigh,Leigh,E7,499,-36.283333,174.816667
+nz,leithfield,Leithfield,E9,,-43.2,172.733333
+nz,lepperton,Lepperton,F9,,-39.066667,174.216667
+nz,lethbridge,Lethbridge,G2,,-40.033333,175.216667
+nz,levels,Levels,E9,,-44.333333,171.216667
+nz,levin,Levin,G2,19790,-40.633333,175.275
+nz,limehills,Limehills,F7,,-46.066667,168.333333
+nz,lincoln,Lincoln,E7,2235,-43.65,172.483333
+nz,linden,Linden,F8,,-41.166667,174.833333
+nz,lindis crossing,Lindis Crossing,F7,,-44.883333,169.383333
+nz,lindis pass,Lindis Pass,F7,,-44.7,169.5
+nz,linkwater,Linkwater,F4,,-41.283333,173.866667
+nz,linton,Linton,G2,,-40.433333,175.55
+nz,linwood,Linwood,F1,,-43.533333,172.65
+nz,lismore,Lismore,E9,,-43.9,171.483333
+nz,little akaloa,Little Akaloa,E9,,-43.683333,172.983333
+nz,little river,Little River,E9,,-43.766667,172.783333
+nz,little wanganui,Little Wanganui,F5,,-41.4,172.066667
+nz,livingstone,Livingstone,G2,,-44.966667,170.583333
+nz,loburn,Loburn,E9,,-43.25,172.533333
+nz,lochiel,Lochiel,G2,,-46.2,168.333333
+nz,longbeach,Longbeach,E9,,-44.1,171.7
+nz,longburn,Longburn,G2,,-40.383333,175.55
+nz,longbush,Longbush,G2,,-46.383333,168.5
+nz,longford,Longford,E9,,-41.783333,172.366667
+nz,long gully,Long Gully,G2,,-44.916667,168.683333
+nz,longridge,Longridge,F8,,-45.866667,168.65
+nz,longs beach,Longs Beach,E7,,-36.040556,174.529167
+nz,longwood,Longwood,E9,,-46.333333,167.933333
+nz,lorne,Lorne,F1,,-46.35,168.35
+nz,lorneville,Lorneville,F8,,-46.35,168.35
+nz,lovells flat,Lovells Flat,F7,,-46.166667,169.833333
+nz,lowburn bridge,Lowburn Bridge,F7,,-45.016667,169.216667
+nz,lowburn ferry,Lowburn Ferry,F7,,-45.016667,169.216667
+nz,lowburn,Lowburn,F7,,-45.016667,169.216667
+nz,lowcliffe,Lowcliffe,E9,,-44.116667,171.583333
+nz,lowcliff,Lowcliff,E9,,-44.116667,171.583333
+nz,lower hutt city,Lower Hutt City,G2,,-41.216667,174.916667
+nz,lower hutt,Lower Hutt,G2,101194,-41.216667,174.916667
+nz,lower kaimai,Lower Kaimai,E7,,-37.8,176.033333
+nz,lower kohumaru,Lower Kohumaru,E7,,-35.066667,173.55
+nz,lower kokatahi,Lower Kokatahi,G3,,-42.833333,171.033333
+nz,lower moutere,Lower Moutere,F5,,-41.15,173
+nz,lower nevis,Lower Nevis,F7,,-45.233333,168.933333
+nz,lower shotover,Lower Shotover,F7,,-44.983333,168.766667
+nz,lower waiawa,Lower Waiawa,F1,,-38.016667,177.416667
+nz,lowgarth,Lowgarth,F9,,-39.383333,174.216667
+nz,lowther,Lowther,F8,,-45.666667,168.433333
+nz,luggate,Luggate,F7,,-44.75,169.266667
+nz,lumsden,Lumsden,F8,463,-45.733333,168.45
+nz,lumsden town district,Lumsden Town District,F8,,-45.733333,168.45
+nz,lyalldale,Lyalldale,E9,,-44.5,171.083333
+nz,lyell,Lyell,F5,,-41.8,172.05
+nz,lyndhurst,Lyndhurst,E9,,-43.7,171.716667
+nz,lynnford,Lynnford,E9,,-44.016667,171.6
+nz,mabel bush,Mabel Bush,F8,,-46.283333,168.533333
+nz,mabel school,Mabel School,F8,,-46.3,168.533333
+nz,macandrew bay,Macandrew Bay,F7,,-45.866667,170.6
+nz,macandrews bay,Macandrews Bay,F7,,-45.866667,170.6
+nz,macetown,Macetown,F7,,-44.866667,168.833333
+nz,mackaytown,Mackaytown,E7,,-37.416667,175.7
+nz,mackenzie,Mackenzie,F2,,-42.816667,173.266667
+nz,maclennan,Maclennan,F7,,-46.55,169.483333
+nz,macraes flat,Macraes Flat,F7,,-45.383333,170.433333
+nz,macraes,Macraes,F7,,-45.383333,170.433333
+nz,maerewhenua,Maerewhenua,F7,,-44.916667,170.616667
+nz,mahakipawa,Mahakipawa,F4,,-41.283333,173.866667
+nz,mahana,Mahana,F2,,-41.266667,173.05
+nz,mahanga beach,Mahanga Beach,F2,,-39.008611,177.885
+nz,mahanga,Mahanga,F2,,-39.008611,177.885
+nz,maharahara,Maharahara,F1,,-40.266667,175.966667
+nz,maharakeke,Maharakeke,F2,,-40.016667,176.45
+nz,maheno,Maheno,E7,,-45.166667,170.833333
+nz,mahers creek,Mahers Creek,G3,,-42.183333,171.333333
+nz,mahia beach,Mahia Beach,F2,,-39.083333,177.866667
+nz,mahia,Mahia,F2,,-39.083333,177.916667
+nz,mahitahi,Mahitahi,G3,,-43.65,169.6
+nz,mahoe,Mahoe,F2,,-39.383333,174.166667
+nz,mahoenui,Mahoenui,E7,,-38.566667,174.85
+nz,mahunga,Mahunga,F1,,-42.383333,173.433333
+nz,mahurangi,Mahurangi,E7,,-36.483333,174.733333
+nz,mahuta,Mahuta,E7,,-37.583333,175.083333
+nz,maihiihi,Maihiihi,E7,,-38.233333,175.383333
+nz,maimai,Maimai,G2,,-42.15,171.75
+nz,maina,Maina,E7,,-38.216667,176.366667
+nz,mairangi bay,Mairangi Bay,E7,,-36.733333,174.766667
+nz,mairoa,Mairoa,E7,,-38.366667,174.983333
+nz,maitahi,Maitahi,E7,,-35.85,173.766667
+nz,maitland,Maitland,E9,,-45.983333,169.016667
+nz,makaraka,Makaraka,F1,,-38.65,177.966667
+nz,makarau,Makarau,E7,,-36.55,174.5
+nz,makaretu,Makaretu,F2,,-39.916667,176.266667
+nz,makarewa junction,Makarewa Junction,F8,,-46.3,168.333333
+nz,makarewa,Makarewa,G2,,-46.333333,168.35
+nz,makarora,Makarora,F7,,-44.233333,169.233333
+nz,makarora wharf,Makarora Wharf,F7,,-44.316667,169.183333
+nz,makauri,Makauri,F1,,-38.633333,177.95
+nz,makeokeo,Makeokeo,E7,,-38.033333,175.133333
+nz,maketu,Maketu,E7,1083,-37.766667,176.45
+nz,makikihi,Makikihi,E9,,-44.633333,171.15
+nz,makirikiri,Makirikiri,F2,,-39.866667,175.116667
+nz,makotuku,Makotuku,F2,,-40.116667,176.233333
+nz,makuri,Makuri,G2,,-40.533333,176.016667
+nz,mamaku,Mamaku,F2,751,-38.1,176.083333
+nz,mamaranui,Mamaranui,E7,,-35.833333,173.75
+nz,manaia,Manaia,E7,902,-39.55,174.133333
+nz,manaia town district,Manaia Town District,E7,,-39.55,174.133333
+nz,manakau,Manakau,F4,,-40.716667,175.216667
+nz,manapouri,Manapouri,F8,248,-45.566667,167.6
+nz,manaroa,Manaroa,F2,,-41.116667,174.033333
+nz,manawahe,Manawahe,E7,,-38,176.633333
+nz,manawaora,Manawaora,E7,,-35.283333,174.2
+nz,manawaroa,Manawaroa,E7,,-35.283333,174.2
+nz,manawaru,Manawaru,E7,,-37.633333,175.766667
+nz,manawatu heads,Manawatu Heads,F1,,-40.466667,175.216667
+nz,mandeville,Mandeville,F8,,-46,168.816667
+nz,mandeville north,Mandeville North,E9,,-43.383333,172.533333
+nz,mangaiti,Mangaiti,F8,,-37.5,175.683333
+nz,mangamahoe,Mangamahoe,G2,,-40.733333,175.716667
+nz,mangamahu,Mangamahu,F2,,-39.816667,175.366667
+nz,mangamaire,Mangamaire,F2,,-40.516667,175.75
+nz,mangamate,Mangamate,E9,,-41.614444,175.296944
+nz,mangamauna,Mangamauna,F1,,-42.3,173.75
+nz,mangamaunu,Mangamaunu,F1,,-42.3,173.75
+nz,mangamingi,Mangamingi,E7,,-39.133333,176.15
+nz,mangamuka,Mangamuka,E7,,-35.216667,173.55
+nz,mangamutu,Mangamutu,G2,,-40.45,175.8
+nz,mangaohutu,Mangaohutu,G2,,-39.066667,175.116667
+nz,mangaone,Mangaone,F1,,-39.05,174.866667
+nz,mangaonoho,Mangaonoho,G2,,-39.9,175.65
+nz,mangapai,Mangapai,E7,,-35.85,174.283333
+nz,mangapani,Mangapani,G2,,-39.75,174.833333
+nz,mangapurua,Mangapurua,G2,,-39.216667,175.1
+nz,mangarata,Mangarata,G2,,-41.733333,172.4
+nz,mangaroa,Mangaroa,G2,,-41.116667,175.116667
+nz,mangatainoka,Mangatainoka,G2,,-40.433333,175.866667
+nz,mangatangi,Mangatangi,E7,,-37.2,175.216667
+nz,mangatarata,Mangatarata,F2,,-37.3,175.366667
+nz,mangatawhiri,Mangatawhiri,E7,,-37.216667,175.116667
+nz,mangatiti,Mangatiti,G2,,-40.55,176.116667
+nz,mangatoki,Mangatoki,F9,,-39.416667,174.216667
+nz,mangatua,Mangatua,F7,,-45.9,170.15
+nz,mangatu,Mangatu,E7,,-35.7,173.633333
+nz,mangawai,Mangawai,E7,,-36.116667,174.566667
+nz,mangaweka,Mangaweka,G2,,-39.8,175.783333
+nz,mangaweka town district,Mangaweka Town District,G2,,-39.8,175.783333
+nz,mangawhai,Mangawhai,E7,,-36.116667,174.566667
+nz,mangawhata,Mangawhata,G2,,-40.4,175.433333
+nz,mangawhio,Mangawhio,G2,,-39.716667,174.716667
+nz,mangere,Mangere,E7,,-36.966667,174.8
+nz,mangonui,Mangonui,E7,,-34.983333,173.533333
+nz,mangorei,Mangorei,F9,,-39.15,174.083333
+nz,mangweka,Mangweka,G2,,-39.8,175.783333
+nz,maniatutu,Maniatutu,E7,,-37.816667,176.45
+nz,manuka creek,Manuka Creek,E9,,-46.066667,169.816667
+nz,manukau city,Manukau City,E7,,-36.966667,174.8
+nz,manukau,Manukau,E7,,-35.233333,173.216667
+nz,manunui,Manunui,G2,,-38.883333,175.333333
+nz,manunui town district,Manunui Town District,G2,,-38.883333,175.333333
+nz,manutahi,Manutahi,E7,,-39.666667,174.4
+nz,manutuke,Manutuke,F1,685,-38.683333,177.916667
+nz,maori point,Maori Point,F5,,-44.866667,168.683333
+nz,mapiu,Mapiu,F9,,-38.583333,175.216667
+nz,mapua,Mapua,F5,1819,-41.25,173.1
+nz,maraehoko,Maraehoko,G3,,-42.666667,171.033333
+nz,maraekakaho,Maraekakaho,F2,,-39.65,176.633333
+nz,maraeroa,Maraeroa,F9,,-35.333333,173.633333
+nz,maraetai,Maraetai,E7,,-36.883333,175.05
+nz,maraitara,Maraitara,F2,,-39.44,176.831667
+nz,marakeke,Marakeke,F2,,-40.016667,176.45
+nz,marakerake,Marakerake,F7,,-45.066667,170.75
+nz,maramarua,Maramarua,E7,,-37.25,175.233333
+nz,marangai,Marangai,G2,,-35.333333,173.716667
+nz,mararewa,Mararewa,F5,,-41.416667,172.833333
+nz,mareretu,Mareretu,E7,,-36.033333,174.266667
+nz,market cross,Market Cross,F5,,-41.25,172.133333
+nz,marlow,Marlow,E7,,-35.533333,174.1
+nz,marohemo,Marohemo,E7,,-36.183333,174.3
+nz,marokopa,Marokopa,E7,,-38.3,174.733333
+nz,maromaku,Maromaku,E7,,-35.483333,174.083333
+nz,maropiu,Maropiu,E7,,-35.8,173.733333
+nz,marotiri,Marotiri,F1,,-40.483333,175.35
+nz,marsden,Marsden,F5,,-42.566667,171.216667
+nz,marsden point,Marsden Point,E7,,-35.833333,174.5
+nz,marshland,Marshland,E9,,-43.483333,172.65
+nz,marua,Marua,F1,,-35.566667,174.366667
+nz,maruia,Maruia,F5,,-42.183333,172.216667
+nz,maruia springs,Maruia Springs,F5,,-42.383333,172.333333
+nz,maruwenua,Maruwenua,F7,,-44.916667,170.616667
+nz,maruwhenua,Maruwhenua,F7,,-44.916667,170.616667
+nz,masons flat,Masons Flat,E9,,-42.9,172.55
+nz,massey glen,Massey Glen,E7,,-37.683333,175.066667
+nz,masterton,Masterton,G2,20698,-40.959722,175.6575
+nz,mast,Mast,F2,,-39.546667,176.935
+nz,matahanea,Matahanea,F1,,-38.116667,177.266667
+nz,matahina,Matahina,E7,,-38.25,176.833333
+nz,matahiwi landing,Matahiwi Landing,G2,,-39.633333,175.166667
+nz,matahiwi,Matahiwi,G2,,-39.6,175.15
+nz,matahorua,Matahorua,F2,,-39.166667,176.933333
+nz,matahura,Matahura,E7,,-37.433333,175.333333
+nz,matahuru,Matahuru,E7,,-37.433333,175.333333
+nz,matainui,Matainui,G2,,-43.266667,170.366667
+nz,matakana,Matakana,E7,,-36.35,174.716667
+nz,matakanui,Matakanui,F7,,-45.016667,169.566667
+nz,matakitaki,Matakitaki,E7,,-41.966667,172.333333
+nz,matakohe,Matakohe,E7,,-36.133333,174.183333
+nz,mata,Mata,E7,,-35.85,174.366667
+nz,matamau,Matamau,F2,,-40.133333,176.166667
+nz,matangi,Matangi,E7,,-37.816667,175.416667
+nz,matangirau,Matangirau,E7,,-35.05,173.783333
+nz,matapara,Matapara,E7,,-38.216667,175.55
+nz,matapihi,Matapihi,E7,,-37.690556,176.188333
+nz,matapouri,Matapouri,E7,,-35.566667,174.5
+nz,matapu,Matapu,F9,,-39.483333,174.233333
+nz,matarakau,Matarakau,F1,,-43.733333,-176.35
+nz,matarawa,Matarawa,G2,,-41.05,175.45
+nz,matariki,Matariki,F5,,-41.416667,172.733333
+nz,mataroa,Mataroa,G2,,-39.65,175.733333
+nz,matata,Matata,E7,722,-37.883333,176.75
+nz,matatoki,Matatoki,E7,,-37.216667,175.616667
+nz,matau,Matau,F9,,-39.166667,174.566667
+nz,mataura island,Mataura Island,F8,,-46.416667,168.783333
+nz,matauri bay,Matauri Bay,E7,,-35.033333,173.9
+nz,matauwai,Matauwai,F1,,-38.35,177.533333
+nz,matawai,Matawai,F1,,-38.35,177.533333
+nz,matawhero,Matawhero,F1,,-38.666667,177.966667
+nz,matiere,Matiere,F9,,-38.75,175.1
+nz,matukuroa,Matukuroa,F9,,-39.683333,174.533333
+nz,mauku,Mauku,E7,,-37.2,174.816667
+nz,maungaatua,Maungaatua,F7,,-45.9,170.15
+nz,maungakaramea,Maungakaramea,E7,,-35.85,174.216667
+nz,maungapohatu,Maungapohatu,E7,,-38.583333,177.133333
+nz,maungatapere,Maungatapere,F1,1007,-35.75,174.2
+nz,maungatea village,Maungatea Village,F2,,-39.183333,177.842778
+nz,maungatiro,Maungatiro,E9,,-44.633333,170.616667
+nz,maungatua,Maungatua,F7,,-45.9,170.15
+nz,maungaturoto,Maungaturoto,E7,790,-36.1,174.366667
+nz,maungawera,Maungawera,F7,,-44.633333,169.2
+nz,mauriceville east,Mauriceville East,G2,,-40.783333,175.7
+nz,mauriceville,Mauriceville,G2,,-40.783333,175.7
+nz,mauriceville west,Mauriceville West,G2,,-40.766667,175.683333
+nz,mawaro,Mawaro,E9,,-44.3,170.883333
+nz,mawheraiti,Mawheraiti,F5,,-42.183333,171.716667
+nz,maxwell,Maxwell,G2,,-39.816667,174.866667
+nz,mayfield,Mayfield,F4,,-43.816667,171.416667
+nz,mckenzie,McKenzie,F2,,-42.816667,173.266667
+nz,medbury,Medbury,E9,,-42.866667,172.666667
+nz,meeanee,Meeanee,F2,,-39.55,176.9
+nz,mendip hills,Mendip Hills,E9,,-42.616667,173.283333
+nz,menzies ferry,Menzies Ferry,F8,,-46.35,168.816667
+nz,mercer,Mercer,E7,,-37.266667,175.05
+nz,mercer town district,Mercer Town District,E7,,-37.266667,175.05
+nz,meremere,Meremere,F9,379,-39.583333,174.383333
+nz,merrijigs,Merrijigs,F5,,-42.2,171.883333
+nz,merrivale,Merrivale,F2,,-46.05,167.833333
+nz,methven,Methven,F2,1236,-43.633333,171.65
+nz,middlemarch,Middlemarch,F7,,-45.516667,170.116667
+nz,midhirst,Midhirst,E9,,-39.3,174.266667
+nz,midhurst,Midhurst,E9,,-39.3,174.266667
+nz,mihiwaka,Mihiwaka,F7,,-45.8,170.633333
+nz,miko,Miko,F5,,-41.533333,171.95
+nz,milburn,Milburn,E9,,-46.083333,170
+nz,millers flat,Millers Flat,F7,,-45.666667,169.416667
+nz,millerton,Millerton,F5,,-41.633333,171.866667
+nz,milton,Milton,F7,2009,-46.120833,169.969444
+nz,mina,Mina,E9,,-42.816667,173.233333
+nz,mino,Mino,F2,,-39.460833,176.811667
+nz,miramar,Miramar,G2,,-41.316667,174.816667
+nz,miranda,Miranda,E7,,-37.2,175.316667
+nz,mirza,Mirza,F8,,-41.866667,174.116667
+nz,mission bay,Mission Bay,E7,,-36.854722,174.831667
+nz,mitcham,Mitcham,E9,,-43.75,171.85
+nz,mitimiti,Mitimiti,E7,,-35.416667,173.266667
+nz,mititai,Mititai,E7,,-36.016667,173.933333
+nz,moa creek,Moa Creek,F7,,-45.2,169.65
+nz,moa flat,Moa Flat,F7,,-45.633333,169.35
+nz,moana,Moana,F7,,-42.583333,171.466667
+nz,moanapuru,Moanapuru,F7,,-46.116667,170.166667
+nz,moanariri,Moanariri,F7,,-46.183333,170.133333
+nz,moawhango,Moawhango,G2,,-39.583333,175.866667
+nz,moeatoa,Moeatoa,E7,,-38.35,174.766667
+nz,moeawatea,Moeawatea,F9,,-39.533333,174.65
+nz,moemoto,Moemoto,F2,,-39.149722,177.838611
+nz,moengawahine,Moengawahine,E7,,-35.633333,174.05
+nz,moeraki,Moeraki,G2,,-45.366667,170.85
+nz,moerangi,Moerangi,E7,,-37.966667,174.916667
+nz,moerewa,Moerewa,E7,1662,-35.383333,174.033333
+nz,moeroa,Moeroa,F9,,-39.433333,174.633333
+nz,mohaka,Mohaka,F2,,-39.116667,177.183333
+nz,mokai,Mokai,G2,,-38.533333,175.9
+nz,mokauiti,Mokauiti,F9,,-38.583333,175.166667
+nz,mokau,Mokau,F9,,-38.683333,174.616667
+nz,mokihinui mine,Mokihinui Mine,F5,,-41.583333,172.016667
+nz,mokihinui,Mokihinui,F5,,-41.516667,171.933333
+nz,mokoia,Mokoia,G2,,-39.633333,174.366667
+nz,mokoreta,Mokoreta,F8,,-46.433333,169.066667
+nz,mokotua,Mokotua,F8,,-46.45,168.583333
+nz,molesworth,Molesworth,E7,,-42.083333,173.25
+nz,momahaki,Momahaki,G2,,-39.783333,174.683333
+nz,momona,Momona,F7,,-45.916667,170.216667
+nz,moneymore,Moneymore,F7,,-46.166667,169.9
+nz,moonlight,Moonlight,F1,,-45.416667,170.333333
+nz,morere,Morere,F2,,-38.983333,177.8
+nz,morikau,Morikau,G2,,-39.566667,175.1
+nz,mornington,Mornington,G2,,-45.883333,170.466667
+nz,morrisons,Morrisons,F7,,-45.25,170.483333
+nz,morton mains,Morton Mains,F8,,-46.333333,168.65
+nz,morven,Morven,G2,,-44.833333,171.116667
+nz,mosgiel,Mosgiel,F7,,-45.875,170.347222
+nz,mossburn,Mossburn,F8,,-45.666667,168.25
+nz,motairehe,Motairehe,E7,,-36.116667,175.366667
+nz,motairere,Motairere,E7,,-36.116667,175.366667
+nz,motatau,Motatau,E7,,-35.483333,174.033333
+nz,moteo,Moteo,F2,,-39.5,176.783333
+nz,motuhora,Motuhora,F8,,-38.283333,177.533333
+nz,motukaraka,Motukaraka,E7,,-35.366667,173.5
+nz,motukarara,Motukarara,E9,,-43.733333,172.583333
+nz,motumaoho,Motumaoho,E7,,-37.7,175.45
+nz,motu,Motu,F1,,-38.25,177.55
+nz,motunau,Motunau,E9,,-42.966667,172.966667
+nz,motunui,Motunui,F9,,-38.983333,174.3
+nz,motupiko,Motupiko,F5,,-41.45,172.8
+nz,motupipi,Motupipi,F5,,-40.85,172.85
+nz,moturoa,Moturoa,F2,,-39.066667,174.05
+nz,moumahaki,Moumahaki,G2,,-39.783333,174.683333
+nz,mount cargill,Mount Cargill,F7,,-45.8,170.566667
+nz,mount linton,Mount Linton,F8,,-45.933333,167.866667
+nz,mount maunganui,Mount Maunganui,E8,,-37.641667,176.186111
+nz,mount pisa,Mount Pisa,F7,,-44.916667,169.266667
+nz,mount pleasant,Mount Pleasant,F2,,-41.333333,173.966667
+nz,mount rex,Mount Rex,E7,,-36.633333,174.45
+nz,mount somers,Mount Somers,E9,,-43.716667,171.4
+nz,mount stoker,Mount Stoker,F7,,-45.6,170.283333
+nz,mourea,Mourea,E7,,-38.05,176.333333
+nz,moutere,Moutere,F7,,-41.15,173
+nz,moutoa,Moutoa,G2,,-40.5,175.383333
+nz,moutohora,Moutohora,F1,,-38.283333,177.533333
+nz,mowhanau,Mowhanau,G2,,-39.866667,174.9
+nz,mowhiti,Mowhiti,F7,,-45.65,170.083333
+nz,mullet point,Mullet Point,E7,,-36.433333,174.75
+nz,mungaroa,Mungaroa,G2,,-41.116667,175.116667
+nz,murapara,Murapara,E7,,-38.466667,176.7
+nz,murchison,Murchison,F7,624,-41.8,172.333333
+nz,murimotu,Murimotu,G2,,-39.55,175.683333
+nz,muripara,Muripara,E7,,-38.466667,176.7
+nz,muritai,Muritai,F2,,-41.3,174.883333
+nz,muriwai beach,Muriwai Beach,E7,2183,-36.816667,174.45
+nz,muriwai,Muriwai,F1,,-36.816667,174.45
+nz,murumuru,Murumuru,G2,,-39.266667,175.133333
+nz,murupara,Murupara,E7,1876,-38.466667,176.7
+nz,myross bush,Myross Bush,F8,,-46.366667,168.416667
+nz,napier city,Napier City,F2,,-39.483333,176.916667
+nz,napier,Napier,F2,56787,-39.483333,176.916667
+nz,narrow neck,Narrow Neck,E7,,-36.816389,174.803611
+nz,national park,National Park,G2,,-39.183333,175.4
+nz,naumai,Naumai,F2,,-36.083333,173.983333
+nz,nelson city,Nelson City,F5,,-41.283333,173.283333
+nz,nelson creek,Nelson Creek,G3,,-42.416667,171.516667
+nz,nelson,Nelson,F5,60481,-41.283333,173.283333
+nz,netherton,Netherton,F2,,-37.333333,175.616667
+nz,nevesville,Nevesville,E7,,-37.166667,175.7
+nz,nevis,Nevis,F7,,-45.233333,168.933333
+nz,new brighton,New Brighton,E9,,-37.133333,175.283333
+nz,newcastle,Newcastle,F7,,-44.683333,169.2
+nz,new haven,New Haven,F7,,-46.466667,169.716667
+nz,newland,Newland,E9,,-43.883333,171.85
+nz,newman,Newman,G2,,-40.616667,175.716667
+nz,new plymouth city,New Plymouth City,F9,,-39.066667,174.083333
+nz,new plymouth,New Plymouth,F9,49169,-39.066667,174.083333
+nz,newstead,Newstead,G1,,-37.783333,175.35
+nz,newton flat,Newton Flat,F5,,-41.783333,172.166667
+nz,newton,Newton,E7,,-36.85,174.75
+nz,ngaere,Ngaere,F9,,-39.383333,174.3
+nz,ngahauranga,Ngahauranga,G2,,-41.25,174.816667
+nz,ngahere,Ngahere,F2,,-42.4,171.45
+nz,ngaio,Ngaio,F2,,-41.25,174.783333
+nz,ngakawau,Ngakawau,F5,,-41.616667,171.883333
+nz,ngakawhau,Ngakawhau,F5,,-41.616667,171.883333
+nz,ngamoko,Ngamoko,F2,,-40.05,176.166667
+nz,ngapara,Ngapara,F7,,-44.95,170.75
+nz,ngapipito,Ngapipito,E7,,-35.433333,173.9
+nz,ngapuhi,Ngapuhi,E7,,-35.45,173.816667
+nz,ngapuke,Ngapuke,G2,,-38.85,175.466667
+nz,ngapuna,Ngapuna,E7,,-45.45,170.166667
+nz,ngaro,Ngaro,F8,,-45.9,167.983333
+nz,ngaroto,Ngaroto,E7,,-37.983333,175.3
+nz,ngataki,Ngataki,G2,,-34.733333,173.05
+nz,ngatapa,Ngatapa,E7,,-38.583333,177.8
+nz,ngatea,Ngatea,E7,1151,-37.283333,175.5
+nz,ngatimoti,Ngatimoti,F5,,-41.216667,172.9
+nz,ngatira,Ngatira,F2,,-38.1,175.9
+nz,ngaturi,Ngaturi,G2,,-40.466667,175.916667
+nz,ngauranga,Ngauranga,G2,,-41.25,174.816667
+nz,ngawaro,Ngawaro,E7,,-37.933333,176.15
+nz,ngawha,Ngawha,E7,,-35.366667,173.866667
+nz,ngongotaha,Ngongotaha,E7,,-38.083333,176.2
+nz,ngunguru,Ngunguru,E7,1358,-35.616667,174.5
+nz,ngutunui,Ngutunui,E7,,-38.083333,175.133333
+nz,ngutuwera,Ngutuwera,G2,,-39.75,174.733333
+nz,niagara,Niagara,F8,,-46.6,169.133333
+nz,nightcaps,Nightcaps,G2,,-45.966667,168.033333
+nz,nightcaps town district,Nightcaps Town District,G2,,-45.966667,168.033333
+nz,nihoniho,Nihoniho,F9,,-38.783333,175.05
+nz,nihotupu,Nihotupu,E7,,-36.933333,174.583333
+nz,nikau,Nikau,F5,,-41.55,171.933333
+nz,nireaha,Nireaha,G2,,-40.616667,175.65
+nz,nokomai,Nokomai,F8,,-45.5,168.666667
+nz,normanby,Normanby,E9,,-39.533333,174.283333
+nz,normanby town district,Normanby Town District,E9,,-39.533333,174.283333
+nz,norsewood,Norsewood,F2,,-40.066667,176.216667
+nz,northcote,Northcote,G2,,-36.815278,174.745833
+nz,north east valley,North East Valley,F7,,-45.85,170.533333
+nz,north head,North Head,E9,,-36.827778,174.808333
+nz,northland,Northland,G2,,-41.283333,174.75
+nz,north loburn,North Loburn,E9,,-43.216667,172.5
+nz,north mount egmont,North Mount Egmont,F9,,-39.283333,174.1
+nz,north shore,North Shore,E7,207865,-36.8,174.75
+nz,north taieri,North Taieri,F7,,-45.85,170.333333
+nz,norwood,Norwood,G2,,-43.65,172.25
+nz,nuhaka,Nuhaka,F2,342,-39.05,177.75
+nz,nukuhau,Nukuhau,E7,,-39.6,174.666667
+nz,nukumaru,Nukumaru,G2,,-39.833333,174.8
+nz,nukutawhiti,Nukutawhiti,E7,,-35.666667,173.883333
+nz,oakleigh,Oakleigh,F1,,-35.833333,174.316667
+nz,oakura,Oakura,E7,,-39.116667,173.95
+nz,oaonui,Oaonui,F9,,-39.4,173.816667
+nz,oaro,Oaro,F4,,-42.516667,173.5
+nz,oban,Oban,G2,,-46.9,168.133333
+nz,ocean bay,Ocean Bay,F1,,-41.333333,174.1
+nz,ocean beach,Ocean Beach,F2,,-46.583333,168.316667
+nz,ocean grove,Ocean Grove,F7,,-45.9,170.55
+nz,oeo,Oeo,F9,,-39.533333,173.983333
+nz,ohaeawai,Ohaeawai,E7,764,-35.35,173.883333
+nz,ohai,Ohai,F8,408,-45.916667,167.95
+nz,ohakea,Ohakea,G2,,-40.2,175.4
+nz,ohangai,Ohangai,F9,,-39.6,174.333333
+nz,ohariu,Ohariu,G2,,-41.2,174.766667
+nz,ohau,Ohau,G2,,-40.666667,175.25
+nz,ohaupo,Ohaupo,E7,,-37.916667,175.316667
+nz,ohaupo town district,Ohaupo Town District,E7,,-37.916667,175.316667
+nz,ohautira,Ohautira,E7,,-37.75,174.983333
+nz,ohawe beach,Ohawe Beach,G2,,-39.583333,174.2
+nz,ohawe,Ohawe,G2,,-39.583333,174.2
+nz,ohinemutu,Ohinemutu,E8,,-38.15,176.283333
+nz,ohinepaka,Ohinepaka,F1,,-39.033333,177.316667
+nz,ohinepanea,Ohinepanea,E7,,-37.85,176.55
+nz,ohinewai,Ohinewai,E7,,-37.483333,175.166667
+nz,ohingaiti,Ohingaiti,G2,,-39.866667,175.716667
+nz,ohingaroa,Ohingaroa,F4,,-41.25,173.883333
+nz,ohirangi,Ohirangi,G2,,-36.7,174.45
+nz,ohirehape,Ohirehape,E7,,-39.083333,176.283333
+nz,ohoka,Ohoka,E9,,-43.366667,172.566667
+nz,ohope beach,Ohope Beach,E7,,-37.966667,177.066667
+nz,ohotu,Ohotu,G2,,-39.716667,175.85
+nz,ohura,Ohura,F9,225,-38.833333,174.983333
+nz,ohura town district,Ohura Town District,F9,,-38.833333,174.983333
+nz,oio,Oio,G2,,-39.05,175.416667
+nz,okahukua,Okahukua,E7,,-38.783333,175.216667
+nz,okahukura,Okahukura,E7,,-38.783333,175.216667
+nz,okahu,Okahu,E7,,-38.866667,174.65
+nz,okaiawa,Okaiawa,F9,,-39.533333,174.2
+nz,okaihau,Okaihau,F2,726,-35.316667,173.783333
+nz,okains bay,Okains Bay,E9,,-43.716667,173.033333
+nz,okains,Okains,E9,,-43.716667,173.033333
+nz,okaramio,Okaramio,F4,,-41.416667,173.766667
+nz,okarito,Okarito,G3,,-43.233333,170.183333
+nz,okato,Okato,F9,528,-39.2,173.883333
+nz,okauia,Okauia,E7,,-37.8,175.85
+nz,okau,Okau,F9,,-38.866667,174.65
+nz,okere falls,Okere Falls,E7,,-38.016667,176.35
+nz,okete,Okete,E7,,-37.816667,174.933333
+nz,okiore,Okiore,F1,,-38.183333,177.283333
+nz,okiwi,Okiwi,E7,,-36.15,175.416667
+nz,okoia,Okoia,G2,,-39.933333,175.133333
+nz,okoke,Okoke,F2,,-39.016667,174.483333
+nz,okoki,Okoki,F9,,-39.016667,174.483333
+nz,okoroire,Okoroire,E7,,-37.95,175.8
+nz,okukari,Okukari,G2,,-41.2,174.3
+nz,okupu,Okupu,E7,,-36.266667,175.433333
+nz,okuru,Okuru,G3,,-43.9,168.916667
+nz,omahanui,Omahanui,F2,,-38.866667,177.25
+nz,omahu,Omahu,F2,,-37.266667,175.666667
+nz,omaio,Omaio,F1,,-37.816667,177.666667
+nz,omakau,Omakau,F7,,-45.083333,169.6
+nz,omanaia,Omanaia,E7,,-35.466667,173.533333
+nz,omana,Omana,E7,,-35.9,174.083333
+nz,omanawa falls,Omanawa Falls,E7,,-37.85,176.083333
+nz,omanawa,Omanawa,E7,,-37.8,176.083333
+nz,omapere,Omapere,F2,,-35.533333,173.383333
+nz,omarama,Omarama,E7,304,-44.483333,169.966667
+nz,omata,Omata,G2,,-39.1,174.016667
+nz,omiha,Omiha,G2,,-36.816667,175.066667
+nz,omihi,Omihi,E9,,-43.016667,172.85
+nz,omimi,Omimi,F7,,-45.7,170.6
+nz,omoana,Omoana,G2,,-39.416667,174.583333
+nz,omokoroa beach,Omokoroa Beach,E7,,-37.633333,176.05
+nz,omokoroa,Omokoroa,E7,,-37.666667,176.033333
+nz,onaeroa,Onaeroa,F9,,-39,174.35
+nz,onaero,Onaero,F9,,-39,174.35
+nz,onairo,Onairo,F9,,-39,174.35
+nz,onamalutu,Onamalutu,F4,,-41.45,173.716667
+nz,onapua,Onapua,F4,,-41.266667,174.183333
+nz,onauku,Onauku,G2,,-41.116667,174.366667
+nz,onekaka,Onekaka,F5,,-40.75,172.7
+nz,onekawa,Onekawa,F2,,-39.483333,176.916667
+nz,onerahi,Onerahi,E7,,-35.766667,174.366667
+nz,onerahi town district,Onerahi Town District,E7,,-35.766667,174.366667
+nz,oneroa,Oneroa,E7,,-36.7,174.75
+nz,onetangi,Onetangi,G2,,-36.783333,175.083333
+nz,onetea,Onetea,E7,,-35.816667,173.916667
+nz,onewhero,Onewhero,E7,,-37.316667,174.916667
+nz,onga onga,Onga Onga,F2,,-39.916667,176.416667
+nz,ongarue,Ongarue,F9,,-38.716667,175.283333
+nz,oniao,Oniao,E7,,-38.566667,175.083333
+nz,opaheke,Opaheke,E7,,-37.083333,174.966667
+nz,opapa,Opapa,F2,,-39.8,176.683333
+nz,oparara,Oparara,F5,,-41.216667,172.116667
+nz,oparau,Oparau,E7,,-38.05,174.916667
+nz,ophir,Ophir,F7,,-45.116667,169.6
+nz,opio,Opio,F8,,-45.95,168.1
+nz,opoiti,Opoiti,F1,,-38.888333,177.492778
+nz,oponae,Oponae,F1,,-38.25,177.3
+nz,opononi,Opononi,E7,,-35.5,173.4
+nz,opotiki,Opotiki,F1,4044,-38.083333,177.283333
+nz,opoutama,Opoutama,F2,,-39.066667,177.833333
+nz,opoutere,Opoutere,E7,,-37.116667,175.883333
+nz,opua,Opua,E7,,-35.316667,174.116667
+nz,opuatia,Opuatia,E7,,-37.4,174.983333
+nz,opuawhanga,Opuawhanga,E7,,-35.5,174.35
+nz,opunake,Opunake,E7,1495,-39.455556,173.858333
+nz,opunui marae,Opunui Marae,E8,,-37.638889,176.111944
+nz,oraka,Oraka,E7,,-46.366667,167.883333
+nz,orakei,Orakei,E7,,-36.85,174.816667
+nz,orangapai,Orangapai,F7,,-45.233333,170.133333
+nz,orangimea,Orangimea,G2,,-39.666667,174.866667
+nz,oranoa,Oranoa,E7,,-35.7,173.6
+nz,orari,Orari,E9,,-44.133333,171.3
+nz,oratia,Oratia,E7,,-36.916667,174.616667
+nz,orawia bridge,Orawia Bridge,F8,,-46.05,167.8
+nz,orawia,Orawia,F8,,-46.05,167.816667
+nz,orepuki,Orepuki,F8,,-46.283333,167.733333
+nz,orere point,Orere Point,E7,,-36.966667,175.25
+nz,oreti,Oreti,G2,,-46.133333,168.233333
+nz,oreti plains,Oreti Plains,F8,,-46.133333,168.233333
+nz,orewa,Orewa,E7,,-36.566667,174.7
+nz,orini,Orini,E7,,-37.566667,175.3
+nz,ormond,Ormond,F1,,-38.566667,177.916667
+nz,ormondville,Ormondville,F2,,-40.116667,176.266667
+nz,oropi,Oropi,E7,,-37.833333,176.15
+nz,oroua downs,Oroua Downs,G2,,-40.366667,175.316667
+nz,orton,Orton,E7,,-44.166667,171.433333
+nz,oruaiwi,Oruaiwi,E7,,-38.816667,175.45
+nz,oruanui,Oruanui,E7,,-38.583333,176.033333
+nz,oruru,Oruru,E7,,-35.033333,173.5
+nz,otahuti,Otahuti,F8,,-46.25,168.2
+nz,otaio,Otaio,E9,,-44.583333,171.166667
+nz,otaitai,Otaitai,F8,,-46.333333,168.05
+nz,otakeho,Otakeho,F9,,-39.55,174.05
+nz,otaki beach,Otaki Beach,G2,,-40.75,175.116667
+nz,otaki,Otaki,F4,6086,-40.758333,175.15
+nz,otakiri,Otakiri,E7,,-37.983333,176.766667
+nz,otakou,Otakou,F7,,-45.816667,170.716667
+nz,otama,Otama,F2,,-45.95,168.866667
+nz,otamarakau,Otamarakau,E7,,-37.833333,176.6
+nz,otamita,Otamita,F8,,-46.016667,168.85
+nz,otane,Otane,F1,566,-39.883333,176.633333
+nz,otanerau,Otanerau,G2,,-41.183333,174.333333
+nz,otangaroa,Otangaroa,E7,,-35.083333,173.633333
+nz,otangihaku,Otangihaku,E7,,-38.033333,177
+nz,otanomomo,Otanomomo,F7,,-46.3,169.75
+nz,otapiri gorge,Otapiri Gorge,F8,,-46.05,168.45
+nz,otara,Otara,F1,,-46.633333,168.883333
+nz,otarawao,Otarawao,F2,,-41.05,173.683333
+nz,otatara,Otatara,F8,,-39.555833,176.838611
+nz,otaua,Otaua,E7,,-37.3,174.75
+nz,otautau,Otautau,F8,745,-46.15,168
+nz,otautau town district,Otautau Town District,F8,,-46.15,168
+nz,otekaieke,Otekaieke,F7,,-44.833333,170.566667
+nz,otekaike,Otekaike,F7,,-44.833333,170.566667
+nz,otekura,Otekura,E7,,-46.433333,169.766667
+nz,otematata,Otematata,F7,265,-44.616667,170.266667
+nz,otipua,Otipua,E9,,-44.433333,171.166667
+nz,otira,Otira,G3,,-42.833333,171.55
+nz,otiria,Otiria,E7,,-35.4,174
+nz,otokia,Otokia,F7,,-45.95,170.2
+nz,otoko,Otoko,F1,,-38.4,177.666667
+nz,otonga,Otonga,F1,,-35.533333,174.316667
+nz,otoroa,Otoroa,E7,,-35.066667,173.866667
+nz,otorohanga,Otorohanga,E7,2673,-38.183333,175.2
+nz,otorohanga town district,Otorohanga Town District,E7,,-38.183333,175.2
+nz,otuhi,Otuhi,E7,,-35.8,174.15
+nz,otukou,Otukou,G2,,-39.033333,175.65
+nz,otumoetai,Otumoetai,E8,,-37.666667,176.15
+nz,oturehua,Oturehua,F7,,-45,169.916667
+nz,oue,Oue,E7,,-35.45,173.483333
+nz,ouruhia,Ouruhia,E9,,-43.45,172.65
+nz,outram,Outram,F2,657,-45.866667,170.233333
+nz,outram town district,Outram Town District,F2,,-45.866667,170.233333
+nz,ouwenga,Ouwenga,G2,,-44.033333,-176.366667
+nz,overdale,Overdale,E9,,-43.783333,171.983333
+nz,owaka,Owaka,F7,395,-46.45,169.666667
+nz,owaka valley,Owaka Valley,F7,,-46.433333,169.583333
+nz,owen junction,Owen Junction,F5,,-41.7,172.5
+nz,owen river,Owen River,F5,,-41.65,172.45
+nz,owen valley,Owen Valley,F5,,-41.633333,172.516667
+nz,owersby,Owersby,E9,,-44.066667,170.95
+nz,owhango,Owhango,G2,,-39,175.383333
+nz,owhiro,Owhiro,E7,,-38.166667,174.9
+nz,oxford,Oxford,E7,1776,-43.3,172.183333
+nz,paekakariki,Paekakariki,F2,,-40.983333,174.95
+nz,paemako,Paemako,E7,,-38.466667,175.033333
+nz,paengaroa,Paengaroa,E7,901,-37.816667,176.416667
+nz,paerata,Paerata,E7,,-37.166667,174.9
+nz,paerau,Paerau,G2,,-45.416667,169.95
+nz,paeroa,Paeroa,F2,3994,-37.366667,175.666667
+nz,paetawai,Paetawai,E7,,-35.533333,174.45
+nz,pahautane,Pahautane,F5,,-42.05,171.366667
+nz,pahautanui,Pahautanui,G2,,-41.1,174.916667
+nz,pahautea,Pahautea,G2,,-41.233333,175.383333
+nz,pahia,Pahia,F8,,-46.333333,167.75
+nz,pahi,Pahi,E7,,-36.15,174.216667
+nz,pahitoa,Pahitoa,E7,,-36.783333,174.483333
+nz,pahoia,Pahoia,E7,,-37.65,176.016667
+nz,pahowai,Pahowai,F2,,-39.600556,176.894167
+nz,pah,Pah,F2,,-40.264167,176.648611
+nz,paiaka,Paiaka,E7,,-35.516667,174.15
+nz,paihia,Paihia,E7,1944,-35.283333,174.083333
+nz,pakaraka,Pakaraka,F2,,-35.35,173.95
+nz,pakatoa,Pakatoa,E7,,-36.783333,175.2
+nz,pakawau,Pakawau,F5,,-40.6,172.683333
+nz,pakihikura,Pakihikura,G2,,-39.933333,175.716667
+nz,pakihiroa,Pakihiroa,F1,,-37.85,178.066667
+nz,pakipaki,Pakipaki,F2,,-39.674444,176.824167
+nz,pakiri,Pakiri,E7,,-36.266667,174.733333
+nz,pakotai,Pakotai,E7,,-35.683333,173.9
+nz,pakowhai,Pakowhai,F1,,-39.583333,176.866667
+nz,pakuranga,Pakuranga,E7,,-36.883333,174.916667
+nz,pakurangi,Pakurangi,E7,,-36.883333,174.916667
+nz,palmerston north city,Palmerston North City,G2,,-40.35,175.616667
+nz,palmerston north,Palmerston North,G2,75997,-40.35,175.616667
+nz,pamapuria,Pamapuria,E7,,-35.133333,173.35
+nz,pandora bank,Pandora Bank,E7,,-34.45,172.816667
+nz,pandora,Pandora,E7,,-34.45,172.816667
+nz,pangatotara,Pangatotara,F5,,-41.166667,172.916667
+nz,panguru,Panguru,E7,,-35.383333,173.383333
+nz,panmure,Panmure,E7,,-36.883333,174.866667
+nz,papakaio,Papakaio,F7,,-44.983333,170.983333
+nz,papakura,Papakura,E7,,-37.083333,174.95
+nz,papamoa,Papamoa,E7,,-37.733333,176.3
+nz,papanui,Papanui,F2,,-43.5,172.616667
+nz,paparangi,Paparangi,G2,,-39.7,174.966667
+nz,paparata,Paparata,E7,,-37.15,175.066667
+nz,paparata valley,Paparata Valley,E7,,-37.166667,175.116667
+nz,paparimu,Paparimu,E7,,-37.133333,175.116667
+nz,paparoa,Paparoa,E7,,-36.1,174.233333
+nz,papatawa,Papatawa,F2,,-40.316667,175.933333
+nz,papatotara,Papatotara,F1,,-46.15,167.633333
+nz,papatowai,Papatowai,F7,,-46.6,169.466667
+nz,paradise,Paradise,F7,,-44.733333,168.366667
+nz,parakai,Parakai,E7,1390,-36.65,174.433333
+nz,parakakau,Parakakau,E7,,-36.583333,174.6
+nz,parakao,Parakao,E7,,-35.716667,173.95
+nz,parakino pa,Parakino Pa,F9,,-39.8,175.15
+nz,parakino,Parakino,F9,,-39.8,175.15
+nz,paranui,Paranui,F2,,-35.066667,173.466667
+nz,paraoanui,Paraoanui,E7,,-35.05,173.616667
+nz,para,Para,F4,,-41.366667,173.95
+nz,parapara,Parapara,F5,,-35.016667,173.433333
+nz,paraparaumu beach,Paraparaumu Beach,F2,,-40.9,174.983333
+nz,paraparaumu,Paraparaumu,F2,,-40.916667,175.016667
+nz,parau,Parau,E7,,-36.966667,174.616667
+nz,parawa,Parawa,F8,,-45.55,168.533333
+nz,paremata,Paremata,G2,,-41.116667,174.866667
+nz,paremoremo,Paremoremo,E7,,-36.766667,174.666667
+nz,parenga,Parenga,E9,,-34.533333,172.916667
+nz,pareora,Pareora,E9,503,-44.5,171.2
+nz,pareora west,Pareora West,E9,,-44.433333,171.133333
+nz,paretai,Paretai,E9,,-46.333333,169.783333
+nz,parihaka pa,Parihaka Pa,F9,,-39.3,173.833333
+nz,parihaka,Parihaka,F9,,-39.3,173.833333
+nz,parikino,Parikino,F9,,-39.8,175.15
+nz,park hill,Park Hill,E9,,-45.816667,169.216667
+nz,parkhurst,Parkhurst,F1,,-36.65,174.4
+nz,parkvale,Parkvale,F2,,-41.05,175.55
+nz,parnassus,Parnassus,E9,,-42.716667,173.3
+nz,parnell,Parnell,E7,,-36.866667,174.783333
+nz,paroa,Paroa,F2,,-42.516667,171.166667
+nz,parore,Parore,E7,,-35.916667,173.833333
+nz,parua bay,Parua Bay,E7,,-35.766667,174.466667
+nz,patangata,Patangata,F2,,-39.916667,176.716667
+nz,patea,Patea,F9,1286,-39.758333,174.483333
+nz,patearoa,Patearoa,F7,,-45.266667,170.05
+nz,patetonga,Patetonga,E7,,-37.416667,175.466667
+nz,patoka,Patoka,F2,,-39.35,176.616667
+nz,patuki,Patuki,F5,,-40.733333,173.95
+nz,patumahoe,Patumahoe,E7,,-37.183333,174.833333
+nz,patunga,Patunga,G2,,-38.966667,175.233333
+nz,paturau river,Paturau River,F5,,-40.65,172.433333
+nz,patutahi,Patutahi,F1,386,-38.616667,177.9
+nz,patutahi town district,Patutahi Town District,F1,,-38.616667,177.9
+nz,pauanui,Pauanui,E7,,-37.016667,175.866667
+nz,paua,Paua,E7,,-34.533333,172.916667
+nz,pauatahanui,Pauatahanui,G2,,-41.1,174.916667
+nz,pawarenga,Pawarenga,E7,,-35.35,173.25
+nz,peebles,Peebles,F2,,-44.966667,170.933333
+nz,peel forest,Peel Forest,E9,,-43.916667,171.266667
+nz,pehiri,Pehiri,F1,,-38.633333,177.7
+nz,pehu,Pehu,G2,,-39.05,174.566667
+nz,pembroke,Pembroke,F9,,-44.7,169.15
+nz,penrose,Penrose,G2,,-36.916667,174.816667
+nz,pepepe,Pepepe,E7,,-37.583333,174.95
+nz,peria,Peria,E7,,-35.083333,173.5
+nz,petane,Petane,F2,,-39.383333,176.866667
+nz,petane,Petane,F4,,-39.413056,176.876667
+nz,petone,Petone,G2,,-41.233333,174.883333
+nz,phoebe,Phoebe,E9,,-42.766667,173.233333
+nz,piako,Piako,G1,,-37.65,175.55
+nz,pigeon bay,Pigeon Bay,F4,,-43.7,172.883333
+nz,pigeon bush,Pigeon Bush,G2,,-41.15,175.266667
+nz,pihama,Pihama,F9,,-39.5,173.933333
+nz,piha,Piha,E7,,-36.95,174.466667
+nz,pikiariki,Pikiariki,G2,,-39.266667,175.216667
+nz,piko piko,Piko Piko,F8,,-46.116667,167.733333
+nz,pikowai,Pikowai,F2,,-37.85,176.666667
+nz,pine bush,Pine Bush,F8,,-46.466667,168.8
+nz,pine valley,Pine Valley,E7,,-41.533333,173.533333
+nz,pinohia,Pinohia,F4,,-41.216667,173.85
+nz,piopio,Piopio,F2,502,-38.466667,175.016667
+nz,pipiriki,Pipiriki,G2,,-39.483333,175.05
+nz,pipiroa,Pipiroa,E7,,-37.216667,175.483333
+nz,piriaka,Piriaka,G2,,-38.916667,175.35
+nz,pirinoa,Pirinoa,G2,,-41.35,175.2
+nz,piripiri,Piripiri,F2,,-40.166667,176.133333
+nz,pirongia,Pirongia,E7,,-38,175.2
+nz,piruhi,Piruhi,F2,,-39.156389,177.831389
+nz,pleasant point,Pleasant Point,E7,1187,-44.266667,171.133333
+nz,pleasant point town district,Pleasant Point Town District,E7,,-44.266667,171.133333
+nz,pleasant valley,Pleasant Valley,F7,,-44.083333,171.183333
+nz,plimmerton,Plimmerton,G2,,-41.083333,174.866667
+nz,poerua,Poerua,G3,,-42.7,171.5
+nz,pohangina,Pohangina,G2,,-40.166667,175.8
+nz,pohokura,Pohokura,E7,,-39.166667,174.666667
+nz,pohuehue,Pohuehue,E7,,-36.45,174.65
+nz,point chevalier,Point Chevalier,E7,,-36.85,174.7
+nz,point resolution,Point Resolution,E7,,-36.851389,174.789444
+nz,pokaka,Pokaka,G2,,-39.3,175.4
+nz,pokapu,Pokapu,E7,,-35.433333,173.983333
+nz,pokeno,Pokeno,E7,,-37.233333,175.016667
+nz,pokere,Pokere,E7,,-35.483333,173.983333
+nz,pokororo,Pokororo,F5,,-41.216667,172.833333
+nz,pollok,Pollok,E7,,-37.133333,174.616667
+nz,pollok settlement,Pollok Settlement,E7,,-37.133333,174.616667
+nz,pomahaka,Pomahaka,F7,,-46.016667,169.233333
+nz,pongahere,Pongahere,F7,,-45.983333,169.5
+nz,pongakawa,Pongakawa,E7,,-37.816667,176.483333
+nz,pongaroa,Pongaroa,G2,,-40.55,176.183333
+nz,ponsonby,Ponsonby,E7,,-36.85,174.733333
+nz,poolburn,Poolburn,F7,,-45.15,169.666667
+nz,popotunoa,Popotunoa,F7,,-46.1,169.383333
+nz,porangahau,Porangahau,F2,,-40.278889,176.628333
+nz,poranui,Poranui,E9,,-43.816667,172.7
+nz,porirua pa,Porirua Pa,G2,,-41.133333,174.833333
+nz,porirua,Porirua,G2,50914,-41.133333,174.85
+nz,porongahau,Porongahau,F2,,-40.278889,176.628333
+nz,porootarao,Porootarao,F9,,-38.55,175.316667
+nz,poroporo,Poroporo,E7,,-37.983333,176.966667
+nz,poroti,Poroti,E7,,-35.733333,174.133333
+nz,port ahuriri,Port Ahuriri,F2,,-39.483333,176.9
+nz,port albert,Port Albert,E7,,-36.266667,174.45
+nz,port awanui,Port Awanui,F1,,-37.833333,178.45
+nz,port chalmers,Port Chalmers,F7,,-45.8125,170.604167
+nz,port charles,Port Charles,E7,,-36.533333,175.483333
+nz,port craig,Port Craig,F8,,-46.216667,167.35
+nz,port fitzroy,Port Fitzroy,E7,,-36.166667,175.35
+nz,port hardy,Port Hardy,F5,,-40.733333,173.833333
+nz,portland,Portland,E7,,-35.8,174.316667
+nz,port molyneux,Port Molyneux,F7,,-46.366667,169.766667
+nz,port motueka,Port Motueka,F5,,-41.133333,173.016667
+nz,port nelson,Port Nelson,F5,,-41.266667,173.266667
+nz,portobello,Portobello,F7,,-45.85,170.65
+nz,port robinson,Port Robinson,E9,,-42.866667,173.3
+nz,port waikato,Port Waikato,E7,,-37.383333,174.733333
+nz,potters creek,Potters Creek,G3,,-43.35,170.216667
+nz,poukawa,Poukawa,F2,,-39.766667,176.733333
+nz,poukiore,Poukiore,G2,,-39.866667,175.633333
+nz,pounamu,Pounamu,F1,,-42.633333,171.266667
+nz,pounawea,Pounawea,F7,,-46.483333,169.7
+nz,pouto,Pouto,E7,,-36.366667,174.183333
+nz,poutu,Poutu,E7,,-36.366667,174.183333
+nz,poutu,Poutu,G2,,-39.066667,175.75
+nz,prebbleton,Prebbleton,E9,,-43.583333,172.516667
+nz,puaha,Puaha,E9,,-43.75,172.833333
+nz,puahau,Puahau,E7,,-35.466667,173.383333
+nz,puaho,Puaho,E9,,-43.75,172.833333
+nz,puerua,Puerua,F7,,-46.316667,169.683333
+nz,puha,Puha,F1,,-38.483333,177.85
+nz,puhau,Puhau,E7,,-35.466667,173.383333
+nz,puhoi,Puhoi,E7,,-36.5,174.666667
+nz,puhua,Puhua,F1,,-38.483333,177.85
+nz,pukahu,Pukahu,F2,,-39.683333,176.85
+nz,pukaki,Pukaki,E9,,-44.183333,170.15
+nz,pukapuka,Pukapuka,E7,,-36.483333,174.683333
+nz,pukearuhe,Pukearuhe,F9,,-38.9,174.5
+nz,pukeatua,Pukeatua,E7,,-38.066667,175.55
+nz,pukeawa,Pukeawa,F2,,-46.166667,169.616667
+nz,pukehiki,Pukehiki,F7,,-45.883333,170.633333
+nz,pukehina,Pukehina,E7,,-37.816667,176.533333
+nz,pukehou,Pukehou,F2,,-39.833333,176.633333
+nz,pukehuia,Pukehuia,E7,,-35.866667,174.033333
+nz,pukeinoi,Pukeinoi,E7,,-38.133333,174.883333
+nz,pukekapia,Pukekapia,E7,,-37.533333,175.116667
+nz,pukekohe east,Pukekohe East,E7,,-37.2,174.95
+nz,pukekoikoi,Pukekoikoi,F4,,-41.15,174.166667
+nz,pukekoma,Pukekoma,F7,,-46.083333,169.733333
+nz,pukekura,Pukekura,F2,,-43.016667,170.666667
+nz,pukemaori,Pukemaori,F8,,-46.083333,167.8
+nz,pukemiro junction,Pukemiro Junction,E7,,-37.6,175.066667
+nz,pukemiro,Pukemiro,E7,,-37.616667,175.033333
+nz,pukenui,Pukenui,F2,,-34.816667,173.116667
+nz,pukeowhare,Pukeowhare,G1,,-37.233333,174.75
+nz,pukepito,Pukepito,F7,,-46.166667,169.65
+nz,pukerangi,Pukerangi,F2,,-45.633333,170.216667
+nz,pukerau,Pukerau,E7,,-46.1,169.1
+nz,pukeroa,Pukeroa,G2,,-39.783333,175.5
+nz,pukerua bay,Pukerua Bay,G2,,-41.033333,174.9
+nz,puketapu,Puketapu,F9,,-39.516667,176.8
+nz,puketeraki,Puketeraki,E9,,-45.666667,170.65
+nz,puketi,Puketi,E7,,-46.05,169.616667
+nz,puketiro,Puketiro,F2,,-46.483333,169.483333
+nz,puketitiri,Puketitiri,F2,,-39.283333,176.55
+nz,puketona,Puketona,F2,,-35.3,173.966667
+nz,puketotara,Puketotara,E7,,-38.083333,175.166667
+nz,puketui,Puketui,E7,,-37.1,175.733333
+nz,puketutu,Puketutu,E7,,-38.433333,175.233333
+nz,pukeuri junction,Pukeuri Junction,E9,,-45.033333,171.033333
+nz,puk-kura,Puk-kura,F2,,-39.523333,176.844167
+nz,punakaiki,Punakaiki,G3,,-42.1,171.333333
+nz,punakitere,Punakitere,E7,,-35.466667,173.683333
+nz,punaroma,Punaroma,E7,,-38.2,176.383333
+nz,punaromia,Punaromia,E7,,-38.2,176.383333
+nz,punawai,Punawai,F2,,-43.783333,171.533333
+nz,punganui,Punganui,E7,,-36.633333,174.483333
+nz,pungarehu,Pungarehu,F1,,-39.283333,173.8
+nz,puniho,Puniho,F9,,-39.2,173.833333
+nz,puniwhakau,Puniwhakau,F9,,-39.333333,174.616667
+nz,puponga,Puponga,F5,,-40.516667,172.716667
+nz,pupuke,Pupuke,E7,,-35.1,173.716667
+nz,purangi,Purangi,E7,,-39.15,174.516667
+nz,purekireki,Purekireki,F7,,-46.35,169.483333
+nz,purerua,Purerua,E7,,-35.15,174.033333
+nz,puriri,Puriri,F1,,-37.233333,175.633333
+nz,pusey,Pusey,E9,,-44.05,170.916667
+nz,putangahau,Putangahau,F8,,-46.55,169.133333
+nz,putiki,Putiki,G2,,-36.8,175.066667
+nz,putorino,Putorino,F2,,-39.133333,177
+nz,puwera,Puwera,E7,,-35.783333,174.283333
+nz,pyramid,Pyramid,F5,,-45.933333,168.766667
+nz,quarry hills,Quarry Hills,F8,,-46.55,169.033333
+nz,queensberry,Queensberry,F7,,-44.833333,169.333333
+nz,queensbury,Queensbury,F7,,-44.833333,169.333333
+nz,queenstown,Queenstown,E9,,-45.01,168.40
+nz,raes junction,Raes Junction,F2,,-45.783333,169.466667
+nz,raglan,Raglan,F4,2863,-37.8,174.883333
+nz,rahiri,Rahiri,F1,,-39.233333,174.133333
+nz,rahotu,Rahotu,F9,302,-39.333333,173.8
+nz,rai falls,Rai Falls,F4,,-41.3,173.566667
+nz,rai valley,Rai Valley,F4,,-41.233333,173.583333
+nz,rakahouka,Rakahouka,F8,,-46.316667,168.483333
+nz,rakaia gorge,Rakaia Gorge,E9,,-43.516667,171.65
+nz,rakaia,Rakaia,G2,1043,-43.75,172.016667
+nz,rakauhauka,Rakauhauka,F8,,-46.316667,168.483333
+nz,rakaunui,Rakaunui,G2,,-40.6,176.133333
+nz,rakau,Rakau,F2,,-41.416667,172.783333
+nz,rakauroa,Rakauroa,F1,,-38.416667,177.55
+nz,rakautahi,Rakautahi,G2,,-43.816667,-176.583333
+nz,rakautao,Rakautao,E7,,-35.433333,173.85
+nz,raketapauma,Raketapauma,G2,,-39.55,175.583333
+nz,ramarama,Ramarama,E7,,-37.15,174.95
+nz,ranfurly,Ranfurly,F7,793,-45.133333,170.1
+nz,ranganui,Ranganui,F1,,-36.15,174.4
+nz,rangataua,Rangataua,G2,,-39.433333,175.466667
+nz,rangiahua,Rangiahua,E7,,-35.3,173.633333
+nz,rangikura,Rangikura,F9,,-39.783333,174.55
+nz,rangiotu,Rangiotu,G2,,-40.416667,175.433333
+nz,rangi point,Rangi Point,E7,,-35.466667,173.383333
+nz,rangiputa,Rangiputa,E7,,-34.883333,173.3
+nz,rangiriri,Rangiriri,F9,,-37.433333,175.166667
+nz,rangitaiki,Rangitaiki,E7,,-38.883333,176.383333
+nz,rangitata island,Rangitata Island,E9,,-44.133333,171.466667
+nz,rangitata,Rangitata,F1,,-44.066667,171.366667
+nz,rangitatau,Rangitatau,G2,,-39.766667,174.8
+nz,rangitihi,Rangitihi,E7,,-35.133333,173.333333
+nz,rangitukia,Rangitukia,F1,,-37.766667,178.45
+nz,rangiuru,Rangiuru,E7,,-37.783333,176.383333
+nz,rangiwaea marae,Rangiwaea Marae,E8,,-37.6375,176.122222
+nz,rangiwahia,Rangiwahia,G2,,-39.9,175.916667
+nz,raorao,Raorao,E9,,-44.466667,171.216667
+nz,rapahoe,Rapahoe,G2,,-42.366667,171.25
+nz,rapaki,Rapaki,F2,,-43.616667,172.666667
+nz,rapanui,Rapanui,G2,,-39.883333,174.933333
+nz,rapaura,Rapaura,F4,,-41.466667,173.9
+nz,rapuwai,Rapuwai,E9,,-44.166667,171.05
+nz,ratana,Ratana,G2,437,-40.045833,175.175
+nz,ratanui,Ratanui,F9,,-46.483333,169.633333
+nz,ratapiko,Ratapiko,F9,,-39.2,174.316667
+nz,rata,Rata,F2,,-39.983333,175.516667
+nz,rat hill,Rat Hill,E9,,-41.540556,175.410556
+nz,raukokore,Raukokore,F1,,-37.65,177.883333
+nz,raumai,Raumai,G2,,-40.216667,175.766667
+nz,raumati beach,Raumati Beach,F2,,-40.916667,174.983333
+nz,raumati,Raumati,F2,,-40.2,176.15
+nz,raumati south,Raumati South,F2,,-40.95,174.983333
+nz,raupaki,Raupaki,F2,,-43.616667,172.666667
+nz,raupo,Raupo,E7,,-36.116667,173.983333
+nz,raupunga,Raupunga,F2,,-39.033333,177.216667
+nz,raurekau,Raurekau,F7,,-46.15,170.033333
+nz,raurimu,Raurimu,G2,,-39.116667,175.4
+nz,raurimu spiral,Raurimu Spiral,G2,,-39.116667,175.4
+nz,ravensbourne,Ravensbourne,F7,,-45.866667,170.55
+nz,rawanui,Rawanui,G2,,-42.383333,171.316667
+nz,rawene,Rawene,E7,486,-35.4,173.5
+nz,rawene town district,Rawene Town District,E7,,-35.4,173.5
+nz,rawhiti,Rawhiti,F2,,-35.233333,174.25
+nz,raymonds gap,Raymonds Gap,F8,,-46.1,167.883333
+nz,red beach,Red Beach,E7,,-36.610556,174.705556
+nz,redcliffs,Redcliffs,E9,,-43.566667,172.733333
+nz,redhill,Redhill,E7,,-36.033333,173.85
+nz,red vale,Red Vale,E7,,-36.683333,174.7
+nz,redwoods valley,Redwoods Valley,E9,,-41.3,173.083333
+nz,reefton,Reefton,F5,980,-42.116667,171.866667
+nz,rehia,Rehia,E7,,-36.066667,174.033333
+nz,reidston,Reidston,E9,,-45.15,170.85
+nz,reikorangi,Reikorangi,G2,,-40.9,175.083333
+nz,renown,Renown,E7,,-37.566667,175.05
+nz,renwick,Renwick,G2,,-41.5,173.833333
+nz,renwicktown,Renwicktown,G2,,-41.5,173.833333
+nz,reporoa,Reporoa,E7,595,-38.433333,176.35
+nz,rere,Rere,F1,,-38.533333,177.616667
+nz,rewanui,Rewanui,G2,,-42.383333,171.316667
+nz,rewa,Rewa,G2,,-39.983333,175.633333
+nz,richmond,Richmond,E9,,-45.016667,171.05
+nz,ridgelands,Ridgelands,G2,,-40.15,175.6
+nz,rimu,Rimu,F2,,-42.766667,171
+nz,ringway,Ringway,F8,,-46.166667,168.016667
+nz,riponui,Riponui,E7,,-35.566667,174.15
+nz,rissington,Rissington,F2,,-39.45,176.716667
+nz,ritchie,Ritchie,00,,-43.733333,176.266667
+nz,riverhead,Riverhead,E7,,-36.75,174.6
+nz,riverlea,Riverlea,E9,,-39.433333,174.083333
+nz,riversdale,Riversdale,F2,371,-45.9,168.75
+nz,riverside,Riverside,F2,,-44.016667,171.833333
+nz,riverton,Riverton,F8,1651,-46.35,168.016667
+nz,riwaka,Riwaka,F5,986,-41.083333,173
+nz,roa,Roa,G3,,-42.35,171.383333
+nz,robinsons bay,Robinsons Bay,E9,,-43.766667,172.966667
+nz,rock and pillar,Rock and Pillar,F7,,-45.4,170.183333
+nz,rocklands,Rocklands,F5,,-45.666667,169.983333
+nz,rockville,Rockville,F5,,-40.733333,172.633333
+nz,rolleston,Rolleston,E9,3124,-43.583333,172.383333
+nz,romahapa,Romahapa,F7,,-46.35,169.733333
+nz,rongahere,Rongahere,F7,,-45.983333,169.5
+nz,rongotea,Rongotea,G2,631,-40.3,175.416667
+nz,roslyn bush,Roslyn Bush,F8,,-46.35,168.45
+nz,roslyn,Roslyn,F4,,-45.866667,170.483333
+nz,rotherham,Rotherham,E9,,-42.7,172.95
+nz,rotoiti,Rotoiti,E7,,-38.05,176.483333
+nz,rotokawa,Rotokawa,E7,,-38.116667,176.333333
+nz,rotokino,Rotokino,G3,,-43.2,170.366667
+nz,rotokohu,Rotokohu,F5,,-41.966667,171.9
+nz,rotomanu,Rotomanu,G2,,-42.65,171.533333
+nz,rotongaro,Rotongaro,E7,,-37.516667,175.083333
+nz,roto,Roto,F9,,-38.883333,175.033333
+nz,rotowaro,Rotowaro,E7,,-37.6,175.083333
+nz,rotu,Rotu,E7,,-35.883333,173.8
+nz,rouiti pa,Rouiti Pa,E7,,-39.066667,176.25
+nz,round hill,Round Hill,F2,,-46.316667,167.816667
+nz,rowan,Rowan,F9,,-39.4,174.116667
+nz,rowsells,Rowsells,E7,,-36.1,174.35
+nz,ruahine,Ruahine,E7,,-39.833333,175.9
+nz,ruakaka,Ruakaka,F1,,-35.883333,174.4
+nz,ruapuke,Ruapuke,E7,,-37.916667,174.8
+nz,ruapuna,Ruapuna,G2,,-43.866667,171.35
+nz,ruatahuna,Ruatahuna,E7,,-38.55,176.95
+nz,ruatangata east,Ruatangata East,E7,,-35.65,174.233333
+nz,ruatangata,Ruatangata,G2,,-35.65,174.183333
+nz,ruatangata west,Ruatangata West,E7,,-35.65,174.183333
+nz,ruataniwha,Ruataniwha,F2,,-39.933333,176.5
+nz,ruatapu,Ruatapu,G3,,-42.8,170.883333
+nz,ruatoki north,Ruatoki North,E7,,-38.133333,177.05
+nz,ruatoki,Ruatoki,E7,,-38.133333,177.05
+nz,ruatoria,Ruatoria,F1,897,-37.883333,178.333333
+nz,ruawai,Ruawai,F2,477,-36.133333,174.033333
+nz,ruawaro,Ruawaro,E7,,-37.516667,175.05
+nz,rukuhia,Rukuhia,E7,,-37.866667,175.283333
+nz,rukuwai,Rukuwai,E7,,-35.75,174.466667
+nz,runaruna,Runaruna,E7,,-35.316667,173.35
+nz,runciman,Runciman,E7,,-37.1,174.933333
+nz,ruru,Ruru,E7,,-42.583333,171.5
+nz,russell,Russell,F2,839,-35.266667,174.116667
+nz,russell town district,Russell Town District,F2,,-35.266667,174.116667
+nz,rutherglen,Rutherglen,E9,,-42.533333,171.15
+nz,ryal bush,Ryal Bush,F8,,-46.266667,168.333333
+nz,saies,Saies,E7,,-35.05,173.7
+nz,saint albans,Saint Albans,E9,,-43.516667,172.616667
+nz,saint andrews,Saint Andrews,E9,,-44.533333,171.183333
+nz,saint arnaud,Saint Arnaud,E7,,-41.8,172.833333
+nz,saint bathans,Saint Bathans,F7,,-44.866667,169.816667
+nz,saint clair,Saint Clair,E9,,-45.916667,170.483333
+nz,saint heliers,Saint Heliers,E7,,-36.85,174.866667
+nz,saint kilda,Saint Kilda,F7,,-45.9,170.519444
+nz,saint omer,Saint Omer,F4,,-41.183333,173.966667
+nz,saint patricks,Saint Patricks,F8,,-45.8,168.5
+nz,salisbury,Salisbury,F2,,-44.433333,171.2
+nz,sandy bay,Sandy Bay,F4,,-41.016667,172.983333
+nz,sandy knolls,Sandy Knolls,E9,,-43.566667,172.316667
+nz,sanson,Sanson,G2,508,-40.216667,175.416667
+nz,sawyers bay,Sawyers Bay,F7,,-45.833333,170.6
+nz,scargill,Scargill,E9,,-42.933333,172.95
+nz,scotts gap,Scotts Gap,F8,,-46.066667,167.933333
+nz,seacliff,Seacliff,F7,,-45.683333,170.616667
+nz,seadown,Seadown,E9,,-44.3,171.266667
+nz,seafield,Seafield,F2,,-43.916667,171.9
+nz,seatoun,Seatoun,G2,,-41.316667,174.833333
+nz,seaward downs,Seaward Downs,F8,,-46.383333,168.75
+nz,seddon,Seddon,F4,511,-41.666667,174.083333
+nz,seddonville,Seddonville,F5,,-41.55,171.983333
+nz,sedgemere,Sedgemere,F4,,-43.85,172.333333
+nz,sedonville,Sedonville,F5,,-41.55,171.983333
+nz,sefton,Sefton,E9,546,-43.25,172.666667
+nz,selwyn,Selwyn,E7,,-43.65,172.216667
+nz,sentry hill,Sentry Hill,G2,,-39.033333,174.2
+nz,sergeants hill,Sergeants Hill,F5,,-41.766667,171.65
+nz,shag point,Shag Point,E7,,-45.466667,170.816667
+nz,sheffield,Sheffield,E9,,-43.383333,172.016667
+nz,shenandoah,Shenandoah,F5,,-41.866667,172.25
+nz,sherry river,Sherry River,F5,,-41.433333,172.733333
+nz,sherwood downs,Sherwood Downs,E9,,-43.966667,170.866667
+nz,sherwood,Sherwood,E9,,-43.75,171.816667
+nz,silverdale,Silverdale,F2,,-36.616667,174.666667
+nz,silverhope,Silverhope,G2,,-39.966667,175.533333
+nz,silverstream,Silverstream,G2,,-41.15,175
+nz,simons pass,Simons Pass,E9,,-44.2,170.283333
+nz,skippers,Skippers,F7,,-44.833333,168.683333
+nz,slope point,Slope Point,F8,,-46.666667,169
+nz,somerton,Somerton,E9,,-43.75,171.916667
+nz,southbridge,Southbridge,E9,785,-43.816667,172.25
+nz,southbridge town district,Southbridge Town District,E9,,-43.816667,172.25
+nz,southbrook,Southbrook,E9,,-43.333333,172.6
+nz,southburn,Southburn,E9,,-44.45,171.1
+nz,south hillend,South Hillend,F8,,-46.05,168.25
+nz,south malvern,South Malvern,E9,,-43.466667,171.9
+nz,south rakaia,South Rakaia,G2,,-43.75,172.016667
+nz,south rangitata,South Rangitata,F1,,-44.066667,171.366667
+nz,spotswood,Spotswood,F9,,-42.75,173.266667
+nz,spreydon,Spreydon,E9,,-43.566667,172.616667
+nz,springbank,Springbank,G2,,-43.316667,172.433333
+nz,springburn,Springburn,E9,,-43.666667,171.466667
+nz,spring creek,Spring Creek,F2,,-41.466667,173.966667
+nz,springfield,Springfield,E9,,-43.333333,171.916667
+nz,spring grove,Spring Grove,G2,,-41.383333,173.083333
+nz,springhills,Springhills,G2,,-46.183333,168.483333
+nz,springs junction,Springs Junction,F5,,-42.316667,172.183333
+nz,springston south,Springston South,E9,,-43.683333,172.433333
+nz,springston,Springston,E9,,-43.65,172.416667
+nz,stafford,Stafford,G3,,-42.666667,171.083333
+nz,stanley brook,Stanley Brook,F5,,-41.333333,172.816667
+nz,stanmore bay,Stanmore Bay,E7,,-36.6275,174.731389
+nz,staveley,Staveley,E9,,-43.65,171.433333
+nz,stillwater junction,Stillwater Junction,E7,,-42.433333,171.35
+nz,stillwater,Stillwater,E7,,-42.433333,171.35
+nz,stirling,Stirling,F7,320,-46.25,169.783333
+nz,stockton,Stockton,F5,,-41.633333,171.883333
+nz,stoke,Stoke,F5,,-41.316667,173.233333
+nz,stoke,Stoke,G2,,-43.316667,172.466667
+nz,stoneburn,Stoneburn,F7,,-45.433333,170.566667
+nz,strachans,Strachans,F7,,-44.766667,170.5
+nz,strathmore,Strathmore,E9,,-39.283333,174.566667
+nz,straun,Straun,E9,,-44.583333,170.65
+nz,stuarts,Stuarts,F7,,-46.533333,169.45
+nz,studholme junction,Studholme Junction,E9,,-44.733333,171.133333
+nz,summer,Summer,E9,,-43.583333,172.75
+nz,summit,Summit,E7,,-41.15,175.2
+nz,surfdale,Surfdale,G2,,-36.783333,175
+nz,sutherlands,Sutherlands,E9,,-44.283333,171.05
+nz,sutherland,Sutherland,E9,,-44.283333,171.05
+nz,sutton,Sutton,F7,,-45.566667,170.116667
+nz,swannanoa,Swannanoa,E9,,-43.383333,172.466667
+nz,swanson,Swanson,E7,,-36.866667,174.583333
+nz,sydenham,Sydenham,E9,,-43.55,172.633333
+nz,tadmor,Tadmor,F5,,-41.433333,172.75
+nz,taemaro,Taemaro,E7,,-34.95,173.566667
+nz,tahakopa,Tahakopa,F7,,-46.516667,169.383333
+nz,tahatika,Tahatika,F7,,-43.75,-176.666667
+nz,tahawai,Tahawai,E7,,-37.516667,175.933333
+nz,tahekeroa,Tahekeroa,E7,,-36.533333,174.55
+nz,taheke,Taheke,F2,,-35.45,173.65
+nz,tahere,Tahere,F2,,-35.683333,174.433333
+nz,tahoraite,Tahoraite,F2,,-40.216667,176.083333
+nz,tahoraiti,Tahoraiti,F2,,-40.216667,176.083333
+nz,tahorakui,Tahorakui,E7,,-38.5,176.3
+nz,tahorakuri,Tahorakuri,E7,,-38.5,176.3
+nz,tahora,Tahora,F2,,-39.033333,174.8
+nz,tahunanui,Tahunanui,F5,,-41.283333,173.25
+nz,tahuna,Tahuna,G2,,-37.5,175.483333
+nz,taieri beach,Taieri Beach,F7,,-46.083333,170.183333
+nz,taieri mouth,Taieri Mouth,F7,,-46.066667,170.183333
+nz,taieri,Taieri,F7,,-45.866667,170.5
+nz,taikawhana,Taikawhana,E7,,-35.233333,173.533333
+nz,taimate,Taimate,F4,,-41.783333,174.15
+nz,taingaihe,Taingaihe,F2,,-36.166667,174.016667
+nz,tainui,Tainui,E9,,-42.766667,170.916667
+nz,taioma,Taioma,F7,,-45.8,170.316667
+nz,taipa,Taipa,E7,,-34.983333,173.466667
+nz,taipuha,Taipuha,E7,,-36,174.283333
+nz,tairua,Tairua,E7,1588,-37.016667,175.85
+nz,tai tapu,Tai Tapu,E9,,-43.666667,172.55
+nz,taita,Taita,G2,,-41.2,174.95
+nz,taitimu,Taitimu,E7,,-37.05,174.666667
+nz,takaanini,Takaanini,E7,,-37.033333,174.916667
+nz,takahiwai,Takahiwai,E7,,-35.833333,174.416667
+nz,takahue,Takahue,E7,,-35.2,173.35
+nz,takaka,Takaka,F5,1223,-40.85,172.8
+nz,takaka town district,Takaka Town District,F5,,-40.85,172.8
+nz,takamatua bay,Takamatua Bay,E9,,-43.783333,172.966667
+nz,takamatua,Takamatua,E9,,-43.783333,172.966667
+nz,takanini,Takanini,E7,,-37.033333,174.916667
+nz,takapau,Takapau,F2,597,-40.033333,176.35
+nz,takapuna,Takapuna,E7,,-36.791667,174.775833
+nz,takitahuna,Takitahuna,G2,,-40.4,175.5
+nz,takou,Takou,F9,,-39.433333,174.633333
+nz,takutai,Takutai,G3,,-42.733333,170.95
+nz,tamahere,Tamahere,E7,,-37.833333,175.35
+nz,tamihunu,Tamihunu,F2,,-39.540278,176.847778
+nz,taneatua,Taneatua,E7,813,-38.066667,177.016667
+nz,tanekaha,Tanekaha,F1,,-35.583333,174.233333
+nz,tane,Tane,G2,,-40.6,175.833333
+nz,tangaihe,Tangaihe,F2,,-36.166667,174.016667
+nz,tangarakau,Tangarakau,F2,,-39.016667,174.85
+nz,tangimoana,Tangimoana,G2,,-40.3,175.25
+nz,tangiteroria,Tangiteroria,E7,,-35.816667,174.05
+nz,tangitu,Tangitu,E7,,-38.616667,175.216667
+nz,tangiwai,Tangiwai,F1,,-39.466667,175.583333
+nz,tangoio,Tangoio,F2,,-39.333333,176.916667
+nz,tangowahine,Tangowahine,E7,,-35.866667,173.933333
+nz,taniwha,Taniwha,F2,,-37.4,175.3
+nz,tapawera,Tapawera,F5,432,-41.4,172.816667
+nz,tapuhi,Tapuhi,E7,,-35.466667,174.2
+nz,tapu,Tapu,E7,,-36.983333,175.5
+nz,tapuwae,Tapuwae,E7,,-38.566667,175.333333
+nz,taradale,Taradale,F2,,-39.533333,176.85
+nz,taradale town district,Taradale Town District,F2,,-39.533333,176.85
+nz,tarakohe,Tarakohe,F5,,-40.816667,172.9
+nz,taramakau,Taramakau,G3,,-42.683333,171.25
+nz,taranui,Taranui,G2,,-35.733333,174.466667
+nz,tarara,Tarara,F7,,-46.516667,169.566667
+nz,tarata,Tarata,G2,,-39.15,174.366667
+nz,taraunui,Taraunui,E7,,-35.733333,174.466667
+nz,tarawera,Tarawera,F2,,-39.033333,176.583333
+nz,tarewa,Tarewa,F2,,-38.933333,177.8
+nz,tariki,Tariki,F9,,-39.233333,174.25
+nz,taringamotu,Taringamotu,E7,,-38.833333,175.25
+nz,tarras,Tarras,F7,,-44.833333,169.416667
+nz,tarukenga,Tarukenga,E7,,-38.083333,176.166667
+nz,tarurutangi,Tarurutangi,F9,,-39.083333,174.183333
+nz,tasman,Tasman,F5,,-41.2,173.05
+nz,tataraimaka,Tataraimaka,F9,,-39.166667,173.916667
+nz,tataramoa,Tataramoa,G2,,-40.133333,176.15
+nz,tatare,Tatare,G3,,-43.366667,170.183333
+nz,tatuanui,Tatuanui,E7,,-37.616667,175.6
+nz,tatu,Tatu,F9,,-38.9,174.95
+nz,taueru,Taueru,G2,,-40.966667,175.8
+nz,tauhoa,Tauhoa,E7,,-36.383333,174.45
+nz,taumangi,Taumangi,E7,,-38.033333,175.766667
+nz,taumarere,Taumarere,E7,,-35.366667,174.083333
+nz,taumatatahi,Taumatatahi,F9,,-39.55,174.8
+nz,taumata,Taumata,F2,,-46.15,169.466667
+nz,taumutu,Taumutu,F1,,-43.85,172.366667
+nz,taupahi,Taupahi,G2,,-39,175.933333
+nz,taupaki,Taupaki,E7,,-36.816667,174.566667
+nz,taupiri,Taupiri,E7,,-37.616667,175.183333
+nz,taupo,Taupo,E7,22469,-38.683333,176.083333
+nz,taupo town district,Taupo Town District,E7,,-38.683333,176.083333
+nz,tauranga,Tauranga,F1,110338,-37.686111,176.166667
+nz,tauraroa,Tauraroa,E7,,-35.866667,174.233333
+nz,taurikura,Taurikura,E7,,-35.816667,174.533333
+nz,tautoro,Tautoro,E7,,-35.466667,173.833333
+nz,tautuku,Tautuku,F7,,-46.583333,169.416667
+nz,tauweru,Tauweru,G2,,-40.966667,175.8
+nz,tauwhare,Tauwhare,E7,,-37.766667,175.466667
+nz,tawa flat,Tawa Flat,F8,,-41.166667,174.85
+nz,tawa flat town district,Tawa Flat Town District,F8,,-41.166667,174.85
+nz,tawai,Tawai,F1,,-44.883333,170.983333
+nz,tawanui,Tawanui,G2,,-46.466667,169.533333
+nz,tawhai,Tawhai,F5,,-42.15,171.8
+nz,tawharanui,Tawharanui,E7,,-36.383333,174.8
+nz,tawhiti,Tawhiti,F2,,-45.383333,169.283333
+nz,tawhiwhi,Tawhiwhi,G2,,-39.633333,174.8
+nz,tawiti,Tawiti,E7,,-36.183333,174.35
+nz,taylorville,Taylorville,G3,,-42.433333,171.316667
+nz,te ahuahu,Te Ahuahu,E7,,-35.333333,173.85
+nz,te akatea,Te Akatea,E7,,-37.65,175.066667
+nz,te akau,Te Akau,E7,,-37.683333,174.866667
+nz,te anau,Te Anau,F8,2074,-45.416667,167.716667
+nz,te anga,Te Anga,E7,,-38.25,174.85
+nz,te arai,Te Arai,E7,,-36.166667,174.616667
+nz,te araroa,Te Araroa,F1,,-37.633333,178.366667
+nz,te aroha west,Te Aroha West,E7,,-37.583333,175.733333
+nz,te atatu,Te Atatu,E7,,-36.833333,174.65
+nz,te aute,Te Aute,F2,,-39.828333,176.6325
+nz,te awaiti,Te Awaiti,G2,,-41.216667,174.283333
+nz,te awanga,Te Awanga,F2,,-39.633333,176.983333
+nz,teddington,Teddington,E9,,-43.666667,172.666667
+nz,te hana,Te Hana,E7,,-36.266667,174.516667
+nz,te hapua,Te Hapua,F2,,-34.5,172.916667
+nz,te haroto,Te Haroto,F2,,-39.133333,176.6
+nz,te hauke,Te Hauke,F2,,-39.766667,176.683333
+nz,te hoe,Te Hoe,F2,,-37.516667,175.316667
+nz,te horo,Te Horo,E7,698,-40.8,175.1
+nz,te huia,Te Huia,F1,,-39.733333,174.766667
+nz,te kaha,Te Kaha,F1,403,-37.733333,177.683333
+nz,te kaiwhata,Te Kaiwhata,G1,,-37.4,175.15
+nz,te kao,Te Kao,E7,,-34.65,172.95
+nz,tekapo,Tekapo,E9,,-44.016667,170.5
+nz,te kapu,Te Kapu,F1,,-38.968611,177.400556
+nz,te karaka,Te Karaka,F1,592,-38.466667,177.866667
+nz,te karaka town district,Te Karaka Town District,F1,,-38.466667,177.866667
+nz,te kauwhata,Te Kauwhata,G1,1174,-37.4,175.15
+nz,te kauwhata town district,Te Kauwhata Town District,G1,,-37.4,175.15
+nz,te kawa,Te Kawa,G2,,-38.1,175.283333
+nz,te kinga,Te Kinga,G3,,-42.633333,171.5
+nz,te kiri,Te Kiri,F9,,-39.433333,174.033333
+nz,te kohanga,Te Kohanga,E7,,-37.316667,174.833333
+nz,te kopura,Te Kopura,G2,,-36.033333,173.933333
+nz,te koroa,Te Koroa,E7,,-35.116667,173.55
+nz,te kowhai,Te Kowhai,F2,,-37.75,175.15
+nz,te kuha,Te Kuha,F2,,-41.833333,171.65
+nz,te maika,Te Maika,E7,,-38.083333,174.783333
+nz,te mapara,Te Mapara,E7,,-38.45,175.083333
+nz,te mata,Te Mata,E7,,-37.883333,174.866667
+nz,te mawhai,Te Mawhai,E7,,-38.05,175.3
+nz,te miro,Te Miro,E7,,-37.816667,175.55
+nz,te moana,Te Moana,E9,,-44.066667,171.133333
+nz,te moari,Te Moari,F2,,-39.066667,177.033333
+nz,templeton,Templeton,E9,,-43.55,172.466667
+nz,te namu,Te Namu,F5,,-41.383333,172.083333
+nz,te paki,Te Paki,E7,,-34.5,172.816667
+nz,te pangu,Te Pangu,G2,,-41.25,174.233333
+nz,te papatapu,Te Papatapu,E7,,-37.95,174.883333
+nz,tepene,Tepene,E7,,-35.066667,173.916667
+nz,te pirita,Te Pirita,E9,,-43.666667,171.95
+nz,te pohue,Te Pohue,F2,,-39.25,176.683333
+nz,te poi,Te Poi,E7,,-37.883333,175.833333
+nz,te popo,Te Popo,F9,,-39.266667,174.366667
+nz,te puia springs,Te Puia Springs,F1,,-38.066667,178.3
+nz,te puia,Te Puia,E7,,-38.066667,178.3
+nz,te puna,Te Puna,F2,,-37.683333,176.083333
+nz,te puninga,Te Puninga,E7,,-37.583333,175.566667
+nz,te pu,Te Pu,E7,,-37.983333,176.183333
+nz,teramakau,Teramakau,G3,,-42.683333,171.25
+nz,te ranga,Te Ranga,F2,,-39.3,175.2
+nz,te rapaki-a-te-rangiwhakaputa,Te Rapaki-a-Te-Rangiwhakaputa,F2,,-43.616667,172.666667
+nz,te rapa,Te Rapa,E7,,-37.75,175.216667
+nz,te rauamoa,Te Rauamoa,E7,,-38.083333,175.05
+nz,te rawa,Te Rawa,F4,,-41.066667,173.9
+nz,te rehunga,Te Rehunga,F2,,-40.216667,176.016667
+nz,te rerenga,Te Rerenga,E7,,-36.75,175.6
+nz,te roti,Te Roti,F9,,-39.483333,174.266667
+nz,te rou,Te Rou,F4,,-41.566667,173.466667
+nz,terrace end,Terrace End,G2,,-40.35,175.616667
+nz,terras,Terras,F7,,-44.833333,169.416667
+nz,te taho,Te Taho,G3,,-43.216667,170.433333
+nz,te tawa,Te Tawa,F2,,-39.183333,174.216667
+nz,te tua,Te Tua,F2,,-46.166667,167.683333
+nz,te tumutu,Te Tumutu,F8,,-46.25,167.7
+nz,te uku,Te Uku,E7,,-37.833333,174.966667
+nz,teviot settlement,Teviot Settlement,F7,,-45.616667,169.35
+nz,teviot,Teviot,F7,,-45.616667,169.35
+nz,te waewae,Te Waewae,G2,,-46.2,167.666667
+nz,te wairoa,Te Wairoa,E7,,-38.216667,176.366667
+nz,te waitere,Te Waitere,E7,,-38.133333,174.833333
+nz,te waotu,Te Waotu,E7,,-38.15,175.7
+nz,te weka,Te Weka,G2,,-41.25,174.2
+nz,te wera,Te Wera,F1,,-39.233333,174.583333
+nz,te whaiti,Te Whaiti,E7,,-38.583333,176.783333
+nz,te whanga,Te Whanga,G2,,-36.6,174.833333
+nz,te whetu,Te Whetu,E7,,-38.166667,175.95
+nz,thames,Thames,E7,7136,-37.133333,175.533333
+nz,the forks,The Forks,F4,,-43.25,170.233333
+nz,the key of the lakes,The Key of the Lakes,F8,,-45.55,167.9
+nz,the key,The Key,F8,,-45.55,167.9
+nz,the reefs,The Reefs,F7,,-45.633333,170.25
+nz,thornbury,Thornbury,E9,,-46.283333,168.1
+nz,thornton,Thornton,E7,,-37.916667,176.866667
+nz,thorpe,Thorpe,F5,,-41.283333,172.866667
+nz,tiakitahuna,Tiakitahuna,G2,,-40.4,175.5
+nz,tihaka,Tihaka,F8,,-46.35,167.916667
+nz,tikinui,Tikinui,E7,,-36.133333,173.966667
+nz,tikitere,Tikitere,E7,,-38.066667,176.366667
+nz,tikokino,Tikokino,F2,,-39.816667,176.45
+nz,tikorangi,Tikorangi,F2,,-39.033333,174.283333
+nz,timaru city,Timaru City,F4,,-44.4,171.25
+nz,timaru,Timaru,F4,28007,-44.4,171.25
+nz,tiniroto,Tiniroto,F1,,-38.766667,177.566667
+nz,tinline,Tinline,F4,,-41.266667,173.5
+nz,tinopai,Tinopai,E7,,-36.25,174.25
+nz,tinui,Tinui,F4,,-40.883333,176.066667
+nz,tinwald,Tinwald,E9,,-43.916667,171.716667
+nz,tinwald town district,Tinwald Town District,E9,,-43.916667,171.716667
+nz,tira-ora,Tira-ora,F4,,-41.083333,173.866667
+nz,tiraumea,Tiraumea,G2,,-40.633333,176.05
+nz,tirau,Tirau,E7,778,-37.983333,175.75
+nz,tirohanga,Tirohanga,G2,,-46.433333,169.8
+nz,tirohia,Tirohia,F2,,-37.433333,175.65
+nz,tiromaunga,Tiromaunga,F8,,-45.85,168.15
+nz,tiromoana,Tiromoana,F2,,-42.033333,171.383333
+nz,tiroroa,Tiroroa,F2,,-41.833333,171.75
+nz,tiro,Tiro,E7,,-46.266667,169.65
+nz,tisbury,Tisbury,F8,,-46.45,168.4
+nz,titahi bay,Titahi Bay,G2,,-41.1,174.833333
+nz,titirangi,Titirangi,F2,,-36.933333,174.666667
+nz,titiroa,Titiroa,F8,,-46.483333,168.766667
+nz,titoki,Titoki,E7,,-35.733333,174.05
+nz,ti-tree point,Ti-tree Point,F2,,-40.433333,176.416667
+nz,toa,Toa,G2,,-46.4,168.516667
+nz,toatoa,Toatoa,F1,,-38.133333,177.5
+nz,toiro,Toiro,E7,,-46.266667,169.65
+nz,tokaanu junction,Tokaanu Junction,G2,,-39,175.933333
+nz,tokaanu,Tokaanu,G2,,-38.966667,175.766667
+nz,tokanui,Tokanui,E7,,-46.566667,168.933333
+nz,tokarahi,Tokarahi,F7,,-44.95,170.65
+nz,tokata,Tokata,F1,,-46.416667,169.8
+nz,tokatoka,Tokatoka,E7,,-36.05,173.966667
+nz,tokirima,Tokirima,F9,,-38.933333,175.016667
+nz,tokoiti,Tokoiti,F7,,-46.133333,170
+nz,tokomaru bay,Tokomaru Bay,F1,495,-38.133333,178.3
+nz,tokomaru,Tokomaru,F1,,-38.133333,178.3
+nz,tokomaru,Tokomaru,G2,563,-40.466667,175.5
+nz,tokorima,Tokorima,F9,,-38.933333,175.016667
+nz,tokoroa,Tokoroa,E7,14277,-38.233333,175.866667
+nz,toko,Toko,F9,,-39.333333,174.4
+nz,tolaga bay,Tolaga Bay,F1,932,-38.366667,178.3
+nz,tomahawk,Tomahawk,F7,,-45.9,170.55
+nz,tomoana,Tomoana,F2,,-39.633333,176.866667
+nz,tongaporutu,Tongaporutu,F9,,-38.8,174.6
+nz,tongariro bridge,Tongariro Bridge,G2,,-39,175.933333
+nz,tongariro,Tongariro,E7,,-39.033333,175.65
+nz,topuni,Topuni,E7,,-36.216667,174.466667
+nz,torbay,Torbay,E7,,-36.7,174.75
+nz,torea,Torea,F5,,-41.633333,171.85
+nz,torehape,Torehape,E7,,-37.35,175.416667
+nz,torere,Torere,F1,,-37.95,177.5
+nz,tormore,Tormore,E9,,-42.9,173.133333
+nz,totara flat,Totara Flat,G3,,-42.3,171.616667
+nz,totara north,Totara North,E7,,-35.033333,173.716667
+nz,totaranui,Totaranui,F2,,-40.816667,173
+nz,totaratahi,Totaratahi,E7,,-45.133333,170.866667
+nz,totara,Totara,E7,,-45.133333,170.866667
+nz,towai,Towai,E7,,-35.483333,174.133333
+nz,traquair,Traquair,F7,,-45.816667,170.15
+nz,trentham,Trentham,G2,,-41.133333,175.033333
+nz,tryphena,Tryphena,E7,,-36.3,175.466667
+nz,tuahiwi,Tuahiwi,G2,,-43.333333,172.65
+nz,tuai,Tuai,F1,280,-38.816667,177.166667
+nz,tuakau town district,Tuakau Town District,F1,,-37.266667,174.95
+nz,tuakau,Tuakau,F1,,-37.266667,174.95
+nz,tuamarina,Tuamarina,F2,,-41.433333,173.95
+nz,tuamarino,Tuamarino,F2,,-41.433333,173.95
+nz,tuapeka flat,Tuapeka Flat,F7,,-45.95,169.633333
+nz,tuapeka mouth,Tuapeka Mouth,F7,,-46.016667,169.516667
+nz,tuapeka west,Tuapeka West,F7,,-45.933333,169.55
+nz,tuatapere,Tuatapere,F2,696,-46.133333,167.683333
+nz,tuatara,Tuatara,F4,,-46.25,169.866667
+nz,tuhara,Tuhara,F2,,-39.033333,177.516667
+nz,tuhipa,Tuhipa,E7,,-35.4,173.95
+nz,tuhua,Tuhua,F1,,-38.75,175.166667
+nz,tui,Tui,F5,,-41.533333,172.733333
+nz,tumahu,Tumahu,F9,,-39.25,173.916667
+nz,tuna,Tuna,F9,,-39.266667,174.3
+nz,tuparoa,Tuparoa,F1,,-37.933333,178.416667
+nz,tupuangi,Tupuangi,F7,,-43.75,-176.8
+nz,turakina south,Turakina South,G2,,-40.05,175.216667
+nz,turakina,Turakina,G2,,-40.033333,175.216667
+nz,turangi,Turangi,G2,3401,-39,175.933333
+nz,turiapua,Turiapua,E7,,-35.766667,174.45
+nz,turiroa,Turiroa,F2,,-39.016667,177.416667
+nz,turiwhate,Turiwhate,G3,,-42.733333,171.3
+nz,turiwhati,Turiwhati,G3,,-42.733333,171.3
+nz,turua,Turua,E7,,-37.233333,175.566667
+nz,tussock creek,Tussock Creek,G2,,-46.25,168.416667
+nz,tutaki,Tutaki,F5,,-41.816667,172.466667
+nz,tutamoe,Tutamoe,F1,,-35.65,173.65
+nz,tutekehua,Tutekehua,E7,,-35.266667,173.516667
+nz,tutira,Tutira,F2,,-39.2,176.866667
+nz,tutukaka,Tutukaka,E7,,-35.6,174.533333
+nz,tuturau,Tuturau,F8,,-46.266667,168.833333
+nz,tututawa,Tututawa,F9,,-39.316667,174.533333
+nz,uia,Uia,F9,,-39.283333,174.233333
+nz,umawera,Umawera,E7,,-35.283333,173.583333
+nz,umukuri,Umukuri,F5,,-41.083333,172.966667
+nz,umutoi,Umutoi,G2,,-40,175.966667
+nz,upcot,Upcot,F4,,-41.9,173.583333
+nz,upokongaro,Upokongaro,G2,,-39.866667,175.133333
+nz,upokonui,Upokonui,F9,,-39.783333,175.216667
+nz,upokopoito,Upokopoito,F9,,-39.75,175.15
+nz,upper kahui,Upper Kahui,F9,,-39.316667,173.883333
+nz,upper moutere,Upper Moutere,F5,,-41.266667,173
+nz,upper papamoa,Upper Papamoa,E7,,-37.766667,176.25
+nz,upper rewanui,Upper Rewanui,G2,,-42.366667,171.316667
+nz,upper ruatiti,Upper Ruatiti,G2,,-39.2,175.2
+nz,upper shotover,Upper Shotover,F7,,-44.833333,168.716667
+nz,upper takaka,Upper Takaka,F5,,-41.033333,172.833333
+nz,upper tauheru,Upper Tauheru,G2,,-40.906944,175.811111
+nz,upper waiawa,Upper Waiawa,F1,,-38.05,177.45
+nz,upper waiwera,Upper Waiwera,E7,,-36.55,174.666667
+nz,urenui,Urenui,F9,421,-39,174.383333
+nz,urquharts bay,Urquharts Bay,E7,,-35.841389,174.536944
+nz,urrall,Urrall,E9,,-43.716667,171.75
+nz,ururua,Ururua,F7,,-46.083333,169.7
+nz,uruti,Uruti,F9,,-38.95,174.533333
+nz,uruwhenua,Uruwhenua,F5,,-40.983333,172.816667
+nz,utakura,Utakura,E7,,-35.35,173.683333
+nz,utiku,Utiku,G2,,-39.733333,175.85
+nz,utuwai,Utuwai,G2,,-40.016667,175.933333
+nz,uxbridge,Uxbridge,F7,,-44.916667,170.883333
+nz,valetta,Valetta,E9,,-43.766667,171.483333
+nz,venlaw,Venlaw,F8,,-46.3,169.033333
+nz,victoria valley,Victoria Valley,E7,,-35.15,173.416667
+nz,waddington,Waddington,E9,,-43.4,172.033333
+nz,wadestown,Wadestown,G2,,-41.266667,174.766667
+nz,waerengaahika,Waerengaahika,F1,,-38.6,177.933333
+nz,waerengaokuri,Waerengaokuri,F1,,-38.683333,177.766667
+nz,waerenga,Waerenga,F2,,-37.366667,175.233333
+nz,waharoa,Waharoa,E7,569,-37.766667,175.766667
+nz,waianakarua,Waianakarua,F7,,-45.266667,170.8
+nz,waianiwa,Waianiwa,F8,,-46.3,168.266667
+nz,waiareka junction,Waiareka Junction,F7,,-45.1,170.933333
+nz,waiariari,Waiariari,E9,,-44.683333,171.083333
+nz,waiatarua,Waiatarua,E7,,-36.933333,174.583333
+nz,waiatoto,Waiatoto,G3,,-43.983333,168.766667
+nz,waiau pa,Waiau Pa,E7,,-37.133333,174.75
+nz,waiau,Waiau,F8,,-42.65,173.05
+nz,waihaha,Waihaha,E7,,-35.333333,174.233333
+nz,waihao downs,Waihao Downs,E9,,-44.8,170.916667
+nz,waihao forks,Waihao Forks,E9,,-44.8,170.933333
+nz,waihaorunga,Waihaorunga,E9,,-44.75,170.816667
+nz,waihapai,Waihapai,G2,,-39.65,175.066667
+nz,waiharara,Waiharara,E7,,-34.933333,173.216667
+nz,waiharera,Waiharera,E7,,-34.933333,173.216667
+nz,waihau bay,Waihau Bay,F1,,-37.616667,177.916667
+nz,waihemo,Waihemo,F7,,-45.316667,170.55
+nz,waihi beach,Waihi Beach,F1,2014,-37.4,175.933333
+nz,waihi,Waihi,G2,4619,-37.383333,175.833333
+nz,waihoaka,Waihoaka,F8,,-46.233333,167.7
+nz,waiho gorge,Waiho Gorge,F8,,-43.4,170.183333
+nz,waihola,Waihola,F7,,-46.033333,170.1
+nz,waihopai,Waihopai,F4,,-41.533333,173.733333
+nz,waihopo,Waihopo,E7,,-34.766667,173.083333
+nz,waihou,Waihou,E7,,-37.583333,175.666667
+nz,wai-iti,Wai-iti,F5,,-41.433333,173
+nz,waikaia,Waikaia,G2,,-45.733333,168.85
+nz,waikakaho,Waikakaho,F4,,-41.433333,173.9
+nz,waikaka,Waikaka,F9,,-45.916667,169.016667
+nz,waikanae,Waikanae,G2,,-40.883333,175.066667
+nz,waikanai,Waikanai,F7,,-43.816667,-176.7
+nz,waikaremoana,Waikaremoana,F1,,-38.8,177.116667
+nz,waikare,Waikare,F1,,-35.333333,174.25
+nz,waikari,Waikari,F2,,-42.966667,172.683333
+nz,waikarua,Waikarua,E9,,-44.033333,170.883333
+nz,waikawau,Waikawau,E7,,-38.466667,174.666667
+nz,waikawa,Waikawa,F1,,-41.266667,174.05
+nz,waikiekie,Waikiekie,E7,,-35.95,174.233333
+nz,waikino,Waikino,E7,,-37.416667,175.766667
+nz,waikiwi,Waikiwi,F8,,-46.383333,168.333333
+nz,waikohu,Waikohu,F1,,-38.4,177.783333
+nz,waikoikoi,Waikoikoi,F7,,-46.016667,169.15
+nz,waikokopu,Waikokopu,F2,,-39.066667,177.833333
+nz,waikopua,Waikopua,E7,,-36.916667,174.983333
+nz,waikoukou,Waikoukou,G2,,-36.75,174.5
+nz,waikouro,Waikouro,F8,,-46.1,167.991667
+nz,waikowhai,Waikowhai,E7,,-43.45,169.883333
+nz,waikuku beach,Waikuku Beach,E7,,-43.283333,172.716667
+nz,waikuku,Waikuku,G2,804,-43.3,172.683333
+nz,waimahaka,Waimahaka,F8,,-46.516667,168.816667
+nz,waimamaku,Waimamaku,E7,,-35.55,173.483333
+nz,waimana,Waimana,E7,709,-38.15,177.083333
+nz,waimangaroa,Waimangaroa,F5,,-41.716667,171.766667
+nz,waimangu,Waimangu,E7,,-38.283333,176.383333
+nz,waimarama,Waimarama,G2,,-39.8,176.983333
+nz,waimarie,Waimarie,F2,,-41.516667,171.933333
+nz,waimata,Waimata,F1,,-37.45,175.866667
+nz,waimate north,Waimate North,E7,,-35.316667,173.883333
+nz,waimatenui,Waimatenui,E7,,-35.616667,173.716667
+nz,waimatuku,Waimatuku,F8,,-46.3,168.166667
+nz,waimauki,Waimauki,E7,,-36.75,174.5
+nz,waimauku,Waimauku,E7,,-36.75,174.5
+nz,waimaunga,Waimaunga,F5,,-42.233333,171.7
+nz,waima,Waima,F2,,-35.483333,173.583333
+nz,waimea,Waimea,F1,,-42.666667,171.116667
+nz,waimea west,Waimea West,E9,,-41.333333,173.1
+nz,waimiha,Waimiha,F3,,-38.616667,175.316667
+nz,waimiro,Waimiro,G2,,-40.45,176.233333
+nz,waimumu,Waimumu,F8,,-46.116667,168.8
+nz,waingaro,Waingaro,E7,,-37.683333,175
+nz,waingona,Waingona,F9,,-39.1,174.216667
+nz,wainihinihi,Wainihinihi,G3,,-42.766667,171.333333
+nz,wainui beach,Wainui Beach,F2,,-38.683333,178.083333
+nz,wainui farm,Wainui Farm,F2,,-38.683333,178.083333
+nz,wainuiomata,Wainuiomata,G2,,-41.266667,174.95
+nz,wainuio,Wainuio,F2,,-40.499444,176.545833
+nz,wainui,Wainui,F2,,-38.683333,178.083333
+nz,waiohiki,Waiohiki,F2,,-39.566667,176.816667
+nz,waione,Waione,F8,,-40.466667,176.283333
+nz,waiongana,Waiongana,F9,,-39.1,174.216667
+nz,waiongona,Waiongona,F9,,-39.1,174.216667
+nz,waioreka junction,Waioreka Junction,F7,,-45.1,170.933333
+nz,waioruarangi,Waioruarangi,F1,,-42.4,173.683333
+nz,waiotahe,Waiotahe,F1,,-38,177.216667
+nz,waiotahi,Waiotahi,F1,,-38,177.216667
+nz,waiotapu,Waiotapu,E7,,-38.35,176.366667
+nz,waiotemarama,Waiotemarama,E7,,-35.55,173.433333
+nz,waiotira,Waiotira,E7,,-35.933333,174.2
+nz,waiotu,Waiotu,E7,,-35.516667,174.216667
+nz,waiouru,Waiouru,F1,1347,-39.483333,175.666667
+nz,waipahi,Waipahi,F7,,-46.116667,169.25
+nz,waipai,Waipai,F2,,-39.1,176.616667
+nz,waipaoa,Waipaoa,F1,,-38.533333,177.9
+nz,waipapakauri,Waipapakauri,E7,,-35.033333,173.233333
+nz,waipapa,Waipapa,F2,,-35.2,173.916667
+nz,waipara,Waipara,E9,,-43.066667,172.75
+nz,waiparera,Waiparera,E7,,-35.7,174.466667
+nz,waipatiki,Waipatiki,F2,,-40.35,176.283333
+nz,waipawa,Waipawa,F2,1899,-41.412222,175.515278
+nz,waipera,Waipera,E9,,-43.066667,172.75
+nz,waipiata,Waipiata,F2,,-45.183333,170.166667
+nz,waipipi,Waipipi,G2,,-37.216667,174.666667
+nz,waipiro bay,Waipiro Bay,F1,,-38.016667,178.333333
+nz,waipiro,Waipiro,E9,,-38.016667,178.333333
+nz,waipori falls,Waipori Falls,F7,,-45.916667,169.983333
+nz,waipori,Waipori,G2,,-45.833333,169.883333
+nz,waipounamu,Waipounamu,F8,,-45.85,168.766667
+nz,waipu cove,Waipu Cove,E7,,-36.033333,174.516667
+nz,waipuku,Waipuku,F9,,-39.266667,174.266667
+nz,waipuna,Waipuna,F2,,-37.383333,175.3
+nz,waipureko,Waipureko,E9,,-39.603333,176.9525
+nz,waipu,Waipu,E7,,-35.983333,174.45
+nz,wairakei,Wairakei,E7,,-38.633333,176.1
+nz,wairangi,Wairangi,F2,,-41.033333,173.75
+nz,wairata,Wairata,F1,,-38.3,177.333333
+nz,wairau valley,Wairau Valley,F4,,-41.566667,173.533333
+nz,wairere falls,Wairere Falls,E7,,-38.516667,175.016667
+nz,wairio,Wairio,G2,,-46,168.033333
+nz,wairoa,Wairoa,F2,4260,-39.033333,177.366667
+nz,wairoto,Wairoto,F8,,-45.983333,167.6
+nz,wairuna,Wairuna,E9,,-46.166667,169.333333
+nz,wairunga,Wairunga,F2,,-45.533333,170.7
+nz,waitaanga,Waitaanga,F9,,-38.833333,174.833333
+nz,waitahanui,Waitahanui,E7,,-38.783333,176.083333
+nz,waitahinga,Waitahinga,G2,,-39.75,174.95
+nz,waitahuna,Waitahuna,F4,,-45.983333,169.766667
+nz,waitahuna west,Waitahuna West,F7,,-46.016667,169.633333
+nz,waitai,Waitai,F5,,-40.766667,173.933333
+nz,waitakaro,Waitakaro,F2,,-37.933333,178.266667
+nz,waitakaruru,Waitakaruru,E7,,-37.25,175.383333
+nz,waitakere,Waitakere,E7,166237,-36.85,174.55
+nz,waitaki,Waitaki,F2,,-44.933333,171.1
+nz,waitane,Waitane,F8,,-46.183333,168.7
+nz,waitangi,Waitangi,F2,,-35.25,174.083333
+nz,waitangi west,Waitangi West,F7,,-43.783333,-176.816667
+nz,waitanguru,Waitanguru,E7,,-38.383333,174.866667
+nz,waitaniwha,Waitaniwha,F2,,-39.059167,177.798889
+nz,waitara,Waitara,F9,6319,-38.925,174.25
+nz,waitarere,Waitarere,G2,,-40.55,175.2
+nz,waitati,Waitati,F8,534,-45.75,170.566667
+nz,waitawa,Waitawa,F1,,-44.3,171.2
+nz,waiteika,Waiteika,E7,,-39.483333,173.9
+nz,waitekauri,Waitekauri,E7,,-37.383333,175.766667
+nz,waitepeka,Waitepeka,F7,,-46.283333,169.666667
+nz,waiterimu,Waiterimu,E7,,-37.45,175.3
+nz,waitetuna,Waitetuna,E7,,-37.833333,175.033333
+nz,waitewhena,Waitewhena,F9,,-38.7,174.966667
+nz,waitewhenua,Waitewhenua,F9,,-38.7,174.966667
+nz,waitoa,Waitoa,E7,386,-37.616667,175.633333
+nz,waitohi flat,Waitohi Flat,E9,,-44.216667,171.183333
+nz,waitoitoi,Waitoitoi,F9,,-38.983333,174.433333
+nz,waitomo caves,Waitomo Caves,E7,,-38.266667,175.1
+nz,waitomo,Waitomo,F2,,-38.266667,175.1
+nz,waitotara,Waitotara,F8,,-39.8,174.733333
+nz,waituna,Waituna,F1,,-46.416667,168.633333
+nz,waituna west,Waituna West,G2,,-40.05,175.616667
+nz,waiuku town district,Waiuku Town District,G1,,-37.25,174.75
+nz,waiuku,Waiuku,G1,7555,-37.25,174.75
+nz,waiuta,Waiuta,E9,,-42.3,171.816667
+nz,waiwera south,Waiwera South,F7,,-46.216667,169.5
+nz,waiwera,Waiwera,E7,,-36.55,174.716667
+nz,waiwhio,Waiwhio,E7,,-36.366667,174.6
+nz,waiwhiu,Waiwhiu,E7,,-36.366667,174.6
+nz,wakaia,Wakaia,G2,,-45.733333,168.85
+nz,wakanui,Wakanui,E9,,-43.966667,171.816667
+nz,wakapatu,Wakapatu,F8,,-46.366667,167.8
+nz,wakapuaka,Wakapuaka,F5,,-41.206389,173.3575
+nz,wakarara,Wakarara,F2,,-39.783333,176.266667
+nz,wakaremoana,Wakaremoana,F1,,-38.8,177.116667
+nz,wakatu,Wakatu,F5,,-41.3,173.25
+nz,wakefield,Wakefield,E9,1663,-41.4,173.05
+nz,wallacetown,Wallacetown,F8,638,-46.333333,168.266667
+nz,wallaceville,Wallaceville,G2,,-41.133333,175.05
+nz,wallingford,Wallingford,F2,,-40.216667,176.6
+nz,wallsend,Wallsend,G3,,-42.466667,171.3
+nz,walton,Walton,E7,,-37.733333,175.683333
+nz,wanaka,Wanaka,F9,4428,-44.7,169.15
+nz,wangaehu,Wangaehu,F2,,-40.016667,175.166667
+nz,wangaloa,Wangaloa,F7,,-46.283333,169.916667
+nz,wangamoa,Wangamoa,F5,,-41.166667,173.533333
+nz,wanganui,Wanganui,F3,40269,-39.933333,175.05
+nz,wangapara,Wangapara,E7,,-36.233333,175.4
+nz,wangapeka valley,Wangapeka Valley,F5,,-41.35,172.116667
+nz,wangapeka,Wangapeka,F5,,-41.416667,172.65
+nz,wangawai,Wangawai,F2,,-39.083333,177.95
+nz,wanstead,Wanstead,F2,,-40.133333,176.533333
+nz,waotu,Waotu,E7,,-38.15,175.7
+nz,ward,Ward,F4,,-41.833333,174.133333
+nz,warea,Warea,F9,,-39.233333,173.816667
+nz,warepa,Warepa,F7,,-46.25,169.583333
+nz,warkworth town district,Warkworth Town District,E7,,-36.4,174.666667
+nz,warkworth,Warkworth,E7,3441,-36.4,174.666667
+nz,warouru,Warouru,F1,,-39.483333,175.666667
+nz,waro,Waro,E7,,-35.583333,174.3
+nz,warrington,Warrington,F8,427,-45.716667,170.583333
+nz,warwick junction,Warwick Junction,F5,,-42.133333,172.233333
+nz,washdyke,Washdyke,E9,,-44.35,171.233333
+nz,wataroa,Wataroa,F1,,-43.283333,170.416667
+nz,waterton,Waterton,E9,,-44.066667,171.75
+nz,waverley town district,Waverley Town District,F4,,-39.766667,174.633333
+nz,waverley,Waverley,F4,919,-39.766667,174.633333
+nz,wayby,Wayby,E7,,-36.333333,174.566667
+nz,weber,Weber,F2,,-40.4,176.316667
+nz,wedderburn,Wedderburn,E9,,-45.033333,170.016667
+nz,weedons,Weedons,E9,,-43.583333,172.4
+nz,weheka,Weheka,E7,,-43.466667,170.016667
+nz,wehenga,Wehenga,F7,,-45.733333,170.183333
+nz,wekaweka,Wekaweka,E7,,-35.566667,173.55
+nz,welds hill,Welds Hill,F4,,-41.783333,173.85
+nz,wellington,Wellington,G2,179240,-41.3,174.783333
+nz,wellsford,Wellsford,E7,1986,-36.283333,174.516667
+nz,welsford,Welsford,E7,,-36.283333,174.516667
+nz,wendonside,Wendonside,F8,,-45.75,168.733333
+nz,wendon valley,Wendon Valley,F8,,-45.883333,168.966667
+nz,wendon,Wendon,F8,,-45.883333,168.816667
+nz,west end,West End,G2,,-46.597222,168.329167
+nz,westerfield,Westerfield,E9,,-43.833333,171.616667
+nz,western springs,Western Springs,E7,,-36.866667,174.733333
+nz,west eyreton,West Eyreton,E9,,-43.35,172.383333
+nz,westfield,Westfield,F8,,-36.95,174.85
+nz,west kyle,West Kyle,E9,,-43.933333,172.066667
+nz,westlake,Westlake,E7,,-36.785,174.7525
+nz,west melton,West Melton,E9,,-43.516667,172.366667
+nz,westmere,Westmere,F2,,-39.9,175
+nz,weston,Weston,F7,,-45.083333,170.916667
+nz,west plains,West Plains,F8,,-46.366667,168.316667
+nz,westport,Westport,F5,3629,-41.75,171.566667
+nz,westshore,Westshore,F2,,-39.483333,176.883333
+nz,wetheral,Wetheral,E9,,-43.366667,172.583333
+nz,weymouth,Weymouth,E7,,-37.033333,174.866667
+nz,whakaangiangi,Whakaangiangi,F1,,-37.716667,178.3
+nz,whakaea,Whakaea,G2,,-45.733333,168.85
+nz,whakahoro,Whakahoro,G2,,-39.1,175.066667
+nz,whakaihuwaka,Whakaihuwaka,F9,,-39.766667,175.15
+nz,whakaki,Whakaki,F2,,-39.033333,177.6
+nz,whakamarama,Whakamarama,E7,,-37.733333,176
+nz,whakamara,Whakamara,F9,,-39.633333,174.433333
+nz,whakapara,Whakapara,E7,,-35.533333,174.283333
+nz,whakapirau,Whakapirau,F2,,-36.15,174.25
+nz,whakarongo,Whakarongo,G2,,-40.333333,175.666667
+nz,whakatahuri,Whakatahuri,F4,,-41.016667,174.033333
+nz,whakataki,Whakataki,G2,,-40.866667,176.233333
+nz,whakatane,Whakatane,E7,18602,-37.983333,177
+nz,whakatiri,Whakatiri,E7,,-36.95,175.116667
+nz,whakatu,Whakatu,F2,,-39.6,176.883333
+nz,whakekauri,Whakekauri,F7,,-43.7,-176.583333
+nz,whananaki south,Whananaki South,E7,,-35.516667,174.45
+nz,whananaki,Whananaki,E7,,-35.5,174.45
+nz,whangaehu,Whangaehu,F2,,-40.016667,175.166667
+nz,whangakoko,Whangakoko,F1,,-41.283333,174.166667
+nz,whangamarino,Whangamarino,E7,,-37.366667,175.116667
+nz,whangamata,Whangamata,E7,4253,-37.2,175.866667
+nz,whangamoa,Whangamoa,F5,,-41.166667,173.533333
+nz,whangamomona,Whangamomona,F9,,-39.15,174.733333
+nz,whangamumu,Whangamumu,E7,,-35.25,174.3
+nz,whangaparaoa,Whangaparaoa,F1,,-36.633333,174.766667
+nz,whangapara,Whangapara,E7,,-36.233333,175.4
+nz,whangape,Whangape,E7,,-35.35,173.216667
+nz,whangapoua,Whangapoua,E7,,-36.716667,175.616667
+nz,whangarata,Whangarata,E7,,-37.25,174.966667
+nz,whangara,Whangara,F1,,-38.566667,178.216667
+nz,whangarei heads,Whangarei Heads,E7,,-35.816667,174.5
+nz,whangarei,Whangarei,F6,49711,-35.72,174.33
+nz,whangaroa,Whangaroa,E7,,-35.05,173.75
+nz,whangaruru north,Whangaruru North,E7,,-35.35,174.35
+nz,whangaruru south,Whangaruru South,E7,,-35.383333,174.35
+nz,whangaruru,Whangaruru,E7,,-35.383333,174.35
+nz,whangateau,Whangateau,E7,,-36.3,174.766667
+nz,whangawehi,Whangawehi,F2,,-39.083333,177.95
+nz,wharanui,Wharanui,G2,,-41.916667,174.1
+nz,whareama,Whareama,G2,,-40.933333,176.05
+nz,wharehine,Wharehine,E7,,-36.316667,174.416667
+nz,wharehuanui,Wharehuanui,F7,,-44.95,168.766667
+nz,wharehuia,Wharehuia,F9,,-39.3,174.333333
+nz,wharekopae,Wharekopae,F1,,-38.55,177.5
+nz,wharekuri,Wharekuri,F7,,-44.7,170.433333
+nz,whareorino,Whareorino,E7,,-38.466667,174.666667
+nz,wharepaina,Wharepaina,E7,,-38.4,176.333333
+nz,wharepapa,Wharepapa,G2,,-36.716667,174.433333
+nz,wharepoa,Wharepoa,E7,,-37.266667,175.633333
+nz,whareponga,Whareponga,F2,,-37.966667,178.366667
+nz,wharepuhunga,Wharepuhunga,E7,,-38.133333,175.45
+nz,whareroa,Whareroa,G2,,-39.616667,174.266667
+nz,wharua,Wharua,E9,,-44.7,170.516667
+nz,whatanihi,Whatanihi,F4,,-41.233333,173.85
+nz,whataroa,Whataroa,F1,,-43.283333,170.416667
+nz,whatatutu,Whatatutu,F1,,-38.383333,177.833333
+nz,whatawhata,Whatawhata,E7,,-37.8,175.15
+nz,whatoro,Whatoro,E7,,-35.75,173.683333
+nz,whatuma,Whatuma,F2,,-40.033333,176.5
+nz,wheatstone,Wheatstone,E9,,-44.016667,171.75
+nz,wheatston,Wheatston,E9,,-44.016667,171.75
+nz,whenuakite,Whenuakite,E7,,-36.9,175.766667
+nz,whenuakoa,Whenuakoa,F7,,-45.95,169.633333
+nz,whenuapai,Whenuapai,E7,,-36.766667,174.65
+nz,whenuatonga,Whenuatonga,F8,,-45.716667,168.65
+nz,whirinaki,Whirinaki,F2,,-35.483333,173.466667
+nz,whiritoa,Whiritoa,E7,,-39.966667,175.1
+nz,whitakere,Whitakere,E7,,-36.85,174.55
+nz,whitecliffs,Whitecliffs,E9,,-43.466667,171.9
+nz,whitehall,Whitehall,E7,,-37.883333,175.566667
+nz,white tank,White Tank,F9,,-39.758333,174.466667
+nz,whitford,Whitford,E7,,-36.933333,174.966667
+nz,whitianga,Whitianga,F1,3367,-36.833333,175.7
+nz,whitstone,Whitstone,F7,,-45.066667,170.883333
+nz,wigram,Wigram,E9,,-43.55,172.55
+nz,willowbridge,Willowbridge,E9,,-44.783333,171.116667
+nz,willowby,Willowby,E9,,-43.983333,171.683333
+nz,wimbledon,Wimbledon,F2,,-40.466667,176.516667
+nz,winchester,Winchester,E9,,-44.2,171.283333
+nz,winchmore,Winchmore,E9,,-43.833333,171.716667
+nz,windermere,Windermere,F2,,-43.983333,171.616667
+nz,windsor,Windsor,E9,,-45,170.8
+nz,windwhistle,Windwhistle,E9,,-43.5,171.683333
+nz,wingatui,Wingatui,G2,,-45.883333,170.383333
+nz,winscombe,Winscombe,E9,,-44,170.833333
+nz,winslow,Winslow,E9,,-43.95,171.65
+nz,winton,Winton,F8,2193,-46.15,168.333333
+nz,wiritoa,Wiritoa,E7,,-39.966667,175.1
+nz,wiri,Wiri,E7,,-36.983333,174.883333
+nz,woodbourne,Woodbourne,F4,,-41.5,173.916667
+nz,woodbury,Woodbury,E9,,-44.033333,171.2
+nz,woodcocks,Woodcocks,E7,,-36.45,174.566667
+nz,woodend,Woodend,F1,3059,-43.316667,172.666667
+nz,woodhill,Woodhill,E7,,-35.733333,174.316667
+nz,woodlands,Woodlands,F8,285,-46.366667,168.55
+nz,woodleigh,Woodleigh,G2,,-37.533333,174.916667
+nz,woodside,Woodside,F2,,-41.066667,175.4
+nz,woodstock,Woodstock,G2,,-42.766667,171
+nz,woolston,Woolston,E9,,-43.55,172.683333
+nz,wreys bush,Wreys Bush,F8,,-46.016667,168.1
+nz,wrights bush,Wrights Bush,F8,,-46.316667,168.216667
+nz,wylies crossing,Wylies Crossing,F7,,-45.85,170.316667
+nz,wynchmore,Wynchmore,E9,,-43.833333,171.716667
+nz,wyndham town district,Wyndham Town District,F8,,-46.333333,168.85
+nz,wyndham,Wyndham,F8,586,-46.333333,168.85
+nz,yaldhurst,Yaldhurst,E9,,-43.516667,172.516667

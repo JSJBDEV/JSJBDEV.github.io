@@ -1,0 +1,2661 @@
+jm,aberdean,Aberdean,09,,18.3833333,-77.3666667
+jm,aberdeen,Aberdeen,09,,18.3833333,-77.3666667
+jm,aberdeen,Aberdeen,11,,18.2,-77.7
+jm,aberly,Aberly,09,,18.2666667,-77.3666667
+jm,abingdon,Abingdon,02,,18.3833333,-78.3
+jm,aboukir,Aboukir,09,,18.25,-77.3666667
+jm,abourkir,Abourkir,09,,18.25,-77.3666667
+jm,accompong,Accompong,11,,18.2333333,-77.75
+jm,accompong maroon lands,Accompong Maroon Lands,11,,18.2333333,-77.75
+jm,accompong maroon village,Accompong Maroon Village,11,,18.2333333,-77.75
+jm,accompong town,Accompong Town,11,,18.2333333,-77.75
+jm,achendown,Achendown,16,,18.1166667,-77.9833333
+jm,ackendown,Ackendown,16,,18.1166667,-77.9833333
+jm,acton,Acton,15,,18.4333333,-77.65
+jm,acton,Acton,16,,18.2666667,-78.1333333
+jm,acton house,Acton House,16,,18.2666667,-78.1333333
+jm,adams valley,Adams Valley,04,,18.1166667,-77.6
+jm,adelphi,Adelphi,12,,18.45,-77.8
+jm,admiral's town,Admiral's Town,08,,17.9833333,-76.8
+jm,admiral town,Admiral Town,08,,17.9833333,-76.8
+jm,aenon town,Aenon Town,09,,18.2166667,-77.4
+jm,aeolus valley,Aeolus Valley,14,,17.9,-76.5333333
+jm,agua alta vale,Agua Alta Vale,13,,18.2666667,-76.8
+jm,agualta vale,Agualta Vale,13,,18.2666667,-76.8
+jm,airy castle,Airy Castle,14,,17.9166667,-76.3333333
+jm,airy hill,Airy Hill,13,,18.4,-76.9333333
+jm,albany,Albany,07,,18.1333333,-76.6166667
+jm,albany,Albany,13,,18.2833333,-76.85
+jm,albert arms,Albert Arms,11,,18.05,-77.7
+jm,albert town,Albert Town,15,3449,18.2833333,-77.55
+jm,albion,Albion,12,,18.4833333,-77.9166667
+jm,albion,Albion,14,,17.8833333,-76.6
+jm,alderton,Alderton,09,,18.3,-77.2166667
+jm,aleppo,Aleppo,13,,18.2333333,-76.85
+jm,alexandria,Alexandria,01,,18.0666667,-77.2833333
+jm,alexandria,Alexandria,02,,18.35,-78.0333333
+jm,alexandria,Alexandria,09,,18.3,-77.35
+jm,allen hall,Allen Hall,09,,18.45,-77.4333333
+jm,allenton,Allenton,10,,18.15,-77.05
+jm,alley,Alley,01,,17.8,-77.2666667
+jm,alligator pond,Alligator Pond,11,,17.8666667,-77.5666667
+jm,alligator pond bay,Alligator Pond Bay,11,,17.8666667,-77.5666667
+jm,alligator pond village,Alligator Pond Village,11,,17.8666667,-77.5666667
+jm,alma,Alma,16,,18.2833333,-78.2
+jm,almondsbury,Almondsbury,11,,18.15,-77.65
+jm,alps,Alps,15,,18.3333333,-77.5166667
+jm,alscot,Alscot,11,,17.9666667,-77.7666667
+jm,alston,Alston,01,,18.1833333,-77.4333333
+jm,altamont,Altamont,07,,18.0333333,-76.4
+jm,althorp,Althorp,11,,18.0333333,-77.9
+jm,alva,Alva,01,,18.3,-77.3166667
+jm,amity,Amity,01,,17.8,-77.2666667
+jm,amity,Amity,16,,18.25,-78.1
+jm,amity cross,Amity Cross,16,,18.25,-78.1
+jm,amity hall,Amity Hall,01,,17.8,-77.2666667
+jm,amity hall,Amity Hall,10,,17.9166667,-77.05
+jm,amity hall,Amity Hall,12,,18.4,-77.8166667
+jm,amity hall,Amity Hall,14,,17.95,-76.25
+jm,amity house,Amity House,16,,18.25,-78.1
+jm,anchovy,Anchovy,12,4161,18.4,-77.9333333
+jm,anchovy bottom,Anchovy Bottom,12,,18.4,-77.9333333
+jm,anchovy station,Anchovy Station,12,,18.4,-77.9333333
+jm,andersons town,Andersons Town,09,,18.2166667,-77.3666667
+jm,anderson town,Anderson Town,09,,18.2166667,-77.3666667
+jm,angels,Angels,10,,18.0333333,-76.9833333
+jm,anglesea,Anglesea,16,,18.2333333,-78.0666667
+jm,annadale,Annadale,09,,18.3666667,-77.15
+jm,annandale,Annandale,09,,18.3666667,-77.15
+jm,annatto bay,Annatto Bay,13,,18.2666667,-76.7666667
+jm,annotta bay,Annotta Bay,13,,18.2666667,-76.7666667
+jm,annotto bay,Annotto Bay,13,,18.2666667,-76.7666667
+jm,anns castle,Anns Castle,10,,17.9166667,-77.1166667
+jm,antrim,Antrim,09,,18.4333333,-77.3
+jm,appleton,Appleton,15,,18.1666667,-77.7333333
+jm,aqua alta vale,Aqua Alta Vale,13,,18.2666667,-76.8
+jm,arcadia,Arcadia,04,,18.05,-77.4333333
+jm,arcadia,Arcadia,10,,18.25,-76.9833333
+jm,arcadia,Arcadia,14,,17.9166667,-76.3
+jm,arcadia,Arcadia,15,,18.45,-77.5
+jm,arcadia club,Arcadia Club,08,,18.0333333,-76.7833333
+jm,ardoch,Ardoch,09,,18.25,-77.1
+jm,argyle,Argyle,02,,18.3166667,-77.9833333
+jm,argyle pen,Argyle Pen,02,,18.3166667,-77.9833333
+jm,armadale,Armadale,09,,18.3,-77.3666667
+jm,armstrong,Armstrong,11,,18.1833333,-77.6333333
+jm,armstrongs,Armstrongs,11,,18.1833333,-77.6333333
+jm,arntally,Arntally,14,,18.0166667,-76.6
+jm,arntully,Arntully,14,,18.0166667,-76.6
+jm,arthorp,Arthorp,11,,18.0333333,-77.9
+jm,arthurs mountain,Arthurs Mountain,09,,18.4,-77.2333333
+jm,arthurs mount,Arthurs Mount,09,,18.4,-77.2333333
+jm,arthurs seat,Arthurs Seat,01,,18.1333333,-77.2333333
+jm,arthurs seat,Arthurs Seat,09,,18.3833333,-77.1333333
+jm,ashcott,Ashcott,07,,18.1166667,-76.6
+jm,ashlers,Ashlers,01,,18.0666667,-77.2666667
+jm,ashley hall,Ashley Hall,01,,17.85,-77.2666667
+jm,ashleys,Ashleys,01,,18.0666667,-77.2666667
+jm,ashton,Ashton,11,,18.05,-77.8666667
+jm,ashton,Ashton,16,,18.2166667,-77.9333333
+jm,asia,Asia,04,,17.9,-77.4333333
+jm,askenish,Askenish,02,,18.3833333,-78.15
+jm,askinish,Askinish,02,,18.3833333,-78.15
+jm,auchinbeddie,Auchinbeddie,04,,18.2333333,-77.65
+jm,auchindown,Auchindown,16,,18.1166667,-77.9833333
+jm,auchtembeddie,Auchtembeddie,04,,18.2333333,-77.65
+jm,august town,August Town,10,,17.9833333,-76.7333333
+jm,axe adze,Axe Adze,02,,18.35,-78.0333333
+jm,axe and adze,Axe and Adze,02,,18.35,-78.0333333
+jm,babys corner,Babys Corner,10,,18.0666667,-76.9833333
+jm,bachams cottage,Bachams Cottage,01,,17.8166667,-77.3166667
+jm,bachelors hall,Bachelors Hall,02,,18.4333333,-78.2
+jm,bachelors hall,Bachelors Hall,09,,18.3166667,-77.0833333
+jm,bachelors hall,Bachelors Hall,14,,17.95,-76.3166667
+jm,bad times,Bad Times,09,,18.3833333,-77.1166667
+jm,bagatelle,Bagatelle,07,,18.15,-76.6
+jm,bailleston,Bailleston,01,,18.1666667,-77.4333333
+jm,baillieston,Baillieston,01,,18.1666667,-77.4333333
+jm,balaclava,Balaclava,11,,18.1666667,-77.65
+jm,balcarres,Balcarres,01,,18.1166667,-77.4333333
+jm,balcarres,Balcarres,07,,18.1666667,-76.7
+jm,balcarris,Balcarris,01,,18.1166667,-77.4333333
+jm,baldwins cottage,Baldwins Cottage,01,,17.7666667,-77.2333333
+jm,ballards valley,Ballards Valley,13,,18.3166667,-76.9
+jm,ballintoy,Ballintoy,09,,18.3,-77.3
+jm,bally mony,Bally Mony,09,,18.2333333,-77.1833333
+jm,ballynure,Ballynure,04,,18.1666667,-77.5666667
+jm,bamboo,Bamboo,02,,18.4333333,-78.0333333
+jm,bamboo,Bamboo,09,4264,18.3833333,-77.2666667
+jm,bamboo,Bamboo,10,,18.0333333,-77.0666667
+jm,bamboo market,Bamboo Market,10,,18.0333333,-77.0666667
+jm,banana ground,Banana Ground,02,,18.0666667,-77.4333333
+jm,banbury,Banbury,10,,18.1333333,-77.05
+jm,banbury,Banbury,16,,18.2666667,-78.1166667
+jm,banbury village,Banbury Village,16,,18.2666667,-78.1166667
+jm,bandon,Bandon,12,,18.3666667,-77.8666667
+jm,bangor ridge,Bangor Ridge,07,,18.15,-76.6833333
+jm,banks,Banks,01,,17.85,-77.3166667
+jm,banks,Banks,09,,18.45,-77.2333333
+jm,bantam spring,Bantam Spring,13,,18.4,-77.0666667
+jm,barbary hall,Barbary Hall,11,,17.95,-77.7666667
+jm,barbican,Barbican,02,,18.45,-78.1166667
+jm,barbican,Barbican,08,,18.0166667,-76.7666667
+jm,barbicon,Barbicon,02,,18.45,-78.1166667
+jm,bariff castle,Bariff Castle,14,,17.95,-76.45
+jm,barking lodge,Barking Lodge,14,,17.8833333,-76.2666667
+jm,barnes green,Barnes Green,11,,18.05,-77.8666667
+jm,barneyside,Barneyside,16,,18.2666667,-77.95
+jm,barnstaple,Barnstaple,15,,18.4,-77.4666667
+jm,barossa,Barossa,04,,18.0333333,-77.4666667
+jm,barracks hall,Barracks Hall,07,,18.0666667,-76.4166667
+jm,barrett hall,Barrett Hall,09,,18.3,-77.1666667
+jm,barrett hall village,Barrett Hall Village,09,,18.3,-77.1666667
+jm,barreyside,Barreyside,16,,18.2666667,-77.95
+jm,barry's retreat,Barry's Retreat,10,,18.0666667,-77.0666667
+jm,barton,Barton,10,,18.0333333,-77.1333333
+jm,barton,Barton,11,,18.1333333,-77.7333333
+jm,bartons,Bartons,10,,18.0333333,-77.1333333
+jm,bartons,Bartons,11,,18.1333333,-77.7333333
+jm,batcarres,Batcarres,07,,18.1666667,-76.7
+jm,batersea,Batersea,15,,18.2166667,-77.4833333
+jm,bath,Bath,14,,17.95,-76.35
+jm,beacham cottage,Beacham Cottage,01,,17.8166667,-77.3166667
+jm,beachams,Beachams,01,,17.8166667,-77.3166667
+jm,beacon hill,Beacon Hill,10,,17.9833333,-76.95
+jm,beacon hill,Beacon Hill,14,,17.95,-76.35
+jm,beaston spring,Beaston Spring,16,,18.1333333,-77.9666667
+jm,beaston springs,Beaston Springs,16,,18.1333333,-77.9666667
+jm,beckford kraal,Beckford Kraal,01,,18.0833333,-77.3
+jm,beckfords,Beckfords,01,,17.9,-77.2833333
+jm,beckford town,Beckford Town,14,,17.8833333,-76.3666667
+jm,beecher town,Beecher Town,09,,18.3666667,-77.1166667
+jm,beeston spring,Beeston Spring,16,,18.1333333,-77.9666667
+jm,belcarres,Belcarres,07,,18.1666667,-76.7
+jm,belcastle,Belcastle,07,,17.9833333,-76.2666667
+jm,belecastle,Belecastle,07,,17.9833333,-76.2666667
+jm,belfast,Belfast,14,,17.8833333,-76.3833333
+jm,belfield,Belfield,10,,18.0666667,-77.15
+jm,belfield,Belfield,13,,18.2666667,-76.8333333
+jm,belfield works,Belfield Works,13,,18.25,-76.8333333
+jm,belford,Belford,14,,17.8833333,-76.2666667
+jm,belhany,Belhany,09,,18.3,-77.3666667
+jm,bellas gate,Bellas Gate,10,,18.05,-77.1666667
+jm,belleair,Belleair,04,,18.1,-77.45
+jm,belleair,Belleair,09,,18.45,-77.35
+jm,belle air summit,Belle Air Summit,09,,18.45,-77.35
+jm,belle castle,Belle Castle,07,,17.9833333,-76.2666667
+jm,bellefield,Bellefield,04,,18.0666667,-77.45
+jm,belle plain,Belle Plain,01,,17.9666667,-77.3166667
+jm,belle retiro,Belle Retiro,04,,18.0166667,-77.4666667
+jm,bellevue,Bellevue,09,,18.35,-77.0666667
+jm,bellevue heights,Bellevue Heights,10,,17.9833333,-77.0166667
+jm,bellfield,Bellfield,10,,18.0666667,-77.15
+jm,bellfield,Bellfield,13,,18.2666667,-76.8333333
+jm,belmare,Belmare,14,,17.95,-76.45
+jm,belmont,Belmont,01,,18.0333333,-77.35
+jm,belmont,Belmont,09,,18.3166667,-77.1333333
+jm,belmont,Belmont,10,,18.05,-77.0833333
+jm,belmont,Belmont,12,,18.45,-77.9
+jm,belmont,Belmont,16,,18.15,-78.0333333
+jm,belmont castle,Belmont Castle,15,,18.2666667,-77.7166667
+jm,belmore castle,Belmore Castle,15,,18.2666667,-77.7166667
+jm,bel renro,Bel Renro,13,,18.4,-76.9
+jm,bel retiro,Bel Retiro,13,,18.4,-76.9
+jm,belvedere,Belvedere,02,,18.3166667,-77.9333333
+jm,belvedere,Belvedere,07,,17.8666667,-76.4333333
+jm,belvedere,Belvedere,08,,18.05,-76.8666667
+jm,belvedere house,Belvedere House,07,,17.8833333,-76.45
+jm,belvidere,Belvidere,07,,18.2166667,-76.6833333
+jm,belvidere,Belvidere,08,,18.05,-76.8666667
+jm,belvidere house,Belvidere House,02,,18.3166667,-77.9333333
+jm,ben bow,Ben Bow,10,,18.2333333,-77.0166667
+jm,bendish rock,Bendish Rock,13,,18.2666667,-76.8
+jm,bengal,Bengal,09,,18.45,-77.45
+jm,bengal bridge,Bengal Bridge,09,,18.45,-77.45
+jm,ben lomond,Ben Lomond,11,,18.2,-77.6833333
+jm,bennetsfield,Bennetsfield,09,,18.3,-77.3333333
+jm,bennett,Bennett,10,,18.2166667,-77.0333333
+jm,bennettsfield,Bennettsfield,09,,18.3,-77.3333333
+jm,bensonton,Bensonton,09,,18.2333333,-77.2166667
+jm,berdoes,Berdoes,08,,18.0666667,-76.8666667
+jm,beredoes,Beredoes,08,,18.0666667,-76.8666667
+jm,berkshire hall,Berkshire Hall,10,,18.2,-77.0166667
+jm,berlin,Berlin,11,,17.9166667,-77.65
+jm,bernard lodge,Bernard Lodge,10,,17.9666667,-76.9333333
+jm,berridale,Berridale,07,,18.1333333,-76.4833333
+jm,berridale,Berridale,09,,18.4666667,-77.4166667
+jm,berrydale,Berrydale,09,,18.4666667,-77.4166667
+jm,berry hill,Berry Hill,13,,18.2833333,-76.9333333
+jm,berwick,Berwick,04,,18.0166667,-77.4833333
+jm,berwick,Berwick,10,,18.15,-76.9833333
+jm,bethany,Bethany,04,,18.15,-77.5333333
+jm,bethany,Bethany,09,,18.3,-77.3666667
+jm,bethel gap,Bethel Gap,14,,17.9833333,-76.5833333
+jm,bethel town,Bethel Town,16,,18.3,-77.95
+jm,bethezra,Bethezra,14,,17.95,-76.6166667
+jm,bethezrd,Bethezrd,14,,17.95,-76.6166667
+jm,bethlehem,Bethlehem,11,,17.9666667,-77.7
+jm,bettys hope,Bettys Hope,07,,18.05,-76.3
+jm,beverly,Beverly,04,,18.15,-77.6166667
+jm,beverly,Beverly,09,,18.45,-77.2833333
+jm,beverly hills,Beverly Hills,08,,18.0,-76.7666667
+jm,bickerstaff,Bickerstaff,12,,18.3666667,-77.9166667
+jm,bickersteth,Bickersteth,12,,18.3666667,-77.9166667
+jm,biddeford,Biddeford,15,,18.4,-77.4666667
+jm,biddiford,Biddiford,15,,18.4,-77.4666667
+jm,bideford,Bideford,08,,17.95,-77.7166667
+jm,big bridge,Big Bridge,16,,18.2166667,-78.15
+jm,billy dun,Billy Dun,08,,18.0333333,-76.7666667
+jm,billy dunn,Billy Dunn,08,,18.0333333,-76.7666667
+jm,bindloss,Bindloss,10,,18.15,-77.0333333
+jm,biscany,Biscany,07,,18.1833333,-76.6
+jm,bishop mount,Bishop Mount,13,,18.3166667,-76.95
+jm,blackheath,Blackheath,09,,18.3166667,-77.1333333
+jm,black heath,Black Heath,16,,18.2833333,-78.1333333
+jm,black river,Black River,11,4229,18.0166667,-77.85
+jm,black rock,Black Rock,07,,18.1333333,-76.35
+jm,blackstone edge,Blackstone Edge,09,,18.2666667,-77.0166667
+jm,blair pen,Blair Pen,10,,17.9666667,-76.95
+jm,blakes pen,Blakes Pen,04,,17.9166667,-77.5666667
+jm,bloomfield,Bloomfield,04,,18.0333333,-77.5333333
+jm,bloomfield,Bloomfield,07,,18.15,-76.5833333
+jm,bloxburgh,Bloxburgh,08,,17.9833333,-76.65
+jm,blue castle,Blue Castle,16,,18.2666667,-78.1166667
+jm,blue castle farm,Blue Castle Farm,16,,18.2666667,-78.1166667
+jm,bluefields,Bluefields,09,,18.3833333,-77.35
+jm,bluefields,Bluefields,16,,18.1666667,-78.0333333
+jm,blue hole,Blue Hole,02,,18.45,-78.1
+jm,blue hole,Blue Hole,09,,18.4166667,-77.2833333
+jm,blue hole,Blue Hole,10,,18.0333333,-76.9
+jm,blue hole,Blue Hole,12,,18.4833333,-77.8333333
+jm,blue hole,Blue Hole,16,,18.15,-78.0333333
+jm,blue mountain,Blue Mountain,02,,18.0666667,-77.4333333
+jm,blue mountain,Blue Mountain,10,,18.1833333,-77.1333333
+jm,boca pen,Boca Pen,10,,18.0166667,-76.8833333
+jm,bocca pen,Bocca Pen,10,,18.0166667,-76.8833333
+jm,bodles,Bodles,10,,17.9333333,-77.1333333
+jm,bodles pen,Bodles Pen,10,,17.9333333,-77.1333333
+jm,bog,Bog,01,,17.8166667,-77.2333333
+jm,bog,Bog,09,,18.4,-77.1333333
+jm,bog,Bog,16,,18.15,-77.95
+jm,bogg,Bogg,09,,18.4,-77.1333333
+jm,bog plain,Bog Plain,01,,17.8833333,-77.2333333
+jm,bog walk,Bog Walk,10,,18.1,-77.0166667
+jm,bog walk village,Bog Walk Village,10,,18.1,-77.0166667
+jm,bohemia,Bohemia,15,,18.2166667,-77.4833333
+jm,boldness,Boldness,01,,18.0666667,-77.35
+jm,bolton,Bolton,09,,18.3166667,-77.1333333
+jm,bolton park,Bolton Park,09,,18.3166667,-77.1333333
+jm,bonavista,Bonavista,12,,18.4,-77.9166667
+jm,bonham spring,Bonham Spring,13,,18.4,-77.0666667
+jm,bonnett,Bonnett,10,,18.2166667,-77.0333333
+jm,bonny gate,Bonny Gate,13,,18.3166667,-76.95
+jm,bonny pen,Bonny Pen,13,,18.3166667,-76.95
+jm,booth,Booth,15,,18.2666667,-77.6166667
+jm,border,Border,08,,18.15,-76.8666667
+jm,borobridge,Borobridge,01,,18.2,-77.4166667
+jm,boscabel,Boscabel,13,,18.4,-76.9666667
+jm,boscobel,Boscobel,13,,18.4,-76.9666667
+jm,bossue,Bossue,04,,17.8833333,-77.4333333
+jm,boston,Boston,07,,18.15,-76.35
+jm,bounty hall,Bounty Hall,15,,18.45,-77.7166667
+jm,bournemouth gardens,Bournemouth Gardens,17,,17.9666667,-76.7666667
+jm,bowden,Bowden,14,,17.8833333,-76.3166667
+jm,bowden house,Bowden House,14,,17.8833333,-76.3166667
+jm,bowen crawle,Bowen Crawle,01,,18.05,-77.35
+jm,bowens,Bowens,01,,17.9,-77.2666667
+jm,bowens hall,Bowens Hall,01,,17.9,-77.2666667
+jm,bower hall,Bower Hall,02,,18.4,-78.1833333
+jm,bower hill,Bower Hill,02,,18.4,-78.1833333
+jm,bowers hall,Bowers Hall,02,,18.4,-78.1833333
+jm,box,Box,12,,18.4666667,-77.9333333
+jm,boxford lodge,Boxford Lodge,14,,17.9,-76.2833333
+jm,boxton,Boxton,02,,18.3666667,-78.1
+jm,boyne park,Boyne Park,13,,18.3166667,-76.9333333
+jm,braco,Braco,15,,18.4666667,-77.5
+jm,brae head,Brae Head,13,,18.2666667,-76.9333333
+jm,braema,Braema,10,,18.2166667,-77.0166667
+jm,braes river,Braes River,11,,18.0833333,-77.65
+jm,braeton,Braeton,10,,17.95,-76.9
+jm,brainerd,Brainerd,13,,18.2,-76.9
+jm,brampton,Brampton,11,,18.0666667,-77.8833333
+jm,brandon hill,Brandon Hill,01,,18.15,-77.25
+jm,brandon hill,Brandon Hill,08,,18.15,-76.8166667
+jm,brazalitta,Brazalitta,01,,17.8333333,-77.1666667
+jm,braziletta,Braziletta,01,,17.8333333,-77.1666667
+jm,braziletto,Braziletto,01,,17.8333333,-77.1666667
+jm,brazilletos,Brazilletos,01,,17.8333333,-77.1666667
+jm,brazilletto,Brazilletto,01,,17.8333333,-77.1666667
+jm,breadfruit,Breadfruit,07,,18.15,-76.5333333
+jm,breadfruit hill,Breadfruit Hill,07,,18.15,-76.5333333
+jm,breadnut bottom,Breadnut Bottom,01,,17.95,-77.1833333
+jm,breadnut,Breadnut,11,,18.05,-77.9
+jm,breadnut hill,Breadnut Hill,09,,18.3833333,-77.0833333
+jm,breastworks,Breastworks,07,,18.15,-76.45
+jm,breezy hill,Breezy Hill,09,,18.3666667,-77.1333333
+jm,breezy park,Breezy Park,09,,18.3833333,-77.2
+jm,bretts pen,Bretts Pen,10,,18.0166667,-76.95
+jm,bridge pen,Bridge Pen,10,,17.95,-77.0333333
+jm,bridge pen,Bridge Pen,11,,17.9166667,-77.6
+jm,brighton,Brighton,11,,18.15,-77.8833333
+jm,brighton,Brighton,16,,18.15,-78.0333333
+jm,brimmer hall,Brimmer Hall,13,,18.35,-76.9166667
+jm,brinkley,Brinkley,11,,17.9333333,-77.6166667
+jm,brissett run,Brissett Run,09,,18.3,-77.25
+jm,brissett runs,Brissett Runs,09,,18.3,-77.25
+jm,bristol,Bristol,15,,18.2833333,-77.5333333
+jm,british,British,01,,18.1166667,-77.2
+jm,brittonville,Brittonville,09,,18.35,-77.2
+jm,brixton hill,Brixton Hill,01,,18.0166667,-77.3166667
+jm,broadgate,Broadgate,13,,18.2333333,-76.8166667
+jm,broadleaf,Broadleaf,13,,18.35,-77.0333333
+jm,broadstreet,Broadstreet,09,,18.3166667,-77.1666667
+jm,brobridge,Brobridge,01,,18.2,-77.4166667
+jm,brokenbank,Brokenbank,01,,17.8166667,-77.2666667
+jm,brokenhurst,Brokenhurst,04,,17.9666667,-77.45
+jm,bromley,Bromley,09,,18.3166667,-77.1
+jm,brompton,Brompton,11,,18.0666667,-77.8833333
+jm,bronte,Bronte,16,,18.1333333,-77.9333333
+jm,brooklyn,Brooklyn,13,,18.3833333,-76.9166667
+jm,broughton,Broughton,16,,18.2166667,-78.2333333
+jm,brown hill village,Brown Hill Village,13,,18.2333333,-76.7333333
+jm,browns hall,Browns Hall,10,,18.0666667,-77.1333333
+jm,browns town,Browns Town,04,,18.0333333,-77.45
+jm,browns town,Browns Town,09,,18.4,-77.3666667
+jm,browns valley,Browns Valley,09,,18.2833333,-77.2
+jm,browns valley,Browns Valley,11,,17.9666667,-77.7666667
+jm,brucefield,Brucefield,11,,17.9666667,-77.7833333
+jm,brummer hall,Brummer Hall,13,,18.35,-76.9166667
+jm,brunswick,Brunswick,09,,18.3166667,-77.2
+jm,bryan,Bryan,15,,18.4333333,-77.4666667
+jm,bryan castle,Bryan Castle,15,,18.45,-77.5
+jm,bryans bay,Bryans Bay,07,,18.1833333,-76.4666667
+jm,bryans,Bryans,01,,17.9666667,-77.2333333
+jm,bryans hill,Bryans Hill,01,,18.1333333,-77.3
+jm,bryans pen,Bryans Pen,01,,17.9666667,-77.2333333
+jm,bryon,Bryon,15,,18.4333333,-77.4666667
+jm,buckfield,Buckfield,09,,18.4,-77.1
+jm,buckingham,Buckingham,14,,17.9166667,-76.4833333
+jm,buckup,Buckup,04,,17.8833333,-77.5
+jm,buck up,Buck Up,04,,18.2,-77.5166667
+jm,budley park,Budley Park,01,,17.8666667,-77.3166667
+jm,buff bay,Buff Bay,07,,18.2333333,-76.6666667
+jm,bullards,Bullards,01,,17.9333333,-77.2833333
+jm,bull bay,Bull Bay,08,,17.95,-76.6666667
+jm,bull bay pen,Bull Bay Pen,08,,17.95,-76.6666667
+jm,bullet hall,Bullet Hall,11,,18.2166667,-77.7
+jm,bull pen,Bull Pen,10,,18.0166667,-76.95
+jm,bull savanna,Bull Savanna,11,6962,17.8833333,-77.6
+jm,bunker hill,Bunker Hill,15,,18.3833333,-77.6833333
+jm,bunkers hill,Bunkers Hill,15,,18.3833333,-77.6833333
+jm,burge,Burge,14,,17.9333333,-76.65
+jm,burlington,Burlington,07,,18.2,-76.5166667
+jm,burnt ground,Burnt Ground,11,,18.05,-77.7166667
+jm,burnt hill,Burnt Hill,15,,18.3,-77.55
+jm,burnt savanna,Burnt Savanna,11,,18.0333333,-77.75
+jm,burton hall,Burton Hall,07,,18.1166667,-76.55
+jm,burts run,Burts Run,09,,18.3833333,-77.3
+jm,bushy park,Bushy Park,01,,17.9833333,-77.25
+jm,bushy park,Bushy Park,10,,17.9333333,-77.05
+jm,buxton,Buxton,02,,18.3666667,-78.1
+jm,buxton town,Buxton Town,10,,18.1166667,-77.0666667
+jm,bybrook,Bybrook,07,,18.1666667,-76.6666667
+jm,bybrook,Bybrook,11,,18.0666667,-77.6833333
+jm,byndloss,Byndloss,10,,18.15,-77.0333333
+jm,cacoon,Cacoon,02,,18.4166667,-78.2166667
+jm,cacoon castle,Cacoon Castle,02,,18.4,-78.0166667
+jm,caenwood,Caenwood,07,,18.2,-76.5666667
+jm,caenwood,Caenwood,15,,18.45,-77.6333333
+jm,cairn,Cairn,16,,18.2333333,-78.0333333
+jm,cairnie,Cairnie,09,,18.2833333,-77.3333333
+jm,calderwood,Calderwood,09,,18.2833333,-77.3
+jm,calderwood glen,Calderwood Glen,09,,18.2833333,-77.3
+jm,caledonia,Caledonia,02,,18.3833333,-78.05
+jm,caledonia,Caledonia,04,,18.05,-77.4833333
+jm,caledonia,Caledonia,09,,18.3166667,-77.4333333
+jm,caledonia,Caledonia,12,,18.3833333,-77.8666667
+jm,caledonia,Caledonia,16,,18.2666667,-78.0333333
+jm,caley,Caley,12,,18.3,-77.8166667
+jm,california,California,04,,18.0166667,-77.5666667
+jm,cambelton,Cambelton,02,,18.35,-78.2833333
+jm,camberwell,Camberwell,13,,18.2333333,-76.8
+jm,camberwell school,Camberwell School,13,,18.2333333,-76.8
+jm,cambrian,Cambrian,10,,18.1333333,-77.05
+jm,cambridge,Cambridge,07,,18.15,-76.4166667
+jm,cambridge,Cambridge,12,3930,18.3166667,-77.9
+jm,cambridge,Cambridge,14,,17.9333333,-76.65
+jm,cambridge,Cambridge,15,,18.4333333,-77.6
+jm,cambridge station,Cambridge Station,12,,18.3166667,-77.9
+jm,cambrook,Cambrook,09,,18.45,-77.2666667
+jm,campbell castle,Campbell Castle,04,,17.9666667,-77.45
+jm,campbellton,Campbellton,02,,18.35,-78.2833333
+jm,campbelton,Campbelton,02,,18.35,-78.2833333
+jm,campbleton,Campbleton,02,,18.35,-78.2833333
+jm,camperdown,Camperdown,08,,18.0166667,-76.8
+jm,camperdown,Camperdown,09,,18.2166667,-77.15
+jm,camperdown,Camperdown,12,,18.35,-77.8
+jm,camp savanna,Camp Savanna,16,,18.2833333,-78.2333333
+jm,cane river,Cane River,08,,17.95,-76.7
+jm,canewood,Canewood,07,,18.2,-76.5666667
+jm,carawina,Carawina,16,,18.25,-78.0833333
+jm,cardiff,Cardiff,09,,18.45,-77.3166667
+jm,cardiff hall,Cardiff Hall,09,,18.45,-77.3166667
+jm,carditt hall,Carditt Hall,09,,18.45,-77.3166667
+jm,carey park,Carey Park,15,,18.4666667,-77.55
+jm,carey town,Carey Town,12,,18.3833333,-77.9333333
+jm,carisbrook,Carisbrook,11,,18.1333333,-77.7833333
+jm,cariwina,Cariwina,16,,18.25,-78.0833333
+jm,carlette pen,Carlette Pen,10,,17.9833333,-76.9666667
+jm,carletts,Carletts,10,,17.9833333,-76.9666667
+jm,carlisle,Carlisle,01,,17.7666667,-77.2833333
+jm,carlton,Carlton,12,,18.4833333,-77.7666667
+jm,carlyle,Carlyle,01,,17.7666667,-77.2833333
+jm,caron hall,Caron Hall,13,,18.2666667,-76.9333333
+jm,carrisbrook,Carrisbrook,11,,18.1333333,-77.7833333
+jm,carron hall,Carron Hall,13,,18.2666667,-76.9333333
+jm,carry hall,Carry Hall,14,,17.9166667,-76.3833333
+jm,carthagena,Carthagena,12,,18.45,-77.9
+jm,carthagina,Carthagina,12,,18.45,-77.9
+jm,carton,Carton,09,,18.35,-77.1833333
+jm,cartwheel,Cartwheel,01,,17.95,-77.35
+jm,cary park,Cary Park,15,,18.4666667,-77.55
+jm,cary park village,Cary Park Village,15,,18.4666667,-77.55
+jm,cascade,Cascade,02,,18.4,-78.1
+jm,cascade,Cascade,07,,18.1,-76.7166667
+jm,cascade,Cascade,09,,18.2166667,-77.45
+jm,cashew,Cashew,11,,18.0666667,-77.7833333
+jm,cassava,Cassava,10,,18.1333333,-76.8833333
+jm,cassia park,Cassia Park,08,,18.0166667,-76.8
+jm,castle comfort,Castle Comfort,07,,18.1333333,-76.35
+jm,castle dawson,Castle Dawson,07,,18.0833333,-76.7166667
+jm,castle house,Castle House,07,,18.1333333,-76.35
+jm,castle russel pen,Castle Russel Pen,10,,18.1666667,-77.0333333
+jm,castleton,Castleton,08,,18.1666667,-76.8166667
+jm,castleton gardens,Castleton Gardens,08,,18.1666667,-76.8166667
+jm,caswell hill,Caswell Hill,01,,17.85,-77.2666667
+jm,cataboo,Cataboo,11,,18.0333333,-77.8166667
+jm,catadupa,Catadupa,12,,18.2833333,-77.8833333
+jm,catadupa station,Catadupa Station,12,,18.2833333,-77.8833333
+jm,cauldwell,Cauldwell,02,,18.3833333,-78.2333333
+jm,cavalier,Cavalier,08,,18.1,-76.85
+jm,cavaliers,Cavaliers,08,,18.1,-76.85
+jm,cave,Cave,16,,18.3,-78.2833333
+jm,cave hill,Cave Hill,09,,18.4666667,-77.3833333
+jm,cave valley,Cave Valley,02,,18.3166667,-78.2666667
+jm,cave valley,Cave Valley,09,,18.2166667,-77.3666667
+jm,caymanas,Caymanas,10,,18.0166667,-76.9
+jm,caymanas house,Caymanas House,10,,18.0166667,-76.9
+jm,cedarhurst,Cedarhurst,07,,18.1,-76.7166667
+jm,cedar valley,Cedar Valley,07,,18.1,-76.7166667
+jm,cedar valley,Cedar Valley,08,,18.05,-76.8666667
+jm,cedar valley,Cedar Valley,09,,18.35,-77.1166667
+jm,cedar valley,Cedar Valley,10,,18.0666667,-76.9333333
+jm,cedar valley,Cedar Valley,14,,17.9833333,-76.5833333
+jm,central village,Central Village,10,,17.9833333,-76.9166667
+jm,chalky hill,Chalky Hill,09,,18.4,-77.15
+jm,chandlers pen,Chandlers Pen,01,,17.9833333,-77.2
+jm,change hill,Change Hill,13,,18.2666667,-76.95
+jm,chantilly,Chantilly,04,,18.1166667,-77.4833333
+jm,chapelton,Chapelton,01,,18.0833333,-77.2666667
+jm,charlemont,Charlemont,10,,18.1833333,-77.0666667
+jm,charles town,Charles Town,07,,18.2166667,-76.6666667
+jm,charlottenburgh,Charlottenburgh,13,,18.25,-76.8833333
+jm,charlsworth,Charlsworth,07,,18.1333333,-76.5333333
+jm,charlton castle,Charlton Castle,09,,18.4,-77.4
+jm,charlton,Charlton,08,,18.0333333,-76.8
+jm,charlton,Charlton,09,,18.3,-77.35
+jm,charlton,Charlton,10,,18.1666667,-77.1
+jm,charlton,Charlton,12,,18.4833333,-77.7666667
+jm,chateau,Chateau,01,,17.9666667,-77.2166667
+jm,chatham,Chatham,12,,18.4666667,-77.7666667
+jm,chatsworth,Chatsworth,07,,18.1333333,-76.5333333
+jm,chatsworth,Chatsworth,13,,18.35,-77.05
+jm,chatworth,Chatworth,10,,18.1,-77.1166667
+jm,cheapside,Cheapside,04,,17.9333333,-77.4333333
+jm,cheapside,Cheapside,11,,17.9333333,-77.6
+jm,chedwin park,Chedwin Park,10,,17.9666667,-77.0
+jm,cheesefield,Cheesefield,10,,18.1833333,-77.0166667
+jm,chelsea,Chelsea,04,,18.15,-76.5666667
+jm,chelsea,Chelsea,11,,17.9333333,-77.7
+jm,chepstow,Chepstow,07,,18.1666667,-76.6166667
+jm,chepstowe,Chepstowe,07,,18.1666667,-76.6166667
+jm,cherryfield,Cherryfield,13,,18.4,-77.0333333
+jm,cherry garden,Cherry Garden,08,,18.05,-76.7833333
+jm,cherry garden,Cherry Garden,10,,17.9333333,-77.05
+jm,chesler,Chesler,15,,18.4,-77.6166667
+jm,chester,Chester,15,,18.4,-77.6166667
+jm,chesterfield,Chesterfield,01,,17.8,-77.25
+jm,chesterfield,Chesterfield,09,,18.3833333,-77.2166667
+jm,chesterfield,Chesterfield,14,,18.0333333,-76.6333333
+jm,chesterfield hillside,Chesterfield Hillside,14,,18.0333333,-76.6333333
+jm,chestervale,Chestervale,08,,18.0666667,-76.6666667
+jm,chigwell,Chigwell,02,,18.4,-78.05
+jm,chilton,Chilton,16,,18.2166667,-77.9666667
+jm,chipps hall,Chipps Hall,07,,18.1166667,-76.55
+jm,chovey,Chovey,13,,18.25,-76.8166667
+jm,chovey house,Chovey House,13,,18.25,-76.8166667
+jm,christiana,Christiana,04,,18.1666667,-77.4833333
+jm,christianfield village,Christianfield Village,07,,18.15,-76.5333333
+jm,chudleigh,Chudleigh,04,,18.15,-77.5166667
+jm,cinnamon hill,Cinnamon Hill,12,,18.5166667,-77.8166667
+jm,clair park,Clair Park,10,,18.0333333,-76.9666667
+jm,clanden,Clanden,04,,18.15,-77.4666667
+jm,clandon,Clandon,04,,18.15,-77.4666667
+jm,claredon park,Claredon Park,01,,17.9833333,-77.3833333
+jm,claremont,Claremont,08,,17.9333333,-76.6833333
+jm,claremont,Claremont,09,,18.3166667,-77.1833333
+jm,claremont,Claremont,10,,17.95,-77.1166667
+jm,claremont,Claremont,11,,17.9166667,-77.7333333
+jm,claremont park,Claremont Park,11,,17.9166667,-77.7333333
+jm,clarendon park,Clarendon Park,01,,17.9833333,-77.3833333
+jm,clarke's town,Clarke's Town,09,,18.4,-77.2166667
+jm,clarksonville,Clarksonville,09,,18.25,-77.3666667
+jm,clarks town,Clarks Town,04,,18.05,-77.5166667
+jm,clarks town,Clarks Town,09,,18.4,-77.2166667
+jm,clarks town,Clarks Town,15,,18.4166667,-77.5666667
+jm,clark town,Clark Town,09,,18.4,-77.2166667
+jm,clarmont park,Clarmont Park,11,,17.9166667,-77.7333333
+jm,clebe farm,Clebe Farm,08,,18.0333333,-76.8166667
+jm,clermont,Clermont,13,,18.2666667,-76.85
+jm,cliffords rest,Cliffords Rest,01,,17.95,-77.1833333
+jm,clifton,Clifton,09,,18.3833333,-77.0666667
+jm,clifton,Clifton,14,,17.9,-76.3166667
+jm,clifton,Clifton,15,,18.4666667,-77.65
+jm,clifton,Clifton,16,,18.2333333,-77.9833333
+jm,clifton falls,Clifton Falls,09,,18.3833333,-77.0666667
+jm,clifton hill,Clifton Hill,14,,17.9,-76.3166667
+jm,clonmel,Clonmel,13,,18.2333333,-76.85
+jm,clover hill,Clover Hill,09,,18.2166667,-77.15
+jm,clydesdale,Clydesdale,08,,18.0666667,-76.6666667
+jm,clydesdale,Clydesdale,09,,18.3,-77.3333333
+jm,clydesdale industry,Clydesdale Industry,08,,18.0666667,-76.6666667
+jm,coates,Coates,01,,17.95,-77.2666667
+jm,coates pen,Coates Pen,01,,17.95,-77.2666667
+jm,cobblers,Cobblers,04,,18.1333333,-77.4666667
+jm,cockburn gardens,Cockburn Gardens,08,,18.0,-76.8166667
+jm,cockpit,Cockpit,01,,17.8833333,-77.15
+jm,cockpits,Cockpits,01,,17.8833333,-77.15
+jm,cockpit village,Cockpit Village,01,,17.8833333,-77.15
+jm,cockshop,Cockshop,01,,18.1333333,-77.2333333
+jm,cocoa walk,Cocoa Walk,01,,18.0666667,-77.2833333
+jm,cocoa walk,Cocoa Walk,04,,17.8833333,-77.5
+jm,cocoa walk,Cocoa Walk,14,,17.95,-76.6
+jm,coco ree,Coco Ree,10,,18.15,-77.1833333
+jm,coffee grove,Coffee Grove,04,,17.95,-77.4666667
+jm,coffee piece,Coffee Piece,13,,18.25,-76.85
+jm,cog hall,Cog Hall,07,,18.1,-76.3166667
+jm,colbeck,Colbeck,10,,17.95,-77.1333333
+jm,colbecks,Colbecks,10,,17.95,-77.1333333
+jm,coldsome corner,Coldsome Corner,16,,18.2166667,-78.2333333
+jm,cold spring,Cold Spring,13,,18.2,-76.9
+jm,colebeck,Colebeck,10,,17.95,-77.1333333
+jm,coley,Coley,14,,17.95,-76.5
+jm,coley house,Coley House,14,,17.95,-76.5
+jm,coleyville,Coleyville,04,,18.2,-77.5166667
+jm,colon,Colon,11,,18.1166667,-77.9166667
+jm,colonels ridge,Colonels Ridge,01,,18.1333333,-77.2666667
+jm,comfort castle,Comfort Castle,07,,18.05,-76.4166667
+jm,comfort,Comfort,12,,18.4333333,-77.9333333
+jm,comfort hall,Comfort Hall,04,,18.1833333,-77.6
+jm,comfort settlement,Comfort Settlement,13,,18.3,-76.9333333
+jm,comfort village,Comfort Village,01,,17.95,-77.3333333
+jm,commadore,Commadore,02,,18.4333333,-78.0333333
+jm,comma pen,Comma Pen,11,,17.9166667,-77.6
+jm,commodore,Commodore,07,,18.1166667,-76.35
+jm,concord,Concord,09,,18.2166667,-77.2166667
+jm,congress hall,Congress Hall,16,,18.1,-77.95
+jm,congreve park,Congreve Park,10,,17.95,-76.9
+jm,congrove park,Congrove Park,10,,17.95,-76.9
+jm,connors,Connors,10,,18.0666667,-77.1666667
+jm,constant spring,Constant Spring,08,,18.05,-76.8
+jm,constitution hill,Constitution Hill,08,,18.0,-76.7166667
+jm,content,Content,02,,18.3833333,-78.0166667
+jm,content,Content,04,,18.05,-77.4666667
+jm,content,Content,08,,18.05,-76.7
+jm,content,Content,09,,18.3666667,-77.1
+jm,content,Content,10,,18.0166667,-77.0666667
+jm,content,Content,11,,18.1,-77.9
+jm,content,Content,13,,18.2666667,-76.8833333
+jm,content,Content,15,,18.3833333,-77.6333333
+jm,content,Content,16,,18.15,-77.9666667
+jm,content village,Content Village,01,,17.9333333,-77.2833333
+jm,cool spring,Cool Spring,10,,18.1166667,-77.1166667
+jm,cooltort grove,Cooltort Grove,09,,18.3166667,-77.1833333
+jm,copse,Copse,13,,18.3833333,-77.9666667
+jm,corby castle,Corby Castle,11,,17.9,-77.6666667
+jm,corner shop,Corner Shop,01,,18.1833333,-77.35
+jm,corn hill,Corn Hill,01,,18.1166667,-77.3833333
+jm,cornwall barracks,Cornwall Barracks,07,,18.0666667,-76.4166667
+jm,cornwall,Cornwall,16,,18.2666667,-78.1
+jm,cornwall farm,Cornwall Farm,16,,18.2666667,-78.1
+jm,cornwood,Cornwood,15,,18.45,-77.6333333
+jm,corrovants,Corrovants,10,,18.05,-76.95
+jm,corrovants grove,Corrovants Grove,10,,18.05,-76.95
+jm,costhwaite,Costhwaite,09,,18.3666667,-77.1166667
+jm,cotswold hill,Cotswold Hill,10,,18.2333333,-77.0166667
+jm,cottage,Cottage,01,,17.8166667,-77.2333333
+jm,cottage,Cottage,04,,17.9666667,-77.4666667
+jm,cottage,Cottage,13,,18.25,-76.7333333
+jm,cottage,Cottage,16,,18.3,-77.9
+jm,cotterwood,Cotterwood,11,,18.0833333,-77.9
+jm,coultant grove,Coultant Grove,09,,18.3166667,-77.1833333
+jm,cousins cove,Cousins Cove,02,,18.4166667,-78.2333333
+jm,coventry,Coventry,02,,18.4166667,-78.0666667
+jm,coventry pen,Coventry Pen,02,,18.4166667,-78.0666667
+jm,cowans,Cowans,10,,18.0666667,-77.1166667
+jm,coxheath,Coxheath,15,,18.3666667,-77.6333333
+jm,craig hall,Craig Hall,14,,17.9166667,-76.3833333
+jm,craig head,Craig Head,04,,18.2333333,-77.5666667
+jm,craig mill,Craig Mill,07,,18.2166667,-76.6833333
+jm,craigton,Craigton,08,,18.05,-76.7166667
+jm,cranbrook,Cranbrook,09,,18.45,-77.2666667
+jm,crawford,Crawford,11,,18.05,-77.9
+jm,crawfords,Crawfords,11,,18.05,-77.9
+jm,crawle,Crawle,10,,18.0166667,-77.1666667
+jm,crawle,Crawle,13,,18.3,-76.9333333
+jm,creighton hall,Creighton Hall,14,,17.8833333,-76.4833333
+jm,crescent,Crescent,10,,18.05,-76.9833333
+jm,crescent park,Crescent Park,09,,18.3,-77.15
+jm,cresent park,Cresent Park,09,,18.3,-77.15
+jm,crofts,Crofts,01,,18.1166667,-77.2
+jm,crofts hill,Crofts Hill,01,,18.1166667,-77.2
+jm,crooked river,Crooked River,01,,18.1333333,-77.3166667
+jm,crosbie,Crosbie,16,,18.2333333,-78.3
+jm,cross keys,Cross Keys,04,,17.9,-77.5
+jm,cross pen,Cross Pen,01,,17.95,-77.2
+jm,cross roads,Cross Roads,08,,17.9833333,-76.7833333
+jm,croyden,Croyden,11,,18.1333333,-77.9
+jm,croydon,Croydon,11,,18.1333333,-77.9
+jm,cudioe hill,Cudioe Hill,10,,18.05,-77.0666667
+jm,cudjoe hill,Cudjoe Hill,10,,18.05,-77.0666667
+jm,cuffie head,Cuffie Head,07,,18.1833333,-76.5166667
+jm,culldden,Culldden,16,,18.1,-77.9833333
+jm,culloden,Culloden,16,,18.1,-77.9833333
+jm,cumberland,Cumberland,01,,18.1166667,-77.4333333
+jm,cum see,Cum See,13,,18.2833333,-76.8833333
+jm,curatoe hill,Curatoe Hill,01,,17.95,-77.2333333
+jm,cypress hall,Cypress Hall,10,,18.05,-76.8833333
+jm,cyprus,Cyprus,09,,18.3166667,-77.3833333
+jm,dalentobur,Dalentobur,11,,18.05,-77.9333333
+jm,dalingtober,Dalingtober,11,,18.05,-77.9333333
+jm,dallas castle,Dallas Castle,08,,17.9833333,-76.7166667
+jm,dallas,Dallas,08,,17.9833333,-76.7166667
+jm,dallingtober,Dallingtober,11,,18.05,-77.9333333
+jm,dalvey,Dalvey,10,,18.2166667,-76.95
+jm,dalvey,Dalvey,14,,17.9166667,-76.2333333
+jm,dalvy,Dalvy,14,,17.9166667,-76.2333333
+jm,danks,Danks,01,,18.1,-77.2833333
+jm,danks station,Danks Station,01,,18.1,-77.2833333
+jm,darley,Darley,07,,18.15,-76.5166667
+jm,darlingston,Darlingston,16,,18.2333333,-77.9666667
+jm,darlington,Darlington,09,,18.35,-77.4
+jm,darliston,Darliston,16,,18.2333333,-77.9666667
+jm,david wilsons village,David Wilsons Village,10,,17.9666667,-77.1166667
+jm,davis town,Davis Town,09,,18.3833333,-77.1666667
+jm,davyton,Davyton,04,,18.0666667,-77.45
+jm,dawkins caymanas,Dawkins Caymanas,10,,18.0166667,-76.9
+jm,dawkins,Dawkins,10,,18.0166667,-76.9
+jm,dawkins smokey hole,Dawkins Smokey Hole,01,,18.0333333,-77.3
+jm,dawson castle,Dawson Castle,07,,18.15,-76.6833333
+jm,decoy,Decoy,01,,17.95,-77.3666667
+jm,decoy,Decoy,10,,18.25,-76.9833333
+jm,decoy estate,Decoy Estate,13,,18.2833333,-76.9833333
+jm,decoy pen,Decoy Pen,10,,18.25,-76.9833333
+jm,deep side village,Deep Side Village,15,,18.3833333,-77.7333333
+jm,dee side,Dee Side,01,,17.8833333,-77.35
+jm,deeside,Deeside,15,,18.3833333,-77.7333333
+jm,dee side village,Dee Side Village,15,,18.3833333,-77.7333333
+jm,defiance,Defiance,09,,18.4666667,-77.4
+jm,delacree pen,Delacree Pen,08,,17.9833333,-76.8166667
+jm,denbigh,Denbigh,01,,17.95,-77.2666667
+jm,denhigh,Denhigh,01,,17.95,-77.2666667
+jm,denhigh plain,Denhigh Plain,01,,17.9666667,-77.2666667
+jm,devon,Devon,04,,18.1666667,-77.55
+jm,devon,Devon,09,,18.35,-77.3833333
+jm,devon township,Devon Township,04,,18.1666667,-77.55
+jm,devon village,Devon Village,04,,18.1666667,-77.55
+jm,diamond,Diamond,01,,18.0833333,-77.2
+jm,diamond,Diamond,08,,18.05,-76.8666667
+jm,dias,Dias,02,,18.4,-78.2
+jm,discovery bay,Discovery Bay,09,2536,18.4666667,-77.4
+jm,doctors cave,Doctors Cave,12,,18.4833333,-77.9333333
+jm,dollingtabor,Dollingtabor,11,,18.05,-77.9333333
+jm,doncaster,Doncaster,09,,18.3333333,-77.4
+jm,donegal,Donegal,11,,18.1833333,-77.8833333
+jm,doone lodge,Doone Lodge,09,,18.3,-77.3
+jm,doormans corner,Doormans Corner,14,,17.8833333,-76.6
+jm,dorcas,Dorcas,11,,17.9833333,-77.8166667
+jm,dorothy,Dorothy,09,,18.2833333,-77.3833333
+jm,dorothy pen,Dorothy Pen,09,,18.2833333,-77.3833333
+jm,dove cole park,Dove Cole Park,10,,18.0166667,-77.0166667
+jm,dove cot park,Dove Cot Park,10,,18.0166667,-77.0166667
+jm,dove,Dove,07,,18.2666667,-76.7
+jm,dove hall,Dove Hall,10,,18.1166667,-76.95
+jm,dover,Dover,07,,18.2666667,-76.7
+jm,dover,Dover,10,,18.0166667,-77.0666667
+jm,downs,Downs,04,,17.9333333,-77.5666667
+jm,drapers,Drapers,07,,18.1833333,-76.4166667
+jm,dressikie,Dressikie,13,,18.3333333,-76.9833333
+jm,dressiky,Dressiky,13,,18.3333333,-76.9833333
+jm,dromilly,Dromilly,15,,18.3666667,-77.7166667
+jm,drummand orange grove,Drummand Orange Grove,13,,18.2,-76.7333333
+jm,drummonds run,Drummonds Run,11,,17.8666667,-77.7
+jm,dry harbor cave,Dry Harbor Cave,09,,18.4666667,-77.3666667
+jm,dry harbor,Dry Harbor,09,,18.4666667,-77.4
+jm,dry harbour cave,Dry Harbour Cave,09,,18.4666667,-77.3666667
+jm,dry harbour,Dry Harbour,09,,18.4666667,-77.4
+jm,dry hill,Dry Hill,01,,17.7666667,-77.2333333
+jm,dry river,Dry River,01,,17.8833333,-77.2666667
+jm,duanvale,Duanvale,15,,18.4,-77.6
+jm,duanvale village,Duanvale Village,15,,18.4,-77.6
+jm,dublin castle,Dublin Castle,09,,18.45,-77.35
+jm,duckenfield,Duckenfield,14,,17.9333333,-76.25
+jm,duckenfield hall,Duckenfield Hall,14,,17.9333333,-76.25
+jm,duckensfield,Duckensfield,14,,17.9333333,-76.25
+jm,duff house,Duff House,04,,17.8833333,-77.5666667
+jm,dumbarton,Dumbarton,11,,18.1333333,-77.9
+jm,dumblane,Dumblane,11,,17.8833333,-77.7333333
+jm,dumfries,Dumfries,15,,18.4666667,-77.4666667
+jm,dump,Dump,04,,18.1833333,-77.5
+jm,dunbar,Dunbar,07,,18.1166667,-76.5666667
+jm,duncans,Duncans,15,,18.4666667,-77.5333333
+jm,dundee,Dundee,15,,18.45,-77.7333333
+jm,dunkeld,Dunkeld,04,,18.1166667,-77.5166667
+jm,dunkeld,Dunkeld,16,,18.1333333,-78.0333333
+jm,dunkley dry river,Dunkley Dry River,01,,17.9,-77.2666667
+jm,dunkley,Dunkley,01,,17.9,-77.2666667
+jm,dunkleys,Dunkleys,01,,17.9,-77.2666667
+jm,dunkleys pen,Dunkleys Pen,01,,18.0333333,-77.3
+jm,dunrobin,Dunrobin,08,,18.0333333,-76.8
+jm,durham,Durham,07,,18.1333333,-76.5333333
+jm,eardley,Eardley,16,,18.3,-78.2666667
+jm,easington,Easington,14,,17.9166667,-76.6
+jm,east prospect,East Prospect,14,,17.8666667,-76.35
+jm,eastwood park,Eastwood Park,08,,18.0166667,-76.8
+jm,eaton,Eaton,02,,18.4333333,-78.1666667
+jm,ebenezer,Ebenezer,09,,18.3833333,-77.2333333
+jm,ebony park,Ebony Park,01,,17.9166667,-77.35
+jm,ebony park,Ebony Park,10,,17.95,-77.0333333
+jm,ecclesdown,Ecclesdown,07,,18.05,-76.3333333
+jm,edbury,Edbury,10,,18.0333333,-77.0333333
+jm,eden bowers,Eden Bowers,09,,18.4,-77.1166667
+jm,eden,Eden,01,,18.05,-77.35
+jm,eden,Eden,02,,18.4,-77.9666667
+jm,eden,Eden,13,,18.4,-76.95
+jm,eden gardens,Eden Gardens,08,,17.9833333,-76.7666667
+jm,eden hill,Eden Hill,13,,18.3833333,-76.95
+jm,eden park,Eden Park,13,,18.3833333,-76.95
+jm,edinburgh castle,Edinburgh Castle,14,,17.9,-76.5833333
+jm,edward piece,Edward Piece,10,,18.1166667,-76.9166667
+jm,effort,Effort,01,,18.1333333,-77.3833333
+jm,eglington,Eglington,04,,18.0166667,-77.5833333
+jm,egypt,Egypt,09,,18.3833333,-77.3666667
+jm,egypt,Egypt,13,,18.2833333,-76.85
+jm,eldersley,Eldersley,11,,18.2333333,-77.8
+jm,elderslie,Elderslie,11,,18.2333333,-77.8
+jm,eleven mile,Eleven Mile,14,,17.9333333,-76.65
+jm,eleven miles,Eleven Miles,14,,17.9333333,-76.65
+jm,elgin town,Elgin Town,02,,18.4333333,-78.15
+jm,elgin town,Elgin Town,07,,17.8833333,-76.4
+jm,elgin town,Elgin Town,13,,18.3,-77.0166667
+jm,elim,Elim,11,,18.1166667,-77.6833333
+jm,ellen street,Ellen Street,04,,17.9666667,-77.45
+jm,ellis caymanas,Ellis Caymanas,10,,18.0333333,-76.9166667
+jm,eltham,Eltham,09,,18.3833333,-77.0666667
+jm,elysium,Elysium,12,,18.4,-77.9166667
+jm,emilie,Emilie,10,,18.0333333,-77.0333333
+jm,endeavor,Endeavor,16,,18.3,-78.2666667
+jm,endeavour,Endeavour,01,,18.0833333,-77.3833333
+jm,endeavour,Endeavour,09,,18.3333333,-77.35
+jm,endeavour,Endeavour,13,,18.3666667,-77.05
+jm,endeavour,Endeavour,16,,18.3,-78.2666667
+jm,enfield,Enfield,04,,17.95,-77.4666667
+jm,enfield,Enfield,08,,18.0333333,-76.7166667
+jm,enfield,Enfield,09,,18.3833333,-77.3833333
+jm,enfield,Enfield,10,,18.1833333,-77.0166667
+jm,enfield,Enfield,13,,18.2,-76.7333333
+jm,ensom pen,Ensom Pen,10,,18.0166667,-76.9666667
+jm,envey valley,Envey Valley,10,,17.9833333,-77.0333333
+jm,envy valley,Envy Valley,10,,17.9833333,-77.0333333
+jm,epping farm,Epping Farm,14,,18.0333333,-76.6166667
+jm,epsom downs,Epsom Downs,04,,17.9333333,-77.5666667
+jm,epsom,Epsom,13,,18.25,-76.7333333
+jm,epsom pen,Epsom Pen,10,,18.0166667,-76.9666667
+jm,epson downs,Epson Downs,04,,17.9333333,-77.5666667
+jm,epson,Epson,13,,18.25,-76.7333333
+jm,epson pen,Epson Pen,10,,18.0166667,-76.9666667
+jm,epworth,Epworth,09,,18.3666667,-77.1333333
+jm,esher,Esher,02,,18.4333333,-78.2
+jm,esher,Esher,13,,18.2833333,-76.85
+jm,essex,Essex,09,,18.2333333,-77.2166667
+jm,essex,Essex,13,,18.2333333,-76.9333333
+jm,essling,Essling,09,,18.2833333,-77.3666667
+jm,etingdon,Etingdon,15,,18.45,-77.5666667
+jm,eton,Eton,02,,18.4333333,-78.1666667
+jm,evergreen,Evergreen,04,,18.1833333,-77.6166667
+jm,everton,Everton,10,,18.1,-76.8666667
+jm,ewarton,Ewarton,10,,18.1833333,-77.0833333
+jm,excellent town,Excellent Town,09,,18.3833333,-77.2666667
+jm,exchange,Exchange,13,,18.4,-77.0666667
+jm,exeter,Exeter,01,,17.8333333,-77.3
+jm,exter,Exter,01,,17.8333333,-77.3
+jm,fairburn,Fairburn,01,,18.1833333,-77.35
+jm,fairfield,Fairfield,04,,18.0166667,-77.5666667
+jm,fairfield,Fairfield,07,,18.1833333,-76.7
+jm,fairfield,Fairfield,10,,18.1,-77.1166667
+jm,fairfield,Fairfield,12,,18.45,-77.9166667
+jm,fairfield,Fairfield,14,,17.8833333,-76.2833333
+jm,fair prospect,Fair Prospect,07,,18.1,-76.3333333
+jm,fairy hill,Fairy Hill,07,,18.15,-76.3833333
+jm,falkeners,Falkeners,01,,17.95,-77.2833333
+jm,falkland,Falkland,10,,18.1666667,-77.0666667
+jm,falmouth,Falmouth,15,7780,18.5,-77.65
+jm,farenough,Farenough,01,,18.1833333,-77.2166667
+jm,far enough,Far Enough,11,,17.95,-77.75
+jm,farm hill,Farm Hill,14,,18.0333333,-76.6333333
+jm,fellowship,Fellowship,07,,18.1333333,-76.45
+jm,fellowship,Fellowship,11,,17.9833333,-77.6166667
+jm,fellowship hall,Fellowship Hall,08,,18.1166667,-76.8
+jm,fellowship hall,Fellowship Hall,10,,17.9666667,-76.9666667
+jm,fellowship hall,Fellowship Hall,13,,18.3833333,-76.9833333
+jm,fellowship school,Fellowship School,07,,18.1333333,-76.45
+jm,fernbrook,Fernbrook,16,,18.2833333,-77.9333333
+jm,ferris cross,Ferris Cross,16,,18.2333333,-78.0666667
+jm,ferris,Ferris,16,,18.2333333,-78.0666667
+jm,ferris pen,Ferris Pen,16,,18.2333333,-78.0666667
+jm,fiddle hall,Fiddle Hall,10,,18.1166667,-77.05
+jm,fish river,Fish River,02,,18.3333333,-78.3
+jm,flagstaff,Flagstaff,12,,18.3333333,-77.7833333
+jm,flamstead cottage,Flamstead Cottage,08,,18.0166667,-76.7
+jm,flamstead,Flamstead,08,,18.0166667,-76.7
+jm,flamstead,Flamstead,12,,18.3166667,-77.8166667
+jm,flat grass,Flat Grass,07,,18.0166667,-76.2833333
+jm,flatpaint,Flatpaint,09,,18.4666667,-77.2833333
+jm,flat point,Flat Point,09,,18.4666667,-77.2833333
+jm,flint river,Flint River,02,,18.45,-78.05
+jm,flint river house,Flint River House,02,,18.45,-78.05
+jm,florence hall,Florence Hall,15,,18.4666667,-77.6333333
+jm,florida,Florida,15,,18.4833333,-77.6166667
+jm,flower hill,Flower Hill,12,,18.4833333,-77.85
+jm,folly,Folly,01,,18.0166667,-77.3666667
+jm,folly,Folly,09,,18.45,-77.4166667
+jm,fontabelle,Fontabelle,13,,18.3666667,-76.95
+jm,fontabelle,Fontabelle,15,,18.3833333,-77.6333333
+jm,fontabelle,Fontabelle,16,,18.2833333,-78.15
+jm,fontabelle house,Fontabelle House,16,,18.2833333,-78.15
+jm,font hill,Font Hill,11,,18.0666667,-77.9333333
+jm,font hill,Font Hill,14,,17.9333333,-76.5
+jm,foremost,Foremost,15,,18.25,-77.7
+jm,forest,Forest,09,,18.3833333,-77.2333333
+jm,fornbrook,Fornbrook,16,,18.2833333,-77.9333333
+jm,fort charles,Fort Charles,11,,17.9166667,-77.8
+jm,fort george,Fort George,01,,18.2,-77.2166667
+jm,fort george,Fort George,08,,18.0833333,-76.8
+jm,fort george,Fort George,13,,18.2333333,-76.7833333
+jm,fort henderson,Fort Henderson,10,,17.95,-76.8833333
+jm,fort stewart,Fort Stewart,13,,18.2333333,-76.7333333
+jm,fort william,Fort William,16,,18.3,-78.0666667
+jm,four feet,Four Feet,14,,18.0,-76.3833333
+jm,four mile,Four Mile,08,,18.0,-76.8333333
+jm,four paths,Four Paths,01,,17.9666667,-77.3
+jm,four roads,Four Roads,08,,18.0166667,-76.8166667
+jm,frankfield,Frankfield,01,,18.15,-77.3666667
+jm,freefield,Freefield,07,,18.2,-76.7
+jm,freefield,Freefield,09,,18.4,-77.3833333
+jm,free hill,Free Hill,13,,18.35,-76.9333333
+jm,free people,Free People,01,,17.9333333,-77.2166667
+jm,freetown,Freetown,01,,17.9,-77.15
+jm,free town,Free Town,04,,17.9,-77.4166667
+jm,free town,Free Town,10,,18.15,-76.8833333
+jm,french land,French Land,09,,18.3333333,-77.2833333
+jm,frenchman,Frenchman,11,,18.0666667,-77.8
+jm,frenchmans hill,Frenchmans Hill,10,,18.0166667,-77.0333333
+jm,french park,French Park,04,,17.9833333,-77.55
+jm,french pen,French Pen,10,,17.95,-76.9666667
+jm,friendship,Friendship,01,,18.1166667,-77.2666667
+jm,friendship,Friendship,02,,18.4333333,-78.0333333
+jm,friendship,Friendship,07,,17.8666667,-76.4333333
+jm,friendship,Friendship,08,,18.0333333,-76.7666667
+jm,friendship,Friendship,09,,18.2666667,-77.15
+jm,friendship,Friendship,10,,18.0166667,-76.9833333
+jm,friendship,Friendship,11,,17.9833333,-77.65
+jm,friendship,Friendship,13,,18.3166667,-76.85
+jm,friendship,Friendship,14,,18.0166667,-76.6166667
+jm,friendship,Friendship,16,,18.3,-78.1
+jm,friendship grove,Friendship Grove,02,,18.4333333,-78.0333333
+jm,friendship valley,Friendship Valley,07,,18.05,-76.3333333
+jm,frome,Frome,16,,18.3,-78.15
+jm,frontier,Frontier,13,,18.3666667,-76.8833333
+jm,fruitful vale,Fruitful Vale,07,,18.15,-76.55
+jm,fullerfield chapel,Fullerfield Chapel,16,,18.2833333,-78.2166667
+jm,fullersfield chapel,Fullersfield Chapel,16,,18.2833333,-78.2166667
+jm,fullerswood beach,Fullerswood Beach,11,,17.9833333,-77.8
+jm,fullerswood,Fullerswood,11,,17.9833333,-77.8
+jm,fullerswood park,Fullerswood Park,11,,17.9833333,-77.7833333
+jm,fullerwood park,Fullerwood Park,11,,17.9833333,-77.7833333
+jm,fustic grove,Fustic Grove,11,,18.0666667,-77.9333333
+jm,fyffes,Fyffes,11,,18.0666667,-77.8833333
+jm,fyffes pen,Fyffes Pen,11,,18.0666667,-77.8833333
+jm,gales valley,Gales Valley,15,,18.4166667,-77.75
+jm,galway,Galway,04,,18.0833333,-77.6
+jm,garland grove,Garland Grove,07,,18.1,-76.4833333
+jm,garlands,Garlands,10,,18.05,-76.9833333
+jm,garlands,Garlands,12,,18.3,-77.8333333
+jm,gayle,Gayle,13,,18.3166667,-77.0166667
+jm,gayle village,Gayle Village,13,,18.3166667,-77.0166667
+jm,gazeland,Gazeland,11,,17.95,-77.6
+jm,geneva,Geneva,11,,17.9333333,-77.7333333
+jm,geneva,Geneva,16,,18.3,-78.1833333
+jm,george fort,George Fort,01,,18.2,-77.2166667
+jm,georges plain,Georges Plain,16,,18.2666667,-78.1333333
+jm,georges valley,Georges Valley,11,,18.1,-77.6333333
+jm,georges valley,Georges Valley,15,,18.4666667,-77.7166667
+jm,georgia,Georgia,02,,18.4166667,-78.1333333
+jm,georgia,Georgia,13,,18.2333333,-76.8166667
+jm,georgia,Georgia,15,,18.45,-77.5333333
+jm,giblatore,Giblatore,10,,18.0833333,-77.0166667
+jm,gibraltar,Gibraltar,09,,18.2333333,-77.15
+jm,gibraltar,Gibraltar,10,,18.0833333,-77.0166667
+jm,giddy hall,Giddy Hall,11,,18.1,-77.8833333
+jm,gilnock,Gilnock,11,,18.05,-77.65
+jm,gilnock hall,Gilnock Hall,11,,18.05,-77.65
+jm,gilsbro,Gilsbro,12,,18.4333333,-77.8166667
+jm,ginger hill,Ginger Hill,11,,18.2166667,-77.8666667
+jm,ginger house,Ginger House,07,,18.05,-76.4166667
+jm,ginger ridge,Ginger Ridge,10,,18.0666667,-77.1666667
+jm,glasgow,Glasgow,12,,18.45,-77.8
+jm,glasgow,Glasgow,14,,17.95,-76.4333333
+jm,glasgow,Glasgow,16,,18.35,-78.2166667
+jm,glebe farm,Glebe Farm,08,,18.0333333,-76.8166667
+jm,glendevon,Glendevon,12,,18.4833333,-77.9
+jm,glenfield pen,Glenfield Pen,09,,18.2666667,-77.2
+jm,glengoffe,Glengoffe,10,,18.15,-76.8833333
+jm,glenisla,Glenisla,16,,18.3166667,-78.0666667
+jm,glen islay,Glen Islay,16,,18.3166667,-78.0666667
+jm,glenisley,Glenisley,16,,18.3166667,-78.0666667
+jm,glenroy,Glenroy,01,,17.9666667,-77.2833333
+jm,globe mountains,Globe Mountains,11,,18.0666667,-77.8833333
+jm,gloster,Gloster,01,,18.0833333,-77.3833333
+jm,gloster,Gloster,09,,18.25,-77.05
+jm,gloster hall,Gloster Hall,09,,18.25,-77.05
+jm,gloucester hall,Gloucester Hall,09,,18.25,-77.05
+jm,goat island,Goat Island,15,,18.2666667,-77.55
+jm,godfreys,Godfreys,10,,18.2333333,-77.0166667
+jm,gods well,Gods Well,04,,17.8666667,-77.4
+jm,golden,Golden,09,,18.3833333,-77.2
+jm,golden grove,Golden Grove,02,,18.35,-78.0333333
+jm,golden grove,Golden Grove,09,,18.2333333,-77.1833333
+jm,golden grove,Golden Grove,10,,18.2333333,-76.9666667
+jm,golden grove,Golden Grove,14,,17.9166667,-76.2666667
+jm,golden spring,Golden Spring,08,,18.1,-76.8
+jm,golden vale,Golden Vale,07,,18.1333333,-76.4666667
+jm,goldsons corner,Goldsons Corner,16,,18.2166667,-78.2333333
+jm,good design,Good Design,09,,18.2833333,-77.0666667
+jm,good design,Good Design,15,,18.3833333,-77.55
+jm,good endeavour,Good Endeavour,01,,18.1,-77.35
+jm,good hope,Good Hope,08,,17.9833333,-76.7
+jm,good hope,Good Hope,10,,18.1666667,-76.9666667
+jm,good hope,Good Hope,15,,18.4166667,-77.6833333
+jm,good hope,Good Hope,16,,18.25,-78.35
+jm,good hope house,Good Hope House,15,,18.4166667,-77.6833333
+jm,goods pen,Goods Pen,10,,17.9666667,-76.9666667
+jm,goodwill,Goodwill,12,,18.4666667,-77.75
+jm,gordons store,Gordons Store,01,,17.9666667,-77.1833333
+jm,gordon town,Gordon Town,08,,18.0333333,-76.7166667
+jm,goshen farm,Goshen Farm,10,,17.95,-76.9166667
+jm,goshen,Goshen,01,,18.0166667,-77.3166667
+jm,goshen,Goshen,09,,18.3,-77.05
+jm,goshen,Goshen,10,,17.95,-76.9166667
+jm,goshen pen,Goshen Pen,10,,17.95,-76.9166667
+jm,goulbourne,Goulbourne,01,,17.95,-77.35
+jm,goulbournes,Goulbournes,01,,17.95,-77.35
+jm,government park,Government Park,10,,17.95,-76.9333333
+jm,government park pen,Government Park Pen,10,,17.95,-76.9333333
+jm,government pen,Government Pen,10,,17.95,-76.9333333
+jm,gowrie,Gowrie,01,,17.8333333,-77.2833333
+jm,graig mill,Graig Mill,07,,18.2166667,-76.6833333
+jm,grand cairo,Grand Cairo,09,,18.3166667,-77.4
+jm,grandvale,Grandvale,16,,18.1,-77.9333333
+jm,grange,Grange,02,,18.3666667,-78.2333333
+jm,grange,Grange,16,,18.3333333,-78.0666667
+jm,grange hill,Grange Hill,16,,18.3,-78.1833333
+jm,grange park,Grange Park,09,,18.3333333,-77.1333333
+jm,gran hill,Gran Hill,16,,18.3,-78.1833333
+jm,grantham,Grantham,01,,18.15,-77.4
+jm,grantham,Grantham,10,,18.1166667,-76.8833333
+jm,grantham,Grantham,13,,18.2666667,-76.8833333
+jm,grantham valley,Grantham Valley,10,,18.1166667,-76.8833333
+jm,grants pen,Grants Pen,08,,18.0333333,-76.7833333
+jm,grasmond,Grasmond,11,,18.0666667,-77.65
+jm,gravel hill,Gravel Hill,04,,17.9,-77.35
+jm,grays inn estate,Grays Inn Estate,13,,18.2666667,-76.7833333
+jm,grays inn,Grays Inn,13,,18.2666667,-76.7833333
+jm,great cashoo,Great Cashoo,11,,18.0666667,-77.7833333
+jm,great pond,Great Pond,09,,18.4,-77.1
+jm,great salt pond pen,Great Salt Pond Pen,10,,17.95,-76.9333333
+jm,great valley,Great Valley,02,,18.4,-78.0666667
+jm,great valley,Great Valley,04,,17.8833333,-77.5166667
+jm,green castle,Green Castle,09,,18.4333333,-77.3
+jm,greencastle,Greencastle,10,,17.95,-76.8833333
+jm,green castle,Green Castle,13,,18.2833333,-76.8166667
+jm,green castle,Green Castle,14,,17.9166667,-76.3166667
+jm,greenfield,Greenfield,15,,18.45,-77.6166667
+jm,green hill,Green Hill,07,,18.0833333,-76.7166667
+jm,green hill,Green Hill,09,,18.3166667,-77.35
+jm,green hills,Green Hills,07,,18.0833333,-76.7166667
+jm,green island,Green Island,02,,18.4,-78.2833333
+jm,greenland,Greenland,02,,18.4166667,-78.1833333
+jm,greenock,Greenock,01,,18.2,-77.3666667
+jm,green park,Green Park,01,,18.0333333,-77.35
+jm,green park,Green Park,09,,18.35,-77.1833333
+jm,green park,Green Park,15,,18.4666667,-77.7
+jm,green pond,Green Pond,04,,17.9833333,-77.4333333
+jm,green pond,Green Pond,12,,18.4666667,-77.8666667
+jm,green river,Green River,02,,18.3666667,-78.25
+jm,green rossfield isle,Green Rossfield Isle,14,,17.9666667,-76.55
+jm,green ross field isles,Green Ross Field Isles,14,,17.9666667,-76.55
+jm,green vale,Green Vale,04,,17.95,-77.45
+jm,greenvale,Greenvale,04,,18.0333333,-77.5333333
+jm,green walk,Green Walk,09,,18.3333333,-77.1
+jm,greenwich camp,Greenwich Camp,08,,18.0666667,-76.7333333
+jm,greenwich,Greenwich,01,,17.8,-77.2666667
+jm,greenwich,Greenwich,08,,18.0666667,-76.7333333
+jm,greenwich,Greenwich,10,,18.1166667,-77.0166667
+jm,greenwich,Greenwich,16,,18.2833333,-78.0833333
+jm,greenwich house,Greenwich House,02,,18.3166667,-77.9333333
+jm,greenwich town,Greenwich Town,08,,17.9666667,-76.8166667
+jm,greenwick,Greenwick,01,,17.8,-77.2666667
+jm,greenwicki,Greenwicki,01,,17.8,-77.2666667
+jm,greenwood,Greenwood,13,,18.3833333,-76.9666667
+jm,gregory park,Gregory Park,10,,17.9833333,-76.8833333
+jm,gregory park pen,Gregory Park Pen,10,,17.9833333,-76.8833333
+jm,greys inn,Greys Inn,13,,18.2666667,-76.7833333
+jm,grierfield,Grierfield,09,,18.2666667,-77.1333333
+jm,grier park,Grier Park,09,,18.2833333,-77.1833333
+jm,grimett,Grimett,01,,17.85,-77.3166667
+jm,grimmetts,Grimmetts,01,,17.85,-77.3166667
+jm,grossett,Grossett,14,,17.9333333,-76.35
+jm,grossett village,Grossett Village,14,,17.9333333,-76.35
+jm,grove,Grove,02,,18.4333333,-78.0333333
+jm,grove,Grove,08,,18.0333333,-76.7333333
+jm,grove place,Grove Place,04,,18.1166667,-77.5166667
+jm,grove town,Grove Town,04,,17.8833333,-77.4666667
+jm,guanaboa,Guanaboa,10,,18.0333333,-77.0666667
+jm,guanaboa vale,Guanaboa Vale,10,,18.0333333,-77.0666667
+jm,guava ridge,Guava Ridge,08,,18.0166667,-76.6833333
+jm,guilsboro,Guilsboro,12,,18.4333333,-77.8166667
+jm,guilsbro,Guilsbro,12,,18.4166667,-77.8
+jm,guinea corn,Guinea Corn,01,,18.15,-77.3666667
+jm,gunters hill,Gunters Hill,01,,17.8833333,-77.3333333
+jm,gutters,Gutters,11,,18.0166667,-77.6
+jm,guys hill,Guys Hill,10,,18.25,-77.0
+jm,haddersfield,Haddersfield,13,,18.4,-77.0166667
+jm,haddington,Haddington,02,,18.4166667,-78.0
+jm,haddon,Haddon,09,,18.3,-77.1
+jm,hagley gap,Hagley Gap,14,,18.0,-76.6166667
+jm,halberstadt,Halberstadt,08,,17.9666667,-76.6666667
+jm,halberstadt house,Halberstadt House,08,,17.9666667,-76.6666667
+jm,half way tree,Half Way Tree,08,18552,18.0,-76.8
+jm,halifax,Halifax,04,,18.15,-77.55
+jm,halifax,Halifax,13,,18.2833333,-77.0333333
+jm,hall head,Hall Head,14,,17.9166667,-76.4666667
+jm,halls delight,Halls Delight,08,,18.05,-76.6666667
+jm,hallsfield,Hallsfield,09,,18.3666667,-77.0833333
+jm,halse hall,Halse Hall,01,,17.9166667,-77.25
+jm,halsey hall,Halsey Hall,01,,17.9166667,-77.25
+jm,haltsfield,Haltsfield,09,,18.3666667,-77.0833333
+jm,hamilton pen,Hamilton Pen,01,,17.9666667,-77.3166667
+jm,hampden,Hampden,12,,18.4333333,-77.75
+jm,hampstead,Hampstead,13,,18.3,-76.9166667
+jm,hampstead,Hampstead,15,,18.4166667,-77.6333333
+jm,hampton court,Hampton Court,14,,17.9,-76.2666667
+jm,hampton,Hampton,09,,18.4666667,-77.3
+jm,hampton,Hampton,11,,17.95,-77.7
+jm,hampton,Hampton,12,,18.3833333,-77.8666667
+jm,ham walk,Ham Walk,10,,18.2166667,-76.95
+jm,hanbury,Hanbury,04,,18.0666667,-77.4833333
+jm,hanover,Hanover,04,,17.9666667,-77.55
+jm,hansons,Hansons,04,,18.1833333,-77.5
+jm,happy grove,Happy Grove,07,,18.0,-76.2666667
+jm,happy grove,Happy Grove,08,,18.0333333,-76.8666667
+jm,happy grove,Happy Grove,11,,18.1333333,-77.8833333
+jm,happy retreat,Happy Retreat,09,,18.3666667,-77.1
+jm,harbor head,Harbor Head,14,,17.9,-76.3166667
+jm,harbour head,Harbour Head,14,,17.9,-76.3166667
+jm,harbour view,Harbour View,08,,17.95,-76.7166667
+jm,hard bargain,Hard Bargain,13,,18.4,-77.0333333
+jm,hardley,Hardley,14,,17.95,-76.2666667
+jm,harewood hall,Harewood Hall,10,,18.1833333,-76.95
+jm,harewood,Harewood,01,,17.95,-77.2666667
+jm,harewood,Harewood,10,,18.1833333,-76.95
+jm,harmons,Harmons,04,,17.9666667,-77.4333333
+jm,harmony hall,Harmony Hall,01,,17.7666667,-77.2166667
+jm,harmony hall,Harmony Hall,13,,18.2833333,-76.8833333
+jm,harmony hall,Harmony Hall,15,,18.4666667,-77.5166667
+jm,harmony hall pen,Harmony Hall Pen,01,,17.7666667,-77.2166667
+jm,harmony hill,Harmony Hill,01,,17.7833333,-77.2666667
+jm,harmony hill,Harmony Hill,09,,18.3166667,-77.15
+jm,harmony vale,Harmony Vale,09,,18.2666667,-77.2
+jm,harry watch,Harry Watch,04,,18.1666667,-77.5666667
+jm,hartford,Hartford,16,,18.25,-78.0833333
+jm,hart hill,Hart Hill,07,,18.2333333,-76.6833333
+jm,hatchfield,Hatchfield,01,,17.9833333,-77.2333333
+jm,hatfield,Hatfield,04,,18.0333333,-77.5333333
+jm,haughton court,Haughton Court,02,,18.4333333,-78.2166667
+jm,haughton grove,Haughton Grove,02,,18.3333333,-77.9833333
+jm,haughton hall,Haughton Hall,02,,18.3833333,-78.2833333
+jm,haughton,Haughton,11,,18.1,-77.75
+jm,hayes,Hayes,01,,17.8666667,-77.2333333
+jm,hayfield,Hayfield,07,,18.2,-76.5333333
+jm,hayfield,Hayfield,10,,18.1833333,-77.0666667
+jm,hazard,Hazard,01,,17.95,-77.2166667
+jm,hazel grove,Hazel Grove,11,,18.1333333,-77.8833333
+jm,healthfield,Healthfield,01,,17.8166667,-77.2833333
+jm,healthfield,Healthfield,10,,18.1333333,-77.0333333
+jm,heart ease,Heart Ease,14,,17.8833333,-76.5833333
+jm,heartherfield,Heartherfield,01,,18.0333333,-77.3333333
+jm,hearts ease,Hearts Ease,14,,17.8833333,-76.5833333
+jm,heathfield,Heathfield,01,,17.8166667,-77.2833333
+jm,heathfield,Heathfield,10,,18.1333333,-77.0333333
+jm,heavitree,Heavitree,04,,18.1833333,-77.5666667
+jm,heawtree,Heawtree,04,,18.1833333,-77.5666667
+jm,hectors river,Hectors River,07,,18.0,-76.25
+jm,helicon,Helicon,09,,18.45,-77.4
+jm,hendley,Hendley,01,,18.0833333,-77.2
+jm,hermitage,Hermitage,04,,17.9166667,-77.45
+jm,hermitage,Hermitage,11,,17.9333333,-77.7
+jm,hermitage,Hermitage,12,,18.2666667,-77.8833333
+jm,hermitage house,Hermitage House,11,,17.9333333,-77.7
+jm,hertford,Hertford,16,,18.25,-78.0833333
+jm,hesse cassel,Hesse Cassel,09,,18.2666667,-77.3
+jm,heywood hall,Heywood Hall,13,,18.3166667,-76.8833333
+jm,hiattsfield,Hiattsfield,09,,18.3666667,-77.0833333
+jm,hibernia,Hibernia,04,,18.15,-77.5666667
+jm,higgins town,Higgins Town,09,,18.3833333,-77.2166667
+jm,higgin town,Higgin Town,09,,18.3833333,-77.2166667
+jm,highgate,Highgate,10,,18.0833333,-76.95
+jm,highgate,Highgate,13,,18.2666667,-76.8833333
+jm,highgate park,Highgate Park,10,,18.0833333,-76.95
+jm,highgate village,Highgate Village,13,,18.2666667,-76.8833333
+jm,highland castle,Highland Castle,14,,17.9166667,-76.4333333
+jm,hillsborough,Hillsborough,08,,18.0833333,-76.8833333
+jm,hillside,Hillside,01,,17.8333333,-77.2166667
+jm,hillside,Hillside,14,,17.9666667,-76.4833333
+jm,hill top,Hill Top,11,,17.95,-77.8166667
+jm,hinds town,Hinds Town,09,,18.35,-77.1166667
+jm,hodges,Hodges,11,,18.05,-77.8833333
+jm,hog hole,Hog Hole,04,,17.95,-77.4333333
+jm,hog hole,Hog Hole,10,,18.0166667,-76.9833333
+jm,holland,Holland,11,,18.1,-77.8166667
+jm,holland,Holland,14,,17.95,-76.2333333
+jm,holland moro,Holland Moro,14,,17.9666667,-76.2666667
+jm,holland park,Holland Park,14,,17.9666667,-76.2666667
+jm,holyland corner,Holyland Corner,01,,18.1,-77.4
+jm,home castle,Home Castle,09,,18.4166667,-77.4166667
+jm,hope bay,Hope Bay,07,,18.2,-76.5666667
+jm,hopefield,Hopefield,07,,18.2,-76.5666667
+jm,hope gardens,Hope Gardens,08,,18.0333333,-76.75
+jm,hope hall,Hope Hall,02,,18.4166667,-78.1833333
+jm,hope,Hope,01,,18.0166667,-77.35
+jm,hope,Hope,04,,17.9833333,-77.55
+jm,hope,Hope,07,,18.2,-76.5666667
+jm,hope,Hope,08,,18.0333333,-76.75
+jm,hope,Hope,10,,18.0333333,-77.0166667
+jm,hopehouse,Hopehouse,08,,18.0333333,-76.75
+jm,hope maxhams,Hope Maxhams,10,,18.0333333,-77.0166667
+jm,hope pastures,Hope Pastures,08,,18.0166667,-76.75
+jm,hopeton,Hopeton,07,,18.1833333,-76.7
+jm,hopeton,Hopeton,11,,17.9666667,-77.6666667
+jm,hopeton,Hopeton,12,,18.3833333,-77.8833333
+jm,hopeton,Hopeton,16,,18.15,-77.95
+jm,hopeton house,Hopeton House,16,,18.15,-77.95
+jm,hopewell hall,Hopewell Hall,14,,17.9333333,-76.3333333
+jm,hopewell,Hopewell,01,,17.9333333,-77.3
+jm,hopewell,Hopewell,02,,18.4333333,-78.1333333
+jm,hopewell,Hopewell,04,,17.9333333,-77.4333333
+jm,hopewell,Hopewell,08,,18.05,-76.7166667
+jm,hopewell,Hopewell,09,,18.3333333,-77.1
+jm,hopewell,Hopewell,11,,17.95,-77.7833333
+jm,hopewell,Hopewell,16,,18.25,-78.3
+jm,hordley,Hordley,14,,17.95,-76.2666667
+jm,houghton,Houghton,11,,18.1,-77.75
+jm,huddersfield,Huddersfield,13,,18.4,-77.0166667
+jm,huntley,Huntley,04,,18.0666667,-77.5833333
+jm,huntley,Huntley,09,,18.4,-77.3666667
+jm,huntley,Huntley,14,,17.9333333,-76.4833333
+jm,huntley pen,Huntley Pen,09,,18.4,-77.3666667
+jm,huntley village,Huntley Village,09,,18.3833333,-77.3666667
+jm,huntly,Huntly,04,,18.0666667,-77.5833333
+jm,hunts pen,Hunts Pen,01,,17.9166667,-77.2166667
+jm,huntstown,Huntstown,13,,18.35,-76.9666667
+jm,hutchensons hale,Hutchensons Hale,09,,18.25,-77.2166667
+jm,hutchensons hole,Hutchensons Hole,09,,18.25,-77.2166667
+jm,hutchensons turret,Hutchensons Turret,09,,18.2666667,-77.2166667
+jm,hyde and gibraltar,Hyde and Gibraltar,15,,18.4,-77.55
+jm,hyde hall,Hyde Hall,15,,18.4333333,-77.5666667
+jm,hyde,Hyde,15,,18.4,-77.55
+jm,indian town,Indian Town,04,,17.8666667,-77.55
+jm,industry,Industry,01,,18.1333333,-77.4
+jm,industry,Industry,07,,18.1666667,-76.5333333
+jm,industry,Industry,09,,18.3833333,-77.25
+jm,industry,Industry,12,,18.4333333,-77.8
+jm,innswood,Innswood,10,,17.9833333,-77.0333333
+jm,inter boreale,Inter Boreale,13,,18.2666667,-76.7333333
+jm,inverness,Inverness,01,,17.9166667,-77.1666667
+jm,inverness,Inverness,09,,18.2833333,-77.35
+jm,ipswich,Ipswich,07,,18.2166667,-76.7
+jm,ipswich,Ipswich,11,,18.2,-77.8333333
+jm,irish town,Irish Town,08,,18.05,-76.7166667
+jm,ironshore,Ironshore,12,,18.5166667,-77.8666667
+jm,irwin,Irwin,12,,18.45,-77.8833333
+jm,isle,Isle,04,,17.95,-77.5333333
+jm,isles,Isles,04,,17.95,-77.5333333
+jm,islington,Islington,07,,18.1333333,-76.35
+jm,islington,Islington,09,,18.35,-77.1333333
+jm,islington,Islington,13,,18.3,-76.85
+jm,iter boreale,Iter Boreale,13,,18.2666667,-76.7333333
+jm,iver cottage,Iver Cottage,11,,17.9666667,-77.7166667
+jm,iver,Iver,11,,17.9666667,-77.7166667
+jm,ivy mount,Ivy Mount,10,,18.2,-77.0833333
+jm,jack lodge,Jack Lodge,13,,18.3833333,-76.95
+jm,jack monday,Jack Monday,01,,17.9666667,-77.2666667
+jm,jack river,Jack River,13,,18.3833333,-76.95
+jm,jacks hill,Jacks Hill,08,,18.05,-76.75
+jm,jacks lodge,Jacks Lodge,09,,18.2666667,-77.3333333
+jm,jacksons bay,Jacksons Bay,01,,17.7333333,-77.2333333
+jm,jackson's village,Jackson's Village,10,,18.1,-76.9666667
+jm,jackson town,Jackson Town,15,,18.4166667,-77.4833333
+jm,jackson village,Jackson Village,10,,18.1,-76.9666667
+jm,jacks river,Jacks River,13,,18.3833333,-76.95
+jm,jacks rock,Jacks Rock,13,,18.2666667,-76.8
+jm,james hill,James Hill,01,,18.1833333,-77.35
+jm,jane marks,Jane Marks,16,,18.2666667,-78.1333333
+jm,jane marks village,Jane Marks Village,16,,18.2666667,-78.1333333
+jm,java,Java,04,,17.9333333,-77.4666667
+jm,jefferey town,Jefferey Town,13,,18.2833333,-77.0166667
+jm,jeffrey town,Jeffrey Town,13,,18.2833333,-77.0166667
+jm,jericho,Jericho,02,,18.4166667,-78.1333333
+jm,jericho,Jericho,10,,18.15,-77.05
+jm,jericho,Jericho,12,,18.3333333,-77.85
+jm,jerusalem,Jerusalem,16,,18.3166667,-78.2333333
+jm,jew hill,Jew Hill,02,,18.4333333,-78.15
+jm,johns hall,Johns Hall,01,,18.1666667,-77.3666667
+jm,johns hall,Johns Hall,04,,18.1166667,-77.5833333
+jm,johns hall,Johns Hall,07,,18.1,-76.45
+jm,johns hall,Johns Hall,09,,18.3,-77.4
+jm,johns hall,Johns Hall,12,,18.4166667,-77.8666667
+jm,johns lodge,Johns Lodge,11,,17.9666667,-77.7333333
+jm,johnson mountain,Johnson Mountain,14,,17.9666667,-76.3166667
+jm,johnsons town,Johnsons Town,02,,18.4333333,-78.1666667
+jm,johnson town,Johnson Town,02,,18.4333333,-78.1666667
+jm,johnston pen,Johnston Pen,15,,18.4666667,-77.55
+jm,johnston town,Johnston Town,02,,18.4333333,-78.1666667
+jm,johnston village,Johnston Village,09,,18.4,-77.25
+jm,johns town,Johns Town,14,,17.8833333,-76.35
+jm,jointwood,Jointwood,11,,18.2,-77.7833333
+jm,jones moreland,Jones Moreland,02,,18.3166667,-78.2666667
+jm,jones pen,Jones Pen,10,,17.9833333,-76.9333333
+jm,jones pen,Jones Pen,16,,18.2666667,-78.3166667
+jm,jones town,Jones Town,08,,17.9833333,-76.8
+jm,junction,Junction,11,,17.9,-77.6
+jm,kan pan,Kan Pan,16,,18.2666667,-77.9166667
+jm,katram castle,Katram Castle,09,,18.25,-77.0333333
+jm,keanwood,Keanwood,04,,18.2,-77.6166667
+jm,keith,Keith,09,,18.4166667,-77.4
+jm,kellets,Kellets,01,,18.15,-77.2333333
+jm,kellits,Kellits,01,,18.15,-77.2333333
+jm,kemps hill,Kemps Hill,01,,17.85,-77.2833333
+jm,kempshot,Kempshot,02,,18.3833333,-78.1166667
+jm,kempshot,Kempshot,11,,18.0666667,-77.8666667
+jm,kencot,Kencot,08,,17.9833333,-76.8
+jm,kendal,Kendal,04,,18.0833333,-77.4833333
+jm,kennedys,Kennedys,01,,17.95,-77.2
+jm,kensington,Kensington,07,,18.1833333,-76.5833333
+jm,kensington,Kensington,09,,18.3333333,-77.3333333
+jm,kensington,Kensington,11,,17.9,-77.65
+jm,kentish,Kentish,10,,18.1,-77.15
+jm,kent,Kent,15,,18.4666667,-77.7333333
+jm,kent village,Kent Village,10,,18.0833333,-76.9833333
+jm,kepham,Kepham,16,,18.25,-78.0333333
+jm,keppoch,Keppoch,09,,18.3166667,-77.3833333
+jm,ketering,Ketering,15,,18.4666667,-77.5333333
+jm,kettering,Kettering,15,,18.4666667,-77.5333333
+jm,kew,Kew,02,,18.4333333,-78.15
+jm,kew,Kew,07,,18.1666667,-76.6666667
+jm,kew park,Kew Park,16,,18.2833333,-77.9333333
+jm,kilbies,Kilbies,10,,17.95,-77.0666667
+jm,kildare,Kildare,07,,18.2333333,-76.65
+jm,kildare,Kildare,11,,17.9666667,-77.75
+jm,kilmarnoch,Kilmarnoch,11,,18.1166667,-77.9166667
+jm,kilmorey,Kilmorey,11,,18.05,-77.9
+jm,kings,Kings,16,,18.0833333,-77.9666667
+jm,kings pen,Kings Pen,16,,18.0833333,-77.9666667
+jm,kingston,Kingston,08,583999,18.0,-76.8
+jm,kingsvale,Kingsvale,02,,18.3833333,-78.2166667
+jm,kings valley,Kings Valley,16,,18.3166667,-78.2
+jm,kingswood,Kingswood,16,,18.2333333,-78.1333333
+jm,kingwood,Kingwood,16,,18.2333333,-78.1333333
+jm,kinloss,Kinloss,15,,18.4,-77.5666667
+jm,kinloss village,Kinloss Village,15,,18.4,-77.5666667
+jm,kirklands,Kirklands,08,,18.05,-76.8333333
+jm,kirkpatrick hall,Kirkpatrick Hall,12,,18.45,-77.8333333
+jm,kitson town,Kitson Town,10,,18.0166667,-77.05
+jm,knapdale,Knapdale,09,,18.4,-77.3333333
+jm,knibbs pen,Knibbs Pen,10,,17.9833333,-76.9833333
+jm,knights,Knights,01,,17.7833333,-77.3
+jm,knockalva,Knockalva,02,,18.3166667,-77.9833333
+jm,knockpatrick,Knockpatrick,04,,18.0,-77.5166667
+jm,knollis,Knollis,10,,18.1166667,-76.9833333
+jm,knowles,Knowles,10,,18.1166667,-76.9833333
+jm,knutsford,Knutsford,09,,18.35,-77.3666667
+jm,koeningsburg,Koeningsburg,13,,18.2333333,-76.8666667
+jm,konigsberg,Konigsberg,13,,18.2333333,-76.8666667
+jm,konigsburgh,Konigsburgh,13,,18.2333333,-76.8666667
+jm,konigsburg,Konigsburg,13,,18.2333333,-76.8666667
+jm,koningsbergh,Koningsbergh,13,,18.2333333,-76.8666667
+jm,koningsberg,Koningsberg,13,,18.2333333,-76.8666667
+jm,koningsburgh,Koningsburgh,13,,18.2333333,-76.8666667
+jm,kupuis,Kupuis,01,,18.1166667,-77.3
+jm,labyrinth,Labyrinth,13,,18.35,-77.0333333
+jm,lacovia,Lacovia,11,,18.0666667,-77.75
+jm,lacovia tombstone,Lacovia Tombstone,11,,18.0666667,-77.7666667
+jm,lakelands,Lakelands,08,,17.95,-76.7
+jm,lambs river,Lambs River,16,,18.25,-77.9166667
+jm,lancaster,Lancaster,04,,17.9333333,-77.4666667
+jm,lancaster,Lancaster,11,,18.1166667,-77.6333333
+jm,lancaster,Lancaster,15,,18.4666667,-77.5166667
+jm,lances bay,Lances Bay,02,,18.4333333,-78.2166667
+jm,lances bay pen,Lances Bay Pen,02,,18.4333333,-78.2166667
+jm,lance wood valley,Lance Wood Valley,01,,17.9333333,-77.1833333
+jm,langley,Langley,13,,18.3166667,-76.9166667
+jm,las chorreras,Las Chorreras,09,,18.4166667,-77.1166667
+jm,laughland,Laughland,09,,18.4666667,-77.2666667
+jm,laughlands,Laughlands,09,,18.4666667,-77.2666667
+jm,lawrence mocho,Lawrence Mocho,01,,18.05,-77.35
+jm,lawrence tavern,Lawrence Tavern,08,,18.1166667,-76.85
+jm,leagon,Leagon,12,,18.4666667,-77.8333333
+jm,leamington,Leamington,16,,18.2,-77.9333333
+jm,lebanon,Lebanon,08,,18.05,-76.7
+jm,leeds,Leeds,11,,18.0166667,-77.7
+jm,leicesterfield,Leicesterfield,01,,18.1333333,-77.3833333
+jm,leicesterfields,Leicesterfields,01,,18.1333333,-77.3833333
+jm,leith hall,Leith Hall,14,,17.8666667,-76.3333333
+jm,lelitz,Lelitz,11,,17.9166667,-77.6
+jm,lennansville,Lennansville,10,,17.9333333,-77.1166667
+jm,lennox,Lennox,07,,18.2166667,-76.6
+jm,lennox,Lennox,16,,18.1833333,-77.95
+jm,lenox,Lenox,07,,18.2166667,-76.6
+jm,lenox,Lenox,16,,18.1833333,-77.95
+jm,leogan,Leogan,12,,18.4666667,-77.8333333
+jm,lethe,Lethe,02,,18.4,-77.9666667
+jm,letitz,Letitz,11,,17.9166667,-77.6
+jm,lewis,Lewis,09,,18.4333333,-77.2333333
+jm,lewis store,Lewis Store,13,,18.2333333,-76.8333333
+jm,lewis town,Lewis Town,11,,18.05,-77.9
+jm,leyton valley,Leyton Valley,07,,18.2333333,-76.6166667
+jm,lianrunney,Lianrunney,13,,18.3333333,-76.9
+jm,liberty castle,Liberty Castle,13,,18.4166667,-76.95
+jm,liberty hill,Liberty Hill,01,,17.7666667,-77.2333333
+jm,liberty valley,Liberty Valley,09,,18.4,-77.3666667
+jm,lichfield,Lichfield,15,,18.25,-77.5
+jm,liguanea,Liguanea,08,,18.0166667,-76.7666667
+jm,lilitz,Lilitz,11,,17.9166667,-77.6
+jm,lilliput,Lilliput,11,,18.15,-77.6333333
+jm,lima,Lima,12,,18.45,-77.7833333
+jm,lime hall,Lime Hall,01,,18.0666667,-77.2
+jm,lime hall,Lime Hall,09,,18.4,-77.2
+jm,lime tree garden,Lime Tree Garden,09,,18.3333333,-77.4
+jm,limetree valley,Limetree Valley,09,,18.3,-77.2166667
+jm,lincoln,Lincoln,04,,18.0333333,-77.5666667
+jm,lindale,Lindale,09,,18.3833333,-77.4
+jm,lindale pen,Lindale Pen,09,,18.3833333,-77.4
+jm,lindos gap,Lindos Gap,08,,17.9833333,-76.7166667
+jm,linstead,Linstead,10,,18.1333333,-77.0333333
+jm,lionel town,Lionel Town,01,,17.8,-77.2333333
+jm,litchfield,Litchfield,15,,18.25,-77.5
+jm,lititz,Lititz,11,,17.9166667,-77.6
+jm,little angels,Little Angels,10,,18.0666667,-76.9666667
+jm,little angles,Little Angles,10,,18.0666667,-76.9666667
+jm,little bay,Little Bay,16,,18.2166667,-78.2666667
+jm,little broughton,Little Broughton,16,,18.2166667,-78.2333333
+jm,little ease,Little Ease,15,,18.4666667,-77.6333333
+jm,little london,Little London,16,,18.25,-78.2166667
+jm,little mountain,Little Mountain,04,,17.9,-77.3833333
+jm,little park,Little Park,11,,17.9,-77.7333333
+jm,little river,Little River,12,,18.5333333,-77.8166667
+jm,little spring garden,Little Spring Garden,07,,18.1833333,-76.5333333
+jm,llanaillo,Llanaillo,16,,18.2166667,-78.15
+jm,llandewey,Llandewey,14,,17.95,-76.6166667
+jm,llandillo,Llandillo,16,,18.2166667,-78.15
+jm,llandilo,Llandilo,16,,18.2166667,-78.15
+jm,llandovery,Llandovery,09,,18.4666667,-77.2666667
+jm,llanoilo,Llanoilo,16,,18.2166667,-78.15
+jm,llanrumney,Llanrumney,13,,18.3333333,-76.9
+jm,llanrunney,Llanrunney,13,,18.3333333,-76.9
+jm,llhandewey,Llhandewey,14,,17.95,-76.6166667
+jm,lloyds,Lloyds,14,,17.9,-76.55
+jm,lloyds pen,Lloyds Pen,14,,17.8666667,-76.5833333
+jm,lluidas vale,Lluidas Vale,10,,18.1333333,-77.15
+jm,lochaber,Lochaber,04,,18.0166667,-77.4666667
+jm,lodge bush,Lodge Bush,16,,18.3,-78.1166667
+jm,lodge,Lodge,09,,18.3833333,-77.05
+jm,logan castle,Logan Castle,10,,18.1333333,-77.0333333
+jm,logans junction,Logans Junction,01,,17.9666667,-77.2666667
+jm,logens pen,Logens Pen,10,,17.9333333,-77.1333333
+jm,logie green,Logie Green,01,,18.15,-77.4166667
+jm,logwood,Logwood,02,,18.3333333,-78.3
+jm,longacre,Longacre,11,,18.0333333,-77.9
+jm,long bay,Long Bay,07,,18.1,-76.3166667
+jm,long bay village,Long Bay Village,07,,18.1,-76.3166667
+jm,long hill,Long Hill,11,,18.0166667,-77.65
+jm,long pond,Long Pond,15,,18.4333333,-77.55
+jm,long pond pen,Long Pond Pen,16,,18.2333333,-78.2166667
+jm,longs wharf,Longs Wharf,10,,17.8833333,-77.1333333
+jm,longville,Longville,01,,18.0166667,-77.2166667
+jm,longville park,Longville Park,10,,17.9,-77.1333333
+jm,long wharf,Long Wharf,10,,17.8833333,-77.1333333
+jm,long wood,Long Wood,01,,17.8166667,-77.2833333
+jm,lookout,Lookout,11,,18.1333333,-77.6333333
+jm,look out,Look Out,13,,18.3833333,-76.9
+jm,lottery,Lottery,12,,18.4166667,-77.8166667
+jm,lottery,Lottery,15,,18.45,-77.6166667
+jm,lovers leap,Lovers Leap,11,,17.8666667,-77.65
+jm,lower esher,Lower Esher,13,,18.2666667,-76.8666667
+jm,lowe river,Lowe River,15,,18.2333333,-77.5
+jm,lower southfield,Lower Southfield,11,,17.7,-77.6833333
+jm,lower tooting,Lower Tooting,09,,18.3166667,-77.4
+jm,lower warminster,Lower Warminster,11,,17.95,-77.6333333
+jm,lowes corner,Lowes Corner,01,,17.7666667,-77.2333333
+jm,lowes pen,Lowes Pen,01,,17.9666667,-77.3666667
+jm,low ground pen,Low Ground Pen,01,,17.9666667,-77.1833333
+jm,low leyton,Low Leyton,07,,18.2166667,-76.6
+jm,lows mountain,Lows Mountain,14,,17.9166667,-76.5333333
+jm,lucea,Lucea,02,6290,18.45,-78.1666667
+jm,luck hill,Luck Hill,13,,18.3,-77.0166667
+jm,lucky hill,Lucky Hill,13,,18.3,-77.0166667
+jm,lucky hill pen,Lucky Hill Pen,13,,18.3,-77.0166667
+jm,lucky valley,Lucky Valley,01,,18.1,-77.2
+jm,lucky valley,Lucky Valley,04,,17.9666667,-77.5666667
+jm,lucky valley,Lucky Valley,09,,18.2166667,-77.1833333
+jm,ludlow,Ludlow,01,,18.1166667,-77.2
+jm,luidas vale,Luidas Vale,10,,18.1333333,-77.15
+jm,lumsdale,Lumsdale,09,,18.3666667,-77.2333333
+jm,lumsden,Lumsden,09,,18.3666667,-77.2333333
+jm,lydford,Lydford,09,,18.3166667,-77.15
+jm,lyndale,Lyndale,09,,18.3833333,-77.4
+jm,lyssons,Lyssons,14,,17.8833333,-76.3833333
+jm,macca tree,Macca Tree,10,,18.0333333,-77.1166667
+jm,macfield,Macfield,16,,18.3166667,-78.0166667
+jm,mackfield,Mackfield,16,,18.3166667,-78.0166667
+jm,maddon village,Maddon Village,12,,18.35,-77.8166667
+jm,mafield,Mafield,15,,18.4666667,-77.6833333
+jm,maggotty,Maggotty,02,,18.4166667,-78.1166667
+jm,maggotty,Maggotty,11,,18.15,-77.7666667
+jm,magotty,Magotty,02,,18.4166667,-78.1166667
+jm,mahoe garden,Mahoe Garden,01,,17.7333333,-77.1333333
+jm,mahoe gardens,Mahoe Gardens,01,,17.7333333,-77.1333333
+jm,mahoe hill,Mahoe Hill,13,,18.2,-76.8166667
+jm,mahogany hall,Mahogany Hall,15,,18.3833333,-77.4666667
+jm,mahogany vale,Mahogany Vale,14,,18.0166667,-76.6333333
+jm,mahogony hill,Mahogony Hill,15,,18.3833333,-77.4666667
+jm,maidstone,Maidstone,04,,18.1166667,-77.5833333
+jm,maidstone,Maidstone,07,,18.15,-76.5
+jm,maimsey valley,Maimsey Valley,01,,18.05,-77.2166667
+jm,maldon,Maldon,12,,18.35,-77.8166667
+jm,maldon village,Maldon Village,12,,18.35,-77.8166667
+jm,malmsey valley,Malmsey Valley,01,,18.05,-77.2166667
+jm,malton,Malton,04,,18.1833333,-77.55
+jm,malvern chase,Malvern Chase,11,,17.8833333,-77.6833333
+jm,malvern,Malvern,11,,17.9666667,-77.7
+jm,malvern park,Malvern Park,09,,18.3833333,-77.1666667
+jm,malvern well,Malvern Well,11,,17.95,-77.7333333
+jm,malvern wells,Malvern Wells,11,,17.95,-77.7333333
+jm,mambys,Mambys,08,,18.15,-76.8333333
+jm,mammee bay,Mammee Bay,09,,18.4166667,-77.1666667
+jm,manchioneal,Manchioneal,07,,18.0333333,-76.2833333
+jm,manchioneal,Manchioneal,11,,17.8833333,-77.75
+jm,mandeville,Mandeville,04,47116,18.0333333,-77.5
+jm,mango grove,Mango Grove,09,,18.3666667,-77.2333333
+jm,manhoe gardens,Manhoe Gardens,01,,17.7333333,-77.1333333
+jm,manningfield pen,Manningfield Pen,01,,17.8833333,-77.3
+jm,manningsfield,Manningsfield,01,,17.8833333,-77.3
+jm,mannings town,Mannings Town,13,,18.3666667,-76.9
+jm,mantica bahia,Mantica Bahia,12,,18.4666667,-77.9166667
+jm,marches pen,Marches Pen,10,,17.95,-76.95
+jm,march pen,March Pen,10,,17.95,-76.95
+jm,marchs pen,Marchs Pen,10,,17.95,-76.95
+jm,march town,March Town,02,,18.3333333,-78.2666667
+jm,mari bank,Mari Bank,08,,18.0333333,-76.6666667
+jm,market,Market,09,,18.2166667,-77.3666667
+jm,marlboro,Marlboro,04,,18.0,-77.5666667
+jm,marlborough castle,Marlborough Castle,07,,18.1,-76.7
+jm,marlborough,Marlborough,04,,18.0,-77.5666667
+jm,marlbro,Marlbro,04,,18.0,-77.5666667
+jm,marley hill,Marley Hill,04,,17.8666667,-77.5333333
+jm,marley,Marley,13,,18.3166667,-76.9666667
+jm,marlie hill,Marlie Hill,10,,17.95,-77.1166667
+jm,marlie,Marlie,10,,17.95,-77.1166667
+jm,marlie,Marlie,13,,18.3166667,-76.9666667
+jm,marlie mount,Marlie Mount,10,,17.95,-77.1166667
+jm,marly,Marly,10,,17.95,-77.1166667
+jm,maroon town barracks,Maroon Town Barracks,12,,18.3333333,-77.7833333
+jm,maroon town,Maroon Town,12,3643,18.35,-77.8
+jm,marshalls pen,Marshalls Pen,04,,18.05,-77.5333333
+jm,martha brae,Martha Brae,15,,18.4666667,-77.65
+jm,martin hall,Martin Hall,10,,18.0666667,-77.1333333
+jm,martins,Martins,13,,18.2833333,-76.8833333
+jm,martin village,Martin Village,13,,18.2833333,-76.8833333
+jm,mary browns corner,Mary Browns Corner,08,,18.0333333,-76.8
+jm,maryfield,Maryfield,10,,18.0166667,-77.05
+jm,maryland,Maryland,02,,18.3833333,-78.1333333
+jm,mary village,Mary Village,10,,18.1,-76.9333333
+jm,masemure,Masemure,16,,18.2666667,-78.2166667
+jm,mason hall,Mason Hall,13,,18.4,-76.9
+jm,mason,Mason,04,,18.2166667,-77.5333333
+jm,mason river,Mason River,01,,18.1833333,-77.2666667
+jm,masons run,Masons Run,04,,18.2166667,-77.5333333
+jm,mason valley,Mason Valley,08,,18.05,-76.8666667
+jm,masters,Masters,10,,18.0166667,-77.15
+jm,matildas corner,Matildas Corner,08,,18.0333333,-76.7666667
+jm,maverly,Maverly,08,,18.05,-76.8166667
+jm,maverty,Maverty,08,,18.05,-76.8166667
+jm,mavis bank,Mavis Bank,08,,18.0333333,-76.6666667
+jm,maxfield,Maxfield,15,,18.4666667,-77.6833333
+jm,mayfield,Mayfield,09,,18.2333333,-77.05
+jm,may hill,May Hill,04,,17.95,-77.5666667
+jm,may pen,May Pen,01,44757,17.9666667,-77.2333333
+jm,mearnsville,Mearnsville,16,,18.1666667,-78.0333333
+jm,mears,Mears,01,,18.05,-77.2333333
+jm,mears pen,Mears Pen,01,,18.05,-77.2333333
+jm,melrose,Melrose,07,,18.1666667,-76.6
+jm,mendes,Mendes,10,,17.9166667,-77.1
+jm,mendes pen,Mendes Pen,10,,17.9166667,-77.1
+jm,mendez hill,Mendez Hill,10,,18.0666667,-77.0833333
+jm,mendez pen,Mendez Pen,10,,17.9166667,-77.1
+jm,merrywood,Merrywood,15,,18.4666667,-77.6666667
+jm,mesopotamia,Mesopotamia,16,,18.2833333,-78.1166667
+jm,mexico,Mexico,11,,18.1666667,-77.65
+jm,meylersfield,Meylersfield,16,,18.25,-78.1833333
+jm,michleton halt,Michleton Halt,10,,18.1166667,-77.0166667
+jm,mickleton,Mickleton,10,,18.1166667,-77.0166667
+jm,middle quarters,Middle Quarters,11,,18.1,-77.8333333
+jm,middlesex,Middlesex,02,,18.4166667,-78.1833333
+jm,middlesex,Middlesex,09,,18.2333333,-77.0333333
+jm,middleton,Middleton,04,,17.9333333,-77.4333333
+jm,middleton,Middleton,08,,18.05,-76.7166667
+jm,midgeham,Midgeham,16,,18.2833333,-78.2166667
+jm,midgham,Midgham,16,,18.2833333,-78.2166667
+jm,mid leyton,Mid Leyton,07,,18.2166667,-76.6166667
+jm,milbank,Milbank,07,,18.05,-76.4
+jm,mile gully,Mile Gully,04,,18.1333333,-77.55
+jm,miles town,Miles Town,02,,18.3666667,-77.9833333
+jm,milford,Milford,09,,18.4,-77.1
+jm,milk pen,Milk Pen,01,,17.85,-77.3666667
+jm,milk river bath,Milk River Bath,01,,17.85,-77.3666667
+jm,milk river,Milk River,01,,17.85,-77.3666667
+jm,millbank,Millbank,07,,18.05,-76.4
+jm,milltown,Milltown,09,,18.3666667,-77.2833333
+jm,milton,Milton,04,,18.1833333,-77.55
+jm,miltown,Miltown,09,,18.3666667,-77.2833333
+jm,minard,Minard,09,,18.4,-77.3833333
+jm,minho,Minho,01,,18.1333333,-77.3333333
+jm,mint,Mint,16,,18.3166667,-78.2
+jm,mitcham,Mitcham,11,,18.0666667,-77.6166667
+jm,mitchell town,Mitchell Town,01,,17.8,-77.2
+jm,mocho house,Mocho House,08,,18.0166667,-76.65
+jm,mocho,Mocho,01,,18.0333333,-77.3333333
+jm,mocho,Mocho,08,,18.0166667,-76.65
+jm,mocho,Mocho,12,,18.2833333,-77.8333333
+jm,molton,Molton,04,,18.1833333,-77.55
+jm,mona heights,Mona Heights,08,,18.0,-76.75
+jm,moneague,Moneague,09,,18.2666667,-77.1166667
+jm,moneymuck,Moneymuck,01,,17.75,-77.2333333
+jm,moneymusk pen,Moneymusk Pen,01,,17.75,-77.2333333
+jm,monklands,Monklands,14,,17.9666667,-76.55
+jm,monmouth,Monmouth,07,,18.2166667,-76.7166667
+jm,montego bay,Montego Bay,12,82868,18.4666667,-77.9166667
+jm,montego,Montego,12,,18.4666667,-77.9166667
+jm,montmorency,Montmorency,13,,18.3333333,-76.8666667
+jm,montpelier,Montpelier,01,,18.0666667,-77.35
+jm,montpelier,Montpelier,04,,17.9833333,-77.5833333
+jm,montpelier,Montpelier,08,,18.15,-76.8166667
+jm,montpelier,Montpelier,09,,18.3666667,-77.1
+jm,montpelier,Montpelier,10,,18.0666667,-77.0833333
+jm,montpelier,Montpelier,12,,18.3666667,-77.9333333
+jm,montpelier,Montpelier,14,,17.8833333,-76.3833333
+jm,moores,Moores,01,,18.0166667,-77.2
+jm,moores pen,Moores Pen,10,,17.9,-77.1
+jm,moore town,Moore Town,07,,18.0666667,-76.4333333
+jm,morant bay,Morant Bay,14,9369,17.8833333,-76.4166667
+jm,morant,Morant,14,,17.8833333,-76.4166667
+jm,moravia,Moravia,01,,18.1833333,-77.4666667
+jm,moreland,Moreland,01,,17.8166667,-77.2166667
+jm,moreland,Moreland,04,,17.9833333,-77.5333333
+jm,more town,More Town,07,,18.0666667,-76.4333333
+jm,morgans bridge,Morgans Bridge,16,,18.3,-78.1833333
+jm,morgans,Morgans,01,,18.1,-77.2666667
+jm,morley hill,Morley Hill,04,,17.8666667,-77.5
+jm,morris hall,Morris Hall,10,,17.9333333,-77.0666667
+jm,mosquito cove,Mosquito Cove,02,,18.4333333,-78.1166667
+jm,mount agusta,Mount Agusta,10,,18.2166667,-76.95
+jm,mountain river,Mountain River,10,,18.0666667,-77.1
+jm,mountain side,Mountain Side,11,,17.9666667,-77.75
+jm,mountain spring,Mountain Spring,15,,18.4666667,-77.5833333
+jm,mountain valley,Mountain Valley,02,,18.4,-78.0666667
+jm,mountain view gardens,Mountain View Gardens,17,,17.9666667,-76.7666667
+jm,mount airy,Mount Airy,16,,18.25,-78.3333333
+jm,mount augusta,Mount Augusta,10,,18.2166667,-76.95
+jm,mount belmore,Mount Belmore,08,,18.1,-76.7833333
+jm,mount blow,Mount Blow,04,,17.95,-77.4833333
+jm,mount carey,Mount Carey,12,,18.4,-77.95
+jm,mount carmel,Mount Carmel,09,,18.4166667,-77.4333333
+jm,mount charles,Mount Charles,08,,18.0166667,-76.65
+jm,mount cotterall,Mount Cotterall,01,,18.1,-77.35
+jm,mount dispute,Mount Dispute,08,,17.9833333,-76.6833333
+jm,mount eagle,Mount Eagle,16,,18.3,-78.2
+jm,mount grace,Mount Grace,16,,18.3166667,-78.1166667
+jm,mount hermon,Mount Hermon,09,,18.3333333,-77.0666667
+jm,mount hermon,Mount Hermon,11,,18.0,-77.6333333
+jm,mount horeb,Mount Horeb,12,,18.35,-77.8833333
+jm,mount james,Mount James,08,,18.1166667,-76.7833333
+jm,mount lebanus,Mount Lebanus,01,,18.05,-77.3666667
+jm,mount lebanus,Mount Lebanus,14,,17.9666667,-76.5333333
+jm,mount morency,Mount Morency,13,,18.3333333,-76.85
+jm,mount moses,Mount Moses,01,,18.0666667,-77.35
+jm,mount moses,Mount Moses,08,,18.1166667,-76.7666667
+jm,mount nebo,Mount Nebo,01,,18.0833333,-77.35
+jm,mount nelson,Mount Nelson,04,,18.0333333,-77.4666667
+jm,mount olive,Mount Olive,09,,18.4333333,-77.35
+jm,mount olive,Mount Olive,10,,18.0666667,-77.1666667
+jm,mount olive,Mount Olive,14,,17.8666667,-76.5666667
+jm,mount olivet,Mount Olivet,09,,18.4333333,-77.35
+jm,mount pelier,Mount Pelier,08,,18.15,-76.8166667
+jm,mount pleasant,Mount Pleasant,01,,17.9333333,-77.35
+jm,mount pleasant,Mount Pleasant,02,,18.3833333,-78.3
+jm,mount pleasant,Mount Pleasant,04,,17.9,-77.4333333
+jm,mount pleasant,Mount Pleasant,07,,18.1666667,-76.5166667
+jm,mount pleasant,Mount Pleasant,08,,18.0833333,-76.8
+jm,mount pleasant,Mount Pleasant,09,,18.2666667,-77.1166667
+jm,mount pleasant,Mount Pleasant,10,,18.0333333,-77.1
+jm,mount pleasant,Mount Pleasant,11,,18.0833333,-77.8833333
+jm,mount pleasant,Mount Pleasant,13,,18.3666667,-77.0333333
+jm,mount prospect,Mount Prospect,04,,18.0666667,-77.5833333
+jm,mount providence,Mount Providence,01,,18.05,-77.2833333
+jm,mount solus,Mount Solus,11,,18.1,-77.8833333
+jm,mount stewart,Mount Stewart,16,,18.3,-78.0
+jm,mount terza,Mount Terza,16,,18.2833333,-78.0166667
+jm,mount vernon,Mount Vernon,07,,18.2333333,-76.6833333
+jm,mount vernon,Mount Vernon,14,,17.95,-76.5666667
+jm,mount zion,Mount Zion,01,,18.1166667,-77.3166667
+jm,mount zion,Mount Zion,09,,18.4333333,-77.2833333
+jm,mount zion,Mount Zion,11,,17.9333333,-77.6833333
+jm,mount zion,Mount Zion,12,,18.5,-77.8166667
+jm,muir house,Muir House,09,,18.35,-77.3166667
+jm,mulleth hall,Mulleth Hall,07,,18.15,-76.7166667
+jm,mullett hall,Mullett Hall,07,,18.15,-76.7166667
+jm,murray mountain,Murray Mountain,09,,18.2666667,-77.3
+jm,murrays mountain,Murrays Mountain,09,,18.2666667,-77.3
+jm,myersville church,Myersville Church,11,,17.9666667,-77.6333333
+jm,myersville,Myersville,11,,17.9666667,-77.6333333
+jm,naggo head,Naggo Head,10,,17.95,-76.9
+jm,nago head,Nago Head,10,,17.95,-76.9
+jm,nain,Nain,11,,17.9666667,-77.6
+jm,naseberry garden,Naseberry Garden,10,,18.2166667,-77.0166667
+jm,natural bridge,Natural Bridge,10,,18.15,-76.9666667
+jm,needham pen,Needham Pen,14,,17.9,-76.3666667
+jm,negril harbour,Negril Harbour,16,,18.2666667,-78.35
+jm,negril,Negril,16,,18.2666667,-78.35
+jm,negril spots,Negril Spots,16,,18.25,-78.2833333
+jm,ness castle,Ness Castle,14,,18.0,-76.6
+jm,netherfield,Netherfield,01,,18.0333333,-77.3333333
+jm,newark,Newark,04,,17.9833333,-77.5666667
+jm,new bermuda,New Bermuda,07,,18.15,-76.45
+jm,new broughton,New Broughton,16,,18.2,-78.2166667
+jm,newcastle,Newcastle,08,,18.0666667,-76.7166667
+jm,new castle,New Castle,09,,18.2833333,-77.0833333
+jm,new colliston,New Colliston,09,,18.35,-77.3
+jm,newcombe valley,Newcombe Valley,11,,17.9,-77.75
+jm,new come valley,New Come Valley,11,,17.9,-77.75
+jm,newell,Newell,11,,17.9166667,-77.7333333
+jm,newell pen,Newell Pen,11,,17.9166667,-77.7333333
+jm,new england,New England,09,,18.3666667,-77.1666667
+jm,new forest,New Forest,10,,17.9833333,-77.1166667
+jm,new green island,New Green Island,02,,18.3666667,-78.2666667
+jm,newhall,Newhall,04,,18.0333333,-77.4666667
+jm,new hall,New Hall,09,,18.2,-77.1833333
+jm,new hall,New Hall,10,,18.1333333,-76.9666667
+jm,new kingston,New Kingston,08,,18.0,-76.7833333
+jm,newlands,Newlands,10,,17.9666667,-76.8833333
+jm,newmarket,Newmarket,10,,17.9333333,-77.1166667
+jm,newmarket,Newmarket,11,,18.1666667,-77.9166667
+jm,newmarket pen,Newmarket Pen,10,,17.9333333,-77.1166667
+jm,newmarks pen,Newmarks Pen,10,,17.9333333,-77.1166667
+jm,new monklands,New Monklands,14,,17.9666667,-76.55
+jm,new paradise,New Paradise,02,,18.3833333,-78.2333333
+jm,new pera,New Pera,14,,17.8833333,-76.2833333
+jm,newport east,Newport East,17,,17.9666667,-76.8
+jm,newport,Newport,04,,17.9666667,-77.5
+jm,newport west,Newport West,08,,17.9833333,-76.8333333
+jm,new ramble,New Ramble,13,,18.3666667,-76.9833333
+jm,new road,New Road,16,,18.1833333,-77.9333333
+jm,new roads,New Roads,16,,18.1833333,-77.9333333
+jm,new shafton,New Shafton,16,,18.1666667,-78.0333333
+jm,newstead,Newstead,08,,17.95,-76.6833333
+jm,newton,Newton,11,,18.1166667,-77.75
+jm,new works,New Works,16,,18.15,-77.9666667
+jm,new yarmouth,New Yarmouth,01,,17.8833333,-77.2666667
+jm,new york,New York,09,,18.25,-77.1833333
+jm,new york,New York,10,,18.1166667,-77.1333333
+jm,niger corner,Niger Corner,08,,18.0,-76.7666667
+jm,nigger corner,Nigger Corner,08,,18.0,-76.7666667
+jm,nightengale grove,Nightengale Grove,15,,18.4333333,-77.4833333
+jm,nightingale grove,Nightingale Grove,15,,18.4333333,-77.4833333
+jm,nonpareil,Nonpareil,04,,17.9333333,-77.45
+jm,nonpareil,Nonpareil,16,,18.25,-78.3166667
+jm,nonparsil,Nonparsil,16,,18.25,-78.3166667
+jm,nonsuch,Nonsuch,07,,18.15,-76.4166667
+jm,nonsuch,Nonsuch,13,,18.2833333,-76.9
+jm,norfolk,Norfolk,11,,17.9,-77.6833333
+jm,norman gardens,Norman Gardens,17,,17.9666667,-76.75
+jm,norris,Norris,14,,17.9,-76.5666667
+jm,northampton,Northampton,11,,18.0333333,-77.6833333
+jm,northhampton,Northhampton,11,,18.0333333,-77.6833333
+jm,norway,Norway,04,,18.2166667,-77.5666667
+jm,norwich halt,Norwich Halt,07,,18.1833333,-76.4666667
+jm,norwich,Norwich,01,,18.35,-77.4333333
+jm,norwich,Norwich,07,,18.1833333,-76.4666667
+jm,nutshell,Nutshell,10,,18.1666667,-77.0666667
+jm,oakes,Oakes,01,,18.0833333,-77.2333333
+jm,oakes pen,Oakes Pen,01,,17.95,-77.1666667
+jm,oaks,Oaks,01,,18.0833333,-77.2333333
+jm,oberlin,Oberlin,08,,18.1333333,-76.85
+jm,occasion town,Occasion Town,10,,17.9,-77.1333333
+jm,ocho rios bay,Ocho Rios Bay,09,,18.4166667,-77.1166667
+jm,ocho rios,Ocho Rios,09,9451,18.4166667,-77.1166667
+jm,old barracks,Old Barracks,09,,18.2166667,-77.4
+jm,old barracks,Old Barracks,13,,18.3,-76.9833333
+jm,oldbury,Oldbury,04,,17.9666667,-77.5333333
+jm,old england church,Old England Church,04,,17.9833333,-77.4666667
+jm,old england,Old England,04,,17.9833333,-77.4666667
+jm,old harbor,Old Harbor,10,,17.9333333,-77.1166667
+jm,old harbour bay,Old Harbour Bay,10,,17.9,-77.0833333
+jm,old harbour,Old Harbour,10,,17.9333333,-77.1166667
+jm,old hope,Old Hope,16,,18.2333333,-78.2333333
+jm,old house,Old House,04,,17.9,-77.35
+jm,old lee gate,Old Lee Gate,14,,17.95,-76.4666667
+jm,old pera,Old Pera,14,,17.8666667,-76.3166667
+jm,old rotherwood,Old Rotherwood,16,,18.1833333,-77.9833333
+jm,old shafton,Old Shafton,16,,18.1333333,-78.0166667
+jm,old yarmouth,Old Yarmouth,01,,17.8833333,-77.2833333
+jm,olympic gardens,Olympic Gardens,08,,18.0166667,-76.8333333
+jm,onslow,Onslow,14,,17.9333333,-76.45
+jm,onslows,Onslows,14,,17.9333333,-76.45
+jm,oracabessa,Oracabessa,13,,18.4,-76.95
+jm,orange bay,Orange Bay,02,,18.3666667,-78.3166667
+jm,orange bay,Orange Bay,07,,18.2166667,-76.6166667
+jm,orange cove,Orange Cove,02,,18.45,-78.2
+jm,orangefield,Orangefield,10,,18.15,-77.0666667
+jm,orange hall,Orange Hall,13,,18.35,-77.05
+jm,orange hill,Orange Hill,13,,18.2666667,-76.8
+jm,orange hill,Orange Hill,13,,18.35,-77.05
+jm,orange hill,Orange Hill,16,,18.2333333,-78.3166667
+jm,orange,Orange,12,,18.45,-77.8666667
+jm,orange park,Orange Park,09,,18.3333333,-77.1333333
+jm,orange river pen,Orange River Pen,01,,17.9666667,-77.1833333
+jm,orange valley,Orange Valley,09,,18.4333333,-77.3666667
+jm,orange valley,Orange Valley,10,,18.1333333,-77.1833333
+jm,orange valley,Orange Valley,15,,18.4666667,-77.7166667
+jm,orchard,Orchard,02,,18.45,-78.05
+jm,ormiston,Ormiston,16,,18.1833333,-77.95
+jm,osbornes,Osbornes,13,,18.2333333,-76.7666667
+jm,osborne store,Osborne Store,01,,17.95,-77.3333333
+jm,osborns,Osborns,13,,18.2333333,-76.7666667
+jm,outon,Outon,09,,18.3666667,-77.3166667
+jm,owens,Owens,09,,18.2666667,-77.3833333
+jm,oxford,Oxford,04,,18.2,-77.6333333
+jm,oxford,Oxford,10,,18.1,-77.1166667
+jm,oxford,Oxford,14,,17.8666667,-76.35
+jm,oxford,Oxford,15,,18.45,-77.5833333
+jm,oyster bay,Oyster Bay,15,,18.4833333,-77.6333333
+jm,palm beach,Palm Beach,08,,17.9333333,-76.7
+jm,palmers cross,Palmers Cross,01,,17.9333333,-77.2166667
+jm,palmers,Palmers,01,,17.9333333,-77.2166667
+jm,palmetto cottage,Palmetto Cottage,10,,18.0333333,-76.95
+jm,palmetto grove,Palmetto Grove,13,,18.2666667,-76.9333333
+jm,palmira,Palmira,12,,18.4833333,-77.8
+jm,palm,Palm,10,,18.2,-77.0333333
+jm,palmyra,Palmyra,12,,18.4833333,-77.8
+jm,panton town,Panton Town,14,,17.9166667,-76.35
+jm,papine,Papine,08,,18.0166667,-76.7333333
+jm,paradise,Paradise,01,,18.1333333,-77.2166667
+jm,paradise,Paradise,02,,18.3833333,-78.2333333
+jm,paradise,Paradise,11,,17.9666667,-77.75
+jm,paradise,Paradise,16,,18.2166667,-78.0833333
+jm,park hall,Park Hall,04,,17.9333333,-77.4
+jm,park head,Park Head,11,,18.2,-77.65
+jm,park,Park,11,,17.9833333,-77.7833333
+jm,parks road,Parks Road,08,,18.0833333,-76.8666667
+jm,parnassus,Parnassus,01,,17.9333333,-77.2666667
+jm,parry town,Parry Town,09,,18.3833333,-77.1
+jm,parsonage,Parsonage,13,,18.2666667,-76.8833333
+jm,parsonage,Parsonage,14,,17.8833333,-76.5833333
+jm,passage fort,Passage Fort,10,,17.9833333,-76.8666667
+jm,patrick town,Patrick Town,04,,17.9666667,-77.4166667
+jm,patton park,Patton Park,10,,18.05,-76.95
+jm,paul island,Paul Island,16,,18.2666667,-78.2
+jm,peak pen,Peak Pen,02,,18.4333333,-78.1333333
+jm,pear tree grove,Pear Tree Grove,13,,18.25,-76.9333333
+jm,pear tree river,Pear Tree River,14,,17.9166667,-76.3166667
+jm,pear tree valley,Pear Tree Valley,04,,17.9833333,-77.4833333
+jm,peckham,Peckham,01,,18.15,-77.3833333
+jm,pedro cross,Pedro Cross,11,,17.8833333,-77.7166667
+jm,pedro farm,Pedro Farm,09,,18.2833333,-77.2
+jm,pedro,Pedro,02,,18.45,-78.2166667
+jm,pedro,Pedro,09,,18.2833333,-77.2
+jm,pedro,Pedro,11,,17.8666667,-77.7333333
+jm,pedro pen,Pedro Pen,02,,18.45,-78.2166667
+jm,pedro pen,Pedro Pen,11,,17.8666667,-77.7333333
+jm,pedro river,Pedro River,01,,18.1833333,-77.2166667
+jm,pemberton valley,Pemberton Valley,13,,18.3833333,-76.9666667
+jm,pembroke hall,Pembroke Hall,08,,18.0333333,-76.8166667
+jm,pembroke hall,Pembroke Hall,13,,18.3,-76.9833333
+jm,pennants,Pennants,01,,18.1,-77.3
+jm,pennycooke,Pennycooke,02,,18.35,-78.1
+jm,penny cooks,Penny Cooks,02,,18.35,-78.1
+jm,penny,Penny,09,,18.2666667,-77.2
+jm,penshurst,Penshurst,09,,18.4,-77.3333333
+jm,pepper pen,Pepper Pen,11,,18.0333333,-77.6
+jm,pepper,Pepper,11,,18.0166667,-77.6
+jm,peppingford,Peppingford,07,,18.15,-76.6166667
+jm,pera,Pera,14,,17.8833333,-76.2833333
+jm,perrine,Perrine,01,,17.8166667,-77.25
+jm,perrins,Perrins,01,,17.8166667,-77.25
+jm,perth,Perth,04,,18.0166667,-77.5333333
+jm,perth town,Perth Town,15,,18.4333333,-77.6333333
+jm,peru,Peru,15,,18.3833333,-77.6666667
+jm,petersfield,Petersfield,04,,18.1166667,-77.55
+jm,petersfield,Petersfield,14,,17.9166667,-76.4833333
+jm,petersfield,Petersfield,16,,18.2666667,-78.0666667
+jm,petersville,Petersville,16,,18.1166667,-77.9666667
+jm,phelps run,Phelps Run,10,,18.0833333,-77.1833333
+jm,philadelphia,Philadelphia,09,,18.3833333,-77.3166667
+jm,phoenix park,Phoenix Park,09,,18.2833333,-77.1333333
+jm,phoenix park,Phoenix Park,16,,18.2166667,-78.1333333
+jm,phoenix,Phoenix,02,,18.3666667,-78.2833333
+jm,phoenix,Phoenix,15,,18.4166667,-77.7333333
+jm,phoenix town,Phoenix Town,02,,18.3666667,-78.2833333
+jm,phoenix village,Phoenix Village,15,,18.4166667,-77.7333333
+jm,pilot,Pilot,09,,18.3833333,-77.2333333
+jm,pimento grove,Pimento Grove,10,,18.0333333,-77.1166667
+jm,pimento walk,Pimento Walk,09,,18.3833333,-77.1166667
+jm,pipers,Pipers,16,,18.25,-78.1
+jm,pisgah,Pisgah,11,,18.2,-77.8833333
+jm,planters hall,Planters Hall,13,,18.35,-77.0333333
+jm,pleasant hill house,Pleasant Hill House,08,,18.0833333,-76.6666667
+jm,pleasant hill,Pleasant Hill,04,,17.9166667,-77.4666667
+jm,pleasant hill,Pleasant Hill,07,,18.0666667,-76.2833333
+jm,pleasant hill,Pleasant Hill,08,,18.0833333,-76.6666667
+jm,pleasant valley,Pleasant Valley,09,,18.2666667,-77.1333333
+jm,pleasing prospect,Pleasing Prospect,07,,18.1666667,-76.6833333
+jm,plowden hill,Plowden Hill,04,,17.8666667,-77.55
+jm,plum corner,Plum Corner,15,,18.4166667,-77.4833333
+jm,point hill,Point Hill,10,,18.0833333,-77.1
+jm,point,Point,02,,18.45,-78.15
+jm,point,Point,12,,18.35,-77.8166667
+jm,pondside,Pondside,02,,18.4,-78.0833333
+jm,pond side,Pond Side,11,,17.9666667,-77.8166667
+jm,ponside,Ponside,02,,18.4,-78.0833333
+jm,poor mans corner,Poor Mans Corner,14,,17.8833333,-76.6
+jm,port antonio,Port Antonio,07,14235,18.1833333,-76.4666667
+jm,porters mountain,Porters Mountain,16,,18.3333333,-78.05
+jm,port esquivel,Port Esquivel,10,,17.8833333,-77.1333333
+jm,port henderson,Port Henderson,10,,17.95,-76.8833333
+jm,port kaiser,Port Kaiser,11,,17.8666667,-77.6
+jm,portland cottage,Portland Cottage,01,,17.7666667,-77.2333333
+jm,portland,Portland,01,,17.7666667,-77.2333333
+jm,portland village,Portland Village,01,,17.7666667,-77.2333333
+jm,port mahon,Port Mahon,04,,17.8833333,-77.55
+jm,port maria,Port Maria,13,7906,18.3666667,-76.9
+jm,port morant,Port Morant,14,,17.9,-76.3166667
+jm,portmore,Portmore,10,102865,17.9666667,-76.8666667
+jm,port royal,Port Royal,17,,17.9333333,-76.85
+jm,porus,Porus,04,,18.0333333,-77.4166667
+jm,pot house pen,Pot House Pen,10,,17.95,-77.0666667
+jm,potosi,Potosi,14,,17.9333333,-76.3666667
+jm,pratville,Pratville,04,,17.9,-77.4166667
+jm,predies,Predies,01,,17.8833333,-77.3333333
+jm,prichards pen,Prichards Pen,13,,18.3666667,-77.0166667
+jm,priddie's,Priddie's,01,,17.8833333,-77.3333333
+jm,pridees,Pridees,01,,17.8833333,-77.3333333
+jm,priestmans river,Priestmans River,07,,18.1333333,-76.35
+jm,priory,Priory,09,,18.45,-77.2166667
+jm,prospect park farm,Prospect Park Farm,16,,18.3166667,-78.1
+jm,prospect,Prospect,02,,18.3833333,-78.25
+jm,prospect,Prospect,04,,17.8833333,-77.45
+jm,prospect,Prospect,11,,18.1166667,-77.8833333
+jm,prospect,Prospect,12,,18.35,-77.8166667
+jm,prospect,Prospect,13,,18.4,-77.05
+jm,prospect,Prospect,14,,17.8666667,-76.35
+jm,prospect,Prospect,16,,18.3166667,-78.1
+jm,prosper,Prosper,12,,18.35,-77.8166667
+jm,providence,Providence,04,,17.95,-77.5333333
+jm,providence,Providence,07,,18.05,-76.2833333
+jm,providence,Providence,09,,18.35,-77.3833333
+jm,providence,Providence,10,,18.0666667,-76.9833333
+jm,providence,Providence,12,,18.4166667,-77.95
+jm,providence,Providence,13,,18.3666667,-77.0333333
+jm,providence,Providence,15,,18.4666667,-77.4666667
+jm,puerto bueno,Puerto Bueno,09,,18.4666667,-77.4
+jm,pullet hall,Pullet Hall,11,,18.2166667,-77.7
+jm,punchbowl,Punchbowl,11,,17.9666667,-77.6166667
+jm,purcells pen,Purcells Pen,10,,17.95,-76.9666667
+jm,pusey hall pen,Pusey Hall Pen,01,,17.75,-77.1666667
+jm,pusey hall,Pusey Hall,01,,17.7833333,-77.25
+jm,pusey hill,Pusey Hill,04,,17.9,-77.4166667
+jm,quatre bras,Quatre Bras,04,,17.9,-77.45
+jm,quaw hill,Quaw Hill,14,,17.95,-76.2333333
+jm,quebec,Quebec,13,,18.35,-76.8833333
+jm,queenhithe,Queenhithe,09,,18.4333333,-77.4166667
+jm,queenhythe,Queenhythe,09,,18.4333333,-77.4166667
+jm,quick step,Quick Step,15,,18.25,-77.7166667
+jm,rabys corner,Rabys Corner,10,,18.0666667,-76.9833333
+jm,race course,Race Course,01,,17.8333333,-77.2833333
+jm,ramble house,Ramble House,02,,18.3333333,-78.0166667
+jm,ramble pen,Ramble Pen,02,,18.3333333,-78.0166667
+jm,ramble,Ramble,02,,18.3166667,-77.9833333
+jm,ramble,Ramble,13,,18.3666667,-76.9833333
+jm,ramble,Ramble,14,,17.9666667,-76.6166667
+jm,ratcliff park,Ratcliff Park,10,,18.0333333,-76.9
+jm,rat trap,Rat Trap,16,,18.2666667,-77.9333333
+jm,raymonds,Raymonds,01,,17.85,-77.2333333
+jm,reach,Reach,07,,18.0333333,-76.3
+jm,readers pen,Readers Pen,07,,17.8833333,-76.4
+jm,reading,Reading,12,,18.45,-77.95
+jm,recess,Recess,10,,18.2166667,-77.0333333
+jm,recovery pen,Recovery Pen,02,,18.4333333,-78.0666667
+jm,rectory,Rectory,01,,18.05,-77.2666667
+jm,rectory,Rectory,07,,18.1833333,-76.6666667
+jm,rectory,Rectory,11,,18.0666667,-77.8833333
+jm,redberry,Redberry,04,,18.0333333,-77.4333333
+jm,redbury,Redbury,04,,18.0333333,-77.4333333
+jm,reddington,Reddington,13,,18.2166667,-76.7333333
+jm,red ground,Red Ground,10,,17.9833333,-77.1166667
+jm,red grown,Red Grown,16,,18.1333333,-78.0333333
+jm,red hill,Red Hill,14,,17.8833333,-76.4166667
+jm,red hills,Red Hills,08,,18.05,-76.8333333
+jm,redwood,Redwood,10,,18.2,-76.9833333
+jm,reeves wood,Reeves Wood,04,,18.0,-77.4
+jm,refuge,Refuge,15,,18.4666667,-77.5666667
+jm,relford,Relford,04,,18.05,-77.55
+jm,relief,Relief,09,,18.3666667,-77.1166667
+jm,relston park,Relston Park,10,,17.9833333,-76.9333333
+jm,rennals,Rennals,10,,18.0666667,-77.1166667
+jm,renon town,Renon Town,09,,18.2166667,-77.4
+jm,reserve,Reserve,15,,18.4,-77.6333333
+jm,resource,Resource,04,,17.8833333,-77.4833333
+jm,resource,Resource,08,,18.05,-76.6666667
+jm,resource,Resource,09,,18.2166667,-77.1333333
+jm,rest pen,Rest Pen,10,,17.9333333,-77.1166667
+jm,rest,Rest,01,,17.8666667,-77.35
+jm,rest,Rest,04,,17.8833333,-77.5666667
+jm,rest,Rest,10,,18.0166667,-77.0333333
+jm,rest store,Rest Store,01,,17.8833333,-77.3666667
+jm,rest store,Rest Store,04,,17.8833333,-77.5666667
+jm,retford,Retford,04,,18.05,-77.55
+jm,retirement,Retirement,01,,17.7666667,-77.25
+jm,retirement,Retirement,09,,18.3,-77.1333333
+jm,retirement,Retirement,10,,18.0166667,-76.9833333
+jm,retirement,Retirement,11,,18.1833333,-77.7666667
+jm,retirement,Retirement,12,,18.4333333,-77.8833333
+jm,retirement,Retirement,16,,18.1833333,-78.05
+jm,retreat,Retreat,01,,18.05,-77.2
+jm,retreat,Retreat,04,,18.0333333,-77.5333333
+jm,retreat,Retreat,09,,18.3833333,-77.4166667
+jm,retreat,Retreat,10,,18.0666667,-77.0666667
+jm,retreat,Retreat,13,,18.3833333,-77.0166667
+jm,retreat,Retreat,16,,18.25,-78.2666667
+jm,retrieve,Retrieve,04,,17.9333333,-77.4
+jm,retrieve,Retrieve,16,,18.25,-78.2333333
+jm,revival,Revival,16,,18.2166667,-78.2833333
+jm,reynolds run,Reynolds Run,11,,17.8833333,-77.7166667
+jm,rhine,Rhine,14,,17.95,-76.3333333
+jm,rhodes hall,Rhodes Hall,02,,18.3666667,-78.3
+jm,rhymesberry,Rhymesberry,01,,17.9333333,-77.3166667
+jm,rhymesbury,Rhymesbury,01,,17.9333333,-77.3166667
+jm,richardsfield,Richardsfield,09,,18.2833333,-77.3666667
+jm,richards pen,Richards Pen,13,,18.3666667,-77.0166667
+jm,richman park,Richman Park,01,,18.05,-77.3666667
+jm,richmond hill,Richmond Hill,07,,18.15,-76.45
+jm,richmond hill,Richmond Hill,10,,18.2,-77.0166667
+jm,richmond park,Richmond Park,01,,18.05,-77.3666667
+jm,richmond,Richmond,04,,18.0166667,-77.4666667
+jm,richmond,Richmond,07,,18.1333333,-76.5666667
+jm,richmond,Richmond,09,,18.3333333,-77.45
+jm,richmond,Richmond,13,,18.2333333,-76.9
+jm,richmond village,Richmond Village,13,,18.2333333,-76.9
+jm,ricketts river,Ricketts River,16,,18.2833333,-78.15
+jm,ridgeland,Ridgeland,16,,18.2833333,-78.2166667
+jm,ridgland,Ridgland,16,,18.2833333,-78.2166667
+jm,riley village,Riley Village,14,,17.9666667,-76.5666667
+jm,rio bueno harbor,Rio Bueno Harbor,15,,18.4666667,-77.4666667
+jm,rio bueno harbour,Rio Bueno Harbour,15,,18.4666667,-77.4666667
+jm,rio bueno,Rio Bueno,15,,18.4666667,-77.4666667
+jm,rio magna,Rio Magna,10,,18.2,-76.9666667
+jm,rio magno,Rio Magno,10,,18.2,-76.9666667
+jm,rising sun,Rising Sun,09,,18.4166667,-77.4333333
+jm,riswich,Riswich,09,,18.2833333,-77.05
+jm,riswick,Riswick,09,,18.2833333,-77.05
+jm,ritchies,Ritchies,01,,18.1333333,-77.4333333
+jm,riverhead,Riverhead,09,,18.2666667,-77.0833333
+jm,riverhead,Riverhead,10,,18.15,-77.1
+jm,river head,River Head,16,,18.2333333,-78.05
+jm,riversdale,Riversdale,10,,18.1666667,-76.9666667
+jm,riverside,Riverside,02,,18.3833333,-78.1833333
+jm,roadside,Roadside,09,,18.2833333,-77.1333333
+jm,roaring river,Roaring River,09,,18.4,-77.15
+jm,roaring river,Roaring River,16,,18.2833333,-78.05
+jm,roberts run,Roberts Run,04,,17.8666667,-77.4
+jm,robins bay,Robins Bay,13,,18.3,-76.8
+jm,robins hall,Robins Hall,04,,18.2,-77.55
+jm,robinson run,Robinson Run,04,,17.95,-77.4
+jm,robinsons new park,Robinsons New Park,01,,17.8666667,-77.2333333
+jm,robins river,Robins River,16,,18.1333333,-78.0
+jm,rock fort,Rock Fort,09,,18.4666667,-77.4
+jm,rock hall,Rock Hall,08,,18.0666667,-76.8833333
+jm,rockingham,Rockingham,08,,18.3833333,-78.1666667
+jm,rock river,Rock River,01,,18.0833333,-77.2166667
+jm,rock,Rock,15,,18.4833333,-77.6333333
+jm,rock spring,Rock Spring,02,,18.3666667,-78.25
+jm,rock spring,Rock Spring,15,,18.2833333,-77.5666667
+jm,rocky point,Rocky Point,01,,17.7666667,-77.25
+jm,rocky point,Rocky Point,14,,17.8833333,-76.2666667
+jm,rodans dry river,Rodans Dry River,01,,17.8833333,-77.2666667
+jm,roebuck hill,Roebuck Hill,16,,18.2833333,-78.15
+jm,roehampton,Roehampton,12,,18.3833333,-77.9
+jm,rollington town,Rollington Town,17,,17.9666667,-76.7666667
+jm,rome,Rome,02,,18.4166667,-78.05
+jm,roscomman,Roscomman,13,,18.4,-77.05
+jm,roscommon,Roscommon,13,,18.4,-77.05
+jm,roseberry,Roseberry,11,,17.9666667,-77.6833333
+jm,rose hall,Rose Hall,09,,18.4333333,-77.2666667
+jm,rose hall,Rose Hall,11,,17.9333333,-77.65
+jm,rose hill,Rose Hill,07,,18.15,-76.6833333
+jm,rose hill,Rose Hill,10,,18.2166667,-76.9333333
+jm,rose hill,Rose Hill,11,,17.9333333,-77.65
+jm,rose hill,Rose Hill,12,,18.4833333,-77.7666667
+jm,rosemont,Rosemont,12,,18.4666667,-77.8833333
+jm,rosemount,Rosemount,10,,18.0166667,-77.05
+jm,rosemount,Rosemount,12,,18.4666667,-77.8833333
+jm,rosend,Rosend,13,,18.2833333,-76.8333333
+jm,rosetta,Rosetta,09,,18.3166667,-77.3666667
+jm,rose valley,Rose Valley,10,,17.9833333,-77.15
+jm,rosewell,Rosewell,01,,17.95,-77.1833333
+jm,rosewells,Rosewells,01,,17.95,-77.1833333
+jm,roslin caslin,Roslin Caslin,15,,18.45,-77.6166667
+jm,roslin castle,Roslin Castle,15,,18.45,-77.6166667
+jm,ross isle,Ross Isle,14,,17.9666667,-76.55
+jm,roswalls,Roswalls,01,,17.95,-77.1833333
+jm,roswell's,Roswell's,01,,17.95,-77.1833333
+jm,rotherwood,Rotherwood,16,,18.1833333,-77.9833333
+jm,round hill,Round Hill,02,,18.45,-78.0166667
+jm,rowes corner,Rowes Corner,04,,17.8833333,-77.5666667
+jm,rowington park,Rowington Park,01,,17.9,-77.3166667
+jm,rowington,Rowington,01,,17.9,-77.3166667
+jm,rowlandsfield,Rowlandsfield,14,,17.9666667,-76.2833333
+jm,roxborough,Roxborough,04,,18.0166667,-77.4666667
+jm,roxbro,Roxbro,04,,18.0166667,-77.4666667
+jm,roxbro,Roxbro,12,,18.3666667,-77.8833333
+jm,royal flat,Royal Flat,04,,18.05,-77.4666667
+jm,rozelle house,Rozelle House,14,,17.8666667,-76.45
+jm,rozelle,Rozelle,14,,17.8666667,-76.45
+jm,rules pen,Rules Pen,01,,17.95,-77.2166667
+jm,runaway bay,Runaway Bay,09,,18.4666667,-77.3333333
+jm,runaway bay settlement,Runaway Bay Settlement,09,,18.4666667,-77.3333333
+jm,runaway bay village,Runaway Bay Village,09,,18.4666667,-77.3333333
+jm,runaway village,Runaway Village,09,,18.4666667,-77.3333333
+jm,runnaway-bay,Runnaway-Bay,09,,18.4666667,-77.3333333
+jm,rural vale,Rural Vale,07,,18.1,-76.3166667
+jm,russell pen,Russell Pen,01,,17.9666667,-77.2
+jm,russell pen,Russell Pen,10,,18.1666667,-77.0333333
+jm,russells,Russells,11,,17.9833333,-77.6666667
+jm,russel pen,Russel Pen,10,,18.1666667,-77.0333333
+jm,russels,Russels,11,,17.9833333,-77.6666667
+jm,rymesberry,Rymesberry,01,,17.9333333,-77.3166667
+jm,rymesbury,Rymesbury,01,,17.9333333,-77.3166667
+jm,saddlers hall,Saddlers Hall,02,,18.35,-78.0
+jm,sadlers hall,Sadlers Hall,02,,18.35,-78.0
+jm,sadlers hill,Sadlers Hill,12,,18.4166667,-77.8166667
+jm,saint acre,Saint Acre,09,,18.3166667,-77.3666667
+jm,saint ann's bay,Saint Ann's Bay,09,,18.4333333,-77.2
+jm,saint christopher,Saint Christopher,08,,18.0833333,-76.8333333
+jm,saint d'acre,Saint D'Acre,09,,18.3166667,-77.3666667
+jm,saint faiths,Saint Faiths,09,,18.2333333,-77.1
+jm,saint faiths,Saint Faiths,10,,18.0333333,-77.1166667
+jm,saint francois,Saint Francois,07,,18.1833333,-76.4666667
+jm,saint helena,Saint Helena,01,,18.1,-77.4333333
+jm,saint helens house,Saint Helens House,10,,17.95,-77.05
+jm,saint helens,Saint Helens,10,,17.95,-77.05
+jm,saint jago de la vega,Saint Jago de la Vega,10,,17.9833333,-76.95
+jm,saint jago old works,Saint Jago Old Works,01,,17.9666667,-77.3833333
+jm,saint jago,Saint Jago,01,,17.9666667,-77.3833333
+jm,saint john's,Saint John's,09,,18.2,-77.15
+jm,saint leonards,Saint Leonards,16,,18.25,-77.9
+jm,saint margaret's bay,Saint Margaret's Bay,07,,18.1833333,-76.5166667
+jm,saint mary's,Saint Mary's,11,,17.9166667,-78.6666667
+jm,saint mountain,Saint Mountain,09,,18.3,-77.15
+jm,saint pauls,Saint Pauls,04,,18.15,-77.6166667
+jm,saint peter's,Saint Peter's,08,,18.0666667,-76.6833333
+jm,saint toolies,Saint Toolies,04,,17.9666667,-77.4
+jm,saint toolis,Saint Toolis,04,,17.9666667,-77.4
+jm,saint vincent,Saint Vincent,15,,18.3,-77.55
+jm,salem,Salem,02,,18.3666667,-78.3
+jm,salem,Salem,09,,18.4666667,-77.3
+jm,salem,Salem,13,,18.2833333,-76.85
+jm,salisbury plain,Salisbury Plain,08,,18.1,-76.85
+jm,salisbury,Salisbury,08,,18.1,-76.85
+jm,salisbury,Salisbury,09,,18.35,-77.1166667
+jm,salisbury,Salisbury,13,,18.3,-77.0166667
+jm,sally,Sally,11,,18.1,-77.7333333
+jm,sallys delight,Sallys Delight,10,,18.0166667,-77.05
+jm,sallys hall,Sallys Hall,11,,18.1,-77.7333333
+jm,salsbury,Salsbury,08,,18.1,-76.85
+jm,salters hill,Salters Hill,12,,18.4166667,-77.8166667
+jm,salt gut pen,Salt Gut Pen,13,,18.4,-76.9833333
+jm,salt gut,Salt Gut,13,,18.4,-76.9833333
+jm,salt pond pen,Salt Pond Pen,10,,17.95,-76.9333333
+jm,salt river,Salt River,01,,17.8333333,-77.1666667
+jm,salt spring,Salt Spring,02,,18.3833333,-78.2666667
+jm,salt spring,Salt Spring,12,,18.4833333,-77.8833333
+jm,sandbury grove,Sandbury Grove,10,,18.0666667,-76.95
+jm,sandside,Sandside,13,,18.3333333,-76.9
+jm,sandy bay,Sandy Bay,01,,17.8166667,-77.1833333
+jm,sandy bay,Sandy Bay,02,,18.45,-78.0833333
+jm,sandy bay village,Sandy Bay Village,02,,18.45,-78.0833333
+jm,sandy ground,Sandy Ground,11,,18.05,-77.9
+jm,sandy gully pen,Sandy Gully Pen,01,,17.9,-77.2833333
+jm,sandy gully,Sandy Gully,01,,17.9,-77.2833333
+jm,sanguinetti,Sanguinetti,01,,18.1333333,-77.4333333
+jm,santa cruz,Santa Cruz,11,,18.05,-77.7
+jm,santa gloria,Santa Gloria,09,,18.4333333,-77.2
+jm,santamaria,Santamaria,01,,18.1333333,-77.2333333
+jm,santa maria,Santa Maria,08,,18.0833333,-76.8833333
+jm,sattons,Sattons,01,,17.8,-77.25
+jm,savannah la mar,Savannah la Mar,16,,18.2166667,-78.1333333
+jm,savanna-la-mar,Savanna-la-Mar,16,,18.2166667,-78.1333333
+jm,sawyers market,Sawyers Market,15,,18.3666667,-77.4833333
+jm,sawyers,Sawyers,15,,18.3666667,-77.4833333
+jm,saxham,Saxham,02,,18.3666667,-78.25
+jm,saxony pen,Saxony Pen,01,,17.95,-77.35
+jm,saxony,Saxony,01,,17.95,-77.35
+jm,scarborough,Scarborough,09,,18.3,-77.3833333
+jm,scarlett hall,Scarlett Hall,09,,18.4666667,-77.3166667
+jm,schawfield,Schawfield,15,,18.45,-77.6833333
+jm,scholefield,Scholefield,11,,18.0,-77.7
+jm,schwallenburgh,Schwallenburgh,09,,18.2166667,-77.1
+jm,scotia,Scotia,04,,17.9333333,-77.4666667
+jm,scotts pass,Scotts Pass,01,,18.0,-77.3833333
+jm,seafield,Seafield,15,,18.4833333,-77.7
+jm,seaford town,Seaford Town,16,,18.25,-77.9
+jm,seaforth,Seaforth,14,,17.95,-76.4666667
+jm,seaforth village,Seaforth Village,14,,17.95,-76.4666667
+jm,seamans valley,Seamans Valley,07,,18.0833333,-76.4333333
+jm,sea view,Sea View,09,,18.4,-77.2166667
+jm,sedburgh,Sedburgh,04,,18.15,-77.4833333
+jm,selington,Selington,11,,18.0666667,-77.9
+jm,seniors,Seniors,04,,17.95,-77.4166667
+jm,serge island,Serge Island,14,,17.95,-76.4833333
+jm,seven corners,Seven Corners,11,,18.0333333,-77.7
+jm,seven doubloons,Seven Doubloons,10,,18.0166667,-77.0166667
+jm,seven mile,Seven Mile,08,,17.95,-76.7
+jm,seven oaks,Seven Oaks,09,,18.45,-77.35
+jm,seven plantations,Seven Plantations,01,,17.9666667,-77.2166667
+jm,seven rivers,Seven Rivers,12,,18.3333333,-77.9166667
+jm,sevens plantation,Sevens Plantation,01,,17.9666667,-77.2166667
+jm,sevens,Sevens,01,,17.9666667,-77.2166667
+jm,seville heights,Seville Heights,09,,18.4333333,-77.2166667
+jm,seville,Seville,09,,18.4333333,-77.2166667
+jm,shafeston,Shafeston,16,,18.1666667,-78.0333333
+jm,shafston,Shafston,16,,18.1666667,-78.0333333
+jm,shambles,Shambles,04,,17.9666667,-77.5333333
+jm,shands cockpit,Shands Cockpit,01,,17.8833333,-77.15
+jm,shaw park,Shaw Park,09,,18.4,-77.1166667
+jm,shaws,Shaws,11,,18.1166667,-77.8166667
+jm,shaws village,Shaws Village,11,,18.1166667,-77.8166667
+jm,sheckles pen,Sheckles Pen,01,,17.9666667,-77.3
+jm,sheerness,Sheerness,13,,18.3166667,-76.8
+jm,sheffield,Sheffield,16,,18.2666667,-78.3
+jm,shepperds hall,Shepperds Hall,02,,18.4,-78.05
+jm,sherwood content,Sherwood Content,15,,18.3833333,-77.6333333
+jm,sherwood forest,Sherwood Forest,04,,17.9666667,-77.45
+jm,sherwood forest,Sherwood Forest,07,,18.15,-76.3833333
+jm,sherwood forest,Sherwood Forest,14,,18.0333333,-76.6166667
+jm,shettlewood,Shettlewood,02,,18.35,-77.95
+jm,shickels,Shickels,01,,17.9666667,-77.3
+jm,shickles pen,Shickles Pen,01,,17.9666667,-77.3
+jm,shickle's,Shickle's,01,,17.9666667,-77.3
+jm,shirehampton,Shirehampton,04,,18.0833333,-77.5833333
+jm,shirley castle,Shirley Castle,07,,18.1333333,-76.6166667
+jm,shirley pen,Shirley Pen,07,,18.1833333,-76.6333333
+jm,shooters hill,Shooters Hill,04,,18.0833333,-77.4666667
+jm,shotover,Shotover,07,,18.1666667,-76.4666667
+jm,showfield,Showfield,15,,18.45,-77.6833333
+jm,shrewsbury,Shrewsbury,07,,18.15,-76.55
+jm,shrewsbury,Shrewsbury,11,,18.0833333,-77.9166667
+jm,shrewsbury,Shrewsbury,16,,18.2666667,-78.0666667
+jm,siberia,Siberia,09,,18.35,-77.4
+jm,sidney castle,Sidney Castle,09,,18.4333333,-77.2666667
+jm,siloah,Siloah,11,,18.1666667,-77.7166667
+jm,silver hill,Silver Hill,07,,18.1333333,-76.7166667
+jm,silver sands,Silver Sands,15,,18.4833333,-77.5333333
+jm,simmers valley,Simmers Valley,10,,18.2333333,-77.0166667
+jm,simpsons,Simpsons,01,,17.75,-77.2333333
+jm,six miles,Six Miles,08,,18.0166667,-76.85
+jm,skibo,Skibo,07,,18.1333333,-76.55
+jm,skipton,Skipton,09,,18.3166667,-77.4166667
+jm,slanhope,Slanhope,01,,18.1833333,-77.2666667
+jm,slanmore,Slanmore,08,,18.05,-76.85
+jm,sligoville,Sligoville,10,,18.1,-76.95
+jm,slipe,Slipe,11,,18.05,-77.7833333
+jm,smithfield,Smithfield,02,,18.4,-78.1
+jm,smithfield,Smithfield,04,,17.9,-77.4833333
+jm,smithfield,Smithfield,07,,18.1166667,-76.7166667
+jm,smithfield,Smithfield,11,,17.95,-77.8166667
+jm,smiths pen,Smiths Pen,08,,18.05,-76.8
+jm,smith village,Smith Village,07,,18.05,-76.3
+jm,smithville,Smithville,01,,18.1,-77.3666667
+jm,snowden,Snowden,04,,17.95,-77.4833333
+jm,snowdon,Snowdon,04,,17.95,-77.4833333
+jm,socks lodge,Socks Lodge,09,,18.45,-77.4166667
+jm,sod hall,Sod Hall,02,,18.35,-78.0
+jm,soho,Soho,04,,17.95,-77.4
+jm,soho,Soho,14,,17.9333333,-76.45
+jm,somerset hall,Somerset Hall,10,,18.0333333,-77.15
+jm,somerset,Somerset,04,,18.0666667,-77.55
+jm,somerset,Somerset,08,,17.9833333,-76.6333333
+jm,somerset,Somerset,14,,17.9666667,-76.5333333
+jm,somersett,Somersett,04,,18.0666667,-77.55
+jm,somersett,Somersett,09,,18.3666667,-77.3166667
+jm,somerton,Somerton,12,,18.4333333,-77.7833333
+jm,somerville,Somerville,10,,18.1333333,-77.05
+jm,sommerset,Sommerset,09,,18.3666667,-77.3166667
+jm,sommers town,Sommers Town,07,,18.1666667,-76.4333333
+jm,sooky gal,Sooky Gal,10,,18.1333333,-76.9
+jm,soursop turn,Soursop Turn,01,,18.0333333,-77.2333333
+jm,southfield,Southfield,09,,18.4333333,-77.2833333
+jm,southfield,Southfield,11,,17.8833333,-77.6666667
+jm,spaldings,Spaldings,01,,18.15,-77.45
+jm,spanish town,Spanish Town,10,145024,17.9833333,-76.95
+jm,spanish well,Spanish Well,01,,18.0166667,-77.3833333
+jm,spa spring,Spa Spring,08,,18.0833333,-76.6833333
+jm,speculation,Speculation,11,,18.0666667,-77.8833333
+jm,spencers pen,Spencers Pen,10,,18.0166667,-76.95
+jm,spicy grove,Spicy Grove,13,,18.2333333,-76.7333333
+jm,spicy grove,Spicy Grove,13,,18.4,-76.95
+jm,spitzbergen,Spitzbergen,04,,18.1166667,-77.4833333
+jm,spitzburgen,Spitzburgen,04,,18.1166667,-77.4833333
+jm,spotfield,Spotfield,15,,18.4,-77.5666667
+jm,spot valley,Spot Valley,12,,18.5,-77.7833333
+jm,spring bank,Spring Bank,14,,17.95,-76.3333333
+jm,springdale,Springdale,11,,18.1333333,-77.85
+jm,springfield,Springfield,01,,17.85,-77.3333333
+jm,springfield,Springfield,07,,18.15,-76.5833333
+jm,springfield,Springfield,10,,17.9833333,-77.0666667
+jm,springfield,Springfield,11,,18.1666667,-77.8833333
+jm,springfield,Springfield,12,,18.3666667,-77.85
+jm,springfield,Springfield,13,,18.2166667,-76.7333333
+jm,springfield,Springfield,14,,17.9,-76.2666667
+jm,springfield,Springfield,16,,18.2666667,-78.3
+jm,spring garden,Spring Garden,07,,18.1833333,-76.5333333
+jm,spring garden,Spring Garden,10,,17.9833333,-77.0666667
+jm,spring garden,Spring Garden,12,,18.3666667,-77.8166667
+jm,spring garden,Spring Garden,14,,17.9166667,-76.4333333
+jm,spring garden,Spring Garden,15,,18.3,-77.5666667
+jm,spring grove,Spring Grove,13,,18.4,-76.95
+jm,spring hill,Spring Hill,07,,18.1166667,-76.7166667
+jm,spring mount estate,Spring Mount Estate,12,,18.3833333,-77.85
+jm,spring mount,Spring Mount,12,,18.3833333,-77.85
+jm,spring park,Spring Park,11,,18.05,-77.8666667
+jm,spring rises,Spring Rises,15,,18.4666667,-77.5833333
+jm,spring,Spring,10,,17.9666667,-77.0666667
+jm,spring vale house,Spring Vale House,15,,18.3833333,-77.7666667
+jm,springvale,Springvale,10,,18.0833333,-77.0666667
+jm,springvale,Springvale,11,,18.1333333,-77.85
+jm,spring vale,Spring Vale,15,,18.3833333,-77.7666667
+jm,spring valley,Spring Valley,02,,18.4,-78.25
+jm,spring valley,Spring Valley,07,,18.0333333,-76.3
+jm,spring valley,Spring Valley,13,,18.4,-77.0333333
+jm,spring village,Spring Village,10,,17.9666667,-77.0666667
+jm,spur tree hill,Spur Tree Hill,04,,18.0166667,-77.5666667
+jm,spur tree,Spur Tree,04,,18.0166667,-77.5666667
+jm,sta apple grove,Sta Apple Grove,07,,18.2,-76.6666667
+jm,staketon,Staketon,09,,18.3166667,-77.1333333
+jm,stanberry grove,Stanberry Grove,10,,18.0666667,-76.95
+jm,stanhope,Stanhope,01,,18.1833333,-77.2666667
+jm,stanmer,Stanmer,08,,18.05,-76.85
+jm,stanmore grove,Stanmore Grove,09,,18.4,-77.0833333
+jm,stanmore,Stanmore,14,,17.8666667,-76.4666667
+jm,stanton harcourt,Stanton Harcourt,07,,18.1333333,-76.45
+jm,stanton,Stanton,07,,17.8833333,-76.4
+jm,starapple grove,Starapple Grove,07,,18.2,-76.6666667
+jm,steelfield,Steelfield,15,,18.45,-77.55
+jm,steerfield,Steerfield,09,,18.3333333,-77.15
+jm,steer town,Steer Town,09,,18.4166667,-77.1666667
+jm,stepney,Stepney,09,,18.2833333,-77.2833333
+jm,sterling castle,Sterling Castle,08,,18.05,-76.8333333
+jm,stettin,Stettin,15,,18.2833333,-77.5333333
+jm,stewarton,Stewarton,01,,17.9833333,-77.2333333
+jm,stewart town,Stewart Town,15,,18.3833333,-77.45
+jm,stirling castle,Stirling Castle,04,,18.1,-77.5833333
+jm,stirling castle,Stirling Castle,08,,18.05,-76.8333333
+jm,stirling castle,Stirling Castle,10,,18.1833333,-77.05
+jm,stirling,Stirling,09,,18.2833333,-77.3
+jm,stokes hall,Stokes Hall,14,,17.9166667,-76.2833333
+jm,stonehenge,Stonehenge,12,,18.2333333,-77.8666667
+jm,stonehenge,Stonehenge,15,,18.3833333,-77.55
+jm,stone hill,Stone Hill,10,,18.0333333,-77.1166667
+jm,stony gut,Stony Gut,14,,17.9166667,-76.4166667
+jm,stony hill,Stony Hill,07,,18.1833333,-76.4833333
+jm,stony hill,Stony Hill,08,,18.0833333,-76.8
+jm,strawberry,Strawberry,09,,18.4166667,-77.3333333
+jm,stricklands,Stricklands,04,,18.05,-77.4333333
+jm,struie,Struie,16,,18.2666667,-77.9666667
+jm,strui,Strui,16,,18.2666667,-77.9666667
+jm,sturge town,Sturge Town,09,,18.4166667,-77.3166667
+jm,success pen,Success Pen,11,,17.9333333,-77.75
+jm,success,Success,02,,18.3666667,-78.05
+jm,success,Success,11,,17.9333333,-77.75
+jm,suffolk park,Suffolk Park,14,,17.95,-76.2833333
+jm,summer hill,Summer Hill,12,,18.3666667,-77.8166667
+jm,sunflower,Sunflower,14,,17.9666667,-76.35
+jm,sunning hill,Sunning Hill,14,,17.95,-76.3833333
+jm,sunning,Sunning,14,,17.95,-76.3833333
+jm,sunny bank,Sunny Bank,14,,17.9666667,-76.3166667
+jm,susan hill,Susan Hill,09,,18.3666667,-77.1166667
+jm,sussex,Sussex,09,,18.4166667,-77.2166667
+jm,suttons station,Suttons Station,01,,18.0666667,-77.2333333
+jm,suttons,Suttons,01,,17.8,-77.25
+jm,swallowfield,Swallowfield,08,,18.05,-76.8
+jm,swansea,Swansea,10,,18.15,-77.15
+jm,sweet river,Sweet River,16,,18.2333333,-78.0666667
+jm,swift river,Swift River,07,,18.1666667,-76.5833333
+jm,sydenham pen,Sydenham Pen,10,,17.9833333,-76.9833333
+jm,sydenham,Sydenham,10,,17.9833333,-76.9833333
+jm,tadmore,Tadmore,09,,18.2666667,-77.0833333
+jm,tales pen,Tales Pen,10,,18.0166667,-76.9666667
+jm,tanglewood,Tanglewood,09,,18.4333333,-77.2333333
+jm,tarentum,Tarentum,10,,18.05,-76.9333333
+jm,tarentun,Tarentun,10,,18.05,-76.9333333
+jm,tarwood,Tarwood,02,,18.3833333,-78.05
+jm,taws pen,Taws Pen,09,,18.3166667,-77.2
+jm,taylors,Taylors,10,,18.0333333,-76.9
+jm,teak pen,Teak Pen,01,,18.05,-77.2666667
+jm,teaks pen,Teaks Pen,01,,18.05,-77.2666667
+jm,tharp pen,Tharp Pen,10,,17.9666667,-77.0833333
+jm,thatchfield,Thatchfield,09,,18.35,-77.4
+jm,thatch pen,Thatch Pen,01,,18.0166667,-77.3166667
+jm,thatch walk,Thatch Walk,09,,18.3833333,-77.25
+jm,the alley,The Alley,01,,17.8,-77.2666667
+jm,the alps,The Alps,15,,18.3333333,-77.5166667
+jm,the alves,The Alves,01,,18.1166667,-77.1833333
+jm,the angel,The Angel,10,,18.0333333,-76.9833333
+jm,the bath,The Bath,01,,17.85,-77.3666667
+jm,the bath,The Bath,14,,17.95,-76.35
+jm,the cooperage,The Cooperage,08,,18.0333333,-76.7333333
+jm,the cottage,The Cottage,13,,18.2666667,-76.8833333
+jm,the cross,The Cross,01,,17.95,-77.2166667
+jm,the grove,The Grove,08,,18.0333333,-76.7333333
+jm,the lodge,The Lodge,10,,18.1333333,-77.0333333
+jm,the rectory,The Rectory,01,,18.0666667,-77.2666667
+jm,the rectory,The Rectory,07,,18.1833333,-76.6666667
+jm,the rest,The Rest,01,,17.8833333,-77.3666667
+jm,the rest,The Rest,10,,18.0166667,-77.0333333
+jm,the retreat,The Retreat,09,,18.3833333,-77.4166667
+jm,the rock,The Rock,15,,18.4833333,-77.6333333
+jm,the shambles,The Shambles,04,,17.9666667,-77.5333333
+jm,thetford mountain,Thetford Mountain,10,,18.0833333,-77.1333333
+jm,thetford,Thetford,10,,18.1333333,-77.15
+jm,the village,The Village,09,,18.3666667,-77.1166667
+jm,thickets,Thickets,09,,18.3666667,-77.1666667
+jm,thicket,Thicket,04,,17.9333333,-77.4
+jm,thompson hill,Thompson Hill,02,,18.4,-78.05
+jm,thompson pen,Thompson Pen,10,,18.0,-76.9333333
+jm,thompsons bush,Thompsons Bush,02,,18.4,-78.05
+jm,thompsons town,Thompsons Town,01,,18.0833333,-77.35
+jm,thompson,Thompson,01,,18.1,-77.3
+jm,thompson town,Thompson Town,01,,18.0833333,-77.35
+jm,thomson hill,Thomson Hill,02,,18.4,-78.05
+jm,thorn hill,Thorn Hill,04,,18.05,-77.4833333
+jm,thornhill,Thornhill,16,,18.15,-77.9666667
+jm,thornton,Thornton,11,,18.2,-77.7166667
+jm,thornton,Thornton,14,,17.95,-76.4
+jm,three mile river,Three Mile River,16,,18.2666667,-78.1333333
+jm,three mile,Three Mile,08,,17.9833333,-76.8333333
+jm,time and patience,Time and Patience,10,,18.15,-77.0333333
+jm,titchfield,Titchfield,09,,18.3333333,-77.35
+jm,tobolski,Tobolski,09,,18.3666667,-77.3833333
+jm,toll gate,Toll Gate,01,,17.9666667,-77.3666667
+jm,tombstone,Tombstone,11,,18.0666667,-77.7666667
+jm,tom kings,Tom Kings,01,,18.0666667,-77.2166667
+jm,tom mount,Tom Mount,02,,18.4166667,-78.15
+jm,tommy bush,Tommy Bush,16,,18.1,-77.9333333
+jm,tomsfield,Tomsfield,07,,18.1333333,-76.5166667
+jm,toms hope,Toms Hope,07,,18.1333333,-76.45
+jm,tom spring,Tom Spring,02,,18.4166667,-78.15
+jm,toms river,Toms River,08,,18.15,-76.8333333
+jm,top buxton,Top Buxton,09,,18.35,-77.3166667
+jm,top hill,Top Hill,11,,17.8833333,-77.65
+jm,top hill,Top Hill,13,,18.3166667,-76.9333333
+jm,torrington castle,Torrington Castle,11,,17.9333333,-77.7
+jm,torrington,Torrington,11,,17.9333333,-77.7
+jm,torrington,Torrington,16,,18.2333333,-78.1166667
+jm,tower hill,Tower Hill,08,,18.0,-76.65
+jm,town head,Town Head,16,,18.3166667,-78.1333333
+jm,townshens pen,Townshens Pen,10,,18.0166667,-76.95
+jm,tows pen,Tows Pen,09,,18.3166667,-77.2
+jm,trafalgar,Trafalgar,09,,18.35,-77.1666667
+jm,trafalgar,Trafalgar,12,,18.4333333,-77.9666667
+jm,tranent pilot,Tranent Pilot,09,,18.3833333,-77.2333333
+jm,treadlight,Treadlight,01,,17.9833333,-77.2666667
+jm,treadways,Treadways,10,,18.1833333,-77.05
+jm,treasure beach,Treasure Beach,11,,17.8833333,-77.7333333
+jm,tredways,Tredways,10,,18.1833333,-77.05
+jm,tree grove,Tree Grove,08,,18.0166667,-76.8166667
+jm,trench town,Trench Town,17,,17.9666667,-76.8
+jm,trentham park,Trentham Park,10,,18.0833333,-76.9166667
+jm,trenton,Trenton,01,,17.95,-77.2333333
+jm,trinity,Trinity,13,,18.3666667,-76.9
+jm,trinity ville,Trinity Ville,14,,17.95,-76.5333333
+jm,tripoli,Tripoli,09,,18.45,-77.3166667
+jm,troja,Troja,10,,18.2,-76.9166667
+jm,trout hall,Trout Hall,01,,18.1333333,-77.3333333
+jm,troy,Troy,01,,17.9333333,-77.1833333
+jm,troy,Troy,13,,18.4,-76.95
+jm,troy,Troy,15,,18.25,-77.6166667
+jm,troy village,Troy Village,15,,18.25,-77.6166667
+jm,truro gate,Truro Gate,16,,18.3,-78.15
+jm,truro pen,Truro Pen,16,,18.3,-78.15
+jm,truro,Truro,16,,18.3,-78.15
+jm,tryall,Tryall,02,,18.45,-78.0666667
+jm,tryal,Tryal,02,,18.45,-78.0666667
+jm,trysee village,Trysee Village,09,,18.45,-77.3
+jm,tug hill,Tug Hill,16,,18.2,-78.05
+jm,tulloch estate,Tulloch Estate,10,,18.1,-76.9833333
+jm,tulloch,Tulloch,10,,18.1,-76.9833333
+jm,tumbridge,Tumbridge,08,,18.05,-76.8166667
+jm,tunbridge,Tunbridge,08,,18.05,-76.8166667
+jm,turtle pond,Turtle Pond,01,,18.15,-77.25
+jm,tweedside,Tweedside,01,,18.1833333,-77.4166667
+jm,tweedside,Tweedside,14,,18.05,-76.6333333
+jm,twickenham park,Twickenham Park,10,,18.0,-76.9333333
+jm,tyre,Tyre,15,,18.25,-77.6
+jm,ulster spring,Ulster Spring,15,,18.3166667,-77.5166667
+jm,union hill,Union Hill,13,,18.3666667,-76.9833333
+jm,union pen,Union Pen,10,,17.9666667,-76.95
+jm,union,Union,09,,18.35,-77.0666667
+jm,union,Union,13,,18.3666667,-76.9833333
+jm,unity hall,Unity Hall,12,,18.4333333,-77.9833333
+jm,unity pen,Unity Pen,09,,18.4666667,-77.3166667
+jm,unity,Unity,01,,17.95,-77.1666667
+jm,unity,Unity,08,,18.1333333,-76.8666667
+jm,unity,Unity,09,,18.4666667,-77.3166667
+jm,unity valley,Unity Valley,09,,18.25,-77.1166667
+jm,unity valley,Unity Valley,14,,17.9166667,-76.35
+jm,up park camp,Up Park Camp,08,,17.9833333,-76.7833333
+jm,upper white horses,Upper White Horses,14,,17.8666667,-76.4833333
+jm,usher mount,Usher Mount,10,,18.0666667,-76.9333333
+jm,vale royal,Vale Royal,15,,18.4333333,-77.5333333
+jm,vanity fair,Vanity Fair,10,,18.15,-77.0333333
+jm,vaughansfield,Vaughansfield,12,,18.3166667,-77.8
+jm,vaz delight,Vaz Delight,10,,18.0166667,-77.05
+jm,victoria town,Victoria Town,04,,17.9,-77.3833333
+jm,victoria town,Victoria Town,13,,18.2833333,-77.0166667
+jm,village of christiana,Village of Christiana,04,,18.1666667,-77.4833333
+jm,village of davyton,Village of Davyton,04,,18.0666667,-77.45
+jm,village of kettering,Village of Kettering,15,,18.4666667,-77.5333333
+jm,village of pilox,Village of Pilox,14,,17.9166667,-76.4
+jm,village of shiloah,Village of Shiloah,11,,18.1666667,-77.7166667
+jm,village of spaldings,Village of Spaldings,01,,18.15,-77.45
+jm,village,Village,14,,17.95,-76.6166667
+jm,villa,Villa,13,,18.3833333,-76.9
+jm,vinegar hill,Vinegar Hill,16,,18.15,-77.9666667
+jm,vineyard town,Vineyard Town,17,,17.9666667,-76.7666667
+jm,vineyard,Vineyard,08,,17.9833333,-76.7833333
+jm,virginia,Virginia,04,,18.1,-77.4666667
+jm,wait a bit,Wait a Bit,15,,18.2333333,-77.5166667
+jm,wakefield,Wakefield,09,,18.4166667,-77.25
+jm,wakefield,Wakefield,10,,18.1,-77.05
+jm,wakefield,Wakefield,15,,18.4166667,-77.7166667
+jm,wakefield,Wakefield,16,,18.2166667,-78.1166667
+jm,walderston village,Walderston Village,04,,18.1166667,-77.4833333
+jm,walderston,Walderston,04,,18.1166667,-77.4833333
+jm,walingford,Walingford,13,,18.2666667,-77.0
+jm,walkers wood,Walkers Wood,09,,18.3166667,-77.0833333
+jm,wallen,Wallen,01,,17.9666667,-77.25
+jm,wallingford,Wallingford,13,,18.2666667,-77.0
+jm,waltingford,Waltingford,13,,18.2666667,-77.0
+jm,walton,Walton,09,,18.2333333,-77.2166667
+jm,warsaw,Warsaw,07,,18.1333333,-76.55
+jm,warsop,Warsop,01,,17.9666667,-77.25
+jm,warsop,Warsop,15,,18.2666667,-77.5833333
+jm,warwick,Warwick,04,,17.9,-77.4333333
+jm,washington gardens,Washington Gardens,08,,18.0166667,-76.85
+jm,watchwell,Watchwell,11,,17.9333333,-77.7666667
+jm,waterhouse pen,Waterhouse Pen,08,,18.0166667,-76.85
+jm,waterhouse,Waterhouse,08,,18.0166667,-76.85
+jm,watering,Watering,09,,18.3166667,-77.4
+jm,waterloo,Waterloo,09,,18.3833333,-77.35
+jm,waterloo,Waterloo,10,,18.0166667,-76.9333333
+jm,watermount,Watermount,10,,18.0666667,-77.1
+jm,water valley,Water Valley,13,,18.2833333,-76.8333333
+jm,water valley,Water Valley,14,,17.8666667,-76.3833333
+jm,water wheel,Water Wheel,16,,18.2,-78.05
+jm,water works,Water Works,16,,18.2333333,-78.05
+jm,watson town,Watson Town,12,,18.45,-77.7666667
+jm,watt town,Watt Town,09,,18.3,-77.4166667
+jm,wedge well,Wedge Well,01,,18.1333333,-77.2333333
+jm,welcome,Welcome,09,,18.2833333,-77.35
+jm,wemyss,Wemyss,12,,18.4,-77.7666667
+jm,westfield,Westfield,02,,18.35,-78.25
+jm,westfield,Westfield,04,,17.9,-77.55
+jm,westfield,Westfield,07,,18.2,-76.6333333
+jm,westlands,Westlands,16,,18.2666667,-78.3666667
+jm,westphalia,Westphalia,11,,18.0666667,-77.65
+jm,weymouth,Weymouth,09,,18.4333333,-77.4333333
+jm,wharton,Wharton,11,,18.0666667,-77.7333333
+jm,wheelerfield,Wheelerfield,14,,17.95,-76.2833333
+jm,wheelersfield,Wheelersfield,14,,17.95,-76.2833333
+jm,whitaker corner,Whitaker Corner,01,,17.7666667,-77.2333333
+jm,whitbeck,Whitbeck,15,,18.25,-77.7166667
+jm,whitby,Whitby,04,,18.2,-77.5666667
+jm,whitehall,Whitehall,07,,18.2,-76.7166667
+jm,white hall,White Hall,11,,18.1,-77.85
+jm,whitehall,Whitehall,13,,18.3,-76.8833333
+jm,white hall,White Hall,14,,17.95,-76.4333333
+jm,whitehall,Whitehall,14,,17.95,-76.45
+jm,whitehall,Whitehall,16,,18.2666667,-78.3333333
+jm,white hill,White Hill,11,,18.15,-77.8
+jm,whitehorns thickets,Whitehorns Thickets,09,,18.3666667,-77.1666667
+jm,whitehorns thicket,Whitehorns Thicket,09,,18.3666667,-77.1666667
+jm,white horses village,White Horses Village,14,,17.8666667,-76.4833333
+jm,white horses,White Horses,14,,17.8666667,-76.4833333
+jm,whitehouse,Whitehouse,16,,18.0833333,-77.9666667
+jm,white river,White River,13,,18.4,-77.0666667
+jm,white rock,White Rock,11,,17.95,-77.8
+jm,whitfield town,Whitfield Town,08,,17.9833333,-76.8166667
+jm,whitfield,Whitfield,04,,18.05,-77.5666667
+jm,whithorne,Whithorne,16,,18.25,-78.0333333
+jm,whithorn,Whithorn,16,,18.25,-78.0333333
+jm,whitnay turn,Whitnay Turn,01,,18.0166667,-77.3833333
+jm,whitney turn,Whitney Turn,01,,18.0166667,-77.3833333
+jm,whitney,Whitney,01,,18.05,-77.3833333
+jm,whorton,Whorton,11,,18.0666667,-77.7333333
+jm,whydaw,Whydaw,07,,18.1833333,-76.5166667
+jm,whydow,Whydow,07,,18.1833333,-76.5166667
+jm,wick,Wick,09,,18.3166667,-77.35
+jm,wigton,Wigton,04,,17.9,-77.5333333
+jm,wilbury,Wilbury,01,,18.1166667,-77.1833333
+jm,wilderness,Wilderness,13,,18.4,-76.9333333
+jm,williamsfield,Williamsfield,04,,18.0666667,-77.4666667
+jm,williamsfield,Williamsfield,07,,18.0,-76.2666667
+jm,williamsfield,Williamsfield,09,,18.4333333,-77.3833333
+jm,williamsfield,Williamsfield,10,,18.0166667,-76.9833333
+jm,williamsfield,Williamsfield,11,,17.9333333,-77.7666667
+jm,williamsfield,Williamsfield,16,,18.3166667,-78.0666667
+jm,williams moreland,Williams Moreland,16,,18.2833333,-78.2666667
+jm,williamsons,Williamsons,09,,18.2,-77.15
+jm,williams town,Williams Town,13,,18.2833333,-76.9666667
+jm,wilmington,Wilmington,14,,17.9166667,-76.4
+jm,wilsons,Wilsons,15,,18.2666667,-77.5666667
+jm,wilson,Wilson,15,,18.2666667,-77.5666667
+jm,wilton,Wilton,11,,18.05,-77.65
+jm,wiltshire,Wiltshire,12,,18.4166667,-77.95
+jm,winchester house,Winchester House,14,,17.9333333,-76.2833333
+jm,winchester,Winchester,07,,18.1666667,-76.6666667
+jm,winchester,Winchester,11,,17.9666667,-77.7666667
+jm,winchester,Winchester,14,,17.9333333,-76.2833333
+jm,windsor castle,Windsor Castle,07,,18.2666667,-76.7
+jm,windsor castle,Windsor Castle,13,,18.25,-76.95
+jm,windsor castle,Windsor Castle,14,,17.9333333,-76.55
+jm,windsor forest,Windsor Forest,07,,18.1,-76.3333333
+jm,windsor heights,Windsor Heights,09,,18.4166667,-77.2
+jm,windsor house,Windsor House,15,,18.3666667,-77.6166667
+jm,windsor lodge,Windsor Lodge,12,,18.4333333,-77.8
+jm,windsor lodge,Windsor Lodge,14,,18.0166667,-76.6333333
+jm,windsor park,Windsor Park,10,,17.9666667,-76.9833333
+jm,windsor,Windsor,07,,18.1166667,-76.45
+jm,windsor,Windsor,10,,17.9666667,-76.9833333
+jm,windsor,Windsor,15,,18.35,-77.65
+jm,windsor,Windsor,16,,18.2333333,-78.1166667
+jm,winefield,Winefield,09,,18.3833333,-77.2
+jm,woodberry,Woodberry,09,,18.2833333,-77.15
+jm,wood hall,Wood Hall,01,,18.05,-77.2666667
+jm,wood hall,Wood Hall,10,,17.95,-77.1166667
+jm,woodhall,Woodhall,10,,18.05,-77.1333333
+jm,woodlands pen,Woodlands Pen,10,,17.9666667,-76.95
+jm,woodlands,Woodlands,04,,17.9,-77.4833333
+jm,woodlands,Woodlands,10,,17.9666667,-76.95
+jm,woodside,Woodside,01,,17.9833333,-77.2833333
+jm,woodside,Woodside,13,,18.25,-76.9333333
+jm,woodstock,Woodstock,07,,18.2333333,-76.6666667
+jm,woodstock,Woodstock,11,,18.15,-77.9
+jm,woolbury,Woolbury,09,,18.2833333,-77.15
+jm,woolwich,Woolwich,09,,18.3,-77.4166667
+jm,woolwich,Woolwich,11,,18.0666667,-77.75
+jm,worcester pen,Worcester Pen,10,,17.9666667,-77.0
+jm,worcester,Worcester,10,,17.9666667,-77.0
+jm,worthy park,Worthy Park,10,,18.15,-77.15
+jm,yallahs bay,Yallahs Bay,14,,17.8666667,-76.5666667
+jm,yallahs village,Yallahs Village,14,,17.8666667,-76.5666667
+jm,yallahs,Yallahs,14,,17.8666667,-76.5666667
+jm,yarmouth,Yarmouth,01,,17.8833333,-77.2833333
+jm,yates savanna,Yates Savanna,01,,17.85,-77.2333333
+jm,york castle,York Castle,09,,18.2666667,-77.2166667
+jm,york street,York Street,10,,18.1833333,-77.0333333
+jm,york village,York Village,04,,17.9333333,-77.45
+jm,york,York,01,,17.9333333,-77.2666667
+jm,york,York,04,,17.9333333,-77.45
+jm,york,York,16,,18.2833333,-77.95
+jm,y.s. estate,Y.S. Estate,11,,18.15,-77.8166667
+jm,ys house,Ys House,11,,18.15,-77.8166667
+jm,zion hill,Zion Hill,08,,18.0833333,-76.8333333
+jm,zion hill,Zion Hill,10,,18.1166667,-76.9

@@ -1,0 +1,236 @@
+st,a. andrade,A. Andrade,02,,0.2333333,6.7
+st,abade,Abade,01,,1.6333333,7.45
+st,agua-coco,Água-Côco,02,,0.05,6.5333333
+st,agua ize,Água Izé,02,,0.2166667,6.7333333
+st,alto douro,Alto Douro,02,,0.05,6.5333333
+st,amparo,Amparo,02,,0.1833333,6.6666667
+st,amparo ii,Amparo II,02,,0.3166667,6.7166667
+st,anselmo de andrade,Anselmo de Andrade,01,,1.6,7.3666667
+st,antonio dias,António Dias,02,,0.2,6.6666667
+st,atalaia,Atalaia,01,,1.6166667,7.45
+st,azeitona,Azeitona,01,,1.6666667,7.4
+st,babudo,Babudo,01,,1.65,7.4
+st,bela vista,Bela Vista,01,,1.6166667,7.4166667
+st,bela vista,Bela Vista,02,,0.3666667,6.7
+st,belmonte,Belmonte,02,,0.3333333,6.65
+st,belo monte,Belo Monte,01,,1.6833333,7.45
+st,bemfica,Bemfica,02,,0.3166667,6.65
+st,bemposta,Bemposta,02,,0.3166667,6.6333333
+st,b. faro,B. Faro,02,,0.2333333,6.6666667
+st,binda,Bindá,02,,0.2166667,6.4666667
+st,blublu,Blublu,02,,0.3166667,6.7166667
+st,boa entrada,Boa Entrada,02,,0.35,6.6666667
+st,boa esperanca,Boa Esperança,02,,0.3333333,6.6333333
+st,bombaim,Bombaim,02,,0.25,6.6333333
+st,bombom,Bombom,01,,1.6833333,7.4
+st,bombon,Bombon,02,,0.3166667,6.7333333
+st,buenos aires,Buenos Aires,02,,0.2666667,6.7166667
+st,buenos ayres,Buenos Ayres,02,,0.2666667,6.7166667
+st,cadao,Cadão,02,,0.3333333,6.5333333
+st,caixao grande,Caixão Grande,02,,0.3,6.7166667
+st,caldeiras,Caldeiras,02,,0.35,6.6333333
+st,campainha,Campainha,01,,1.6833333,7.4333333
+st,canavial,Canavial,02,,0.3833333,6.6666667
+st,cantagalo,Cantagalo,02,,0.2166667,6.6833333
+st,caridade,Caridade,02,,0.2,6.7
+st,cascalheira,Cascalheira,01,,1.6833333,7.4166667
+st,catumbela,Catumbela,02,,0.25,6.6666667
+st,chamico,Chamiço,02,,0.3166667,6.6
+st,cidade de santo antonio,Cidade de Santo António,01,,1.65,7.4333333
+st,cincoenta,Cincoenta,01,,1.6833333,7.3666667
+st,colonia acoreana,Colónia Açoreana,02,,0.1833333,6.6833333
+st,correio,Correio,01,,1.6,7.35
+st,costa e silva,Costa e Silva,01,,1.5666667,7.35
+st,diana,Diana,02,,0.3333333,6.6833333
+st,diogo vaz,Diogo Vaz,02,,0.3166667,6.5
+st,dona augusta,Dona Augusta,02,,0.1166667,6.6333333
+st,dona eugenia,Dona Eugénia,02,,0.1333333,6.6166667
+st,enjale,Enjale,02,,0.0333333,6.5166667
+st,ermelinda,Ermelinda,02,,0.1333333,6.5833333
+st,esperanca,Esperança,01,,1.6333333,7.4
+st,esprainha,Esprainha,02,,0.3333333,6.5166667
+st,fernao dias,Fernão Dias,02,,0.4166667,6.6833333
+st,f. mantero,F. Mantero,02,,0.25,6.7166667
+st,formiga,Formiga,02,,0.25,6.4833333
+st,futuro,Futuro,01,,1.6666667,7.4333333
+st,general fonseca,General Fonseca,01,,1.5666667,7.4333333
+st,germinia antonia,Germinia Antónia,01,,1.6333333,7.3833333
+st,ghegue novo,Ghegue Novo,02,,0.2666667,6.7166667
+st,graca,Graça,02,,0.25,6.4833333
+st,granja,Granja,02,,0.15,6.6333333
+st,gratidao,Gratidão,02,,0.3333333,6.6833333
+st,guadalupe,Guadalupe,02,,0.3833333,6.65
+st,guarda,Guarda,02,,0.35,6.6
+st,guayaquil,Guayaquil,02,,0.2,6.6166667
+st,guegue novo,Guegue Novo,02,,0.2666667,6.7166667
+st,gumbela,Gumbela,02,,0.0833333,6.55
+st,henrique,Henrique,02,,0.05,6.55
+st,infante dom henrique,Infante Dom Henrique,01,,1.5666667,7.4166667
+st,io grande,Ió Grande,02,,0.2166667,6.6166667
+st,iola,Iola,01,,1.65,7.3666667
+st,java,Java,02,,0.2666667,6.65
+st,kimpo,Kimpo,02,,0.25,6.7166667
+st,lapa,Lapa,01,,1.6,7.3666667
+st,laura,Laura,02,,0.2833333,6.7
+st,lemba,Lembá,02,,0.25,6.4666667
+st,lemos,Lemos,02,,0.3,6.7
+st,macambrara,Macambrará,02,,0.2666667,6.6333333
+st,madalena,Madalena,02,,0.3333333,6.6666667
+st,magdalena,Magdalena,02,,0.3333333,6.6666667
+st,makambrara,Makambrará,02,,0.2666667,6.6333333
+st,m. alice,M. Alice,02,,0.0666667,6.5333333
+st,mantero,Mantero,01,,1.6,7.35
+st,manuel gomes,Manuel Gomes,01,,1.6333333,7.3833333
+st,maquina,Máquina,01,,1.6333333,7.3833333
+st,matocana,Matocana,02,,0.2333333,6.7
+st,milagrosa,Milagrosa,02,,0.2833333,6.6666667
+st,mirante,Mirante,02,,0.25,6.5166667
+st,montalegre,Montalegre,01,,1.6333333,7.3833333
+st,montalvao,Montalvão,01,,1.6666667,7.4166667
+st,montebelo,Montebelo,02,,0.2166667,6.7166667
+st,monte cafe,Monte Café,02,,0.3,6.65
+st,monte carmo,Monte Carmo,02,,0.15,6.5833333
+st,monteforte,Monteforte,02,,0.3333333,6.5333333
+st,monte pedra,Monte Pedra,01,,1.6166667,7.4333333
+st,monte raul,Monte Raul,02,,0.2166667,6.6833333
+st,monte rosa,Monte Rosa,02,,0.1333333,6.5166667
+st,monte roza,Monte Roza,02,,0.1333333,6.5166667
+st,montes herminios,Montes Hermínios,02,,0.25,6.7
+st,morro vigia,Morro Vigia,02,,0.3333333,6.6
+st,m. peixe,M. Peixe,02,,0.4,6.65
+st,mulondo,Mulondo,02,,0.3,6.5166667
+st,m. vilela,M. Vilela,02,,0.2833333,6.5666667
+st,nazare,Nazaré,02,,0.3666667,6.7166667
+st,n. ceilao,N. Ceilão,02,,0.2833333,6.6
+st,n. ceylao,N. Ceylão,02,,0.2833333,6.6
+st,neves ferreira,Neves Ferreira,01,,1.55,7.4
+st,neves,Neves,02,,0.3666667,6.55
+st,nitreira,Nitreira,01,,1.6166667,7.4166667
+st,nova cuba,Nova Cuba,01,,1.6333333,7.4166667
+st,nova estrela,Nova Estrela,01,,1.6166667,7.4333333
+st,nova moca,Nova Moca,02,,0.2833333,6.6333333
+st,nova moka,Nova Moka,02,,0.2833333,6.6333333
+st,nova olinda,Nova Olinda,02,,0.25,6.7333333
+st,novo brasil,Novo Brasil,02,,0.0833333,6.5666667
+st,novo brazil,Novo Brazil,02,,0.0833333,6.5666667
+st,novo destino,Novo Destino,02,,0.3166667,6.6333333
+st,n'zumbi,N'zumbi,02,,0.0666667,6.55
+st,oque gaspar,Oquê Gaspar,01,,1.65,7.4166667
+st,oque rosario,Oquê Rosário,01,,1.65,7.4166667
+st,oque tres,Oquê Três,01,,1.65,7.4
+st,paciencia,Paciencia,01,,1.6666667,7.4333333
+st,paris,Paris,02,,0.3333333,6.6833333
+st,pau cavalo,Pau Cavalo,01,,1.65,7.3833333
+st,paufita,Paufita,01,,1.6833333,7.4166667
+st,periquito,Periquito,01,,1.6,7.4333333
+st,perseveranca,Perseverança,02,,0.0833333,6.6166667
+st,pico,Pico,01,,1.6166667,7.4
+st,piedade,Piedade,01,,1.6333333,7.4333333
+st,pincate,Pincaté,01,,1.6333333,7.4
+st,pinheira,Pinheira,02,,0.2833333,6.7166667
+st,planca primeira,Planca Primeira,02,,0.4,6.6
+st,planca segunda,Planca Segunda,02,,0.4,6.6166667
+st,plancas,Plancas,02,,0.3666667,6.6
+st,plato cafe,Platô Café,02,,0.2666667,6.6666667
+st,poiso alto,Poiso Alto,02,,0.3333333,6.6166667
+st,ponta do sol,Ponta do Sol,01,,1.65,7.3833333
+st,ponta figo,Ponta Figo,02,,0.35,6.55
+st,ponta forte,Ponta Forte,01,,1.6666667,7.4333333
+st,ponta furada,Ponta Furada,02,,0.2333333,6.4833333
+st,portinho,Portinho,02,,0.0833333,6.5333333
+st,porto alegre,Porto Alegre,02,,0.0333333,6.5333333
+st,praia da rosema,Praia da Rosema,02,,0.3666667,6.5666667
+st,praia das conchas,Praia das Conchas,02,,0.3833333,6.6166667
+st,praia grande,Praia Grande,02,,0.0833333,6.5833333
+st,praia inhame,Praia Inhame,01,,1.6666667,7.4333333
+st,queluz,Queluz,02,,0.3333333,6.65
+st,quimpo,Quimpo,02,,0.25,6.7166667
+st,quinas,Quinas,02,,0.2666667,6.6
+st,quingue,Quingué,02,,0.2833333,6.6666667
+st,ribeira afonso,Ribeira Afonso,02,,0.2,6.7166667
+st,ribeira fria,Ribeira Fria,01,,1.5833333,7.4333333
+st,ribeira funda,Ribeira Funda,02,,0.3666667,6.5833333
+st,ribeira ize,Ribeira Izé,01,,1.6833333,7.4
+st,ribeira palma,Ribeira Palma,02,,0.35,6.5833333
+st,rio ave,Rio Ave,02,,0.2666667,6.5
+st,rio do ouro,Rio do Ouro,02,,0.3666667,6.65
+st,rio leca,Rio Leça,02,,0.35,6.55
+st,rio vouga,Rio Vouga,02,,0.3333333,6.7
+st,roca furada,Roça Furada,02,,0.2333333,6.4833333
+st,rosema,Rosema,02,,0.35,6.5666667
+st,rozema,Rozema,02,,0.35,6.5666667
+st,salazar,Salazar,02,,0.3333333,6.7333333
+st,salomao,Salomão,01,,1.6333333,7.3833333
+st,san antonio,San Antonio,01,,1.65,7.4333333
+st,santa adelaide,Santa Adelaide,02,,0.2666667,6.65
+st,santa catanna,Santa Catanna,02,,0.2666667,6.4833333
+st,santa catarina,Santa Catarina,02,,0.2666667,6.4833333
+st,santa cecilia,Santa Cecília,02,,0.1833333,6.7
+st,santa clara,Santa Clara,02,,0.35,6.6166667
+st,santa clotilde,Santa Clotilde,02,,0.1166667,6.6
+st,santa cruz,Santa Cruz,02,,0.1333333,6.65
+st,santa elvira,Santa Elvira,02,,0.2666667,6.65
+st,santa irene,Santa Irene,02,,0.1,6.6
+st,santa isabel,Santa Isabel,01,,1.65,7.4166667
+st,santa joaquina,Santa Joaquina,01,,1.6166667,7.4
+st,santa josefina,Santa Josefina,02,,0.0666667,6.5333333
+st,santa luzia,Santa Luzia,02,,0.3666667,6.6333333
+st,santa margarida,Santa Margarida,02,,0.3333333,6.6666667
+st,santa maria,Santa Maria,02,,0.35,6.6
+st,santana,Santana,01,,1.6666667,7.4333333
+st,sant'ana,Sant'Ana,02,,0.2666667,6.75
+st,santarem,Santarém,02,,0.35,6.6833333
+st,santa rita,Santa Rita,01,,1.6833333,7.4166667
+st,santa trindade,Santa Trindade,01,,1.6166667,7.4
+st,sant'elmo,Sant'Elmo,02,,0.2166667,6.6166667
+st,sant'elvira,Sant'Elvira,02,,0.2666667,6.65
+st,santo amaro,Santo Amaro,02,,0.3666667,6.7
+st,santo andre,Santo André,02,,0.3333333,6.7
+st,santo antonio,Santo António,01,,1.65,7.4166667
+st,santo antonio,Santo António,02,,0.2333333,6.7333333
+st,santo cristo,Santo Cristo,01,,1.6333333,7.4333333
+st,sao antonio,São Antõnio,01,,1.65,7.4333333
+st,sao carlos do fundao,São Carlos do Fundão,01,,1.6166667,7.3833333
+st,sao francisco,São Francisco,02,,0.2,6.65
+st,sao januario,São Januário,02,,0.25,6.6666667
+st,sao jao,São Jão,02,,0.1333333,6.65
+st,sao jeronimo,São Jerónimo,01,,1.6833333,7.3666667
+st,sao jeronimo,São Jerónimo,02,,0.2,6.6833333
+st,sao jeronymo,São Jerónymo,02,,0.2,6.6833333
+st,sao joao,São João,01,,1.65,7.4333333
+st,sao joao,São João,02,,0.0833333,6.55
+st,sao joaquim,São Joaquim,01,,1.6166667,7.3833333
+st,sao jorge,São Jorge,01,,1.6666667,7.4
+st,sao jose picate,São José Picaté,01,,1.6333333,7.4
+st,sao jose,São José,01,,1.6333333,7.4
+st,sao jose,São José,02,,0.1166667,6.6
+st,sao luis,São Luís,02,,0.3,6.6166667
+st,sao luiz,São Luiz,02,,0.3,6.6166667
+st,sao manoel,São Manoel,02,,0.2666667,6.4833333
+st,sao manuel,São Manuel,02,,0.2666667,6.4833333
+st,sao mateus,São Mateus,01,,1.6333333,7.4
+st,sao miguel,São Miguel,02,,0.1333333,6.5
+st,sao nicolau,São Nicolau,02,,0.2833333,6.6333333
+st,sao paulo,São Paulo,02,,0.2,6.65
+st,sao pedro,São Pedro,02,,0.2833333,6.7
+st,sao thome,Sào Thomé,02,,0.3333333,6.7333333
+st,sao tome,São Tomé,02,,0.3333333,6.7333333
+st,saudade,Saudade,02,,0.2833333,6.6333333
+st,sequeira,Sequeira,01,,1.6333333,7.3833333
+st,soledade,Soledade,02,,0.1333333,6.65
+st,sundi,Sundi,01,,1.6666667,7.3833333
+st,terra firme,Terra Firme,01,,1.6833333,7.4666667
+st,tras os montes,Trás os Montes,02,,0.2666667,6.6166667
+st,traz os montes,Traz os Montes,02,,0.2666667,6.6166667
+st,trindade,Trindade,02,,0.3,6.6833333
+st,triunfo,Triunfo,02,,0.4,6.6833333
+st,ubabudo,Ubabudo,02,,0.2666667,6.75
+st,uba,Uba,01,,1.6333333,7.3833333
+st,urzelina,Urzelina,02,,0.1833333,6.6833333
+st,val carmo,Val Carmo,02,,0.1666667,6.6333333
+st,vila conceicao,Vila Conceição,02,,0.05,6.5666667
+st,vila moura,Vila Moura,02,,0.3,6.6833333
+st,vila rosa,Vila Rosa,01,,1.6833333,7.4166667
+st,vila sara,Vila Sara,02,,0.3333333,6.5833333
+st,vila verde,Vila Verde,02,,0.1333333,6.55
+st,vista alegre,Vista Alegre,02,,0.3166667,6.6833333

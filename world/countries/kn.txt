@@ -1,0 +1,187 @@
+kn,bachelor hall,Bachelor Hall,04,,17.1333333,-62.5166667
+kn,bachelors hall,Bachelors Hall,04,,17.1333333,-62.5166667
+kn,barnabys village,Barnabys Village,05,,17.2,-62.55
+kn,barnes ghaut,Barnes Ghaut,12,,17.1666667,-62.6
+kn,barnes gut village,Barnes Gut Village,12,,17.1666667,-62.6
+kn,basseterre,Basseterre,03,12920,17.3,-62.7166667
+kn,basse terre town,Basse Terre Town,03,,17.3,-62.7166667
+kn,bath,Bath,07,,17.1333333,-62.6166667
+kn,bath village,Bath Village,07,,17.1333333,-62.6166667
+kn,bayford's,Bayford's,11,,17.3333333,-62.7166667
+kn,bayfords village,Bayfords Village,11,,17.3333333,-62.7166667
+kn,beaumont,Beaumont,07,,17.1166667,-62.5666667
+kn,beaumont village,Beaumont Village,07,,17.1166667,-62.5666667
+kn,belle vue,Belle Vue,06,,17.4,-62.7833333
+kn,boreo,Boreo,01,,17.3833333,-62.7333333
+kn,bourryau,Bourryau,01,,17.3833333,-62.7333333
+kn,box hill,Box Hill,04,,17.1333333,-62.55
+kn,boyd's,Boyd's,15,,17.2833333,-62.7666667
+kn,bramble,Bramble,06,,17.3833333,-62.7666667
+kn,brambles,Brambles,06,,17.3833333,-62.7666667
+kn,brick kiln,Brick Kiln,05,,17.1833333,-62.55
+kn,brick kiln village,Brick Kiln Village,05,,17.1833333,-62.55
+kn,brown,Brown,06,,17.4,-62.8
+kn,brownes,Brownes,06,,17.4,-62.8
+kn,brown hill,Brown Hill,07,,17.1166667,-62.6
+kn,brown pasture,Brown Pasture,07,,17.1166667,-62.5833333
+kn,brown pasture village,Brown Pasture Village,07,,17.1166667,-62.5833333
+kn,brumaire,Brumaire,03,,17.3,-62.7333333
+kn,buck hill village,Buck Hill Village,04,,17.1333333,-62.55
+kn,buck's hill,Buck's Hill,04,,17.1333333,-62.55
+kn,burnaby,Burnaby,05,,17.1833333,-62.5666667
+kn,burts,Burts,02,,17.3666667,-62.8166667
+kn,butlers,Butlers,05,,17.1666667,-62.55
+kn,camps,Camps,05,,17.1833333,-62.5666667
+kn,canada,Canada,11,,17.3333333,-62.7
+kn,cayon,Cayon,08,788,17.35,-62.7333333
+kn,cayon village,Cayon Village,08,,17.35,-62.7333333
+kn,cayton,Cayton,08,,17.35,-62.7333333
+kn,challengers,Challengers,15,,17.3,-62.7833333
+kn,challengers village,Challengers Village,15,,17.3,-62.7833333
+kn,charlestown,Charlestown,07,1538,17.1333333,-62.6166667
+kn,chicken stone,Chicken Stone,07,,17.1166667,-62.5666667
+kn,church ground,Church Ground,07,,17.1166667,-62.6
+kn,clifton,Clifton,06,,17.4,-62.8
+kn,clifton,Clifton,12,,17.1833333,-62.6
+kn,cliftons,Cliftons,06,,17.4,-62.8
+kn,cliftons,Cliftons,12,,17.1833333,-62.6
+kn,cole hill,Cole Hill,07,,17.1166667,-62.5833333
+kn,cotton ground,Cotton Ground,12,381,17.1666667,-62.6166667
+kn,cotton ground village,Cotton Ground Village,12,,17.1666667,-62.6166667
+kn,cox,Cox,07,,17.1166667,-62.5833333
+kn,cox's village,Cox's Village,07,,17.1166667,-62.5833333
+kn,craddocks,Craddocks,07,,17.1333333,-62.6166667
+kn,craddock's village,Craddock's Village,07,,17.1333333,-62.6166667
+kn,crook's ground,Crook's Ground,07,,17.1166667,-62.5666667
+kn,dalzells,Dalzells,08,,17.35,-62.7
+kn,dieppe bay,Dieppe Bay,06,592,17.4166667,-62.8
+kn,dieppe bay town,Dieppe Bay Town,06,,17.4166667,-62.8
+kn,douglas,Douglas,11,,17.3166667,-62.7166667
+kn,fenton hill,Fenton Hill,04,,17.1333333,-62.5666667
+kn,fig tree,Fig Tree,02,395,17.3666667,-62.85
+kn,fig tree,Fig Tree,07,395,17.1166667,-62.6
+kn,fig tree village,Fig Tree Village,07,,17.1166667,-62.6
+kn,fothergill,Fothergill,04,,17.15,-62.55
+kn,fothergill's,Fothergill's,04,,17.15,-62.55
+kn,fountain,Fountain,05,,17.1666667,-62.5833333
+kn,fountain village,Fountain Village,05,,17.1666667,-62.5833333
+kn,geagans,Geagans,06,,17.3833333,-62.7833333
+kn,geoghan,Geoghan,06,,17.3833333,-62.7833333
+kn,gingerland,Gingerland,04,493,17.1333333,-62.55
+kn,golden rock,Golden Rock,11,,17.3166667,-62.7166667
+kn,greatheeds,Greatheeds,11,,17.3166667,-62.7
+kn,half way tree,Half Way Tree,13,,17.3333333,-62.8166667
+kn,half way tree village,Half Way Tree Village,13,,17.3333333,-62.8166667
+kn,hard time,Hard Time,04,,17.1333333,-62.55
+kn,hardtimes,Hardtimes,04,,17.1333333,-62.55
+kn,harris,Harris,04,,17.1333333,-62.55
+kn,harris,Harris,06,,17.4,-62.7833333
+kn,heldens,Heldens,09,,17.4,-62.8333333
+kn,hermitage,Hermitage,07,,17.1166667,-62.5666667
+kn,hermitage,Hermitage,08,,17.3666667,-62.7166667
+kn,hichmans,Hichmans,04,,17.1333333,-62.55
+kn,hickmans village,Hickmans Village,04,,17.1333333,-62.55
+kn,hick's,Hick's,05,,17.2,-62.55
+kn,hicks village,Hicks Village,05,,17.2,-62.55
+kn,holmes hill,Holmes Hill,04,,17.1166667,-62.55
+kn,houston,Houston,06,,17.3833333,-62.7833333
+kn,houstons,Houstons,06,,17.3833333,-62.7833333
+kn,hull ground,Hull Ground,04,,17.1333333,-62.5666667
+kn,jack in the box,Jack in the Box,08,,17.35,-62.7333333
+kn,jessup,Jessup,12,,17.15,-62.6166667
+kn,jessup's village,Jessup's Village,12,,17.15,-62.6166667
+kn,john england village,John England Village,11,,17.3166667,-62.7166667
+kn,key,Key,11,,17.3333333,-62.7
+kn,key village,Key Village,11,,17.3333333,-62.7
+kn,kit stoddart's,Kit Stoddart's,03,,17.3,-62.7166667
+kn,kit stoddarts village,Kit Stoddarts Village,03,,17.3,-62.7166667
+kn,kittitian village,Kittitian Village,11,,17.2833333,-62.6833333
+kn,kitt stoddarts village,Kitt Stoddarts Village,03,,17.3,-62.7166667
+kn,la guerite,La Guérite,03,,17.3,-62.7166667
+kn,la guerite village,La Guerite Village,03,,17.3,-62.7166667
+kn,lees,Lees,09,,17.3833333,-62.85
+kn,leigh's village,Leigh's Village,09,,17.3833333,-62.85
+kn,limekiln,Limekiln,03,,17.2833333,-62.7333333
+kn,lodge,Lodge,01,,17.35,-62.75
+kn,lodge village,Lodge Village,01,,17.35,-62.75
+kn,lower canada,Lower Canada,11,,17.3333333,-62.7
+kn,lucas,Lucas,06,,17.3,-62.7
+kn,maddens,Maddens,05,,17.1833333,-62.5333333
+kn,maddon,Maddon,05,,17.1833333,-62.5333333
+kn,mannings,Mannings,04,,17.15,-62.55
+kn,mansion,Mansion,01,690,17.3666667,-62.75
+kn,mardenbrough,Mardenbrough,11,,17.3166667,-62.7166667
+kn,market shop,Market Shop,07,,17.1166667,-62.5666667
+kn,maynards ground,Maynards Ground,07,,17.1166667,-62.5666667
+kn,middle island,Middle Island,13,887,17.3166667,-62.8166667
+kn,middle island village,Middle Island Village,13,,17.3166667,-62.8166667
+kn,molineaux,Molineaux,01,,17.3666667,-62.75
+kn,molyneux,Molyneux,01,,17.3666667,-62.75
+kn,monkey hill,Monkey Hill,11,592,17.3166667,-62.7166667
+kn,monkey hill village,Monkey Hill Village,11,,17.3166667,-62.7166667
+kn,montpelier,Montpelier,07,,17.1166667,-62.5833333
+kn,mount lily,Mount Lily,05,,17.1833333,-62.5833333
+kn,mount lily village,Mount Lily Village,05,,17.1833333,-62.5833333
+kn,newcastle,Newcastle,05,493,17.2,-62.5833333
+kn,newcastle village,Newcastle Village,05,,17.2,-62.5833333
+kn,new river,New River,04,,17.1333333,-62.55
+kn,newton ground,Newton Ground,09,,17.3833333,-62.85
+kn,newton ground village,Newton Ground Village,09,,17.3833333,-62.85
+kn,nicola town,Nicola Town,01,,17.3666667,-62.75
+kn,ogee's,Ogee's,11,,17.3166667,-62.7333333
+kn,ogees village,Ogees Village,11,,17.3166667,-62.7333333
+kn,old road,Old Road,13,,17.3166667,-62.8
+kn,old road town,Old Road Town,13,,17.3166667,-62.8
+kn,ortons,Ortons,09,,17.3833333,-62.8333333
+kn,otley,Otley,15,,17.3,-62.7666667
+kn,ottley's,Ottley's,08,,17.35,-62.7333333
+kn,ottley's,Ottley's,15,,17.3,-62.7666667
+kn,ottley's village,Ottley's Village,08,,17.35,-62.7333333
+kn,parry's,Parry's,11,,17.3166667,-62.7166667
+kn,parrys village,Parrys Village,11,,17.3166667,-62.7166667
+kn,parson's ground,Parson's Ground,06,,17.4,-62.8
+kn,parson's village,Parson's Village,06,,17.4,-62.8
+kn,pembroke,Pembroke,07,,17.1,-62.6
+kn,perry,Perry,11,,17.3166667,-62.7166667
+kn,phillips,Phillips,01,,17.35,-62.75
+kn,phillips village,Phillips Village,01,,17.35,-62.75
+kn,pond hill,Pond Hill,07,,17.1166667,-62.5833333
+kn,rawlins,Rawlins,04,,17.1333333,-62.5666667
+kn,rawlins,Rawlins,05,,17.1833333,-62.5833333
+kn,rices,Rices,04,,17.1166667,-62.55
+kn,romney,Romney,13,,17.3333333,-62.7833333
+kn,romneys,Romneys,13,,17.3333333,-62.7833333
+kn,saddlers' village,Saddlers' Village,06,,17.4,-62.7833333
+kn,sadlers,Sadlers,06,986,17.4,-62.7833333
+kn,sadlers village,Sadlers Village,06,,17.4,-62.7833333
+kn,saint paul's,Saint Paul's,09,,17.4,-62.8166667
+kn,saint paul's village,Saint Paul's Village,09,,17.4,-62.8166667
+kn,saint peter's,Saint Peter's,03,,17.3,-62.7166667
+kn,sandy point,Sandy Point,02,780,17.35,-62.8333333
+kn,sandy point town,Sandy Point Town,02,,17.35,-62.8333333
+kn,sandy point village,Sandy Point Village,02,,17.35,-62.8333333
+kn,scarborough,Scarborough,05,,17.1833333,-62.5666667
+kn,sheriffs village,Sheriffs Village,04,,17.1166667,-62.55
+kn,sherriffs,Sherriffs,04,,17.1166667,-62.55
+kn,stapleton,Stapleton,11,,17.3166667,-62.7333333
+kn,stapleton village,Stapleton Village,11,,17.3166667,-62.7333333
+kn,stonyhill,Stonyhill,04,,17.1333333,-62.5666667
+kn,tabernacle,Tabernacle,06,,17.3833333,-62.7666667
+kn,tabernacle village,Tabernacle Village,06,,17.3833333,-62.7666667
+kn,taylors pasture,Taylors Pasture,07,,17.1166667,-62.5666667
+kn,trants,Trants,09,,17.3833333,-62.85
+kn,trant,Trant,09,,17.3833333,-62.85
+kn,trinity,Trinity,15,,17.3,-62.7666667
+kn,upper conaree,Upper Conaree,11,,17.3166667,-62.7
+kn,vaughans,Vaughans,12,,17.15,-62.6166667
+kn,webb's ground,Webb's Ground,04,,17.1333333,-62.55
+kn,westbury,Westbury,12,,17.1666667,-62.6
+kn,whitegate,Whitegate,09,,17.4166667,-62.8166667
+kn,whitehall,Whitehall,05,,17.1666667,-62.55
+kn,wingfield estate,Wingfield Estate,13,,17.3333333,-62.7833333
+kn,wingfield manor,Wingfield Manor,13,,17.3333333,-62.7833333
+kn,zetlands,Zetlands,04,,17.1333333,-62.5666667
+kn,zion hill village,Zion Hill Village,04,,17.1333333,-62.55
+kn,zion hill,Zion Hill,04,,17.1333333,-62.55
+kn,zion village,Zion Village,04,,17.1333333,-62.55
+kn,zion,Zion,04,,17.1333333,-62.55

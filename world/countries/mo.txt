@@ -1,0 +1,18 @@
+mo,ao-men,Ao-men,01,,22.2,113.55
+mo,cheoc ca chun,Cheoc Ca Chün,01,,22.1666667,113.55
+mo,cidade de macau,Cidade de Macau,01,,22.2,113.55
+mo,coloane,Coloane,01,,22.1166667,113.55
+mo,hac sa,Hac Sá,01,,22.1222222,113.5638889
+mo,hac-tsa,Hac-Tsa,01,,22.1222222,113.5638889
+mo,hei-sha,Hei-sha,01,,22.1222222,113.5638889
+mo,lai chi van,Lai Chi Van,01,,22.125,113.55
+mo,lin-chia-ts'un,Lin-chia-ts'un,01,,22.15,113.55
+mo,lu-huan,Lu-huan,01,,22.1166667,113.55
+mo,lui-tchi-van,Lui-Tchi-Van,01,,22.125,113.55
+mo,macao,Macao,01,,22.2,113.55
+mo,macau,Macau,01,,22.2,113.55
+mo,taipa,Taipa,01,,22.15,113.55
+mo,tcheok-ka-tchin,Tcheok-Ka-Tchin,01,,22.1666667,113.55
+mo,tcheok-la-tchin,Tcheok-La-Tchin,01,,22.1666667,113.55
+mo,ts'ao-chia-ts'un,Ts'ao-chia-ts'un,01,,22.1666667,113.55
+mo,vila da taipa,Vila da Taipa,01,,22.15,113.55

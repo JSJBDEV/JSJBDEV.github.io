@@ -1,0 +1,3 @@
+pm,miquelon,Miquelon,00,1141,47.0975,-56.3813889
+pm,petit barachois,Petit Barachois,00,,46.8602778,-56.3638889
+pm,saint-pierre,Saint-Pierre,00,6200,46.7666667,-56.1833333

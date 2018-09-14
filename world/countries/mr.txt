@@ -1,0 +1,1110 @@
+mr,abari,Abari,05,,16.3666667,-13.9833333
+mr,abaye,Abaye,05,,16.6166667,-14.25
+mr,abdallah diori,Abdallah Diori,05,,16.2833333,-13.9
+mr,abdel begrou,Abdel Begrou,01,,15.5666667,-7.1166667
+mr,adabai,Adabaï,05,,16.7166667,-14.9666667
+mr,adabai deili,Adabaï Deïli,05,,16.4166667,-13.8333333
+mr,adabai doulel,Adabaï Doulel,04,,16.2333333,-13.7
+mr,adabai idaouach,Adabaï Idaouach,04,,16.5833333,-12.8
+mr,adabaye,Adabaye,05,,16.7166667,-14.9666667
+mr,adabaye ideouache,Adabaye Ideouache,04,,16.5833333,-12.8
+mr,'adel bagrou,'Adel Bagrou,01,,15.5666667,-7.1166667
+mr,ador,Ador,04,,15.7666667,-12.95
+mr,aere gollere,Aéré Golléré,05,,16.4166667,-14.0166667
+mr,aere mbar,Aéré Mbar,05,,16.4166667,-14.0666667
+mr,afnia,Afnia,05,,16.6833333,-14.3166667
+mr,afrare,Afraré,03,,15.2166667,-10.95
+mr,agmamine,Agmâmîne,03,,15.8666667,-11.55
+mr,agnetir,Agnétir,04,,15.9666667,-12.0666667
+mr,agouanit,Agouanit,03,,15.6333333,-11.6833333
+mr,agouanitt,Agouanitt,03,,15.6333333,-11.6833333
+mr,agouemit,Agouémit,10,,15.5666667,-12.3333333
+mr,agouenit,Agouénit,01,,16.7166667,-7.55
+mr,agreyate,Agreyate,04,,15.6,-12.7833333
+mr,agueni,Agueni,07,,20.5166667,-13.1666667
+mr,aguenni,Aguenni,07,,20.5166667,-13.1666667
+mr,aguini,Aguini,04,,16.8333333,-13.05
+mr,aguinni,Aguinni,04,,16.8333333,-13.05
+mr,agwenit,Agwenit,01,,16.7166667,-7.55
+mr,ahel aimar,Ahel Aïmar,03,,15.65,-11.3
+mr,ahel aoubak,Ahel Aoubak,03,,15.5333333,-11.3166667
+mr,ahel cheiheb,Ahel Cheïheb,03,,15.9166667,-11.4333333
+mr,ahel el jeilani,Ahel el Jeïlani,03,,15.9833333,-11.75
+mr,aidou,Aïdou,10,,15.3166667,-12.1833333
+mr,aime msira,Aïmé Msira,02,,15.7333333,-9.3166667
+mr,aime msirate,Aime Msirate,02,,15.7333333,-9.3166667
+mr,aimore,Aïmoré,04,,16.55,-12.9166667
+mr,'ain ben tili,'Aïn Ben Tili,11,,25.9333333,-9.5833333
+mr,ain bentilli,Aïn Bentilli,11,,25.9333333,-9.5833333
+mr,ain taiss,Aïn Taiss,03,,15.6333333,-11.1666667
+mr,'ain tass,'Aïn Tass,03,,15.6333333,-11.1666667
+mr,aioun el atrouss,Aïoun el Atrouss,02,,16.6666667,-9.6166667
+mr,ajar sarakole,Ajar Sarakolé,04,,15.5166667,-12.6333333
+mr,ajar toucouleur,Ajar Toucouleur,04,,15.5166667,-12.4833333
+mr,akaouini,Akaouini,02,,15.7166667,-9.8333333
+mr,aka wini,Aka Wini,02,,15.7166667,-9.8333333
+mr,akjoujt,Akjoujt,12,,19.75,-14.3833333
+mr,akjout,Akjout,12,,19.75,-14.3833333
+mr,akouaoui,Akouaoui,02,,15.5333333,-10.05
+mr,akouawi,Akouawi,02,,15.5333333,-10.05
+mr,alaina,Alaïna,02,,15.4333333,-10.4666667
+mr,alanguide,Alanguidé,03,,15.2,-10.9166667
+mr,aleg,Aleg,05,,17.05,-13.9166667
+mr,'aleib,'Aleïb,04,,16.9333333,-12.6833333
+mr,'ali baidi,'Ali Baïdi,04,,16.2333333,-13.8333333
+mr,amadi fakourou,Amadi Fakourou,04,,16.0666667,-12.9166667
+mr,amadou moussa,Amadou Moussa,04,,16.1666667,-13.35
+mr,amague bedia,Amagué Bédia,10,,15.25,-12.0666667
+mr,amake,Amaké,02,,15.45,-9.7666667
+mr,amchola,Amchola,03,,15.9833333,-12.0333333
+mr,amchotone,Amchotone,04,,15.9333333,-12.0666667
+mr,amerj arr,Amerj Arr,01,,16.1166667,-7.2666667
+mr,amriye,Amriyé,04,,15.95,-12.4
+mr,ando reo,Ando Réo,05,,16.6333333,-14.6333333
+mr,anietir,Aniétir,04,,15.9666667,-12.0666667
+mr,aouinat,Aouinat,04,,16.15,-13.4
+mr,'aouinat,'Aouînât,10,,15.4,-11.8166667
+mr,'aouinet nemadi,'Aouînet Némadi,01,,15.5166667,-8.15
+mr,aoujeft,Aoujeft,07,,20.0333333,-13.05
+mr,aoure baoude,Aouré Baoudé,04,,15.4833333,-12.6666667
+mr,archane,Archâne,04,,15.45,-12.5166667
+mr,are koka,Aré Koka,04,,15.5333333,-12.4333333
+mr,aroueiji,Aroueïji,03,,16.0166667,-12.0333333
+mr,arsane,Arsane,10,,15.4166667,-12.3166667
+mr,arsane maure,Arsane Maure,10,,15.4166667,-12.3833333
+mr,artemou,Artémou,10,,15.5166667,-12.2666667
+mr,atar,Atâr,07,30501,20.5166667,-13.05
+mr,atem,Atem,04,,16.3333333,-13.7166667
+mr,atila,Atîla,03,,15.85,-11.1333333
+mr,atta'ine,Atta'îne,04,,16.0833333,-12.25
+mr,attein,Attêïn,04,,16.0833333,-12.25
+mr,avoinat,Avoïnat,04,,16.15,-13.4
+mr,awinatt,Awïnatt,10,,15.4,-11.8166667
+mr,awinet nemadi,Awinet Némadi,01,,15.5166667,-8.15
+mr,'ayoun el 'atrous,'Ayoûn el 'Atroûs,02,,16.6666667,-9.6166667
+mr,bababe,Bababé,05,11507,16.3333333,-13.95
+mr,bacikounou,Bacikounou,01,,15.8666667,-5.95
+mr,badaa,Badaa,04,,16.5333333,-13.0666667
+mr,badinke,Badinké,04,,15.3333333,-12.9
+mr,baediam,Baédiam,10,,15.05,-11.85
+mr,baediame,Baédiamé,10,,15.05,-11.85
+mr,bagoudine,Bagoudine,04,,16.25,-13.7166667
+mr,bahara,Bahara,04,,16.5666667,-12.9666667
+mr,bandiougou,Bandiougou,10,,15.2166667,-11.9166667
+mr,bango,Bango,04,,15.75,-12.1833333
+mr,bara,Bara,03,,15.95,-11.5166667
+mr,baraini,Baraïni,02,,15.6166667,-9.55
+mr,barbarak,Barbarak,04,,15.7166667,-12.8166667
+mr,bargatanni,Bargatanni,02,,16.8166667,-10.75
+mr,bargou,Bargou,10,,15.1333333,-11.8666667
+mr,barkeol,Barkéol,04,,16.65,-12.5
+mr,barkeol el akhdar,Barkéol el Akhdar,04,,16.6,-12.4333333
+mr,barkeol el arhdar,Barkéol El Arhdar,04,,16.6,-12.4333333
+mr,barkeouol,Barkéouol,04,,16.65,-13.0333333
+mr,barogal,Barogal,04,,16.1166667,-13.5
+mr,bassikounou,Bassikounou,01,,15.8666667,-5.95
+mr,bassi nguidi,Bassi Nguidi,04,,16.6666667,-13.1333333
+mr,bate laye,Baté Layé,05,,16.5,-13.8833333
+mr,beila,Beïla,06,,18.1772222,-15.8755556
+mr,beilogue yero,Beïlogué Yéro,04,,15.7333333,-12.7666667
+mr,beilougue bolol,Beïlougué Bolol,04,,15.7166667,-12.7666667
+mr,beilougue demounde,Beïlougué Démoundé,04,,15.6666667,-12.6833333
+mr,beilougue litama,Beïlougué Litama,04,,15.6833333,-12.75
+mr,beilougue yero,Beïlougué Yéro,04,,15.7333333,-12.7666667
+mr,belane,Bélane,05,,16.6166667,-14.6
+mr,beledendi,Bélédendi,04,,15.45,-12.6666667
+mr,belel abdi,Bélel Abdi,04,,16.2333333,-13.7833333
+mr,belel gaodi,Bélel Gaodi,04,,16.35,-13.7
+mr,belnabe,Belnabé,04,,16.15,-13.55
+mr,benibafat,Benibafat,01,,16.4833333,-7.5166667
+mr,berele,Bérélé,10,,15.3,-11.9833333
+mr,bergatanni,Bergatanni,02,,16.8166667,-10.75
+mr,betselba,Betselba,10,,14.9,-12.45
+mr,bezeir,Bezeïr,02,,15.5,-10.1
+mr,bidiske,Bidiské,04,,15.6,-12.55
+mr,binndiamou,Binndiamou,03,,15.15,-10.9
+mr,bir el moghrein,Bir el Moghreïn,11,,25.2333333,-11.5833333
+mr,bir moghreim,Bir Moghreim,11,,25.2333333,-11.5833333
+mr,bir moghrein,Bir Moghrein,11,,25.2333333,-11.5833333
+mr,bir moghreine,Bir Moghreïne,11,,25.2333333,-11.5833333
+mr,bir moghrin,Bir Moghrin,11,,25.2333333,-11.5833333
+mr,bir mogrein,Bîr Mogreïn,11,,25.2333333,-11.5833333
+mr,bir morhrein,Bir Morhrein,11,,25.2333333,-11.5833333
+mr,bir oum el grein,Bir Oum el Grein,11,,25.2333333,-11.5833333
+mr,bir oum grein,Bir Oum Grein,11,,25.2333333,-11.5833333
+mr,bir oum greine,Bir Oum Greïne,11,,25.2333333,-11.5833333
+mr,bir umm grain,Bir Umm Grain,11,,25.2333333,-11.5833333
+mr,blajemile,Blajemile,03,,15.9166667,-11.1833333
+mr,blajmil,Blajmil,03,,15.9166667,-11.1833333
+mr,blemhar,Blemhar,01,,16.1666667,-8.3666667
+mr,bodiedie,Bodiédié,04,,16.4,-13.7833333
+mr,boediam,Boediam,10,,15.05,-11.85
+mr,bofal,Bofal,05,,16.4166667,-13.8
+mr,boghe,Boghé,05,,16.5833333,-14.2666667
+mr,bogue,Bogué,05,,16.5833333,-14.2666667
+mr,bogue dow,Bogué Dow,05,,16.6,-14.2666667
+mr,boguel fadoua,Boguel Fadoua,04,,15.4166667,-12.8833333
+mr,boitiek elali,Boitiek Elali,04,,15.7,-12.5333333
+mr,boitiek eliemane,Boitiek Eliémane,04,,15.7333333,-12.55
+mr,bokedianbi,Bokédianbi,10,,14.8333333,-11.8833333
+mr,boki hamet,Boki Hamet,04,,15.2666667,-12.8
+mr,bokol,Bokol,04,,16.0833333,-12.1666667
+mr,bolol doggo,Bolol Doggo,05,,16.4833333,-14.1333333
+mr,bolol dogo,Bolol Dogo,05,,16.4833333,-14.1333333
+mr,bondi,Bondi,04,,15.4333333,-12.6333333
+mr,bondieri,Bondiéri,05,,16.6666667,-14.2833333
+mr,borele,Borélé,02,,15.4333333,-9.5333333
+mr,borie,Borié,03,,15.5333333,-11.1166667
+mr,botoula taring,Botoula Taring,04,,16.0,-12.4666667
+mr,bou amama,Boû Amama,04,,15.8666667,-12.0833333
+mr,bou amana,Bou Amana,04,,15.8666667,-12.0833333
+mr,bouanze,Bouanzé,04,,15.8166667,-12.2333333
+mr,bouara,Bouara,04,,16.6,-13.0333333
+mr,bou aslete,Bou Aslété,04,,15.8166667,-12.3
+mr,bou bakar,Boû Bakar,04,,15.7833333,-12.3666667
+mr,boubou aoudi,Boubou Aoudi,04,,16.3,-13.7166667
+mr,boubou karli,Boubou Karli,05,,16.65,-14.35
+mr,bouda,Bouda,03,,15.9,-11.6333333
+mr,boudama peul,Boudama Peul,04,,15.7166667,-12.4166667
+mr,boudiebaya,Boudiébaya,03,,15.5833333,-11.7
+mr,bouele,Bouélé,10,,15.2333333,-11.9833333
+mr,bouerik,Bouérik,04,,15.7666667,-12.35
+mr,boufal,Boufal,05,,16.8833333,-13.3166667
+mr,bou gadoum,Boû Gâdoûm,01,,15.8833333,-7.3666667
+mr,bou gamoul,Boû Gamoul,04,,16.55,-12.9833333
+mr,bougoudre,Bougoudré,02,,15.4333333,-10.05
+mr,bouguerha,Bouguérha,06,,15.3833333,-15.5
+mr,bouguerha,Bouguérha,10,,15.35,-12.5166667
+mr,boukereya,Boukéréya,03,,15.6,-10.8
+mr,boulanouar,Boulanouar,08,,21.2666667,-16.5
+mr,bou lanouar,Boû Lanouâr,08,,21.2666667,-16.5
+mr,bouli borbo,Bouli Borbo,10,,15.3333333,-12.1833333
+mr,bouly,Bouly,10,,15.3166667,-11.8
+mr,boumdeit,Boumdeït,02,,17.4333333,-11.35
+mr,bounoir,Bounoir,02,,15.65,-10.0
+mr,bounouar,Bounouar,02,,15.65,-10.0
+mr,bounououara,Bounououara,02,,15.6333333,-10.0
+mr,bounouwara,Bounouwara,02,,15.6333333,-10.0
+mr,bourele,Bourélé,04,,15.4666667,-12.7166667
+mr,bouroudji,Bouroudji,10,,15.0166667,-12.25
+mr,bourougoudoun,Bourougoudoun,02,,15.6,-10.15
+mr,boussei ade,Bousseï Adé,02,,15.6166667,-10.0
+mr,bou steile,Boû Steïlé,01,,15.5833333,-8.0833333
+mr,boutanda,Boutanda,10,,14.95,-12.35
+mr,boutel ahir,Boutel Ahir,02,,15.9833333,-9.8166667
+mr,bou tezekrei,Boû Tézékreï,01,,15.5833333,-8.0166667
+mr,boutezekrey,Boutézékrèy,01,,15.5833333,-8.0166667
+mr,boutilimit,Boutilimit,06,,17.55,-14.7
+mr,boutillmit,Boutillmit,06,,17.55,-14.7
+mr,bouyal bokar,Bouyal Bokar,04,,16.25,-12.35
+mr,bou zraibie,Boû Zraïbié,04,,16.85,-12.8166667
+mr,boyo,Boyo,06,,16.1166667,-16.5
+mr,braidid,Braïdid,01,,15.75,-7.85
+mr,braydid,Braydid,01,,15.75,-7.85
+mr,brenn,Brenn,06,,16.5,-15.9333333
+mr,breune,Breune,06,,16.5,-15.9333333
+mr,cansado,Cansado,08,,20.85,-17.0333333
+mr,casba des ait maouin,Casba des Aït Maouin,07,,19.65,-12.3166667
+mr,casbah des ait maouine,Casbah des Aït Maouine,07,,19.65,-12.3166667
+mr,chbariat,Chbariat,05,,16.8333333,-14.9166667
+mr,chebar,Chèbar,01,,15.85,-7.2166667
+mr,chegga,Chegga,00,,25.3833333,-5.7833333
+mr,cheika louare,Cheïka Louaré,10,,15.4666667,-12.2166667
+mr,chelka ould bannahi,Chelka Ould Bannahi,03,,15.9666667,-11.3
+mr,chelkhat rhiarhoum,Chelkhat Rhiarhoum,04,,16.1833333,-12.45
+mr,chelrhat rhiarhoum,Chelrhat Rhiarhoum,04,,16.1833333,-12.45
+mr,chig el outeidat,Chig el Outeïdat,03,,15.9833333,-11.35
+mr,chig louteidatt,Chig Louteïdatt,03,,15.9833333,-11.35
+mr,chinguetti,Chinguetti,07,,20.45,-12.3666667
+mr,chkata,Chkata,03,,15.2833333,-11.0166667
+mr,chorfa,Chorfa,04,,15.85,-12.3833333
+mr,choum,Choûm,07,,21.3,-12.9833333
+mr,cive,Civé,04,,15.7,-13.2
+mr,coppolani,Coppolani,06,,18.3180556,-16.0386111
+mr,coumba ndao,Coumba Ndao,10,,15.0,-12.1833333
+mr,coumta n'dao,Coumta N'Dao,10,,15.0,-12.1833333
+mr,crampel,Crampel,00,,24.4333333,-8.8
+mr,dabai 'ain memounia,Dabaï 'Aïn Memounia,02,,15.65,-9.3
+mr,dabai amamede,Dabaï Amamédé,02,,15.6333333,-9.3
+mr,dabai amidi,Dabaï Amidi,02,,15.5833333,-9.2833333
+mr,dabai bai,Dabaï Baï,02,,15.45,-9.4166667
+mr,dabai dalouach,Dabaï Dalouach,10,,15.3666667,-12.1833333
+mr,dabai dalwach,Dabaï Dalwach,10,,15.3666667,-12.1833333
+mr,dabai el barke,Dabaï el Barké,01,,15.5833333,-7.1
+mr,dabai el izradite,Dabaï el Izradite,02,,15.5166667,-9.3166667
+mr,dabai el media,Dabaï el Média,02,,15.55,-9.2833333
+mr,dabai el talb mousse,Dabaï el Talb Moussé,02,,15.5333333,-9.3
+mr,dabai jidou,Dabaï Jidou,02,,15.6166667,-9.3
+mr,dabai jidou oul chett,Dabaï Jidou Oul Chett,02,,15.5833333,-9.3
+mr,dabai keili,Dabaï Keïli,02,,15.6,-9.3166667
+mr,dabai laissad,Dabaï Laïssad,02,,15.4833333,-9.5833333
+mr,dabaili soueli,Dabaïli Souéli,04,,15.8,-12.1333333
+mr,dabai magui,Dabaï Magui,10,,15.4666667,-12.3833333
+mr,dabai mbare,Dabaï Mbaré,02,,15.5833333,-9.2833333
+mr,dabai mousse,Dabaï Moussé,02,,15.5166667,-9.4666667
+mr,dabai moutraoga,Dabaï Moutraoga,02,,15.5666667,-9.2333333
+mr,dabai saliou,Dabaï Saliou,10,,15.1666667,-12.2166667
+mr,dabai sambayel ore,Dabaï Sambayel Oré,02,,15.6,-9.3166667
+mr,dabai sanbayel ore,Dabai Sanbayel Ore,02,,15.6,-9.3166667
+mr,dabai sonkarou,Dabaï Sonkarou,02,,15.5,-9.45
+mr,dabal magui,Dabal Magui,10,,15.4666667,-12.3833333
+mr,dabe,Dabé,04,,16.15,-13.8
+mr,dafort,Dafort,10,,15.6666667,-12.15
+mr,dahakele,Dahakélé,03,,15.4166667,-11.0
+mr,dahalague,Dahalagué,10,,15.1333333,-12.0333333
+mr,dangueremou,Danguérémou,10,,15.2833333,-12.1666667
+mr,danguidebe,Danguidébé,10,,15.2333333,-11.8833333
+mr,dao,Dao,04,,15.5333333,-13.0166667
+mr,daoua,Daoua,04,,16.1666667,-13.7333333
+mr,dara,Dara,06,,16.6,-16.15
+mr,dar cheikh abdalaye,Dar Cheikh Abdalaye,05,,16.7166667,-14.5
+mr,dar cheikh abdallai,Dar Cheïkh Abdallaï,05,,16.7166667,-14.5
+mr,dar-cheikh-abdallaye,Dar-Cheikh-Abdallaye,05,,16.75,-14.8666667
+mr,dar el barka,Dar el Barka,05,,16.6833333,-14.7
+mr,debay el barke,Debay El Barké,01,,15.5833333,-7.1
+mr,debe sorfa,Débé Sorfa,10,,15.2,-11.9166667
+mr,debous,Débous,04,,15.85,-12.3
+mr,debouss,Débouss,04,,15.85,-12.3
+mr,deguismoli,Déguismoli,04,,16.6166667,-13.0666667
+mr,demba lembere,Demba Lembéré,04,,15.35,-12.7333333
+mr,demba sambel,Demba Sambel,04,,16.0333333,-12.85
+mr,deneal samba ombo,Dénéal Samba Ombo,04,,15.3666667,-12.7
+mr,derik guirfafe,Dérik Guirfafé,03,,15.5166667,-11.3
+mr,derik kelilae,Dérik Kélilaé,03,,15.5166667,-11.3166667
+mr,dernie,Dernié,03,,15.5166667,-11.15
+mr,desili,Désili,04,,15.35,-12.7
+mr,diabaye,Diabaye,05,,16.7166667,-14.9666667
+mr,diade,Diadé,01,,16.2333333,-7.4166667
+mr,diafane,Diafane,04,,16.15,-13.6166667
+mr,diaguili,Diaguili,10,,14.85,-12.4
+mr,diahoulel,Diahoulel,06,,16.7166667,-15.0833333
+mr,diala,Diala,10,,15.25,-12.2666667
+mr,diam diam,Diam Diam,10,,15.0166667,-12.4
+mr,diamel vidim,Diamel Vidim,05,,16.2666667,-13.95
+mr,diamer,Diamer,06,,16.5166667,-16.2833333
+mr,diandiourou,Diandiourou,03,,15.9833333,-11.8333333
+mr,dianguina,Dianguina,03,,15.3166667,-10.95
+mr,diaouara,Diaouara,06,,16.7,-15.05
+mr,diaoube,Diaoubé,04,,15.6166667,-12.4666667
+mr,diawara,Diawara,06,,16.7,-15.05
+mr,dida rhoule,Dida Rhoulé,01,,15.5166667,-8.0833333
+mr,dieba,Diéba,04,,15.6666667,-12.55
+mr,diemar,Diemar,06,,16.2833333,-16.4666667
+mr,dieuk,Dieuk,06,,16.5166667,-15.9
+mr,dimja,Dimja,04,,16.0333333,-12.7166667
+mr,dimje,Dimje,04,,16.0,-12.7333333
+mr,dindi,Dindi,04,,15.9333333,-13.3333333
+mr,dineker,Dineker,04,,15.5166667,-12.6
+mr,diogountourou,Diogountourou,10,,14.7666667,-12.25
+mr,diogoutourou,Diogoutourou,10,,14.7666667,-12.25
+mr,dioldi,Dioldi,06,,16.5833333,-15.1166667
+mr,dioroum,Dioroum,10,,15.4666667,-12.4333333
+mr,dios,Dios,06,,16.1,-16.4666667
+mr,dioubali,Dioubali,10,,15.7333333,-12.0166667
+mr,dioudi,Dioudi,05,,16.35,-13.9666667
+mr,diouker,Diouker,02,,15.4833333,-9.7833333
+mr,dioulon,Dioulon,05,,16.6666667,-14.3666667
+mr,diou ould sneleoum,Diou Ould Snéléoum,10,,15.1666667,-12.4
+mr,diovol,Diovol,04,,16.0666667,-13.3833333
+mr,djadjebina,Djadjebina,04,,15.75,-12.4833333
+mr,djadjibine,Djadjibine,04,,15.75,-12.4833333
+mr,djajbine chorfa,Djajbine Chorfa,04,,15.7166667,-12.5
+mr,djajibine chorfa,Djajibine Chorfa,04,,15.7166667,-12.5
+mr,djajibine,Djajibine,04,,15.75,-12.4833333
+mr,djebaba galadio,Djebaba Galadio,04,,15.5833333,-12.6666667
+mr,djebaba level,Djebaba Level,04,,15.5833333,-12.6666667
+mr,djeol,Djeol,04,,16.0666667,-13.3833333
+mr,djereida,Djereida,06,,18.3180556,-16.0386111
+mr,djib,Djib,04,,16.5666667,-12.6666667
+mr,djigeni,Djigéni,01,,15.7333333,-8.6666667
+mr,djigueni,Djiguéni,01,,15.7333333,-8.6666667
+mr,djilalfa,Djilalfa,04,,15.5833333,-12.75
+mr,djllalfa,Djllalfa,04,,15.5833333,-12.75
+mr,djovol,Djovol,04,,16.0666667,-13.3833333
+mr,dolol civre,Dolol Civré,04,,15.5666667,-13.0666667
+mr,dolol,Dolol,04,,15.5666667,-13.0666667
+mr,dolol sivre,Dolol Sivré,04,,15.5666667,-13.0666667
+mr,dolol soubala,Dolol Soubala,04,,15.5666667,-13.0666667
+mr,douamkara,Douamkara,01,,15.5166667,-5.5
+mr,douboungue,Douboungué,05,,16.65,-14.2833333
+mr,dougoulgui,Dougoulgui,03,,15.9333333,-11.8166667
+mr,douibel batha,Douibel Batha,04,,16.0333333,-12.6
+mr,doulel,Doulel,04,,15.35,-12.6833333
+mr,dououara,Dououara,06,,16.9166667,-14.9666667
+mr,dyamawali,Dyamawali,02,,15.5333333,-8.95
+mr,dyamweli,Dyamwéli,02,,15.5333333,-8.95
+mr,dyovol,Dyovol,04,,16.0666667,-13.3833333
+mr,echkata,Echkata,04,,15.9166667,-12.3166667
+mr,egemanbenou,Egémanbénou,01,,15.85,-8.6666667
+mr,eguemanbenou,Eguémanbénou,01,,15.85,-8.6666667
+mr,el abde,El Abdé,04,,16.8,-12.85
+mr,el aioun,El Aïoun,03,,15.55,-11.1833333
+mr,elali ajar,Elali Ajar,04,,15.4833333,-12.5166667
+mr,elali niaroual,Elali Niaroual,04,,15.5,-12.5
+mr,elali nioroual,Elali Nioroual,04,,15.5,-12.5
+mr,ela mouinesse,Ela Mouinessé,03,,15.5,-11.2666667
+mr,el 'aoueinat,El 'Aoueïnât,03,,15.75,-11.65
+mr,el arch,El Arch,01,,15.6,-7.15
+mr,el atchane,El Atchane,03,,15.5333333,-11.2833333
+mr,el awainatt,El Awaïnatt,03,,15.75,-11.65
+mr,el 'ayoun,El 'Ayoûn,03,,15.55,-11.1833333
+mr,el baghoui,El Baghoui,03,,15.9666667,-11.0333333
+mr,el bir,El Bir,04,,16.2,-13.0666667
+mr,el boulair,El Boulaïr,10,,15.25,-12.1
+mr,el boussai,El Boussaï,02,,15.5666667,-9.5
+mr,el douti,El Douti,01,,15.6,-7.9833333
+mr,eleib,Êleib,04,,16.9333333,-12.6833333
+mr,elemene srhir,Elemene Srhîr,02,,15.4833333,-9.6
+mr,elemen srir,Elemen Srir,02,,15.4833333,-9.6
+mr,el erg,El Erg,03,,15.7,-11.1
+mr,el faraa,El Faraa,03,,15.7166667,-11.65
+mr,el fougue,El Fougué,10,,15.2333333,-12.0166667
+mr,el fouie,El Fouie,10,,15.2833333,-12.0666667
+mr,el gete mbeygou,El Gèté Mbèygou,01,,15.7833333,-7.6166667
+mr,el goss,El Goss,05,,16.9,-14.0833333
+mr,el gouessi,El Gouessi,04,,16.7166667,-12.9
+mr,el grain,El Grain,01,,15.75,-7.8333333
+mr,el grair enzai,El Graïr Enzaï,02,,16.75,-10.6833333
+mr,el grein,El Greïn,01,,15.75,-7.8333333
+mr,el gueneiba,El Gueneïba,04,,16.1333333,-12.25
+mr,el guete mbeigou,El Guèté Mbeïgou,01,,15.7833333,-7.6166667
+mr,el guilene,El Guilène,10,,15.6333333,-12.0666667
+mr,el haedi,El Haédi,06,,16.6,-15.9
+mr,eli bab,Eli Bab,02,,15.5166667,-10.1
+mr,eli bati,Eli Bati,02,,15.5,-10.1166667
+mr,eli souitt,Eli Souitt,02,,15.5166667,-10.1166667
+mr,el izabe,El Izabè,03,,15.5333333,-11.35
+mr,el joumaa,El Joumaa,03,,15.9333333,-11.6666667
+mr,el kseiba,El Kseïba,04,,16.2166667,-13.15
+mr,el magali,El Magali,02,,15.9166667,-9.7666667
+mr,el maha,El Maha,03,,15.55,-11.7
+mr,el mali,El Mali,03,,15.5333333,-11.2833333
+mr,el mamghar,El Mamghar,08,,19.3666667,-16.5166667
+mr,el mankous,El Mankous,04,,15.7666667,-12.75
+mr,el mankouss,El Mankouss,04,,15.7666667,-12.75
+mr,el maroualeb,El Maroualeb,02,,15.55,-9.5333333
+mr,el medda,El Medda,07,,19.9166667,-13.3166667
+mr,el meddah,El Meddah,07,,19.9166667,-13.3166667
+mr,el memghar,El Memghar,08,,19.3666667,-16.5166667
+mr,el memrhar,El Memrhar,08,,19.3666667,-16.5166667
+mr,el messiel,El Méssiel,03,,15.5,-11.1833333
+mr,el meuzeu,El Meuzeu,01,,15.6,-7.8333333
+mr,elminetafra,Elminetafra,03,,15.6666667,-10.8333333
+mr,el momchar,El Momchar,08,,19.3666667,-16.5166667
+mr,el moudere,El Moudéré,03,,15.95,-11.6833333
+mr,el moulali,El Moulali,04,,15.85,-12.4
+mr,el roueirat,El Roueïrat,05,,16.5166667,-13.9666667
+mr,el srir,El Srir,02,,15.55,-9.9833333
+mr,el vana,El Vana,04,,15.6166667,-12.5666667
+mr,el zerda,El Zerda,02,,15.5833333,-9.5166667
+mr,e-n-tatrat,E-n-Tatrat,05,,16.8333333,-13.6
+mr,es srhir,Es Srhîr,02,,15.55,-9.9833333
+mr,ez zerda,Ez Zerda,02,,15.5833333,-9.5166667
+mr,fadia,Fadia,04,,16.5333333,-13.0333333
+mr,fagyar,Fagyar,04,,15.85,-12.45
+mr,fanaye niakouar,Fanaye Niakouar,06,,16.6,-15.2333333
+mr,fassale,Fassalé,01,,15.55,-5.5166667
+mr,fdeirek,Fdeirek,11,,22.6833333,-12.7
+mr,fderick,Fdérick,11,,22.6833333,-12.7
+mr,fderik,Fdérik,11,,22.6833333,-12.7
+mr,feitas,Feïtas,10,,15.1166667,-12.3666667
+mr,fereni,Féréni,02,,15.5666667,-8.9166667
+mr,ferkane,Ferkane,04,,16.0166667,-12.6333333
+mr,ferlankobe,Ferlankobé,10,,15.5666667,-11.9
+mr,ferrala,Ferrala,04,,16.2,-13.75
+mr,filke,Filké,04,,15.9333333,-12.3
+mr,fimbo,Fimbo,04,,15.4666667,-12.8833333
+mr,fimbo paliba,Fimbo Paliba,04,,15.4666667,-12.8833333
+mr,flike,Flike,04,,15.9333333,-12.3
+mr,fofana debe,Fofana Débé,04,,15.6666667,-12.3833333
+mr,foile,Foïlé,03,,15.6666667,-10.75
+mr,fora sinerabi,Fora Sinérabi,05,,16.4166667,-13.8333333
+mr,fort cappolani,Fort Cappolani,09,,18.55,-11.4166667
+mr,fort gouraud,Fort Gouraud,11,,22.6833333,-12.7
+mr,fort goureaud,Fort Goureaud,11,,22.6833333,-12.7
+mr,fort repoux,Fort Repoux,12,,19.75,-14.3833333
+mr,fort trinquet,Fort Trinquet,11,,22.6833333,-12.7
+mr,fort-trinquet,Fort-Trinquet,11,,25.2333333,-11.5833333
+mr,foundou,Foundou,04,,16.2166667,-13.6833333
+mr,fra' el 'achouche,Fra' el 'Achoûché,04,,16.2666667,-12.4
+mr,fra' ladoum,Fra' Ladoum,04,,16.05,-12.2333333
+mr,ga'at teidouma,Gâ'ât Teïdouma,02,,16.7333333,-10.7
+mr,gadiama,Gadiama,04,,15.6166667,-12.6666667
+mr,gani,Gani,06,,16.5833333,-15.45
+mr,ganki,Ganki,04,,16.2166667,-13.2333333
+mr,ganserake,Ganséraké,10,,15.35,-11.8666667
+mr,gaouyere,Gaouyéré,03,,15.8,-11.3
+mr,garak,Garak,06,,16.55,-15.7666667
+mr,garalla,Garalla,03,,15.7666667,-11.5
+mr,garalol,Garalol,04,,16.2666667,-13.8666667
+mr,gare,Garé,03,,15.1666667,-10.8833333
+mr,garli,Garli,04,,15.6166667,-13.15
+mr,give,Givé,04,,15.7,-13.2
+mr,gleibat boukine,Gleïbât Boukine,02,,15.7,-9.0833333
+mr,godiavel galaoual,Godiavel Galaoual,04,,15.25,-12.65
+mr,godioouel demba,Godioouel Demba,04,,15.2333333,-12.65
+mr,godioouel galaouel,Godioouel Galaouel,04,,15.25,-12.65
+mr,godioval,Godioval,10,,14.9333333,-12.0
+mr,godiovol,Godiovol,10,,14.9333333,-12.0
+mr,godiowel demba,Godiowel Demba,04,,15.2333333,-12.65
+mr,godiowel galaoual,Godiowel Galaoual,04,,15.25,-12.65
+mr,goouatt,Goouatt,03,,15.7166667,-11.6666667
+mr,goulel mouroir,Goulel Mouroir,10,,15.3833333,-12.1666667
+mr,goupou,Goupou,10,,14.8833333,-12.25
+mr,gouraye,Gouraye,10,,14.9166667,-12.4166667
+mr,gourdiouma,Gourdiouma,04,,16.2,-13.4333333
+mr,gourel adama,Gourel Adama,10,,15.1166667,-12.6
+mr,gourel ali,Gourel Ali,04,,15.5,-12.65
+mr,gourel amadi boudari,Gourel Amadi Boudari,10,,15.0166667,-12.4333333
+mr,gourel baidi sori,Gourel Baïdi Sori,04,,15.5833333,-12.5833333
+mr,gourel bakar sy,Gourel Bakar Sy,06,,16.5666667,-15.35
+mr,gourel bamol,Gourel Bamol,10,,15.4833333,-12.4333333
+mr,gourel diare,Gourel Diaré,10,,15.1666667,-12.65
+mr,gourel dieri,Gourel Diéri,04,,15.4333333,-12.8833333
+mr,gourele,Gourélé,04,,15.4833333,-12.7666667
+mr,gourel farba,Gourel Farba,04,,15.7166667,-12.65
+mr,gourel foule,Gourel Foulé,10,,15.0833333,-12.4
+mr,gourel gai,Gourel Gaï,10,,15.5333333,-12.2833333
+mr,gourel keradi,Gourel Keradi,04,,15.4833333,-12.5166667
+mr,gourel kotche,Gourel Kotché,10,,15.1,-12.6833333
+mr,gourel mahamoud,Gourel Mahamoud,10,,15.1333333,-12.5166667
+mr,gourel malalfa,Gourel Malalfa,04,,15.45,-12.6333333
+mr,gourel mama dado,Gourel Mama Dado,05,,16.7333333,-14.55
+mr,gourel mamadou penda,Gourel Mamadou Penda,10,,15.1333333,-12.6333333
+mr,gourel moussa,Gourel Moussa,06,,16.5833333,-15.1666667
+mr,gourel pe,Gourel Pé,10,,15.1,-12.5166667
+mr,gourel salde,Gourel Saldé,06,,16.5666667,-15.25
+mr,gourel samba sidi,Gourel Samba Sidi,04,,15.5,-12.6333333
+mr,gourel sanetabe,Gourel Sanétabé,04,,15.7666667,-12.6666667
+mr,gourel somana,Gourel Somana,04,,15.1833333,-12.7833333
+mr,gourel tierna amadou,Gourel Tierna Amadou,04,,15.2,-12.7
+mr,gourel tierno,Gourel Tierno,04,,15.3833333,-12.9333333
+mr,gouret farba,Gouret Farba,04,,15.7166667,-12.65
+mr,goureye,Goureye,04,,16.1,-13.45
+mr,gourfaf,Gourfaf,04,,16.5,-13.1
+mr,goven kare,Goven Karé,04,,15.2666667,-12.6166667
+mr,govin kare,Govin Karé,04,,15.2666667,-12.6166667
+mr,gowatt,Gowatt,03,,15.7166667,-11.6666667
+mr,grair enzai,Graïr Enzaï,02,,16.75,-10.6833333
+mr,gueleibate boukine,Guéleïbate Boukine,02,,15.7,-9.0833333
+mr,gueleibate,Gueléïbate,02,,15.7,-9.0833333
+mr,gueleibe,Guéleïbé,03,,16.0,-12.0333333
+mr,gueleoil,Guéléoil,03,,15.5666667,-11.7833333
+mr,gueleoual,Guéléoual,03,,15.5666667,-11.7833333
+mr,guemou,Guémou,10,,14.85,-12.1833333
+mr,guenetir,Guénétir,04,,15.9166667,-12.05
+mr,guidakar,Guidakar,06,,16.5,-15.6333333
+mr,guidala,Guidala,05,,16.6333333,-14.4333333
+mr,guidembala,Guidembala,04,,16.1666667,-12.05
+mr,guidibine,Guidibiné,04,,15.7666667,-12.25
+mr,guidilol,Guidilol,04,,15.4333333,-12.6
+mr,guiegui,Guiégui,10,,15.2333333,-12.3666667
+mr,guirai,Guiraï,04,,16.1,-13.45
+mr,guiraye,Guiraye,04,,16.1,-13.45
+mr,guireye,Guireye,04,,16.1,-13.45
+mr,hadad,Hadad,04,,15.7666667,-12.95
+mr,haddah,Haddah,04,,15.7666667,-12.95
+mr,haere golere,Haéré Goléré,05,,16.4166667,-14.0166667
+mr,haere mbar,Haéré Mbar,05,,16.4166667,-14.0666667
+mr,hai medat,Haï Médat,04,,16.1833333,-13.8
+mr,haire golere,Haïré Goléré,05,,16.4166667,-14.0166667
+mr,haire,Haïré,10,,15.6,-12.0666667
+mr,haire mbar,Haïré Mbar,05,,16.4166667,-14.0666667
+mr,hamdallaye,Hamdallaye,10,,15.2333333,-12.1
+mr,hamed jibi,Hamed Jibi,04,,15.55,-12.55
+mr,hamoud,Hamoud,03,,15.6166667,-11.5
+mr,hamouria,Hamouria,02,,15.5666667,-8.7333333
+mr,hamourya,Hâmouryâ,02,,15.5666667,-8.7333333
+mr,hari hara,Hari Hara,04,,15.4666667,-12.6166667
+mr,harouna,Harouna,02,,15.4666667,-10.1833333
+mr,harr,Harr,10,,15.2833333,-12.55
+mr,hartane,Hartane,03,,15.9166667,-11.15
+mr,hasei larha,Hâsèï Larha,01,,15.65,-8.05
+mr,hassei larha,Hasseï Larha,01,,15.65,-8.05
+mr,hassei sidi,Hasseï Sidi,04,,16.3666667,-12.25
+mr,hassi bagara,Hassi Bagara,10,,15.35,-12.3666667
+mr,hassi bagra,Hassi Bagra,03,,15.8333333,-11.6166667
+mr,hassi bou sei,Hassi Boû Seï,04,,15.7166667,-12.2166667
+mr,hassi chaggar,Hassi Chaggar,10,,15.3666667,-12.0833333
+mr,hassi chems,Hassi Chems,04,,15.95,-12.2666667
+mr,hassi-chogar,Hassi-Chogar,10,,15.3666667,-12.0833333
+mr,hassi delme,Hassi Delme,10,,15.1333333,-11.95
+mr,hassi el abiod,Hassi el Abiod,04,,15.9,-12.1833333
+mr,hassi el hamar,Hassi el Hamar,10,,15.45,-12.0
+mr,hassi guenderes,Hassi Guenderes,06,,17.3166667,-16.1
+mr,hassi guendres,Hassi Guendres,06,,17.3166667,-16.1
+mr,hassi sidi,Hassi Sidi,10,,15.5833333,-12.2
+mr,houi damour,Houi Damour,10,,15.4666667,-12.05
+mr,ibachelene,Ibacheléne,03,,15.85,-11.0833333
+mr,idaouach,Idaouach,03,,15.8833333,-11.9666667
+mr,idawache,Idawache,03,,15.8833333,-11.9666667
+mr,idjil,Idjil,11,,22.6833333,-12.7
+mr,iero djibel,Iéro Djibel,04,,16.0166667,-12.85
+mr,imijije,Imijijé,04,,16.1666667,-12.25
+mr,iouik,Iouik,08,,19.8666667,-16.3
+mr,iwik,Iwik,08,,19.8666667,-16.3
+mr,jerikay,Jérikay,02,,15.5333333,-8.7
+mr,jilalive,Jilalive,04,,15.7333333,-12.7333333
+mr,jirana,Jirana,01,,15.6,-7.0666667
+mr,joumanie,Joumanié,02,,15.6,-8.7333333
+mr,jraif,Jraïf,01,,16.5,-7.1833333
+mr,jraif,Jraïf,07,,20.8333333,-12.4333333
+mr,jreida,Jreïda,06,,18.3180556,-16.0386111
+mr,kadi-el-abou,Kadi-el-Abou,05,,16.4,-13.9833333
+mr,kadie labou,Kadié Labou,05,,16.4,-13.9833333
+mr,kadiel,Kadiel,04,,15.7833333,-12.5166667
+mr,kaedi,Kaédi,04,,16.15,-13.5
+mr,kaleourou,Kaléourou,03,,15.2,-10.8666667
+mr,kalifa,Kalifa,01,,15.5833333,-5.6166667
+mr,kaloua,Kaloua,04,,15.8,-12.45
+mr,kalwa,Kalwa,04,,15.8,-12.45
+mr,kamor,Kamor,03,,17.0833333,-12.05
+mr,kankossa,Kankossa,03,,15.9333333,-11.5166667
+mr,karakoro,Karakoro,10,,15.0,-12.0
+mr,karka,Karka,01,,15.6166667,-7.8166667
+mr,karoulou,Karoulou,02,,15.4333333,-10.3833333
+mr,kataouane,Kataouane,01,,16.0666667,-6.7666667
+mr,kataouan,Kataouan,01,,16.0666667,-6.7666667
+mr,kayoutt,Kayoutt,03,,15.45,-11.0166667
+mr,kelele,Kélélé,02,,15.5666667,-10.2666667
+mr,keninkoumou,Kéninkoumou,10,,15.3166667,-12.2333333
+mr,kerfi,Kerfi,02,,15.7,-9.4833333
+mr,kersiniane,Kersiniané,10,,15.0333333,-12.45
+mr,keurinadihe,Keurinadihé,06,,16.4833333,-15.7333333
+mr,keur koure,Keur Kouré,06,,16.5666667,-15.5333333
+mr,keur macene,Keur Macene,06,,16.55,-16.2333333
+mr,keur madike,Keur Madiké,06,,16.4833333,-15.7333333
+mr,keur marsal,Keur Marsal,06,,16.5333333,-16.2333333
+mr,keur massene,Keur Massène,06,,16.55,-16.2333333
+mr,keur mour,Keur Mour,06,,16.5166667,-15.55
+mr,keur per,Keur Pèr,06,,16.5166667,-16.2
+mr,khabou guidimaka,Khabou Guidimaka,10,,14.75,-12.0833333
+mr,khabou,Khabou,10,,14.75,-12.0833333
+mr,kharre,Kharré,06,,16.5333333,-15.6166667
+mr,kifa,Kîfa,03,,16.6166667,-11.4
+mr,kiffa,Kiffa,03,,16.6166667,-11.4
+mr,kilioua,Kilioua,03,,15.4,-10.9666667
+mr,kiliwa,Kiliwa,03,,15.4,-10.9666667
+mr,kitane,Kitane,10,,15.0666667,-11.95
+mr,kobenni,Kobenni,02,,15.8333333,-9.4666667
+mr,kobonni,Kobonni,02,,15.8333333,-9.4666667
+mr,kooa,Kooa,04,,15.9,-12.7333333
+mr,koou,Koou,04,,15.9,-12.7333333
+mr,koou nimadi,Koou Nimadi,04,,16.0,-12.7333333
+mr,koro,Koro,03,,15.7,-11.7833333
+mr,korokoro,Korokoro,10,,15.0666667,-12.4166667
+mr,kote,Koté,03,,15.6833333,-11.9
+mr,kouide,Kouidé,04,,15.9833333,-12.5833333
+mr,koumba ndao,Koumba Ndao,10,,15.0,-12.1833333
+mr,koumbi dyofi,Koumbi Dyofi,01,,15.6,-7.8833333
+mr,koumbou,Koumbou,04,,15.15,-12.7833333
+mr,koundele,Koundélé,04,,15.7833333,-13.2666667
+mr,koundel reo,Koundel Réo,04,,15.7833333,-13.2666667
+mr,koundiourla,Koundiourla,01,,15.5333333,-5.65
+mr,kouroukere beda,Kouroukéré Béda,02,,15.5166667,-9.65
+mr,kouroukere el kabar,Kouroukéré el Kabar,02,,15.4666667,-9.6333333
+mr,kouroukere idoulcher,Kouroukéré Idoulcher,02,,15.45,-9.6333333
+mr,kouroukere,Kouroukéré,02,,15.4666667,-9.6666667
+mr,koussana,Koussana,01,,15.6333333,-5.75
+mr,koussane,Koussané,10,,15.2,-12.55
+mr,kova,Kova,04,,15.9,-12.7333333
+mr,kow,Kow,04,,15.9,-12.7333333
+mr,kow nimadi,Kow Nimadi,04,,16.0,-12.7333333
+mr,kraa bou mbare,Kraâ Bou Mbaré,05,,16.6666667,-13.8333333
+mr,kra' bou mbare,Krâ' Boû Mbaré,05,,16.6666667,-13.8333333
+mr,ksar chams,Ksar Chams,06,,16.5333333,-15.6333333
+mr,ksar el barka,Ksar el Barka,09,,18.4,-12.2166667
+mr,ksar el khali,Ksar el Khâli,07,,20.9333333,-11.6166667
+mr,ksar,Ksar,06,,18.1022222,-15.955
+mr,ksar torchane,Ksar Torchane,07,,20.7,-13.0166667
+mr,la batterie,La Batterie,08,,20.8666667,-17.0666667
+mr,lagafouya,Lagafouya,04,,15.6,-12.4
+mr,lahouvich,Lahouvich,06,,16.6333333,-15.9833333
+mr,la'ouessi,La'ouessi,04,,16.2666667,-12.2
+mr,larach,Larach,04,,16.3833333,-12.45
+mr,lareich,Lareïch,01,,15.5833333,-7.8333333
+mr,lareych,Larèych,01,,15.5833333,-7.8333333
+mr,leangrat,Léangrat,01,,15.5833333,-8.7
+mr,lea ouemoua,Léa Ouémoua,01,,15.7333333,-7.8333333
+mr,lea wemwa,Léa Wémwa,01,,15.7333333,-7.8333333
+mr,leboudou ouaounde,Léboudou Ouaoundé,04,,15.25,-12.85
+mr,leboudou waounde,Leboudou Waoundé,04,,15.25,-12.85
+mr,legat,Legat,05,,16.75,-14.8333333
+mr,legatt,Legatt,05,,16.75,-14.8333333
+mr,leggatt,Leggatt,05,,16.75,-14.8333333
+mr,lehagid,Léhagid,02,,15.5333333,-8.8833333
+mr,lehaguid,Léhaguid,02,,15.5333333,-8.8833333
+mr,leherik,Leherik,03,,15.7,-11.1
+mr,lehoueidni,Léhoueïdni,03,,15.6666667,-11.2833333
+mr,le-kseiba,Le-Kséïba,04,,16.2166667,-13.15
+mr,lekselba,Lékselba,10,,14.9166667,-12.45
+mr,lema,Léma,10,,15.0666667,-12.4333333
+mr,lemhaisrat,Lemhaisrat,08,,19.0333333,-16.2333333
+mr,lemjajta,Lemjajta,03,,15.9666667,-11.7333333
+mr,lemjatja,Lemjatja,03,,15.9666667,-11.7333333
+mr,lemrhada,Lemrhada,02,,16.8333333,-10.7
+mr,lerouerat,Lerouérat,05,,16.5166667,-13.9666667
+mr,leroug,Leroug,05,,16.75,-14.7333333
+mr,leve,Lévé,04,,16.2666667,-13.6666667
+mr,lexelba,Léxelba,10,,14.9166667,-12.45
+mr,liguilkairi,Liguilkaïri,05,,16.4,-13.8166667
+mr,lilia,Lilia,04,,16.2166667,-13.8666667
+mr,liradj,Liradj,10,,15.0333333,-12.5166667
+mr,litama,Litama,04,,15.55,-12.5
+mr,livol,Livol,04,,15.9,-12.4
+mr,lmeday,Lméday,02,,15.55,-8.7166667
+mr,lorhvire,Lorhviré,02,,15.5,-8.9333333
+mr,louad touil,Louad Touil,05,,16.8,-14.4666667
+mr,louboere,Louboéré,10,,15.4666667,-11.8166667
+mr,l'oudeye,L'Oudeye,03,,15.9,-11.45
+mr,lougat,Lougat,05,,16.75,-14.8333333
+mr,lougue boudame,Lougué Boudamé,04,,15.6166667,-12.5666667
+mr,lougue potie,Lougué Potié,05,,16.8,-14.4666667
+mr,louguere,Louguéré,04,,15.2333333,-12.7666667
+mr,loumbaydi,Loumbaydi,01,,15.6333333,-7.6333333
+mr,loumbol,Loumbol,04,,15.5666667,-12.4
+mr,lououei,Lououeï,02,,15.6833333,-9.05
+mr,loureme,Lourémé,04,,15.7333333,-12.5833333
+mr,louwei,Louweï,02,,15.6833333,-9.05
+mr,madel,Madèl,01,,15.6333333,-8.6333333
+mr,madina,Madina,02,,15.4333333,-10.1166667
+mr,mafondou,Mafondou,04,,16.15,-13.2166667
+mr,magama,Magama,04,,15.5166667,-12.85
+mr,maghama,Maghama,04,5100,15.5166667,-12.85
+mr,magta-lahjar,Magta-lahjar,05,,17.0,-13.5
+mr,magta' lahjar,Magta' Lahjar,05,,17.0,-13.5
+mr,makadougou,Makadougou,10,,14.9,-12.2166667
+mr,makhana,Makhana,04,,16.3,-13.5833333
+mr,makredi,Makrédi,02,,15.45,-9.6
+mr,mamaeli,Mamaéli,10,,15.1,-12.2
+mr,mame diak,Mame Diak,05,,16.6833333,-14.7
+mr,mansour,Mansour,01,,15.6333333,-5.6666667
+mr,maoudass,Maoudass,03,,15.55,-10.9166667
+mr,mara,Mara,02,,15.45,-10.3666667
+mr,marandebe,Marandébé,03,,15.15,-10.8833333
+mr,marane,Marané,03,,15.2166667,-10.8333333
+mr,mareifa,Mareïfa,04,,16.15,-13.2666667
+mr,marhandye,Marhandyé,01,,15.5666667,-7.1166667
+mr,marsila,Marsila,02,,15.4833333,-9.6166667
+mr,massam,Massam,10,,15.15,-11.9
+mr,massar,Massar,10,,15.15,-11.9
+mr,mbagne,Mbagne,04,,16.15,-13.7833333
+mr,mbahe,Mbahé,04,,16.25,-13.75
+mr,mbalou,Mbalou,10,,15.0166667,-12.0666667
+mr,mbedia achar,Mbédia Achar,10,,15.5333333,-12.1
+mr,mbeida,MBeida,10,,15.5333333,-12.1
+mr,mbeidia,Mbeïdia,10,,15.5333333,-12.1
+mr,mbeidi,Mbeïdi,04,,16.2833333,-13.0833333
+mr,mbich,Mbich,02,,15.5333333,-8.75
+mr,mbidane alambe,Mbidane Alambé,04,,16.25,-13.4833333
+mr,mbome kawal,Mbomé Kawal,10,,15.15,-12.4833333
+mr,mboto,Mboto,04,,16.2333333,-13.85
+mr,mboul,Mboul,04,,15.8,-13.2166667
+mr,mboul,Mboul,06,,16.7,-15.1333333
+mr,mbout chorfa,Mbout Chorfa,04,,16.0,-12.5666667
+mr,mbout,Mbout,04,,16.0333333,-12.5833333
+mr,medala,Médala,01,,15.5,-5.5833333
+mr,medalla,Médalla,01,,15.5,-5.5833333
+mr,medd allah,Medd Allah,01,,15.5,-5.5833333
+mr,mederdra,Mederdra,06,,16.9166667,-15.65
+mr,meilaha,Meïlaha,10,,15.3166667,-11.9
+mr,memrhar,Memrhar,08,,19.3666667,-16.5166667
+mr,messelse,Messelsé,02,,15.4833333,-10.35
+mr,miloatane,Miloatane,04,,15.9333333,-12.0666667
+mr,mils,Mils,01,,15.8666667,-7.15
+mr,mkhaizine,Mkhaïzine,03,,15.9666667,-11.25
+mr,modi founti,Modi Founti,04,,16.8333333,-12.8333333
+mr,mohili,Mohili,03,,15.2,-10.9333333
+mr,moibra,Moïbra,02,,15.5666667,-10.0333333
+mr,moi moi,Moï Moï,05,,16.7333333,-14.5666667
+mr,mokrai mara,Mokraï Mara,04,,15.7666667,-12.25
+mr,monguel foubde dieri,Monguel Foubdé Diéri,04,,16.3666667,-13.1166667
+mr,monguel,Mônguel,04,,16.4166667,-13.1333333
+mr,monguel tounde,Monguel Toundé,04,,16.4166667,-13.1333333
+mr,moribougou,Moribougou,02,,15.5166667,-9.4833333
+mr,mostaka,Mostaka,01,,16.1833333,-7.4666667
+mr,moudiat,Moudiat,02,,15.4666667,-9.5333333
+mr,moudjeria,Moudjéria,09,,17.8833333,-12.3333333
+mr,moudji babangol,Moudji Babangol,10,,15.05,-12.3
+mr,moudji youroufa,Moudji Youroufa,10,,15.05,-12.3
+mr,mouenite,Mouénité,04,,15.75,-12.55
+mr,mouit,Mouit,04,,16.5833333,-13.0833333
+mr,moujoufane,Moujoufane,01,,15.7166667,-7.6333333
+mr,moujoufan,Moujoufan,01,,15.7166667,-7.6333333
+mr,moulessimou,Moulessimou,10,,14.8333333,-12.3333333
+mr,mounguel,Mounguel,04,,16.4166667,-13.1333333
+mr,mounor,Mounor,02,,15.5833333,-8.7833333
+mr,mourtogalgar,Mourtogalgar,04,,16.25,-13.8
+mr,mousfouaye,Mousfouayé,01,,15.65,-8.6
+mr,mousfwaye,Mousfwayé,01,,15.65,-8.6
+mr,moussala,Moussala,03,,15.2,-10.9166667
+mr,moussasta,Moussasta,10,,15.2833333,-12.1
+mr,moussoufoye,Moussoufoyé,02,,15.55,-9.5333333
+mr,moutahala,Moutahala,10,,15.3833333,-11.9333333
+mr,moutogagar,Moutogagar,04,,16.25,-13.8
+mr,moutogalgar,Moutogalgar,05,,16.4166667,-13.8333333
+mr,mreimida beidane,Mreïmida Beïdane,02,,16.8,-10.7833333
+mr,mreimida haratine,Mreïmida Harâtîne,02,,16.8,-10.75
+mr,mreimida haratin,Mreïmida Haratin,02,,16.8,-10.75
+mr,mta meidit,Mta Meïdit,01,,15.65,-8.7166667
+mr,mta meydit,Mta Meydit,01,,15.65,-8.7166667
+mr,mzaimid,Mzaïmid,01,,15.6666667,-7.0333333
+mr,mzaymid,Mzaymid,01,,15.6666667,-7.0333333
+mr,naile,Naïlé,02,,15.4833333,-9.4333333
+mr,nbak,Nbâk,06,,17.25,-14.9833333
+mr,nbare,Nbaré,03,,15.2333333,-10.95
+mr,ndam niaraoual,Ndam Niaraoual,04,,15.95,-12.7833333
+mr,ndam niaroual,Ndam Niaroual,04,,15.95,-12.7833333
+mr,ndam yalalbe,Ndam Yalalbé,04,,15.9333333,-12.7666667
+mr,n'dan,N'Dan,04,,15.9,-12.7333333
+mr,ndiago,Ndiago,06,,16.1666667,-16.5
+mr,ndian dia,Ndian Dia,05,,16.4833333,-13.9833333
+mr,ndiao reo,Ndiao Réo,05,,16.65,-14.6666667
+mr,ndiavaldi bouli,Ndiavaldi Bouli,04,,16.3,-13.7833333
+mr,ndiavaldi diouma,Ndiavaldi Diouma,04,,16.3166667,-13.8166667
+mr,ndiemar,Ndiémar,06,,16.2833333,-16.4666667
+mr,ndieo,Ndiéo,03,,15.8666667,-12.0333333
+mr,ndiongo,Ndiongo,06,,16.7166667,-15.0166667
+mr,ndirol,Ndirol,05,,16.65,-14.4166667
+mr,ndoumelli debe,Ndoumelli Débé,03,,15.65,-11.8
+mr,ndoumelli,Ndoumelli,03,,15.6166667,-11.8166667
+mr,ndrenawou,Ndrénawou,01,,15.6333333,-7.2
+mr,nega,Néga,02,,15.7,-9.8166667
+mr,nemahidi,Nemahidi,04,,15.95,-12.7
+mr,nema,Néma,01,,16.6166667,-7.25
+mr,nere,Néré,01,,15.6,-5.5666667
+mr,nere,Néré,04,,16.1166667,-13.6333333
+mr,nere oualo,Néré Oualo,04,,16.1166667,-13.6333333
+mr,ngalgou,Ngalgou,05,,16.7,-14.5166667
+mr,ngapougou,Ngapougou,04,,16.2333333,-13.0833333
+mr,n'gorai,N'Goraï,05,,16.6333333,-14.35
+mr,ngorel,Ngorel,05,,16.6333333,-14.35
+mr,niabina,Niabina,04,,16.2833333,-13.7666667
+mr,niarawal,Niarawal,04,,15.2,-12.7333333
+mr,nieleba haouissa,Niéleba Haouissa,10,,15.5333333,-12.2
+mr,nieleba haouisse,Niéléba Haouissé,10,,15.5333333,-12.2
+mr,nima,Nima,04,,15.8,-13.2666667
+mr,nimjad,Nimjad,06,,17.4166667,-15.6833333
+mr,niomel,Niomel,10,,15.5333333,-12.35
+mr,nouadhibou,Nouâdhibou,08,80181,20.9,-17.0666667
+mr,nouakchat,Nouakchat,06,,18.0863889,-15.9752778
+mr,nouakchot,Nouakchot,06,,18.0863889,-15.9752778
+mr,nouakchott,Nouakchott,06,709835,18.0863889,-15.9752778
+mr,nouamghar,Nouâmghâr,08,,19.3666667,-16.5166667
+mr,nouamrhar,Nouamrhar,08,,19.3666667,-16.5166667
+mr,nouma,Nouma,04,,15.3666667,-12.85
+mr,ntabane,Ntabane,03,,15.4833333,-10.8666667
+mr,n-tilimit,N-Tîlimît,03,,15.6,-11.2666667
+mr,ntilimitt,Ntilimitt,03,,15.6,-11.2666667
+mr,nuadibu,Nuadibu,08,,20.9,-17.0666667
+mr,nwanghar,Nwanghar,08,,19.3666667,-16.5166667
+mr,olo ologo,Olo Ologo,05,,16.65,-14.55
+mr,otiere,Otiéré,04,,15.6833333,-12.6333333
+mr,ouadane,Ouadâne,07,,20.9333333,-11.6166667
+mr,ouadio,Ouadio,04,,16.25,-13.4
+mr,oualata,Oualâta,01,,17.3,-7.0333333
+mr,ouali diamtana,Ouali Diamtana,04,,15.3333333,-12.8666667
+mr,ouali,Ouali,04,,15.3333333,-12.8666667
+mr,oudane,Oudane,07,,20.9333333,-11.6166667
+mr,oudei chrak,Oûdeï Chrak,04,,16.5666667,-12.8333333
+mr,oudei lebhanis,Oûdeï Lebhanis,03,,15.6,-11.6333333
+mr,oudei,Oûdeï,03,,15.9,-11.45
+mr,oudei talaba,Oûdeï Talaba,03,,15.6166667,-11.6166667
+mr,oudelemguil,Oudelemguil,04,,15.9166667,-12.2333333
+mr,oudeye lebhanis,Oudeye Lebhanis,03,,15.6,-11.6333333
+mr,oudeye lebhaniss,Oudeye Lebhaniss,03,,15.6,-11.6333333
+mr,oudeye,Oudeye,03,,15.9,-11.45
+mr,oudeye talaba,Oudeye Talaba,03,,15.6166667,-11.6166667
+mr,ouechguech,Ouechguech,04,,16.2333333,-12.5666667
+mr,ouedamor gobingoa,Ouédamor Gobingoa,04,,15.8166667,-12.6666667
+mr,ouedamor gobi,Ouédamor Gobi,04,,15.7833333,-12.6666667
+mr,ouedamor,Ouédamor,04,,15.7666667,-12.6166667
+mr,oueringuel,Ouéringuel,03,,15.8333333,-11.5333333
+mr,ouetji,Ouètji,05,,16.5,-14.1666667
+mr,ouiouat,Ouiouat,10,,15.2333333,-11.9333333
+mr,oujefte,Oujefte,07,,20.0333333,-13.05
+mr,oujeft,Oujeft,07,,20.0333333,-13.05
+mr,oulad el hadji,Oulad el Hadji,04,,16.2666667,-12.45
+mr,oulad ouissa,Oulad Ouissa,05,,16.4833333,-13.9166667
+mr,oulad talha,Oulad Talha,04,,16.9833333,-12.8
+mr,oula gueile,Oula Gueïlé,02,,15.5666667,-9.8333333
+mr,oulamantess,Oulamantess,03,,15.25,-10.95
+mr,ould jiddou,Ould Jiddou,03,,15.5833333,-11.8
+mr,ould moilid,Ould Moïlid,04,,16.5,-12.5833333
+mr,ould rami,Ould Rami,04,,16.1,-12.9333333
+mr,ould yanja,Ould Yanja,03,,15.5333333,-11.7166667
+mr,ouled addet,Ouled Addet,04,,15.6333333,-12.5
+mr,oulombome,Oulombomé,04,,15.6666667,-12.3666667
+mr,oulrami-maure,Oulrami-Maure,10,,15.1666667,-12.4166667
+mr,oulrami maures,Oulrami Maures,10,,15.1666667,-12.4166667
+mr,oulrami,Oulrami,10,,15.15,-12.4666667
+mr,oumkchera,Oumkchéra,03,,15.6333333,-11.1333333
+mr,oumm el barka,Oumm el Barka,03,,15.5833333,-10.85
+mr,oumm el bohoro,Oumm el Bohoro,03,,15.35,-10.75
+mr,oumoulbarka,Oumoulbarka,03,,15.5833333,-10.85
+mr,oumoulbohoro,Oumoulbohoro,03,,15.35,-10.75
+mr,oumoussoye,Oumoussoyé,02,,15.55,-9.5333333
+mr,oumpou,Oumpou,10,,15.1333333,-12.7166667
+mr,ouole,Ouolé,03,,15.2833333,-10.8666667
+mr,ouoloum atar,Ouoloum Atar,04,,16.2,-13.65
+mr,ouoloum nere,Ouoloum Néré,04,,16.2,-13.65
+mr,ouompou,Ouompou,10,,15.1333333,-12.7166667
+mr,ourguia,Ourguia,05,,16.7666667,-14.2333333
+mr,ouro aire,Ouro Aïré,04,,15.55,-12.8
+mr,ouro boka,Ouro Boka,04,,15.75,-12.6
+mr,ouro boki,Ouro Boki,02,,15.5833333,-9.8333333
+mr,ouro diallo,Ouro Diallo,05,,16.3166667,-13.9166667
+mr,ouro diaoube,Ouro Diaoubé,04,,15.65,-12.6333333
+mr,ouro fame,Ouro Famé,04,,16.0666667,-12.9333333
+mr,ouro fari,Ouro Fari,10,,15.0666667,-12.4333333
+mr,ouro haire,Ouro Haïré,04,,15.55,-12.8
+mr,ouro ndom,Ouro Ndom,04,,15.55,-12.6666667
+mr,ouro sabar,Ouro Sabar,04,,16.1333333,-12.9333333
+mr,ouska,Ouska,04,,16.7666667,-12.9833333
+mr,patoukone,Patoukone,04,,16.0333333,-13.3333333
+mr,pempediel,Pempédiel,04,,16.15,-13.5333333
+mr,pendao,Pendao,06,,16.6166667,-15.1
+mr,poleti,Poleti,05,,16.8333333,-13.2333333
+mr,portendick,Portendick,06,,18.5833333,-16.1166667
+mr,port-etienne,Port-Étienne,08,,20.9,-17.0666667
+mr,port ettienne,Port Ettienne,08,,20.9,-17.0666667
+mr,puits des boradda,Puits des Boradda,01,,16.2833333,-6.6833333
+mr,puits des borradas,Puits des Borradas,01,,16.2833333,-6.6833333
+mr,rachbe,Rachbé,03,,15.3666667,-11.0833333
+mr,rachide,Rachide,09,,18.8,-11.6833333
+mr,rachid,Rachid,09,,18.8,-11.6833333
+mr,raichakh,Raïchakh,03,,15.8666667,-11.7
+mr,raifera,Raïféra,03,,15.45,-11.2
+mr,regba,Regba,05,,16.7333333,-14.6833333
+mr,regbet thila,Regbet Thila,08,,19.4166667,-16.4666667
+mr,reguibat,Reguibat,08,,19.4166667,-16.4666667
+mr,rgueiba-thila,Rgueïba-Thila,08,,19.4166667,-16.4666667
+mr,rhabra,Rhabra,04,,16.65,-12.6666667
+mr,rinndiao,Rinndiao,04,,16.15,-13.5833333
+mr,roco,Roco,06,,16.5,-15.8166667
+mr,rosso,Rosso,06,,16.5,-15.8166667
+mr,rouji aoudi,Rouji Aoudi,04,,16.1666667,-13.7
+mr,roumda,Roumda,03,,15.5333333,-11.35
+mr,roumde,Roumdé,03,,15.5333333,-11.1666667
+mr,sabala,Sabala,05,,16.4666667,-13.9833333
+mr,sabar,Sabar,04,,16.1333333,-12.8833333
+mr,saboala,Saboala,04,,15.2,-12.8333333
+mr,saboala,Saboala,05,,16.4166667,-14.0333333
+mr,sabou-cire,Sabou-Ciré,10,,14.8166667,-12.05
+mr,sabou-sire,Sabou-Siré,10,,14.8166667,-12.05
+mr,saboussire,Saboussiré,04,,15.35,-12.55
+mr,saboussire,Saboussiré,10,,14.8166667,-12.05
+mr,sagne,Sagné,04,,15.2,-12.7833333
+mr,sahout el ma,Sahout el Ma,06,,16.9166667,-15.1666667
+mr,salka bale,Salka Balé,04,,16.05,-12.65
+mr,salka dahana,Salka Dahana,10,,15.4833333,-11.7166667
+mr,sambadebe,Sambadébé,10,,14.95,-12.45
+mr,samba doga,Samba Doga,10,,15.55,-12.2333333
+mr,sambakagny,Sambakagny,10,,14.9833333,-12.3166667
+mr,samba kandji,Samba Kandji,10,,14.9833333,-12.3166667
+mr,sambangoma,Sambangoma,10,,15.5833333,-11.9333333
+mr,samba sako,Samba Sako,10,,15.1166667,-12.4833333
+mr,samba,Samba,03,,15.9166667,-11.65
+mr,sambou,Sambou,02,,15.4666667,-10.3166667
+mr,sanbadebe,Sanbadébé,10,,14.95,-12.45
+mr,sanba kandji,Sanba Kandji,10,,14.9833333,-12.3166667
+mr,sanbangoma,Sanbangoma,10,,15.5833333,-11.9333333
+mr,sanba,Sanba,03,,15.9166667,-11.65
+mr,sanbou,Sanbou,02,,15.4666667,-10.3166667
+mr,sandemode,Sandémodé,04,,15.7166667,-12.6833333
+mr,sangue dieri,Sangué Diéri,10,,15.0833333,-12.5666667
+mr,saralebeda,Saralébéda,03,,15.4,-11.0
+mr,sarankoite,Sarankoïté,10,,15.1666667,-12.3
+mr,sare ndogou boubakar baili,SAré Ndogou Boubakar Baïli,05,,16.6666667,-14.3
+mr,sare ndogou diberi,Saré Ndogou Dibéri,05,,16.65,-14.3166667
+mr,saye,Sayé,05,,16.6333333,-14.2666667
+mr,segui,Ségui,02,,16.9166667,-10.6
+mr,sehout el ma,Sehout el Ma,06,,16.9166667,-15.1666667
+mr,sei deleme,Seï Délémé,10,,15.1333333,-11.95
+mr,sei hamar,Seï Hamar,10,,15.0333333,-11.95
+mr,seira fatouma,Seira Fatouma,04,,15.6166667,-12.4666667
+mr,seli atach,Séli Atach,04,,15.7,-12.25
+mr,selibabi,Sélibabi,10,,15.1666667,-12.1833333
+mr,selibaby,Sélibaby,10,,15.1666667,-12.1833333
+mr,sellam,Sellam,03,,15.9166667,-11.1
+mr,selrazene,Selrazéné,04,,15.75,-12.7333333
+mr,sene kouna,Séné Kouna,05,,16.4833333,-14.1
+mr,setare,Sétaré,01,,15.6,-7.8
+mr,seyene,Séyène,04,,16.2166667,-13.3666667
+mr,sibar,Sibar,03,,15.5666667,-10.95
+mr,si hamel,Si Hamel,10,,15.3166667,-12.1666667
+mr,silla,Silla,04,,16.1333333,-13.6
+mr,siluol,Siluol,04,,15.95,-12.8333333
+mr,simon,Simon,06,,16.7333333,-14.9833333
+mr,sintiou boumaka,Sintiou Boumaka,04,,16.1166667,-13.6166667
+mr,sive,Sivé,04,,15.7,-13.2
+mr,solou,Solou,10,,14.7666667,-12.15
+mr,sori male,Sori Malé,04,,16.2,-13.9
+mr,soronabougou,Soronabougou,02,,15.5166667,-10.25
+mr,sott,Sott,02,,15.5666667,-9.9666667
+mr,souaende,Souaendé,02,,15.5833333,-8.95
+mr,soueif,Soueïf,04,,16.0,-12.4666667
+mr,souet el ma,Souet el Ma,06,,16.9166667,-15.1666667
+mr,soufi,Soufi,10,,15.1666667,-12.0166667
+mr,sountchoudebe,Sountchoudébé,10,,15.0,-12.45
+mr,swaende,Swaendé,02,,15.5833333,-8.95
+mr,tacheur,Tacheur,04,,15.6333333,-12.8166667
+mr,tairente,Tairente,07,,20.4333333,-13.15
+mr,taizennt,Taizennt,07,,20.4333333,-13.15
+mr,taizent,Taïzent,07,,20.4333333,-13.15
+mr,takoutala,Takoutala,04,,15.5666667,-12.4833333
+mr,takoutala,Takoutala,10,,15.1333333,-12.65
+mr,takoutalla,Takoutalla,10,,15.1333333,-12.65
+mr,talhaya,Talhâya,04,,16.15,-13.1833333
+mr,tamchaket,Tamchaket,02,,17.25,-10.6666667
+mr,tamchakett,Tamchakett,02,,17.25,-10.6666667
+mr,tamchekett,Tamchekett,02,,17.25,-10.6666667
+mr,tamchekket,Tamchekket,02,,17.25,-10.6666667
+mr,tamxat,Tamxat,06,,17.4333333,-16.05
+mr,tamzak,Tamzak,06,,17.4333333,-16.05
+mr,tamzakt,Tamzakt,06,,17.4333333,-16.05
+mr,tanaha,Tanaha,10,,15.1166667,-10.9
+mr,tanit,Tânît,06,,18.6,-16.1
+mr,tanoudert,Tanoudert,08,,20.2166667,-16.2166667
+mr,tanoutalla,Tanoutalla,10,,15.1333333,-12.65
+mr,taringuel,Taringuel,04,,15.7833333,-12.3666667
+mr,tassota barene,Tassota Baréné,10,,15.4333333,-12.2666667
+mr,tassota botokolo,Tassota Botokolo,10,,15.4333333,-12.2666667
+mr,tata,Tata,04,,15.8666667,-12.6666667
+mr,tchera idobilat,Tchéra Idobilat,01,,15.5833333,-7.9833333
+mr,tchera oulad el faghi,Tchéra Oulad El Faghi,01,,15.6333333,-7.75
+mr,tchera oulad el fagui,Tchéra Oulad el Fagui,01,,15.6333333,-7.75
+mr,tchera rouissa,Tchéra Rouissa,01,,15.6,-7.9333333
+mr,tchera rwisa,Tchéra Rwisa,01,,15.6,-7.9333333
+mr,teguel weze,Téguel Wézé,03,,15.55,-11.25
+mr,teidouma el makha,Teïdouma el Makha,10,,15.5833333,-11.8666667
+mr,teizir,Teïzir,03,,15.5666667,-11.05
+mr,tejekent,Tèjékent,04,,16.9,-12.8166667
+mr,tenouderit,Ténoudérit,08,,20.2166667,-16.2166667
+mr,tentane,Tentane,07,,19.85,-13.0
+mr,terbekou,Terbékou,01,,15.65,-5.65
+mr,terjit,Terjit,07,,20.25,-13.1
+mr,tessem,Tessèm,05,,16.65,-14.8333333
+mr,testai,Testaï,10,,15.2666667,-12.4333333
+mr,tetiane,Tétiane,04,,15.9833333,-13.3166667
+mr,tetiane,Tétiane,05,,16.2333333,-13.9666667
+mr,thiong,Thiong,06,,16.0666667,-16.4833333
+mr,tiale,Tialé,04,,16.05,-12.8
+mr,tialgou,Tialgou,05,,16.6333333,-14.25
+mr,tiali,Tiali,04,,15.4833333,-12.5666667
+mr,tiango nioro,Tiango Nioro,02,,15.45,-9.45
+mr,tichilit aganataya,Tîchilît Aganataya,03,,15.9166667,-11.6166667
+mr,tichilit ahel baba,Tîchilît Ahel Baba,03,,15.9666667,-11.1833333
+mr,tichilite aganataya,Tichïlite Aganataya,03,,15.9166667,-11.6166667
+mr,tichilite ahel baba,Tichilite Ahel Baba,03,,15.9666667,-11.1833333
+mr,tichilit el hradem,Tîchilît el Hradem,01,,15.6166667,-8.5833333
+mr,tichilit el hradem,Tîchilît el Hradem,02,,15.55,-8.8666667
+mr,tichilit el khadem,Tîchilît el Khâdem,01,,15.6166667,-8.5833333
+mr,tichilit el khadem,Tîchilît el Khâdem,02,,15.55,-8.8666667
+mr,tichilit el kountaoui,Tîchilît el Kountaoui,03,,16.7333333,-11.9333333
+mr,tichit,Tîchît,09,,18.4666667,-9.5
+mr,tichitt,Tichitt,09,,18.4666667,-9.5
+mr,tide,Tidé,05,,16.5833333,-14.2333333
+mr,tidjikdja,Tidjikdja,09,,18.55,-11.4166667
+mr,tidjikja,Tidjikja,09,,18.55,-11.4166667
+mr,tiekane,Tiékane,06,,16.6,-15.35
+mr,tienel,Tiénel,04,,15.7333333,-12.3333333
+mr,tienidebe,Tiénidébé,03,,15.15,-10.9
+mr,tiguent,Tiguent,06,,17.25,-16.0
+mr,tiguere,Tiguéré,04,,15.7333333,-13.2333333
+mr,tijikja,Tijikja,09,,18.55,-11.4166667
+mr,tikattane,Tikattane,08,,19.0333333,-16.2333333
+mr,tikattan,Tikattan,08,,19.0333333,-16.2333333
+mr,tilla,Tilla,04,,16.25,-13.8666667
+mr,timbedgha,Timbedgha,01,,16.25,-8.1666667
+mr,timbedra,Timbédra,01,,16.25,-8.1666667
+mr,timebedra,Timébédra,01,,16.25,-8.1666667
+mr,tinde,Tindé,02,,15.55,-9.2833333
+mr,tineto koba,Tinéto Koba,04,,15.6833333,-12.7666667
+mr,tingal,Tingal,03,,15.5333333,-11.2166667
+mr,tingoumba,Tingoumba,02,,15.4666667,-10.2333333
+mr,tinteina,Tinteïna,03,,16.1833333,-11.6166667
+mr,tiong,Tiong,06,,16.0666667,-16.4833333
+mr,tioyekit,Tioyékit,01,,15.5833333,-8.1
+mr,tisent,Tisent,07,,20.4333333,-13.15
+mr,tishit,Tishit,09,,18.4666667,-9.5
+mr,tjadi,Tjadi,06,,16.6833333,-15.25
+mr,tjide,Tjidé,05,,16.5833333,-14.2333333
+mr,toeil,Toéil,02,,15.5666667,-8.75
+mr,tombere djingue,Tombéré Djingué,04,,16.15,-13.3166667
+mr,tombere guinde,Tombéré Guindé,04,,16.15,-13.3166667
+mr,toringuel,Toringuel,04,,15.8166667,-12.3666667
+mr,toueil,Toueïl,02,,15.5666667,-8.75
+mr,touemirt el gouazi,Touémirt el Gouazi,02,,15.5166667,-9.3
+mr,touf,Touf,01,,16.0333333,-8.7833333
+mr,tougouba,Tougouba,02,,15.5333333,-10.1333333
+mr,touil,Touil,02,,15.5333333,-10.1166667
+mr,touimert-el-bera,Touïmert-el-Bèra,05,,16.6166667,-13.9166667
+mr,touimert lbera,Touîmert Lbèra,05,,16.6166667,-13.9166667
+mr,touimrat,Touimrat,03,,15.6666667,-11.6166667
+mr,touimratt,Touimratt,03,,15.6666667,-11.6166667
+mr,toukobra,Toukobra,04,,16.1,-12.3333333
+mr,toulde boussobe,Touldé Boussobé,05,,16.4166667,-14.0833333
+mr,touleli,Touléli,04,,15.3833333,-12.8166667
+mr,toulel,Toulel,04,,15.3833333,-12.8166667
+mr,toule,Toulé,05,,16.5833333,-14.25
+mr,toumbare,Toumbaré,01,,15.95,-7.6666667
+mr,toumbere djinge,Toumbéré Djingé,04,,16.15,-13.3166667
+mr,toumbere djingue,Toumbéré Djingué,04,,16.15,-13.3166667
+mr,toumbou,Toumbou,10,,14.9333333,-12.3
+mr,toumiat,Toumiat,10,,15.2166667,-12.0333333
+mr,toungad,Toungad,07,,20.05,-13.1333333
+mr,tounguen,Tounguen,06,,16.5166667,-15.7666667
+mr,tourime magia,Tourimé Magia,10,,15.3666667,-12.2166667
+mr,tourime,Tourimé,10,,15.3666667,-12.2
+mr,tourime yaka,Tourimé Yaka,10,,15.35,-12.2333333
+mr,traif,Traif,07,,20.8333333,-12.4333333
+mr,tyoyekit,Tyoyékit,01,,15.5833333,-8.1
+mr,ualata,Ualata,01,,17.3,-7.0333333
+mr,vane vane,Vane Vane,05,,16.3166667,-13.9166667
+mr,vannvane,Vannvane,05,,16.3166667,-13.9166667
+mr,velidiare,Vélidiaré,05,,16.4166667,-13.9
+mr,vendou diabi,Vèndou Diabi,05,,16.4166667,-13.9166667
+mr,venedou seno,Vénédou Séno,04,,15.5166667,-12.4166667
+mr,vinde aboidi,Vindé Aboïdi,05,,16.4,-13.9166667
+mr,vinde aire,Vindé Aïré,04,,15.9833333,-12.6333333
+mr,vinde guibi,Vindé Guibi,04,,15.3333333,-12.5666667
+mr,vinde haire,Vindé Haïré,04,,15.9833333,-12.6333333
+mr,vinde lelel,Vindé Lélel,04,,15.5333333,-12.6333333
+mr,vinde mbordi,Vindé Mbordi,04,,16.05,-12.7166667
+mr,vindetile,Vindétilé,04,,15.5333333,-12.9166667
+mr,vindi boke,Vindi Boké,10,,15.4166667,-12.4166667
+mr,vinding,Vinding,04,,16.1166667,-13.85
+mr,vindou goumi,Vindou Goumi,04,,15.75,-12.3666667
+mr,vinnde aboidi,Vinndé Aboïdi,05,,16.4,-13.9166667
+mr,vourodialo,Vourodialo,05,,16.3166667,-13.9166667
+mr,walata,Walata,01,,17.3,-7.0333333
+mr,wali,Wali,04,,15.3333333,-12.8666667
+mr,weringuel,Wéringuel,03,,15.8333333,-11.5333333
+mr,winde mbordi,Windé Mbordi,04,,16.05,-12.7166667
+mr,wiwatt,Wiwatt,10,,15.2333333,-11.9333333
+mr,wole,Wolé,03,,15.2833333,-10.8666667
+mr,wompou,Wompou,10,,15.1333333,-12.7166667
+mr,woumpou,Woumpou,10,,15.1333333,-12.7166667
+mr,yama,Yama,04,,15.6166667,-13.1166667
+mr,yengi,Yèngi,01,,15.6833333,-7.9666667
+mr,yengui,Yèngui,01,,15.6833333,-7.9666667
+mr,yeni,Yéni,04,,15.8,-12.3666667
+mr,yero djibel,Yéro Djibel,04,,16.0166667,-12.85
+mr,yiama,Yiama,04,,15.6166667,-13.1166667
+mr,youmane yire,Youmane Yiré,04,,15.5833333,-13.0833333
+mr,zainat,Zaïnat,01,,15.6166667,-7.85
+mr,zegueha,Zegueha,04,,16.2,-12.1666667
+mr,zenegue bou,Zénégué Bou,10,,15.1666667,-12.2666667
+mr,zenegue maures,Zénégué Maures,10,,15.1166667,-12.2666667
+mr,zenegue maure,Zénégué Maure,10,,15.1166667,-12.2666667
+mr,zenegue toucouleur,Zénégué Toucouleur,10,,15.1833333,-12.2666667
+mr,ziouaz,Ziouaz,01,,16.0,-8.8
+mr,ziwaz,Ziwaz,01,,16.0,-8.8
+mr,zoueiratt,Zoueïratt,11,,22.7,-12.4833333
+mr,zouerate,Zouérate,11,,22.7,-12.4833333
+mr,zouerat,Zouérat,11,,22.7,-12.4833333
+mr,zouirat,Zouîrât,11,,22.7,-12.4833333
+mr,zref,Zréf,02,,15.5,-9.5166667
+mr,zreif el azra,Zreïf el Azra,02,,15.55,-9.5
+mr,zreig,Zreïg,04,,16.0833333,-12.7833333

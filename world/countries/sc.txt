@@ -1,0 +1,21 @@
+sc,anse boileau,Anse Boileau,08,,-4.7166667,55.4833333
+sc,anse royal,Anse Royal,08,,-4.7333333,55.5166667
+sc,anse royale,Anse Royale,08,,-4.7333333,55.5166667
+sc,anse volbert village,Anse Volbert Village,08,,-4.3166667,55.7333333
+sc,beau vallon,Beau Vallon,08,,-4.6,55.4166667
+sc,belle ombre,Belle Ombre,08,,-4.6166667,55.4166667
+sc,bel ombre,Bel Ombre,08,,-4.6166667,55.4166667
+sc,cascade,Cascade,08,,-4.6666667,55.5
+sc,de quincey village,De Quincey Village,08,,-4.6,55.45
+sc,de quincy village,De Quincy Village,08,,-4.6,55.45
+sc,donja mahala,Donja Mahala,00,,42.6408333,22.0330556
+sc,la misere,La Misere,08,,-4.6666667,55.4666667
+sc,la reunion,La Réunion,08,,-4.35,55.8333333
+sc,l'esperance,L'Espérance,08,,-4.7166667,55.4833333
+sc,machabee,Machabee,08,,-4.5666667,55.45
+sc,mahe,Mahé,08,,-4.6166667,55.45
+sc,misere,Misere,08,,-4.6666667,55.4666667
+sc,port glaud,Port Glaud,08,,-4.6666667,55.4166667
+sc,port victoria,Port Victoria,08,,-4.6166667,55.45
+sc,takamaka,Takamaka,08,,-4.7666667,55.5
+sc,victoria,Victoria,08,26361,-4.6166667,55.45

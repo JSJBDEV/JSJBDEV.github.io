@@ -1,0 +1,211 @@
+lc,anbre,Anbre,08,,13.8166667,-60.9166667
+lc,angere,Angere,08,,13.7833333,-60.9166667
+lc,annus,Annus,07,,13.7666667,-61.0
+lc,anse canot,Anse Canot,05,,13.9,-60.9
+lc,anse ger,Anse Ger,08,,13.7833333,-60.8833333
+lc,anse la raye,Anse La Raye,01,,13.9333333,-61.0333333
+lc,anse la verdure,Anse La Verdure,01,,13.9,-61.05
+lc,anse noir,Anse Noir,07,,13.7333333,-60.9833333
+lc,augier,Augier,10,,13.75,-60.9666667
+lc,au tabor,Au Tabor,01,,13.9333333,-61.0333333
+lc,babonneau,Babonneau,03,,14.0,-60.9333333
+lc,balambouche,Balambouche,07,,13.75,-61.0166667
+lc,balata,Balata,03,,14.0,-60.95
+lc,balca,Balca,07,,13.7666667,-61.0166667
+lc,balembouche,Balembouche,07,,13.75,-61.0166667
+lc,banse,Banse,07,,13.7666667,-60.9833333
+lc,beauchamp,Beauchamp,08,,13.8166667,-60.9166667
+lc,beausejour,Beauséjour,09,,13.8166667,-61.05
+lc,beausejour,Beauséjour,10,,13.75,-60.9666667
+lc,belair,Belair,03,,13.95,-60.9833333
+lc,belle plain,Belle Plain,09,,13.8166667,-61.0333333
+lc,belle plaine,Belle Plaine,09,,13.8166667,-61.0333333
+lc,belle vue,Belle Vue,09,,13.8333333,-61.0666667
+lc,belle vue,Belle Vue,10,,13.7833333,-60.95
+lc,belmont,Belmont,05,,13.9333333,-60.9166667
+lc,belvedere,Belvedere,09,,13.8833333,-61.05
+lc,berre denis,Berre Denis,03,,13.9666667,-60.9833333
+lc,bexon,Bexon,03,,13.95,-60.9666667
+lc,bisee,Bisée,03,,14.0166667,-60.9666667
+lc,black bay,Black Bay,07,,13.7333333,-60.9833333
+lc,blanchard,Blanchard,08,,13.8,-60.9333333
+lc,bois d'orange,Bois d'Orange,06,,14.05,-60.9666667
+lc,bois joli,Bois Joli,05,,13.9,-60.8833333
+lc,bon air,Bon Air,06,,14.05,-60.9666667
+lc,bongalo,Bongalo,07,,13.75,-61.0166667
+lc,bosquet d'or,Bosquet d'Or,05,,13.9166667,-60.9
+lc,bouton,Bouton,09,,13.8666667,-61.0666667
+lc,cabiche,Cabiche,03,,14.0,-60.9333333
+lc,cafeiere,Caféière,04,,13.7833333,-61.0333333
+lc,canaries,Canaries,01,710,13.9,-61.0666667
+lc,canot,Canot,05,,13.9,-60.9
+lc,cantonement,Cantonement,10,,13.75,-60.9666667
+lc,cap estate,Cap Estate,06,699,14.0833333,-60.95
+lc,carriee,Carrièe,10,,13.7666667,-60.95
+lc,castries,Castries,03,12981,14.0,-61.0
+lc,charlotre,Charlotre,03,,14.0,-60.9833333
+lc,charlotte,Charlotte,03,,14.0,-60.9833333
+lc,chassin,Chassin,02,,13.9833333,-60.9166667
+lc,chateau belair,Château Belair,09,,13.8,-61.05
+lc,choc,Choc,06,52,14.0333333,-60.9666667
+lc,choiseuil,Choiseuil,04,,13.7666667,-61.05
+lc,choiseul,Choiseul,04,363,13.7666667,-61.05
+lc,ciceron,Ciceron,03,,13.9833333,-61.0
+lc,cicerone,Cicerone,03,,13.9833333,-61.0
+lc,colombette,Colombette,09,,13.85,-61.05
+lc,corinthe,Corinthe,06,,14.05,-60.9666667
+lc,crown lands,Crown Lands,03,,13.95,-60.9666667
+lc,dame de traversay,Dame de Traversay,01,,13.9166667,-60.9833333
+lc,d'aubaigon,D'Aubaigon,11,,13.8333333,-60.9166667
+lc,dauphin,Dauphin,02,,14.0333333,-60.9
+lc,debreuil,Debreuil,04,,13.7833333,-61.0166667
+lc,deglos,Deglos,03,,13.9666667,-60.9666667
+lc,delcer,Delcer,04,,13.7833333,-61.05
+lc,de mailly,De Mailly,10,,13.7833333,-60.95
+lc,dennery,Dennery,05,2893,13.9,-60.8833333
+lc,derniere riviere,Dernière Rivière,05,,13.95,-60.9166667
+lc,derriere lagoon,Derrière Lagoon,01,,13.9333333,-61.0
+lc,derriere morne,Derrière Morne,10,,13.7333333,-60.95
+lc,desbarra,Desbarra,02,,13.9833333,-60.9
+lc,descatieres,Descatieres,04,,13.7666667,-61.05
+lc,despinoze,Despinoze,05,,13.9333333,-60.9
+lc,desruisseau,Desruisseau,08,,13.7833333,-60.9333333
+lc,desruisseaux,Desruisseaux,08,,13.7833333,-60.9333333
+lc,diamond,Diamond,09,,13.85,-61.05
+lc,doree,Dorée,04,,13.75,-61.0333333
+lc,dugard,Dugard,04,,13.8,-61.0333333
+lc,dugard,Dugard,08,,13.8,-60.9
+lc,durandeau,Durandeau,01,,13.9166667,-60.9833333
+lc,eau piquant,Eau Piquant,10,,13.75,-60.9333333
+lc,ferrand,Ferrand,03,,13.9666667,-60.9833333
+lc,fiette,Fiette,04,,13.7833333,-61.05
+lc,floissac,Floissac,03,,13.95,-60.95
+lc,fond assor,Fond Assor,02,,13.9833333,-60.9166667
+lc,fond devaux,Fond Devaux,11,,13.85,-60.9166667
+lc,fond d'or,Fond d'Or,08,,13.8,-60.9166667
+lc,fond doux,Fond Doux,09,,13.8166667,-61.05
+lc,fond saint jacques,Fond Saint Jacques,09,,13.8333333,-61.0166667
+lc,fond saint jaques,Fond Saint Jaques,09,,13.8333333,-61.0166667
+lc,forestiere,Forestière,03,,13.9666667,-60.95
+lc,garrand,Garrand,02,,14.0,-60.9166667
+lc,gentil,Gentil,07,,13.7666667,-60.9833333
+lc,girard,Girard,03,,13.9833333,-60.95
+lc,grace,Grace,10,,13.7666667,-60.9666667
+lc,grand anse,Grand Anse,02,,14.0,-60.9
+lc,grande anse,Grande Anse,02,,14.0,-60.9
+lc,grande ravine,Grande Ravine,05,,13.9333333,-60.9166667
+lc,grande riviere,Grande Rivière,05,,13.9166667,-60.9166667
+lc,gros ilet,Gros Ilet,06,,14.0666667,-60.95
+lc,gros islet,Gros Islet,06,2448,14.0666667,-60.95
+lc,gros islet village,Gros Islet Village,06,,14.0666667,-60.95
+lc,guesneau,Guesneau,03,,13.9833333,-60.95
+lc,hellene,Hellene,08,,13.7833333,-60.9166667
+lc,h'erelle,H'Erelle,07,,13.75,-60.9833333
+lc,incommode,Incommode,03,,13.9833333,-60.9833333
+lc,jalousie,Jalousie,09,,13.8166667,-61.05
+lc,jean baptiste,Jean Baptiste,01,,13.9333333,-61.0
+lc,l'abbayee,L'Abbayée,03,,13.9333333,-60.9666667
+lc,laborie,Laborie,07,1133,13.75,-60.9833333
+lc,la borne,La Borne,02,,14.0333333,-60.9166667
+lc,la cour ville,La Cour Ville,08,,13.8,-60.9166667
+lc,la croix maingot,La Croix Maingot,03,,13.95,-61.0
+lc,la fague,La Fague,04,,13.7666667,-61.0333333
+lc,la fargue,La Fargue,04,,13.7666667,-61.0333333
+lc,la feuillet,La Feuillet,06,,14.05,-60.9333333
+lc,la haut,La Haut,07,,13.7833333,-61.0
+lc,la pearle,La Pearle,09,,13.85,-61.05
+lc,la pointe,La Pointe,03,,13.9833333,-61.0333333
+lc,la pointe,La Pointe,04,,13.7833333,-61.05
+lc,la pointe,La Pointe,11,,13.8333333,-60.9
+lc,la point,La Point,03,,13.9833333,-61.0333333
+lc,la raye,La Raye,01,,13.9333333,-61.0333333
+lc,la resource,La Resource,10,,13.7333333,-60.95
+lc,la ressource,La Ressource,05,,13.9333333,-60.9166667
+lc,la retraite,La Retraite,10,,13.75,-60.9666667
+lc,la tourney,La Tourney,10,,13.7333333,-60.95
+lc,la verdure,La Verdure,01,,13.9,-61.05
+lc,l'hermitage,L'Hermitage,02,,14.0166667,-60.9166667
+lc,limere,Limere,05,,13.9333333,-60.9
+lc,l'ivrogne,L'Ivrogne,09,,13.8,-61.0666667
+lc,londonderry,Londonderry,07,,13.7666667,-61.0
+lc,l'orangerie,L'Orangerie,11,,13.8333333,-60.9166667
+lc,lumiere,Lumière,05,,13.9333333,-60.9
+lc,mahaut,Mahaut,08,,13.8333333,-60.95
+lc,mahaut,Mahaut,09,,13.8833333,-61.0666667
+lc,malgretoute,Malgretoute,09,,13.8333333,-61.05
+lc,malgre tout,Malgré Tout,09,,13.8333333,-61.05
+lc,mamin,Mamin,09,,13.8666667,-61.0666667
+lc,marchand,Marchand,03,,14.0,-60.9833333
+lc,marc marc,Marc Marc,03,,13.95,-60.9666667
+lc,marigot bay,Marigot Bay,03,,13.95,-61.0166667
+lc,marigot,Marigot,03,,13.9666667,-61.0
+lc,marisule estate,Marisule Estate,06,,14.0333333,-60.9666667
+lc,marquis,Marquis,02,,14.0166667,-60.9
+lc,massacre,Massacre,01,,13.9333333,-61.0333333
+lc,micoud,Micoud,08,3458,13.8166667,-60.9
+lc,migny,Migny,09,,13.8333333,-61.0166667
+lc,millet,Millet,01,,13.9,-60.9833333
+lc,monchy,Monchy,02,,14.05,-60.9166667
+lc,mondesir,Mondesir,04,,13.8,-61.0166667
+lc,mongiraud,Mongiraud,06,,14.05,-60.95
+lc,mongouge,Mongouge,04,,13.8,-61.0333333
+lc,monier,Monier,06,,14.0166667,-60.9333333
+lc,mon repos,Mon Repos,11,,13.85,-60.8833333
+lc,morne caillandre,Morne Caillandre,10,,13.7666667,-60.95
+lc,morne d' or,Morne d' Or,03,,13.95,-61.0
+lc,morne doudon,Morne Doudon,06,,14.0,-60.9666667
+lc,morne fortune,Morne Fortune,03,,13.9833333,-60.9833333
+lc,morne panache,Morne Panache,05,,13.9166667,-60.9166667
+lc,morne paul,Morne Paul,07,,13.75,-61.0
+lc,morne serpent,Morne Serpent,06,,14.0166667,-60.95
+lc,morne sion,Morne Sion,04,,13.7833333,-61.05
+lc,motete,Motête,04,,13.8,-61.0166667
+lc,moule a chique,Moule à Chique,10,,13.7,-60.9333333
+lc,old settlement,Old Settlement,11,,13.8833333,-60.9
+lc,palmiste,Palmiste,09,,13.8666667,-61.05
+lc,patience,Patience,11,,13.85,-60.9
+lc,perle,Perle,09,,13.85,-61.05
+lc,perou,Perou,03,,13.95,-61.0
+lc,piaye,Piaye,07,,13.75,-61.0166667
+lc,planard,Planard,08,,13.8,-60.9
+lc,pointe sable,Pointe Sable,10,,13.75,-60.95
+lc,point sable,Point Sable,10,,13.75,-60.95
+lc,pomme,Pomme,10,,13.75,-60.9666667
+lc,pond saint jacques,Pond Saint Jacques,09,,13.8333333,-61.0166667
+lc,port castries,Port Castries,03,,14.0,-61.0
+lc,praslin,Praslin,11,,13.8666667,-60.9
+lc,reduit,Reduit,06,,14.0666667,-60.95
+lc,resinard,Resinard,03,,13.9833333,-60.9333333
+lc,ressource,Ressource,10,,13.7333333,-60.95
+lc,riche fond,Riche Fond,05,,13.9333333,-60.9166667
+lc,river doree,River Dorée,04,,13.75,-61.0333333
+lc,riviere doree,Riviere Doree,04,,13.75,-61.0333333
+lc,roblot,Roblot,04,,13.8,-61.0166667
+lc,rouarne,Rouarné,08,,13.7666667,-60.9166667
+lc,ruby,Ruby,09,,13.85,-61.05
+lc,saint phillip,Saint Phillip,09,,13.8333333,-61.0166667
+lc,saint urbain,Saint Urbain,10,,13.75,-60.9333333
+lc,saint urban,Saint Urban,10,,13.75,-60.9333333
+lc,saltibus,Saltibus,07,,13.8,-61.0
+lc,sans souci,Sans Souci,03,,13.9666667,-61.0
+lc,sans soucis,Sans Soucis,03,,13.9666667,-61.0
+lc,sapphire,Sapphire,07,,13.75,-61.0
+lc,sarot,Sarot,03,,13.9333333,-60.9833333
+lc,savannes estate,Savannes Estate,08,,13.7666667,-60.9166667
+lc,savannes,Savannes,08,,13.7666667,-60.9166667
+lc,savannes,Savannes,10,,13.7666667,-60.9333333
+lc,soucis,Soucis,03,,13.9666667,-61.0
+lc,soufriere,Soufrière,09,2878,13.85,-61.05
+lc,theodorine,Theodorine,01,,13.9166667,-61.0333333
+lc,thoumasse,Thoumassé,08,,13.8166667,-60.9166667
+lc,tourney,Tourney,10,,13.7333333,-60.95
+lc,troumasse,Troumasse,08,,13.8166667,-60.9166667
+lc,two friends,Two Friends,01,,13.9,-61.0666667
+lc,union,Union,06,,14.0333333,-60.9666667
+lc,union vale,Union Vale,09,,13.8,-61.05
+lc,vanard,Vanard,03,,13.9333333,-60.9833333
+lc,vieux fort,Vieux Fort,10,4629,13.7166667,-60.95
+lc,vieux sucreic,Vieux Sucreic,06,,14.0333333,-60.9333333
+lc,vige,Vige,08,,13.7833333,-60.9166667
+lc,vigie,Vigie,03,,14.0333333,-61.0166667
+lc,yvrogne,Yvrogne,09,,13.8,-61.0666667

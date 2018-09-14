@@ -1,0 +1,8 @@
+sm,acquaviva,Acquaviva,01,1530,43.95,12.4166667
+sm,chiesanuova,Chiesanuova,02,952,43.9166667,12.4166667
+sm,citta di san marino,Città di San Marino,07,,43.9333333,12.45
+sm,falciano,Falciano,09,,43.9833333,12.5
+sm,poggio di chiesanuova,Poggio di Chiesanuova,02,,43.9166667,12.4166667
+sm,san marino citta,San Marino Città,07,,43.9333333,12.45
+sm,san marino,San Marino,07,4598,43.9333333,12.45
+sm,serravalle,Serravalle,09,9258,43.95,12.5

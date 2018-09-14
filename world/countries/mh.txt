@@ -1,0 +1,6 @@
+mh,ine,Ine,00,,6.9833333,171.7
+mh,jabooru,Jabooru,00,,5.9166667,169.65
+mh,jabor,Jabor,00,,5.9166667,169.65
+mh,jaboru,Jaboru,00,,5.9166667,169.65
+mh,jabwor,Jabwor,00,,5.9166667,169.65
+mh,majuro,Majuro,00,,7.1,171.3833333

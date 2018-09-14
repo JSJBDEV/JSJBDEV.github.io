@@ -1,0 +1,53 @@
+je,beaumont,Beaumont,00,,49.196389,-2.158611
+je,belle vue,Belle Vue,00,,49.191389,-2.173056
+je,bel royal,Bel Royal,00,,49.198056,-2.147222
+je,gorey,Gorey,00,,49.2,-2.033333
+je,gouray,Gouray,00,,49.2,-2.033333
+je,grand chemins,Grand Chemins,00,,49.2,-2.066667
+je,grand mourier,Grand Mourier,00,,49.255278,-2.148333
+je,la falaise,La Falaise,00,,49.249444,-2.168889
+je,la fosse,La Fosse,00,,49.174722,-2.180556
+je,la haule,La Haule,00,,49.183333,-2.183333
+je,la hougue,La Hougue,00,,49.216667,-2.216667
+je,la moye,La Moye,00,,49.182222,-2.222222
+je,la perruqe,La Perruqe,00,,49.251667,-2.144167
+je,la villaise,La Villaise,00,,49.240833,-2.236667
+je,la ville au bas,La Ville au Bas,00,,49.226389,-2.212222
+je,la ville bagot,La Ville Bagot,00,,49.243611,-2.2075
+je,la ville des quennevais,La Ville des Quennevais,00,,49.201944,-2.200278
+je,la ville es nouaux,La Ville ès Nouaux,00,,49.194722,-2.128611
+je,le mont ficquet,Le Mont Ficquet,00,,49.179722,-2.214167
+je,le mont mado,Le Mont Mado,00,,49.246944,-2.124167
+je,le rondin,Le Rondin,00,,49.238889,-2.181111
+je,les creux,Les Creux,00,,49.180556,-2.205556
+je,l'etac,L'Etac,00,,49.236111,-2.233889
+je,l'etacq,L'Etacq,00,,49.236111,-2.233889
+je,longueville,Longueville,00,,49.183333,-2.083333
+je,lower blanc pignon,Lower Blanc Pignon,00,,49.194722,-2.162222
+je,millbrook,Millbrook,00,,49.198611,-2.138333
+je,mont fiquet,Mont Fiquet,00,,49.179722,-2.214167
+je,mont mado,Mont Mado,00,,49.246944,-2.124167
+je,mount mado,Mount Mado,00,,49.246944,-2.124167
+je,perruque,Perruque,00,,49.251667,-2.144167
+je,portinfer,Portinfer,00,,49.251111,-2.225833
+je,rozel,Rozel,00,,49.236389,-2.046111
+je,rozel seigneurie,Rozel Seigneurie,00,,49.236389,-2.046111
+je,saint aubin,Saint Aubin,00,,49.1875,-2.170556
+je,saint aubyn,Saint Aubyn,00,,49.1875,-2.170556
+je,saint helier,Saint Helier,00,,49.183333,-2.1
+je,saint jean,Saint Jean,00,,49.245556,-2.138611
+je,saint john,Saint John,00,,49.245556,-2.138611
+je,saint john's church,Saint John's Church,00,,49.245556,-2.138611
+je,saint john's,Saint John's,00,,49.245556,-2.138611
+je,saint peter church,Saint Peter Church,00,,49.212222,-2.183611
+je,saint peter,Saint Peter,00,,49.212222,-2.183611
+je,saint peter's church,Saint Peter's Church,00,,49.212222,-2.183611
+je,saint peter's,Saint Peter's,00,,49.212222,-2.183611
+je,six rues,Six Rues,00,,49.233333,-2.15
+je,st. john's church,St. John's Church,00,,49.245556,-2.138611
+je,ville au bas,Ville au Bas,00,,49.226389,-2.212222
+je,ville bagot,Ville Bagot,00,,49.243611,-2.2075
+je,ville des quennevais,Ville des Quennevais,00,,49.201944,-2.200278
+je,ville des quenvais,Ville des Quenvais,00,,49.201944,-2.200278
+je,ville es nouaux,Ville ès Nouaux,00,,49.194722,-2.128611
+je,ville es quenvais,Ville ès Quenvais,00,,49.201944,-2.200278

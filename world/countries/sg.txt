@@ -1,0 +1,441 @@
+sg,adam park,Adam Park,00,,1.3316667,103.8122222
+sg,adelphi park estate,Adelphi Park Estate,00,,1.355,103.8288889
+sg,ah soo garden,Ah Soo Garden,00,,1.3502778,103.9002778
+sg,aik hong and aik chiang estate,Aik Hong and Aik Chiang Estate,00,,1.3908333,103.7286111
+sg,alexandra,Alexandra,00,,1.2938889,103.8197222
+sg,alexandra estate,Alexandra Estate,00,,1.2938889,103.8197222
+sg,ama keng,Ama Keng,00,,1.4044444,103.7066667
+sg,ama keng village,Ama Keng Village,00,,1.4044444,103.7066667
+sg,ang mo kio,Ang Mo Kio,00,,1.3691667,103.8497222
+sg,ang mo kio new town,Ang Mo Kio New Town,00,,1.3691667,103.8497222
+sg,ang mo kio village,Ang Mo Kio Village,00,,1.3691667,103.8497222
+sg,ardmore flats,Ardmore Flats,00,,1.3094444,103.83
+sg,ayer rajah,Ayer Rajah,00,,1.305,103.7833333
+sg,ayer raja new town,Ayer Raja New Town,00,,1.305,103.7833333
+sg,bajau estate,Bajau Estate,00,,1.3369444,103.6633333
+sg,bamboo grove park,Bamboo Grove Park,00,,1.3577778,103.7577778
+sg,bandar baharu jurong,Bandar Baharu Jurong,00,,1.3341667,103.7227778
+sg,ban guan park,Ban Guan Park,00,,1.3236111,103.7891667
+sg,banta tengeh,Banta Tengeh,00,,1.35,103.65
+sg,bedok,Bedok,00,,1.3225,103.9613889
+sg,bedok garden,Bedok Garden,00,,1.3227778,103.9577778
+sg,bedok new town,Bedok New Town,00,,1.3263889,103.9416667
+sg,bedok village,Bedok Village,00,,1.3225,103.9613889
+sg,bedok ville,Bedok Ville,00,,1.3244444,103.9544444
+sg,bena park,Bena Park,00,,1.3516667,103.975
+sg,bin tong park,Bin Tong Park,00,,1.3205556,103.7975
+sg,bishan new town,Bishan New Town,00,,1.3463889,103.8530556
+sg,boon lay,Boon Lay,00,,1.3333333,103.7
+sg,boon lay resettlement area,Boon Lay Resettlement Area,00,,1.3352778,103.6988889
+sg,braddell heights estate,Braddell Heights Estate,00,,1.3452778,103.8652778
+sg,brickworks estate,Brickworks Estate,00,,1.2872222,103.8083333
+sg,bright hill crescent,Bright Hill Crescent,00,,1.35,103.8333333
+sg,brizay park,Brizay Park,00,,1.3302778,103.7866667
+sg,bukit batok,Bukit Batok,00,,1.3516667,103.7627778
+sg,bukit batok new town,Bukit Batok New Town,00,,1.3516667,103.7627778
+sg,bukit ho swee estate,Bukit Ho Swee Estate,00,,1.2877778,103.83
+sg,bukit mandai,Bukit Mandai,00,,1.4122222,103.7566667
+sg,bukit mandai village,Bukit Mandai Village,00,,1.4122222,103.7566667
+sg,bukit merah estate,Bukit Merah Estate,00,,1.2841667,103.8230556
+sg,bukit panjang,Bukit Panjang,00,,1.3797222,103.7647222
+sg,bukit panjang estate,Bukit Panjang Estate,00,,1.3816667,103.7525
+sg,bukit panjang new town,Bukit Panjang New Town,00,,1.3797222,103.7647222
+sg,bukit sembawang estate,Bukit Sembawang Estate,00,,1.3597222,103.9702778
+sg,bukit timah,Bukit Timah,00,,1.3402778,103.7758333
+sg,bukit timah estate,Bukit Timah Estate,00,,1.3402778,103.7758333
+sg,bukit timah village,Bukit Timah Village,00,,1.3402778,103.7758333
+sg,bulim,Bulim,00,,1.3744444,103.7177778
+sg,bulim village,Bulim Village,00,,1.3744444,103.7177778
+sg,buona vista,Buona Vista,00,,1.2805556,103.7880556
+sg,buona vista village,Buona Vista Village,00,,1.2805556,103.7880556
+sg,caidecutt hill estate,Caidecutt Hill Estate,00,,1.3366667,103.835
+sg,caldecott hill estate,Caldecott Hill Estate,00,,1.3366667,103.835
+sg,camden park,Camden Park,00,,1.3277778,103.8163889
+sg,chai chee estate,Chai Chee Estate,00,,1.3266667,103.9333333
+sg,changi,Changi,00,,1.3416667,103.9636111
+sg,changi village,Changi Village,00,,1.3844444,103.9830556
+sg,charlton park,Charlton Park,00,,1.3563889,103.9013889
+sg,chia keng,Chia Keng,00,,1.36,103.8916667
+sg,chia keng village,Chia Keng Village,00,,1.36,103.8916667
+sg,chia tong quah estate,Chia Tong Quah Estate,00,,1.4086111,104.0508333
+sg,chinese gardens,Chinese Gardens,00,,1.3113889,103.7977778
+sg,chip hock garden,Chip Hock Garden,00,,1.3202778,103.8136111
+sg,choa chu kang,Choa Chu Kang,00,,1.3825,103.7497222
+sg,choa chu kang new town,Choa Chu Kang New Town,00,,1.3825,103.7497222
+sg,chong pang,Chong Pang,00,,1.4444444,103.8238889
+sg,chong pang village,Chong Pang Village,00,,1.4444444,103.8238889
+sg,chye kay,Chye Kay,00,,1.4261111,103.8241667
+sg,city west,City West,00,,1.3166667,103.8166667
+sg,clementi,Clementi,00,,1.3158333,103.7647222
+sg,clementi housing estate,Clementi Housing Estate,00,,1.3158333,103.7647222
+sg,clementi new town,Clementi New Town,00,,1.3158333,103.7647222
+sg,coronation gardens,Coronation Gardens,00,,1.3233333,103.8036111
+sg,delta estate,Delta Estate,00,,1.2911111,103.8294444
+sg,dixil,Dixil,00,,1.3972222,103.8719444
+sg,dragon view park,Dragon View Park,00,,1.2955556,103.8238889
+sg,dunearn estate,Dunearn Estate,00,,1.3252778,103.8230556
+sg,eastern gardens,Eastern Gardens,00,,1.3180556,103.945
+sg,east view garden,East View Garden,00,,1.3458333,103.9652778
+sg,eden hall,Eden Hall,00,,1.3105556,103.8219444
+sg,eden park,Eden Park,00,,1.3313889,103.7925
+sg,eng khong gardens,Eng Khong Gardens,00,,1.3361111,103.7705556
+sg,ewart park,Ewart Park,00,,1.3247222,103.7825
+sg,faber garden,Faber Garden,00,,1.3630556,103.8297222
+sg,faber hills,Faber Hills,00,,1.3208333,103.7597222
+sg,fernhill gardens,Fernhill Gardens,00,,1.3144444,103.8222222
+sg,fish farming estate,Fish Farming Estate,00,,1.3636111,103.9136111
+sg,frankel estate,Frankel Estate,00,,1.3136111,103.9294444
+sg,fuyong estate,Fuyong Estate,00,,1.3594444,103.7680556
+sg,gay world park,Gay World Park,00,,1.3111111,103.8911111
+sg,geylang serai,Geylang Serai,00,,1.32,103.91
+sg,geylang serai village,Geylang Serai Village,00,,1.32,103.91
+sg,ghim moh,Ghim Moh,00,,1.3111111,103.7877778
+sg,goldhill gardens,Goldhill Gardens,00,,1.3222222,103.8319444
+sg,hai sing park,Hai Sing Park,00,,1.3636111,103.905
+sg,happy gardens,Happy Gardens,00,,1.3305556,103.8963889
+sg,havelock/delta estate,Havelock/Delta Estate,00,,1.2911111,103.8294444
+sg,havelock estate,Havelock Estate,00,,1.2911111,103.8294444
+sg,heap guan,Heap Guan,00,,1.2666667,103.8
+sg,heap guan village,Heap Guan Village,00,,1.2666667,103.8
+sg,henderson estate,Henderson Estate,00,,1.2891667,103.8233333
+sg,hillcrest park,Hillcrest Park,00,,1.3347222,103.8091667
+sg,holland grove park,Holland Grove Park,00,,1.3136111,103.7802778
+sg,holland,Holland,00,,1.3119444,103.7933333
+sg,holland village,Holland Village,00,,1.3119444,103.7933333
+sg,hong kah,Hong Kah,00,,1.3594444,103.7227778
+sg,hong kah village,Hong Kah Village,00,,1.3594444,103.7227778
+sg,hong kong park,Hong Kong Park,00,,1.3397222,103.7855556
+sg,hong leong garden,Hong Leong Garden,00,,1.3194444,103.7547222
+sg,hougang new town,Hougang New Town,00,,1.3566667,103.8908333
+sg,huat choe,Huat Choe,00,,1.34,103.6936111
+sg,huat choe village,Huat Choe Village,00,,1.34,103.6936111
+sg,hume heights,Hume Heights,00,,1.355,103.765
+sg,hun yeang,Hun Yeang,00,,1.3686111,103.9319444
+sg,hun yeang village,Hun Yeang Village,00,,1.3686111,103.9319444
+sg,island view estate,Island View Estate,00,,1.2947222,103.7727778
+sg,jalan kayu,Jalan Kayu,00,,1.3972222,103.8719444
+sg,jurong east,Jurong East,00,,1.3413889,103.7391667
+sg,jurong east new town,Jurong East New Town,00,,1.3413889,103.7391667
+sg,jurong,Jurong,00,,1.3341667,103.7227778
+sg,jurong new town,Jurong New Town,00,,1.3341667,103.7227778
+sg,jurong town,Jurong Town,00,,1.3341667,103.7227778
+sg,jurong village,Jurong Village,00,,1.3341667,103.7227778
+sg,jurong west,Jurong West,00,,1.3502778,103.7227778
+sg,jurong west new town,Jurong West New Town,00,,1.3502778,103.7227778
+sg,kaki bukit estate,Kaki Bukit Estate,00,,1.3375,103.9091667
+sg,kalang,Kalang,00,,1.3333333,103.8666667
+sg,kallang,Kallang,00,,1.3333333,103.8666667
+sg,kampong amber,Kampong Amber,00,,1.3002778,103.9116667
+sg,kampong amoy quee,Kampong Amoy Quee,00,,1.3833333,103.85
+sg,kampong ayer bajau,Kampong Ayer Bajau,00,,1.3666667,103.65
+sg,kampong ayer gemuruh,Kampong Ayer Gemuruh,00,,1.35,103.9833333
+sg,kampong ayer limau,Kampong Ayer Limau,00,,1.2833333,103.7166667
+sg,kampong ayer merbau,Kampong Ayer Merbau,00,,1.2666667,103.7166667
+sg,kampong ayer samak darat,Kampong Ayer Samak Darat,00,,1.4138889,104.0722222
+sg,kampong ayer samak,Kampong Ayer Samak,00,,1.4205556,104.0794444
+sg,kampong baharu,Kampong Baharu,00,,1.2666667,103.7333333
+sg,kampong bahru,Kampong Bahru,00,,1.4186111,103.9702778
+sg,kampong batak,Kampong Batak,00,,1.3438889,103.9216667
+sg,kampong batu koyok,Kampong Batu Koyok,00,,1.3969444,104.0477778
+sg,kampong belimbing,Kampong Belimbing,00,,1.3711111,103.6919444
+sg,kampong bereh,Kampong Bereh,00,,1.3741667,103.6844444
+sg,kampong beremban,Kampong Beremban,00,,1.3813889,103.9158333
+sg,kampong blukang,Kampong Blukang,00,,1.35,103.65
+sg,kampong bugis,Kampong Bugis,00,,1.2166667,103.7666667
+sg,kampong bukit panjang,Kampong Bukit Panjang,00,,1.3836111,103.76
+sg,kampong chai chee,Kampong Chai Chee,00,,1.3333333,103.9333333
+sg,kampong changi,Kampong Changi,00,,1.3833333,104.0
+sg,kampong chantek baharu,Kampong Chantek Baharu,00,,1.35,103.7883333
+sg,kampong che jevah,Kampong Che Jevah,00,,1.4144444,103.9897222
+sg,kampong cutforth,Kampong Cutforth,00,,1.3819444,103.7363889
+sg,kampong darat nanas,Kampong Darat Nanas,00,,1.3580556,103.9794444
+sg,kampong dulah,Kampong Dulah,00,,1.3833333,103.6666667
+sg,kampong eunos,Kampong Eunos,00,,1.3208333,103.9177778
+sg,kampong harvey,Kampong Harvey,00,,1.3436111,103.9586111
+sg,kampong hock soon,Kampong Hock Soon,00,,1.3166667,103.8666667
+sg,kampong jagoh,Kampong Jagoh,00,,1.2666667,103.8166667
+sg,kampong java teban,Kampong Java Teban,00,,1.3333333,103.7333333
+sg,kampong jelutong,Kampong Jelutong,00,,1.4011111,103.9588889
+sg,kampong kebun baharu,Kampong Kebun Baharu,00,,1.3666667,103.8666667
+sg,kampong kembangan,Kampong Kembangan,00,,1.3230556,103.9283333
+sg,kampong kitin,Kampong Kitin,00,,1.435,103.8591667
+sg,kampong kopit,Kampong Kopit,00,,1.2666667,103.8333333
+sg,kampong kranji,Kampong Kranji,00,,1.4333333,103.75
+sg,kampong kuchai,Kampong Kuchai,00,,1.3166667,103.8666667
+sg,kampong ladang,Kampong Ladang,00,,1.3333333,103.9
+sg,kampong lew lian,Kampong Lew Lian,00,,1.35,103.8666667
+sg,kampong loya,Kampong Loya,00,,1.3777778,103.9594444
+sg,kampong loyang,Kampong Loyang,00,,1.3777778,103.9594444
+sg,kampong mak baok,Kampong Mak Baok,00,,1.2666667,103.7166667
+sg,kampong malayu,Kampong Malayu,00,,1.4086111,103.9794444
+sg,kampong mamam,Kampong Mamam,00,,1.4172222,103.9761111
+sg,kampong mandai kechil,Kampong Mandai Kechil,00,,1.4408333,103.7652778
+sg,kampong melayu,Kampong Melayu,00,,1.4086111,103.9794444
+sg,kampong noordin,Kampong Noordin,00,,1.4177778,103.965
+sg,kampong o'carroll scott,Kampong O'Carroll Scott,00,,1.3,103.7833333
+sg,kampong pachitan,Kampong Pachitan,00,,1.3166667,103.9166667
+sg,kampong padang terbakar,Kampong Padang Terbakar,00,,1.33,103.9666667
+sg,kampong pahang,Kampong Pahang,00,,1.4091667,104.0327778
+sg,kampong pasir,Kampong Pasir,00,,1.4083333,104.0841667
+sg,kampong pasir merah,Kampong Pasir Merah,00,,1.4291667,104.0469444
+sg,kampong pasir ris,Kampong Pasir Ris,00,,1.3783333,103.9319444
+sg,kampong pengkalan kundor,Kampong Pengkalan Kundor,00,,1.41,103.8444444
+sg,kampong pengkalan pakau,Kampong Pengkalan Pakau,00,,1.4094444,104.0725
+sg,kampong pengkalan petai,Kampong Pengkalan Petai,00,,1.4033333,103.85
+sg,kampong perigi piau,Kampong Perigi Piau,00,,1.2333333,103.7666667
+sg,kampong permatang,Kampong Permatang,00,,1.4241667,104.0388889
+sg,kampong pesek,Kampong Pesek,00,,1.2833333,103.6833333
+sg,kampong pinang,Kampong Pinang,00,,1.3811111,103.8941667
+sg,kampong potong pasir,Kampong Potong Pasir,00,,1.3333333,103.8666667
+sg,kampong pulau kechil,Kampong Pulau Kechil,00,,1.2833333,103.7333333
+sg,kampong pulau ubin,Kampong Pulau Ubin,00,,1.4033333,103.9713889
+sg,kampong punggol,Kampong Punggol,00,,1.4125,103.9102778
+sg,kampong radin mas,Kampong Radin Mas,00,,1.2738889,103.8241667
+sg,kampong reteh,Kampong Reteh,00,,1.3333333,103.9
+sg,kampong saigon,Kampong Saigon,00,,1.2166667,103.7666667
+sg,kampong sakeng,Kampong Sakeng,00,,1.2077778,103.7777778
+sg,kampong salabin,Kampong Salabin,00,,1.4161111,104.0333333
+sg,kampong san teng,Kampong San Teng,00,,1.3469444,103.8408333
+sg,kampong sanyongkong,Kampong Sanyongkong,00,,1.3983333,104.0577778
+sg,kampong sanyonkong parit,Kampong Sanyonkong Parit,00,,1.4061111,104.0658333
+sg,kampong sek lim,Kampong Sek Lim,00,,1.3325,103.9616667
+sg,kampong seminei,Kampong Seminei,00,,1.4069444,104.0394444
+sg,kampong serangoon kechil,Kampong Serangoon Kechil,00,,1.39,103.9072222
+sg,kampong seraya,Kampong Seraya,00,,1.2833333,103.7333333
+sg,kampong silat estate,Kampong Silat Estate,00,,1.2788889,103.8263889
+sg,kampong sireh,Kampong Sireh,00,,1.35,103.8833333
+sg,kampong siren,Kampong Siren,00,,1.3522222,103.8980556
+sg,kampong soopoo,Kampong Soopoo,00,,1.3166667,103.8666667
+sg,kampong sudong,Kampong Sudong,00,,1.2063889,103.7286111
+sg,kampong sultan,Kampong Sultan,00,,1.2833333,103.7833333
+sg,kampong sungai belang,Kampong Sungai Belang,00,,1.4233333,104.0666667
+sg,kampong sungai blukar,Kampong Sungai Blukar,00,,1.3880556,103.9183333
+sg,kampong sungai jurong,Kampong Sungai Jurong,00,,1.3516667,103.7336111
+sg,kampong sungai pandan,Kampong Sungai Pandan,00,,1.3166667,103.75
+sg,kampong sungai tengah,Kampong Sungai Tengah,00,,1.3833333,103.9
+sg,kampong sungi pinang,Kampong Sungi Pinang,00,,1.3811111,103.8941667
+sg,kampong tampines,Kampong Tampines,00,,1.37,103.9511111
+sg,kampong tanah merah,Kampong Tanah Merah,00,,1.2625,103.7
+sg,kampong tanah merah kechil,Kampong Tanah Merah Kechil,00,,1.3205556,103.9555556
+sg,kampong tanjong irau,Kampong Tanjong Irau,00,,1.4566667,103.8466667
+sg,kampong tanjong penjuru,Kampong Tanjong Penjuru,00,,1.3,103.75
+sg,kampong tanjong penuru,Kampong Tanjong Penuru,00,,1.3,103.75
+sg,kampong teban,Kampong Teban,00,,1.3786111,103.9077778
+sg,kampong tebing terjun,Kampong Tebing Terjun,00,,1.3333333,103.75
+sg,kampong telok,Kampong Telok,00,,1.3833333,103.65
+sg,kampong tengah,Kampong Tengah,00,,1.3719444,103.7038889
+sg,kampong todak,Kampong Todak,00,,1.4213889,104.0216667
+sg,kampong tongkang pechah,Kampong Tongkang Pechah,00,,1.39,103.8763889
+sg,kampong tulloch,Kampong Tulloch,00,,1.3,103.7833333
+sg,kampong ubi,Kampong Ubi,00,,1.3166667,103.9
+sg,kampong ulu jurong,Kampong Ulu Jurong,00,,1.35,103.7166667
+sg,kampong ulu pandan,Kampong Ulu Pandan,00,,1.3461111,103.745
+sg,kampong unam,Kampong Unam,00,,1.4313889,104.0597222
+sg,kampong unum,Kampong Unum,00,,1.4313889,104.0597222
+sg,kampong wah tuang,Kampong Wah Tuang,00,,1.4566667,103.8466667
+sg,kampong wak bechik,Kampong Wak Bechik,00,,1.2833333,103.7166667
+sg,kampong wak dulah,Kampong Wak Dulah,00,,1.3833333,103.6666667
+sg,kampong wak hassan,Kampong Wak Hassan,00,,1.4613889,103.8363889
+sg,kampong wak sekak,Kampong Wak Sekak,00,,1.2666667,103.7
+sg,kampong wak tanjong,Kampong Wak Tanjong,00,,1.3166667,103.9
+sg,kampong wing loong,Kampong Wing Loong,00,,1.35,103.9719444
+sg,kampong woodleigh,Kampong Woodleigh,00,,1.3419444,103.8719444
+sg,kam wak hassan,Kam Wak Hassan,00,,1.4375,103.8305556
+sg,kangkar,Kangkar,00,,1.3761111,103.9016667
+sg,keat hong,Keat Hong,00,,1.3777778,103.7441667
+sg,keat hong village,Keat Hong Village,00,,1.3777778,103.7441667
+sg,kembangan,Kembangan,00,,1.3230556,103.9283333
+sg,kent ridge,Kent Ridge,00,,1.2930556,103.7844444
+sg,kian hong estate,Kian Hong Estate,00,,1.3572222,103.7261111
+sg,kian teck san estate,Kian Teck San Estate,00,,1.3616667,103.6652778
+sg,kilburn estate,Kilburn Estate,00,,1.3402778,103.7813889
+sg,kim chuan,Kim Chuan,00,,1.3413889,103.9033333
+sg,kimlin park,Kimlin Park,00,,1.3016667,103.8269444
+sg,king albert park,King Albert Park,00,,1.3344444,103.7797222
+sg,kingsmead hall,Kingsmead Hall,00,,1.3183333,103.805
+sg,kranji,Kranji,00,,1.4333333,103.75
+sg,lam kiong estate,Lam Kiong Estate,00,,1.3491667,103.6527778
+sg,lam san,Lam San,00,,1.3769444,103.7313889
+sg,lam san village,Lam San Village,00,,1.3769444,103.7313889
+sg,leedon park,Leedon Park,00,,1.3169444,103.7941667
+sg,lim chu kang estate,Lim Chu Kang Estate,00,,1.4152778,103.6766667
+sg,lim chu kang,Lim Chu Kang,00,,1.4366667,103.7094444
+sg,lokvang,Lokvang,00,,1.33,103.6813889
+sg,lokyang,Lokyang,00,,1.33,103.6813889
+sg,lokyang village,Lokyang Village,00,,1.33,103.6813889
+sg,lorong tiga estate,Lorong Tiga Estate,00,,1.3166667,103.8666667
+sg,lucky hills,Lucky Hills,00,,1.3255556,103.9527778
+sg,lucky park,Lucky Park,00,,1.3286111,103.7913889
+sg,mandai,Mandai,00,,1.4122222,103.7566667
+sg,mandai road village,Mandai Road Village,00,,1.4122222,103.7566667
+sg,marine parade estate,Marine Parade Estate,00,,1.3041667,103.9247222
+sg,marsiling estate,Marsiling Estate,00,,1.4297222,103.7675
+sg,marsiling,Marsiling,00,,1.4411111,103.7708333
+sg,maryland estate,Maryland Estate,00,,1.3202778,103.7869444
+sg,mata ikan,Mata Ikan,00,,1.3361111,103.975
+sg,mata ikan village,Mata Ikan Village,00,,1.3361111,103.975
+sg,matilda estate,Matilda Estate,00,,1.3994444,103.9027778
+sg,mayflower estate,Mayflower Estate,00,,1.3719444,103.8394444
+sg,mcmahon park,McMahon Park,00,,1.3144444,103.785
+sg,medway park,Medway Park,00,,1.3055556,103.7755556
+sg,mok peng hiang estate,Mok Peng Hiang Estate,00,,1.4455556,103.7969444
+sg,mount emily park,Mount Emily Park,00,,1.3047222,103.8472222
+sg,mount pleasant,Mount Pleasant,00,,1.3316667,103.8327778
+sg,mount rosie,Mount Rosie,00,,1.3233333,103.8341667
+sg,mount vernon,Mount Vernon,00,,1.3358333,103.8975
+sg,namazie estate,Namazie Estate,00,,1.4219444,103.7069444
+sg,nee soon estate,Nee Soon Estate,00,,1.4027778,103.8177778
+sg,nee soon,Nee Soon,00,,1.4027778,103.8177778
+sg,nee soon village,Nee Soon Village,00,,1.4027778,103.8177778
+sg,nepal park,Nepal Park,00,,1.3016667,103.7880556
+sg,ng kay boon estate,Ng Kay Boon Estate,00,,1.4394444,103.7311111
+sg,oei tiong ham park,Oei Tiong Ham Park,00,,1.3152778,103.7938889
+sg,old kallang airport estate,Old Kallang Airport Estate,00,,1.3088889,103.9013889
+sg,ong lee,Ong Lee,00,,1.35,103.75
+sg,ong lee village,Ong Lee Village,00,,1.35,103.75
+sg,opera estate,Opera Estate,00,,1.3180556,103.9369444
+sg,outram park,Outram Park,00,,1.2825,103.8380556
+sg,padang terbakar village,Padang Terbakar Village,00,,1.33,103.9666667
+sg,pandan valley,Pandan Valley,00,,1.3183333,103.7758333
+sg,pasir panjang,Pasir Panjang,00,,1.2927778,103.7708333
+sg,pasir panjang village,Pasir Panjang Village,00,,1.2927778,103.7708333
+sg,pasir ris new town,Pasir Ris New Town,00,,1.3722222,103.9477778
+sg,pasir ris,Pasir Ris,00,,1.3722222,103.9477778
+sg,pasir ris village,Pasir Ris Village,00,,1.3722222,103.9477778
+sg,paya lebar,Paya Lebar,00,,1.3538889,103.8905556
+sg,peoples garden,Peoples Garden,00,,1.3694444,103.9047222
+sg,people's park,People's Park,00,,1.2844444,103.8419444
+sg,perseverance estate,Perseverance Estate,00,,1.3302778,103.9113889
+sg,phoenix park,Phoenix Park,00,,1.2988889,103.8122222
+sg,playfair estate,Playfair Estate,00,,1.3333333,103.8833333
+sg,prince edward park,Prince Edward Park,00,,1.2963889,103.7736111
+sg,prince edward point,Prince Edward Point,00,,1.3,103.7666667
+sg,princess elizabeth estate,Princess Elizabeth Estate,00,,1.3622222,103.7594444
+sg,pulau minyak,Pulau Minyak,00,,1.3166667,103.8666667
+sg,pulau ubin,Pulau Ubin,00,,1.4033333,103.9713889
+sg,pulau ubin village,Pulau Ubin Village,00,,1.4033333,103.9713889
+sg,punggol estate,Punggol Estate,00,,1.3627778,103.9083333
+sg,punggol,Punggol,00,,1.4144444,103.9069444
+sg,punggol village,Punggol Village,00,,1.4144444,103.9069444
+sg,queen astrid park,Queen Astrid Park,00,,1.3188889,103.7908333
+sg,queenstown estate,Queenstown Estate,00,,1.2941667,103.8025
+sg,queenstown new town,Queenstown New Town,00,,1.2941667,103.8025
+sg,queenstown,Queenstown,00,,1.2941667,103.8025
+sg,quemoy park,Quemoy Park,00,,1.3441667,103.8972222
+sg,race course village,Race Course Village,00,,1.3333333,103.8
+sg,radin mas,Radin Mas,00,,1.2738889,103.8241667
+sg,raffles park,Raffles Park,00,,1.3322222,103.8044444
+sg,raya garden,Raya Garden,00,,1.3480556,103.8972222
+sg,rebecca park,Rebecca Park,00,,1.3219444,103.8008333
+sg,rochester park,Rochester Park,00,,1.3061111,103.7866667
+sg,rose garden,Rose Garden,00,,1.3027778,103.9147222
+sg,saga,Saga,00,,1.2666667,103.8333333
+sg,saga village,Saga Village,00,,1.2666667,103.8333333
+sg,saint michael's estate,Saint Michael's Estate,00,,1.3277778,103.8608333
+sg,sam heng estate,Sam Heng Estate,00,,1.4136111,103.9755556
+sg,sam hin estate,Sam Hin Estate,00,,1.4136111,103.9755556
+sg,sarang rimau,Sarang Rimau,00,,1.2597222,103.8088889
+sg,sea view estate,Sea View Estate,00,,1.3,103.9088889
+sg,seletar hills estate,Seletar Hills Estate,00,,1.3844444,103.8680556
+sg,seletar,Seletar,00,,1.41,103.8741667
+sg,sembawang estate,Sembawang Estate,00,,1.4508333,103.8286111
+sg,sembawang hills estate,Sembawang Hills Estate,00,,1.3727778,103.8302778
+sg,sembawang,Sembawang,00,,1.4508333,103.8286111
+sg,sembawang village,Sembawang Village,00,,1.4508333,103.8286111
+sg,seminoi,Seminoi,00,,1.4069444,104.0394444
+sg,sennett estate,Sennett Estate,00,,1.3319444,103.8716667
+sg,serangoon garden estate,Serangoon Garden Estate,00,,1.3638889,103.8575
+sg,serangoon new town,Serangoon New Town,00,,1.3508333,103.8708333
+sg,serangoon,Serangoon,00,,1.3508333,103.8708333
+sg,serangoon village,Serangoon Village,00,,1.3627778,103.8975
+sg,shamrock park,Shamrock Park,00,,1.3277778,103.7969444
+sg,siew lim park,Siew Lim Park,00,,1.3280556,103.9533333
+sg,simei estate,Simei Estate,00,,1.3411111,103.9561111
+sg,simei new town,Simei New Town,00,,1.3411111,103.9561111
+sg,simei,Simei,00,,1.3411111,103.9561111
+sg,simpang bedok,Simpang Bedok,00,,1.3341667,103.9522222
+sg,simpang bedok village,Simpang Bedok Village,00,,1.3341667,103.9522222
+sg,singapore city,Singapore City,00,,1.2930556,103.8558333
+sg,singapore,Singapore,00,3547809,1.2930556,103.8558333
+sg,singapore united plantation,Singapore United Plantation,00,,1.3791667,103.8577778
+sg,sin watt estate,Sin Watt Estate,00,,1.4141667,103.9505556
+sg,sit estate,Sit Estate,00,,1.3158333,103.7647222
+sg,somapah changi,Somapah Changi,00,,1.3416667,103.9636111
+sg,somapah changi village,Somapah Changi Village,00,,1.3416667,103.9636111
+sg,somapah serangoon,Somapah Serangoon,00,,1.3594444,103.9019444
+sg,somapah,Somapah,00,,1.36,103.8916667
+sg,sommerville estate,Sommerville Estate,00,,1.3138889,103.8069444
+sg,song hah estate,Song Hah Estate,00,,1.3588889,103.6647222
+sg,soo chow garden,Soo Chow Garden,00,,1.3533333,103.8308333
+sg,springleaf park,Springleaf Park,00,,1.3952778,103.8213889
+sg,spring park estate,Spring Park Estate,00,,1.3158333,103.9444444
+sg,sungai mandai,Sungai Mandai,00,,1.4105556,103.7769444
+sg,sungai mandai village,Sungai Mandai Village,00,,1.4105556,103.7769444
+sg,sungai simpang,Sungai Simpang,00,,1.4380556,103.8266667
+sg,sungai unum estate,Sungai Unum Estate,00,,1.4213889,104.0502778
+sg,sungei simpang village,Sungei Simpang Village,00,,1.4380556,103.8266667
+sg,sussex estate,Sussex Estate,00,,1.3088889,103.7688889
+sg,swiss cottage estate,Swiss Cottage Estate,00,,1.32,103.8316667
+sg,tai hwan gardens,Tai Hwan Gardens,00,,1.3552778,103.8608333
+sg,tai kheng gardens,Tai Kheng Gardens,00,,1.3475,103.8997222
+sg,tai seng,Tai Seng,00,,1.3361111,103.9036111
+sg,tampines estate,Tampines Estate,00,,1.3580556,103.9402778
+sg,tampines new town,Tampines New Town,00,,1.3491667,103.9497222
+sg,tampines,Tampines,00,,1.3491667,103.9497222
+sg,tanglin halt,Tanglin Halt,00,,1.3013889,103.7975
+sg,tanglin hill,Tanglin Hill,00,,1.3022222,103.8147222
+sg,tanglin,Tanglin,00,,1.3166667,103.8166667
+sg,tan hua gek estate,Tan Hua Gek Estate,00,,1.4091667,103.6958333
+sg,tanjong pagar,Tanjong Pagar,00,,1.2833333,103.8333333
+sg,tay keng loon estate,Tay Keng Loon Estate,00,,1.4533333,103.7988889
+sg,teacher's housing estate,Teacher's Housing Estate,00,,1.3833333,103.8286111
+sg,teck chong estate,Teck Chong Estate,00,,1.4155556,103.7616667
+sg,teck hock,Teck Hock,00,,1.3675,103.9161111
+sg,teck hock village,Teck Hock Village,00,,1.3675,103.9161111
+sg,telok blangah estate,Telok Blangah Estate,00,,1.2747222,103.8116667
+sg,telok blangah new town,Telok Blangah New Town,00,,1.2747222,103.8116667
+sg,telok blanga,Telok Blanga,00,,1.2747222,103.8116667
+sg,tengah,Tengah,00,,1.3719444,103.7038889
+sg,thomson garden estate,Thomson Garden Estate,00,,1.3536111,103.8386111
+sg,thomson park,Thomson Park,00,,1.3572222,103.8363889
+sg,thomson ridge estate,Thomson Ridge Estate,00,,1.3513889,103.8327778
+sg,thomson rise estate,Thomson Rise Estate,00,,1.3491667,103.8436111
+sg,thomson,Thomson,00,,1.3491667,103.8436111
+sg,thomson village,Thomson Village,00,,1.3491667,103.8436111
+sg,thong hoe,Thong Hoe,00,,1.4180556,103.7019444
+sg,thong hoe village,Thong Hoe Village,00,,1.4180556,103.7019444
+sg,tian guan estate,Tian Guan Estate,00,,1.3597222,103.8261111
+sg,tiong baharu,Tiong Baharu,00,,1.2833333,103.8327778
+sg,tiong bahru estate,Tiong Bahru Estate,00,,1.2833333,103.8327778
+sg,tiong guan estate,Tiong Guan Estate,00,,1.3561111,103.8258333
+sg,toa payoh new town,Toa Payoh New Town,00,,1.3361111,103.85
+sg,toa payoh,Toa Payoh,00,,1.3361111,103.85
+sg,tua kang lye,Tua Kang Lye,00,,1.3141667,103.7766667
+sg,tuas,Tuas,00,,1.3213889,103.6566667
+sg,tuas village,Tuas Village,00,,1.3213889,103.6566667
+sg,tumasik,Tumasik,00,,1.2930556,103.8558333
+sg,tyersall park,Tyersall Park,00,,1.3105556,103.8136111
+sg,ulu bedok,Ulu Bedok,00,,1.3333333,103.9333333
+sg,ulu bedok village,Ulu Bedok Village,00,,1.3333333,103.9333333
+sg,victoria park,Victoria Park,00,,1.3202778,103.8022222
+sg,watten estate,Watten Estate,00,,1.3266667,103.8113889
+sg,watten park,Watten Park,00,,1.3330556,103.81
+sg,wessex estate,Wessex Estate,00,,1.2969444,103.7952778
+sg,west coast village,West Coast Village,00,,1.3166667,103.75
+sg,windsor park estate,Windsor Park Estate,00,,1.3569444,103.8247222
+sg,woodlands new town,Woodlands New Town,00,,1.4444444,103.7766667
+sg,woodlands,Woodlands,00,,1.4444444,103.7766667
+sg,woodleigh park,Woodleigh Park,00,,1.3416667,103.8677778
+sg,woollerton park,Woollerton Park,00,,1.3161111,103.8091667
+sg,xilin estate,Xilin Estate,00,,1.3322222,103.9658333
+sg,yan kit village,Yan Kit Village,00,,1.3572222,103.9719444
+sg,yan kit,Yan Kit,00,,1.3572222,103.9719444
+sg,yew tee village,Yew Tee Village,00,,1.3944444,103.7538889
+sg,yew tee,Yew Tee,00,,1.3944444,103.7538889
+sg,yio chu kang estate,Yio Chu Kang Estate,00,,1.3897222,103.8538889
+sg,yio chu kang village,Yio Chu Kang Village,00,,1.3911111,103.8513889
+sg,yio chu kang,Yio Chu Kang,00,,1.3911111,103.8513889
+sg,yishun new town,Yishun New Town,00,,1.4333333,103.8311111
+sg,yishun,Yishun,00,,1.4333333,103.8311111
+sg,york hill estate,York Hill Estate,00,,1.2872222,103.8375
+sg,yow toe,Yow Toe,00,,1.3944444,103.7538889

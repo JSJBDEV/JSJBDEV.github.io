@@ -1,0 +1,2505 @@
+py,24 de julio,24 De Julio,08,,-25.083333,-57.3
+py,28 km paranambu,28 Km Paranambu,01,,-25.816667,-54.833333
+py,abai,Abaí,05,3024,-26.033333,-55.933333
+py,aba-ne-e,Abá-Ñe-é,24,,-21.933333,-61.933333
+py,abay,Abay,05,,-26.033333,-55.933333
+py,acahai,Acahaí,15,,-25.916667,-57.15
+py,acahay,Acahay,15,3205,-25.916667,-57.15
+py,aca vera,Acá Verá,24,,-23.533333,-60.933333
+py,achaval,Achaval,24,,-22.833333,-61.766667
+py,administracion lunardelli,Administración Lunardelli,02,,-23.233333,-55.85
+py,agriex,Agriex,01,,-26.116667,-54.683333
+py,agua dulce,Agua Dulce,23,,-20.016667,-59.766667
+py,aguaity,Aguaity,08,,-25.333333,-57.033333
+py,aguara charte,Aguará Charte,19,,-23.833333,-55.483333
+py,aguara-i,Aguara-i,23,,-19.85,-58.516667
+py,aguaray,Aguaray,23,,-19.85,-58.516667
+py,aguay,Aguay,23,,-19.45,-61.216667
+py,aguerito,Agüerito,07,,-22.916667,-56.666667
+py,aguero,Agüero,24,,-23.55,-61.216667
+py,aguilera,Aguilera,24,,-23.25,-60.35
+py,aguirre,Aguirre,12,,-26.833333,-57.55
+py,aguirre,Aguirre,24,,-23.116667,-60.066667
+py,ajos,Ajos,04,,-25.416667,-56.45
+py,alberdi,Alberdi,13,6518,-26.166667,-58.15
+py,alberto,Alberto,23,,-21.966667,-57.933333
+py,alborada,Alborada,24,,-22.716667,-61.366667
+py,alborada dos,Alborada Dos,11,,-27.3,-55.716667
+py,alborada uno,Alborada Uno,11,,-27.266667,-55.7
+py,aldea loma plata,Aldea Loma Plata,24,,-22.383333,-59.85
+py,alianza,Alianza,24,,-23.633333,-61.133333
+py,altos,Altos,08,4763,-25.233333,-57.25
+py,alto vera,Alto Verá,11,642,-26.583333,-55.633333
+py,aluralde,Aluralde,24,,-22,-62.233333
+py,alurralde,Alurralde,24,,-22,-62.233333
+py,alvar nunez cabeza de vaca,Alvar Núñez Cabeza de Vaca,19,,-24.45,-54.35
+py,amambay,Amambay,05,,-25.933333,-55.783333
+py,amarillo,Amarillo,24,,-22.966667,-61.95
+py,amarillo pericote,Amarillo Pericote,24,,-22.966667,-61.95
+py,anahi,Anahi,19,,-24.233333,-54.85
+py,andres aquirye,Andres Aquirye,08,,-25.25,-56.933333
+py,angelito,Angelito,01,,-25.8,-55.466667
+py,angelito,Angelito,07,,-23.216667,-56.35
+py,angostura,Angostura,06,,-25.533333,-57.616667
+py,angua,Anguá,12,,-26.883333,-57.4
+py,antequera,Antequera,17,2701,-24.133333,-57.083333
+py,apipe,Apipé,13,,-27.1,-57.816667
+py,apya,Apya,17,,-24.716667,-56.133333
+py,arce rojas,Arce Rojas,16,,-23.433333,-59.716667
+py,areco,Areco,15,,-25.7,-56.666667
+py,arecutacua,Arecutacuá,08,,-25.1,-57.383333
+py,arecutacue,Arecutacué,08,,-25.1,-57.383333
+py,aregua,Areguá,06,11224,-25.3,-57.416667
+py,arquitecto tomas romero pereira,Arquitecto Tomás Romero Pereira,11,,-26.483333,-55.25
+py,arrocera softo,Arrocera Softo,12,,-26.733333,-56.9
+py,arroyito,Arroyito,07,,-23.266667,-56.45
+py,arroyito,Arroyito,10,,-25.733333,-56.616667
+py,arroyo costa,Arroyo Costa,15,,-26.183333,-56.85
+py,arroyo horco,Arroyo Horco,13,,-27.083333,-58.366667
+py,arroyos y esteros,Arroyos y Esteros,08,2455,-25.066667,-57.1
+py,asseradero,Asseradero,11,,-27.216667,-56.166667
+py,assetadero,Assetadero,11,,-27.366667,-55.85
+py,asuncion,Asunción,06,508797,-25.266667,-57.666667
+py,atajado,Atajado,24,,-22.1,-62.366667
+py,atyra,Atyrá,08,4769,-25.25,-57.166667
+py,audivert,Audivert,23,,-20,-58.35
+py,aurora,Aurora,24,,-23.433333,-61.333333
+py,ayolas,Ayolas,12,12064,-27.4,-56.9
+py,bahia negra,Bahía Negra,23,,-20.25,-58.2
+py,ballivian,Ballivián,24,,-22.683333,-62.166667
+py,banco san miguel,Banco San Miguel,06,,-25.266667,-57.616667
+py,bandera blanca,Bandera Blanca,24,,-23.116667,-61.866667
+py,barranquerita,Barranquerita,17,,-24.25,-57.133333
+py,barrero grande,Barrero Grande,08,,-25.4,-56.966667
+py,barrero pyta,Barrero Pyta,04,,-25.666667,-56.683333
+py,barrio asuncion,Barrio Asunción,15,,-25.533333,-57.083333
+py,barrio caacupe mi,Barrio Caacupé Mí,06,,-25.216667,-57.55
+py,barrio del carmen,Barrio del Carmen,08,,-25.333333,-56.7
+py,barrio ita-cua,Barrio Itá-cuá,08,,-25,-57.166667
+py,barrio san blas,Barrio San Blas,06,,-25.216667,-57.566667
+py,barrio san isidro,Barrio San Isidro,06,,-25.366667,-57.5
+py,barrio san miguel,Barrio San Miguel,04,,-25.433333,-56.066667
+py,barrio santa maria,Barrio Santa Maria,04,,-25.366667,-55.833333
+py,batallon ingenieria no. 4 aquidaban,Batallón Ingeniería No. 4 Aquidabán,24,,-21.754167,-60.964444
+py,batallon ingenieria numero cuatro aquidaban,Batallón Ingeniería Número Cuatro Aquidabán,24,,-21.754167,-60.964444
+py,batallon ingeniero numero cinco p.j. caballero,Batallón Ingeniero Número Cinco P.J. Caballero,16,,-24.65,-58.716667
+py,batallon ingeniero numero cuatro aquidaban,Batallón Ingeniero Número Cuatro Aquidabán,24,,-21.754167,-60.964444
+py,batallon numero uno palmar de las islas,Batallón Número Uno Palmar de las Islas,23,,-19.6,-60.566667
+py,beatriz,Beatriz,24,,-21.816667,-62.316667
+py,becalde-cue,Becalde-cué,07,,-23.05,-57.45
+py,bedoya-cue,Bedoya-cue,02,,-22.683333,-56.683333
+py,belen,Belén,07,1621,-23.466111,-57.261944
+py,belen tuya,Belén Tuyá,05,,-26.416667,-56.583333
+py,bella vista,Bella Vista,02,5654,-22.133333,-56.516667
+py,bella vista,Bella Vista,11,2334,-27.05,-55.55
+py,bella vista,Bella Vista,24,,-22.783333,-62.116667
+py,bella vista de alto parana,Bella Vista de Alto Paraná,11,,-27.05,-55.55
+py,benjamin aceval,Benjamín Aceval,16,7751,-24.966667,-57.566667
+py,bertoni,Bertoni,01,,-25.65,-54.583333
+py,blanco nu,Blanco Nu,13,,-27.233333,-57.766667
+py,blas garay,Blas Garay,04,,-25.516667,-56.216667
+py,bobi,Bobí,11,,-26.933333,-56.216667
+py,bobi-cango,Bobi-Cangó,11,,-26.933333,-56.216667
+py,boqueron,Boquerón,05,,-26.25,-56.233333
+py,boqueron,Boquerón,13,,-26.966667,-58.366667
+py,boqueron,Boquerón,16,,-23.966667,-57.283333
+py,borja,Borja,10,325,-25.95,-56.483333
+py,buena vista,Buena Vista,05,1580,-26.183333,-56.083333
+py,buena vista,Buena Vista,16,,-24.033333,-57.133333
+py,buena vista,Buena Vista,24,,-22.3,-62.583333
+py,caacupe,Caacupé,08,21697,-25.383333,-57.15
+py,caacupe,Caacupé,23,,-19.7,-58.65
+py,caaguazu,Caaguazú,04,54814,-25.45,-56.016667
+py,caaguazu,Caaguazú,12,,-27.1,-56.783333
+py,caaguy cupe,Caaguy cupé,15,,-26.116667,-56.883333
+py,caaguy pora,Caagüy Porá,19,,-23.933333,-55.816667
+py,caaguy-rupe,Caaguy-rupé,15,,-26.116667,-56.883333
+py,caapucu,Caapucú,15,2284,-26.216667,-57.2
+py,caarendy,Caarendy,01,,-25.4,-55.266667
+py,caarendy guazu,Caarendy Guazú,01,,-25.466667,-55.216667
+py,caa rogue,Caa Rogue,13,,-27.2,-57.316667
+py,caa yovai,Caá Yovai,01,,-25.6,-55.35
+py,caazapa,Caazapá,05,6790,-26.15,-56.4
+py,caballern,Caballern,15,,-25.683333,-56.833333
+py,caballero,Caballero,15,,-25.683333,-56.833333
+py,caballo muerto,Caballo Muerto,16,,-23.533333,-59.95
+py,cabeza de tigre,Cabeza de Tigre,16,,-23.383333,-59.533333
+py,cabo juan,Cabo Juan,16,,-23.016667,-59.7
+py,cabral-cue,Cabral-cué,04,,-25.55,-56.666667
+py,cacha labrada,Cacha Labrada,23,,-19.609167,-59.651944
+py,cachi puente,Cachi Puente,11,,-27.183333,-56.3
+py,cacique bueno,Cacique Bueno,24,,-22.3,-59.616667
+py,cacique ramon,Cacique Ramón,16,,-22.466667,-59.783333
+py,cafetal cerro cuatia,Cafetal Cerro Cuatia,02,,-23.133333,-55.616667
+py,cafetal san antonio,Cafetal San Antonio,02,,-23.25,-55.7
+py,calia,Calia,16,,-22.483333,-58.216667
+py,calixto benitez,Calixto Benítez,24,,-22.65,-60.083333
+py,camacho,Camacho,24,,-22.033333,-60.633333
+py,camalote,Camalote,15,,-26.266667,-57.6
+py,cambyreta,Cambyretá,11,822,-27.35,-55.783333
+py,campamento ana-reta,Campamento Aña-retá,23,,-20.6,-58.916667
+py,campamento cabichu-i,Campamento Cabichu-í,23,,-20.383333,-58.483333
+py,campamento,Campamento,23,,-21.716667,-58.5
+py,campamento final,Campamento Final,23,,-21.45,-59.133333
+py,campamento mercedita,Campamento Mercedita,23,,-20.416667,-58.566667
+py,campamento michin,Campamento Michin,23,,-19.75,-59.483333
+py,campamento quince de agosto,Campamento Quince de Agosto,23,,-20.6,-58.883333
+py,campamento rivarola,Campamento Rivarola,23,,-19.6,-58.733333
+py,campamento santa mercedita,Campamento Santa Mercedita,23,,-20.416667,-58.566667
+py,campamento v. rivarola,Campamento V. Rivarola,23,,-19.6,-58.733333
+py,campichuelo,Campichuelo,11,,-27.433333,-55.766667
+py,campo aceval,Campo Aceval,16,,-23.183333,-59.85
+py,campo alegre,Campo Alegre,01,,-25.616667,-55.316667
+py,campo alegre,Campo Alegre,16,,-24.05,-59.85
+py,campo ana-reta,Campo Ana-reta,23,,-20.6,-58.916667
+py,campo azul,Campo Azul,24,,-23.666667,-61.1
+py,campo cerro sarambi,Campo Cerro Sarambí,02,,-22.75,-56.166667
+py,campo cuarentiocho,Campo Cuarentiocho,16,,-22.75,-59.666667
+py,campo duarte-cue,Campo Duarte-cué,02,,-22.433333,-56.583333
+py,campo esperanza,Campo Esperanza,16,,-22.333333,-59.65
+py,campo lata,Campo Lata,16,,-22.266667,-59.5
+py,campo lobo-cue,Campo Lobo-cué,08,,-25.2,-56.7
+py,campo michin,Campo Michin,23,,-19.75,-59.483333
+py,campo punta diamante,Campo Punta Diamante,13,,-26.85,-57.9
+py,campo san luis,Campo San Luis,02,,-22.316667,-55.916667
+py,campos,Campos,23,,-20.133333,-59.533333
+py,cana blanca,Caña Blanca,24,,-22.75,-61.033333
+py,canada blanca,Cañada Blanca,24,,-22.133333,-61.916667
+py,canada calais,Cañada Calais,24,,-22.15,-59.6
+py,canada catorce de mayo,Cañada Catorce de Mayo,24,,-22.016667,-61.2
+py,canada la paz,Cañada la Paz,24,,-21.7,-61.033333
+py,canada oruro,Cañada Oruro,24,,-21.666667,-62.4
+py,canada strongest,Cañada Strongest,24,,-21.666667,-62.4
+py,canada tarua,Cañada Tarua,24,,-21.566667,-61.366667
+py,cana de castilla,Caña de Castilla,16,,-23.433333,-58.433333
+py,canandero,Canandero,02,,-23.65,-55.9
+py,canaverales,Cañaverales,16,,-22.266667,-58.8
+py,cancha labrada,Cancha Labrada,23,,-19.609167,-59.651944
+py,cancha pinilla,Cancha Pinilla,23,,-20.15,-58.833333
+py,candida aohucarro,Candida Aohucarro,06,,-25.433333,-57.533333
+py,canete,Cañete,05,,-26.566667,-56.45
+py,canete-cue,Cañete-cué,05,,-26.55,-56.716667
+py,cango,Cango,11,,-26.933333,-56.216667
+py,caniza-cue,Caniza-cué,15,,-26.316667,-57.416667
+py,capiata,Capiatá,06,198801,-25.35,-57.416667
+py,capibindi,Capibindi,19,,-24.366667,-54.816667
+py,capiibary,Capiíbary,17,3537,-24.8,-56.033333
+py,capiipobo,Capiipobó,16,,-24.816667,-57.216667
+py,capiitindi,Capiitindi,19,,-24.366667,-54.816667
+py,capiitindy,Capiitindy,19,,-24.366667,-54.816667
+py,capilla san rafael,Capilla San Rafael,08,,-24.916667,-56.733333
+py,capilla tuya,Capilla Tuyá,15,,-26.233333,-56.866667
+py,capista,Capista,06,,-25.35,-57.416667
+py,capitan bado,Capitán Bado,02,9115,-23.266667,-55.533333
+py,capitan castro,Capitán Castro,24,,-22.7,-61.05
+py,capitan meza,Capitán Meza,11,963,-27.016667,-55.566667
+py,capitan miranda,Capitán Miranda,11,2498,-27.2,-55.8
+py,capitan pablo lagerenza,Capitán Pablo Lagerenza,23,,-19.916667,-60.783333
+py,capitan peralta,Capitán Peralta,23,,-20.1,-58.183333
+py,capitan sosa,Capitán Sosa,07,,-23.399167,-57.018611
+py,capitan vicente a. matiauda,Capitán Vicente A. Matiauda,11,,-27.233333,-55.6
+py,caracol,Caracol,07,,-22.3,-57.016667
+py,caracoles,Caracoles,16,,-24.133333,-59.55
+py,caraguata,Caraguatá,11,,-27.25,-56.083333
+py,caraguatay,Caraguatay,08,1637,-25.233333,-56.816667
+py,carapa,Carapá,19,,-23.983333,-55.266667
+py,carapegua,Carapeguá,15,5784,-25.8,-57.233333
+py,carayao,Carayaó,04,2473,-25.183333,-56.4
+py,caraya vuelta,Carayá Vuelta,16,,-23.121667,-57.6375
+py,caray-cue,Caray-cué,13,,-26.433333,-57.816667
+py,cargue,Cargué,16,,-25.083333,-57.866667
+py,carlos antonio lopez,Carlos Antonio López,11,1497,-26.4,-54.766667
+py,carlos pfanel,Carlos Pfanel,10,,-25.65,-56.233333
+py,carmen,Carmen,11,,-27.233333,-56.216667
+py,carmencita,Carmencita,24,,-22.483333,-62.266667
+py,carmen del parana,Carmen del Paraná,11,4196,-27.233333,-56.216667
+py,carmen ines,Carmen Inés,24,,-22.416667,-62.4
+py,carolina,Carolina,07,,-24.6,-56.683333
+py,carpincho cua,Carpincho Cuá,13,,-26.383333,-58.183333
+py,carreria,Carreria,23,,-21.55,-58.116667
+py,carupera,Caruperá,19,,-24.316667,-55.483333
+py,casado,Casado,23,,-22.333333,-57.916667
+py,cascabel,Cascabel,23,,-20.316667,-58.4
+py,cascahal,Cascahal,23,,-20.316667,-58.4
+py,castillo,Castillo,24,,-22.833333,-60
+py,castillo cue,Castillo Cué,13,,-27.183333,-57.483333
+py,catan,Catan,24,,-23.45,-60.883333
+py,catorce de mayo,Catorce de Mayo,23,,-19.633333,-58.733333
+py,cebolla,Cebolla,07,,-22.383333,-57.666667
+py,cecilio baez,Cecilio Báez,04,,-25.05,-56.316667
+py,cecina,Cecina,05,,-25.933333,-55.8
+py,celada cue,Celada Cué,16,,-23.866667,-57.95
+py,celia,Celia,16,,-22.483333,-58.216667
+py,celina,Celina,24,,-21.85,-62.416667
+py,centinela,Centinela,16,,-24.133333,-57.183333
+py,cerrito caaguazu,Cerrito Caaguazú,01,,-24.616667,-54.883333
+py,cerrito,Cerrito,13,1036,-27.316667,-57.666667
+py,cerrito,Cerrito,15,,-26.4,-57.466667
+py,cerrito,Cerrito,17,,-23.833333,-57
+py,cerrito jara,Cerrito Jara,23,,-19.766667,-58.2
+py,cerro cora,Cerro Corá,02,,-22.616667,-55.983333
+py,cerro cora,Cerro Corá,23,,-20.283333,-58.283333
+py,cerro cora-i,Cerro Cora-i,02,,-22.583333,-55.833333
+py,cerro leon,Cerro León,15,,-25.55,-57.183333
+py,cerro sarambi,Cerro Sarambi,02,,-22.75,-56.166667
+py,cerro tarin,Cerro Tarin,02,,-23.533333,-55.55
+py,cerro torin,Cerro Torín,02,,-23.533333,-55.55
+py,chaco-i,Chaco-i,16,,-25.25,-57.633333
+py,charagua,Charagua,02,,-22.616667,-56.366667
+py,charara,Charará,05,,-26.05,-55.4
+py,charara,Charara,10,,-25.916667,-56.183333
+py,charara,Charara,15,,-26.166667,-57.283333
+py,charata,Charata,24,,-23.133333,-60.05
+py,china blanca,China Blanca,24,,-22.75,-61.033333
+py,china muerta,China Muerta,24,,-22.35,-61.6
+py,chinguelo,Chingüelo,02,,-22.666667,-55.916667
+py,chivilar,Chivilar,24,,-23.316667,-61.616667
+py,chore,Chore,17,2193,-24.2,-56.566667
+py,ciervo blanco,Ciervo Blanco,13,,-26.466667,-57.85
+py,ciudad del este,Ciudad del Este,01,,-25.516667,-54.616667
+py,ciudad presidente stroessner,Ciudad Presidente Stroessner,01,,-25.516667,-54.616667
+py,cleto romero,Cleto Romero,08,,-25.1,-56.616667
+py,cobija,Cobija,24,,-20.433333,-61.183333
+py,cocuere,Cocueré,12,,-26.8,-57.533333
+py,codo kononi,Codo Kononi,24,,-21.85,-62.283333
+py,collar ahorcada,Collar Ahorcada,24,,-23.133333,-61.833333
+py,collar ahorcado,Collar Ahorcado,24,,-23.133333,-61.833333
+py,colon,Colón,16,,-23.183333,-57.55
+py,colonia 21 de julio,Colonia 21 de Julio,08,,-25.283333,-57.05
+py,colonia acaray,Colonia Acaray,01,,-25.316667,-54.833333
+py,colonia aca-yuasa,Colonia Aca-Yuasa,15,,-25.866667,-56.883333
+py,colonia aceval,Colonia Aceval,16,,-24.966667,-57.566667
+py,colonia acuna de figueroa,Colonia Acuña de Figueroa,08,,-25.216667,-57.216667
+py,colonia acuna figueroa,Colonia Acuña Figueroa,08,,-25.216667,-57.216667
+py,colonia a. dacak,Colonia A. Dacak,08,,-25.583333,-56.816667
+py,colonia adriano irala,Colonia Adriano Iralá,15,,-25.633333,-56.983333
+py,colonia a. goiburu,Colonia A. Goiburú,15,,-26.166667,-56.9
+py,colonia agustin molas,Colonia Agustin Molas,10,,-26.05,-56.666667
+py,colonia agustin r. pinedo,Colonia Agustín R. Pinedo,07,,-22.75,-56.283333
+py,colonia alberdi,Colonia Alberdi,13,,-26.15,-58.116667
+py,colonia alborada,Colonia Alborada,19,,-23.966667,-54.633333
+py,colonia alejo garcia,Colonia Alejo García,12,,-27.383333,-56.9
+py,colonia alfonso tranquera,Colonia Alfonso Tranquera,08,,-25.15,-56.916667
+py,colonia altura,Colonia Altura,04,,-25.183333,-56.3
+py,colonia alvar nunez cabeza de vaca,Colonia Alvar Núñez Cabeza de Vaca,19,,-24.45,-54.35
+py,colonia antequera,Colonia Antequera,17,,-24.133333,-57.083333
+py,colonia aparypa,Colonia Aparypa,08,,-25.166667,-57.05
+py,colonia ape-aime,Colonia Ape-Aime,11,,-26.583333,-54.866667
+py,colonia arroyita ex-combatientes,Colonia Arroyita Ex-combatientes,04,,-25.55,-55.8
+py,colonia austria-i,Colonia Austria-í,24,,-22.066667,-61.75
+py,colonia bella vista,Colonia Bella Vista,11,,-27.05,-55.55
+py,colonia benjamin aceval,Colonia Benjamín Aceval,16,,-24.966667,-57.566667
+py,colonia bergtal,Colonia Bergtal,04,,-25.316667,-55.583333
+py,colonia bergthal,Colonia Bergthal,04,,-25.316667,-55.583333
+py,colonia blas a. garay,Colonia Blas A. Garay,04,,-25.466667,-56.233333
+py,colonia blas garay,Colonia Blas Garay,04,,-25.466667,-56.233333
+py,colonia blumengart,Colonia Blumengart,24,,-22.366667,-59.9
+py,colonia bogado-cue,Colonia Bogado-cué,07,,-23.2,-57.316667
+py,colonia boqueron,Colonia Boquerón,10,,-25.916667,-56.533333
+py,colonia caarendy,Colonia Caárendy,11,,-26.933333,-55.45
+py,colonia cadete pastor pando,Colonia Cadete Pastor Pando,16,,-24.4,-58.9
+py,colonia caninobyu,Colonia Caninobyú,19,,-23.95,-54.45
+py,colonia capitan f. leguizamon,Colonia Capitán F. Leguizamón,11,,-26.75,-56.233333
+py,colonia capitan miranda,Colonia Capitán Miranda,11,,-27.2,-55.8
+py,colonia capitan v. brizuela,Colonia Capitán V. Brizuela,10,,-25.966667,-56.5
+py,colonia carlos a. lopez,Colonia Carlos A. López,15,,-25.7,-56.9
+py,colonia carlos peanell,Colonia Carlos Peanell,10,,-25.65,-56.233333
+py,colonia carlos pfanell,Colonia Carlos Pfanell,10,,-25.65,-56.233333
+py,colonia carmelo peralta,Colonia Carmelo Peralta,23,,-21.666667,-57.95
+py,colonia casualidad,Colonia Casualidad,02,,-22.683333,-56.516667
+py,colonia catorce de mayo,Colonia Catorce de Mayo,10,,-25.816667,-56.383333
+py,colonia catuete,Colonia Catuete,19,,-24.133333,-54.616667
+py,colonia cerro memby,Colonia Cerro Memby,07,,-22.833333,-56.366667
+py,colonia chaontal,Colonia Chaontal,24,,-22.366667,-59.916667
+py,colonia cleto romero,Colonia Cleto Romero,08,,-25.1,-56.616667
+py,colonia comondante pedro caballero,Colonia Comondante Pedro Caballero,08,,-25.5,-57.016667
+py,colonia cosme,Colonia Cosme,10,,-25.566667,-56.283333
+py,colonia costa jhoby,Colonia Costa Jhoby,02,,-23.316667,-55.583333
+py,colonia costa jhovy,Colonia Costa Jhovy,02,,-23.316667,-55.583333
+py,colonia cumanda kay,Colonia Cumandá Kay,19,,-24.416667,-54.816667
+py,colonia curupayty,Colonia Curupayty,08,,-25.416667,-56.983333
+py,colonia defensores del chaco,Colonia Defensores del Chaco,17,,-24.55,-56.45
+py,colonia de mompox,Colonia de Mompox,08,,-25.2,-56.983333
+py,colonia doctor bottrel,Colonia Doctor Bottrel,10,,-25.583333,-56.316667
+py,colonia doctor domingo montanaro,Colonia Doctor Domingo Montanaro,04,,-25.433333,-56.216667
+py,colonia doctor pastor obligado,Colonia Doctor Pastor Obligado,11,,-27.033333,-55.633333
+py,colonia dr. a. yrala,Colonia Dr. A. Yrala,15,,-25.633333,-56.983333
+py,colonia eligio ayala,Colonia Eligio Ayala,15,,-26.233333,-56.833333
+py,colonia eliza,Colonia Eliza,06,,-25.366667,-57.616667
+py,colonia escalada,Colonia Escalada,10,,-25.933333,-56.266667
+py,colonia estrella,Colonia Estrella,02,,-22.3,-55.933333
+py,colonia ex combatiente,Colonia Ex Combatiente,04,,-25.55,-55.8
+py,colonia ex combatiente,Colonia Ex Combatiente,07,,-23.3,-56.916667
+py,colonia ex enfermera del chaco,Colonia Ex Enfermera del Chaco,07,,-23.15,-56.75
+py,colonia falcon,Colonia Falcón,16,,-25.25,-57.716667
+py,colonia felicidad,Colonia Felicidad,17,,-24.233333,-56.4
+py,colonia felix azara,Colonia Felix Azara,01,,-25.483333,-54.766667
+py,colonia felix de azara,Colonia Félix de Azara,01,,-25.483333,-54.766667
+py,colonia ferheim,Colonia Ferheim,24,,-22.25,-59.833333
+py,colonia fernando de la mora,Colonia Fernando de la Mora,07,,-23.416667,-57.066667
+py,colonia fernando de trejo y sanabria,Colonia Fernando de Trejo y Sanabria,01,,-24.8,-54.45
+py,colonia fernheim,Colonia Fernheim,24,,-22.25,-59.833333
+py,colonia filadelfia,Colonia Filadelfia,24,,-22.35,-60.033333
+py,colonia fram,Colonia Fram,11,,-27.033333,-56.05
+py,colonia fran,Colonia Fran,11,,-27.033333,-56.05
+py,colonia friesland,Colonia Friesland,17,,-24.633333,-56.766667
+py,colonia f. r. moreno,Colonia F. R. Moreno,01,,-25.7,-55.2
+py,colonia gaboto,Colonia Gaboto,13,,-26.266667,-57.983333
+py,colonia genaro romero,Colonia Genaro Romero,04,,-25.35,-56.433333
+py,colonia general acuino,Colonia General Acuino,17,,-24.433333,-56.7
+py,colonia general alfredo stroessner,Colonia General Alfredo Stroessner,04,,-25.366667,-55.7
+py,colonia general bernardino caballero,Colonia General Bernardino Caballero,08,,-25.216667,-57.116667
+py,colonia general bernardino caballero,Colonia General Bernardino Caballero,19,,-24.316667,-54.933333
+py,colonia general bruguez,Colonia General Bruguez,16,,-24.733333,-58.8
+py,colonia general de division a. fretes davalos,Colonia General de División A. Fretes Dávalos,07,,-23.366667,-56.516667
+py,colonia general de division a. fretes davalos,Colonia General de División A. Fretes Dávalos,19,,-24.45,-55.15
+py,colonia general delgado,Colonia General Delgado,11,,-27.166667,-56.516667
+py,colonia general diaz,Colonia General Díaz,01,,-24.7,-54.95
+py,colonia general diaz,Colonia General Díaz,07,,-23.416667,-57.233333
+py,colonia general morinigo,Colonia General Morínigo,05,,-25.95,-55.916667
+py,colonia general p. colman,Colonia General P. Colmán,01,,-25.733333,-55.066667
+py,colonia general roa,Colonia General Roa,13,,-27.283333,-57.583333
+py,colonia goiburu,Colonia Goiburú,15,,-26.166667,-56.9
+py,colonia guzman,Colonia Guzman,13,,-26.083333,-57.95
+py,colonia hector l vega,Colonia Hector L Vega,15,,-25.816667,-56.733333
+py,colonia hector l. vera,Colonia Hector L. Vera,15,,-25.816667,-56.733333
+py,colonia hernandarias,Colonia Hernandarias,07,,-23.3,-57.183333
+py,colonia herrera vega,Colonia Herrera Vega,11,,-27.216667,-55.716667
+py,colonia herrera vegas,Colonia Herrera Vegas,11,,-27.216667,-55.716667
+py,colonia hohenau,Colonia Hohenau,11,,-27.083333,-55.75
+py,colonia hondo,Colonia Hondo,04,,-25.15,-56.283333
+py,colonia independencia,Colonia Independencia,10,,-25.716667,-56.25
+py,colonia j. cancio flecha,Colonia J. Cancio Flecha,08,,-25.583333,-56.8
+py,colonia j.e. estigarribia,Colonia J.E. Estigarribia,01,,-25.016667,-54.8
+py,colonia j.l. mallorquin,Colonia J.L. Mallorquín,01,,-25.366667,-55.216667
+py,colonia joan m. frutos,Colonia Joan M. Frutos,04,,-25.45,-56.266667
+py,colonia jorje l. moreira,Colonia Jorje L. Moreira,15,,-25.633333,-57.183333
+py,colonia jose beger,Colonia José Beger,07,,-23.433333,-56.9
+py,colonia jose berges,Colonia José Berges,07,,-23.433333,-56.9
+py,colonia jose palcon,Colonia Jose Palcón,16,,-25.25,-57.716667
+py,colonia juan sinforiano bogarin,Colonia Juan Sinforiano Bogarin,04,,-25.083333,-56.083333
+py,colonia la colmena,Colonia La Colmena,15,,-25.883333,-56.816667
+py,colonia la pastora,Colonia la Pastora,04,,-25.216667,-56.533333
+py,colonia la pastora,Colonia la Pastora,08,,-25.25,-56.566667
+py,colonia laura,Colonia Laura,01,,-25.266667,-54.9
+py,colonia liberacion,Colonia Liberación,17,,-24.166667,-56.65
+py,colonia limoy,Colonia Limoy,01,,-24.783333,-54.866667
+py,colonia lomas valentinas,Colonia Lomas Valentinas,06,,-25.516667,-57.516667
+py,colonia maka,Colonia Maka,16,,-25.216667,-57.583333
+py,colonia m.a. molas,Colonia M.A. Molas,13,,-25.95,-57.7
+py,colonia manitoba,Colonia Manitoba,17,,-23.566667,-56.55
+py,colonia maria auxiliadora,Colonia Maria Auxiliadora,04,,-25.483333,-56.183333
+py,colonia maria auxiliadora,Colonia Maria Auxiliadora,17,,-24.45,-56.5
+py,colonia mariano roque alonso,Colonia Mariano Roque Alonso,06,,-25.166667,-57.55
+py,colonia mariscal lopez,Colonia Mariscal López,02,,-22.783333,-55.566667
+py,colonia martinez de irala,Colonia Martínez de Irala,05,,-26.15,-56
+py,colonia mauricio jose troche,Colonia Mauricio José Troche,10,,-25.566667,-56.283333
+py,colonia mauricio j. troche,Colonia Mauricio J. Troche,10,,-25.566667,-56.283333
+py,colonia mayor hermosa,Colonia Mayor Hermosa,17,,-23.95,-56.366667
+py,colonia mayor nicolas arguello,Colonia Mayor Nicolás Arguello,05,,-26.183333,-56.183333
+py,colonia mayor otano,Colonia Mayor Otaño,11,,-26.616667,-54.9
+py,colonia mbarete,Colonia Mbareté,01,,-26.05,-54.866667
+py,colonia mburica potrero,Colonia Mburicá Potrero,05,,-26.133333,-56.116667
+py,colonia mburucuya,Colonia Mburucuya,19,,-24.533333,-55.766667
+py,colonia mburupy,Colonia Mburupy,04,,-25.433333,-56.3
+py,colonia m. dominguez,Colonia M. Domínguez,13,,-25.85,-57.8
+py,colonia medianera,Colonia Medianera,01,,-26.116667,-54.816667
+py,colonia memnonista,Colonia Memnonista,24,,-22.5,-60
+py,colonia menno,Colonia Menno,24,,-22.366667,-59.816667
+py,colonia mennonita canadiense,Colonia Mennonita Canadiense,24,,-22.5,-60
+py,colonia mennonita,Colonia Mennonita,24,,-22.5,-60
+py,colonia mennonitas,Colonia Mennonitas,24,,-22.5,-60
+py,colonia menonitas,Colonia Menonitas,24,,-22.5,-60
+py,colonia mesquita,Colonia Mesquita,01,,-25.766667,-54.633333
+py,colonia m. gondra,Colonia M. Gondra,10,,-25.7,-56.4
+py,colonia minga pora,Colonia Minga Porá,01,,-24.866667,-54.9
+py,colonia miranda,Colonia Miranda,07,,-22.966667,-56.833333
+py,colonia moises bertoni,Colonia Moises Bertoni,05,,-26.366667,-56.433333
+py,colonia mompox,Colonia Mompox,08,,-25.2,-56.983333
+py,colonia mons bogarin,Colonia Mons Bogarin,04,,-25.1,-56.05
+py,colonia montanaro,Colonia Montanaro,04,,-25.433333,-56.2
+py,colonia moses bertoni,Colonia Moses Bertoni,05,,-26.366667,-56.433333
+py,colonia nande mbaepa,Colonia Ñande Mbaepá,16,,-24.783333,-58.416667
+py,colonia natalicio talavera,Colonia Natalicio Talavera,10,,-25.633333,-56.3
+py,colonia neuland,Colonia Neuland,24,,-22.666667,-60.116667
+py,colonia nueva australia,Colonia Nueva Australia,04,,-25.416667,-56.583333
+py,colonia nueva colombia,Colonia Nueva Colombia,08,,-25.183333,-57.35
+py,colonia nueva germania,Colonia Nueva Germania,17,,-23.9,-56.566667
+py,colonia nueva independencia,Colonia Nueva Independencia,02,,-22.933333,-55.65
+py,colonia nueva italia,Colonia Nueva Italia,06,,-25.616667,-57.5
+py,colonia numero dos general alfredo stroessner,Colonia Número Dos General Alfredo Stroessner,17,,-24.666667,-55.983333
+py,colonia oliva,Colonia Oliva,13,,-26.066667,-57.85
+py,colonia osterwich,Colonia Osterwich,24,,-22.4,-59.883333
+py,colonia padre guido coronel,Colonia Padre Guido Coronel,01,,-25.216667,-54.683333
+py,colonia pancho garmendia,Colonia Pancho Garmendia,15,,-25.983333,-57.083333
+py,colonia paratodo,Colonia Paratodo,16,,-23.216667,-59.616667
+py,colonia pedro m. de portugal,Colonia Pedro M. de Portugal,04,,-25.566667,-56.75
+py,colonia peguajho,Colonia Peguajhó,08,,-25.6,-57.283333
+py,colonia pfannl,Colonia PFannl,10,,-25.65,-56.233333
+py,colonia pirareta,Colonia Pirareta,08,,-25.55,-56.9
+py,colonia pira rita,Colonia Pira Rita,08,,-25.516667,-56.883333
+py,colonia piray,Colonia Piray,08,,-25.366667,-56.716667
+py,colonia presbitero a. molas,Colonia Presbítero A. Molas,10,,-26.05,-56.666667
+py,colonia presbitero fidel maiz,Colonia Presbítero Fidel Maíz,17,,-24.983333,-57
+py,colonia presidente franco,Colonia Presidente Franco,04,,-25.533333,-56.75
+py,colonia presidente stroessner,Colonia Presidente Stroessner,07,,-23.25,-56.9
+py,colonia primero de marzo,Colonia Primero de Marzo,08,,-25.1,-57.016667
+py,colonia puente canii,Colonia Puente Canií,02,,-22.9,-55.783333
+py,colonia puente franco,Colonia Puente Franco,04,,-25.533333,-56.75
+py,colonia r. diaz de guzman,Colonia R. Díaz de Guzmán,13,,-26.083333,-57.95
+py,colonia reconstruccion,Colonia Reconstrucción,07,,-23.133333,-57.283333
+py,colonia reinland,Colonia Reinland,24,,-22.4,-59.85
+py,colonia repatriacion,Colonia Repatriación,04,,-25.55,-56.066667
+py,colonia r.g. de santa cruz,Colonia R.G. de Santa Cruz,10,,-25.95,-56.233333
+py,colonia riachuelo,Colonia Riachuelo,05,,-26.1,-56.233333
+py,colonia rio verde,Colonia Río Verde,17,,-23.716667,-56.5
+py,colonia risso,Colonia Risso,07,,-22.35,-57.833333
+py,colonia roberto l. petit,Colonia Roberto L. Petit,07,,-23.183333,-57.45
+py,colonia roque alonso,Colonia Roque Alonso,06,,-25.166667,-57.55
+py,colonia r. scagnoli,Colonia R. Scagnoli,15,,-25.833333,-56.833333
+py,colonia r. scagnoti,Colonia R. Scagnoti,15,,-25.833333,-56.833333
+py,colonia rubio nu,Colonia Rubio Ñu,08,,-25.45,-56.85
+py,colonia rusa,Colonia Rusa,11,,-27.233333,-55.85
+py,colonia salto,Colonia Salto,11,,-27.45,-56.683333
+py,colonia san alfredo,Colonia San Alfredo,01,,-26.033333,-55.1
+py,colonia san alfredo,Colonia San Alfredo,07,,-22.9,-57.416667
+py,colonia san alfredo,Colonia San Alfredo,23,,-19.9,-60.9
+py,colonia san antonio,Colonia San Antonio,10,,-25.983333,-56.566667
+py,colonia san blas,Colonia San Blas,08,,-25.4,-56.683333
+py,colonia san francisco,Colonia San Francisco,01,,-22.9,-55
+py,colonia san ignacio de loyola,Colonia San Ignacio de Loyola,04,,-25.483333,-56.766667
+py,colonia san isidro,Colonia San Isidro,04,,-25.6,-56.716667
+py,colonia san jose,Colonia San José,02,,-22.4,-56.316667
+py,colonia san jose obrero,Colonia San José Obrero,19,,-24.666667,-55.85
+py,colonia san juan,Colonia San Juan,17,,-23.556111,-57.2
+py,colonia san lazaro,Colonia San Lazaro,07,,-22.166667,-57.916667
+py,colonia san marcos,Colonia San Marcos,08,,-25.333333,-56.666667
+py,colonia san pedro,Colonia San Pedro,17,,-24.433333,-56.416667
+py,colonia san roque,Colonia San Roque,04,,-24.833333,-55.683333
+py,colonia santa catalina,Colonia Santa Catalina,04,,-25.166667,-56.316667
+py,colonia santa gaboto,Colonia Santa Gaboto,13,,-26.266667,-57.983333
+py,colonia santa isabel,Colonia Santa Isabel,04,,-25.466667,-56.7
+py,colonia santa isabel,Colonia Santa Isabel,15,,-25.733333,-56.95
+py,colonia santa maria,Colonia Santa Maria,01,,-24.766667,-55.016667
+py,colonia santo domingo,Colonia Santo Domingo,11,,-27.316667,-56.033333
+py,colonia sargento dure,Colonia Sargento Duré,02,,-22.166667,-56.45
+py,colonia sargento jose e. lopez,Colonia Sargento José E. Lopéz,07,,-22.383333,-56.933333
+py,colonia schoental,Colonia Schoental,24,,-22.366667,-59.916667
+py,colonia sebastian gaboto,Colonia Sebastián Gaboto,13,,-26.3,-57.966667
+py,colonia serafini,Colonia Serafini,04,,-25.566667,-56.766667
+py,colonia s. escobar,Colonia S. Escobar,10,,-25.85,-56.733333
+py,colonia sierra leon,Colonia Sierra León,23,,-19.683333,-60.85
+py,colonia siete de agosto,Colonia Siete de Agosto,11,,-26.383333,-54.9
+py,colonia siete montes,Colonia Siete Montes,19,,-24.2,-55.833333
+py,colonia somerfield,Colonia Somerfield,04,,-25.433333,-55.716667
+py,colonia sommerfeld,Colonia Sommerfeld,04,,-25.433333,-55.716667
+py,colonia stica,Colonia Stica,08,,-25.55,-56.883333
+py,colonia stroessner,Colonia Stroessner,01,,-25.483333,-54.75
+py,colonia sudetia,Colonia Sudetia,10,,-25.716667,-56.033333
+py,colonia tacuara,Colonia Tacuara,19,,-24.5,-55.716667
+py,colonia tacuari,Colonia Tacuarí,11,,-27.266667,-55.866667
+py,colonia tacuruty,Colonia Tacuruty,15,,-25.983333,-56.883333
+py,colonia tanarandy,Colonia Tañarandy,12,,-26.9,-57.083333
+py,colonia tavapy ii,Colonia Tavapy II,01,,-25.65,-54.933333
+py,colonia tendal,Colonia Tendal,19,,-24.05,-55.566667
+py,colonia teniente a. dakak,Colonia Teniente A. Dakak,08,,-25.583333,-56.816667
+py,colonia teniente a. dakan,Colonia Teniente A. Dakan,08,,-25.583333,-56.816667
+py,colonia teniente alfonso rojas,Colonia Teniente Alfonso Rojas,15,,-26.333333,-57.183333
+py,colonia teniente farina,Colonia Teniente Farina,08,,-25.3,-57.1
+py,colonia teniente rojas,Colonia Teniente Rojas,15,,-26.333333,-57.183333
+py,colonia teniente tristan a. zalazar,Colonia Teniente Tristán A. Zalazar,12,,-26.683333,-57.1
+py,colonia teniente tristan,Colonia Teniente Tristan,12,,-26.683333,-57.1
+py,colonia thompson,Colonia Thompson,06,,-25.45,-57.5
+py,colonia thomson,Colonia Thomson,06,,-25.45,-57.5
+py,colonia tres palos,Colonia Tres Palos,02,,-22.45,-55.933333
+py,colonia trinacria,Colonia Trinacria,17,,-24.366667,-56.6
+py,colonia tuyu cue,Colonia Tuyu Cué,13,,-27.116667,-58.433333
+py,colonia valois rivarola,Colonia Valois Rivarola,05,,-26.266667,-56.75
+py,colonia veinticinco de diciembre,Colonia Veinticinco de Diciembre,17,,-24.7,-56.55
+py,colonia veinticinco de noviembre,Colonia Veinticinco de Noviembre,04,,-25.483333,-56.5
+py,colonia veintiuno de julio,Colonia Veintiuno de Julio,08,,-25.283333,-57.05
+py,colonia virgen de fatima,Colonia Virgen de Fátima,15,,-25.883333,-57.166667
+py,colonia volendam,Colonia Volendam,17,,-24.25,-57.033333
+py,colonia walter insfran,Colonia Walter Insfran,04,,-25.466667,-56.1
+py,colonia yacubo,Colonia Yacubó,05,,-26.283333,-55.983333
+py,colonia yacy cora,Colonia Yacy Corá,19,,-24.083333,-54.433333
+py,colonia yapepo isla,Colonia Yapepó Isla,05,,-26.1,-56.05
+py,colonia ybycui,Colonia Ybycuí,19,,-23.716667,-55.5
+py,colonia yby pe,Colonia Yby Pé,17,,-24.016667,-56.5
+py,colonia ybypyte,Colonia Ybypyté,02,,-22.983333,-56
+py,colonia yby yu,Colonia Yby Yu,02,,-22.816667,-55.783333
+py,colonia yguazu,Colonia Yguazú,01,,-25.45,-55
+py,colonia yoaijhu,Colonia Yoaijhú,17,,-24.266667,-56.483333
+py,comis,Comis,05,,-26.05,-55.4
+py,compania canada,Compañía Cañada,07,,-23.305556,-57.254167
+py,compania curunai,Compañia Curuñai,11,,-27.1,-56.483333
+py,compania curuzu nu,Compañía Curuzu Nú,07,,-23.240556,-57.390556
+py,compania gumersindo sosa,Compañía Gumersindo Sosa,07,,-23.399167,-57.018611
+py,compania laguna,Compañía Laguna,01,,-24.983333,-55.05
+py,compania potrero romero,Compañía Potrero Romero,07,,-23.325833,-57.357222
+py,compania resquin cue,Compañía Resquín Cué,11,,-27.25,-56.233333
+py,compania salinas cue,Compañía Salinas Cué,07,,-23.273056,-57.073889
+py,compania san antonio,Compañía San Antonio,07,,-23.430278,-57.322222
+py,compania san jose,Compañía San Jose,17,,-23.937222,-57.063333
+py,compania yhugua guazu,Compañía Yhuguá Guazú,07,,-23.152222,-57.245556
+py,compania ytu,Compañía Ytú,01,,-24.95,-55.2
+py,compania zanja cue,Compañía Zanja Cué,07,,-23.262222,-57.228611
+py,comparada,Comparada,17,,-24.183333,-57.183333
+py,comunidad,Comunidad,19,,-23.933333,-55.5
+py,concepcion,Concepción,07,48127,-23.406389,-57.434444
+py,concordia,Concordia,16,,-24.2,-57.7
+py,cooperativa lagerenza,Cooperativa Lagerenza,23,,-19.7,-60.966667
+py,cooper,Cooper,16,,-23.05,-57.716667
+py,cora cue,Corá Cué,13,,-25.933333,-57.65
+py,coratei,Coratei,12,,-27.416667,-56.933333
+py,coronel bogado,Coronel Bogado,11,9831,-27.183333,-56.3
+py,coronel eugenio a. garay,Coronel Eugenio A. Garay,10,,-25.916667,-56.183333
+py,coronel jose f. bogado,Coronel Jose F. Bogado,11,,-27.183333,-56.3
+py,coronel martinez,Coronel Martínez,08,,-25.383333,-57.116667
+py,coronel martinez,Coronel Martínez,10,1359,-25.75,-56.616667
+py,coronel oviedo,Coronel Oviedo,04,51291,-25.416667,-56.45
+py,cororo,Cororo,17,,-23.466667,-56.516667
+py,corpus christi,Corpus Christi,19,1387,-24.033333,-54.833333
+py,corpus cristi viejo,Corpus Cristi Viejo,19,,-24.083333,-54.933333
+py,corral,Corral,16,,-23.433333,-58.5
+py,corral de los paraguayos,Corral de los Paraguayos,16,,-23.833333,-60.15
+py,corralito,Corralito,16,,-23.5,-57.65
+py,corralon,Corralón,16,,-23.533333,-57.933333
+py,correa,Correa,24,,-23.4,-60.7
+py,cosme,Cosme,10,,-25.566667,-56.283333
+py,costa barrio,Costa Barrio,10,,-25.683333,-56.583333
+py,costa,Costa,16,,-25.016667,-57.516667
+py,costa mercado,Costa Mercado,10,,-25.716667,-56.533333
+py,costa pena,Costa Peña,15,,-25.833333,-57
+py,costa pucu,Costa Pucú,13,,-26.95,-58.2
+py,costa rosado,Costa Rosado,13,,-26.666667,-57.916667
+py,creyo-cue,Creyo-cué,15,,-25.633333,-56.766667
+py,cristo rey,Cristo Rey,04,,-25.566667,-56.666667
+py,cruce dolores,Cruce Dolores,01,,-25.85,-55.116667
+py,cruce margarita,Cruce Margarita,01,,-25.633333,-54.983333
+py,cuatro de julio,Cuatro de Julio,23,,-20.133333,-58.183333
+py,cuatro mojones,Cuatro Mojones,06,,-25.333333,-57.583333
+py,curuguaty,Curuguaty,19,11096,-24.516667,-55.7
+py,curumbatay,Curumbatay,04,,-24.566667,-55.783333
+py,curunai,Curuñai,11,,-27.1,-56.483333
+py,curupaity,Curupaity,13,,-27.116667,-58.616667
+py,curupayty,Curupayty,01,,-25.366667,-54.65
+py,curupayty,Curupayty,12,,-26.85,-56.783333
+py,curupayty,Curupayty,13,,-27.116667,-58.616667
+py,curupayty,Curupayty,23,,-20.233333,-58.283333
+py,curupayty,Curupayty,24,,-23.466667,-61.033333
+py,curuzuaba,Curuzúabá,13,,-27.25,-57.833333
+py,curuzu,Curuzú,13,,-27.133333,-58.65
+py,delegacion de gobierno,Delegación de Gobierno,16,,-23.5,-58.766667
+py,delfin,Delfin,07,,-23.25,-57.466667
+py,delicia,Delicia,24,,-22.9,-61.733333
+py,delicias,Delicias,24,,-22.9,-61.733333
+py,deolinda,Deolinda,16,,-23.433333,-58.366667
+py,desmochado,Desmochado,13,,-27.116667,-58.1
+py,desmochados,Desmochados,13,240,-27.116667,-58.1
+py,destacamento general p. colman,Destacamento General P. Colman,23,,-20.383333,-60.516667
+py,destacamento militar numero dos parque cue,Destacamento Militar Número Dos Parque Cué,24,,-20.216667,-61.8
+py,diarte,Diarte,15,,-25.816667,-56.833333
+py,diez caballos,Diez Caballos,16,,-23.616667,-59.966667
+py,doctor botrell,Doctor Botrell,10,246,-25.583333,-56.316667
+py,doctor cecilio baez,Doctor Cecilio Báez,04,1978,-25.05,-56.316667
+py,doctor j. leon mallorquin,Doctor J. León Mallorquín,01,,-25.4,-55.266667
+py,doctor juan leon mallorquin,Doctor Juan León Mallorquín,01,7489,-25.4,-55.266667
+py,doctor juan manuel frutos,Doctor Juan Manuel Frutos,04,4798,-25.366667,-55.8
+py,doctor juan m. frutos,Doctor Juan M. Frutos,04,,-25.366667,-55.8
+py,doctor pedro p. pena,Doctor Pedro P. Peña,24,5043,-22.45,-62.35
+py,doctor raul pena,Doctor Raúl Peña,01,,-26.1,-55.183333
+py,dolores,Dolores,05,,-26.366667,-55.883333
+py,domingo m. irala,Domingo M. Irala,01,,-25.9,-54.716667
+py,dorado,Dorado,24,,-21.616667,-61.916667
+py,dos hermanas,Dos Hermanas,01,,-25.233333,-54.5
+py,dos tuscas,Dos Tuscas,24,,-22.916667,-61.85
+py,duarte,Duarte,15,,-25.816667,-56.833333
+py,edelira,Edelira,11,1699,-26.75,-55.266667
+py,el atajado,El Atajado,24,,-22.1,-62.366667
+py,el cuervo,El Cuervo,16,,-23.833333,-60.366667
+py,el galpon,El Galpón,24,,-22.566667,-62.216667
+py,el kastro,El Kastro,24,,-22.366667,-62.5
+py,el mojon,El Mojón,16,,-24.033333,-60.383333
+py,el paraiso,El Paraíso,13,,-25.833333,-57.8
+py,el pocito,El Pocito,24,,-23.4,-60.883333
+py,el quemado,El Quemado,16,,-24.5,-59.083333
+py,el rastro,El Rastro,24,,-22.333333,-62.483333
+py,el trebol,El Trébol,16,,-25.066667,-57.833333
+py,elvira,Elvira,16,,-23.933333,-57.75
+py,emboscada,Emboscada,08,5911,-25.15,-57.35
+py,emiliano,Emiliano,16,,-24.933333,-57.266667
+py,encarnacion,Encarnación,11,74991,-27.333333,-55.9
+py,enramadita,Enramadita,05,,-26.166667,-55.683333
+py,entre rios,Entre Ríos,24,,-23.033333,-61.933333
+py,escobar,Escobar,15,234,-25.65,-57.016667
+py,escobar,Escobar,24,,-22.3,-61.316667
+py,esmeralda,Esmeralda,16,,-23.616667,-58.466667
+py,espectro,Espectro,24,,-22.483333,-61.45
+py,esperanza,Esperanza,02,,-22.333333,-56.133333
+py,esperanza,Esperanza,23,,-20.433333,-58.1
+py,espinilla,Espinilla,16,,-25.183333,-57.766667
+py,espinillar,Espinillar,16,,-25.183333,-57.766667
+py,espinillo,Espinillo,12,,-27.183333,-57.2
+py,espinillo,Espinillo,16,,-25,-57.95
+py,esquina,Esquina,16,,-23.533333,-58.083333
+py,establecimento nanducua,Establecimento Ñanducuá,07,,-22.966667,-56.683333
+py,establecimento randacua,Establecimento Randacua,07,,-22.966667,-56.683333
+py,establecimiento aquino puentecito,Establecimiento Aquino Puentecito,04,,-25.283333,-55.95
+py,establecimiento cabanas,Establecimiento Cabañas,15,,-26.4,-56.883333
+py,establecimiento ganadero torocay,Establecimiento Ganadero Torocay,04,,-25.283333,-55.916667
+py,establecimiento kenneth,Establecimiento Kenneth,15,,-26.15,-56.733333
+py,establecimiento la norma,Establecimiento La Norma,15,,-25.633333,-57.15
+py,establecimiento mil,Establecimiento Mil,24,,-22.366667,-62.266667
+py,establecimiento noguera,Establecimiento Noguera,15,,-26.283333,-56.816667
+py,establecimiento ortiz,Establecimiento Ortiz,15,,-26.15,-56.783333
+py,establecimiento primavera,Establecimiento Primavera,08,,-25.033333,-56.983333
+py,establecimiento sanaoria,Establecimiento Sanaóría,15,,-26.283333,-56.966667
+py,establecimiento san jose,Establecimiento San José,12,,-26.866667,-56.9
+py,establecimiento san luis,Establecimiento San Luis,12,,-26.933333,-56.95
+py,establecimito juan benitez,Establecimito Juan Benitez,11,,-27.1,-56.316667
+py,establicimiento santa irene,Establicimiento Santa Irene,04,,-25.1,-56.166667
+py,estacion charara,Estación Charara,10,,-25.916667,-56.183333
+py,estacion isla corazon,Estación Isla Corazón,23,,-21.066667,-58.4
+py,estacion jose fassardi,Estación José Fassardi,10,,-25.95,-56.1
+py,estacion san salvador,Estación San Salvador,10,,-25.9,-56.483333
+py,estancia adelina,Estancia Adelina,16,,-22.066667,-59.1
+py,estancia agatape,Estancia Agatapé,13,,-26.116667,-58.05
+py,estancia agualinda,Estancia Agualinda,16,,-23.883333,-59.983333
+py,estancia aguaray-mi,Estancia Aguaray-mí,17,,-23.566667,-56.316667
+py,estancia aguirre,Estancia Aguirre,12,,-26.833333,-57.55
+py,estancia alambre tuajha,Estancia Alambre Tuajhá,07,,-23.116667,-56.366667
+py,estancia albardon,Estancia Albardón,12,,-26.833333,-57.466667
+py,estancia alborada,Estancia Alborada,16,,-23.666667,-58.383333
+py,estancia alegria,Estancia Alegría,16,,-24.7,-57.616667
+py,estancia alfonso xiii,Estancia Alfonso XIII,15,,-25.65,-57.083333
+py,estancia algarrobo,Estancia Algarrobo,16,,-24.583333,-58.133333
+py,estancia alina,Estancia Alina,16,,-24.616667,-58.016667
+py,estancia amalia,Estancia Amalia,16,,-22.583333,-59.15
+py,estancia ana berta,Estancia Ana Berta,16,,-24.3,-58.133333
+py,estancia andrada,Estancia Andrada,08,,-25.3,-56.566667
+py,estancia angua,Estancia Anguá,12,,-26.883333,-57.4
+py,estancia antonio maki,Estancia Antonio Maki,08,,-25.216667,-57.05
+py,estancia anuncia,Estancia Anuncia,16,,-24.283333,-57.15
+py,estancia apsa,Estancia Apsa,15,,-26.016667,-56.75
+py,estancia aquino-cue,Estancia Aquino-cué,13,,-26.533333,-58.283333
+py,estancia aquino,Estancia Aquino,13,,-26.966667,-57.9
+py,estancia arambulo,Estancia Arámbulo,02,,-22.8,-56.566667
+py,estancia ararapo,Estancia Ararapó,24,,-21.316667,-61.133333
+py,estancia ardeba,Estancia Ardeba,07,,-22.9,-56.55
+py,estancia armonia,Estancia Armonia,16,,-23.683333,-58.933333
+py,estancia arroyo blanco,Estancia Arroyo Blanco,02,,-23.216667,-56.116667
+py,estancia arroyo primero,Estancia Arroyo Primero,02,,-22.283333,-56.55
+py,estancia aurora,Estancia Aurora,16,,-23.316667,-58.066667
+py,estancia avarenga,Estancia Avarenga,11,,-27.05,-56.2
+py,estancia barbero,Estancia Barbero,16,,-24.916667,-57.583333
+py,estancia barboza,Estancia Barboza,11,,-26.783333,-56.433333
+py,estancia barrero,Estancia Barrero,23,,-20.966667,-57.883333
+py,estancia barrero grande,Estancia Barrero Grande,23,,-21.066667,-58.083333
+py,estancia barrios canal,Estancia Barrios Canal,15,,-26.1,-56.85
+py,estancia becalde-cue,Estancia Becalde-cué,07,,-23.05,-57.45
+py,estancia bedoya-cue,Estancia Bedoya-cué,02,,-22.683333,-56.683333
+py,estancia belen-cue,Estancia Belén-cué,17,,-23.766667,-57.05
+py,estancia belen,Estancia Belén,05,,-26.416667,-56.583333
+py,estancia belen,Estancia Belén,16,,-24.583333,-57.416667
+py,estancia bella vista,Estancia Bella Vista,04,,-25.483333,-56.65
+py,estancia bella vista,Estancia Bella Vista,16,,-23.193889,-57.815833
+py,estancia berta,Estancia Berta,24,,-22.55,-61.033333
+py,estancia betty,Estancia Betty,16,,-24.55,-58.816667
+py,estancia blanca,Estancia Blanca,16,,-23.533333,-58.65
+py,estancia boca-i,Estancia Boca-í,16,,-24.55,-58.266667
+py,estancia bonanza,Estancia Bonanza,16,,-23.883333,-59.4
+py,estancia boqueron,Estancia Boquerón,05,,-26.416667,-56.183333
+py,estancia borja,Estancia Borja,12,,-26.75,-56.85
+py,estancia bottrell,Estancia Bottrell,04,,-25.3,-56.516667
+py,estancia bretona,Estancia Bretona,16,,-23.315,-57.565
+py,estancia brusqueti,Estancia Brusqueti,24,,-21.25,-61.3
+py,estancia buena suerte,Estancia Buena Suerte,16,,-23.766667,-59.133333
+py,estancia buena vista,Estancia Buena Vista,12,,-26.583333,-57.066667
+py,estancia buena vista,Estancia Buena Vista,16,,-22.933333,-58.466667
+py,estancia buena vista,Estancia Buena Vista,23,,-19.916667,-58.2
+py,estancia caa cara-i,Estancia Caa Cara-í,12,,-27.2,-56.833333
+py,estancia caa cora,Estancia Caá Corá,12,,-26.666667,-56.8
+py,estancia caacupe,Estancia Caacupe,23,,-20.333333,-58.533333
+py,estancia caa poi,Estancia Caa Poí,12,,-26.5,-56.983333
+py,estancia caapucu-mi,Estancia Caapucú-mí,12,,-26.916667,-57.15
+py,estancia caaty cue,Estancia Caaty Cue,12,,-26.7,-56.75
+py,estancia caatygue,Estancia Caatygue,12,,-26.7,-56.75
+py,estancia caballero,Estancia Caballero,12,,-26.65,-56.916667
+py,estancia cabanas,Estancia Cabañas,07,,-22.866667,-57.65
+py,estancia cabarai,Estancia Cabaraí,23,,-20.316667,-58.35
+py,estancia cabeza de tigre,Estancia Cabeza de Tigre,16,,-23.383333,-59.533333
+py,estancia cabral cue,Estancia Cabral Cué,12,,-26.783333,-56.8
+py,estancia caceres cue,Estancia Caceres Cué,16,,-22.983333,-58.233333
+py,estancia cagata,Estancia Cagatá,07,,-22.916667,-56.25
+py,estancia cali,Estancia Cali,07,,-23.067778,-57.003056
+py,estancia camalote,Estancia Camalote,15,,-26.266667,-57.6
+py,estancia campana,Estancia Campana,02,,-23,-55.85
+py,estancia campichuelo,Estancia Campichuelo,23,,-21.05,-58.233333
+py,estancia campo aroma,Estancia Campo Aroma,24,,-22.183333,-60.066667
+py,estancia campo azul,Estancia Campo Azul,24,,-23.666667,-61.1
+py,estancia campo i,Estancia Campo I,24,,-22.2,-60.516667
+py,estancia campo leon,Estancia Campo León,16,,-22.566667,-59.5
+py,estancia campo lima,Estancia Campo Lima,24,,-23.25,-60.066667
+py,estancia campo loa,Estancia Campo Loa,24,,-22.35,-60.5
+py,estancia campo sastre,Estancia Campo Sastre,23,,-22,-58.516667
+py,estancia cana de castilla,Estancia Caña de Castilla,16,,-24.4,-58.583333
+py,estancia canaverales,Estancia Cañaverales,16,,-22.266667,-58.8
+py,estancia canete cue,Estancia Cañete Cué,12,,-26.516667,-56.9
+py,estancia capiipobo,Estancia Capiípobó,16,,-24.816667,-57.216667
+py,estancia capitan carmelo peralta,Estancia Capitán Carmelo Peralta,23,,-20.1,-58.183333
+py,estancia capurro,Estancia Capurro,12,,-26.7,-56.85
+py,estancia caracol,Estancia Caracol,07,,-22.3,-57.016667
+py,estancia carai,Estancia Carai,12,,-27.2,-56.833333
+py,estancia carambola,Estancia Carambola,16,,-24.366667,-58.366667
+py,estancia carandayty,Estancia Carandayty,08,,-25.1,-57.4
+py,estancia cara u,Estancia Cara ü,16,,-22.983333,-59.5
+py,estancia caraya,Estancia Carayá,15,,-25.616667,-57.233333
+py,estancia caraya vuelta,Estancia Carayá Vuelta,16,,-23.121667,-57.6375
+py,estancia cardus,Estancia Cardús,15,,-25.733333,-57.116667
+py,estancia caridad,Estancia Caridad,16,,-23.783333,-59.316667
+py,estancia carmelita,Estancia Carmelita,12,,-26.733333,-57.283333
+py,estancia carmencita,Estancia Carmencita,16,,-24.1,-58.866667
+py,estancia carumbe,Estancia Carumbé,04,,-25.55,-56.666667
+py,estancia cascada,Estancia Cascada,02,,-22.533333,-56.233333
+py,estancia casilda,Estancia Casilda,23,,-22.216667,-57.933333
+py,estancia casualidad,Estancia Casualidad,16,,-22.983333,-59.833333
+py,estancia casualidad,Estancia Casualidad,23,,-21.05,-58.116667
+py,estancia casuarina,Estancia Casuarina,24,,-22.916667,-59.966667
+py,estancia catorce de mayo,Estancia Catorce de Mayo,16,,-22.833333,-58.283333
+py,estancia cazal cue,Estancia Cazal Cué,07,,-22.866667,-56.816667
+py,estancia ceibo,Estancia Ceibo,16,,-22.966667,-59.583333
+py,estancia celia,Estancia Celia,16,,-24.516667,-57.1
+py,estancia centurion,Estancia Centurión,07,,-22.3,-57.55
+py,estancia cerrito amakera,Estancia Cerrito Amakera,16,,-23.783333,-58.983333
+py,estancia cerrito,Estancia Cerrito,11,,-26.9,-56.483333
+py,estancia cerrito,Estancia Cerrito,12,,-26.933333,-57.133333
+py,estancia cerrito,Estancia Cerrito,16,,-23.680833,-57.756667
+py,estancia cerrito jara,Estancia Cerrito Jara,23,,-19.766667,-58.2
+py,estancia cerro cora,Estancia Cerro Corá,07,,-22.9,-56.7
+py,estancia cerro cora,Estancia Cerro Corá,23,,-20.283333,-58.283333
+py,estancia cerro memby,Estancia Cerro Memby,07,,-22.983333,-56.45
+py,estancia chamacoco,Estancia Chamacoco,23,,-21.9,-58.983333
+py,estancia chovoreca,Estancia Chovoreca,23,,-20.85,-59.1
+py,estancia ciervo,Estancia Ciervo,16,,-24.45,-57.983333
+py,estancia ciervo,Estancia Ciervo,17,,-23.7,-56.2
+py,estancia clarita,Estancia Clarita,16,,-24.65,-58.766667
+py,estancia coco laguna,Estancia Coco Laguna,23,,-21.816667,-58.666667
+py,estancia coe puajhu,Estancia Coé Puajhú,24,,-20.666667,-61.95
+py,estancia coeyu,Estancia Coeyú,16,,-23.930833,-57.733889
+py,estancia colon,Estancia Colón,16,,-23.195833,-57.603889
+py,estancia colo o,Estancia Colo ó,02,,-23.65,-55.7
+py,estancia concepcion,Estancia Concepción,12,,-26.75,-56.766667
+py,estancia copacar,Estancia Copacar,16,,-25.166667,-57.566667
+py,estancia cora-i,Estancia Cora-í,16,,-22.9,-59
+py,estancia corazon,Estancia Corazón,23,,-21.066667,-58.4
+py,estancia corralito,Estancia Corralito,07,,-22.75,-56.683333
+py,estancia corralito,Estancia Corralito,16,,-24.583333,-58.216667
+py,estancia corralon,Estancia Corralón,16,,-23.533333,-57.933333
+py,estancia cuarenta,Estancia Cuarenta,23,,-20.666667,-58
+py,estancia cuatro ciervo,Estancia Cuatro Ciervo,16,,-24.966667,-58.033333
+py,estancia cuatro de mayo,Estancia Cuatro de Mayo,17,,-23.586944,-57.137222
+py,estancia cunatai,Estancia Cunataí,23,,-21.566667,-57.966667
+py,estancia curupayty,Estancia Curupayty,23,,-20.233333,-58.283333
+py,estancia curuzu,Estancia Curuzu,17,,-24.366667,-56.183333
+py,estancia del carmen,Estancia del Carmen,16,,-23.033333,-58.933333
+py,estancia delfin,Estancia Delfín,07,,-23.25,-57.466667
+py,estancia delia clara,Estancia Delia Clara,15,,-25.7,-57.166667
+py,estancia del medio,Estancia del Medio,16,,-24.033333,-57.5
+py,estancia del socorro,Estancia del Socorro,24,,-21.329444,-61.226389
+py,estancia deolinda,Estancia Deolinda,16,,-23.433333,-58.366667
+py,estancia diana,Estancia Diana,16,,-23.711111,-57.894444
+py,estancia dojavina,Estancia Dojavina,24,,-21.516667,-61.183333
+py,estancia doldan,Estancia Doldán,05,,-26.733333,-56.433333
+py,estancia don felipe feltes,Estancia Don Felipe Feltes,23,,-21.166667,-58.766667
+py,estancia dos banderas,Estancia Dos Banderas,24,,-22.45,-60.35
+py,estancia douglas,Estancia Douglas,16,,-23.383333,-59.533333
+py,estancia duarte cue,Estancia Duarte Cué,02,,-22.433333,-56.583333
+py,estancia el buen amigo,Estancia El Buen Amigo,16,,-23.55,-58.783333
+py,estancia el dorado,Estancia El Dorado,24,,-21.316667,-61.583333
+py,estancia eleonora,Estancia Eleonora,24,,-22.083333,-61.6
+py,estancia el pampero,Estancia El Pampero,24,,-21.003889,-61.772222
+py,estancia el pinar,Estancia El Pinar,19,,-24.433333,-55.466667
+py,estancia elvira,Estancia Elvira,16,,-23.933333,-57.75
+py,estancia eriana,Estancia Eriana,24,,-21.433056,-61.384444
+py,estancia escobar,Estancia Escobar,24,,-21.583333,-60.216667
+py,estancia esperanza,Estancia Esperanza,16,,-23.416667,-57.983333
+py,estancia esperanza,Estancia Esperanza,23,,-21.216667,-58.233333
+py,estancia espinillo,Estancia Espinillo,16,,-23.984167,-57.939167
+py,estancia esteche,Estancia Esteche,16,,-25.25,-57.7
+py,estancia esther,Estancia Esther,16,,-24.7,-57.683333
+py,estancia estrella,Estancia Estrella,16,,-24.85,-58.3
+py,estancia estrellas,Estancia Estrellas,07,,-22.166667,-57.7
+py,estancia felicidad,Estancia Felicidad,16,,-24.4,-58.133333
+py,estancia felicita,Estancia Felicita,16,,-24.4,-58.133333
+py,estancia ferko,Estancia Ferko,24,,-20.9,-60.266667
+py,estancia fernando silva,Estancia Fernando Silva,16,,-22.783333,-59.316667
+py,estancia florida,Estancia Florida,08,,-25.133333,-57.016667
+py,estancia florida,Estancia Florida,16,,-23.4,-59.233333
+py,estancia fontana,Estancia Fontana,16,,-24.716667,-58.55
+py,estancia fortuna,Estancia Fortuna,16,,-24.733333,-58.183333
+py,estancia f. paredez,Estancia F. Paredez,16,,-24.383333,-58.616667
+py,estancia gadea,Estancia Gadea,13,,-27.016667,-57.666667
+py,estancia galileo,Estancia Galileo,16,,-25.066667,-57.85
+py,estancia gaona,Estancia Gaona,11,,-27.033333,-56.283333
+py,estancia garay cue,Estancia Garay Cué,07,,-22.716667,-57.366667
+py,estancia gasory,Estancia Gasory,08,,-25.1,-56.833333
+py,estancia gauna cue,Estancia Gauna Cué,07,,-22.966667,-57.1
+py,estancia gauto-cue,Estancia Gauto-cué,12,,-27.233333,-56.766667
+py,estancia gavallo,Estancia Gavallo,16,,-24.116667,-58.8
+py,estancia gavilan,Estancia Gavilán,07,,-22.683333,-56.883333
+py,estancia general diaz,Estancia General Díaz,17,,-24.166667,-57.183333
+py,estancia general diaz,Estancia General Díaz,23,,-21.133333,-58.5
+py,estancia golondrina,Estancia Golondrina,04,,-24.633333,-55.35
+py,estancia gomez,Estancia Gómez,23,,-20.55,-58.783333
+py,estancia gonzalez,Estancia Gonzalez,16,,-23.85,-59.533333
+py,estancia graciela,Estancia Graciela,12,,-26.933333,-57.316667
+py,estancia gran siete,Estancia Gran Siete,24,,-22.516667,-60.616667
+py,estancia guajho,Estancia Guajhó,16,,-22.35,-58.2
+py,estancia guanes,Estancia Guanes,16,,-24.933333,-57.566667
+py,estancia guaviray,Estancia Guaviray,12,,-27.116667,-56.816667
+py,estancia guavjray,Estancia Guavjray,12,,-27.116667,-56.816667
+py,estancia guayacan,Estancia Guayacán,24,,-22,-60.25
+py,estancia guayaki,Estancia Guayaki,16,,-24.4,-58.933333
+py,estancia guazu pyta,Estancia Guazu Pyta,17,,-24.883333,-57.016667
+py,estancia hermosa,Estancia Hermosa,07,,-22.516667,-56.866667
+py,estancia hernandarias,Estancia Hernandarías,24,,-21.898611,-61.421111
+py,estancia herradura,Estancia Herradura,13,,-26.533333,-58.15
+py,estancia inmakata,Estancia Inmakata,23,,-21.1,-58.7
+py,estancia irala,Estancia Irala,13,,-26.1,-57.833333
+py,estancia isla alta,Estancia Isla Alta,13,,-26.883333,-57.716667
+py,estancia isla alta,Estancia Isla Alta,16,,-23.683333,-59.466667
+py,estancia isla corazon,Estancia Isla Corazón,23,,-21.066667,-58.4
+py,estancia isla saca,Estancia Isla Saca,23,,-20.783333,-59.05
+py,estancia isla sola,Estancia Isla Sola,07,,-22.2,-57.8
+py,estancia isla sombrero,Estancia Isla Sombrero,05,,-26.483333,-56.633333
+py,estancia isla yovai,Estancia Isla Yovai,07,,-22.65,-56.966667
+py,estancia itacaru,Estancia Itacarú,17,,-23.6,-57.116667
+py,estancia ita-cua,Estancia Ita-cuá,13,,-26.383333,-57.75
+py,estancia ita-cue,Estancia Ita-cué,13,,-26.383333,-57.75
+py,estancia itacurubi,Estancia Itacurubí,17,,-23.946944,-57.157778
+py,estancia ita reta,Estancia Ita Reta,24,,-21.283333,-61.566667
+py,estancia itati,Estancia Itati,16,,-23.7,-59.85
+py,estancia jara-cue,Estancia Jara-cué,15,,-26.466667,-56.8
+py,estancia jose dolores genes,Estancia José Dolores Genes,16,,-25.233333,-57.633333
+py,estancia josefina,Estancia Josefina,16,,-23.583333,-60.183333
+py,estancia kennedy,Estancia Kennedy,08,,-25.3,-56.716667
+py,estancia kilometro 115,Estancia Kilómetro 115,07,,-22.716667,-58.733333
+py,estancia la abelenda,Estancia La Abelenda,15,,-25.683333,-57.066667
+py,estancia la aguada,Estancia La Aguada,24,,-21.483333,-61.316667
+py,estancia la americana,Estancia La Americana,23,,-21.05,-58.916667
+py,estancia la angelica,Estancia La Angelica,16,,-24.45,-59.366667
+py,estancia la bonita,Estancia La Bonita,16,,-23.683333,-58.8
+py,estancia la chaquena,Estancia La Chaquena,24,,-23.416667,-60.983333
+py,estancia la clementina,Estancia La Clementina,08,,-25.15,-57.166667
+py,estancia la concepcion,Estancia La Concepción,16,,-24.433333,-58.066667
+py,estancia la cuca,Estancia La Cuca,16,,-24.133333,-59.15
+py,estancia la delicia,Estancia La Delicia,16,,-23.55,-58.95
+py,estancia la esmeralda,Estancia La Esmeralda,24,,-21.799722,-61.395556
+py,estancia la esperanza,Estancia La Esperanza,16,,-24.533333,-59.016667
+py,estancia la esperanza,Estancia La Esperanza,24,,-21.535278,-61.274444
+py,estancia la flecha,Estancia La Flecha,16,,-24.666667,-58.65
+py,estancia la golondrina,Estancia La Golondrina,16,,-24.516667,-58.666667
+py,estancia laguna bella,Estancia Laguna Bella,16,,-24.383333,-59.183333
+py,estancia laguna chancho,Estancia Laguna Chancho,16,,-24.783333,-58.533333
+py,estancia laguna,Estancia Laguna,24,,-23.483333,-61.316667
+py,estancia laguna leon,Estancia Laguna León,23,,-21.416667,-58.75
+py,estancia laguna negra,Estancia Laguna Negra,07,,-23.066667,-57.116667
+py,estancia laguna pora,Estancia Laguna Porá,16,,-22.333333,-59.433333
+py,estancia laguna rey,Estancia Laguna Rey,16,,-22.883333,-58.716667
+py,estancia laguna sola,Estancia Laguna Sola,16,,-23.366667,-58.483333
+py,estancia laguna verde,Estancia Laguna Verde,16,,-23.95,-59.816667
+py,estancia lagunita,Estancia Lagunita,04,,-25.266667,-55.933333
+py,estancia la lechiguana,Estancia La Lechiguana,24,,-23.416667,-60.933333
+py,estancia la madelon,Estancia La Madelón,24,,-21.267778,-61.611944
+py,estancia la mariposa,Estancia La Mariposa,24,,-21.721944,-61.346944
+py,estancia lamber,Estancia Lamber,16,,-24.683333,-58.016667
+py,estancia la mocha,Estancia La Mocha,16,,-23.973333,-57.6775
+py,estancia la nena,Estancia La Nena,16,,-23.933333,-58.883333
+py,estancia la novia,Estancia La Novia,16,,-22.983333,-57.733333
+py,estancia la patria,Estancia La Patria,24,,-21.417778,-61.433611
+py,estancia la patricia,Estancia La Patricia,24,,-21.278056,-61.033889
+py,estancia la querencia,Estancia La Querencia,16,,-24.566667,-58.816667
+py,estancia las casnarinas,Estancia Las Casnarinas,12,,-27.083333,-56.8
+py,estancia la selva,Estancia La Selva,16,,-22.916667,-59.133333
+py,estancia las isidoras,Estancia Las Isidoras,16,,-24.1,-59.65
+py,estancia las mellizas,Estancia Las Mellizas,02,,-23.433333,-55.883333
+py,estancia las mellizas,Estancia Las Mellizas,16,,-22.716667,-58.966667
+py,estancia las palmas,Estancia Las Palmas,13,,-25.9,-57.716667
+py,estancia las palmas,Estancia Las Palmas,15,,-26.3,-56.866667
+py,estancia las palmas,Estancia Las Palmas,16,,-24,-59.15
+py,estancia las perlas,Estancia Las Perlas,16,,-23.833333,-59.15
+py,estancia las rosas,Estancia Las Rosas,15,,-25.733333,-57.2
+py,estancia la susana,Estancia La Susana,08,,-25.133333,-57.2
+py,estancia la union,Estancia La Unión,16,,-23.65,-58.366667
+py,estancia laurel,Estancia Laurel,11,,-27.183333,-56.566667
+py,estancia la ventura,Estancia La Ventura,24,,-21.933333,-60.716667
+py,estancia la victoria,Estancia La Victoria,07,,-22.9,-56.266667
+py,estancia la victoria,Estancia La Victoria,16,,-22.983333,-59.15
+py,estancia la victoria,Estancia La Victoria,24,,-22.65,-61.4
+py,estancia lavista,Estancia Lavista,11,,-27.233333,-56.233333
+py,estancia ledesma,Estancia Ledesma,16,,-23.623333,-57.955833
+py,estancia locatti,Estancia Locatti,16,,-24.3,-59.116667
+py,estancia loma,Estancia Loma,04,,-25.583333,-56.516667
+py,estancia loma,Estancia Loma,11,,-26.816667,-56.466667
+py,estancia loma,Estancia Loma,13,,-26.55,-57.783333
+py,estancia loma pora,Estancia Loma Porá,07,,-22.55,-57.383333
+py,estancia loma pora,Estancia Loma Pora,16,,-23.516667,-57.516667
+py,estancia loma pyta,Estancia Loma Pytá,16,,-23.566667,-59.566667
+py,estancia lomas,Estancia Lomas,16,,-24.266667,-58
+py,estancia lomas,Estancia Lomas,17,,-24.616667,-57.116667
+py,estancia loma verde,Estancia Loma Verde,17,,-23.783333,-56.95
+py,estancia lomita,Estancia Lomita,13,,-26.533333,-57.9
+py,estancia lomita,Estancia Lomita,16,,-24.6,-58.366667
+py,estancia lopez cue,Estancia López Cué,08,,-25.033333,-57.2
+py,estancia lorena,Estancia Lorena,24,,-21.379722,-61.260833
+py,estancia los caminantes,Estancia Los Caminantes,24,,-22.566667,-60.683333
+py,estancia los cedros,Estancia Los Cedros,12,,-27.15,-56.783333
+py,estancia los gemelos,Estancia Los Gemelos,16,,-24.25,-59.533333
+py,estancia los hijos,Estancia Los Hijos,24,,-21.600278,-61.181944
+py,estancia los lapachos,Estancia Los Lapachos,16,,-23.3,-58.383333
+py,estancia los laureles,Estancia Los Laureles,23,,-20,-60.666667
+py,estancia los milagros,Estancia Los Milagros,16,,-23.7,-59.7
+py,estancia los sauces,Estancia Los Sauces,24,,-23.25,-61.666667
+py,estancia los tamarindos,Estancia Los Tamarindos,16,,-23.3025,-57.707778
+py,estancia lucipar,Estancia Lucipar,17,,-23.466667,-56.3
+py,estancia lugo cue,Estancia Lugo Cué,08,,-25.083333,-57.216667
+py,estancia luis,Estancia Luis,16,,-24.416667,-58.283333
+py,estancia machuca-cue,Estancia Machuca-cué,07,,-22.716667,-57.083333
+py,estancia magallanes,Estancia Magallanes,16,,-22.783333,-59.15
+py,estancia malberti,Estancia Malberti,04,,-25.683333,-56.65
+py,estancia maldonado,Estancia Maldonado,07,,-22.716667,-56.816667
+py,estancia maldonado,Estancia Maldonado,23,,-20.4,-58.533333
+py,estancia mamo rei,Estancia Mamo Reí,16,,-25.116667,-57.783333
+py,estancia mancuello,Estancia Mancuello,07,,-22.933333,-57.016667
+py,estancia margarita,Estancia Margarita,08,,-25.133333,-57.233333
+py,estancia maria auxiliadora,Estancia María Auxiliadora,24,,-21.294167,-61.165556
+py,estancia maria ester,Estancia Maria Ester,11,,-26.833333,-56.616667
+py,estancia maria luisa,Estancia María Luisa,24,,-21.616667,-61.916667
+py,estancia maria stella,Estancia Maria Stella,05,,-26.316667,-56.516667
+py,estancia maria vicenta,Estancia María Vicenta,24,,-20.983333,-61.433333
+py,estancia mari christie,Estancia Mari Christie,24,,-21.381667,-61.257222
+py,estancia marin-cuu,Estancia Marín-Cuú,04,,-25.083333,-55.6
+py,estancia marlene,Estancia Marlene,16,,-23.516667,-58.366667
+py,estancia maroma,Estancia Maroma,16,,-23.55,-57.9
+py,estancia marona,Estancia Marona,16,,-23.55,-57.9
+py,estancia marta ester,Estancia Marta Ester,11,,-26.833333,-56.616667
+py,estancia marta lidia,Estancia Marta Lidia,24,,-23.366667,-60.266667
+py,estancia martinez,Estancia Martinez,04,,-25.133333,-56.366667
+py,estancia mary,Estancia Mary,24,,-22.016667,-60.216667
+py,estancia mbigua,Estancia Mbigua,24,,-21.483333,-59.983333
+py,estancia mbutu reta,Estancia Mbutu Reta,24,,-22.3,-61.3
+py,estancia medina-cue,Estancia Medina-cué,07,,-22.733333,-57.016667
+py,estancia medina,Estancia Medina,07,,-22.733333,-57.016667
+py,estancia millon,Estancia Millón,16,,-22.916667,-59.5
+py,estancia mistroll marcado,Estancia Mistroll Marcado,24,,-23.066667,-61.9
+py,estancia molina cue,Estancia Molina Cué,08,,-25.066667,-56.6
+py,estancia montelindo,Estancia Montelindo,16,,-23.95,-57.2
+py,estancia montiel,Estancia Montiel,16,,-22.833333,-59.683333
+py,estancia morales,Estancia Morales,04,,-25.266667,-56.383333
+py,estancia moreno,Estancia Moreno,15,,-26.366667,-56.85
+py,estancia nanawa,Estancia Nanawa,16,,-23.466667,-59.733333
+py,estancia nandu,Estancia Ñandú,24,,-22.55,-60.766667
+py,estancia nandypay,Estancia Nandypay,08,,-25.083333,-56.8
+py,estancia napegue,Estancia Napegue,07,,-22.916667,-57.5
+py,estancia naranjito,Estancia Naranjito,16,,-23.713611,-57.935
+py,estancia navidad,Estancia Navidad,16,,-23.833333,-58.75
+py,estancia nelly victoria,Estancia Nelly Victoria,02,,-22.7,-56.133333
+py,estancia ninfa,Estancia Ninfa,16,,-24.783333,-58.333333
+py,estancia notice,Estancia Notice,23,,-21.683333,-58.466667
+py,estancia nu apu-a,Estancia Nú Apu-á,07,,-22.916667,-56.9
+py,estancia nueva alegria,Estancia Nueva Alegría,16,,-23.55,-59.466667
+py,estancia nueva esperanza,Estancia Nueva Esperanza,12,,-27.083333,-56.983333
+py,estancia nunez,Estancia Nuñez,04,,-24.8,-55.566667
+py,estancia nunez,Estancia Núñez,16,,-24.55,-58.416667
+py,estancia nu pora,Estancia Nú Porá,07,,-23.15,-56.316667
+py,estancia nu pora,Estancia Nú Porá,16,,-24.25,-59.6
+py,estancia nu puajhu,Estancia Nú Puajhú,16,,-23.583333,-59.966667
+py,estancia obraje,Estancia Obraje,16,,-22.416667,-58.5
+py,estancia ocampo-cue,Estancia Ocampo-cué,17,,-23.933333,-56.966667
+py,estancia once de junio,Estancia Once de Junio,16,,-24.55,-59.016667
+py,estancia orihuela,Estancia Orihuela,16,,-23.416667,-58.666667
+py,estancia pablo rene mora,Estancia Pablo Rene Mora,11,,-27.266667,-56.666667
+py,estancia palermo,Estancia Palermo,16,,-23.583333,-58.216667
+py,estancia palmares,Estancia Palmares,24,,-21.916667,-60.75
+py,estancia palma sola,Estancia Palma Sola,15,,-26.133333,-57.066667
+py,estancia palo blanco,Estancia Palo Blanco,16,,-24.133333,-58.75
+py,estancia palo santo,Estancia Palo Santo,16,,-22.166667,-59.283333
+py,estancia pampero,Estancia Pampero,24,,-21.003889,-61.772222
+py,estancia paraiso,Estancia Paraíso,15,,-25.7,-57.1
+py,estancia paredes,Estancia Paredes,16,,-24.216667,-59.183333
+py,estancia paredez,Estancia Paredez,16,,-24.383333,-58.616667
+py,estancia pariri,Estancia Parirí,16,,-25.166667,-57.716667
+py,estancia pastora,Estancia Pastora,08,,-25.25,-56.616667
+py,estancia patria,Estancia Patria,23,,-19.983333,-58.2
+py,estancia pedernal,Estancia Pedernal,16,,-23.783333,-57.166667
+py,estancia pilaga,Estancia Pilaga,16,,-24.5,-58.116667
+py,estancia pilagas,Estancia Pilagas,16,,-24.5,-58.116667
+py,estancia pindoty,Estancia Pindoty,19,,-23.716667,-55.716667
+py,estancia pindura-cue,Estancia Pindura-cué,07,,-22.85,-56.666667
+py,estancia pindura,Estancia Pindura,12,,-27.033333,-56.916667
+py,estancia pirity,Estancia Pirity,11,,-26.933333,-56.333333
+py,estancia pirizal,Estancia Pirizal,16,,-23.366667,-59.766667
+py,estancia piroy,Estancia Piroy,24,,-21.475556,-61.305
+py,estancia pocito,Estancia Pocito,16,,-24.266667,-58.616667
+py,estancia polvorin,Estancia Polvorín,16,,-24.7,-58.266667
+py,estancia ponderosa,Estancia Ponderosa,16,,-23.95,-59.5
+py,estancia porfiria,Estancia Porfiria,23,,-20.05,-58.15
+py,estancia porongo,Estancia Porongo,16,,-23.533333,-59.1
+py,estancia porvenir,Estancia Porvenir,16,,-24.183333,-57.85
+py,estancia potrero,Estancia Potrero,07,,-23.041389,-57.6975
+py,estancia potrillo,Estancia Potrillo,23,,-20.716667,-59.033333
+py,estancia pozo amarillo,Estancia Pozo Amarillo,16,,-22.583333,-59.333333
+py,estancia pozo azul,Estancia Pozo Azul,16,,-24.05,-58.25
+py,estancia pozo azul,Estancia Pozo Azul,23,,-20.25,-58.366667
+py,estancia pozo blanco,Estancia Pozo Blanco,16,,-23.383333,-59.65
+py,estancia pozo brillante,Estancia Pozo Brillante,24,,-23.05,-60.366667
+py,estancia pozo colorado,Estancia Pozo Colorado,16,,-23.433333,-58.966667
+py,estancia pozo indio,Estancia Pozo Indio,16,,-23.816667,-59.433333
+py,estancia pozo leon,Estancia Pozo León,24,,-23.466667,-61.3
+py,estancia pozo milico,Estancia Pozo Milico,24,,-22.25,-62.083333
+py,estancia pozo negro,Estancia Pozo Negro,16,,-23.2,-59.933333
+py,estancia pozo verde,Estancia Pozo Verde,16,,-23.116667,-59.466667
+py,estancia prado verde,Estancia Prado Verde,11,,-26.2,-54.85
+py,estancia primavera,Estancia Primavera,07,,-22.45,-57.633333
+py,estancia primavera,Estancia Primavera,16,,-23.95,-59.866667
+py,estancia primavera,Estancia Primavera,19,,-23.733333,-55.466667
+py,estancia primavera,Estancia Primavera,23,,-21.083333,-58.1
+py,estancia prosperidad,Estancia Prosperidad,07,,-23.041667,-57.157778
+py,estancia puesto lata,Estancia Puesto Lata,23,,-20.683333,-59
+py,estancia punta diamante,Estancia Punta Diamante,13,,-26.85,-57.9
+py,estancia quebrachos,Estancia Quebrachos,16,,-23.766667,-59.583333
+py,estancia ramon davalos,Estancia Ramón Dávalos,11,,-27.033333,-56.433333
+py,estancia ramos,Estancia Ramos,12,,-26.733333,-57.283333
+py,estancia rancho moreno,Estancia Rancho Moreno,02,,-22.733333,-56.033333
+py,estancia rancho quemado,Estancia Rancho Quemado,16,,-23.116667,-59.833333
+py,estancia rancho z,Estancia Rancho Z,07,,-22.866667,-57
+py,estancia recalde-cue,Estancia Recalde-cué,07,,-23.05,-57.45
+py,estancia recife,Estancia Recife,07,,-22.283333,-57.45
+py,estancia reyes cue,Estancia Reyes Cué,07,,-22.35,-57.3
+py,estancia riachito,Estancia Riachito,16,,-23.333333,-58.716667
+py,estancia riacho alegre,Estancia Riacho Alegre,23,,-20.466667,-58.033333
+py,estancia riacho g,Estancia Riacho G,16,,-22.816667,-58.55
+py,estancia rincon charrua,Estancia Rincón Charrúa,16,,-23.3,-59.016667
+py,estancia rio negro,Estancia Río Negro,16,,-25.233333,-57.733333
+py,estancia rio verde,Estancia Río Verde,16,,-23.872222,-57.424167
+py,estancia rio verde,Estancia Rio Verde,17,,-23.866667,-56.133333
+py,estancia rivarola cue,Estancia Rivarola Cué,23,,-21.066667,-57.916667
+py,estancia roja-cue,Estancia Roja-Cué,08,,-25.15,-57.366667
+py,estancia roja silva,Estancia Roja Silva,16,,-22.583333,-59
+py,estancia rosalia,Estancia Rosalia,07,,-22.933333,-57.1
+py,estancia rosario,Estancia Rosario,12,,-26.633333,-56.883333
+py,estancia rubi,Estancia Rubí,16,,-24.2,-59.733333
+py,estancia safari,Estancia Safari,24,,-22.233333,-61.916667
+py,estancia saladillo,Estancia Saladillo,08,,-25.166667,-56.766667
+py,estancia salinares,Estancia Salinares,07,,-23.066667,-57.433333
+py,estancia salitre cue,Estancia Salitre Cué,11,,-26.65,-56.366667
+py,estancia salto cue,Estancia Salto Cué,11,,-26.8,-56.533333
+py,estancia samuhu,Estancia Samuhú,24,,-21.266111,-61.276944
+py,estancia san alfredo,Estancia San Alfredo,02,,-22.466667,-56.433333
+py,estancia san alfredo,Estancia San Alfredo,07,,-23.001944,-57.493333
+py,estancia san antonio,Estancia San Antonio,07,,-23.016667,-56.866667
+py,estancia san antonio,Estancia San Antonio,11,,-27.083333,-56.416667
+py,estancia san antonio,Estancia San Antonio,13,,-26.783333,-57.916667
+py,estancia san antonio,Estancia San Antonio,16,,-24.3,-58.266667
+py,estancia san antonio,Estancia San Antonio,23,,-21.166667,-57.933333
+py,estancia san blas,Estancia San Blas,07,,-22.55,-56.9
+py,estancia san blas,Estancia San Blas,16,,-24.333333,-59.516667
+py,estancia san carlos,Estancia San Carlos,16,,-23.966667,-58.866667
+py,estancia san carlos,Estancia San Carlos,17,,-24.85,-56.9
+py,estancia san diego,Estancia San Diego,07,,-22.983333,-57.566667
+py,estancia sandrina,Estancia Sandrina,24,,-22.65,-61.266667
+py,estancia san elisa,Estancia San Elisa,16,,-22.4,-58.933333
+py,estancia san felipe,Estancia San Felipe,16,,-23.824722,-57.724722
+py,estancia san fernando,Estancia San Fernando,16,,-23.1,-58.5
+py,estancia sanguina,Estancia Sanguina,07,,-22.933333,-56.633333
+py,estancia san heriberto,Estancia San Heriberto,24,,-22.733333,-60.766667
+py,estancia san isidro,Estancia San Isidro,11,,-26.516667,-55.866667
+py,estancia san isidro,Estancia San Isidro,16,,-23.988056,-57.789167
+py,estancia san isidro,Estancia San Isidro,24,,-21.233333,-60.966667
+py,estancia san jorge,Estancia San Jorge,23,,-21.05,-58.1
+py,estancia san jorge,Estancia San Jorge,24,,-22,-60.283333
+py,estancia san jose,Estancia San José,16,,-22.466667,-57.833333
+py,estancia san jose,Estancia San José,23,,-19.55,-60.5
+py,estancia san juan bautista,Estancia San Juan Bautista,16,,-24.666667,-58.783333
+py,estancia san juan,Estancia San Juan,02,,-22.866667,-56.583333
+py,estancia san juan,Estancia San Juan,04,,-25.266667,-55.916667
+py,estancia san juan,Estancia San Juan,12,,-27.15,-56.666667
+py,estancia san juan,Estancia San Juan,16,,-23,-59.566667
+py,estancia san juan,Estancia San Juan,23,,-20.883333,-59.266667
+py,estancia san lorenzo,Estancia San Lorenzo,16,,-23.533333,-59.916667
+py,estancia san luis,Estancia San Luis,05,,-26.533333,-56.783333
+py,estancia san luis,Estancia San Luis,07,,-22.433333,-57.45
+py,estancia san luis,Estancia San Luis,08,,-25.2,-57.35
+py,estancia san luis,Estancia San Luis,16,,-22.983333,-58.766667
+py,estancia san marcos,Estancia San Marcos,08,,-25.266667,-56.683333
+py,estancia san miguel,Estancia San Miguel,02,,-23.3,-56.1
+py,estancia san miguel,Estancia San Miguel,07,,-22.6,-56.883333
+py,estancia san miguel,Estancia San Miguel,16,,-23.716667,-59.966667
+py,estancia san miguel,Estancia San Miguel,17,,-24.316667,-56.383333
+py,estancia san miguel,Estancia San Miguel,23,,-19.466667,-60.55
+py,estancia san miguelito,Estancia San Miguelito,12,,-26.783333,-56.75
+py,estancia san nicolas,Estancia San Nicolás,05,,-26.066667,-56.233333
+py,estancia san onofre,Estancia San Onofre,16,,-23.811667,-57.580278
+py,estancia san pablo,Estancia San Pablo,05,,-26.233333,-56.566667
+py,estancia san patricia,Estancia San Patricia,04,,-25.5,-56.566667
+py,estancia san pedro,Estancia San Pedro,16,,-22.533333,-58.433333
+py,estancia san piero,Estancia San Piero,02,,-23.483333,-55.65
+py,estancia san rafael,Estancia San Rafael,07,,-22.616667,-56.733333
+py,estancia san rafael,Estancia San Rafael,16,,-23.616667,-59.833333
+py,estancia san ramon,Estancia San Ramón,16,,-23.066667,-59
+py,estancia san roque,Estancia San Roque,12,,-26.566667,-56.983333
+py,estancia san roque,Estancia San Roque,16,,-22.35,-59.016667
+py,estancia san sebastian,Estancia San Sebastián,16,,-23.716667,-58.3
+py,estancia san sinfo,Estancia San Sinfó,15,,-26.3,-56.783333
+py,estancia san solano,Estancia San Solano,05,,-26.5,-56.533333
+py,estancia santa ana,Estancia Santa Ana,02,,-23.666667,-55.7
+py,estancia santa ana,Estancia Santa Ana,15,,-26.2,-56.933333
+py,estancia santa ana,Estancia Santa Ana,16,,-23.65,-58.466667
+py,estancia santa ana,Estancia Santa Ana,17,,-24.733333,-56.55
+py,estancia santa arsenia,Estancia Santa Arsenia,16,,-24.133333,-57.766667
+py,estancia santa asuncion,Estancia Santa Asunción,16,,-23.866667,-58.6
+py,estancia santa aurelia,Estancia Santa Aurelia,16,,-24.8,-58.116667
+py,estancia santa catalina,Estancia Santa Catalina,13,,-26.5,-57.733333
+py,estancia santa catalina,Estancia Santa Catalina,16,,-23.65,-58.216667
+py,estancia santa clara,Estancia Santa Clara,07,,-23.219722,-57.5275
+py,estancia santa clara,Estancia Santa Clara,12,,-27.366667,-56.866667
+py,estancia santa elisa,Estancia Santa Elisa,12,,-26.933333,-57.483333
+py,estancia santa elisa,Estancia Santa Elisa,16,,-23.767222,-57.837222
+py,estancia santa emilia,Estancia Santa Emilia,16,,-22.683333,-59.15
+py,estancia santa filomena,Estancia Santa Filomena,12,,-26.733333,-57.383333
+py,estancia santa gabriela,Estancia Santa Gabriela,16,,-23.466667,-58.666667
+py,estancia santa gabriela,Estancia Santa Gabriela,23,,-20.933333,-58.3
+py,estancia santa isabel,Estancia Santa Isabel,16,,-24.633333,-57.783333
+py,estancia santa isolina,Estancia Santa Isolina,13,,-27.15,-57.55
+py,estancia santa jacinta,Estancia Santa Jacinta,16,,-24.883333,-57.666667
+py,estancia santa juanita,Estancia Santa Juanita,16,,-23,-58.5
+py,estancia santa lucia,Estancia Santa Lucía,16,,-24.666667,-57.75
+py,estancia santa lucia,Estancia Santa Lucia,19,,-23.816667,-54.616667
+py,estancia santa luisa,Estancia Santa Luisa,07,,-22.433333,-56.766667
+py,estancia santa maria,Estancia Santa María,07,,-22.75,-57.466667
+py,estancia santa maria,Estancia Santa María,08,,-25.1,-57.266667
+py,estancia santa maria,Estancia Santa María,16,,-23.066667,-59.2
+py,estancia santa maria,Estancia Santa María,17,,-23.535,-57.381111
+py,estancia santa rita,Estancia Santa Rita,23,,-20.85,-58.833333
+py,estancia santa rosa,Estancia Santa Rosa,05,,-26.683333,-56.216667
+py,estancia santa rosa,Estancia Santa Rosa,13,,-26.483333,-58
+py,estancia santa rufina,Estancia Santa Rufina,23,,-20.933333,-58.266667
+py,estancia santa sofia,Estancia Santa Sofía,16,,-24.416667,-59.066667
+py,estancia santa teresa,Estancia Santa Teresa,11,,-26.583333,-55.983333
+py,estancia santa teresa,Estancia Santa Teresa,16,,-24.116667,-59.883333
+py,estancia santa teresa,Estancia Santa Teresa,23,,-21.066667,-59.083333
+py,estancia santo domingo,Estancia Santo Domingo,16,,-23.933333,-59.7
+py,estancia santo domingo,Estancia Santo Domingo,24,,-22.633333,-60.6
+py,estancia santo tomas,Estancia Santo Tomás,12,,-26.583333,-56.883333
+py,estancia san victor,Estancia San Victor,02,,-22.633333,-56.466667
+py,estancia san victor,Estancia San Victor,04,,-25.366667,-56.6
+py,estancia sapira,Estancia Sapira,05,,-26.466667,-56.566667
+py,estancia sapiro,Estancia Sapiro,05,,-26.466667,-56.566667
+py,estancia sarubi,Estancia Sarubi,05,,-26.2,-56.25
+py,estancia scobar,Estancia Scobar,15,,-25.65,-57.016667
+py,estancia sebastian-cue,Estancia Sebastián-cué,16,,-23.283333,-57.616667
+py,estancia seripi,Estancia Seripi,11,,-27.266667,-56.333333
+py,estancia serratti,Estancia Serratti,17,,-23.895833,-57.194444
+py,estancias guazu,Estancias Guazú,16,,-23.533333,-58.266667
+py,estancia siete puntas,Estancia Siete Puntas,16,,-23.633333,-57.433333
+py,estancias la blanca,Estancias La Blanca,16,,-23.783333,-58.133333
+py,estancia sofia,Estancia Sofía,07,,-22.333333,-57.15
+py,estancia soledad,Estancia Soledad,16,,-23.666667,-58.3
+py,estancia soledad,Estancia Soledad,24,,-22.816667,-61.85
+py,estancia sol naciente,Estancia Sol Naciente,23,,-21.033333,-58.866667
+py,estancia sombrero jhovy,Estancia Sombrero Jhovy,16,,-23.666667,-60.383333
+py,estancia sorpresa,Estancia Sorpresa,16,,-24.016667,-60.05
+py,estancia sosa,Estancia Sosa,13,,-26.25,-57.716667
+py,estancia sosa,Estancia Sosa,15,,-26.383333,-56.983333
+py,estancia sosa,Estancia Sosa,16,,-25.233333,-57.716667
+py,estancia sotera,Estancia Sotera,13,,-25.966667,-57.8
+py,estancias paraiso,Estancias Paraiso,16,,-23.716667,-58.133333
+py,estancia surubi,Estancia Surubí,06,,-25.183333,-57.5
+py,estancia tacho cue,Estancia Tacho Cué,07,,-22.2,-57.866667
+py,estancia tacuara,Estancia Tacuara,07,,-23.2,-56.316667
+py,estancia tacuara,Estancia Tacuara,16,,-24.6,-58.033333
+py,estancia tacuara,Estancia Tacuara,17,,-24.566667,-57
+py,estancia tacue,Estancia Tacue,13,,-26.383333,-57.75
+py,estancia tacuru,Estancia Tacuru,17,,-24.183333,-56.95
+py,estancia tagatiya,Estancia Tagatiya,07,,-22.883333,-57.633333
+py,estancia tagatya,Estancia Tagatya,07,,-22.883333,-57.633333
+py,estancia talavera,Estancia Talavera,16,,-23.866667,-58.283333
+py,estancia tanco,Estancia Tanco,16,,-23.1,-58.216667
+py,estancia taruma,Estancia Tarumá,04,,-25.483333,-56.666667
+py,estancia taruma,Estancia Tarumá,05,,-26.316667,-56.166667
+py,estancia taruma,Estancia Tarumá,07,,-23.1,-57.233333
+py,estancia taruma,Estancia Tarumá,16,,-24.633333,-58.05
+py,estancia tatare,Estancia Tatare,11,,-26.983333,-56.616667
+py,estancia tatare,Estancia Tataré,16,,-23.916667,-59.1
+py,estancia teniente prieto,Estancia Teniente Prieto,24,,-21.125833,-61.386389
+py,estancia terrado,Estancia Terrado,07,,-23.283333,-56.3
+py,estancia toja,Estancia Toja,16,,-24.25,-59.383333
+py,estancia toldo cue,Estancia Toldo Cué,07,,-22.433333,-56.7
+py,estancia toldo-cue,Estancia Toldo-Cue,07,,-22.483333,-57.283333
+py,estancia toldo cue,Estancia Toldo Cué,16,,-24.55,-59.166667
+py,estancia toldo grande,Estancia Toldo Grande,16,,-22.883333,-59.333333
+py,estancia tomas cue,Estancia Tomas Cué,16,,-22.616667,-58.716667
+py,estancia toro blanco,Estancia Toro Blanco,16,,-23.983333,-59.333333
+py,estancia toro paso,Estancia Toro Paso,08,,-25.033333,-56.7
+py,estancia totore,Estancia Totoré,07,,-22.966667,-56.766667
+py,estancia trementina,Estancia Trementina,07,,-22.75,-56.85
+py,estancia tres de mayo,Estancia Tres de Mayo,16,,-24.616667,-59.016667
+py,estancia tres lagunas,Estancia Tres Lagunas,23,,-20.783333,-59.466667
+py,estancia tres marias,Estancia Trés Marías,17,,-23.549444,-57.111667
+py,estancia tres reyes,Estancia Tres Reyes,24,,-23.55,-60.683333
+py,estancia tres toritos,Estancia Tres Toritos,23,,-20.766667,-59.116667
+py,estancia triunfo,Estancia Triunfo,23,,-20.683333,-58.016667
+py,estancia tuparenda,Estancia Tuparendá,16,,-22.666667,-58.466667
+py,estancia tuya,Estancia Tuyá,12,,-27.2,-57.166667
+py,estancia typucha,Estancia Typucha,05,,-26.416667,-56.5
+py,estancia ugarte-cue,Estancia Ugarte-cué,07,,-23.016667,-57.35
+py,estancia uruguaita,Estancia Uruguaitá,17,,-24.75,-57.15
+py,estancia uruguaya,Estancia Uruguaya,16,,-23.95,-58.016667
+py,estancia uruguayita,Estancia Uruguayita,17,,-24.75,-57.15
+py,estancia valle-i,Estancia Valle-i,17,,-23.490278,-57.045
+py,estancia vallejos,Estancia Vallejos,16,,-24.016667,-58.983333
+py,estancia vanguardia,Estancia Vanguardia,16,,-23.769167,-57.687222
+py,estancia vargas,Estancia Vargas,15,,-25.85,-57.333333
+py,estancia va y viene,Estancia Va y Viene,16,,-23.676389,-57.571944
+py,estancia verde,Estancia Verde,16,,-23.872222,-57.424167
+py,estancia victoria,Estancia Victoria,16,,-23.7,-58.6
+py,estancia victoriano ortiz,Estancia Victoriano Ortiz,13,,-27.15,-57.316667
+py,estancia villa alegre,Estancia Villa Alegre,16,,-24.3,-58.916667
+py,estancia villa real,Estancia Villa Real,16,,-24.366667,-58.533333
+py,estancia villa rey,Estancia Villa Rey,16,,-24.733333,-57.2
+py,estancia vista alegre,Estancia Vista Alegre,16,,-23.374167,-57.8575
+py,estancia voon leppel,Estancia Voon Leppel,24,,-23.5,-60.433333
+py,estancia wellcome,Estancia Wellcome,24,,-21.338889,-61.293889
+py,estancia yacare,Estancia Yacare,16,,-24.016667,-60.166667
+py,estancia yacua nu,Estancia Yacuá Nú,11,,-27.05,-56.616667
+py,estancia yaguarete,Estancia Yaguarete,24,,-21.356667,-61.225556
+py,estancia yasamathasla,Estancia Yasamathasla,16,,-23.4,-58.6
+py,estancia ybyracapa,Estancia Ybyracapá,17,,-24.5,-57.083333
+py,estancia yesamatahla,Estancia Yesamatahla,16,,-23.4,-58.6
+py,estancia yesamatathia,Estancia Yesamatathia,16,,-23.4,-58.6
+py,estancia yetyty,Estancia Yetyty,16,,-23.569167,-57.653333
+py,estancia yezamathla,Estancia Yezamathla,16,,-23.4,-58.6
+py,estancia ypane,Estancia Ypané,17,,-23.4,-56.35
+py,estancia ypecua,Estancia Ypecuá,08,,-25.05,-57.316667
+py,estancia ytororo,Estancia Ytororó,24,,-23.45,-60.316667
+py,estancia yui,Estancia Yuí,16,,-23.716667,-59.95
+py,estancia yukyry,Estancia Yukyry,16,,-23.664167,-57.6875
+py,estancia zapallo,Estancia Zapallo,02,,-22.533333,-56.533333
+py,estancia zapatero-cue,Estancia Zapatero-cué,07,,-23.283333,-57.35
+py,estancia zarza,Estancia Zarza,05,,-26.65,-56.383333
+py,estancia zunilda,Estancia Zunilda,24,,-23.45,-60.516667
+py,esterito,Esterito,16,,-24.533333,-58.95
+py,estoncia sauce,Estoncia Sauce,15,,-26.383333,-56.983333
+py,estrella,Estrella,07,,-22.166667,-57.7
+py,eusebio ayala,Eusebio Ayala,08,8253,-25.4,-56.966667
+py,fassardi,Fassardi,10,,-25.95,-56.1
+py,favorito,Favorito,16,,-23.083333,-59.883333
+py,federico-cue,Federico-cué,07,,-22.6,-57.25
+py,felicidad,Felicidad,16,,-24.4,-58.133333
+py,felix perez cardozo,Félix Pérez Cardozo,10,536,-25.733333,-56.516667
+py,felix perez cordoza,Felix Perez Cordoza,10,,-25.733333,-56.516667
+py,fernando de la mora,Fernando de la Mora,06,120180,-25.316667,-57.6
+py,filadelfia,Filadelfia,24,8049,-22.35,-60.033333
+py,fiore,Fiore,16,,-25.033333,-58.066667
+py,fiori,Fiori,16,,-25.033333,-58.066667
+py,florentin cue,Florentín Cué,24,,-22.8,-60.566667
+py,florida,Florida,12,,-26.383333,-57.15
+py,florida,Florida,16,,-23.483333,-58.483333
+py,fonciere,Fonciere,07,,-22.483333,-57.8
+py,fondo,Fondo,16,,-24.05,-57.6
+py,fortin camalotes,Fortín Camalotes,16,,-24.133333,-59.55
+py,fortin campos,Fortin Campos,23,,-20.133333,-59.533333
+py,fortin canada oruro,Fortin Canada Oruro,24,,-21.666667,-62.4
+py,fortin caracoles,Fortín Caracoles,16,,-24.133333,-59.55
+py,fortin cerro cora,Fortín Cerro Corá,23,,-20.283333,-58.283333
+py,fortin comondante gimenez,Fortín Comondante Giménez,23,,-20.066667,-58.216667
+py,fortin coronel eugenio garay,Fortín Coronel Eugenio Garay,24,,-20.516667,-62.133333
+py,fortin curupaity,Fortín Curupaity,23,,-20.233333,-58.283333
+py,fortin frias,Fortín Frías,24,,-20.933333,-60.766667
+py,fortin general camacho,Fortín General Camacho,24,,-22.033333,-60.633333
+py,fortin horqueta,Fortín Horqueta,16,,-24.9,-58.3
+py,fortin ingavi,Fortín Ingavi,23,,-19.916667,-60.783333
+py,fortin lopez de filippis,Fortín Lopez de Filippis,24,,-22.033333,-60.633333
+py,fortin mariscal estigarribia,Fortín Mariscal Estigarribia,24,,-22.033333,-60.633333
+py,fortin orihuela,Fortín Orihuela,16,,-23.416667,-58.666667
+py,fortin paria,Fortin Paria,24,,-21.4,-60.783333
+py,fortin patria,Fortín Patria,23,,-19.983333,-58.2
+py,fortin pozo hondo,Fortín Pozo Hondo,24,,-22.3,-62.533333
+py,fortin samaklay,Fortín Samaklay,16,,-23.5,-59.9
+py,fortin san ramon,Fortin San Ramón,24,,-21.1,-60.8
+py,fortin sorpresa,Fortín Sorpresa,16,,-24.016667,-60.05
+py,fortin sorpresa nueva,Fortin Sorpresa Nueva,16,,-24.016667,-60.05
+py,fortin sorpresa viejo,Fortín Sorpresa Viejo,16,,-24.016667,-60.05
+py,fortin tunari,Fortin Tunari,24,,-21.166667,-60.533333
+py,fram,Fram,11,3916,-26.983333,-55.883333
+py,franca,Franca,13,,-26.283333,-58.2
+py,frias,Frías,24,,-20.933333,-60.766667
+py,fuerte olimpo,Fuerte Olimpo,23,2478,-21.033333,-57.9
+py,fuerte san carlos,Fuerte San Carlos,07,,-22.266667,-57.333333
+py,fulgendo r. moreno,Fulgendo R. Moreno,24,,-23.133333,-60.05
+py,galileo,Galileo,16,,-25.066667,-57.883333
+py,galpones,Galpones,13,,-26.2,-58.15
+py,ganadera,Ganadera,24,,-23.5,-60.433333
+py,gaona-cue,Gaona-cué,07,,-22.966667,-57.1
+py,garay-cue,Garay-cué,13,,-26.433333,-57.816667
+py,garcete,Garcete,16,,-25.05,-58.033333
+py,garrapata,Garrapata,23,,-19.7,-58.716667
+py,garros cue,Garros Cue,13,,-26.616667,-58.283333
+py,gaspar-cue,Gaspar-cué,16,,-24.466667,-58.316667
+py,gauto-cue,Gauto-cué,12,,-27.233333,-56.766667
+py,gavilan,Gavilán,07,,-22.683333,-56.883333
+py,gazpar-cue,Gazpar-cué,16,,-24.466667,-58.316667
+py,general aquino,General Aquino,17,,-24.433333,-56.7
+py,general artigas,General Artigas,11,4073,-26.933333,-56.216667
+py,general delgado,General Delgado,11,1544,-27.166667,-56.516667
+py,general dias,General Días,17,,-24.166667,-57.183333
+py,general diaz,General Díaz,01,,-25.2,-54.466667
+py,general diaz,General Diaz,13,,-27.166667,-58.416667
+py,general elizardo aquino,General Elizardo Aquino,17,2983,-24.433333,-56.7
+py,general eugenio a. garay,General Eugenio A. Garay,10,,-25.916667,-56.183333
+py,general eugenio a. garay,General Eugenio A. Garay,24,,-20.516667,-62.133333
+py,general eugenio garay,General Eugenio Garay,10,,-25.916667,-56.183333
+py,general francisco caballero,General Francisco Caballero,19,,-24.1,-54.783333
+py,general higinio morinigo,General Higinio Morínigo,05,1399,-25.95,-55.916667
+py,general isidoro resquin,General Isidoro Resquín,17,,-24.066667,-56.483333
+py,general jose eduvigis diaz,General José Eduvigis Díaz,13,1345,-27.166667,-58.416667
+py,general morinigo,General Morínigo,05,,-25.95,-55.916667
+py,gimenez,Giménez,23,,-20.066667,-58.216667
+py,golondrina,Golondrina,04,,-24.6,-55.35
+py,golondrina,Golondrina,16,,-24.933333,-57.7
+py,granja tres maria,Granja Tres María,02,,-23.016667,-55.65
+py,guaica,Guaica,17,,-24.7,-56.5
+py,guajho,Guajhó,16,,-22.35,-58.2
+py,guajho,Guajhó,24,,-22.316667,-60.15
+py,guami tapere,Guami Taperé,02,,-23.183333,-55.883333
+py,guanes,Guanes,16,,-24.933333,-57.566667
+py,guarambare,Guarambaré,06,9066,-25.483333,-57.466667
+py,guarani,Guaraní,23,,-21.3,-57.916667
+py,guardia-cue,Guardia-cué,17,,-23.733333,-57.15
+py,guardia oliva,Guardia Oliva,02,,-22.216667,-56.333333
+py,guaviray,Guaviray,12,,-27.116667,-56.816667
+py,guayaqui cua,Guayaqui Cuá,04,,-25.283333,-56.016667
+py,guayaybi,Guayaybi,17,,-24.533333,-56.433333
+py,guayra toro,Guayra Toro,23,,-19.733333,-58.616667
+py,guazucua,Guazucuá,13,,-26.883333,-58.05
+py,gutierrez-cue,Gutiérrez-cué,13,,-26.716667,-58.333333
+py,gutierrez,Gutiérrez,24,,-23.4,-61.283333
+py,guyra toro,Guyrá Toro,23,,-19.733333,-58.616667
+py,hachita,Hachita,17,,-24.6,-56.183333
+py,hernandarias,Hernandarias,01,,-25.366667,-54.75
+py,hiaty,Hiaty,10,,-25.733333,-56.516667
+py,hihaty,Hihaty,10,,-25.733333,-56.516667
+py,hohenau,Hohenau,11,5307,-27.083333,-55.75
+py,horqueta,Horqueta,07,10533,-23.342778,-57.059722
+py,horqueta,Horqueta,16,,-24.9,-58.3
+py,horqueta-mi,Horqueta-Mí,19,,-24.133333,-55.266667
+py,hotel pirahu,Hotel Pirahú,16,,-23.6,-58.716667
+py,hotel rio negro,Hotel Rio Negro,16,,-24.166667,-58.316667
+py,humaita,Humaitá,13,1519,-27.05,-58.55
+py,hyaty,Hyaty,10,,-25.733333,-56.516667
+py,hyhaty,Hyhaty,10,,-25.733333,-56.516667
+py,iba-pobo,Iba-Pobo,17,,-23.6475,-57.391111
+py,ibapobo,Ibapobó,23,,-19.666667,-58.733333
+py,ibycuy,Ibycuy,15,,-26.016667,-57.05
+py,igatimi,Igatimí,19,,-24.083333,-55.5
+py,ihacanguazu,Ihacanguazú,10,,-25.95,-56.483333
+py,ihu,Ihú,04,,-24.983333,-55.983333
+py,independencia,Independencia,10,1575,-25.716667,-56.25
+py,independencia,Independencia,24,,-21.566667,-62.166667
+py,ingavi,Ingavi,23,,-19.916667,-60.783333
+py,insfran-cue,Insfrán-cué,16,,-24.55,-57.916667
+py,ipacarai,Ipacarai,06,,-25.383333,-57.266667
+py,irala,Irala,01,,-25.9,-54.716667
+py,irendague,Irendague,24,,-20.516667,-62.133333
+py,irindague,Irindague,24,,-20.516667,-62.133333
+py,isla aguaray,Isla Aguaray,04,,-25.633333,-56.716667
+py,isla alta,Isla Alta,11,,-27,-56.316667
+py,isla cuatro,Isla Cuatro,23,,-19.75,-58.233333
+py,isla la muerta,Isla La Muerta,02,,-22.55,-56.666667
+py,isla la muerte,Isla La Muerte,02,,-22.55,-56.666667
+py,isla pucu,Isla Pucú,08,1529,-25.3,-56.9
+py,isla real,Isla Real,07,,-22.616667,-57.65
+py,isla umbu,Isla Umbú,13,340,-27,-58.3
+py,itacora,Itacorá,13,,-27.2,-58.266667
+py,itacurabi,Itacurabi,17,,-24.5,-56.683333
+py,itacurbi,Itacurbí,17,,-23.6,-57.116667
+py,itacurubi de la cordillera,Itacurubí de la Cordillera,08,3576,-25.45,-56.85
+py,itacurubi del rosario,Itacurubí del Rosario,17,3888,-24.5,-56.683333
+py,itacurubi,Itacurubí,07,,-23.333333,-57.366667
+py,itacurubi,Itacurubi,08,,-25.45,-56.85
+py,itacurubi,Itacurubí,17,,-23.6,-57.116667
+py,ita,Itá,06,18461,-25.483333,-57.35
+py,itanara,Itanara,19,316,-23.816667,-55.783333
+py,itape,Itapé,10,1641,-25.85,-56.616667
+py,itapiru,Itapirú,13,,-27.266667,-58.566667
+py,itapua poty,Itapúa Poty,11,646,-26.583333,-55.566667
+py,itapucumi,Itapucumí,07,,-22.75,-57.866667
+py,itaquyry,Itaquyry,01,3038,-24.933333,-55.216667
+py,itaquyry,Itaquyry,17,,-23.583333,-55.966667
+py,itaugua,Itauguá,06,65035,-25.383333,-57.333333
+py,ita vera,Itá Verá,17,,-23.933333,-56.15
+py,itayuru,Itayurú,12,,-26.55,-57.066667
+py,iturbe,Iturbe,10,4476,-26.05,-56.483333
+py,jara-cue,Jara-cué,15,,-26.466667,-56.8
+py,jardin,Jardín,17,,-24.416667,-56.116667
+py,j. d. ocampos,J. D. Ocampos,04,,-25.4,-55.433333
+py,j. e. estigarribia,J. E. Estigarribia,04,,-25.383333,-55.6
+py,jejui guazu,Jejuí Guazú,19,,-24.216667,-55.6
+py,jejui,Jejuí,17,,-24.1,-56.483333
+py,jesuitas,Jesuitas,23,,-19.85,-59.283333
+py,jesus,Jesús,11,2530,-27.05,-55.783333
+py,jhovy,Jhovy,23,,-20.3,-60.1
+py,jhugua,Jhuguá,10,,-25.7,-56.533333
+py,jhugua rey,Jhugua Rey,17,,-24.366667,-56.716667
+py,jimenez,Jiménez,23,,-20.066667,-58.216667
+py,jjovy,Jjovy,23,,-20.3,-60.1
+py,j. leon mallorquin,J. Leon Mallorquin,01,,-25.4,-55.266667
+py,jose eduvigis diaz,José Eduvigis Díaz,13,,-27.166667,-58.416667
+py,jose la haye,José La Haye,16,,-24.616667,-58.1
+py,jose potrero,José Potrero,11,,-26.883333,-56
+py,j. r. chavez,J. R. Chávez,04,,-24.966667,-56.25
+py,j. rodriguez,J. Rodríguez,23,,-22.016667,-58.333333
+py,j. saldivar,J. Saldivar,06,,-25.45,-57.4
+py,juan cue,Juan Cué,23,,-21.983333,-59.533333
+py,juan de ayolas,Juan De Ayolas,12,,-27.4,-56.9
+py,juan de mena,Juan de Mena,08,480,-24.916667,-56.733333
+py,juan e. o'leary,Juan E. O'leary,01,,-25.416667,-55.383333
+py,juan m. fruto,Juan M. Fruto,04,,-25.366667,-55.8
+py,juan piru-cue,Juan Pirú-cué,16,,-25.116667,-57.783333
+py,julio silva,Julio Silva,16,,-22.683333,-58.366667
+py,katupyry,Katupyry,11,,-26.483333,-55.533333
+py,kendal,Kendal,06,,-25.316667,-57.35
+py,kendall,Kendall,06,,-25.316667,-57.35
+py,kilometro 262,Kilómetro 262,24,,-22.066667,-60.35
+py,la caida,La Caída,07,,-23.483333,-57.3
+py,la canada,La Cañada,16,,-24.833333,-58.45
+py,la cautiva,La Cautiva,16,,-25.166667,-57.566667
+py,la colmena,La Colmena,15,2551,-25.883333,-56.816667
+py,la colonia pirareta,La Colonia Pirareta,08,,-25.55,-56.9
+py,la cumbrera,La Cumbrera,24,,-22.583333,-62.133333
+py,la dorada,La Dorada,24,,-22.716667,-62.15
+py,la florestal,La Florestal,23,,-21.55,-58.15
+py,la forestal,La Forestal,23,,-21.55,-58.15
+py,lagerenza,Lagerenza,23,,-19.916667,-60.783333
+py,laguna blanca,Laguna Blanca,24,,-23.416667,-61.016667
+py,laguna pirizal,Laguna Pirizal,24,,-22.883333,-60.816667
+py,laguna pora,Laguna Porá,02,,-22.833333,-55.966667
+py,lalagua,Lalagua,24,,-23.366667,-61.266667
+py,lambare,Lambaré,06,126391,-25.35,-57.65
+py,la mercedes,La Mercedes,06,,-25.25,-57.55
+py,la mision,La Misión,24,,-23.75,-60.983333
+py,la mizion,La Mizión,24,,-23.75,-60.983333
+py,landskrone,Landskrone,16,,-22.633333,-59.4
+py,la nina,La Niña,17,,-24.1,-56.716667
+py,la novia,La Novia,16,,-22.983333,-57.733333
+py,la pastora,La Pastora,04,,-25.233333,-56.533333
+py,la paz,La Paz,11,340,-27.016667,-55.85
+py,la rosada,La Rosada,15,,-26.116667,-56.8
+py,las breas,Las Breas,24,,-22.9,-61.816667
+py,la senora,La Señora,24,,-23.083333,-61.683333
+py,las lagunas,Las Lagunas,24,,-23.316667,-61.3
+py,las mercedes,Las Mercedes,24,,-21.55,-61.916667
+py,las palmas,Las Palmas,01,,-25.3,-54.516667
+py,las palomas,Las Palomas,19,,-24.083333,-54.516667
+py,las senoras,Las Señoras,24,,-23.083333,-61.683333
+py,lata,Lata,23,,-20.683333,-59
+py,laureles,Laureles,13,708,-27.25,-57.466667
+py,laurel,Laurel,19,,-24.55,-54.916667
+py,leandro oviedo,Leandro Oviedo,11,309,-26.716667,-56.233333
+py,leda,Leda,23,,-20.716667,-57.983333
+py,lima,Lima,17,2358,-23.9,-56.333333
+py,limpio,Limpio,06,96238,-25.183333,-57.533333
+py,linares viejo,Linares Viejo,24,,-23.2,-61.75
+py,loma grande,Loma Grande,08,364,-25.166667,-57.216667
+py,loma,Loma,10,,-25.733333,-56.55
+py,loma,Loma,13,,-27.233333,-57.366667
+py,loma,Loma,16,,-24.65,-57.116667
+py,loma,Loma,24,,-21.833333,-62.333333
+py,loma paraiso,Loma Paraíso,04,,-25.55,-56.733333
+py,loma plata,Loma Plata,24,,-22.383333,-59.85
+py,loma pora,Loma Porá,23,,-22.3,-58.2
+py,lomita,Lomita,12,,-27.216667,-56.9
+py,lopez de filippis,López de Filippis,24,,-22.033333,-60.633333
+py,lopez de fillippis,Lopez de Fillippis,24,,-22.033333,-60.633333
+py,loreto,Loreto,07,,-23.270833,-57.324444
+py,los cedrales,Los Cedrales,01,2755,-25.65,-54.7
+py,los esploradores,Los Esploradores,16,,-24.783333,-58.616667
+py,los exploradores,Los Exploradores,16,,-24.783333,-58.616667
+py,los machos,Los Machos,16,,-23.973333,-57.6775
+py,los marinos,Los Marinos,16,,-23.973333,-57.6775
+py,los naranjos,Los Naranjos,24,,-23.066667,-61.783333
+py,los pastos,Los Pastos,16,,-24.733333,-58.7
+py,los pozos,Los Pozos,24,,-22.883333,-61.983333
+py,los tigres,Los Tigres,16,,-24.866667,-58.366667
+py,lourdes,Lourdes,23,,-20.7,-59.05
+py,luchan,Luchan,24,,-22.283333,-62.6
+py,luqua,Luqua,06,,-25.266667,-57.566667
+py,luque,Luque,06,209836,-25.266667,-57.566667
+py,machain cue,Machain Cué,04,,-24.966667,-55.45
+py,machuca-cue,Machuca-Cue,07,,-22.716667,-57.083333
+py,maciel-cue,Maciel-cué,11,,-27.183333,-56.616667
+py,maciel,Maciel,05,503,-26.166667,-56.466667
+py,maldonada cue,Maldonada cué,07,,-22.716667,-56.816667
+py,maldonado-cue,Maldonado-cué,07,,-22.716667,-56.816667
+py,mancuello,Mancuello,07,,-22.933333,-57.016667
+py,mandarina,Mandarina,24,,-23.533333,-61.083333
+py,mandijho,Mandijho,04,,-25.533333,-56.7
+py,manta potrero,Manta Potrero,02,,-23.166667,-55.566667
+py,manuel amarilla,Manuel Amarilla,15,,-25.416667,-57.183333
+py,maria casilda,María Casilda,23,,-22.216667,-57.933333
+py,maria lidia,María Lidia,24,,-23.133333,-60.25
+py,maria luisa,María Luisa,24,,-21.616667,-61.916667
+py,mariano roque alonso,Mariano Roque Alonso,06,72023,-25.166667,-57.55
+py,marina,Marina,16,,-24.916667,-57.283333
+py,mariscal estigarribia,Mariscal Estigarribia,24,,-22.033333,-60.633333
+py,mariscal f. s. lopez,Mariscal F. S. Lopez,04,,-24.666667,-55.366667
+py,mariscal jose f. estigarribia,Mariscal José F. Estigarribia,24,,-22.033333,-60.633333
+py,maroma,Maroma,16,,-23.55,-57.9
+py,martinez,Martinez,10,,-25.75,-56.616667
+py,masa grande,Masa Grande,24,,-21.933333,-62.066667
+py,matorral,Matorral,24,,-23.45,-61.45
+py,mauricio jose troche,Mauricio José Troche,10,,-25.566667,-56.283333
+py,mayor julio d. otano,Mayor Julio D. Otaño,11,,-26.3,-54.7
+py,mayor martinez,Mayor Martínez,13,,-27.15,-58.216667
+py,mayor nicolas arguello,Mayor Nicolas Arguello,05,,-26.183333,-56.183333
+py,mayor pablo lagerenza,Mayor Pablo Lagerenza,23,1205,-19.916667,-60.783333
+py,mayor paulo lagerenza,Mayor Paulo Lagerenza,23,,-19.916667,-60.783333
+py,mbaracayu guazu,Mbaracayú Guazú,04,,-24.3,-55.15
+py,mbaracayu guazu,Mbaracayú Guazú,19,,-24.3,-55.083333
+py,mbaracayu,Mbaracayú,19,,-24.133333,-54.5
+py,mbarigui,Mbarigui,23,,-19.75,-58.6
+py,mbocaya,Mbocayá,05,,-25.833333,-55.7
+py,mbocayaty del yhaguy,Mbocayaty Del Yhaguy,08,,-25.333333,-56.716667
+py,mbocayaty,Mbocayaty,08,,-25.366667,-56.7
+py,mbocayaty,Mbocayaty,10,2296,-25.7,-56.4
+py,mbopicua,Mbopicuá,04,,-24.316667,-57.116667
+py,mburica,Mburica,13,,-26.716667,-58.183333
+py,mburica potrero,Mburicá Potrero,05,,-26.133333,-56.116667
+py,mbutuy,Mbutuy,04,1466,-24.966667,-56.3
+py,mbuyapey,Mbuyapey,15,2201,-26.2,-56.75
+py,media luna,Media Luna,24,,-23.45,-61.366667
+py,medina-cue,Medina-cué,07,,-22.733333,-57.016667
+py,medio,Medio,16,,-24.033333,-57.5
+py,mello-cue,Mello-cué,16,,-22.333333,-58.533333
+py,menchaca cue,Menchaca Cué,19,,-23.916667,-55.666667
+py,mercedes ibarra,Mercedes Ibarra,06,,-25.35,-57.566667
+py,mercedes,Mercedes,17,,-24.95,-57.216667
+py,ministro prieto,Ministro Prieto,16,,-23.116667,-59.866667
+py,mirabeau,Mirabeau,07,,-22.483333,-57.3
+py,miraveau,Miraveau,07,,-22.483333,-57.3
+py,mision abajo,Misión Abajo,16,,-23.816667,-60.733333
+py,mision central,Misión Central,16,,-23.45,-58.333333
+py,mision chica,Misión Chica,16,,-22.9,-58.833333
+py,mision del divino salvador,Misión del Divino Salvador,04,,-25.45,-55.5
+py,mision guarani,Misión Guaraní,24,,-22.383333,-62.45
+py,mision inglesa,Misión Inglesa,16,,-23.45,-58.233333
+py,mision la esperanza,Misión La Esperanza,16,,-22.683333,-59.6
+py,mision,Misión,24,,-23.75,-60.983333
+py,mision nuevas tribus,Misión Nuevas Tribus,02,,-23,-56.083333
+py,mision san jose estero,Misión San José Estero,24,,-23.75,-60.983333
+py,mision san leonardo,Misión San Leonardo,24,,-23.75,-60.783333
+py,mision santa rosa,Misión Santa Rosa,24,,-21.766667,-61.716667
+py,mision santa teresa,Misión Santa Teresa,24,,-22.033333,-60.566667
+py,mision verbo divino,Misión Verbo Divino,01,,-25.25,-54.866667
+py,mision yalve sanga,Misión Yalve Sanga,24,,-22.6,-59.833333
+py,mistolar,Mistolar,24,,-23.233333,-61.683333
+py,moises bertoni,Moisés Bertoni,05,,-26.366667,-56.433333
+py,moises s. bertoni,Moisés S. Bertoni,05,,-26.366667,-56.433333
+py,molino-cue,Molino-cué,16,,-21.966667,-58.133333
+py,monges,Monges,10,,-25.7,-56.6
+py,monte lindo,Monte Lindo,16,,-23.866667,-58.466667
+py,monte rico,Monte Rico,24,,-22.25,-62.633333
+py,montevideo,Montevideo,07,,-22.233333,-57.633333
+py,mopaii moho,Mopaii Moho,16,,-23.466667,-58.183333
+py,mopaii moro,Mopaii Moro,16,,-23.466667,-58.183333
+py,mora-cue,Mora-cué,15,,-26.466667,-57.25
+py,moras-cue,Moras-cué,15,,-26.466667,-57.25
+py,moras,Moras,24,,-22.5,-62.233333
+py,morena,Morena,24,,-23.4,-60.65
+py,nacunday,Ñacunday,01,912,-26.016667,-54.766667
+py,nanawa,Nanawa,16,,-25.266667,-57.666667
+py,nanduro cai,Ñanduro Cái,19,,-24.016667,-55.516667
+py,naranjal,Naranjal,01,2155,-25.966667,-55.183333
+py,naranjal,Naranjál,16,,-25.1,-57.566667
+py,naranjito,Naranjito,11,,-26.316667,-55.216667
+py,naranjito,Naranjito,13,,-26.95,-58.45
+py,natalicio talavera,Natalicio Talavera,10,1809,-25.633333,-56.3
+py,natalico talavera,Natalico Talavera,10,,-25.633333,-56.3
+py,natalio,Natalio,11,2253,-26.716667,-55.083333
+py,navidad,Navidad,10,,-25.783333,-55.883333
+py,necons wais,Necons Wais,16,,-23.516667,-58.15
+py,necons wats,Necons Wats,16,,-23.516667,-58.15
+py,necons weis,Necons Weis,16,,-23.516667,-58.15
+py,nemby,Nemby,06,94767,-25.366667,-57.6
+py,new bordeaux,New Bordeaux,16,,-25.1,-57.566667
+py,nuestra senora santa maria de la asuncion,Nuestra Señora Santa María de la Asunción,06,,-25.266667,-57.666667
+py,nueva alborada,Nueva Alborada,11,290,-27.25,-55.616667
+py,nueva australia,Nueva Australia,04,,-25.416667,-56.583333
+py,nueva burdeos,Nueva Burdeos,16,,-25.1,-57.566667
+py,nueva colombia,Nueva Colombia,08,683,-25.183333,-57.35
+py,nueva esperanza,Nueva Esperanza,12,,-27.1,-57.033333
+py,nueva germania,Nueva Germania,17,1206,-23.9,-56.566667
+py,nueva italia,Nueva Italia,06,2841,-25.616667,-57.5
+py,nueva londres,Nueva Londres,04,813,-25.416667,-56.533333
+py,nueva sorpresa,Nueva Sorpresa,16,,-24.016667,-60.05
+py,nueva virginia,Nueva Virginia,02,,-22.966667,-55.666667
+py,numi,Ñumí,10,864,-25.95,-56.316667
+py,nunez,Núñez,16,,-24.95,-58.233333
+py,nu-pora,Ñu-Porá,07,,-23.15,-56.316667
+py,obligado,Obligado,11,6350,-27.033333,-55.633333
+py,obraje natalia,Obraje Natalia,02,,-23.483333,-56.066667
+py,ocampo-cue,Ocampo-cué,17,,-23.933333,-56.966667
+py,ohia,Ohia,23,,-20.483333,-58.716667
+py,olimpo,Olimpo,23,,-21.033333,-57.9
+py,oliva,Oliva,13,,-26.016667,-57.883333
+py,olivares,Olivares,08,,-25,-57.3
+py,oratorio juan bautista,Oratorio Juan Bautista,15,,-26.316667,-56.933333
+py,oratorio san antonio,Oratorio San Antonio,12,,-26.883333,-56.883333
+py,oratorio san antonio,Oratorio San Antonio,13,,-27.183333,-57.65
+py,oratorios san antonio,Oratorios San Antonio,13,,-27.183333,-57.65
+py,ordonez,Ordóñez,01,,-25.75,-54.633333
+py,orihuela,Orihuela,16,,-23.416667,-58.666667
+py,ortiz,Ortiz,24,,-23.583333,-61.233333
+py,otazu,Otazú,23,,-21.983333,-58.366667
+py,pacoya,Pacoyá,19,,-24.016667,-55.166667
+py,pacu cua,Pacú Cuá,11,,-27.4,-55.816667
+py,pairo-cue,Pairo-cué,16,,-24.233333,-57.6
+py,pajonales,Pajonales,16,,-24.616667,-58.866667
+py,palma chica,Palma Chica,23,,-21.783333,-57.9
+py,palma chica,Palma Chica,24,,-23.266667,-61.666667
+py,palmar,Palmar,16,,-23.866667,-60.416667
+py,palmar,Palmar,24,,-22.45,-61.333333
+py,palmeta,Palmeta,10,,-25.75,-55.816667
+py,palo blanco,Palo Blanco,16,,-24.133333,-58.75
+py,palo blanco,Palo Blanco,24,,-22.283333,-61.833333
+py,pampa grande,Pampa Grande,24,,-23.033333,-60.166667
+py,panadero,Panadero,02,,-23.65,-55.9
+py,panchito lopez,Panchito López,12,,-27.4,-57.266667
+py,paraguari,Paraguarí,15,10079,-25.633333,-57.15
+py,paraguay puajhu,Paraguay Puajhú,01,,-24.7,-54.466667
+py,paraje linda,Paraje Linda,11,,-26.383333,-55.116667
+py,paraje tuyuyu,Paraje Tuyuyú,16,,-22.9,-59.466667
+py,paranambucu,Paranambucu,01,,-25.983333,-54.766667
+py,parapiti uno,Parapití Uno,24,,-20.983333,-60.983333
+py,pareja,Pareja,11,,-26.3,-54.75
+py,paria,Paria,24,,-21.4,-60.783333
+py,parodi,Parodi,19,,-24.6,-54.366667
+py,paso barreto,Paso Barreto,07,,-23.061389,-57.113889
+py,paso cadena,Paso Cadena,04,,-24.9,-55.3
+py,paso canoa,Paso Canoa,13,,-26.983333,-57.85
+py,paso curuzu,Paso Curuzu,17,,-23.633333,-56.1
+py,paso de los tobas,Paso de los Tobas,24,,-23.35,-61.533333
+py,paso de patria,Paso de Patria,13,853,-27.216667,-58.583333
+py,paso horqueta,Paso Horqueta,07,,-23.088056,-57.394722
+py,paso ita,Paso Itá,19,,-24.366667,-54.95
+py,paso mancuello,Paso Mancuello,07,,-23.088056,-57.394722
+py,paso mbutu,Paso Mbutú,07,,-23.1,-56.866667
+py,paso patria,Paso Patria,13,,-27.216667,-58.583333
+py,paso tuya,Paso Tuya,07,,-23.3,-56.566667
+py,pasto,Pasto,23,,-19.45,-61.15
+py,pastoreo mayo,Pastoreo Mayo,05,,-25.883333,-55.75
+py,pastos,Pastos,23,,-19.45,-61.15
+py,patino cue,Patiño Cué,06,,-25.35,-57.333333
+py,patino,Patiño,06,,-25.35,-57.333333
+py,pato blanco,Pato Blanco,24,,-22.283333,-61.833333
+py,patria,Patria,23,,-19.983333,-58.2
+py,paz soldan,Paz Soldán,24,,-22.85,-61.083333
+py,pedernal,Pedernal,16,,-23.783333,-57.166667
+py,pedro gonzalez,Pedro González,13,,-27.166667,-58.25
+py,pedro juan caballero,Pedro Juan Caballero,02,67432,-22.566667,-55.616667
+py,pedro p. caballero,Pedro P. Caballero,08,,-25.5,-57.016667
+py,pedrozo,Pedrozo,06,,-25.4,-57.2
+py,peguajho,Peguajhó,02,,-22.266667,-56.383333
+py,pelada,Pelada,12,,-26.8,-57.6
+py,pelanca,Pelanca,11,,-26.283333,-55.283333
+py,perez,Pérez,24,,-23.083333,-61.9
+py,pericote,Pericote,24,,-22.983333,-61.933333
+py,philadelphia,Philadelphia,24,,-22.35,-60.033333
+py,picada catorce de mayo,Picada Catorce de Mayo,24,,-22.016667,-61.2
+py,pilar,Pilar,13,25542,-26.866667,-58.383333
+py,pilcomayo,Pilcomayo,24,,-23.533333,-60.466667
+py,pinasco,Pinasco,16,,-22.716667,-57.833333
+py,pindo,Pindó,05,,-26.2,-55.933333
+py,pindura-cue,Pindura-cué,07,,-22.85,-56.666667
+py,pio cora-cue,Pío Corá-Cué,13,,-25.933333,-57.65
+py,piquete cue,Piquete Cué,06,,-25.116667,-57.5
+py,piquirenda,Piquirenda,23,,-20.1,-61.766667
+py,pirapo,Pirapo,11,1757,-26.85,-55.533333
+py,piratey,Piratey,11,,-26.55,-55.283333
+py,pirayu,Pirayú,15,4000,-25.483333,-57.233333
+py,piribebuy,Piribebuy,08,10337,-25.483333,-57.05
+py,pirizal,Pirizal,16,,-22.25,-58.55
+py,pirizal,Pirizal,24,,-23.083333,-60.666667
+py,piron,Pirón,23,,-19.866667,-58.433333
+py,piror,Piror,23,,-19.866667,-58.433333
+py,pista strongest,Pista Strongest,24,,-21.666667,-62.4
+py,platero,Platero,13,,-27.1,-57.183333
+py,porto maria,Porto María,23,,-21.616667,-57.95
+py,porvenir,Porvenir,16,,-24.183333,-57.85
+py,porvenir,Porvenir,24,,-23.016667,-61.833333
+py,poso colorado,Poso Colorado,16,,-23.433333,-58.966667
+py,potrero bulion,Potrero Bulión,04,,-24.966667,-55.416667
+py,potrero esteche,Potrero Esteche,13,,-27.133333,-57.633333
+py,potrero nuevo,Potrero Nuevo,16,,-22.583333,-58.066667
+py,potrero palmas,Potrero Palmas,24,,-22.216667,-59.966667
+py,potrero ramos,Potrero Ramos,07,,-22.35,-56.816667
+py,potrero ybate,Potrero Ybate,11,,-26.8,-56.1
+py,potrero zebolla,Potrero Zebolla,07,,-22.383333,-57.666667
+py,pozo algarrobo,Pozo Algarrobo,24,,-22.8,-61.416667
+py,pozo anta,Pozo Anta,24,,-22.866667,-60.766667
+py,pozo azul,Pozo Azul,16,,-24.1,-58.35
+py,pozo blanco,Pozo Blanco,16,,-23.383333,-59.65
+py,pozo chambi,Pozo Chambi,24,,-22.433333,-61.516667
+py,pozo charata,Pozo Charata,24,,-22.266667,-61.35
+py,pozo colorado,Pozo Colorado,16,1850,-23.466667,-58.966667
+py,pozo colorado,Pozo Colorado,24,,-22.633333,-60.5
+py,pozo de buey,Pozo de Buey,23,,-19.933333,-59.133333
+py,pozo del buey,Pozo del Buey,23,,-19.933333,-59.133333
+py,pozo el venado,Pozo El Venado,24,,-22.3,-61.316667
+py,pozo favorito,Pozo Favorito,16,,-23.083333,-59.883333
+py,pozo gloria,Pozo Gloria,24,,-22.9,-60.916667
+py,pozo grande,Pozo Grande,24,,-22.25,-59.633333
+py,pozo negro,Pozo Negro,16,,-23.2,-59.933333
+py,pozo paucarpata,Pozo Paucarpata,24,,-22.733333,-61.633333
+py,pozo quince de abril,Pozo Quince de Abril,24,,-21.8,-61.7
+py,pozo soldado chambi,Pozo Soldado Chambi,24,,-22.433333,-61.516667
+py,pozos,Pozos,24,,-22.883333,-61.983333
+py,pozo verde,Pozo Verde,24,,-22.25,-61.366667
+py,presidente franco,Presidente Franco,01,54303,-25.533333,-54.616667
+py,presidente stroessner,Presidente Stroessner,01,,-25.516667,-54.616667
+py,primavera,Primavera,16,,-24.166667,-58.016667
+py,primero de junio,Primero de Junio,16,,-24.566667,-57.666667
+py,primero de marzo,Primero de Marzo,08,837,-25.15,-56.916667
+py,primero de marzo,Primero de Marzo,24,,-23.166667,-61.483333
+py,princesa,Princesa,16,,-24.116667,-58.466667
+py,providencia,Providencia,15,,-26.35,-57.25
+py,pueblo loma,Pueblo Loma,11,,-26.816667,-56.466667
+py,puerto abente,Puerto Abente,07,,-22.916667,-57.716667
+py,puerto adela,Puerto Adela,19,,-24.55,-54.366667
+py,puerto agatape,Puerto Agatapé,13,,-26.116667,-58.05
+py,puerto alberto,Puerto Alberto,23,,-21.966667,-57.933333
+py,puerto alegre,Puerto Alegre,06,,-25.683333,-57.783333
+py,puerto alegre,Puerto Alegre,07,,-23.116667,-57.6
+py,puerto alegre,Puerto Alegre,13,,-26.116667,-58.05
+py,puerto alegre,Puerto Alegre,16,,-22.5,-57.866667
+py,puerto antequera,Puerto Antequera,17,,-24.133333,-57.083333
+py,puerto arecutacua,Puerto Arecutacua,08,,-25.1,-57.383333
+py,puerto armandina,Puerto Armandina,07,,-23.1,-57.65
+py,puerto arrecife,Puerto Arrecife,07,,-22.8,-57.85
+py,puerto arroyo verde,Puerto Arroyo Verde,11,,-27.383333,-55.7
+py,puerto bahia negra,Puerto Bahía Negra,23,,-20.25,-58.2
+py,puerto ballemi,Puerto Ballemí,07,,-22.133333,-57.966667
+py,puerto barranquerita,Puerto Barranquerita,17,,-24.25,-57.133333
+py,puerto bella vista,Puerto Bella Vista,11,,-27.1,-55.516667
+py,puerto bertoni,Puerto Bertoni,01,,-25.65,-54.583333
+py,puerto botanico,Puerto Botánico,06,,-25.233333,-57.566667
+py,puerto buena vista,Puerto Buena Vista,16,,-23.985556,-57.2525
+py,puerto caarendy,Puerto Caarendy,11,,-26.933333,-55.45
+py,puerto caa yovai,Puerto Caa Yovai,01,,-25.6,-55.35
+py,puerto caballo,Puerto Caballo,23,,-20.2,-58.2
+py,puerto calera-cue,Puerto Calera-Cué,07,,-22.533333,-57.816667
+py,puerto cantera,Puerto Cantera,11,,-27.216667,-55.6
+py,puerto carava vuelta,Puerto Caravá Vuelta,16,,-23.121667,-57.6375
+py,puerto caraya vuelta,Puerto Carayá Vuelta,16,,-23.121667,-57.6375
+py,puerto carlos pfannl,Puerto Carlos Pfannl,16,,-24.383333,-57.166667
+py,puerto carmona,Puerto Carmona,11,,-27.15,-55.7
+py,puerto casado,Puerto Casado,23,,-22.333333,-57.916667
+py,puerto catorce de mayo,Puerto Catorce de Mayo,23,,-20.383333,-58.133333
+py,puerto celia,Puerto Celia,16,,-24.516667,-57.1
+py,puerto colon,Puerto Colón,16,,-23.195833,-57.603889
+py,puerto colorado,Puerto Colorado,17,,-23.568611,-57.446389
+py,puerto cooper,Puerto Cooper,16,,-23.05,-57.716667
+py,puerto curupaity,Puerto Curupaity,01,,-25.366667,-54.65
+py,puerto curuzu aba,Puerto Curuzú Abá,13,,-27.25,-57.833333
+py,puerto curuzu,Puerto Curuzú,17,,-24.366667,-56.183333
+py,puerto de humaita,Puerto de Humaitá,13,,-27.05,-58.55
+py,puerto desaguadero,Puerto Desaguadero,17,,-23.8625,-57.2475
+py,puerto de tacurupucu,Puerto de Tacurupucú,01,,-25.416667,-54.6
+py,puerto diaz,Puerto Diaz,01,,-25.2,-54.466667
+py,puerto dolores,Puerto Dolores,01,,-25.583333,-55.016667
+py,puerto doria,Puerto Doria,17,,-24,-57.183333
+py,puerto edelira,Puerto Edelira,11,,-26.9,-55.15
+py,puerto elsa,Puerto Elsa,16,,-25.283333,-57.716667
+py,puerto elvira,Puerto Elvira,16,,-24.45,-58.416667
+py,puerto embalse,Puerto Embalse,01,,-25.433333,-54.616667
+py,puerto esperanza,Puerto Esperanza,23,,-20.433333,-58.1
+py,puerto flores,Puerto Flores,05,,-25.683333,-55.483333
+py,puerto fonciere,Puerto Fonciere,07,,-22.483333,-57.8
+py,puerto galileo,Puerto Galileo,16,,-25.066667,-57.883333
+py,puerto general diaz,Puerto General Díaz,01,,-25.2,-54.466667
+py,puerto guarani,Puerto Guaraní,23,,-21.3,-57.916667
+py,puerto guarany,Puerto Guarany,23,,-21.3,-57.916667
+py,puerto hohenau,Puerto Hohenau,11,,-27.15,-55.566667
+py,puerto iba-pobo,Puerto Iba-pobó,17,,-23.6475,-57.391111
+py,puerto indio,Puerto Indio,01,,-24.883333,-54.433333
+py,puerto irala,Puerto Irala,01,,-25.9,-54.716667
+py,puerto iribo,Puerto Iribo,11,,-27.366667,-55.683333
+py,puerto isau,Puerto Isau,04,,-24.3,-55.15
+py,puerto itacora,Puerto Itacora,13,,-27.25,-58.15
+py,puerto italia,Puerto Italia,11,,-26.983333,-55.45
+py,puerto itambey,Puerto Itambey,01,,-24.683333,-54.35
+py,puerto itapucu mi,Puerto Itapucú Mi,07,,-22.75,-57.866667
+py,puerto ita,Puerto Ita,13,,-27.216667,-58.316667
+py,puerto la esperanza,Puerto La Esperanza,23,,-22.05,-58
+py,puerto la novia,Puerto La Novia,16,,-22.983333,-57.733333
+py,puerto laurel,Puerto Laurel,17,,-23.892778,-57.280278
+py,puerto la victoria,Puerto La Victoria,23,,-22.333333,-57.916667
+py,puerto leda,Puerto Leda,23,,-20.716667,-57.983333
+py,puerto lidia,Puerto Lidia,23,,-20.966667,-57.966667
+py,puerto lobata,Puerto Lobata,06,,-25.75,-57.783333
+py,puerto lobato,Puerto Lobato,06,,-25.75,-57.783333
+py,puerto loma,Puerto Loma,16,,-24.65,-57.116667
+py,puerto lomas,Puerto Lomas,16,,-24.65,-57.116667
+py,puerto marangatu,Puerto Marangatú,19,,-24.616667,-54.35
+py,puerto maria auxiliadora,Puerto María Auxiliadora,23,,-21.733333,-57.916667
+py,puerto maria,Puerto María,16,,-24.35,-59.25
+py,puerto marite,Puerto Marité,13,,-25.916667,-57.85
+py,puerto max,Puerto Max,07,,-22.683333,-57.733333
+py,puerto mayor otano,Puerto Mayor Otaño,11,,-26.4,-54.7
+py,puerto mburajhe,Puerto Mburajhe,11,,-27.483333,-56.733333
+py,puerto mihanovich,Puerto Mihanovich,23,,-20.866667,-57.983333
+py,puerto milagro,Puerto Milagro,17,,-23.515833,-57.454444
+py,puerto militar,Puerto Militar,16,,-23.416389,-57.478611
+py,puerto nacunday,Puerto Ñacunday,01,,-26.016667,-54.766667
+py,puerto napegue,Puerto Napegué,07,,-23.066667,-57.666667
+py,puerto naranjito,Puerto Naranjito,08,,-25.1,-57.383333
+py,puerto nuevo,Puerto Nuevo,23,,-20.616667,-58.05
+py,puerto obligado,Puerto Obligado,11,,-27.1,-55.566667
+py,puerto odornez,Puerto Odornez,01,,-25.75,-54.633333
+py,puerto olivares,Puerto Olivares,08,,-25,-57.3
+py,puerto ordonez,Puerto Ordóñez,01,,-25.75,-54.633333
+py,puerto pagani cue,Puerto Pagani Cué,23,,-22.25,-57.983333
+py,puerto palma chica,Puerto Palma Chica,23,,-21.783333,-57.9
+py,puerto palma,Puerto Palma,01,,-25.3,-54.516667
+py,puerto palmares,Puerto Palmares,23,,-20.283333,-60.15
+py,puerto palmas,Puerto Palmas,01,,-25.3,-54.516667
+py,puerto paloma,Puerto Paloma,11,,-26.85,-55.133333
+py,puerto paraiso,Puerto Paraiso,11,,-27.283333,-55.616667
+py,puerto paraiso,Puerto Paraiso,13,,-25.833333,-57.783333
+py,puerto paramanbu,Puerto Paramanbú,01,,-25.983333,-54.766667
+py,puerto paranambu,Puerto Paranambú,01,,-25.983333,-54.766667
+py,puerto pedernal,Puerto Pedernal,16,,-23.783333,-57.166667
+py,puerto pikyry,Puerto Pikyry,01,,-25.083333,-54.466667
+py,puerto pinasco,Puerto Pinasco,16,892,-22.716667,-57.833333
+py,puerto pirapo,Puerto Pirapó,11,,-26.85,-55.533333
+py,puerto porvenir,Puerto Porvenir,11,,-26.683333,-54.933333
+py,puerto presidente franco,Puerto Presidente Franco,01,,-25.533333,-54.616667
+py,puerto presidente stroessner,Puerto Presidente Stroessner,01,,-25.516667,-54.616667
+py,puerto ramos,Puerto Ramos,23,,-20.283333,-58.166667
+py,puerto recife,Puerto Recife,08,,-25.033333,-57.033333
+py,puerto rio negro,Puerto Río Negro,16,,-23.416667,-57.333333
+py,puerto risso,Puerto Risso,07,,-22.35,-57.833333
+py,puerto rosario,Puerto Rosario,17,,-24.45,-57.083333
+py,puerto samuhu,Puerto Samuhú,11,,-27.333333,-55.616667
+py,puerto san alberto,Puerto San Alberto,23,,-21.966667,-57.933333
+py,puerto san antonio,Puerto San Antonio,13,,-26.616667,-58.283333
+py,puerto san antonio,Puerto San Antonio,16,,-23.856111,-57.275
+py,puerto san fernando,Puerto San Fernando,16,,-23.666667,-57.633333
+py,puerto san jose,Puerto San José,11,,-26.566667,-54.8
+py,puerto san jose,Puerto San José,17,,-24.116667,-56.2
+py,puerto san juan,Puerto San Juan,16,,-23.083333,-57.716667
+py,puerto san lorenzo,Puerto San Lorenzo,11,,-26.516667,-54.766667
+py,puerto san luis,Puerto San Luis,16,,-23.383333,-57.45
+py,puerto san pedro,Puerto San Pedro,16,,-22.533333,-58.433333
+py,puerto santa elena,Puerto Santa Elena,06,,-25.733333,-57.733333
+py,puerto santa maria,Puerto Santa María,16,,-23.6,-57.733333
+py,puerto santa rita,Puerto Santa Rita,01,,-25.983333,-54.95
+py,puerto santa rita,Puerto Santa Rita,16,,-23.466667,-57.316667
+py,puerto santa rosa de lima,Puerto Santa Rosa de Lima,11,,-27.15,-55.6
+py,puerto santa rosa,Puerto Santa Rosa,16,,-24.933333,-57.783333
+py,puerto santa rosa,Puerto Santa Rosa,17,,-23.5825,-57.440556
+py,puerto santa teresa,Puerto Santa Teresa,01,,-24.733333,-54.383333
+py,puerto san vicente,Puerto San Vicente,01,,-25.566667,-55.116667
+py,puerto sao vicente,Puerto Sao Vicente,01,,-25.566667,-55.116667
+py,puerto sara,Puerto Sara,06,,-25.7,-57.75
+py,puerto sastre,Puerto Sastre,23,,-22.1,-57.983333
+py,puerto sauce,Puerto Sauce,01,,-24.783333,-54.416667
+py,puerto siete de agosto,Puerto Siete de Agosto,11,,-26.45,-54.8
+py,puerto tacurupucu,Puerto Tacurupucu,01,,-25.416667,-54.6
+py,puerto tacuru pyta,Puerto Tacurú Pyta,17,,-23.758333,-57.244444
+py,puerto taruma,Puerto Tarumá,16,,-23.633333,-57.583333
+py,puerto torocua,Puerto Torocuá,01,,-26.1,-54.633333
+py,puerto tres palmas,Puerto Tres Palmas,23,,-21.783333,-57.9
+py,puerto tres palmito,Puerto Tres Palmito,11,,-27.366667,-55.65
+py,puerto triunfo,Puerto Triunfo,11,,-26.75,-55.1
+py,puerto turi,Puerto Turi,11,,-27.4,-56.75
+py,puerto vacay,Puerto Vacay,11,,-27.033333,-55.466667
+py,puerto valle mi,Puerto Valle Mi,07,,-22.133333,-57.966667
+py,puerto venecia,Puerto Venecia,01,,-25.5,-55.233333
+py,puerto venicia,Puerto Venicia,01,,-25.5,-55.233333
+py,puerto ventidos de mayo,Puerto Ventidos de Mayo,01,,-25.633333,-54.866667
+py,puerto villa del rosario,Puerto Villa del Rosario,17,,-24.45,-57.083333
+py,puerto voluntad,Puerto Voluntad,23,,-20.8,-57.966667
+py,puerto yacare cue,Puerto Yacare Cué,11,,-26.783333,-55.066667
+py,puerto ybapobo,Puerto Ybapobó,17,,-23.6475,-57.391111
+py,puerto ybcui naro,Puerto Ybcui Ñaro,11,,-27.35,-55.6
+py,puerto yngo,Puerto Yngó,15,,-26.466667,-57.6
+py,puerto yrigoyen,Puerto Yrigoyen,16,,-23.333333,-57.416667
+py,puerto ysau,Puerto Ysaú,04,,-24.3,-55.15
+py,puerto zapatero-cue,Puerto Zapatero-cue,07,,-23.283333,-57.35
+py,puesto aguape,Puesto Aguape,15,,-26.483333,-57.566667
+py,puesto alambique,Puesto Alambique,23,,-20.566667,-59.183333
+py,puesto alcaraz,Puesto Alcaraz,24,,-22.7,-61.966667
+py,puesto alegre,Puesto Alegre,16,,-23.766667,-57.433333
+py,puesto araza,Puesto Arazá,16,,-24.316667,-57.85
+py,puesto areco,Puesto Areco,06,,-25.6,-57.6
+py,puesto barbaro,Puesto Bárbaro,23,,-19.733333,-60.6
+py,puesto benjamin,Puesto Benjamín,13,,-26.466667,-57.766667
+py,puesto bogado,Puesto Bogado,16,,-24.333333,-59.3
+py,puesto boqueron,Puesto Boquerón,16,,-23.65,-59.133333
+py,puesto buena vista,Puesto Buena Vista,16,,-24.05,-57.583333
+py,puesto bullain,Puesto Bullain,24,,-21.666667,-62.416667
+py,puesto bullan,Puesto Bullán,24,,-21.666667,-62.416667
+py,puesto bultam,Puesto Bultam,24,,-21.666667,-62.416667
+py,puesto caabo tory,Puesto Caabó Tory,16,,-24.216667,-59.333333
+py,puesto cabayoray,Puesto Cabayoray,04,,-24.9,-56.4
+py,puesto cabayuray-carujha,Puesto Cabayuray-Carujhá,04,,-24.9,-56.4
+py,puesto cabo gimenez,Puesto Cabo Giménez,23,,-19.833333,-60.616667
+py,puesto cabo jimenez,Puesto Cabo Jiménez,23,,-19.833333,-60.616667
+py,puesto campo flores,Puesto Campo Flores,16,,-22.833333,-58.85
+py,puesto careca,Puesto Careca,24,,-23.6,-60.833333
+py,puesto careco,Puesto Careco,24,,-23.6,-60.833333
+py,puesto careta,Puesto Careta,24,,-23.6,-60.833333
+py,puesto catan,Puesto Catán,24,,-23.45,-60.883333
+py,puesto celia,Puesto Celia,16,,-24.516667,-57.1
+py,puesto cerrito,Puesto Cerrito,13,,-26.116667,-57.783333
+py,puesto ciento noveinta,Puesto Ciento Noveinta,16,,-23.816667,-58.483333
+py,puesto colon-i,Puesto Colon-i,16,,-23.166667,-58.5
+py,puesto cordoba,Puesto Córdoba,24,,-23.433333,-60.3
+py,puesto coreca,Puesto Coreca,24,,-23.6,-60.833333
+py,puesto corralito,Puesto Corralito,16,,-23.5,-57.65
+py,puesto corralon,Puesto Corralón,16,,-22.3,-59.133333
+py,puesto correa,Puesto Correa,24,,-23.4,-60.7
+py,puesto cuatro bocas,Puesto Cuatro Bocas,16,,-24.066667,-58.183333
+py,puesto-cue,Puesto-cué,17,,-24.2,-56.95
+py,puesto curupayty,Puesto Curupayty,16,,-22.733333,-58.35
+py,puesto curupayty,Puesto Curupayty,24,,-20.466667,-61.966667
+py,puesto deidamia,Puesto Deidamia,06,,-25.716667,-57.65
+py,puesto don manuel,Puesto Don Manuel,16,,-23.55,-58.466667
+py,puesto dorado,Puesto Dorado,24,,-22.716667,-62.116667
+py,puesto elvira,Puesto Elvira,16,,-24.45,-58.416667
+py,puesto esperanza,Puesto Esperanza,16,,-23.983333,-58.783333
+py,puesto esperanza,Puesto Esperanza,24,,-22.55,-62.233333
+py,puesto estancia-i,Puesto Estancia-í,16,,-22.366667,-59.333333
+py,puesto estrella,Puesto Estrella,16,,-23.25,-58.883333
+py,puesto estrella,Puesto Estrella,24,,-21.066667,-62.166667
+py,puesto estrello,Puesto Estrello,24,,-21.066667,-62.166667
+py,puesto ferreira,Puesto Ferreira,13,,-26.633333,-57.666667
+py,puesto fortuna,Puesto Fortuna,16,,-24.033333,-57.7
+py,puesto f,Puesto F,24,,-23.133333,-60.15
+py,puesto galponcito,Puesto Galponcito,24,,-21.683333,-61.183333
+py,puesto ganadero,Puesto Ganadero,24,,-22.133333,-62.1
+py,puesto gimenez,Puesto Gimenez,23,,-19.833333,-60.616667
+py,puesto gonzalez,Puesto González,16,,-22.816667,-58.533333
+py,puesto guarani,Puesto Guaraní,24,,-20.45,-62.15
+py,puesto gulach,Puesto Gulach,24,,-22.283333,-61.983333
+py,puesto horqueta,Puesto Horqueta,12,,-26.616667,-57.566667
+py,puesto horqueta,Puesto Horqueta,16,,-23.916667,-60.75
+py,puesto isla sola,Puesto Isla Sola,16,,-23.666667,-58.2
+py,puesto itacurubi guazu,Puesto Itacurubi Guazú,06,,-25.65,-57.566667
+py,puesto jabali,Puesto Jabalí,24,,-22.616667,-61.433333
+py,puesto kilometro veinte,Puesto Kilómetro Veinte,24,,-22.5,-62.283333
+py,puesto k,Puesto K,24,,-23.083333,-60.116667
+py,puesto laguna ciervo,Puesto Laguna Ciervo,02,,-22.383333,-56.2
+py,puesto larrosa,Puesto Larrosa,24,,-22.4,-60.366667
+py,puesto lata,Puesto Lata,19,,-24.35,-55.95
+py,puesto la vista,Puesto La Vista,16,,-23.166667,-58.866667
+py,puesto leopoldina,Puesto Leopoldina,16,,-24.1,-58.4
+py,puesto linda vista,Puesto Linda Vista,16,,-22.316667,-59.216667
+py,puesto lucy,Puesto Lucy,16,,-23.25,-58.2
+py,puesto lugo,Puesto Lugo,16,,-23.866667,-59.3
+py,puesto luis,Puesto Luis,16,,-24.183333,-58.016667
+py,puesto mainumby,Puesto Mainumby,24,,-22.583333,-60.133333
+py,puesto mbocaya,Puesto Mbocaya,15,,-26.533333,-57.416667
+py,puesto michi,Puesto Michí,16,,-24.083333,-57.283333
+py,puesto mision chica,Puesto Misión Chica,16,,-23.45,-58.466667
+py,puesto montano,Puesto Montaño,24,,-23.433333,-60.2
+py,puesto monte lindo,Puesto Monte Lindo,16,,-23.95,-57.2
+py,puesto moreno,Puesto Moreno,16,,-23.85,-58.366667
+py,puesto moreno,Puesto Moreno,24,,-23.4,-60.65
+py,puesto muneca,Puesto Muñeca,24,,-22.033333,-60.566667
+py,puesto nanati,Puesto Nanati,16,,-22.966667,-59.266667
+py,puesto nuevo,Puesto Nuevo,24,,-23.416667,-61.2
+py,puesto olguita,Puesto Olguita,16,,-24.283333,-59.35
+py,puesto ortiz,Puesto Ortiz,24,,-23.35,-60.433333
+py,puesto pajonal,Puesto Pajonal,24,,-21.6,-62.266667
+py,puesto palmares,Puesto Palmares,23,,-20.283333,-60.15
+py,puesto palomo,Puesto Palomo,24,,-23.583333,-60.866667
+py,puesto pampa grande,Puesto Pampa Grande,24,,-23.033333,-60.166667
+py,puesto panambi,Puesto Panambí,24,,-22.733333,-61.816667
+py,puesto panuelo,Puesto Pañuelo,07,,-22.55,-56.766667
+py,puesto pavon,Puesto Pavón,24,,-23.35,-60.266667
+py,puesto paz,Puesto Paz,24,,-23.05,-61.25
+py,puesto pena,Puesto Peña,24,,-22.683333,-62
+py,puesto pora,Puesto Porá,19,,-23.933333,-54.9
+py,puesto rancho quemado,Puesto Rancho Quemado,23,,-20.933333,-58.4
+py,puesto rey,Puesto Rey,16,,-22.766667,-58.8
+py,puesto roas cue,Puesto Roas Cué,12,,-26.8,-56.983333
+py,puesto roy,Puesto Roy,13,,-26.516667,-57.883333
+py,puesto salado,Puesto Salado,16,,-23.166667,-58.616667
+py,puesto salinas-cue,Puesto Salinas-Cué,13,,-25.866667,-57.7
+py,puesto salto palmar,Puesto Salto Palmar,16,,-24.35,-59.466667
+py,puesto san bartolome,Puesto San Bartolomé,16,,-22.983333,-58.933333
+py,puesto san carlos,Puesto San Carlos,12,,-26.483333,-57.633333
+py,puesto san carlos,Puesto San Carlos,13,,-26.133333,-57.7
+py,puesto san fernando,Puesto San Fernando,16,,-23.666667,-57.633333
+py,puesto san javier,Puesto San Javier,16,,-24.45,-57.783333
+py,puesto san lorenzo,Puesto San Lorenzo,02,,-22.366667,-56.533333
+py,puesto san luis,Puesto San Luis,16,,-23.383333,-57.45
+py,puesto san miguel,Puesto San Miguel,16,,-23.1,-58.966667
+py,puesto santa elena,Puesto Santa Elena,24,,-21.633333,-61.25
+py,puesto santa manuela,Puesto Santa Manuela,16,,-22.5,-58.666667
+py,puesto santa maria,Puesto Santa Maria,16,,-22.5,-58.983333
+py,puesto santa rosa,Puesto Santa Rosa,16,,-22.316667,-58.8
+py,puesto san timoteo,Puesto San Timoteo,16,,-23.7,-58.716667
+py,puesto santo domingo,Puesto Santo Domingo,23,,-21.883333,-59.933333
+py,puesto sargento b. figueredo,Puesto Sargento B. Figueredo,24,,-21.633333,-61.216667
+py,puesto sargento primero felix zaracho,Puesto Sargento Primero Felix Zaracho,24,,-23.033333,-61.383333
+py,puesto sarita,Puesto Sarita,06,,-25.7,-57.683333
+py,puesto siete palma,Puesto Siete Palma,12,,-26.7,-57.483333
+py,puesto sosa,Puesto Sosa,24,,-23.316667,-60.333333
+py,puesto subieta,Puesto Subieta,24,,-22.483333,-62.05
+py,puesto susana,Puesto Susana,16,,-24.516667,-57.8
+py,puesto tabla,Puesto Tabla,16,,-24.866667,-58.1
+py,puesto tapacare,Puesto Tapacaré,23,,-19.583333,-60.616667
+py,puesto taruma,Puesto Taruma,16,,-23.633333,-57.583333
+py,puesto teniente g. trovatto,Puesto Teniente G. Trovatto,24,,-21.966667,-60.45
+py,puesto teniente h. gini,Puesto Teniente H. Gini,24,,-22.75,-61.033333
+py,puesto toldo-i,Puesto Toldo-í,16,,-23.2,-57.983333
+py,puesto tortuga,Puesto Tortuga,24,,-22.683333,-61.133333
+py,puesto tres de mayo,Puesto Tres de Mayo,16,,-24.1,-58.066667
+py,puesto tuyuyu raity,Puesto Tuyuyú Raity,16,,-24.2,-59.383333
+py,puesto typycha,Puesto Typycha,13,,-26.266667,-57.9
+py,puesto valinotti-cue,Puesto Valinotti-Cué,16,,-23.183333,-58.216667
+py,puesto valle,Puesto Valle,13,,-27,-57.583333
+py,puesto vega,Puesto Vega,13,,-26.333333,-57.766667
+py,puesto victoria,Puesto Victoria,24,,-22.233333,-61.9
+py,puesto warnes,Puesto Warnes,23,,-19.95,-60.75
+py,puesto winchester,Puesto Winchester,16,,-22.766667,-58.883333
+py,puesto ybyra guazu,Puesto Ybyra Guazú,06,,-25.666667,-57.616667
+py,puesto yuasy-y,Puesto Yuasy-y,06,,-25.716667,-57.6
+py,puesto zarza,Puesto Zarza,05,,-26.65,-56.383333
+py,puesto zotti,Puesto Zotti,16,,-23,-59.9
+py,punta rieles,Punta Rieles,23,,-21.583333,-58.466667
+py,punto salto palmar,Punto Salto Palmar,16,,-24.35,-59.466667
+py,quebrachal,Quebrachal,24,,-22.783333,-62.016667
+py,quemado,Quemado,16,,-24.5,-59.083333
+py,quiindy,Quiindy,15,5137,-25.966667,-57.266667
+py,quintana,Quintana,24,,-23.483333,-61.183333
+py,quyquyho,Quyquyhó,15,757,-26.233333,-56.983333
+py,quyquyo,Quyquyó,15,,-26.233333,-56.983333
+py,quyyndy,Quyyndy,15,,-25.966667,-57.266667
+py,rafa,Rafa,07,,-22.616667,-56.733333
+py,ramirez-cue,Ramírez-cué,13,,-26.516667,-57.733333
+py,ramos,Ramos,07,,-22.35,-56.816667
+py,ramos,Ramos,12,,-26.733333,-57.283333
+py,rancho cabrera,Rancho Cabrera,11,,-26.216667,-54.816667
+py,rancho ocho,Rancho Ocho,13,,-26.183333,-57.766667
+py,rancho ocho,Rancho Ocho,16,,-23.266667,-59.733333
+py,rancho quemado,Rancho Quemado,16,,-23.116667,-59.833333
+py,randacua,Randacua,07,,-22.966667,-56.683333
+py,raul oviedo,Raul Oviedo,04,,-25.133333,-55.433333
+py,reduccion de san jose,Reducción de San José,17,,-24.25,-56.933333
+py,remancillo,Remancillo,16,,-25.166667,-57.533333
+py,remancito,Remancito,16,,-24.966667,-57.3
+py,remanzo,Remanzo,16,,-25.1,-57.566667
+py,repatriacion,Repatriación,04,7091,-25.533333,-55.95
+py,represa,Represa,24,,-22.95,-61.7
+py,reten-cue,Retén-cué,23,,-19.866667,-58.5
+py,retiro cuatro bocas,Retiro Cuatro Bocas,16,,-24.066667,-58.183333
+py,retiro-cue,Retiro-cué,16,,-23.983333,-58.85
+py,retiro davalos,Retiro Dávalos,16,,-24.316667,-58.616667
+py,retiro federico-cue,Retiro Federico-cué,07,,-22.6,-57.25
+py,retiro gonzalez,Retiro González,16,,-22.816667,-58.533333
+py,retiro itu,Retiro Itú,16,,-24.316667,-58.6
+py,retiro laguna,Retiro Laguna,07,,-22.4,-57.333333
+py,retiro,Retiro,07,,-22.233333,-57.633333
+py,retiro serrania,Retiro Serranía,07,,-22.383333,-57.5
+py,retiro yaguarete,Retiro Yaguarete,24,,-21.933333,-60.416667
+py,retiro yrigoyen,Retiro Yrigoyen,16,,-23.316667,-57.5
+py,rio corrientes,Río Corrientes,17,,-24.55,-55.95
+py,r. i. tres corrales,R. I. Tres Corrales,04,,-25.033333,-56.133333
+py,rivera porvenir,Rivera Porvenir,24,,-23.016667,-61.95
+py,rivera,Rivera,24,,-23.016667,-61.95
+py,roa rugua oratorio,Roa Rugua Oratorio,15,,-26.316667,-56.933333
+py,roa rugua,Roa Ruguá,15,,-26.316667,-56.933333
+py,robles-cue,Robles-cué,15,,-26.216667,-57.066667
+py,rojas-cue,Rojas-cué,16,,-24.6,-57.683333
+py,roque gonzales de santa cruz,Roque Gonzales de Santa Cruz,10,,-25.95,-56.233333
+py,roque gonzalez de santa cruz,Roque González de Santa Cruz,15,,-25.883333,-57.283333
+py,roque gonzalez santacruz,Roque González Santacruz,15,,-25.883333,-57.283333
+py,rosalina,Rosalina,02,,-23.483333,-55.933333
+py,rosario pastoreo,Rosario Pastoreo,05,,-25.883333,-55.75
+py,rosario pastorio,Rosario Pastorio,05,,-25.883333,-55.75
+py,rosario,Rosario,12,,-26.633333,-56.883333
+py,rosario,Rosario,17,,-24.45,-57.05
+py,rosarito,Rosarito,24,,-21.45,-61.633333
+py,saavedra,Saavedra,24,,-22.683333,-62.15
+py,sactorio,Sactorio,23,,-21.983333,-58.433333
+py,saladero risso,Saladero Risso,07,,-22.433333,-57.816667
+py,salinares,Salinares,07,,-23.066667,-57.433333
+py,salitre-cue,Salitre-cué,11,,-26.65,-56.366667
+py,salto del guaira,Salto del Guairá,19,7387,-24.05,-54.35
+py,salto palmar,Salto Palmar,16,,-24.35,-59.466667
+py,saltos de guaira,Saltos de Guairá,19,,-24.05,-54.35
+py,salvador-cue,Salvador-cué,16,,-24.383333,-57.9
+py,salvador,Salvador,10,,-25.9,-56.483333
+py,saly,Saly,07,,-22.433333,-57.15
+py,samaclay,Samaclay,16,,-23.5,-59.9
+py,samakay,Samakay,16,,-23.5,-59.9
+py,samaklay,Samaklay,16,,-23.5,-59.9
+py,san agustin,San Agustín,01,,-25.533333,-55.4
+py,san agustin,San Agustín,05,,-25.833333,-55.883333
+py,san alberto,San Alberto,01,4990,-24.966667,-54.9
+py,san anacleto,San Anacleto,23,,-21.65,-57.916667
+py,san antonio,San Antonio,01,,-25.8,-55.333333
+py,san antonio,San Antonio,04,,-25.083333,-55.783333
+py,san antonio,San Antonio,06,55759,-25.383333,-57.633333
+py,san antonio,San Antonio,07,,-23.016667,-56.866667
+py,san antonio,San Antonio,13,,-27.183333,-57.65
+py,san antonio,San Antonio,16,,-23.856111,-57.275
+py,san antonio,San Antonio,17,,-23.55,-56.933333
+py,san antonio,San Antonio,23,,-19.45,-60.183333
+py,san antonio,San Antonio,24,,-22.95,-61.95
+py,san augustin,San Augustín,05,,-25.833333,-55.883333
+py,san bernardino,San Bernardino,08,4651,-25.266667,-57.316667
+py,san bernardo,San Bernardo,16,,-24.833333,-58.683333
+py,san carlos,San Carlos,05,,-26.1,-55.766667
+py,san carlos,San Carlos,06,,-25.583333,-57.65
+py,san carlos,San Carlos,07,706,-22.266667,-57.333333
+py,san carlos,San Carlos,23,,-21.216667,-57.85
+py,san carlos,San Carlos,24,,-22.833333,-57.85
+py,sanchez cue,Sanchez Cué,04,,-25.2,-55.6
+py,san cosme,San Cosme,11,,-27.316667,-56.35
+py,san cosme y damian,San Cosme y Damián,11,2224,-27.316667,-56.35
+py,san cristobal,San Cristóbal,01,478,-25.916667,-55.45
+py,san estanislao,San Estanislao,17,14751,-24.65,-56.433333
+py,san fernando,San Fernando,02,,-23.266667,-55.8
+py,san fernando,San Fernando,13,,-26.6,-58.116667
+py,san fernando,San Fernando,16,,-23.666667,-57.633333
+py,san florencio,San Florencio,02,,-23.483333,-55.9
+py,san francisco,San Francisco,16,,-24.1,-57.15
+py,sanguina,Sanguina,07,,-22.933333,-56.633333
+py,san isidro de curuguaty,San Isidro de Curuguaty,19,,-24.516667,-55.7
+py,san joaquin,San Joaquín,04,1745,-24.95,-56.116667
+py,san joaquin,San Joaquín,24,,-21.583333,-61.9
+py,san jorge,San Jorge,23,,-20.45,-58.666667
+py,san jorje,San Jorje,23,,-20.45,-58.666667
+py,san jose de los arroyos,San José de los Arroyos,04,5118,-25.533333,-56.733333
+py,san jose del rosario,San José del Rosario,17,,-24.25,-56.933333
+py,san jose-mi,San José-mí,17,,-27.366667,-56.816667
+py,san jose obrero,San José Obrero,08,459,-25.25,-56.866667
+py,san jose,San José,02,,-22.4,-56.316667
+py,san jose,San José,04,,-25.533333,-56.733333
+py,san jose,San José,07,,-22.433333,-57.066667
+py,san jose,San José,11,,-26.7,-55.033333
+py,san jose,San José,16,,-22.466667,-57.833333
+py,san jose,San José,17,,-24.116667,-56.2
+py,san jose,San José,23,,-21.983333,-58.25
+py,san juan bautista de neembucu,San Juan Bautista de Ñeembucú,13,330,-26.65,-57.933333
+py,san juan bautista neembucu,San Juan Bautista Ñeembucú,13,,-26.65,-57.933333
+py,san juan bautista,San Juan Bautista,12,10935,-26.633333,-57.166667
+py,san juan bautista,San Juan Bautista,13,,-26.65,-57.933333
+py,san juan del parana,San Juan del Paraná,11,1494,-27.3,-55.966667
+py,san juan de neembucu,San Juan de Neembucú,13,,-26.65,-57.933333
+py,san juan neembucu,San Juan Neembucú,13,,-26.65,-57.933333
+py,san juan nepomuceno,San Juan Nepomuceno,05,7894,-26.1,-55.966667
+py,san juan,San Juan,11,,-27.266667,-56
+py,san juan,San Juan,16,,-23.983333,-57.283333
+py,san juan,San Juan,23,,-22.1,-58.266667
+py,san lazaro,San Lázaro,07,708,-22.166667,-57.916667
+py,san lorenzo de la frontera,San Lorenzo de la Frontera,06,,-25.366667,-57.6
+py,san lorenzo del campo grande,San Lorenzo del Campo Grande,06,,-25.333333,-57.533333
+py,san lorenzo,San Lorenzo,06,227898,-25.333333,-57.533333
+py,san lorenzo,San Lorenzo,13,,-26.783333,-57.666667
+py,san lorenzo,San Lorenzo,16,,-24.433333,-57.616667
+py,san luis boqueron,San Luis Boquerón,11,,-27.1,-56.6
+py,san luis de la sierra,San Luis de la Sierra,07,,-22.433333,-57.45
+py,san luis,San Luis,11,,-27.1,-56.6
+py,san miguel,San Miguel,01,,-25.6,-54.85
+py,san miguel,San Miguel,05,,-26.516667,-56.15
+py,san miguel,San Miguel,07,,-22.6,-56.883333
+py,san miguel,San Miguel,12,1210,-26.5,-57.05
+py,san pablo de ycuamandyyu,San Pablo de Ycuámandyyú,17,,-24.15,-57.066667
+py,san pablo,San Pablo,05,,-25.866667,-55.583333
+py,san pablo,San Pablo,16,,-20.583333,-58.816667
+py,san patricio,San Patricio,04,,-25.566667,-56.6
+py,san patricio,San Patricio,12,1525,-26.966667,-56.816667
+py,san pedro-cue,San Pedro-cué,05,,-26.516667,-56.766667
+py,san pedro del parana,San Pedro del Paraná,11,5723,-26.833333,-56.2
+py,san pedro de ycuamandiyu,San Pedro de Ycuamandiyú,17,9361,-24.1,-57.083333
+py,san pedro,San Pedro,16,,-22.533333,-58.433333
+py,san pedro,San Pedro,17,,-24.1,-57.083333
+py,san rafael del parana,San Rafael del Parana,11,460,-26.65,-54.933333
+py,san rafael,San Rafael,07,,-22.616667,-56.733333
+py,san rafael,San Rafael,11,,-27.133333,-56.383333
+py,san rafael,San Rafael,16,,-24.716667,-57.85
+py,san rafael,San Rafael,23,,-20.733333,-59.516667
+py,san ramon,San Ramón,01,,-24.883333,-54.766667
+py,san ramon,San Ramón,12,,-27.05,-56.7
+py,san ramon,San Ramón,23,,-20.616667,-58.95
+py,san ramon,San Ramón,24,,-21.1,-60.8
+py,san roman,San Roman,23,,-20.616667,-58.95
+py,san roque,San Roque,01,,-24.783333,-54.95
+py,san roque,San Roque,02,,-22.133333,-56.416667
+py,san roque,San Roque,10,,-25.816667,-55.866667
+py,san salvador,San Salvador,07,,-22.85,-57.8
+py,san salvador,San Salvador,10,723,-25.9,-56.483333
+py,san sebastian,San Sebastián,16,,-23.716667,-58.3
+py,san silvestre,San Silvestre,16,,-24.5,-58.766667
+py,santa ana,Santa Ana,16,,-25.2,-57.766667
+py,santa ana,Santa Ana,17,,-24.733333,-56.55
+py,santa anuncia,Santa Anuncia,16,,-24.283333,-57.15
+py,santa anunci,Santa Anunci,16,,-24.283333,-57.15
+py,santa catalina,Santa Catalina,13,,-26.5,-57.733333
+py,santa clara,Santa Clara,06,,-25.633333,-57.7
+py,santa cruz,Santa Cruz,23,,-22.333333,-58.333333
+py,santa elena,Santa Elena,08,1138,-25.4,-56.8
+py,santa elena,Santa Elena,16,,-24.266667,-57.533333
+py,santa eva,Santa Eva,16,,-23.916667,-57.9
+py,santa isabel,Santa Isabel,07,,-22.733333,-57.4
+py,santa isabel,Santa Isabel,16,,-24.633333,-57.783333
+py,santa jacinta,Santa Jacinta,16,,-24.883333,-57.666667
+py,santa librada,Santa Librada,16,,-24.833333,-58.366667
+py,santa lidia,Santa Lidia,23,,-22.3,-58.15
+py,santa luisa,Santa Luisa,07,,-22.433333,-56.766667
+py,santa maria,Santa Maria,11,,-26.9,-55.816667
+py,santa maria,Santa María,12,2095,-26.783333,-56.933333
+py,santa maria,Santa María,13,,-27.1,-58.15
+py,santa maria,Santa Maria,16,,-23.6,-57.733333
+py,santa maria,Santa María,23,,-20.416667,-58.116667
+py,santa rita,Santa Rita,01,11850,-25.783333,-55.066667
+py,santa rita,Santa Rita,12,,-27.15,-57.016667
+py,santa rita,Santa Rita,13,,-27.033333,-58.183333
+py,santa rosa de la misiones,Santa Rosa de la Misiones,12,,-26.866667,-56.85
+py,santa rosa,Santa Rosa,01,,-25.8,-54.883333
+py,santa rosa,Santa Rosa,04,,-24.566667,-55.783333
+py,santa rosa,Santa Rosa,11,,-27,-55.833333
+py,santa rosa,Santa Rosa,12,7257,-26.866667,-56.85
+py,santa rosa,Santa Rosa,17,,-23.866667,-56.566667
+py,santa rosa,Santa Rosa,23,,-20.6,-58.95
+py,santa rosa,Santa Rosa,24,,-21.766667,-61.716667
+py,santa sofia,Santa Sofía,07,,-22.333333,-57.15
+py,santa teresa,Santa Teresa,04,,-25.233333,-55.066667
+py,santa teresa,Santa Teresa,05,,-25.816667,-55.616667
+py,santa ursula,Santa Úrsula,05,,-26.333333,-56.133333
+py,santiago cue,Santiago Cué,11,,-26.866667,-55.933333
+py,santiago de las misiones,Santiago De Las Misiones,12,,-27.15,-56.783333
+py,santiago,Santiago,12,2144,-27.15,-56.783333
+py,santisima trinidad,Santísima Trinidad,06,,-25.25,-57.633333
+py,santo domingo,Santo Domingo,04,,-25.1,-55.766667
+py,santo domingo,Santo Domingo,11,,-26.65,-55.066667
+py,santo domingo,Santo Domingo,12,,-26.883333,-57.533333
+py,santo domingo,Santo Domingo,19,,-24.35,-55.1
+py,santo tome,Santo Tomé,05,,-25.866667,-55.65
+py,san vicente,San Vicente,01,,-25.566667,-55.116667
+py,san victor,San Victor,02,,-22.633333,-56.466667
+py,san ygnacio,San Ygnacio,12,,-26.866667,-57.05
+py,sapira,Sapirá,05,,-26.466667,-56.566667
+py,sapucai,Sapucai,07,,-22.816667,-56.4
+py,sapucai,Sapucaí,15,1932,-25.666667,-56.916667
+py,sapucay,Sapucay,15,,-25.666667,-56.916667
+py,sargento b. figueredo,Sargento B. Figueredo,24,,-21.633333,-61.25
+py,sargento rodriguez,Sargento Rodriguez,24,,-20.583333,-62.266667
+py,sargento saracho,Sargento Saracho,24,,-22.85,-61.083333
+py,sargento valinotti,Sargento Valinotti,24,,-21.566667,-61.366667
+py,sartorio,Sartorio,23,,-21.983333,-58.433333
+py,sastre,Sastre,23,,-22.1,-57.983333
+py,sati,Sati,07,,-22.433333,-57.15
+py,saty,Saty,07,,-22.433333,-57.15
+py,sauce juncal,Sauce Juncal,13,,-27.2,-58.566667
+py,sauzal,Sauzal,24,,-22.516667,-62.25
+py,say,Say,17,,-23.9,-56.066667
+py,sebastian-cue,Sebastián-cué,16,,-23.283333,-57.616667
+py,sebastian mi,Sebastian mi,13,,-27.216667,-57.933333
+py,sebastian,Sebastian,13,,-27.2,-57.766667
+py,siete de agosto,Siete de Agosto,11,,-26.45,-54.8
+py,soledad,Soledad,16,,-23.666667,-58.3
+py,sorpresa nueva,Sorpresa Nueva,16,,-24.016667,-60.05
+py,sorpresa,Sorpresa,16,,-24.016667,-60.05
+py,sosa,Sosa,05,,-26.316667,-56.533333
+py,sotera,Sotera,13,,-25.966667,-57.8
+py,tabai,Tabai,05,,-26.116667,-55.533333
+py,tabai,Tabai,06,,-25.416667,-57.283333
+py,taba-i,Taba-i,10,,-25.683333,-56.533333
+py,tabapy,Tabapy,15,,-25.883333,-57.283333
+py,tacuarai,Tacuaraí,13,,-27.016667,-57.733333
+py,tacuaras,Tacuaras,13,280,-26.816667,-58.1
+py,tacuara,Tacuara,17,,-23.6,-57.15
+py,tacuary,Tacuary,08,,-25.316667,-56.816667
+py,tacuati,Tacuatí,17,2406,-23.45,-56.583333
+py,tacuaty,Tacuaty,17,,-23.45,-56.583333
+py,tacuaty,Tacuaty,19,,-23.883333,-55.65
+py,tacuru-pucu,Tacuru-Pucu,01,,-25.366667,-54.75
+py,tagatiya,Tagatiya,07,,-22.883333,-57.633333
+py,tajhyire,Tajhyire,23,,-19.816667,-58.55
+py,talavera,Talavera,16,,-23.866667,-58.283333
+py,tapacare,Tapacaré,23,,-19.583333,-60.616667
+py,tapera b. madrid,Tapera B. Madrid,16,,-24.033333,-60.216667
+py,tapera el cuervo,Tapera El Cuervo,16,,-23.85,-60.366667
+py,tapera monte lindo,Tapera Monte Lindo,16,,-23.816667,-60.45
+py,tapyta,Tapytá,05,,-26.216667,-55.716667
+py,taruma,Tarumá,05,,-25.916667,-55.783333
+py,taruma,Tarumá,16,,-24.633333,-58.05
+py,tavai,Tavaí,05,,-26.116667,-55.533333
+py,tavai,Tavaí,06,,-25.416667,-57.283333
+py,tavai,Tavai,17,722,-26.483333,-56.35
+py,tayi-care,Tayí-caré,17,,-24.283333,-57.116667
+py,tayi care,Tayí Caré,19,,-24.516667,-54.416667
+py,tayi,Tayí,10,,-25.783333,-55.95
+py,tayi,Tayi,12,,-26.583333,-57.666667
+py,tayi,Tayî,15,,-26.3,-57.5
+py,tayy,Tayy,12,,-26.95,-57.333333
+py,tayy,Tayy,15,,-26.3,-57.5
+py,tebicuary mi,Tebicuary Mí,15,,-25.916667,-56.65
+py,tebicuary,Tebicuary,10,,-25.766667,-56.633333
+py,tejerina,Tejerina,16,,-23,-59.9
+py,teniente barrientes,Teniente Barrientes,24,,-22.383333,-61.583333
+py,teniente barrientos,Teniente Barrientos,24,,-22.383333,-61.583333
+py,teniente camperchioli,Teniente Camperchioli,24,,-22.816667,-59.983333
+py,teniente crovato,Teniente Crovato,24,,-21.75,-60.6
+py,teniente e. ortiz,Teniente E. Ortiz,24,,-22.466667,-60.466667
+py,teniente figueira,Teniente Figueira,24,,-22.683333,-61.133333
+py,teniente filgueira,Teniente Filgueira,24,,-22.683333,-61.133333
+py,teniente g. arias,Teniente G. Arias,24,,-22.833333,-60
+py,teniente h. gini,Teniente H. Gini,24,,-22.75,-61.033333
+py,teniente lugo chilaver,Teniente Lugo Chilaver,24,,-22.633333,-60.5
+py,teniente ochoa,Teniente Ochoa,24,,-21.7,-61.033333
+py,teniente pessolani,Teniente Pessolani,24,,-22.783333,-61.05
+py,teniente s. velazquez,Teniente S. Velázquez,24,,-22.783333,-60
+py,teniento bogado,Teniento Bogado,10,,-25.733333,-56.583333
+py,terbicuary,Terbicuary,10,,-25.766667,-56.65
+py,terecany,Terecañy,19,,-24.083333,-55.5
+py,terre noir,Terre Noir,16,,-24.6,-57.766667
+py,tezen,Tezén,24,,-22.616667,-61.3
+py,toba quemado,Toba Quemado,24,,-23.25,-61.416667
+py,tobas quemado,Tobas Quemado,24,,-23.25,-61.416667
+py,tobati,Tobatí,08,9953,-25.25,-57.066667
+py,tobaty,Tobaty,08,,-25.25,-57.066667
+py,toldo cue,Toldo Cué,07,,-23.233333,-57.416667
+py,toldo-cue,Toldo-cué,16,,-22.866667,-58.6
+py,torin,Torín,02,,-23.466667,-55.8
+py,toro-cua,Toro-cuá,10,,-25.683333,-56.516667
+py,toro pampa,Toro Pampa,23,,-21,-58.466667
+py,torora,Tororá,02,,-23.383333,-55.516667
+py,toro,Toro,23,,-19.866667,-58.383333
+py,torres-cue,Torres-cué,13,,-26.766667,-58.35
+py,torrez-cue,Torrez-cué,13,,-26.766667,-58.35
+py,tranquita,Tranquita,24,,-23.066667,-61.9
+py,tres boca,Tres Boca,13,,-26.95,-58.266667
+py,tres de noviembre,Tres de Noviembre,17,,-23.633333,-56.216667
+py,tres fronteras,Tres Fronteras,01,,-25.6,-54.583333
+py,tres ollas,Tres Ollas,07,,-22.733333,-57.733333
+py,tres pozos,Tres Pozos,24,,-21.516667,-61.416667
+py,triangulo,Triángulo,16,,-24.633333,-58.716667
+py,trinidad,Trinidad,06,,-25.25,-57.633333
+py,trinidad,Trinidad,11,2837,-27.116667,-55.783333
+py,tronquito,Tronquito,24,,-23.066667,-61.9
+py,tunani,Tunani,24,,-21.166667,-60.533333
+py,tunari,Tunari,24,,-21.166667,-60.533333
+py,tuna,Tuna,05,,-25.866667,-55.783333
+py,tuna,Tuna,19,,-24.233333,-55.833333
+py,tuscal,Tuscal,24,,-23.033333,-61.766667
+py,tuya,Tuya,12,,-27.2,-57.166667
+py,ugarte-cue,Ugarte-cue,07,,-23.016667,-57.35
+py,ultimo rancho,Último Rancho,16,,-23.433333,-58.266667
+py,umbu,Umbú,13,,-27,-58.3
+py,union,Unión,16,,-23.65,-58.366667
+py,union,Unión,17,1653,-24.8,-56.55
+py,urrujia duartey compania,Urrujia Duartey Compañía,05,,-26.633333,-56.45
+py,uruguaita estancia,Uruguaita Estancia,17,,-24.75,-57.15
+py,uruguaita,Uruguaitá,17,,-24.75,-57.15
+py,uruguaya,Uruguaya,16,,-23.95,-58.016667
+py,uruguayita,Uruguayita,17,,-24.75,-57.15
+py,urusapucai,Urusapucai,11,,-27.183333,-55.95
+py,vaca jhu,Vaca Jhu,17,,-24.566667,-56.616667
+py,vacareta,Vacaretá,13,,-26.9,-57.583333
+py,vacay,Vacay,11,,-26.9,-55.6
+py,valenzuela,Valenzuela,08,587,-25.583333,-56.866667
+py,valle apua,Valle Apúa,15,,-26.033333,-57.216667
+py,valle-mi,Valle-mí,07,,-22.133333,-57.966667
+py,valley-mi,Valley-mi,07,,-22.133333,-57.966667
+py,vapor cue,Vapor Cué,08,,-25.2,-56.783333
+py,veinticinco de diciembre,Veinticinco de Diciembre,17,766,-24.7,-56.55
+py,veinticinco de mayo,Veinticinco de Mayo,24,,-22.983333,-61.683333
+py,ventiocho kilometros de paranambu,Ventiocho Kilometros de Paranambu,01,,-25.816667,-54.833333
+py,vera-cue,Vera-cué,16,,-25.133333,-57.8
+py,vicente matiauda,Vicente Matiauda,11,,-27.233333,-55.6
+py,victoria guazu,Victoria Guazú,02,,-22.6,-55.866667
+py,villa azara,Villa Azara,01,,-25.9,-54.716667
+py,villa concepcion,Villa Concepción,07,,-23.406389,-57.434444
+py,villa curuguaty,Villa Curuguaty,19,,-24.516667,-55.7
+py,villa elisa,Villa Elisa,06,64138,-25.366667,-57.616667
+py,villa florida,Villa Florida,12,2305,-26.383333,-57.15
+py,villa franca,Villa Franca,13,459,-26.283333,-58.2
+py,villa hayes,Villa Hayes,16,16726,-25.1,-57.566667
+py,villalbin,Villalbin,13,375,-27.15,-57.916667
+py,villa mercedes,Villa Mercedes,01,,-25.516667,-55.366667
+py,villanueva san antonio,Villanueva San Antonio,24,,-22.9,-61.983333
+py,villanueva,Villanueva,24,,-22.916667,-62.016667
+py,villa occidental,Villa Occidental,16,,-25.1,-57.566667
+py,villa oliva,Villa Oliva,13,772,-26.016667,-57.883333
+py,villa pastoreo,Villa Pastoreo,05,,-25.866667,-55.85
+py,villa rey,Villa Rey,16,,-24.733333,-57.2
+py,villa rica,Villa Rica,10,,-25.75,-56.433333
+py,villarrica del espiritu santo,Villarrica del Espíritu Santo,10,,-25.75,-56.433333
+py,villarrica,Villarrica,10,41160,-25.75,-56.433333
+py,villa sana,Villa Sana,07,,-22.833333,-57.1
+py,villa san francisco,Villa San Francisco,01,,-25.416667,-54.633333
+py,villazon,Villazón,24,,-20.583333,-62.266667
+py,villeta,Villeta,06,11031,-25.466667,-57.6
+py,yabebyry,Yabebyry,12,217,-27.4,-57.183333
+py,yaguarele pyta,Yaguarele Pytá,23,,-20.566667,-58.666667
+py,yaguaron,Yaguarón,15,7182,-25.6,-57.3
+py,yajhape,Yajhapé,19,,-24.316667,-55.766667
+py,yaquaron,Yaquaron,15,,-25.6,-57.3
+py,yatairy,Yatairy,11,,-26.7,-55.033333
+py,yataity del norte,Yataity del Norte,17,1392,-24.833333,-56.35
+py,yataity,Yataity,05,1874,-26.366667,-56.066667
+py,yataity,Yataity,10,,-25.683333,-56.466667
+py,yataity,Yataity,13,,-27.233333,-57.65
+py,yatayty,Yatayty,10,,-25.683333,-56.466667
+py,yatay,Yatay,16,,-23.55,-59.9
+py,yatebu-i,Yatebu-í,24,,-21.6,-61.666667
+py,ybapobo,Ybapobo,17,,-23.6475,-57.391111
+py,ybaroty,Ybaroty,01,,-25.65,-55.4
+py,ybucu,Ybucú,15,,-26.066667,-57.216667
+py,ybycui,Ybycuí,15,4629,-26.016667,-57.05
+py,ybycul,Ybycul,15,,-26.016667,-57.05
+py,yby-pe,Yby-Pe,02,,-22.616667,-55.833333
+py,ybyra moroti,Ybyrá Morotí,13,,-25.916667,-57.65
+py,ybyra-pyta,Ybyrá-Pytá,19,,-24.4,-55.366667
+py,ybyrarobana,Ybyrarobana,19,,-24.233333,-55.116667
+py,ybytimi,Ybytimí,15,526,-25.766667,-56.783333
+py,ybytymi,Ybytymí,15,,-25.766667,-56.783333
+py,yby yau,Yby Yaú,07,,-22.983333,-56.533333
+py,ycua pora,Ycuá Porá,05,,-25.9,-55.766667
+py,yegros,Yegros,05,1140,-26.45,-56.4
+py,yero-cue,Yero-cué,16,,-25.133333,-57.8
+py,ygatimi,Ygatimí,19,2810,-24.083333,-55.5
+py,yhacangauzu,Yhacangauzu,10,,-25.95,-56.483333
+py,yhaca rugua,Yhacá Ruguá,04,,-25.65,-56.7
+py,yhaca,Yhacá,04,,-25.633333,-56.683333
+py,yhaty,Yhaty,10,,-25.733333,-56.516667
+py,yhu,Yhú,04,2092,-25.05,-55.916667
+py,ypacarai,Ypacarai,06,9656,-25.383333,-57.266667
+py,ypacaray,Ypacaray,06,,-25.383333,-57.266667
+py,ypane,Ypane,06,6659,-25.45,-57.533333
+py,ype jhu,Ypé Jhú,19,,-23.9,-55.333333
+py,ype-ju,Ype-ju,19,,-23.9,-55.333333
+py,ypucu,Ypucú,15,,-26.066667,-57.216667
+py,ypytu,Ypytú,23,,-19.783333,-58.55
+py,yrendague,Yrendagüe,24,,-20.516667,-62.133333
+py,ytaquyry,Ytaquyry,01,,-24.933333,-55.216667
+py,ytororo,Ytororó,24,,-23.416667,-61.083333
+py,yukiri,Yukirí,19,,-24.4,-55.616667
+py,yuty,Yuty,05,4774,-26.6,-56.25
+py,zanja pyta,Zanja Pyta,02,,-22.633333,-55.666667
+py,zanjita,Zanjita,15,,-25.95,-57.116667
+py,zapatero-cue,Zapatero-cué,07,,-23.283333,-57.35
+py,zarate isla,Zarate Isla,06,,-25.233333,-57.5
+py,zeballos-cue,Zeballos-cué,16,,-25.216667,-57.583333
+py,zebolla,Zebolla,07,,-22.383333,-57.666667
+py,zebollo,Zebollo,07,,-22.383333,-57.666667
+py,zenteno,Zenteno,24,,-23.533333,-61.333333

@@ -1,0 +1,16 @@
+sh,deadwood,Deadwood,00,,-15.9333333,-5.6833333
+sh,edinburgh,Edinburgh,00,271,-37.05,-12.3
+sh,georgetown,Georgetown,00,538,-7.9333333,-14.4166667
+sh,half tree hollow,Half Tree Hollow,00,,-15.9333333,-5.7166667
+sh,hutts gate,Hutts Gate,00,,-15.9666667,-5.7
+sh,jamestown,Jamestown,00,637,-15.9333333,-5.7166667
+sh,levelwood,Levelwood,00,,-15.9666667,-5.6833333
+sh,longwood,Longwood,00,,-15.95,-5.6833333
+sh,new ground,New Ground,00,,-15.9333333,-5.7333333
+sh,settlement of edinburgh,Settlement of Edinburgh,00,,-37.05,-12.3
+sh,taglate,Taglate,00,,-15.9666667,-5.6833333
+sh,thornton,Thornton,00,,-7.9333333,-14.4166667
+sh,tristan island settlement,Tristan Island Settlement,00,,-37.05,-12.3
+sh,tristan settlement,Tristan Settlement,00,,-37.05,-12.3
+sh,two boats village,Two Boats Village,00,,-7.9883333,-14.3661111
+sh,wild cattle pound,Wild Cattle Pound,00,,-16.9833333,-5.7666667

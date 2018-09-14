@@ -1,0 +1,92 @@
+ms,amersham,Amersham,01,,16.7,-62.2
+ms,baker hill,Baker Hill,03,,16.7666667,-62.2
+ms,bank level,Bank Level,03,,16.7833333,-62.2
+ms,banks,Banks,03,,16.7666667,-62.2
+ms,beech hill,Beech Hill,02,,16.7166667,-62.1833333
+ms,bethel,Bethel,02,,16.7333333,-62.15
+ms,black ghaut basin,Black Ghaut Basin,03,,16.7833333,-62.2
+ms,bramble,Bramble,02,,16.7333333,-62.1666667
+ms,bransby,Bransby,01,,16.7166667,-62.2333333
+ms,cavalla hill,Cavalla Hill,03,,16.7666667,-62.2
+ms,cheapend,Cheapend,03,,16.7666667,-62.2166667
+ms,cork hill,Cork Hill,01,,16.7166667,-62.2166667
+ms,cork hill village,Cork Hill Village,01,,16.7166667,-62.2166667
+ms,cudjoe head,Cudjoe Head,03,,16.7833333,-62.2
+ms,cudjoehead village,Cudjoehead Village,03,,16.7833333,-62.2
+ms,cuojoe head,Cuojoe Head,03,,16.7833333,-62.2
+ms,dagenham,Dagenham,01,,16.7,-62.2166667
+ms,davy hill,Davy Hill,03,,16.7833333,-62.2
+ms,delvins,Delvins,01,,16.7166667,-62.2166667
+ms,dick hill,Dick Hill,02,,16.7666667,-62.1833333
+ms,drummond's,Drummond's,03,,16.7833333,-62.1833333
+ms,duberry hill,Duberry Hill,03,,16.75,-62.2166667
+ms,dyer's,Dyer's,02,,16.7166667,-62.1833333
+ms,fairfield,Fairfield,01,,16.6833333,-62.2
+ms,farm,Farm,02,,16.7333333,-62.1666667
+ms,farm village,Farm Village,02,,16.7333333,-62.1666667
+ms,fleming,Fleming,03,,16.7333333,-62.2
+ms,fogarty,Fogarty,03,,16.7666667,-62.2
+ms,fox's bay,Fox's Bay,01,,16.7166667,-62.2333333
+ms,frith,Frith,03,,16.7333333,-62.2166667
+ms,gages,Gages,01,,16.7,-62.2
+ms,gerald's bottom,Gerald's Bottom,03,,16.7833333,-62.1833333
+ms,gerald's,Gerald's,03,,16.7833333,-62.1833333
+ms,gingoes,Gingoes,01,,16.6833333,-62.2
+ms,glen mhor,Glen Mhor,01,,16.7,-62.2
+ms,gun hill,Gun Hill,02,,16.7166667,-62.1833333
+ms,happy hill,Happy Hill,03,,16.7333333,-62.2166667
+ms,harris,Harris,02,,16.7333333,-62.1833333
+ms,harris village,Harris Village,02,,16.7333333,-62.1833333
+ms,harris' village,Harris' Village,02,,16.7333333,-62.1833333
+ms,hodge's hill,Hodge's Hill,02,,16.7166667,-62.1833333
+ms,hope,Hope,03,,16.7333333,-62.2
+ms,iles bay,Iles Bay,03,,16.7333333,-62.2166667
+ms,jubilee town,Jubilee Town,01,,16.7,-62.2166667
+ms,judy piece,Judy Piece,02,,16.7666667,-62.1833333
+ms,kinsale,Kinsale,01,,16.7,-62.2166667
+ms,kinsale village,Kinsale Village,01,,16.7,-62.2166667
+ms,lee's,Lee's,02,,16.7166667,-62.2
+ms,lees village,Lees Village,02,,16.7166667,-62.2
+ms,long ground,Long Ground,02,,16.7166667,-62.1666667
+ms,long ground village,Long Ground Village,02,,16.7166667,-62.1666667
+ms,mango hill,Mango Hill,02,,16.7666667,-62.1833333
+ms,marko bottom,Marko Bottom,03,,16.7833333,-62.2
+ms,molyneux,Molyneux,02,,16.7166667,-62.2
+ms,morris',Morris',01,,16.6833333,-62.1833333
+ms,nixons,Nixons,03,,16.7666667,-62.2
+ms,old norwood,Old Norwood,03,,16.7833333,-62.1833333
+ms,old towne,Old Towne,03,,16.7333333,-62.2166667
+ms,olveston,Olveston,03,,16.7333333,-62.2166667
+ms,parsons,Parsons,01,,16.7,-62.2
+ms,plymouth,Plymouth,01,,16.7,-62.2166667
+ms,pond bottom,Pond Bottom,03,,16.7666667,-62.2
+ms,rendezvous,Rendezvous,03,,16.8,-62.2
+ms,rendezvous village,Rendezvous Village,03,,16.8,-62.2
+ms,richmond hill,Richmond Hill,01,,16.7166667,-62.2166667
+ms,richmond,Richmond,01,,16.7,-62.2166667
+ms,roche's yard,Roche's Yard,01,,16.7,-62.15
+ms,rocklands,Rocklands,03,,16.7666667,-62.2166667
+ms,ryners,Ryners,01,,16.7,-62.2
+ms,saint george's hill,Saint George's Hill,02,,16.7166667,-62.2
+ms,saint john,Saint John,03,,16.7833333,-62.2
+ms,saint john's,Saint John's,03,,16.7833333,-62.2
+ms,saint john's village,Saint John's Village,03,,16.7833333,-62.2
+ms,saint patrick's,Saint Patrick's,01,,16.6833333,-62.2
+ms,saint patrick's village,Saint Patrick's Village,01,,16.6833333,-62.2
+ms,saint peters,Saint Peters,03,,16.7666667,-62.2166667
+ms,saint peter's village,Saint Peter's Village,03,,16.7666667,-62.2166667
+ms,salem,Salem,03,,16.75,-62.2166667
+ms,shooters hill,Shooters Hill,01,,16.6666667,-62.1833333
+ms,soldier ghaut,Soldier Ghaut,03,,16.7833333,-62.2
+ms,spanish point,Spanish Point,02,,16.7333333,-62.15
+ms,streatham,Streatham,02,,16.7166667,-62.1833333
+ms,trant's,Trant's,02,,16.75,-62.15
+ms,trials,Trials,01,,16.6833333,-62.2
+ms,tuitt's,Tuitt's,02,,16.7166667,-62.15
+ms,victoria,Victoria,01,,16.7,-62.2166667
+ms,virgin island,Virgin Island,03,,16.7666667,-62.2166667
+ms,webbs,Webbs,01,,16.7,-62.2166667
+ms,weekes,Weekes,02,,16.7166667,-62.2
+ms,windy hill,Windy Hill,02,,16.7333333,-62.1833333
+ms,woodlands,Woodlands,03,,16.75,-62.2166667
+ms,zion hill,Zion Hill,03,,16.7666667,-62.2

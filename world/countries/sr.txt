@@ -1,0 +1,728 @@
+sr,abanna kondre,Abanna Kondre,10,,5.1333333,-54.9833333
+sr,abenaston,Abenaston,18,,4.45,-55.3666667
+sr,abendanon,Abendanon,18,,4.2833333,-54.5
+sr,abenekokondre,Abenekokondre,13,,5.3,-54.2333333
+sr,abene-oton,Abene-oton,18,,4.45,-55.3666667
+sr,abetwakondre,Abetwakondre,18,,3.9166667,-54.8
+sr,abontjeman,Abontjeman,18,,4.8666667,-55.0
+sr,acote,Acote,18,,4.3333333,-54.45
+sr,adawai,Adawai,10,,4.5833333,-55.1833333
+sr,adjama,Adjama,10,,4.8166667,-55.0
+sr,adjamoe-kondre,Adjamoe-kondre,13,,5.6,-54.25
+sr,adjoemakondre,Adjoemakondre,13,,5.6,-54.25
+sr,affifisitie,Affifisitie,18,,4.05,-54.8
+sr,affivisiti,Affivisiti,18,,4.05,-54.8
+sr,affivisitie,Affivisitie,18,,4.05,-54.8
+sr,affobakka,Affobakka,10,,5.0,-54.9833333
+sr,afobaka,Afobaka,10,,5.0,-54.9833333
+sr,agama kreek,Agama Kreek,15,,5.5,-54.7
+sr,agamakriki,Agamakriki,15,,5.5,-54.7
+sr,agila,Agila,15,,5.3666667,-55.0
+sr,agitiondro,Agitiondro,13,,5.7833333,-54.4666667
+sr,agitriondre,Agitriondre,13,,5.7833333,-54.4666667
+sr,agossa,Agossa,18,,3.5,-55.1
+sr,ajokojokondre,Ajokojokondre,18,,3.9166667,-54.8
+sr,akalikondre,Akalikondre,13,,5.6,-54.4333333
+sr,akalli kondre,Akalli Kondre,13,,5.6,-54.4333333
+sr,akoelitatajeprati,Akoelitatajeprati,18,,4.15,-55.9
+sr,akoelitatojeprati,Akoelitatojeprati,18,,4.15,-55.9
+sr,akote,Akote,18,,4.3333333,-54.45
+sr,akroikondre,Akroikondre,13,,5.4666667,-54.1
+sr,alalapadu,Alalapadu,18,,2.5333333,-56.3333333
+sr,albina,Albina,13,4138,5.5,-54.05
+sr,aliance,Aliance,11,,5.9,-54.9
+sr,alkmaar,Alkmaar,11,,5.85,-55.0333333
+sr,alliance,Alliance,11,,5.9,-54.9
+sr,aloepi 1,Aloepi 1,18,,2.8166667,-55.8833333
+sr,aloepi 2,Aloepi 2,18,,2.8,-55.9
+sr,aloepi,Aloepi,18,,2.8166667,-55.8833333
+sr,aloepi een,Aloepi Een,18,,2.8166667,-55.8833333
+sr,aloepi twee,Aloepi Twee,18,,2.8,-55.9
+sr,alopi,Alopi,18,,3.25,-55.5333333
+sr,alopidorp,Alopidorp,18,,3.25,-55.5333333
+sr,americankondre,Americankondre,18,,4.8333333,-54.4666667
+sr,anapaike,Anapaike,18,,3.4166667,-54.0333333
+sr,anapi,Anapi,18,,2.35,-56.2833333
+sr,aneewakampoe,Aneewakampoe,18,,3.9666667,-54.8
+sr,aneewakondre,Aneewakondre,18,,3.9666667,-54.8
+sr,anna maria,Anna Maria,17,,5.8666667,-55.5666667
+sr,antongron,Antongron,17,,5.8833333,-55.65
+sr,antonigron,Antonigron,17,,5.8833333,-55.65
+sr,apetina,Apetina,18,,3.5,-55.0666667
+sr,apikalo,Apikalo,18,,2.1166667,-56.25
+sr,apikollo,Apikollo,18,,2.1166667,-56.25
+sr,apikolo,Apikolo,18,,2.1166667,-56.25
+sr,apikotto,Apikotto,18,,2.1166667,-56.25
+sr,apoekakondre,Apoekakondre,18,,3.9,-54.8
+sr,apoera,Apoera,18,,5.2,-57.1666667
+sr,apoteki,Apoteki,18,,2.8833333,-55.3833333
+sr,apotheki,Apotheki,18,,2.8833333,-55.3833333
+sr,apothekidorp,Apothekidorp,18,,2.8833333,-55.3833333
+sr,appera,Appera,18,,5.2,-57.1666667
+sr,appikalo,Appikalo,18,,2.1166667,-56.25
+sr,apura,Apura,18,,5.2,-57.1666667
+sr,arakoniekondre,Arakoniekondre,18,,5.3333333,-56.4833333
+sr,arokonie kondre,Arokonie Kondre,18,,5.3333333,-56.4833333
+sr,asafiri kondre,Asafiri Kondre,17,,5.5,-55.9
+sr,asidonhopo,Asidonhopo,18,,4.0,-55.4833333
+sr,asidonhoppo,Asidonhoppo,18,,4.0,-55.4833333
+sr,asidonkondre,Asidonkondre,18,,3.8333333,-54.85
+sr,asindonhopo,Asindonhopo,18,,4.0,-55.4833333
+sr,asoenoebo,Asoenoebo,18,,4.6166667,-55.6833333
+sr,asognekondre,Asognekondre,18,,4.2166667,-54.55
+sr,assidonhoppo,Assidonhoppo,18,,4.0,-55.4833333
+sr,atereboto,Atereboto,18,,4.45,-55.7666667
+sr,atipakondre,Atipakondre,18,,3.95,-54.8
+sr,auca,Auca,10,,5.35,-55.0333333
+sr,aucaners,Aucaners,18,,3.8,-54.85
+sr,aurora,Aurora,18,,4.3833333,-55.4
+sr,awadam,Awadam,18,,3.8333333,-55.65
+sr,awa-damkondre,Awa-damkondre,18,,3.8333333,-55.65
+sr,baikoetoe,Baikoetoe,10,,4.5666667,-55.3
+sr,bajkoetoe,Bajkoetoe,10,,4.5666667,-55.3
+sr,bakrakondre,Bakrakondre,18,,3.8,-55.7
+sr,bakra oppestan,Bakra Oppestan,10,,4.7333333,-55.1
+sr,bakra-oppeston,Bakra-oppeston,10,,4.7333333,-55.1
+sr,bakra opposton,Bakra Opposton,10,,4.7333333,-55.1
+sr,bakrapranas,Bakrapranas,18,,3.8,-55.7
+sr,balin,Balin,18,,4.9333333,-55.55
+sr,baloemadam,Baloemadam,18,,3.9833333,-55.5
+sr,bamboesi,Bamboesi,13,,5.5333333,-54.0333333
+sr,bamboesie,Bamboesie,13,,5.5333333,-54.0333333
+sr,basiakampoe,Basiakampoe,13,,5.65,-54.2
+sr,batavia,Batavia,17,,5.7,-55.8666667
+sr,beerdoti,Beerdoti,10,,4.7833333,-55.0666667
+sr,beerdotti,Beerdotti,10,,4.7833333,-55.0666667
+sr,begoeba,Begoeba,18,,4.3166667,-55.4166667
+sr,belwaarde,Belwaarde,11,,5.85,-55.0833333
+sr,bendorp,Bendorp,18,,3.6833333,-54.0833333
+sr,bensdorp,Bensdorp,18,,3.6833333,-54.0833333
+sr,benzdorf,Benzdorf,18,,3.6833333,-54.0833333
+sr,benzdorp,Benzdorp,18,,3.6833333,-54.0833333
+sr,berceba,Berceba,15,,5.5166667,-55.2166667
+sr,berendslust,Berendslust,11,,5.6,-55.0333333
+sr,bergendaal,Bergendaal,10,,5.15,-55.0666667
+sr,berg en dal,Berg en Dal,10,,5.15,-55.0666667
+sr,bergen op zoom,Bergen op Zoom,11,,5.55,-55.0333333
+sr,berlijn,Berlijn,15,,5.4,-55.2166667
+sr,bersaba,Bersaba,15,,5.5166667,-55.2166667
+sr,bethania,Bethania,17,,5.85,-55.4833333
+sr,bethesda,Bethesda,11,,5.6166667,-55.0666667
+sr,bethsebs,Bethsebs,15,,5.5166667,-55.2166667
+sr,biakronie,Biakronie,18,,3.8333333,-54.85
+sr,bigi poika,Bigi Poika,15,,5.4166667,-55.5
+sr,bigiston,Bigiston,13,,5.4,-54.1333333
+sr,bilawatra,Bilawatra,18,,4.9333333,-55.55
+sr,bilo langa hoekoe,Bilo Langa Hoekoe,13,,5.7666667,-54.4
+sr,birihoedoematoe,Birihoedoematoe,10,,4.9,-55.0833333
+sr,birthoedoematoe,Birthoedoematoe,10,,4.9,-55.0833333
+sr,bitagron,Bitagron,18,,5.1666667,-56.1
+sr,blakawabra,Blakawabra,15,,5.3833333,-54.9166667
+sr,blakawatra,Blakawatra,15,,5.3833333,-54.9166667
+sr,bloferie,Bloferie,15,,5.6166667,-55.3833333
+sr,bofe,Bofe,18,,5.0,-55.55
+sr,bombay,Bombay,14,,5.8333333,-56.8166667
+sr,boom jachtlust,Boom Jachtlust,11,,5.8166667,-55.1
+sr,boschland,Boschland,10,,5.1,-54.9833333
+sr,boschland,Boschland,18,,4.3333333,-55.7833333
+sr,boskamp,Boskamp,17,,5.7833333,-55.9
+sr,bosland,Bosland,10,,5.1,-54.9833333
+sr,bosland,Bosland,18,,4.3333333,-55.7833333
+sr,boslanti,Boslanti,18,,4.3333333,-55.7833333
+sr,boston,Boston,15,,5.7166667,-55.3666667
+sr,botopasi,Botopasi,18,,4.2333333,-55.45
+sr,botopasie,Botopasie,18,,4.2333333,-55.45
+sr,botopassi,Botopassi,18,,4.2333333,-55.45
+sr,bottopass,Bottopass,18,,4.2333333,-55.45
+sr,bottopassi,Bottopassi,18,,4.2333333,-55.45
+sr,bottriekoe santi,Bottriekoe Santi,18,,5.0666667,-55.55
+sr,boxel,Boxel,11,,5.7166667,-55.1
+sr,broederschap,Broederschap,17,,5.8833333,-55.55
+sr,brokolonko,Brokolonko,18,,5.0333333,-55.5333333
+sr,brokolonko placer,Brokolonko Placer,18,,5.0333333,-55.5333333
+sr,brokopondo,Brokopondo,10,2072,5.0666667,-54.9666667
+sr,bronsweg,Bronsweg,10,,5.0166667,-55.1666667
+sr,brownsweg,Brownsweg,10,,5.0166667,-55.1666667
+sr,burnside,Burnside,12,,5.9166667,-56.4
+sr,cajana,Cajana,18,,3.9,-55.5666667
+sr,calbo,Calbo,13,,5.8,-54.45
+sr,calcutta,Calcutta,17,,5.85,-55.6833333
+sr,caledonia,Caledonia,17,,5.8333333,-55.8166667
+sr,carel francois,Carel François,17,,5.8333333,-55.7666667
+sr,carl francois,Carl François,17,,5.8333333,-55.7666667
+sr,carolina,Carolina,15,,5.4,-55.0666667
+sr,casipora,Casipora,15,,5.4,-54.9333333
+sr,cassabaondro,Cassabaondro,13,,5.4833333,-54.4
+sr,cassabeondre,Cassabeondre,13,,5.4833333,-54.4
+sr,cassipora,Cassipora,15,,5.4,-54.9333333
+sr,catharina sofia,Catharina Sofia,17,,5.8666667,-55.5666667
+sr,catharina sophia,Catharina Sophia,17,,5.8666667,-55.5666667
+sr,charlotteburg,Charlotteburg,11,,5.8666667,-54.7833333
+sr,charlottenburg,Charlottenburg,11,,5.8666667,-54.7833333
+sr,chatillon,Chatillon,11,,5.6166667,-55.0666667
+sr,christiaankondre,Christiaankondre,13,,5.7,-54.0
+sr,christiankondre,Christiankondre,13,,5.7,-54.0
+sr,clementi,Clementi,18,,4.1833333,-54.5833333
+sr,clementie,Clementie,18,,4.1833333,-54.5833333
+sr,clevia,Clevia,11,,5.8666667,-55.1
+sr,commissaris kondre,Commissaris Kondre,15,,5.25,-55.35
+sr,compagnie des mines d'or,Compagnie des Mines d'Or,18,,3.6833333,-54.0833333
+sr,compagnieloo,Compagnieloo,18,,4.1833333,-54.6
+sr,constancia,Constancia,11,,5.9166667,-54.9166667
+sr,constantia,Constantia,11,,5.9166667,-54.9166667
+sr,constantin,Constantin,11,,5.9166667,-54.9166667
+sr,copaivagogo,Copaivagogo,10,,4.6,-55.1666667
+sr,copie,Copie,15,,5.5333333,-54.8
+sr,coppenamepunt,Coppenamepunt,17,,5.7833333,-55.9
+sr,corneles kondre,Corneles Kondre,18,,5.35,-56.1333333
+sr,cornelis-kondre,Cornelis-kondre,18,,5.35,-56.1333333
+sr,corneliskondre,Corneliskondre,18,,5.35,-56.1333333
+sr,cornelius kondre,Cornelius Kondre,18,,5.35,-56.1333333
+sr,corome,Corome,12,,5.8833333,-56.3166667
+sr,coronie,Coronie,12,,5.8833333,-56.3166667
+sr,cottica,Cottica,18,,3.85,-54.2333333
+sr,cotticadorp,Cotticadorp,18,,3.85,-54.2333333
+sr,crappahoek,Crappahoek,14,,5.8833333,-56.9
+sr,cupido,Cupido,14,,5.6666667,-56.6833333
+sr,dablasiekondre,Dablasiekondre,18,,3.9,-54.8
+sr,dahome,Dahome,18,,4.0333333,-55.4666667
+sr,dahomey,Dahomey,18,,4.0333333,-55.4666667
+sr,dam,Dam,10,,4.6666667,-54.95
+sr,dam parra,Dam Parra,17,,5.65,-55.4166667
+sr,dampoentoeng,Dampoentoeng,17,,5.8166667,-55.5
+sr,dampoentong,Dampoentong,17,,5.8166667,-55.5
+sr,dang,Dang,18,,4.2,-55.4333333
+sr,dankbaarheid,Dankbaarheid,17,,5.8833333,-55.6
+sr,deboe,Deboe,18,,3.9,-55.5666667
+sr,deboekondre,Deboekondre,18,,3.9,-55.5666667
+sr,de drie gebroeders,De Drie Gebroeders,11,,5.6,-55.0666667
+sr,de goede hoop,De Goede Hoop,18,,5.5333333,-55.95
+sr,dehan,Dehan,18,,3.9,-55.5833333
+sr,dehankondre,Dehankondre,18,,3.9,-55.5833333
+sr,dehau,Dehau,18,,3.9,-55.5833333
+sr,de jong noord,De Jong Noord,10,,5.1166667,-55.25
+sr,de jong zuid,De Jong Zuid,10,,5.0833333,-55.2333333
+sr,dekweh,Dekweh,18,,3.9333333,-55.45
+sr,dekwekondre,Dekwekondre,18,,3.9333333,-55.45
+sr,destombesburg,Destombesburg,11,,5.7,-54.7166667
+sr,de vier hendrikken,De Vier Hendrikken,15,,5.6166667,-55.3833333
+sr,de vrede,De Vrede,15,,5.45,-55.15
+sr,dirkshoop,Dirkshoop,17,,5.7833333,-55.4833333
+sr,dissiong,Dissiong,10,,4.6666667,-55.1
+sr,djoemoe,Djoemoe,18,,4.0166667,-55.4833333
+sr,doewatta,Doewatta,10,,4.55,-55.3
+sr,dombaai,Dombaai,18,,3.9166667,-55.55
+sr,dombaaikondre,Dombaaikondre,18,,3.9166667,-55.55
+sr,domburg,Domburg,19,,5.7,-55.0833333
+sr,donderkamp,Donderkamp,18,,5.35,-56.3666667
+sr,dorp cottica,Dorp Cottica,18,,3.85,-54.2333333
+sr,dotti bergi,Dotti Bergi,18,,5.05,-55.55
+sr,draai,Draai,18,,4.1833333,-54.5666667
+sr,draij,Draij,18,,4.1833333,-54.5666667
+sr,drietabbetje,Drietabbetje,18,,4.1166667,-54.6666667
+sr,eduardkondre,Eduardkondre,13,,5.4666667,-54.1
+sr,einde rust,Einde Rust,11,,5.9166667,-55.0833333
+sr,elisabeth's hoop,Elisabeth's Hoop,11,,5.9,-55.0333333
+sr,ephrata,Ephrata,11,,5.8166667,-54.75
+sr,ephratha,Ephratha,11,,5.8166667,-54.75
+sr,esterslust,Esterslust,11,,5.5166667,-55.0166667
+sr,esthers lust,Esthers Lust,11,,5.5166667,-55.0166667
+sr,fijetti,Fijetti,18,,4.3833333,-55.8
+sr,flora,Flora,16,,5.8,-55.2
+sr,fort amsterdam,Fort Amsterdam,11,,5.8833333,-55.0833333
+sr,fort neu-amsterdam,Fort Neu-Amsterdam,11,,5.8833333,-55.0833333
+sr,fort new amsterdam,Fort New Amsterdam,11,,5.8833333,-55.0833333
+sr,fossi bergi,Fossi Bergi,10,,5.2166667,-55.3333333
+sr,fossi bergi,Fossi Bergi,18,,5.2833333,-56.3833333
+sr,fossiebergi,Fossiebergi,10,,5.2166667,-55.3333333
+sr,fransman landing,Fransman Landing,18,,5.2,-57.0666667
+sr,friendship,Friendship,12,,5.9,-56.3333333
+sr,gakaba,Gakaba,18,,4.4666667,-54.4333333
+sr,galibi,Galibi,13,,5.75,-54.0
+sr,ganiakondre,Ganiakondre,10,,4.8333333,-55.0833333
+sr,gansee,Gansee,10,,4.8166667,-55.0666667
+sr,ganse,Gansé,10,,4.8166667,-55.0666667
+sr,geertruidenberg,Geertruidenberg,11,,5.8833333,-55.05
+sr,gege,Gege,10,,4.7,-54.9666667
+sr,gelderland,Gelderland,15,,5.4333333,-54.9833333
+sr,george kondre,George Kondre,13,,5.6333333,-54.1
+sr,glasgow,Glasgow,14,,5.9166667,-56.9166667
+sr,gloria,Gloria,14,,5.8833333,-56.9
+sr,godawatra,Godawatra,18,,3.8833333,-55.5833333
+sr,goddodrai,Goddodrai,15,,5.4666667,-54.6833333
+sr,goddo,Goddo,18,,4.0166667,-55.4666667
+sr,goddo watra,Goddo Watra,18,,3.8833333,-55.5833333
+sr,gododrai,Gododrai,15,,5.4666667,-54.6833333
+sr,godo,Godo,18,,4.0166667,-55.4666667
+sr,godo-watradorp,Godo-watradorp,18,,3.8833333,-55.5833333
+sr,godowatra,Godowatra,18,,3.8833333,-55.5833333
+sr,goejaba,Goejaba,18,,4.3166667,-55.4166667
+sr,gonoe,Gonoe,18,,5.1,-54.4166667
+sr,granboridorp,Granboridorp,18,,3.8,-54.85
+sr,granbori,Granbori,18,,3.8,-54.85
+sr,gran dahomeij,Gran Dahomeij,18,,4.0333333,-55.4666667
+sr,grandam,Grandam,18,,3.9666667,-55.5333333
+sr,grankopie,Grankopie,15,,5.3666667,-54.65
+sr,grankopi,Grankopi,15,,5.3666667,-54.65
+sr,granmankondre,Granmankondre,18,,4.0,-55.4833333
+sr,granpakkapakka,Granpakkapakka,18,,4.6333333,-55.6833333
+sr,gran poika,Gran Poika,15,,5.4166667,-55.5
+sr,gran slee,Gran Slee,18,,4.0333333,-55.4833333
+sr,groenkreek,Groenkreek,15,,5.4,-54.7333333
+sr,groenkr,Groenkr,15,,5.4,-54.7333333
+sr,groningen,Groningen,17,3112,5.8,-55.4666667
+sr,groot chatillon en bethesda,Groot Chatillon en Bethesda,11,,5.6166667,-55.0666667
+sr,groot chatillon,Groot Chatillon,11,,5.6166667,-55.0666667
+sr,groot henar,Groot Henar,14,,5.8666667,-56.8666667
+sr,groot henarpolder,Groot Henarpolder,14,,5.8666667,-56.8666667
+sr,groot poika,Groot Poika,15,,5.4166667,-55.5
+sr,gros,Gros,10,,5.1,-55.25
+sr,gros placer,Gros Placer,10,,5.1,-55.25
+sr,gross placer,Gross Placer,10,,5.1,-55.25
+sr,guiana goldplacer,Guiana Goldplacer,10,,5.15,-55.2666667
+sr,guyanagoudplacer,Guyanagoudplacer,10,,5.15,-55.2666667
+sr,gwegwefoetoe,Gwegwefoetoe,13,,5.3,-54.2333333
+sr,haarlem,Haarlem,15,,5.65,-55.3333333
+sr,hamburg,Hamburg,17,,5.7833333,-55.35
+sr,hamilton,Hamilton,12,,5.8833333,-56.25
+sr,hampton court,Hampton Court,14,,5.9,-56.9166667
+sr,hannover,Hannover,15,,5.5,-55.15
+sr,hanover,Hanover,15,,5.5,-55.15
+sr,hecht en sterk,Hecht en Sterk,11,,5.8833333,-54.9666667
+sr,hedoti,Hédoti,18,,5.2333333,-56.0666667
+sr,heidoti,Heidoti,18,,4.8666667,-55.5666667
+sr,hekoenoe,Hekoenoe,18,,4.1333333,-55.45
+sr,herminadorp,Herminadorp,18,,5.1666667,-54.35
+sr,herstelling,Herstelling,11,,5.6166667,-54.7333333
+sr,hildesheim,Hildesheim,17,,5.85,-55.7666667
+sr,hoofdkamp,Hoofdkamp,18,,2.9666667,-55.3666667
+sr,huwalijkszorg,Huwalijkszorg,17,,5.8833333,-55.6833333
+sr,huwelijkszorg,Huwelijkszorg,17,,5.8833333,-55.6833333
+sr,ingiekondre,Ingiekondre,12,,5.8833333,-56.2333333
+sr,ingikondre,Ingikondre,12,,5.8833333,-56.2333333
+sr,ingipoe,Ingipoe,15,,5.1,-55.5
+sr,intelewa,Intelewa,18,,3.3666667,-55.4166667
+sr,intelwakondre,Intelwakondre,18,,3.3666667,-55.4166667
+sr,jachtlust,Jachtlust,11,,5.8166667,-55.1
+sr,jacklust,Jacklust,11,,5.8166667,-55.1
+sr,jacktlust,Jacktlust,11,,5.8166667,-55.1
+sr,jacobkondre,Jacobkondre,18,,4.95,-55.5333333
+sr,jacob kondre,Jacob Kondre,18,,4.95,-55.55
+sr,jagtlust,Jagtlust,11,,5.8166667,-55.1
+sr,jaimeskondre,Jaimeskondre,13,,5.35,-54.1666667
+sr,james kondre,James Kondre,13,,5.35,-54.1666667
+sr,janemale,Janemale,18,,3.2166667,-54.1666667
+sr,java,Java,15,,5.4,-54.6666667
+sr,jenny,Jenny,12,,5.7666667,-55.9
+sr,joden savanna,Joden Savanna,15,,5.4166667,-54.9833333
+sr,jodensavanne,Jodensavanne,15,,5.4166667,-54.9833333
+sr,johan en margaretha buitenrust,Johan en Margaretha Buitenrust,11,,5.9,-55.05
+sr,johan margaretha en buitenrust,Johan Margaretha en Buitenrust,11,,5.9,-55.05
+sr,johan margaretta buitenrust,Johan Margaretta Buitenrust,11,,5.9,-55.05
+sr,johan margaretta en buitenrust,Johan Margaretta en Buitenrust,11,,5.9,-55.05
+sr,johanna-margaretha,Johanna-Margaretha,11,,5.9,-55.05
+sr,johannesburg,Johannesburg,11,,5.9,-55.05
+sr,jonan en margaretha,Jonan en Margaretha,11,,5.9,-55.05
+sr,kaaimanstone,Kaaimanstone,18,,5.1,-56.0833333
+sr,kaaimanston,Kaaimanston,18,,5.1,-56.0833333
+sr,kabelpont,Kabelpont,17,,5.8333333,-55.45
+sr,kabelstation,Kabelstation,10,,4.9166667,-55.1333333
+sr,kadjoe,Kadjoe,10,,4.9166667,-55.0666667
+sr,kalebas kreek,Kalebas Kreek,17,,5.6666667,-55.8833333
+sr,kalfoekondre,Kalfoekondre,18,,5.1166667,-54.3833333
+sr,kamaloea,Kamaloea,18,,4.2166667,-55.45
+sr,kamaroa,Kamaroa,18,,4.2166667,-55.45
+sr,kampong baroe,Kampong Baroe,17,,5.75,-55.4
+sr,kapasie kree,Kapasie Kree,10,,4.8833333,-55.0833333
+sr,kapasi-kondre,Kapasi-kondre,13,,5.6666667,-54.0333333
+sr,kapoa,Kapoa,10,,4.5833333,-55.1833333
+sr,kapoesanti,Kapoesanti,18,,4.4666667,-56.0666667
+sr,katwijk,Katwijk,11,,5.8666667,-55.0
+sr,kiokondre,Kiokondre,18,,4.2333333,-54.55
+sr,klaverblad,Klaverblad,11,,5.6666667,-55.05
+sr,klein chatillon,Klein Chatillon,11,,5.65,-55.05
+sr,klein poika (1),Klein Poika (1),19,,5.7,-55.35
+sr,klein poika,Klein Poika,19,,5.7,-55.35
+sr,klokondre,Klokondre,18,,4.2333333,-54.55
+sr,koemboe,Koemboe,18,,4.1333333,-55.45
+sr,koembre,Koembre,18,,4.1333333,-55.45
+sr,koffiekamp,Koffiekamp,10,,4.9666667,-55.0
+sr,koffikamp,Koffikamp,10,,4.9666667,-55.0
+sr,konenburg,Konenburg,11,,5.8833333,-55.0
+sr,kontina,Kontina,18,,3.3833333,-55.4166667
+sr,kontina trio,Kontina Trio,18,,3.3833333,-55.4166667
+sr,kopi ondro,Kopi Ondro,15,,5.35,-54.6833333
+sr,kopi ondroo,Kopi Ondroo,15,,5.35,-54.6833333
+sr,kraka,Kraka,15,,5.3666667,-55.1
+sr,krijorokampoe,Krijorokampoe,18,,4.2333333,-54.55
+sr,krikie,Krikie,10,,4.95,-55.0
+sr,kronenburg,Kronenburg,11,,5.8833333,-55.0
+sr,kroonenburg,Kroonenburg,11,,5.8833333,-55.0
+sr,kryoro kampoe,Kryoro Kampoe,18,,4.2333333,-54.55
+sr,kwakoegrob,Kwakoegrob,10,,5.25,-55.3333333
+sr,kwakoegron,Kwakoegron,10,,5.25,-55.3333333
+sr,kwamalasamutu,Kwamalasamutu,18,,2.3333333,-56.7833333
+sr,kwatahede,Kwatahede,18,,4.8166667,-55.55
+sr,kwattahede,Kwattahede,18,,4.8166667,-55.55
+sr,laarwijk,Laarwijk,11,,5.7166667,-55.0666667
+sr,ladoewanie,Ladoewanie,18,,4.3833333,-55.4
+sr,laduani,Laduani,18,,4.3833333,-55.4
+sr,landsboerderij,Landsboerderij,16,,5.8166667,-55.2166667
+sr,langa hoekoe,Langa Hoekoe,13,,5.7666667,-54.4
+sr,langamankondre,Langamankondre,13,,5.7166667,-54.0166667
+sr,langatabbetje,Langatabbetje,18,,5.0,-54.5166667
+sr,lantiwei,Lantiwei,13,,5.8,-54.4166667
+sr,la poule,La Poule,17,,5.7833333,-55.4166667
+sr,la providence,La Providence,10,,5.2833333,-55.05
+sr,la ressource,La Ressource,11,,5.9166667,-55.1
+sr,la simplicite,La Simplicité,15,,5.5666667,-55.0666667
+sr,la siplicite,La Siplicite,15,,5.5666667,-55.0666667
+sr,leasowes,Leasowes,12,,5.9166667,-56.3833333
+sr,leiden,Leiden,11,,5.9,-55.1
+sr,leijden,Leijden,11,,5.9,-55.1
+sr,leliendaal,Leliëndaal,11,,5.8666667,-55.0333333
+sr,lelydorp,Lelydorp,19,17735,5.7,-55.2333333
+sr,lembe,Lembe,18,,4.3666667,-55.7833333
+sr,lemmiki,Lemmiki,18,,4.9166667,-55.5666667
+sr,leonsberg,Leonsberg,16,,5.8833333,-55.1166667
+sr,levant,Levant,18,,4.1833333,-55.4333333
+sr,loksi-ati,Loksi-ati,15,,5.15,-55.4666667
+sr,loksie hatti,Loksie Hatti,15,,5.15,-55.4666667
+sr,lombee,Lombee,10,,4.8333333,-55.0833333
+sr,lombe,Lombé,10,,4.8333333,-55.0833333
+sr,lombe,Lombé,18,,4.3666667,-55.7833333
+sr,maasstroom,Maasstroom,11,,5.9333333,-55.0666667
+sr,mabo (1),Mabo (1),17,,5.7333333,-55.3833333
+sr,mabo b,Mabo B,15,,5.7166667,-55.3666667
+sr,mabo een,Mabo Een,17,,5.7333333,-55.3833333
+sr,maboga kondre,Maboga Kondre,18,,3.4833333,-55.3333333
+sr,maboga,Maboga,18,,3.4833333,-55.3333333
+sr,magali,Magali,18,,2.65,-55.4666667
+sr,magdafien,Magdafien,18,,3.7666667,-54.1166667
+sr,magdatien,Magdatien,18,,3.7666667,-54.1166667
+sr,maho (1),Maho (1),17,,5.7333333,-55.3833333
+sr,maho b,Maho B,15,,5.7166667,-55.3666667
+sr,maho,Maho,17,,5.7333333,-55.3833333
+sr,mainsi,Mainsi,18,,4.1333333,-54.6666667
+sr,majoli 2,Majoli 2,18,,2.65,-55.4666667
+sr,majoli,Majoli,18,,2.65,-55.4666667
+sr,majoli twee,Majoli Twee,18,,2.65,-55.4666667
+sr,makajapiengo,Makajapiengo,18,,4.7166667,-55.5666667
+sr,makajapinggo,Makajapinggo,18,,4.7166667,-55.5666667
+sr,makajapingo,Makajapingo,18,,4.7166667,-55.5666667
+sr,makami,Makami,10,,4.9166667,-55.0833333
+sr,makampedorp,Makampedorp,18,,2.8333333,-55.3833333
+sr,makampee,Makampee,18,,2.8333333,-55.3833333
+sr,makampe,Makampe,18,,2.8333333,-55.3833333
+sr,makka krieki,Makka Krieki,15,,5.2333333,-55.3666667
+sr,makkakriki,Makkakriki,15,,5.2333333,-55.3666667
+sr,malaitawa,Malaitawa,18,,3.1333333,-54.2166667
+sr,malobbi,Malobbi,18,,4.1666667,-55.4333333
+sr,malobi,Malobi,18,,4.2666667,-54.5333333
+sr,malrosee-kondre,Malrosee-Kondre,18,,4.4166667,-55.3833333
+sr,mambabasoe,Mambabasoe,18,,4.3333333,-55.7833333
+sr,manchester,Manchester,14,,5.8833333,-56.9
+sr,manillakondre,Manillakondre,18,,5.15,-54.3666667
+sr,manjaboomkondre,Manjaboomkondre,13,,5.4833333,-54.0666667
+sr,manlobbi,Manlobbi,18,,4.2666667,-54.5333333
+sr,manlobi,Manlobi,18,,4.1666667,-55.4333333
+sr,mansi,Mansi,18,,4.1333333,-54.6666667
+sr,mantsjillo,Mantsjillo,18,,4.1333333,-54.6666667
+sr,ma omba-kondre,Ma Omba-kondre,15,,5.2333333,-55.3666667
+sr,marechalkriki,Maréchalkriki,18,,4.15,-55.4333333
+sr,marechalskondre,Maréchalskondre,10,,5.2666667,-55.0833333
+sr,marechalskriki,Maréchalskriki,18,,4.15,-55.4333333
+sr,margrita,Margrita,11,,5.9,-55.05
+sr,mariashoop,Mariashoop,13,,5.3,-54.2333333
+sr,marias lust,Marias Lust,17,,5.6666667,-55.3833333
+sr,marienburg,Mariënburg,11,4463,5.8833333,-55.05
+sr,maripaondre,Maripaondre,10,,4.9666667,-55.0
+sr,mary's hope,Mary's Hope,12,,5.8833333,-56.3
+sr,mason kondre,Mason Kondre,13,,5.5666667,-54.4166667
+sr,mata,Mata,15,,5.4666667,-55.35
+sr,matapi,Matapi,18,,5.0,-57.2833333
+sr,matappi,Matappi,18,,5.0,-57.2833333
+sr,matawaribo,Matawaribo,15,,5.5333333,-55.1666667
+sr,matrosee-kondree,Matrosee-kondree,18,,4.4166667,-55.3833333
+sr,matta,Matta,15,,5.4666667,-55.35
+sr,mattawaribo,Mattawaribo,15,,5.5333333,-55.1666667
+sr,mattewaribo,Mattewaribo,15,,5.5333333,-55.1666667
+sr,meerzorg,Meerzorg,11,6591,5.8166667,-55.15
+sr,miranda,Miranda,18,,4.0833333,-54.7833333
+sr,misalibiekondre,Misalibiekondre,18,,4.95,-55.55
+sr,misalibi,Misalibi,18,,4.95,-55.55
+sr,moederzorg,Moederzorg,10,,5.25,-55.05
+sr,moelakondre,Moelakondre,13,,5.5666667,-54.4333333
+sr,moengoe tapoe,Moengoe Tapoe,13,,5.5833333,-54.25
+sr,moengo,Moengo,13,7345,5.6166667,-54.4
+sr,moengotapoe,Moengotapoe,13,,5.5833333,-54.25
+sr,moetoetoetabriki,Moetoetoetabriki,18,,4.8333333,-55.5666667
+sr,mofina,Mofina,18,,4.6666667,-55.5666667
+sr,moisimoisikondre,Moisimoisikondre,18,,5.3666667,-54.6666667
+sr,moismois kondre,Moismois Kondre,18,,5.3666667,-54.6666667
+sr,mombabasoe,Mombabasoe,18,,4.3333333,-55.7833333
+sr,monbabasoe,Monbabasoe,18,,4.3333333,-55.7833333
+sr,monbobasoe,Monbobasoe,18,,4.3333333,-55.7833333
+sr,mongotapoe,Mongotapoe,13,,5.5833333,-54.25
+sr,mon plaisir,Mon Plaisir,16,,5.85,-55.1333333
+sr,mon souci,Mon Souci,11,,5.8833333,-54.9833333
+sr,mon tresor,Mon Trésor,11,,5.85,-55.0166667
+sr,mooitakie,Mooitakie,18,,4.1333333,-54.65
+sr,mooitaki,Mooitaki,18,,4.1333333,-54.65
+sr,moy,Moy,12,,5.8833333,-56.2833333
+sr,mungo,Mungo,13,,5.6166667,-54.4
+sr,nason,Nason,18,,4.8333333,-54.4666667
+sr,new nickerie,New Nickerie,14,,5.95,-56.9833333
+sr,nickerie,Nickerie,14,,5.95,-56.9833333
+sr,nieuw amsterdam,Nieuw Amsterdam,11,4935,5.8833333,-55.0833333
+sr,nieuw bambeij,Nieuw Bambeij,18,,4.3166667,-55.4166667
+sr,nieuw lombe,Nieuw Lombé,10,,5.0833333,-55.0666667
+sr,nieuw meerzorg,Nieuw Meerzorg,11,,5.9166667,-54.9166667
+sr,nieuw mocha,Nieuw Mocha,11,,5.9,-54.85
+sr,nieuw nickerie,Nieuw Nickerie,14,13410,5.95,-56.9833333
+sr,nioe-konare,Nioe-konare,18,,4.95,-55.55
+sr,nioe kondre,Nioe Kondre,18,,4.95,-55.55
+sr,njoeng jacobkondre,Njoeng Jacobkondre,18,,4.95,-55.55
+sr,njoeng pelgrimkondre,Njoeng Pelgrimkondre,13,,5.5666667,-54.4333333
+sr,njoen jacob kondre,Njoen Jacob Kondre,18,,4.95,-55.55
+sr,nooitgedacht,Nooitgedacht,14,,5.85,-56.85
+sr,oemakondre,Oemakondre,18,,4.9333333,-55.55
+sr,oeman santie,Oeman Santie,18,,4.1666667,-55.4333333
+sr,oemansanti,Oemansanti,18,,4.1666667,-55.4333333
+sr,onikaikondre,Onikaikondre,13,,5.45,-54.1
+sr,onoribo,Onoribo,15,,5.5833333,-55.1666667
+sr,onverdacht,Onverdacht,15,,5.6,-55.15
+sr,onverwacht,Onverwacht,15,2009,5.5833333,-55.1833333
+sr,oplanie,Oplanie,13,,5.6833333,-54.3333333
+sr,oposeilangahoekoe,Oposeilangahoekoe,13,,5.75,-54.4166667
+sr,overtoom,Overtoom,15,,5.5833333,-55.15
+sr,overtoon,Overtoon,15,,5.5833333,-55.15
+sr,ovillanhollo,Ovillanhollo,13,,5.5166667,-54.4166667
+sr,ovilonholloi,Ovilonholloi,13,,5.5166667,-54.4166667
+sr,ovilon hollo,Ovilon Hollo,13,,5.5166667,-54.4166667
+sr,oxford,Oxford,12,,5.9,-56.4166667
+sr,pada,Pada,10,,4.5666667,-55.3
+sr,pada,Pada,18,,4.1833333,-55.4333333
+sr,paka-paka,Paka-Paka,18,,4.6333333,-55.6833333
+sr,pakira kondre,Pakira Kondre,18,,5.2333333,-54.3166667
+sr,pakka-pakka,Pakka-Pakka,18,,4.6333333,-55.6833333
+sr,pananam,Pananam,15,,5.6166667,-55.1
+sr,panapi,Panapi,18,,2.9666667,-54.1833333
+sr,papatam kondre,Papatam Kondre,13,,5.4833333,-54.0666667
+sr,paradijs,Paradijs,13,,5.8,-54.4333333
+sr,paradijs,Paradijs,14,,5.9166667,-56.9333333
+sr,paradise,Paradise,14,,5.9166667,-56.9333333
+sr,paramaribo,Paramaribo,16,220306,5.8333333,-55.1666667
+sr,paranam,Paranam,15,,5.6166667,-55.1
+sr,passaloango,Passaloango,18,,4.2166667,-55.45
+sr,passaloa,Passaloa,18,,4.2166667,-55.45
+sr,passikondre,Passikondre,13,,5.6666667,-54.0333333
+sr,paubasoe,Paubasoe,18,,4.95,-55.55
+sr,pauwie,Pauwie,18,,4.1833333,-54.6
+sr,pawakka,Pawakka,15,,5.45,-55.0833333
+sr,pempe,Pempe,18,,4.0333333,-55.45
+sr,pepejoe dorp,Pepejoe Dorp,18,,3.35,-55.45
+sr,pepejoe,Pepejoe,18,,3.35,-55.45
+sr,phaedra,Phaedra,10,,5.3333333,-55.05
+sr,pheadra,Pheadra,10,,5.3333333,-55.05
+sr,phedra,Phedra,10,,5.3333333,-55.05
+sr,pieterszorg,Pieterszorg,11,,5.9166667,-55.0833333
+sr,piketie,Piketie,18,,4.1333333,-54.6166667
+sr,piketi,Piketi,18,,4.1333333,-54.6166667
+sr,pikienkondre,Pikienkondre,18,,4.0833333,-54.7833333
+sr,pikien pada,Pikien Pada,18,,4.1833333,-55.4333333
+sr,pikien santie,Pikien Santie,13,,5.7833333,-54.3666667
+sr,pikien santi,Pikien Santi,13,,5.7833333,-54.3666667
+sr,pikien slee,Pikien Slee,18,,4.25,-55.45
+sr,pikinkondre,Pikinkondre,18,,4.0833333,-54.7833333
+sr,pikumi,Pikumi,18,,3.3833333,-55.4166667
+sr,pikuni,Pikuni,18,,3.3833333,-55.4166667
+sr,pilgrimkondre,Pilgrimkondre,13,,5.5666667,-54.4333333
+sr,pinatjarimi,Pinatjarimi,13,,5.8,-54.4166667
+sr,pisari,Pisari,18,,3.3166667,-55.45
+sr,pisiemoengo,Pisiemoengo,15,,5.3333333,-54.8
+sr,pisjang,Pisjang,10,,4.95,-55.0
+sr,pisoridorp,Pisoridorp,18,,3.3166667,-55.45
+sr,pisori,Pisori,18,,3.3166667,-55.45
+sr,placer de jong,Placer De Jong,10,,5.1166667,-55.25
+sr,pleike,Pleiké,18,,3.1,-54.1833333
+sr,poeketi,Poeketi,18,,4.1333333,-54.6166667
+sr,poeloegoedoe,Poeloegoedoe,18,,4.35,-54.4333333
+sr,poelwijk,Poelwijk,13,,5.7833333,-54.65
+sr,poesoegroenoe,Poesoegroenoe,18,,4.3666667,-55.7833333
+sr,poigrondorp,Poigrondorp,18,,3.9,-55.5666667
+sr,poigron,Poigron,18,,3.9,-55.5666667
+sr,poitehede,Poitehede,13,,5.4333333,-54.5833333
+sr,poitehede,Poitehede,18,,5.3166667,-54.6166667
+sr,poitehedo,Poitehedo,13,,5.4333333,-54.5833333
+sr,poiti hede,Poiti Hede,13,,5.4333333,-54.5833333
+sr,pokigron,Pokigron,18,,4.5,-55.3666667
+sr,poligoudou,Poligoudou,18,,4.35,-54.4333333
+sr,pomona,Pomona,11,,5.9333333,-55.1333333
+sr,pontoetoedorp,Pontoetoedorp,18,,3.2666667,-55.4
+sr,pontoetoe,Pontoetoe,18,,3.2666667,-55.4
+sr,popakai,Popakai,18,,3.3666667,-55.4166667
+sr,popokai,Popokai,18,,3.3666667,-55.4166667
+sr,portorico,Portorico,11,,5.6166667,-55.0333333
+sr,posoegroenoe,Posoegroenoe,18,,4.3666667,-55.7833333
+sr,post coronie,Post Coronie,12,,5.8833333,-56.3166667
+sr,post leiden,Post Leiden,11,,5.9,-55.1
+sr,post leijden,Post Leijden,11,,5.9,-55.1
+sr,post leyden,Post Leyden,11,,5.9,-55.1
+sr,post lookout,Post Lookout,19,,5.7666667,-55.3333333
+sr,post mindrineti,Post Mindrineti,15,,5.25,-55.35
+sr,post uitkijk,Post Uitkijk,19,,5.7666667,-55.3333333
+sr,potribo eb,Potribo Eb,11,,5.75,-54.75
+sr,potribo,Potribo,11,,5.75,-54.75
+sr,powaka,Powaka,15,,5.45,-55.0833333
+sr,powakka,Powakka,15,,5.45,-55.0833333
+sr,prassara kondre,Prassara Kondre,13,,5.6333333,-54.0666667
+sr,prodobaka,Prodobaka,18,,4.1166667,-54.6666667
+sr,prodokaba,Prodokaba,18,,4.1166667,-54.6666667
+sr,rainville,Rainville,16,,5.8333333,-55.1
+sr,rama,Rama,10,,5.3166667,-55.0833333
+sr,reijns-dorp,Reijns-dorp,11,,5.9333333,-54.9
+sr,reinsdorp,Reinsdorp,10,,5.2,-55.0666667
+sr,remontcourt,Rémontcourt,10,,5.1666667,-55.0666667
+sr,replubliek,Replubliek,15,,5.5,-55.2
+sr,republiek,Republiek,15,,5.5,-55.2
+sr,reynsdorp,Reynsdorp,11,,5.9333333,-54.9
+sr,ricanau moffo,Ricanau Moffo,13,,5.6833333,-54.4166667
+sr,ricanau,Ricanau,13,,5.6166667,-54.3666667
+sr,rikanaumoffo,Rikanaumoffo,13,,5.6833333,-54.4166667
+sr,rikanau,Rikanau,13,,5.6166667,-54.3666667
+sr,rorac,Rorac,11,,5.65,-55.05
+sr,rosebel,Rosebel,10,,5.0833333,-55.15
+sr,rust en werk,Rust en Werk,11,,5.9166667,-55.0833333
+sr,sabakoe,Sabakoe,15,,5.4166667,-55.2
+sr,sabana,Sabana,15,,5.4,-55.9166667
+sr,sabanpassie,Sabanpassie,15,,5.2166667,-55.3666667
+sr,saban passi,Saban Passi,15,,5.2166667,-55.3666667
+sr,sabaroe,Sabaroe,15,,5.25,-56.0833333
+sr,saje,Saje,18,,4.1833333,-54.5666667
+sr,salinkondre,Salinkondre,18,,3.8333333,-54.8333333
+sr,samargini,Samargini,10,,4.7166667,-54.9833333
+sr,sanbendoemie,Sanbendoemie,18,,4.1,-54.6833333
+sr,sanbindoni,Sanbindoni,18,,4.1,-54.6833333
+sr,sangamansoesa,Sangamansoesa,18,,4.1333333,-54.6166667
+sr,sangsimasoesa,Sangsimasoesa,18,,4.1333333,-54.6166667
+sr,saniki,Saniki,18,,4.0666667,-54.7833333
+sr,santigron,Santigron,19,,5.6833333,-55.35
+sr,sapenda,Sapenda,15,,5.5166667,-54.6666667
+sr,sapende,Sapende,15,,5.5166667,-54.6666667
+sr,sarah maria,Sarah Maria,17,,5.8666667,-55.5166667
+sr,sarah,Sarah,12,,5.9,-56.3833333
+sr,sara maria,Sara Maria,17,,5.8666667,-55.5166667
+sr,saye,Saye,18,,4.1666667,-54.55
+sr,seboewatra,Seboewatra,18,,4.1166667,-54.6333333
+sr,sectie oeest,Sectie Oeëst,10,,5.3166667,-55.2666667
+sr,sectie oost,Sectie Oost,10,,5.3166667,-55.2666667
+sr,sectie o,Sectie O,10,,5.3166667,-55.2666667
+sr,sectie,Sectie,10,,5.3166667,-55.2666667
+sr,semoisi,Semoisi,18,,4.05,-55.45
+sr,sesebiase,Sesebiase,10,,5.1666667,-54.9833333
+sr,sidiredjo,Sidiredjo,17,,5.85,-55.5666667
+sr,sidodadi,Sidodadi,17,,5.8166667,-55.5
+sr,sidoredjo,Sidoredjo,17,,5.85,-55.5666667
+sr,sikakamp,Sikakamp,10,,4.75,-55.0
+sr,slee,Slee,18,,4.25,-55.45
+sr,slootwijk,Slootwijk,11,,5.8333333,-54.8666667
+sr,smalkalden,Smalkalden,15,,5.6166667,-55.1
+sr,smithfield,Smithfield,17,,5.8666667,-55.5333333
+sr,soekibaka,Soekibaka,18,,4.3833333,-55.7833333
+sr,soekroewatra,Soekroewatra,10,,4.75,-55.0
+sr,solan,Solan,18,,4.0166667,-55.4833333
+sr,sola,Sola,18,,4.0166667,-55.4833333
+sr,sonnakampoe,Sonnakampoe,18,,3.9333333,-54.8
+sr,speeringhoek,Speeringhoek,11,,5.8666667,-54.9666667
+sr,spieringshoek,Spieringshoek,11,,5.8666667,-54.9666667
+sr,spierinshoek,Spierinshoek,11,,5.8666667,-54.9666667
+sr,stoelmanseiland,Stoelmanseiland,18,,4.35,-54.4166667
+sr,stoepenveer,Stoepenveer,17,,5.8333333,-55.4666667
+sr,stonehoekoedorp,Stonehoekoedorp,18,,3.8833333,-55.5833333
+sr,stonehoekoe,Stonehoekoe,18,,3.8833333,-55.5833333
+sr,stonhoekoe,Stonhoekoe,18,,3.8833333,-55.5833333
+sr,stonkampoe,Stonkampoe,18,,5.35,-54.6333333
+sr,stonkoe,Stonkoe,18,,4.6666667,-55.5833333
+sr,storkoe,Storkoe,11,,5.8833333,-54.9666667
+sr,suhoza,Suhoza,15,,5.3666667,-55.0
+sr,suzannasdaal,Suzannasdaal,11,,5.8666667,-55.0833333
+sr,swampoekondre,Swampoekondre,13,,5.3333333,-54.2
+sr,tabbetje,Tabbetje,18,,4.2833333,-54.5
+sr,tabrikiekondre,Tabrikiekondre,18,,4.7666667,-55.55
+sr,tamanredjo,Tamanredjo,11,,5.7666667,-55.0
+sr,tamanridjo,Tamanridjo,11,,5.7666667,-55.0
+sr,tamarin,Tamarin,13,,5.7833333,-54.3833333
+sr,tambaredjo,Tambaredjo,17,,5.8333333,-55.55
+sr,tamparedjo,Tamparedjo,17,,5.8333333,-55.55
+sr,tapahoekoe,Tapahoekoe,13,,5.5333333,-54.0333333
+sr,tapoeripa,Tapoeripa,14,,5.3833333,-56.5666667
+sr,tapontekampoe,Tapontekampoe,18,,3.9333333,-54.8
+sr,teomaripa,Teomaripa,18,,4.1166667,-55.45
+sr,tiobato,Tiobato,18,,4.0833333,-55.45
+sr,tioboto,Tioboto,18,,4.0833333,-55.45
+sr,tipo,Tipo,18,,2.8,-55.9
+sr,tjakkatjakka ston,Tjakkatjakka Ston,18,,5.2,-56.1
+sr,toanke,Toanke,18,,3.3833333,-54.05
+sr,todness,Todness,12,,5.8833333,-56.3166667
+sr,toeboeka,Toeboeka,18,,5.0,-55.5666667
+sr,toekoppie,Toekoppie,13,,5.6333333,-54.3
+sr,toemaripa,Toemaripa,18,,4.1166667,-55.45
+sr,tojakondre,Tojakondre,13,,5.7666667,-54.4166667
+sr,tomemoene,Tomemoené,15,,5.2,-55.9333333
+sr,tonpaikampoe,Tonpaikampoe,18,,3.9333333,-54.8
+sr,topibo,Topibo,15,,5.5666667,-55.1333333
+sr,totikamp,Totikamp,17,,5.5666667,-55.4166667
+sr,totness,Totness,12,1800,5.8833333,-56.3166667
+sr,tottiekamp,Tottiekamp,17,,5.5666667,-55.4166667
+sr,tottikamp,Tottikamp,17,,5.5666667,-55.4166667
+sr,touanke,Touanke,18,,3.3833333,-54.05
+sr,trio,Trio,18,,3.25,-55.5333333
+sr,tulpenburg,Tulpenburg,11,,5.5666667,-55.05
+sr,uitkijk,Uitkijk,19,,5.7666667,-55.3333333
+sr,unverwacht,Unverwacht,15,,5.5833333,-55.1833333
+sr,utrecht,Utrecht,14,,5.75,-56.6666667
+sr,vanderhaak,Vanderhaak,18,,4.05,-55.45
+sr,veer,Veer,14,,5.8666667,-56.85
+sr,vertrouwen,Vertrouwen,14,,5.8833333,-56.8833333
+sr,vertrouwen,Vertrouwen,18,,4.3333333,-55.7833333
+sr,vertrouw,Vertrouw,18,,4.3333333,-55.7833333
+sr,vier hendrikken,Vier Hendrikken,15,,5.6166667,-55.3833333
+sr,vier kinderen,Vier Kinderen,15,,5.5166667,-55.2333333
+sr,visiti,Visiti,18,,4.05,-54.8
+sr,visserszorg,Visserszorg,11,,5.8666667,-55.0166667
+sr,vliet zorg,Vliet Zorg,11,,5.85,-55.0333333
+sr,voetoekaba,Voetoekaba,18,,4.2333333,-55.45
+sr,wageningen,Wageningen,14,4229,5.7666667,-56.6833333
+sr,wajana's,Wajana's,18,,3.5,-55.1
+sr,wakibassoe,Wakibassoe,10,,4.9,-55.0833333
+sr,waktibasoe,Waktibasoe,10,,4.9,-55.0833333
+sr,wan-ati,Wan-ati,13,,5.8,-54.45
+sr,wan-ati,Wan-ati,18,,4.3333333,-55.7833333
+sr,wanemoffe,Wanemoffe,13,,5.5833333,-54.25
+sr,wanhati,Wanhati,13,,5.8,-54.45
+sr,wanhatti,Wanhatti,13,,5.8,-54.45
+sr,wanhatti,Wanhatti,18,,4.3333333,-55.7833333
+sr,warnakomoponafaja,Warnakomoponafaja,18,,4.6833333,-55.5666667
+sr,warnakomopponafaja,Warnakomopponafaja,18,,4.6833333,-55.5666667
+sr,washabo,Washabo,18,,5.2166667,-57.1833333
+sr,wasjabo,Wasjabo,18,,5.2166667,-57.1833333
+sr,waterland,Waterland,15,,5.6833333,-55.05
+sr,waterloo,Waterloo,14,,5.9333333,-56.9833333
+sr,watervliet,Watervliet,15,,5.5333333,-55.05
+sr,wiesawinie,Wiesawinie,15,,5.45,-55.05
+sr,wijngaardekondre,Wijngaardekondre,13,,5.45,-54.1
+sr,witagron,Witagron,18,,5.1666667,-56.1
+sr,witkijk,Witkijk,19,,5.7666667,-55.3333333
+sr,wittiehede ston,Wittiehede Ston,18,,4.5833333,-55.6833333
+sr,wittikamba,Wittikamba,18,,4.5166667,-55.35
+sr,wonoredjo,Wonoredjo,13,,5.6333333,-54.4
+sr,zanderij ii,Zanderij II,15,,5.3333333,-55.2666667
+sr,zanderij i,Zanderij I,15,,5.45,-55.2
+sr,zanderij,Zanderij,15,,5.3333333,-55.2666667
+sr,zandery,Zandery,15,,5.45,-55.2
+sr,zoelen,Zoelen,11,,5.8833333,-55.0666667
+sr,zoewatta,Zoewatta,10,,4.55,-55.3
+sr,zorg en hoop,Zorg en Hoop,16,,5.8166667,-55.2
+sr,zorgvliet,Zorgvliet,11,,5.85,-55.0333333
+sr,zwampoekondre,Zwampoekondre,13,,5.3333333,-54.2

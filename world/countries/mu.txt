@@ -1,0 +1,633 @@
+mu,abercrombie,Abercrombie,18,,-20.1480556,57.5161111
+mu,albion,Albion,12,3254,-20.2116667,57.4008333
+mu,alma,Alma,15,,-20.2397222,57.5663889
+mu,amaury,Amaury,19,2912,-20.1308333,57.6591667
+mu,amitie,Amitié,16,,-20.15,57.5666667
+mu,amitie,Amitié,19,,-20.1094444,57.6638889
+mu,anna,Anna,12,,-20.265,57.3783333
+mu,anse aux anglais,Anse aux Anglais,23,,-19.675,63.4305556
+mu,anse jonchee,Anse Jonchée,14,,-20.3475,57.7452778
+mu,antoinette,Antoinette,19,,-20.1216667,57.6341667
+mu,argy,Argy,13,,-20.1980556,57.7294444
+mu,arsenal,Arsenal,16,2599,-20.1055556,57.5352778
+mu,astrea,Astréa,14,,-20.3908333,57.6288889
+mu,astroea,Astroea,14,,-20.3908333,57.6288889
+mu,bagatelle,Bagatelle,15,,-20.2169444,57.4866667
+mu,bagatelle,Bagatelle,17,,-20.2505556,57.5133333
+mu,baie aux huitres,Baie aux Huîtres,23,,-19.6944444,63.4083333
+mu,baie du cap,Baie du Cap,20,,-20.4883333,57.3705556
+mu,baie du tombeau,Baie du Tombeau,16,13153,-20.1194444,57.4913889
+mu,baie manioc,Baie Manioc,13,,-20.2913889,57.73
+mu,baie mannioc,Baie Mannioc,13,,-20.2913889,57.73
+mu,baie topaze,Baie Topaze,23,,-19.7291667,63.3611111
+mu,baillache,Baillache,16,,-20.1452778,57.5641667
+mu,bain des dames,Bain des Dames,18,,-20.1591667,57.4755556
+mu,balisson,Balisson,14,,-20.3927778,57.5819444
+mu,bambou,Bambou,23,,-19.6833333,63.45
+mu,bambous,Bambous,12,13047,-20.2566667,57.4061111
+mu,bambous virieux,Bambous Virieux,14,1541,-20.3427778,57.7575
+mu,bananes,Bananes,14,652,-20.3466667,57.5886111
+mu,barachois,Barachois,12,,-20.3202778,57.3730556
+mu,barkly,Barkly,17,,-20.2202778,57.4494444
+mu,bar le duc,Bar le Duc,15,,-20.2333333,57.5666667
+mu,barlow,Barlow,19,,-20.1241667,57.6477778
+mu,bassin cabri,Bassin Cabri,23,,-19.7361111,63.4666667
+mu,bassin louloup,Bassin Louloup,16,,-20.1711111,57.5613889
+mu,batimarais,Batimarais,20,,-20.4813889,57.5675
+mu,baty mare,Baty Mare,20,,-20.4813889,57.5675
+mu,beau bassin,Beau Bassin,17,,-20.2194444,57.4583333
+mu,beau bois,Beau Bois,15,,-20.2047222,57.5597222
+mu,beau bois,Beau Bois,20,,-20.4605556,57.5369444
+mu,beau champ,Beau Champ,13,,-20.2713889,57.7663889
+mu,beau champ,Beau Champ,20,,-20.4980556,57.4336111
+mu,beau fond,Beau Fond,14,,-20.445,57.6433333
+mu,beau mangue,Beau Mangue,19,,-19.9838889,57.6011111
+mu,beau manguier,Beau Manguier,19,,-19.9838889,57.6011111
+mu,beau plan,Beau Plan,16,,-20.0941667,57.5683333
+mu,beau sejour,Beau Séjour,17,,-20.2477778,57.4730556
+mu,beau sejour,Beau Séjour,19,,-20.0947222,57.6286111
+mu,beau site,Beau Site,14,,-20.3677778,57.6633333
+mu,beau vallon,Beau Vallon,14,7016,-20.35,57.6833333
+mu,beaux songes,Beaux Songes,12,,-20.2780556,57.4194444
+mu,bel air,Bel Air,13,17671,-20.2541667,57.7452778
+mu,bel air,Bel Air,14,,-20.4063889,57.6736111
+mu,bel air,Bel Air,20,,-20.5005556,57.5705556
+mu,bel etang,Bel Étang,13,,-20.2397222,57.6563889
+mu,belle etoile,Belle Étoile,17,,-20.2016667,57.4641667
+mu,belle isle,Belle Isle,12,,-20.25,57.3833333
+mu,belle mare,Belle Mare,13,,-20.195,57.7683333
+mu,belle ombre,Belle Ombre,20,,-20.5022222,57.4061111
+mu,belle rive,Belle Rive,13,,-20.3091667,57.7197222
+mu,belle rose,Belle Rose,13,,-20.2616667,57.7263889
+mu,belle rose,Belle Rose,15,,-20.215,57.5183333
+mu,belle ross,Belle Ross,15,,-20.215,57.5183333
+mu,belle terre,Belle Terre,17,,-20.2608333,57.5172222
+mu,belle vue allendy,Belle Vue Allendy,13,,-20.1883333,57.6986111
+mu,belle vue,Belle Vue,12,,-20.195,57.4116667
+mu,belle vue,Belle Vue,14,,-20.3691667,57.7222222
+mu,belle vue,Belle Vue,16,,-20.05,57.5833333
+mu,belle-vue,Belle-Vue,16,,-20.0658333,57.5941667
+mu,belle vue,Belle Vue,19,,-20.1202778,57.6636111
+mu,belle vue harel,Belle Vue Harel,16,,-20.0658333,57.5941667
+mu,belle vue maurel,Belle Vue Maurel,19,5088,-20.1202778,57.6636111
+mu,belle vue pilot,Belle Vue Pilot,16,,-20.05,57.5833333
+mu,bell village,Bell Village,18,,-20.1675,57.4794444
+mu,bell village station,Bell Village Station,18,,-20.1675,57.4794444
+mu,belmont,Belmont,19,,-20.045,57.6586111
+mu,bel ombre,Bel Ombre,20,,-20.5022222,57.4061111
+mu,belvedere,Belvédère,13,,-20.1752778,57.6538889
+mu,belvedere,Belvédère,16,,-20.1483333,57.5833333
+mu,bemanique,Bémanique,14,,-20.3727778,57.5863889
+mu,benares,Bénarès,20,,-20.4969444,57.5830556
+mu,black river,Black River,12,,-20.3602778,57.3661111
+mu,blanche mont,Blanche Mont,15,,-20.2827778,57.6544444
+mu,bois cheri,Bois Chéri,20,,-20.4194444,57.5325
+mu,bois des amourettes,Bois des Amourettes,14,1986,-20.3630556,57.7311111
+mu,bois d'oiseau,Bois d'Oiseau,13,,-20.1625,57.685
+mu,bois d'oiseaux,Bois d'Oiseaux,13,,-20.1625,57.685
+mu,bois d'oiseaux,Bois d'Oiseaux,14,,-20.4130556,57.6
+mu,bois d'oisseaux,Bois d'Oisseaux,13,,-20.1625,57.685
+mu,bois jacot,Bois Jacot,19,,-20.1358333,57.665
+mu,bois mangue,Bois Mangue,16,,-20.0641667,57.5825
+mu,bois marchand,Bois Marchand,16,,-20.1233333,57.5330556
+mu,bois marchand station,Bois Marchand Station,16,,-20.1233333,57.5330556
+mu,bois pignolet,Bois Pignolet,16,,-20.1305556,57.5386111
+mu,bois pougnet,Bois Pougnet,15,,-20.2666667,57.6
+mu,bois rouge,Bois Rouge,16,,-20.0813889,57.5830556
+mu,bois sec,Bois Sec,20,,-20.4413889,57.5102778
+mu,bon accueil,Bon Accueil,13,6553,-20.1708333,57.6563889
+mu,bon air,Bon Air,16,,-20.0619444,57.5619444
+mu,bon courage,Bon Courage,20,,-20.4836111,57.4175
+mu,bon espoir,Bon Espoir,19,,-20.0861111,57.6202778
+mu,bon manioc,Bon Manioc,13,,-20.2913889,57.73
+mu,bonne mere,Bonne Mère,13,,-20.2005556,57.7122222
+mu,bonne terre,Bonne Terre,17,,-20.2877778,57.4755556
+mu,bonne veine,Bonne Veine,15,,-20.2380556,57.5877778
+mu,bouchon,Bouchon,14,,-20.465,57.6697222
+mu,bramsthan,Bramsthan,13,,-20.2097222,57.7305556
+mu,brisee verdiere,Brisée Verdière,13,7374,-20.1638889,57.6466667
+mu,britannia,Britannia,20,,-20.4502778,57.5575
+mu,brule,Brûlé,23,,-19.7027778,63.4666667
+mu,cachette,Cachette,12,,-20.4288889,57.3830556
+mu,calebasses,Calebasses,16,4648,-20.1116667,57.5538889
+mu,camp accacia,Camp Accacia,14,,-20.4638889,57.6611111
+mu,camp auguste,Camp Auguste,15,,-20.2383333,57.5247222
+mu,camp benoit,Camp Benoit,18,,-20.1788889,57.4638889
+mu,camp berthaud,Camp Berthaud,20,,-20.4425,57.5519444
+mu,camp bestel,Camp Bestel,16,,-20.0536111,57.5213889
+mu,camp bonnemere,Camp Bonnemère,13,,-20.2088889,57.6961111
+mu,camp bouillon,Camp Bouillon,13,,-20.1886111,57.7322222
+mu,camp carol,Camp Carol,14,,-20.4575,57.6708333
+mu,camp cassia,Camp Cassia,14,,-20.4638889,57.6611111
+mu,camp caval,Camp Caval,17,,-20.32,57.5019444
+mu,camp creole,Camp Créole,16,,-20.1327778,57.5933333
+mu,camp creoles,Camp Créoles,12,,-20.2044444,57.4088889
+mu,camp creoles,Camp Créoles,16,,-20.1327778,57.5933333
+mu,camp de masque,Camp de Masque,13,2721,-20.2369444,57.6633333
+mu,camp de masque pave,Camp de Masque Pave,13,4520,-20.2361111,57.675
+mu,camp de masque station,Camp de Masque Station,13,,-20.2369444,57.6633333
+mu,camp des embrevades,Camp des Embrevades,16,,-20.1147222,57.5702778
+mu,camp diable,Camp Diable,20,5082,-20.4627778,57.5788889
+mu,camp du roi,Camp du Roi,23,,-19.6888889,63.425
+mu,camp fouquereaux,Camp Fouquereaux,17,,-20.2869444,57.5211111
+mu,camp garreau,Camp Garreau,13,,-20.2005556,57.7122222
+mu,camp ithier,Camp Ithier,13,4401,-20.2158333,57.7455556
+mu,camp jardin,Camp Jardin,14,,-20.3880556,57.6555556
+mu,camp la savanne,Camp La Savanne,17,,-20.325,57.4686111
+mu,camp malgache,Camp Malgache,12,,-20.33,57.4016667
+mu,camp mapou,Camp Mapou,17,,-20.3322222,57.4652778
+mu,camp marcelin,Camp Marcelin,13,,-20.2097222,57.7305556
+mu,camp poorun,Camp Poorun,13,,-20.1675,57.7252778
+mu,camp roches,Camp Roches,17,,-20.3219444,57.4677778
+mu,camp sonah,Camp Sonah,13,,-20.2333333,57.6666667
+mu,camp thorel,Camp Thorel,15,2299,-20.2147222,57.6161111
+mu,camp thoret,Camp Thoret,15,,-20.2147222,57.6161111
+mu,camp yoloff,Camp Yoloff,18,,-20.1513889,57.5022222
+mu,candos,Candos,17,,-20.2769444,57.4719444
+mu,canot,Canot,12,,-20.2175,57.4216667
+mu,cap malheureux,Cap Malheureux,19,4803,-19.9841667,57.6141667
+mu,caroline,Caroline,16,,-20.1797222,57.5583333
+mu,carreau la liane,Carreau La Liane,17,,-20.2805556,57.4763889
+mu,carreau lalo,Carreau Lalo,18,,-20.1536111,57.5202778
+mu,cascavelle,Cascavelle,12,2613,-20.2869444,57.4072222
+mu,casela,Casela,12,,-20.2947222,57.3947222
+mu,cassis,Cassis,18,,-20.1588889,57.4808333
+mu,cazela,Cazela,12,,-20.2947222,57.3947222
+mu,cent gaulettes,Cent Gaulettes,14,,-20.3716667,57.6447222
+mu,centre de flacq,Centre de Flacq,13,,-20.1897222,57.7144444
+mu,centre of flacq,Centre of Flacq,13,,-20.1897222,57.7144444
+mu,chamarel,Chamarel,12,723,-20.4225,57.3838889
+mu,chameaux,Chameaux,23,,-19.7027778,63.4541667
+mu,chamouny,Chamouny,20,4913,-20.4822222,57.4661111
+mu,champ de mars,Champ de Mars,18,,-20.1644444,57.5072222
+mu,chantenay,Chantenay,15,,-20.2119444,57.5138889
+mu,chantenuy,Chantenuy,15,,-20.2119444,57.5138889
+mu,chebel,Chébel,17,,-20.1980556,57.4513889
+mu,chemin grenier,Chemin Grenier,20,12457,-20.4872222,57.4655556
+mu,choisy,Choisy,16,,-20.0205556,57.5555556
+mu,choisy,Choisy,20,,-20.4794444,57.3730556
+mu,cinq arpents,Cinq Arpents,17,,-20.2680556,57.5238889
+mu,circonstance,Circonstance,15,,-20.2205556,57.5380556
+mu,cite la cure,Cité La Cure,18,,-20.1558333,57.5277778
+mu,cite valijee,Cité Valijée,18,,-20.1644444,57.4747222
+mu,citron donis,Citron Donis,23,,-19.7291667,63.4166667
+mu,citronelle,Citronelle,23,,-19.7,63.4416667
+mu,clarence,Clarence,12,,-20.2977778,57.3925
+mu,clarens,Clarens,12,,-20.2977778,57.3925
+mu,clavet,Clavet,13,,-20.2986111,57.6977778
+mu,clemencia,Clémencia,13,1835,-20.2638889,57.7061111
+mu,cluny,Cluny,14,1629,-20.3669444,57.6038889
+mu,congomah,Congomah,16,1956,-20.1488889,57.5908333
+mu,constance,Constance,13,,-20.1777778,57.7086111
+mu,coquinbourg,Coquinbourg,13,,-20.2377778,57.6380556
+mu,coromandel,Coromandel,12,,-20.1822222,57.4572222
+mu,coromandel,Coromandel,23,,-19.7138889,63.475
+mu,coteau raffin,Coteau Raffin,12,,-20.4338889,57.3452778
+mu,coteau rafin,Coteau Rafin,12,,-20.4338889,57.3452778
+mu,cote d'or,Côte d'Or,15,,-20.2447222,57.5272222
+mu,cottage,Cottage,19,3646,-20.0597222,57.6291667
+mu,creve coeur,Crève Coeur,16,3097,-20.1911111,57.5572222
+mu,creve coeur,Crève Coeur,23,,-19.6805556,63.4305556
+mu,curepipe,Curepipe,17,84200,-20.3147222,57.5202778
+mu,dagotiere,Dagotière,15,6915,-20.2444444,57.5541667
+mu,dalais,Dalais,14,,-20.3972222,57.6852778
+mu,deep river,Deep River,13,,-20.2791667,57.7327778
+mu,d'epinay,D'Epinay,16,,-20.1269444,57.5891667
+mu,deux bras,Deux Bras,14,,-20.4013889,57.6311111
+mu,deux freres,Deux Frères,13,,-20.2866667,57.7711111
+mu,dubreuil,Dubreuil,15,2726,-20.2975,57.595
+mu,eau bleue,Eau Bleue,14,,-20.3736111,57.6236111
+mu,eau bonne,Eau Bonne,12,,-20.2588889,57.4119444
+mu,eau vannee,Eau Vannée,23,,-19.7319444,63.4222222
+mu,eaux coulee,Eaux Coulée,17,,-20.3041667,57.5175
+mu,ebene,Ebène,17,,-20.2438889,57.4797222
+mu,ecroignard,Ecroignard,13,5952,-20.2261111,57.7361111
+mu,eighteenth mile village,Eighteenth Mile Village,17,,-20.3405556,57.5394444
+mu,engrais cathan,Engrais Cathan,17,,-20.2991667,57.5186111
+mu,engrais martial,Engrais Martial,17,,-20.3002778,57.5094444
+mu,ernest florent,Ernest Florent,13,,-20.2641667,57.7591667
+mu,escalier,Escalier,14,,-20.47,57.6122222
+mu,esperance,Espérance,15,1878,-20.225,57.5872222
+mu,esperance,Espérance,19,1878,-20.0697222,57.6419444
+mu,esperance trebuchet,Espérance Trébuchet,19,2323,-20.0697222,57.6419444
+mu,etoile,Etoile,13,,-20.3044444,57.7030556
+mu,ferney,Ferney,14,,-20.3611111,57.6977778
+mu,ferney mill,Ferney Mill,14,,-20.3611111,57.6977778
+mu,flacq,Flacq,13,,-20.1897222,57.7144444
+mu,flic en flac,Flic en Flac,12,2010,-20.2741667,57.3630556
+mu,flic-en-flacq,Flic-en-Flacq,12,,-20.2741667,57.3630556
+mu,floreal,Floréal,17,,-20.3094444,57.5008333
+mu,fond du sac,Fond du Sac,16,5796,-20.0430556,57.5786111
+mu,fontenelle,Fontenelle,20,,-20.4986111,57.5352778
+mu,forbach,Forbach,19,,-20.0644444,57.6258333
+mu,forest side,Forest Side,17,,-20.32,57.5305556
+mu,frederica,Frederica,20,,-20.4836111,57.425
+mu,gaboola,Gaboola,19,,-20.1041667,57.6469444
+mu,gabriel,Gabriel,23,,-19.7,63.4333333
+mu,gabrielle,Gabrielle,23,,-19.7,63.4333333
+mu,germain,Germain,19,,-20.0158333,57.6663889
+mu,glen park,Glen Park,17,,-20.3211111,57.4783333
+mu,gokoola,Gokoola,19,,-20.1041667,57.6469444
+mu,goodlands,Goodlands,19,20910,-20.035,57.6430556
+mu,grand baie,Grand Baie,19,11512,-20.0136111,57.5738889
+mu,grand baie,Grand Baie,23,,-19.6777778,63.4486111
+mu,grand bel air,Grand Bel Air,14,1452,-20.4063889,57.6736111
+mu,grand bois,Grand Bois,20,7804,-20.4188889,57.5441667
+mu,grand dans fond,Grand dans Fond,13,,-20.1811111,57.6666667
+mu,grande baie,Grande Baie,19,,-20.0136111,57.5738889
+mu,grande case noyale,Grande Case Noyale,12,,-20.41,57.3619444
+mu,grande gaube,Grande Gaube,19,,-20.0063889,57.6608333
+mu,grande montagne,Grande Montagne,23,,-19.7125,63.4666667
+mu,grande pointe aux piments,Grande Pointe aux Piments,16,,-20.0627778,57.5130556
+mu,grande retraite,Grande Retraite,13,,-20.1655556,57.6766667
+mu,grande retraits,Grande Retraits,13,,-20.1655556,57.6766667
+mu,grande reviere sud est,Grande Reviere Sud Est,13,,-20.2861111,57.7758333
+mu,grande riviere noire,Grande Rivière Noire,12,2361,-20.3602778,57.3661111
+mu,grande riviere sud est,Grande Rivière Sud Est,13,,-20.2861111,57.7758333
+mu,grande rosalie,Grande Rosalie,16,,-20.1313889,57.6047222
+mu,grand gaube,Grand Gaube,19,7156,-20.0063889,57.6608333
+mu,grand river,Grand River,13,,-20.2861111,57.7758333
+mu,grand river north west,Grand River North West,18,,-20.1752778,57.4675
+mu,grand river south east,Grand River South East,13,2472,-20.2861111,57.7758333
+mu,grand riviere noire,Grand Rivière Noire,12,,-20.3602778,57.3661111
+mu,grand sable,Grand Sable,14,2208,-20.3141667,57.7644444
+mu,gros billot,Gros Billot,14,,-20.4163889,57.6030556
+mu,gros bois,Gros Bois,14,,-20.4377778,57.6072222
+mu,gros cailloux,Gros Cailloux,12,3361,-20.2072222,57.43
+mu,haut de flacq,Haut de Flacq,13,,-20.2027778,57.6680556
+mu,haute rive,Haute Rive,19,,-20.0969444,57.6980556
+mu,haut rive,Haut Rive,19,,-20.0969444,57.6980556
+mu,helvetia,Helvétia,15,,-20.2213889,57.5166667
+mu,henrietta,Henrietta,17,,-20.3355556,57.4663889
+mu,hermitage,Hermitage,13,,-20.2608333,57.7025
+mu,hermitage,Hermitage,15,,-20.25,57.55
+mu,hermitage,Hermitage,19,,-20.0811111,57.6847222
+mu,herve,Hervé,15,,-20.2666667,57.6
+mu,highlands,Highlands,17,,-20.2747222,57.5111111
+mu,holyrood,Holyrood,17,,-20.3097222,57.4675
+mu,ile d'ambre,Île d'Ambre,19,,-20.0741667,57.6802778
+mu,ilot,Îlot,16,,-20.13,57.5725
+mu,isidore rose,Isidore Rose,13,,-20.2077778,57.7480556
+mu,joli bois,Joli Bois,14,,-20.4411111,57.58
+mu,jolis bois,Jolis Bois,14,,-20.4411111,57.58
+mu,julien,Julien,13,,-20.2263889,57.6363889
+mu,khoyratty,Khoyratty,16,,-20.1205556,57.5475
+mu,la baraque,La Baraque,14,,-20.4669444,57.6194444
+mu,la barraque,La Barraque,14,,-20.4669444,57.6194444
+mu,la bergerie,La Bergerie,16,,-20.1133333,57.5252778
+mu,labonte,Labonté,12,,-20.4333333,57.3166667
+mu,labourdonnais,Labourdonnais,19,,-20.0683333,57.61
+mu,la caroline,La Caroline,13,,-20.2458333,57.7466667
+mu,la caverne,La Caverne,17,,-20.2938889,57.4738889
+mu,la clemence,La Clémence,19,,-20.1027778,57.6763889
+mu,la cocoterie,La Cocoterie,16,,-20.1302778,57.4913889
+mu,la commune,La Commune,13,,-20.3083333,57.7208333
+mu,la coterie,La Coterie,13,,-20.2991667,57.7705556
+mu,la crete,La Crete,12,,-20.4194444,57.3794444
+mu,la croisee,La Croisée,17,,-20.3186111,57.4783333
+mu,la dagotiere,La Dagotière,15,,-20.2444444,57.5541667
+mu,la ferme,La Ferme,23,,-19.7,63.3833333
+mu,la flora,La Flora,20,,-20.4102778,57.5536111
+mu,la fouche,La Fouche,23,,-19.7388889,63.3819444
+mu,la gaiete,La Gaiété,13,,-20.2136111,57.7244444
+mu,la gaulette,La Gaulette,12,2216,-20.4247222,57.3527778
+mu,lagesse,Lagesse,18,,-20.0327778,57.6191667
+mu,l'agrement,L'Agrément,15,,-20.2141667,57.5227778
+mu,la laura,La Laura,15,,-20.2002778,57.5455556
+mu,lalmatie,Lalmatie,13,10404,-20.1897222,57.6611111
+mu,la louise,La Louise,17,,-20.2683333,57.4658333
+mu,la lucia,La Lucia,19,,-20.1241667,57.6477778
+mu,la lucie,La Lucie,13,,-20.2597222,57.7355556
+mu,la marie,La Marie,17,,-20.335,57.485
+mu,la marre,La Marre,13,,-20.1566667,57.6419444
+mu,la mecque,La Mecque,12,,-20.2486111,57.3894444
+mu,l'amitie,L'Amitie,19,,-20.1094444,57.6638889
+mu,la mivoie,La Mivoie,12,,-20.3413889,57.3566667
+mu,la morue,La Morue,19,,-20.1333333,57.65
+mu,la nourrice,La Nourrice,13,,-20.2872222,57.7380556
+mu,la rampe,La Rampe,14,,-20.4258333,57.6316667
+mu,la rampe - le moirt,La Rampe - Le Moirt,14,,-20.4258333,57.6316667
+mu,la rosa,La Rosa,14,,-20.4136111,57.6169444
+mu,la rotraite,La Rotraite,17,,-20.2,57.4666667
+mu,la russie,La Russie,15,,-20.2436111,57.5966667
+mu,la source,La Source,17,,-20.2675,57.4566667
+mu,la sourdine,La Sourdine,14,,-20.4783333,57.6127778
+mu,l'assurance,L'Assurance,15,,-20.2497222,57.5472222
+mu,latanier,Latanier,23,,-19.7138889,63.4472222
+mu,lataniers,Lataniers,23,,-19.7138889,63.4472222
+mu,l'avenir,L'Avenir,15,,-20.215,57.5452778
+mu,laventure,Laventure,13,6171,-20.1458333,57.6766667
+mu,lavilleon,Lavilléon,12,,-20.4425,57.3561111
+mu,le bocage,Le Bocage,15,,-20.2161111,57.5038889
+mu,le bouchon,Le Bouchon,14,,-20.465,57.6697222
+mu,le chaland,Le Chaland,14,,-20.4447222,57.6986111
+mu,le goulet,Le Goulet,16,,-20.1008333,57.5105556
+mu,le hochet,Le Hochet,16,15197,-20.135,57.5211111
+mu,le marres,Le Marres,20,,-20.4252778,57.4680556
+mu,l'embrasure,L'Embrasure,12,,-20.4641667,57.3363889
+mu,leonbourg,Léonbourg,16,,-20.1136111,57.4972222
+mu,le plessis,Le Plessis,16,,-20.1147222,57.5975
+mu,le ravin,Le Ravin,19,,-20.1,57.6833333
+mu,le reduit,Le Réduit,15,,-20.2275,57.4925
+mu,l'escalier,L'Escalier,14,,-20.47,57.6122222
+mu,l'escalier,L'Escalier,15,,-20.19,57.5822222
+mu,les casernes,Les Casernes,17,,-20.3261111,57.4986111
+mu,les guibies,Les Guibies,15,,-20.1869444,57.4875
+mu,les mariannes,Les Mariannes,16,,-20.1641667,57.5836111
+mu,l'esperance,L'Espérance,19,,-20.0863889,57.6355556
+mu,l'espoir,L'Espoir,16,,-20.1111111,57.5497222
+mu,lesur,Lesur,13,,-20.2894444,57.675
+mu,l'etoile,L'Étoile,13,,-20.3044444,57.7030556
+mu,le val,Le Val,14,,-20.3547222,57.6208333
+mu,le vallon,Le Vallon,14,,-20.3619444,57.6825
+mu,ligne barrin,Ligne Barrin,14,,-20.4733333,57.6586111
+mu,long mountain,Long Mountain,16,7775,-20.1430556,57.5622222
+mu,luchon,Luchon,20,,-20.4666667,57.45
+mu,lucon,Luçon,20,,-20.4666667,57.45
+mu,l'union,L'Union,20,,-20.505,57.5386111
+mu,l'unite,L'Unité,13,,-20.2327778,57.6672222
+mu,madame azor,Madame Azor,19,,-20.03,57.6611111
+mu,madame cayeux,Madame Cayeux,16,,-20.1119444,57.5875
+mu,mahebourg,Mahébourg,14,17042,-20.4080556,57.7
+mu,maison blanche,Maison Blanche,16,,-20.1080556,57.5747222
+mu,malherbes,Malherbes,17,,-20.3091667,57.5247222
+mu,mamzelle jeanne,Mamzelle Jeanne,19,,-20.0302778,57.6497222
+mu,mangue,Mangue,23,,-19.7166667,63.3916667
+mu,mangues,Mangues,23,,-19.7166667,63.3916667
+mu,mapou,Mapou,19,1288,-20.0758333,57.6013889
+mu,marechal,Maréchal,23,,-19.7333333,63.3944444
+mu,mare chicose,Mare Chicose,14,,-20.3794444,57.6275
+mu,mare d'albert,Mare d'Albert,14,,-20.4186111,57.6227778
+mu,mare d'australia,Mare d'Australia,13,,-20.1527778,57.6405556
+mu,mare jacot,Mare Jacot,13,,-20.2477778,57.6763889
+mu,mare jocquot,Mare Jocquot,13,,-20.2477778,57.6763889
+mu,mare la chaux,Mare La Chaux,13,2058,-20.1980556,57.7494444
+mu,mare samson,Mare Samson,12,,-20.1713889,57.4416667
+mu,mare tabac,Mare Tabac,14,,-20.4358333,57.5886111
+mu,marie jeanie,Marie Jeanie,14,,-20.3961111,57.5880556
+mu,marie jeanne,Marie Jeanne,13,,-20.3038889,57.7608333
+mu,medine,Médine,12,,-20.2602778,57.3888889
+mu,medine,Médine,13,,-20.2422222,57.6425
+mu,melotte,Melotte,16,,-20.1875,57.5597222
+mu,melrose,Melrose,15,2002,-20.2697222,57.6319444
+mu,melville,Melville,19,,-20.0194444,57.6744444
+mu,mesnil,Mesnil,17,,-20.2902778,57.5116667
+mu,midlands,Midlands,17,4546,-20.3325,57.5583333
+mu,minissy,Minissy,15,,-20.2375,57.5066667
+mu,moka,Moka,12,,-20.4477778,57.3544444
+mu,moka,Moka,15,8842,-20.2188889,57.4958333
+mu,moka village,Moka Village,15,,-20.2188889,57.4958333
+mu,mon choisy,Mon Choisy,16,,-20.0205556,57.5555556
+mu,mon desert,Mon Désert,14,,-20.4472222,57.6716667
+mu,mon desert,Mon Désert,15,,-20.2222222,57.5263889
+mu,mon gout,Mon Goût,16,,-20.1175,57.5897222
+mu,mon loisir,Mon Loisir,18,,-20.0327778,57.6191667
+mu,mon piton,Mon Piton,19,,-20.0891667,57.6244444
+mu,mon rocher,Mon Rocher,16,,-20.0905556,57.5738889
+mu,mon songe,Mon Songe,19,,-20.1361111,57.6344444
+mu,montagne blanche,Montagne Blanche,15,8661,-20.2827778,57.6544444
+mu,montagne ory,Montagne Ory,15,,-20.215,57.4822222
+mu,mont blanche,Mont Blanche,15,,-20.2827778,57.6544444
+mu,mont blanc,Mont Blanc,20,,-20.4788889,57.4744444
+mu,mont choisy,Mont Choisy,16,,-20.0205556,57.5555556
+mu,montebello,Montebello,15,,-20.1991667,57.4752778
+mu,mont fleury,Mont Fleury,15,,-20.2169444,57.5344444
+mu,mont ida,Mont Ida,13,,-20.2388889,57.6308333
+mu,mont longue,Mont Longue,16,,-20.1430556,57.5622222
+mu,mont lubin,Mont Lubin,23,,-19.7083333,63.4416667
+mu,mont piton,Mont Piton,19,,-20.0902778,57.6302778
+mu,mon tresor - mon desert,Mon Trésor - Mon Désert,14,,-20.4475,57.6716667
+mu,mon tresor,Mon Trésor,14,,-20.4466667,57.6716667
+mu,mon vallon,Mon Vallon,12,,-20.3,57.4
+mu,morcellemont saint andre,Morcellemont Saint André,16,,-20.0730556,57.5580556
+mu,mount choisy,Mount Choisy,16,,-20.0205556,57.5555556
+mu,mount,Mount,16,,-20.1113889,57.6022222
+mu,mount ory,Mount Ory,15,,-20.215,57.4822222
+mu,new grove,New Grove,14,9935,-20.4086111,57.6136111
+mu,new grove station,New Grove Station,14,,-20.4086111,57.6136111
+mu,notre dame,Notre Dame,16,3959,-20.1405556,57.5530556
+mu,notre dame station,Notre Dame Station,16,,-20.1405556,57.5530556
+mu,nouvelle decouverte,Nouvelle Découverte,15,,-20.1872222,57.5819444
+mu,nouvelle decouverte,Nouvelle Découverte,23,,-19.7111111,63.4694444
+mu,nouvelle france,Nouvelle France,14,7238,-20.3705556,57.5611111
+mu,old grand port,Old Grand Port,14,,-20.3669444,57.7063889
+mu,oliva,Oliva,13,,-20.2975,57.7255556
+mu,olivia,Olivia,13,3980,-20.2975,57.7255556
+mu,oyster bay,Oyster Bay,23,,-19.6944444,63.4083333
+mu,pailles,Pailles,15,10622,-20.1855556,57.4772222
+mu,pailles village,Pailles Village,15,,-20.1855556,57.4772222
+mu,palissade ternel,Palissade Ternel,23,,-19.7111111,63.4541667
+mu,palma,Palma,17,,-20.2791667,57.4441667
+mu,palmar,Palmar,13,,-20.2172222,57.7688889
+mu,palmyre,Palmyre,12,,-20.2822222,57.3844444
+mu,pamplemousses,Pamplemousses,16,,-20.1038889,57.5702778
+mu,pamplemousses village,Pamplemousses Village,16,,-20.1038889,57.5702778
+mu,patate theophile,Patate Théophile,23,,-19.7,63.4833333
+mu,paves,Paves,23,,-19.6833333,63.45
+mu,pavillon du grand port,Pavillon du Grand Port,14,,-20.3711111,57.7175
+mu,pavillon,Pavillon,19,,-19.9897222,57.6088889
+mu,pelissis,Pelissis,16,,-20.1147222,57.5975
+mu,pellegrin,Pellegrin,13,,-20.2775,57.6791667
+mu,pellegrin,Pellegrin,17,,-20.2558333,57.4833333
+mu,pereybere,Pereybèré,19,,-19.9905556,57.5855556
+mu,petit bel air,Petit Bel Air,14,,-20.3994444,57.6919444
+mu,petit bois,Petit Bois,13,,-20.2413889,57.755
+mu,petit brule,Petit Brûlé,23,,-19.7111111,63.4625
+mu,petit camp,Petit Camp,17,,-20.2688889,57.4922222
+mu,petite butte,Petite Butte,23,,-19.75,63.3833333
+mu,petite cabane,Petite Cabane,13,,-20.2519444,57.6688889
+mu,petite case noyale,Petite Case Noyale,12,,-20.3930556,57.365
+mu,petite julie,Petite Julie,16,,-20.1386111,57.6183333
+mu,petite riviere noire,Petite Rivière Noire,12,,-20.3897222,57.3722222
+mu,petite riviere,Petite Rivière,12,5331,-20.1894444,57.4452778
+mu,petite rosalie,Petite Rosalie,16,,-20.1202778,57.6025
+mu,petite verger,Petite Verger,12,,-20.1755556,57.4336111
+mu,petit gabriel,Petit Gabriel,23,,-19.7166667,63.4166667
+mu,petit gamin,Petit Gamin,16,,-20.1038889,57.5175
+mu,petit gravier,Petit Gravier,23,,-19.7277778,63.4833333
+mu,petit paquet,Petit Paquet,15,,-20.2747222,57.6552778
+mu,petit paquet,Petit Paquet,19,,-20.0013889,57.6291667
+mu,petit raffray,Petit Raffray,19,9117,-20.0133333,57.6119444
+mu,petit sable,Petit Sable,14,,-20.3286111,57.76
+mu,petit verger,Petit Verger,12,,-20.1755556,57.4336111
+mu,petit verger,Petit Verger,15,,-20.2172222,57.5113889
+mu,phoenix,Phoenix,17,,-20.2866667,57.5022222
+mu,piton,Piton,19,5909,-20.0902778,57.6302778
+mu,plaine corail,Plaine Corail,23,,-19.7583333,63.3583333
+mu,plaine des papayes,Plaine des Papayes,16,,-20.065,57.5725
+mu,plaine magnien,Plaine Magnien,14,10778,-20.4286111,57.6530556
+mu,plaines des papayes,Plaines des Papayes,16,7617,-20.065,57.5725
+mu,plaines des roches,Plaines des Roches,19,,-20.1116667,57.6908333
+mu,plaines magnien,Plaines Magnien,14,,-20.4286111,57.6530556
+mu,plaine verte,Plaine Verte,18,,-20.1536111,57.5077778
+mu,plaisance,Plaisance,14,,-20.4183333,57.6713889
+mu,plaisance,Plaisance,17,,-20.2377778,57.4505556
+mu,plein bois,Plein Bois,14,,-20.4575,57.6211111
+mu,pointe aux cannoniers,Pointe aux Cannoniers,16,,-20.0083333,57.56
+mu,pointe aux canonniers,Pointe aux Canonniers,16,,-20.0083333,57.56
+mu,pointe aux feuilles,Pointe aux Feuilles,13,,-20.3058333,57.7733333
+mu,pointe aux roches,Pointe aux Roches,14,,-20.3233333,57.7625
+mu,pointe aux sables,Pointe aux Sables,12,,-20.1655556,57.4511111
+mu,pointe d'esny,Pointe d'Esny,14,,-20.4266667,57.7197222
+mu,pomponnette,Pomponnette,20,,-20.5094444,57.4802778
+mu,pont blanc,Pont Blanc,13,,-20.1666667,57.7044444
+mu,pont colville,Pont Colville,14,,-20.3827778,57.5580556
+mu,pont praslin,Pont Praslin,16,,-20.1494444,57.6325
+mu,pont prastin,Pont Prastin,16,,-20.1494444,57.6325
+mu,porte sainte rita,Porte Sainte Rita,00,,-10.4833333,56.7
+mu,port louis,Port Louis,18,155226,-20.1619444,57.4988889
+mu,port louis town,Port Louis Town,18,,-20.1619444,57.4988889
+mu,port mathurin,Port Mathurin,23,,-19.6833333,63.4166667
+mu,port sainte rita,Port Sainte Rita,00,,-10.4833333,56.7
+mu,port souillac,Port Souillac,20,,-20.5166667,57.5166667
+mu,port south east,Port South East,23,,-19.75,63.45
+mu,port sud-est,Port Sud-Est,23,,-19.75,63.45
+mu,poste de flacq,Poste de Flacq,13,7133,-20.1630556,57.7305556
+mu,post of flacq,Post of Flacq,13,,-20.1630556,57.7305556
+mu,poudre d'or hamlet,Poudre d'Or Hamlet,19,,-20.0769444,57.6477778
+mu,poudre d'or,Poudre d'Or,19,,-20.06,57.6766667
+mu,poudre d'or village,Poudre D'Or Village,19,,-20.06,57.6766667
+mu,providence,Providence,13,,-20.1788889,57.7280556
+mu,providence,Providence,14,,-20.355,57.7363889
+mu,providence,Providence,15,3126,-20.2447222,57.6122222
+mu,quartier militaire,Quartier Militaire,15,6424,-20.2438889,57.5891667
+mu,quatre bornes,Quatre Bornes,17,80961,-20.2644444,57.4719444
+mu,quatre cocos,Quatre Cocos,13,5724,-20.2077778,57.7625
+mu,quatre soeurs br.,Quatre Soeurs Br.,13,,-20.2991667,57.7705556
+mu,quatre soeurs,Quatre Soeurs,13,3515,-20.2991667,57.7705556
+mu,quatre vents,Quatre Vents,23,,-19.7,63.4
+mu,queen victoria,Queen Victoria,13,3025,-20.22,57.7075
+mu,quinze cantons,Quinze Cantons,17,,-20.3008333,57.4725
+mu,rama,Rama,14,,-20.3736111,57.6236111
+mu,ravin,Ravin,19,,-20.1,57.6833333
+mu,reduit,Reduit,15,,-20.2275,57.4925
+mu,reunion maurel,Réunion Maurel,19,,-20.0191667,57.6308333
+mu,reunion,Réunion,17,,-20.3091667,57.4880556
+mu,riambel,Riambel,20,,-20.515,57.5
+mu,riche bois,Riche Bois,20,,-20.4563889,57.5769444
+mu,riche en eau,Riche en Eau,14,,-20.3847222,57.6555556
+mu,richeterre,Richeterre,16,,-20.1166667,57.5
+mu,rich fund,Rich Fund,13,,-20.2088889,57.6658333
+mu,ripailles,Ripailles,15,3050,-20.1936111,57.5722222
+mu,river des anguilles,River des Anguilles,20,,-20.4852778,57.5508333
+mu,river dragon,River Dragon,20,,-20.4461111,57.56
+mu,river du poste station,River du Poste Station,20,,-20.4241667,57.5669444
+mu,river side,River Side,17,,-20.2775,57.4966667
+mu,riviere baptiste,Rivière Baptiste,15,,-20.2061111,57.5277778
+mu,riviere cocos,Rivière Cocos,23,,-19.7402778,63.4111111
+mu,riviere creoles,Rivière Créoles,14,,-20.3880556,57.6886111
+mu,riviere des anguilles,Rivière des Anguilles,20,9927,-20.4852778,57.5508333
+mu,riviere des creoles,Rivière des Creoles,14,,-20.3880556,57.6886111
+mu,riviere dragon,Rivière Dragon,20,,-20.4461111,57.56
+mu,riviere du poste,Rivière du Poste,20,,-20.4241667,57.5669444
+mu,riviere du poste station,Rivière du Poste Station,20,,-20.4241667,57.5669444
+mu,riviere du post,Rivière du Post,20,,-20.4241667,57.5669444
+mu,riviere du rempart,Rivière du Rempart,19,11675,-20.1030556,57.6847222
+mu,riviere noire,Rivière Noire,12,,-20.3602778,57.3661111
+mu,riviere seche,Rivière Sèche,13,,-20.2541667,57.7452778
+mu,robinson,Robinson,16,,-20.1711111,57.5613889
+mu,roche bois,Roche Bois,16,,-20.1363889,57.5047222
+mu,roche bon dieu,Roche Bon Dieu,23,,-19.6916667,63.4708333
+mu,roche noire,Roche Noire,19,,-20.1111111,57.7122222
+mu,roche noires,Roche Noires,19,,-20.1111111,57.7122222
+mu,roches brunes,Roches Brunes,17,,-20.2330556,57.4525
+mu,roches noire,Roches Noire,19,,-20.1111111,57.7122222
+mu,roches noires,Roches Noires,19,5733,-20.1111111,57.7122222
+mu,roche terre,Roche Terre,19,3199,-20.0186111,57.6447222
+mu,rose belle,Rose Belle,14,12619,-20.4002778,57.5966667
+mu,rose hill,Rose Hill,17,,-20.2419444,57.47
+mu,roselyn cottage,Roselyn Cottage,15,,-20.2102778,57.5172222
+mu,rouge terre,Rouge Terre,16,,-20.0433333,57.5683333
+mu,ruisseau copeaux,Ruisseau Copeaux,14,,-20.4186111,57.6572222
+mu,ruisseau creole,Ruisseau Créole,20,,-20.4833333,57.3833333
+mu,ruisseau rose,Ruisseau Rose,16,,-20.1527778,57.5677778
+mu,saint-andre,Saint-André,16,,-20.0730556,57.5580556
+mu,saint antoine,Saint Antoine,17,,-20.2813889,57.5238889
+mu,saint antoine,Saint Antoine,19,,-20.0416667,57.6536111
+mu,saint aubin,Saint Aubin,20,1659,-20.4916667,57.5413889
+mu,saint avold,Saint Avold,20,,-20.4375,57.5508333
+mu,saint cloud,Saint Cloud,16,,-20.1477778,57.6341667
+mu,sainte croix,Sainte Croix,18,,-20.145,57.5213889
+mu,sainte madeleine,Sainte Madeleine,14,,-20.3605556,57.6341667
+mu,sainte-marie,Sainte-Marie,20,,-20.4836111,57.425
+mu,sainte rita,Sainte Rita,00,,-10.4833333,56.7
+mu,saint felix,Saint Félix,20,,-20.4866667,57.5663889
+mu,saint francois,Saint François,19,,-20.0044444,57.6341667
+mu,saint gabriel,Saint Gabriel,23,,-19.7,63.4333333
+mu,saint hilaire,Saint Hilaire,14,,-20.3736111,57.6408333
+mu,saint hubert,Saint Hubert,14,4170,-20.3641667,57.6383333
+mu,saint jean,Saint Jean,17,,-20.2502778,57.48
+mu,saint julien,Saint Julien,13,3188,-20.2263889,57.6363889
+mu,saint julien village,Saint Julien Village,13,,-20.2263889,57.6363889
+mu,saint louis,Saint Louis,23,,-19.7166667,63.475
+mu,saint martin,Saint Martin,20,,-20.4963889,57.3883333
+mu,saint paul,Saint Paul,17,,-20.2877778,57.5044444
+mu,saint pierre,Saint Pierre,15,16414,-20.2175,57.5208333
+mu,saint pierre village,Saint Pierre Village,15,,-20.2175,57.5208333
+mu,saint remy,Saint Remy,13,,-20.1872222,57.7119444
+mu,salazie,Salazie,15,,-20.1744444,57.61
+mu,sans souci,Sans Souci,13,,-20.2958333,57.6513889
+mu,savannah,Savannah,20,,-20.485,57.6088889
+mu,savinia,Savinia,14,,-20.4744444,57.6330556
+mu,schoenfeld,Schoenfeld,19,,-20.0805556,57.6655556
+mu,sebastopol,Sebastopol,13,5745,-20.2888889,57.6875
+mu,seizieme mille,Seizième Mille,17,,-20.3405556,57.5394444
+mu,senneville,Senneville,20,,-20.5011111,57.55
+mu,solferino,Solférino,17,,-20.2908333,57.4672222
+mu,solitude,Solitude,16,,-20.0769444,57.5386111
+mu,solitude,Solitude,23,,-19.6861111,63.4375
+mu,songe,Songe,23,,-19.7388889,63.4416667
+mu,sottise,Sottise,19,,-20.0208333,57.5722222
+mu,souffleur,Souffleur,14,,-20.4816667,57.6388889
+mu,souillac,Souillac,20,4392,-20.5166667,57.5166667
+mu,soullac,Soullac,20,,-20.5166667,57.5166667
+mu,soupir,Soupir,23,,-19.7055556,63.4291667
+mu,stanley,Stanley,17,,-20.2469444,57.45
+mu,st remy,St Remy,13,,-20.1872222,57.7119444
+mu,suase,Suase,12,,-20.3166667,57.4166667
+mu,surinam,Surinam,20,10621,-20.5097222,57.5052778
+mu,tamarin,Tamarin,12,3764,-20.3255556,57.3705556
+mu,telfair,Telfair,15,,-20.2263889,57.4991667
+mu,terracine,Terracine,20,,-20.5061111,57.5144444
+mu,terre rouge,Terre Rouge,16,9566,-20.0433333,57.5683333
+mu,the mount,The Mount,16,,-20.1113889,57.6022222
+mu,the vale,The Vale,19,3707,-20.0283333,57.5877778
+mu,tranquebar,Tranquebar,18,,-20.1747222,57.5058333
+mu,trefles,Trèfles,23,,-19.6833333,63.4666667
+mu,trianon,Trianon,17,,-20.2477778,57.4866667
+mu,triolet,Triolet,16,23270,-20.0547222,57.5452778
+mu,trio,Trio,16,,-20.0475,57.535
+mu,trois boutiques,Trois Boutiques,14,,-20.4488889,57.6411111
+mu,trois ilots,Trois Îlots,13,,-20.2666667,57.7380556
+mu,trou aux biches,Trou aux Biches,16,,-20.045,57.5461111
+mu,trou d'eau douce,Trou d'Eau Douce,13,,-20.2372222,57.7775
+mu,tyack,Tyack,20,,-20.4761111,57.5519444
+mu,union flacq,Union Flacq,13,,-20.2044444,57.6855556
+mu,union maurel,Union Maurel,19,,-20.0191667,57.6308333
+mu,union park,Union Park,14,,-20.3863889,57.5736111
+mu,union saint aubin,Union Saint Aubin,20,,-20.4916667,57.5413889
+mu,union,Union,20,,-20.5,57.4666667
+mu,union vale,Union Vale,14,,-20.4438889,57.655
+mu,unite,Unité,13,,-20.2327778,57.6672222
+mu,vacoas,Vacoas,17,,-20.2980556,57.4783333
+mu,vacoa,Vacoa,17,,-20.2980556,57.4783333
+mu,vainqueur,Vainqueur,23,,-19.6666667,63.4666667
+mu,valentina,Valentina,17,,-20.2719444,57.4955556
+mu,valentina,Valentina,20,,-20.4908333,57.4583333
+mu,valetta,Valetta,15,,-20.2519444,57.5613889
+mu,vallee des pretres,Vallée des Prêtres,18,,-20.1669444,57.5305556
+mu,vallee pitot,Vallée Pitot,18,,-20.1647222,57.5130556
+mu,valruche,Valruche,20,,-20.4580556,57.4366667
+mu,valton,Valton,16,,-20.1519444,57.5627778
+mu,verdun station,Verdun Station,15,,-20.2283333,57.5438889
+mu,verdun,Verdun,15,2208,-20.2283333,57.5438889
+mu,vieux grand port,Vieux Grand Port,14,,-20.3669444,57.7063889
+mu,ville bague,Ville Bague,16,,-20.1447222,57.6211111
+mu,ville d'apray,Ville d'Apray,17,,-20.3363889,57.5630556
+mu,ville d'avray,Ville d'Avray,17,,-20.3363889,57.5630556
+mu,ville noire,Ville Noire,14,,-20.4019444,57.6947222
+mu,ville valio,Ville Valio,16,,-20.0938889,57.5038889
+mu,virginia,Virginia,14,,-20.4677778,57.6558333
+mu,vuillemain,Vuillemain,17,,-20.215,57.4663889
+mu,vuillemin,Vuillemin,15,,-20.255,57.5847222
+mu,yemen,Yemen,12,,-20.335,57.4005556

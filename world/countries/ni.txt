@@ -1,0 +1,3215 @@
+ni,abra vieja,Abra Vieja,08,,12.6666667,-86.2833333
+ni,achuapa,Achuapa,08,,13.05,-86.5833333
+ni,acoyapa,Acoyapa,04,10011,11.9666667,-85.1666667
+ni,aduana,Aduana,10,,12.0333333,-86.4666667
+ni,aduana,Aduana,17,,14.9833333,-83.1666667
+ni,agua agria,Agua Agria,06,,11.7833333,-85.9666667
+ni,agua amarilla,Agua Amarilla,12,,13.05,-85.7
+ni,agua amarillas,Agua Amarillas,12,,13.05,-85.7
+ni,agua caliente,Agua Caliente,01,,12.3833333,-85.7833333
+ni,agua caliente,Agua Caliente,08,,12.7,-86.8166667
+ni,aguacate,Aguacate,02,,11.8166667,-86.2
+ni,agua clara,Agua Clara,17,,13.9666667,-84.5166667
+ni,agua dulce,Agua Dulce,10,,12.35,-86.1666667
+ni,agua fria,Agua Frìa,12,,12.7666667,-86.2833333
+ni,agua planta,Agua Planta,02,,11.8166667,-86.2
+ni,aguas caliente de acayo,Aguas Caliente de Acayo,02,,11.6166667,-86.2
+ni,aguas calientes,Aguas Calientes,01,,12.7,-85.15
+ni,aguas calientes,Aguas Calientes,04,,12.15,-85.3833333
+ni,aguas calientes de acayo,Aguas Calientes de Acayo,02,,11.6166667,-86.2
+ni,ahuchuetes,Ahuchuetes,02,,11.6166667,-86.3166667
+ni,ahuehuete,Ahuehuete,02,,11.6166667,-86.3166667
+ni,ahuehuito,Ahuehuito,01,,12.1833333,-85.6
+ni,alamicamba,Alamìcamba,17,,13.5,-84.2166667
+ni,alamikamba,Alamikamba,17,,13.5,-84.2166667
+ni,alaska,Alaska,03,,12.6333333,-86.9
+ni,alimicamba,Alimicamba,17,,13.5,-84.2166667
+ni,almendro,Almendro,14,,11.6833333,-84.7
+ni,alo,Aló,17,,13.65,-84.95
+ni,alsacia,Alsacia,03,,12.75,-86.9
+ni,altagracia,Altagracia,15,,11.5666667,-85.5833333
+ni,alta mira,Alta Mira,01,,12.1166667,-85.7666667
+ni,altos,Altos,11,,12.0666667,-86.1
+ni,amaka,Amaka,07,,14.25,-85.1166667
+ni,amaki,Amaki,17,,14.6666667,-84.7
+ni,amalia,Amalia,06,,11.7166667,-86.05
+ni,amatilla,Amatilla,13,,13.6333333,-86.6333333
+ni,amatillo,Amatillo,13,,13.6333333,-86.6333333
+ni,amatitan,Amatitán,08,,12.3666667,-86.75
+ni,amatitan viejo,Amatitán Viejo,08,,12.3833333,-86.75
+ni,amatitlan,Amatitlan,08,,12.3666667,-86.75
+ni,amaya,Amaya,02,,11.7833333,-86.2833333
+ni,amayito,Amayito,02,,11.7166667,-86.3333333
+ni,amayo,Amayo,02,,11.7833333,-86.2833333
+ni,amayo,Amayo,15,,11.3166667,-85.7
+ni,america,América,10,,11.9833333,-86.35
+ni,america,América,14,,10.9333333,-83.7166667
+ni,amerisco,Amerisco,18,,11.2,-83.85
+ni,amerrisco,Amerrisco,18,,11.2,-83.85
+ni,amparo,Amparo,17,,13.65,-84.8333333
+ni,amucayan,Amucayán,09,,13.5666667,-86.35
+ni,andres,Andrés,17,,14.8833333,-83.6333333
+ni,angel,Angel,09,,13.2666667,-86.6666667
+ni,anris,Anris,17,,14.8833333,-83.6333333
+ni,anris tara,Anris Tara,07,,14.7666667,-84.9333333
+ni,apaji,Apají,13,,13.6333333,-86.5166667
+ni,apaji rancho,Apaji Rancho,13,,13.6333333,-86.5166667
+ni,apali,Apalí,13,,13.6833333,-86.2333333
+ni,apalili,Apalilí,12,,13.0,-85.9666667
+ni,apamico,Apamico,12,,12.9166667,-86.0666667
+ni,apampoa,Apampoa,15,,11.5166667,-85.85
+ni,apante,Apante,03,,12.8333333,-87.35
+ni,apante,Apante,10,,11.9666667,-86.4833333
+ni,apastate,Apastate,03,,12.65,-86.9833333
+ni,apatus,Apatus,12,,12.7833333,-85.95
+ni,apinpua,Apinpua,02,,11.7833333,-86.2833333
+ni,apompoa,Apompoa,15,,11.5166667,-85.85
+ni,apompua,Apompuá,02,,11.7833333,-86.2833333
+ni,apompua,Apompuá,12,,12.8,-86.1
+ni,apompua,Apompuá,15,,11.5166667,-85.85
+ni,aposentillo,Aposentillo,03,,12.6333333,-87.3666667
+ni,araditos,Araditos,03,,13.25,-86.8333333
+ni,arado,Arado,03,,13.25,-86.7666667
+ni,arados,Arados,03,,13.25,-86.7666667
+ni,arandak,Arandak,07,,14.5,-85.0
+ni,aranjuez,Aranjuez,08,,12.3666667,-86.8333333
+ni,arapal,Arapal,07,,13.7833333,-85.4
+ni,argelia,Argelia,03,,12.6666667,-86.95
+ni,ariswatla,Ariswatla,17,,13.4,-83.5833333
+ni,arlen siu,Arlen Siu,18,,12.2,-84.2833333
+ni,arrayan,Arrayán,13,,13.6833333,-86.3166667
+ni,asabalbali,Asabalbali,07,,14.2,-85.1833333
+ni,asan,Asan,17,,14.7333333,-84.75
+ni,asancor,Asancor,12,,12.85,-85.65
+ni,asang,Asang,17,,14.7333333,-84.75
+ni,asaog,Asaog,17,,14.7333333,-84.75
+ni,aserradero sanders,Aserradero Sanders,17,,14.1,-83.55
+ni,aserrio bum,Aserrío Bum,17,,14.1,-83.55
+ni,aserrio wiwas,Aserrío Wiwás,17,,14.4,-83.7833333
+ni,asososca,Asososca,08,,12.4333333,-86.6666667
+ni,astillero,Astillero,15,,11.5,-86.1666667
+ni,asturias,Asturias,07,,13.25,-85.9
+ni,asuncion,Asunción,01,,12.15,-85.5166667
+ni,atlanta,Atlanta,18,,11.5833333,-84.0166667
+ni,auanay,Auanay,07,,14.2833333,-85.25
+ni,auastara,Auastara,17,,14.3,-83.2166667
+ni,auas tingni,Auas Tingni,17,,14.3666667,-83.95
+ni,aurora,Aurora,01,,12.65,-85.65
+ni,auxiliadora,Auxiliadora,04,,12.0,-85.3666667
+ni,auya pihni,Auya Pihni,17,,14.3,-83.6
+ni,auyapura,Auyapura,17,,14.9333333,-83.55
+ni,auyatara,Auyatara,17,,14.3,-83.65
+ni,auya yari,Auya Yari,07,,14.2,-85.3833333
+ni,avapal,Avapal,07,,13.7833333,-85.4
+ni,awastara,Awastara,17,,14.3,-83.2166667
+ni,awastingni,Awastingni,17,,14.3666667,-83.95
+ni,ayapal,Ayapal,07,,13.7833333,-85.4
+ni,ayoja,Ayoja,01,,12.3333333,-85.8333333
+ni,azacualpa,Azacualpa,10,,12.0333333,-86.5166667
+ni,azancor,Azáncor,12,,12.85,-85.65
+ni,bachilaya,Bachilaya,17,,14.7833333,-83.8166667
+ni,bacoas,Bacoas,01,,12.65,-85.4833333
+ni,bajos de tomatoya,Bajos de Tomatoya,01,,12.5666667,-85.85
+ni,baka,Baká,17,,13.7,-84.55
+ni,balque,Balque,15,,11.4833333,-85.5166667
+ni,balsamo,Balsamo,01,,12.5666667,-85.65
+ni,balsamo,Bálsamo,03,,12.6166667,-87.2333333
+ni,balsamo,Bálsamo,12,,12.6666667,-85.65
+ni,balsamo,Balsamo,13,,13.5666667,-86.1666667
+ni,banco,Banco,18,,12.1166667,-84.1166667
+ni,banco brown abajo,Banco Brown Abajo,18,,12.45,-83.7333333
+ni,banco salva todo,Banco Salva Todo,18,,12.5833333,-83.75
+ni,banderas,Banderas,10,,12.3333333,-85.95
+ni,barba de tigre,Barba de Tigre,10,,11.9333333,-86.3666667
+ni,barquito,Barquito,03,,12.4666667,-87.1166667
+ni,barra del rio maiz,Barra del Río Maíz,18,,11.2833333,-83.8833333
+ni,barra de rio grande,Barra de Río Grande,18,,12.9,-83.5333333
+ni,barra de wawa,Barra de Wawa,17,,13.8833333,-83.4666667
+ni,barranco,Barranco,02,,11.65,-86.3166667
+ni,barranco bayo,Barranco Bayo,02,,11.6666667,-86.3
+ni,barra punta gorda,Barra Punta Gorda,18,,11.5166667,-83.7833333
+ni,barra rio grande,Barra Rio Grande,18,,12.9,-83.5333333
+ni,barrera,Barrera,18,,12.9833333,-84.3833333
+ni,barrio chiquito,Barrio Chiquito,03,,12.6333333,-87.2
+ni,barrio copaltepe,Barrio Copaltepe,08,,12.15,-86.5666667
+ni,barrio de san francisco,Barrio de San Francisco,11,,12.0333333,-86.1166667
+ni,barrio de tecuaname,Barrio de Tecuaname,08,,12.5444444,-86.5466667
+ni,barrio de zaragoza,Barrio de Zaragoza,15,,11.3166667,-85.7666667
+ni,barrio el nacascolo,Barrio El Nacascolo,10,,12.1,-86.6
+ni,barrio el terrero,Barrio El Terrero,08,,12.5666667,-86.6
+ni,barrio los aburtos,Barrio Los Aburtos,10,,12.1166667,-86.5
+ni,barrio los bustos,Barrio Los Bustos,11,,11.95,-86.1833333
+ni,barrio los hidalgos,Barrio Los Hidalgos,10,,12.0166667,-86.4
+ni,barrio momotombo,Barrio Momotombo,11,,11.9166667,-86.1
+ni,barrio monimbo,Barrio Monimbó,11,,11.95,-86.1
+ni,barrio nuevo,Barrio Nuevo,02,,11.8,-86.25
+ni,barrio pio xii,Barrio Pío XII,11,,11.9,-86.1166667
+ni,barrio san lorenzo,Barrio San Lorenzo,10,,12.1166667,-86.5666667
+ni,barrio san miguel,Barrio San Miguel,11,,12.0333333,-86.1833333
+ni,barrio tierra colorada,Barrio Tierra Colorada,08,,12.1333333,-86.5833333
+ni,barro,Barro,12,,12.6166667,-85.8666667
+ni,bartola,Bartola,04,,12.1,-85.2166667
+ni,bartolo,Bartolo,04,,12.1,-85.2166667
+ni,bartolo,Bartolo,13,,13.5333333,-85.9166667
+ni,batsilaya,Batsilaya,17,,14.7833333,-83.8166667
+ni,belen,Belén,01,,12.1666667,-85.6833333
+ni,belen,Belén,08,,12.5666667,-86.9166667
+ni,belen,Belén,15,4968,11.5,-85.8833333
+ni,bella cruz,Bella Cruz,10,,12.1666667,-86.35
+ni,bellavista,Bellavista,03,,12.6666667,-86.95
+ni,bella vista,Bella Vista,12,,12.65,-85.7666667
+ni,bella vista,Bella Vista,18,,12.8666667,-84.1833333
+ni,bena blanca,Beña Blanca,15,,11.2166667,-85.6166667
+ni,benito montalban,Benito Montalbán,03,,12.6166667,-86.9833333
+ni,berlin,Berlín,15,,11.5833333,-86.05
+ni,betil,Betil,17,,13.4333333,-83.9333333
+ni,betulia,Betulia,04,,12.3,-85.1833333
+ni,bijague,Bijague,12,,12.85,-85.9666667
+ni,bijaque,Bijaque,12,,12.85,-85.9666667
+ni,bijia,Bijia,13,,13.4833333,-85.9166667
+ni,bilampi,Bilampí,18,,12.9333333,-85.0333333
+ni,bilas,Bilas,17,,14.75,-83.8833333
+ni,bilas carmen,Bilas Carmen,17,,14.75,-83.8833333
+ni,bilhuas,Bilhuas,17,,14.75,-83.8833333
+ni,bilwarkarma,Bilwarkarma,17,,14.75,-83.8833333
+ni,bilwas,Bilwás,12,,12.8833333,-85.5833333
+ni,bilwascarma,Bilwascarma,17,,14.75,-83.8833333
+ni,bilwaska,Bilwaska,12,,12.8255556,-86.0530556
+ni,bilwaskarma,Bilwaskarma,17,,14.75,-83.8833333
+ni,bismuna,Bismuna,17,,14.75,-83.4166667
+ni,bismuna tara,Bismuna Tara,17,,14.75,-83.4166667
+ni,blewfield,Blewfield,18,,12.0,-83.75
+ni,bluefields,Bluefields,18,50178,12.0,-83.75
+ni,boaco,Boaco,01,22481,12.4666667,-85.6666667
+ni,boaco viejo,Boaco Viejo,01,,12.45,-85.5333333
+ni,boaquito,Boaquito,01,,12.45,-85.75
+ni,boca del toro,Boca del Toro,17,,14.4,-83.8833333
+ni,boca de sabalos,Boca de Sábalos,14,,11.05,-84.4666667
+ni,bocana caoba,Bocana Caoba,18,,12.0833333,-84.0
+ni,bocana de paiwas,Bocana de Paiwas,18,4975,12.8,-85.1333333
+ni,bocana las limas,Bocana Las Limas,12,,12.75,-85.4333333
+ni,bocana mahogany,Bocana Mahogany,18,,12.0833333,-84.0
+ni,bocas del toro,Bocas del Toro,17,,14.4,-83.8833333
+ni,bocay,Bocay,07,,14.3166667,-85.1666667
+ni,bonanza bodega,Bonanza Bodega,17,,14.0166667,-84.5833333
+ni,bonanza,Bonanza,17,6129,14.0166667,-84.5833333
+ni,boom,Boom,17,,14.9166667,-83.6
+ni,boon,Boon,17,,14.9166667,-83.6
+ni,boqueron,Boquerón,10,,12.2833333,-86.5333333
+ni,boquita,Boquita,02,,11.6833333,-86.3833333
+ni,bordo las tinajas,Bordo Las Tinajas,08,,12.7333333,-86.3166667
+ni,bosquito,Bosquito,01,,12.45,-85.75
+ni,bragman's bluff,Bragman's Bluff,17,,14.0333333,-83.3833333
+ni,brasil,Brasil,06,,12.2666667,-85.9333333
+ni,brasil,Brasil,12,,12.6333333,-86.2333333
+ni,brasiles,Brasiles,10,,12.1927778,-86.3691667
+ni,brasil grande,Brasil Grande,02,,11.9,-86.3
+ni,brasilito,Brasilito,02,,11.8333333,-86.3333333
+ni,brazil,Brazil,06,,12.2666667,-85.9333333
+ni,brazil,Brazil,12,,12.6333333,-86.2333333
+ni,brito,Brito,15,,11.35,-85.9833333
+ni,brown bank bottom,Brown Bank Bottom,18,,12.45,-83.7333333
+ni,brown bank,Brown Bank,18,,12.45,-83.7333333
+ni,brown's bank,Brown's Bank,18,,12.45,-83.7333333
+ni,buena vista,Buena Vista,01,,12.05,-85.6166667
+ni,buena vista,Buena Vista,02,,11.6833333,-86.1833333
+ni,buenavista,Buenavista,02,,11.8,-86.3333333
+ni,buena vista,Buena Vista,03,,12.8333333,-87.3833333
+ni,buenavista,Buenavista,08,,12.8,-86.4333333
+ni,buenavista,Buenavista,10,,11.9833333,-86.4333333
+ni,buenavista,Buenavista,12,,12.5755556,-86.0119444
+ni,buenavista,Buenavista,13,,13.5333333,-86.0666667
+ni,buena vista,Buena Vista,17,,14.65,-83.65
+ni,buena vista,Buena Vista,18,,11.0666667,-83.8166667
+ni,buenavista de apompua,Buenavista de Apompuá,02,,11.7666667,-86.3
+ni,buenavista del socorro,Buenavista del Socorro,02,,11.8,-86.3333333
+ni,buenos aires,Buenos Aires,01,,12.5,-85.5333333
+ni,buenos aires,Buenos Aires,08,,12.3833333,-87.0
+ni,buenos aires,Buenos Aires,12,,13.0333333,-85.6333333
+ni,buenos aires,Buenos Aires,15,,11.4666667,-85.8166667
+ni,buenos aires,Buenos Aires,18,,12.05,-84.2666667
+ni,bull camp,Bull Camp,17,,14.7166667,-84.0833333
+ni,bull sirpe,Bull Sirpe,17,,14.7166667,-84.15
+ni,bulun,Bulún,04,,12.2,-84.9
+ni,bum,Bum,17,,14.9166667,-83.6
+ni,bumsirpe,Bumsirpe,17,,14.15,-83.4666667
+ni,bum sirpi,Bum Sirpi,17,,14.15,-83.4666667
+ni,butara,Butara,17,,14.1833333,-83.55
+ni,but tara,But Tara,17,,14.1833333,-83.55
+ni,cabecera las iguanas,Cabecera Las Iguanas,18,,12.0666667,-84.3833333
+ni,cabo de gracias a dios,Cabo de Gracias a Dios,17,,14.9833333,-83.1666667
+ni,cabo de horno,Cabo de Horno,18,,12.1166667,-84.4166667
+ni,cabo gracias a dios,Cabo Gracias a Dios,17,,14.9833333,-83.1666667
+ni,cabo gracias viejo,Cabo Gracias Viejo,17,,14.9333333,-83.25
+ni,cabo viejo,Cabo Viejo,17,,14.9333333,-83.25
+ni,cacaguapa,Cacaguapa,01,,12.1,-85.6
+ni,cacao,Cacao,05,,13.05,-86.25
+ni,cacao,Cacao,12,,12.7833333,-86.0166667
+ni,cacao de los chavarrias,Cacao de Los Chavarrías,01,,12.5,-85.8666667
+ni,calabaza,Calabaza,12,,12.6333333,-85.9333333
+ni,calabazas,Calabazas,12,,12.6333333,-85.9333333
+ni,calderas,Calderas,08,,12.7333333,-86.45
+ni,calera,Calera,06,,11.7333333,-86.1
+ni,calera,Calera,08,,13.0833333,-86.6333333
+ni,california,California,10,,11.9166667,-86.5166667
+ni,calle de los besos,Calle de Los Besos,10,,12.1,-86.5833333
+ni,calle real de tolapa,Calle Real de Tolapa,08,,12.6322222,-86.5436111
+ni,calpules,Calpules,05,,13.4,-86.55
+ni,calpules,Calpules,12,,12.7833333,-86.0
+ni,cama,Cama,18,,12.15,-83.9666667
+ni,camaopa,Camaopa,01,,12.3833333,-85.5166667
+ni,camelia,Camelia,07,,13.1,-85.9166667
+ni,camoapa,Camoapa,01,14401,12.3833333,-85.5166667
+ni,campamente,Campamente,08,,12.9833333,-86.4833333
+ni,campamento,Campamento,08,,12.9833333,-86.4833333
+ni,campamento kukra hill,Campamento Kukra Hill,18,,12.25,-83.75
+ni,campamento omega,Campamento Omega,17,,14.5666667,-83.6166667
+ni,campamento omega wilder,Campamento Omega Wilder,17,,14.5666667,-83.6166667
+ni,campazano,Campazano,11,,12.05,-86.1333333
+ni,campuzano,Campuzano,03,,12.7833333,-87.0666667
+ni,campuzano,Campuzano,11,,12.05,-86.1333333
+ni,canada,Cañada,05,,13.0333333,-86.2333333
+ni,canada grande,Cañada Grande,12,,12.75,-85.95
+ni,cana de castilla,Caña de Castilla,01,,12.3666667,-85.5833333
+ni,cana de castilla,Caña de Castilla,06,,11.8666667,-86.0
+ni,cana de castilla,Caña de Castilla,12,,12.6827778,-86.0027778
+ni,cana de ora,Caña de Ora,12,,12.7833333,-85.4333333
+ni,cana de oro,Caña de Oro,12,,12.7833333,-85.4333333
+ni,canafistula,Cañafístula,03,,12.9333333,-86.8666667
+ni,canas,Cañas,15,,11.1166667,-85.2666667
+ni,canas gordas,Cañas Gordas,04,,11.8833333,-85.4
+ni,canas gordas,Cañas Gordas,15,,11.3,-85.6833333
+ni,candelaria,Candelaria,01,,12.4333333,-85.8666667
+ni,candelaria,Candelaria,03,,12.7833333,-86.9166667
+ni,candelaria,Candelaria,08,,12.3166667,-86.9
+ni,candelaria,Candelaria,12,,12.7947222,-86.0791667
+ni,cano de la laja,Caño de la Laja,01,,12.6666667,-85.4
+ni,cano de oro,Caño de Oro,12,,12.7833333,-85.4333333
+ni,cano mocho,Caño Mocho,18,,12.1166667,-83.8166667
+ni,cano moho,Caño Moho,18,,12.1166667,-83.8166667
+ni,canta gallito,Canta Gallito,03,,12.8666667,-87.1333333
+ni,cantimplora,Cantimplora,15,,11.6,-85.9833333
+ni,capitan,Capitán,01,,12.6333333,-85.65
+ni,capules,Capules,05,,13.4,-86.55
+ni,capules,Capules,12,,12.7833333,-86.0
+ni,capulinar,Capulinar,03,,12.9833333,-87.4833333
+ni,capulin,Capulín,06,,11.9666667,-86.0166667
+ni,cara,Cara,18,,12.9,-83.5833333
+ni,cara de mono,Cara de Mono,18,,12.1166667,-84.4666667
+ni,carao,Carao,05,,13.05,-86.25
+ni,carao,Carao,08,,13.0333333,-86.6166667
+ni,carata,Carata,17,,13.9166667,-83.4833333
+ni,caratera,Caratera,12,,12.95,-85.2
+ni,carbonal,Carbonal,09,,13.5833333,-86.2333333
+ni,cardenas,Cárdenas,15,,11.2,-85.5166667
+ni,carlos fonseca amador,Carlos Fonseca Amador,10,,11.9833333,-86.5166667
+ni,carmen,Carmen,12,,12.6333333,-86.0666667
+ni,carratera,Carratera,12,,13.1666667,-85.7166667
+ni,carreta quemada,Carreta Quemada,08,,12.6666667,-86.5833333
+ni,carrizal,Carrizal,08,,12.7166667,-86.3
+ni,carrizal,Carrizal,12,,12.9,-86.2333333
+ni,carrizal,Carrizal,17,,14.8,-84.7833333
+ni,carrizo,Carrizo,08,,12.7166667,-86.3
+ni,casa blanca,Casa Blanca,15,,11.6,-85.9333333
+ni,casa colorada,Casa Colorada,10,,11.9833333,-86.3166667
+ni,casa colorado,Casa Colorado,10,,11.9833333,-86.3166667
+ni,casa de alto,Casa de Alto,18,,12.95,-84.4833333
+ni,casa de teja,Casa de Teja,10,,11.9166667,-86.4166667
+ni,casa nueva,Casa Nueva,08,,12.5666667,-86.4166667
+ni,casares,Casares,02,,11.65,-86.35
+ni,casa sola,Casa Sola,10,,12.5166667,-86.05
+ni,casa sola,Casa Sola,17,,14.3666667,-83.65
+ni,casas viejas,Casas Viejas,12,,12.7333333,-86.2166667
+ni,caserio abra vieja,Caserío Abra Vieja,12,,12.65,-86.2833333
+ni,caserio carreta quemada,Caserío Carreta Quemada,08,,12.6666667,-86.5833333
+ni,caserio corre viento,Caserío Corre Viento,08,,12.6166667,-86.7
+ni,caserio de casa nueva,Caserío de Casa Nueva,08,,12.5666667,-86.4166667
+ni,caserio de la montana,Caserío de La Montaña,08,,12.5833333,-86.4
+ni,caserio de san claudio,Caserío de San Claudio,08,,12.6166667,-86.5333333
+ni,caserio el cerro,Caserío El Cerro,10,,12.5666667,-86.0166667
+ni,caserio el charco de los bueyes,Caserío El Charco de Los Bueyes,08,,12.6,-86.55
+ni,caserio el comejen,Caserío El Comején,11,,12.0194444,-86.0727778
+ni,caserio el espino,Caserío El Espino,08,,12.5833333,-86.5166667
+ni,caserio el guisconal,Caserío El Guisconal,12,,12.6333333,-86.25
+ni,caserio el laurel galan,Caserío El Laurel Galán,10,,12.5666667,-86.3166667
+ni,caserio el madrono,Caserío El Madroño,10,,12.5333333,-86.05
+ni,caserio el mango,Caserío El Mango,10,,12.5,-86.0166667
+ni,caserio el palenque,Caserío El Palenque,11,,12.0319444,-86.0208333
+ni,caserio el pinuelar,Caserío El Piñuelar,08,,12.65,-86.7
+ni,caserio el terrero,Caserío El Terrero,10,,12.5325,-86.0197222
+ni,caserio guapinol,Caserío Guapinol,10,,12.5166667,-86.05
+ni,caserio la calle real de tolape,Caserío La Calle Real de Tolape,08,,12.6322222,-86.5436111
+ni,caserio la flor,Caserío La Flor,10,,12.5333333,-86.0166667
+ni,caserio la fuente,Caserío La Fuente,08,,12.5411111,-86.5794444
+ni,caserio la granja,Caserío La Granja,08,,12.4333333,-86.85
+ni,caserio la menuda,Caserío La Menuda,11,,12.05,-86.15
+ni,caserio la mojarra,Caserío La Mojarra,10,,12.5969444,-86.3527778
+ni,caserio la piedra,Caserío La Piedra,11,,12.0333333,-86.0166667
+ni,caserio las cuchillas,Caserío Las Cuchillas,08,,12.55,-86.8166667
+ni,caserio las delicias,Caserío Las Delicias,08,,12.6666667,-86.8666667
+ni,caserio las lajitas,Caserío Las Lajitas,10,,12.5833333,-86.1333333
+ni,caserio las maderas,Caserío Las Maderas,10,,12.4461111,-86.04
+ni,caserio las nubes,Caserío Las Nubes,12,,12.6288889,-86.1355556
+ni,caserio las ranas,Caserío Las Ranas,10,,12.6,-86.2333333
+ni,caserio la trinidad,Caserío La Trinidad,10,,12.5666667,-86.1833333
+ni,caserio la uva,Caserío La Uva,10,,12.4833333,-86.0166667
+ni,caserio los mangles,Caserío Los Mangles,08,,12.65,-86.8666667
+ni,caserio los portillos,Caserío Los Portillos,03,,12.6333333,-86.8833333
+ni,caserio los zarzales,Caserío Los Zarzales,08,,12.6616667,-86.4372222
+ni,caserio maderas negras,Caserío Maderas Negras,03,,12.5833333,-87.2833333
+ni,caserio pacora,Caserío Pacora,10,,12.4666667,-86.2
+ni,caserio paredones,Caserío Paredones,03,,12.55,-87.2333333
+ni,caserio pasocaballos,Caserío Pasocaballos,03,,12.5166667,-87.2
+ni,caserio pilas occidentales,Caserío Pilas Occidentales,11,,12.0533333,-86.0769444
+ni,caserio quebrada honda,Caserío Quebrada Honda,10,,12.3588889,-86.0502778
+ni,caserio rio grande,Caserío Río Grande,08,,12.55,-86.8166667
+ni,caserio san jorge,Caserío San Jorge,10,,12.5336111,-86.2277778
+ni,caserio san miguelito,Caserío San Miguelito,08,,12.1833333,-86.5166667
+ni,caserio santa elena,Caserío Santa Elena,08,,12.5333333,-86.4
+ni,caserio telpetate,Caserío Telpetate,10,,12.6,-86.15
+ni,caserio veinticuatro,Caserío Veinticuatro,11,,12.0166667,-86.0
+ni,castillo,Castillo,08,,12.35,-86.8
+ni,castillo,Castillo,14,,11.0166667,-84.4
+ni,castillo viejo,Castillo Viejo,14,,11.0166667,-84.4
+ni,castro,Castro,17,,14.1166667,-83.95
+ni,casuli,Casulí,17,,13.4333333,-85.25
+ni,catarina,Catarina,01,,12.1833333,-85.8
+ni,catarina,Catarina,11,,11.9166667,-86.0833333
+ni,cayanlipe,Cayanlipe,03,,12.9097222,-86.9166667
+ni,cayetano,Cayetano,03,,12.7666667,-87.3833333
+ni,cebadia,Cebadía,12,,12.8666667,-85.55
+ni,cebadilla,Cebadilla,12,,12.8666667,-85.55
+ni,cebadilla,Cebadilla,15,,11.65,-86.0333333
+ni,cebadillo,Cebadillo,12,,12.8666667,-85.55
+ni,cedro macho,Cedro Macho,18,,12.1333333,-84.4833333
+ni,ceiba,Ceiba,08,,12.4,-86.8166667
+ni,ceiba mocha,Ceiba Mocha,08,,12.3,-86.6
+ni,ceilan,Ceilán,03,,12.5833333,-87.2333333
+ni,cerritos,Cerritos,14,,11.6833333,-84.95
+ni,cerro colorado,Cerro Colorado,01,,12.4666667,-85.7
+ni,cerro colorado,Cerro Colorado,03,,13.1666667,-86.8166667
+ni,chacalapa,Chacalapa,15,,11.4666667,-85.9
+ni,chaguite grande,Chagüite Grande,08,,12.9,-86.65
+ni,chaguite grande,Chagüite Grande,12,,12.7666667,-86.0333333
+ni,chaguitillo,Chagüitillo,12,,12.8855556,-86.0819444
+ni,chaguito grande,Chagüito Grande,08,,12.9,-86.65
+ni,chahuite grande,Chahuite Grande,12,,12.7666667,-86.0333333
+ni,chahuitillo,Chahuitillo,12,,12.8855556,-86.0819444
+ni,chalmeca,Chalmeca,18,,12.1333333,-84.1
+ni,charco muerto,Charco Muerto,06,,11.8,-85.9
+ni,chicago,Chicago,18,,13.1166667,-84.1333333
+ni,chichigalpa,Chichigalpa,03,38066,12.5666667,-87.0333333
+ni,chilamate,Chilamate,18,,12.0,-84.7333333
+ni,chilamatillo,Chilamatillo,10,,12.2833333,-86.0666667
+ni,chile,Chile,04,,11.9666667,-84.6166667
+ni,chile,Chile,12,,12.8333333,-85.8166667
+ni,chinandega,Chinandega,03,128616,12.6166667,-87.15
+ni,chocoyo,Chocoyo,10,,11.95,-86.3666667
+ni,chorrera,Chorrera,03,,12.75,-87.2833333
+ni,chusli,Chuslí,13,,13.95,-86.1166667
+ni,cicaya grande,Cicaya Grande,02,,11.9166667,-86.25
+ni,cinco pinos,Cinco Pinos,03,,13.2333333,-86.8666667
+ni,cincuita,Cincuita,18,,12.9333333,-83.5333333
+ni,cinquita,Cinquita,18,,12.9333333,-83.5333333
+ni,cirama,Cirama,10,,12.3,-85.9166667
+ni,citalapa,Citalapa,10,,11.9166667,-86.4833333
+ni,ciudad antigua,Ciudad Antigua,13,,13.6333333,-86.3166667
+ni,ciudad dario,Ciudad Darío,12,12981,12.7305556,-86.125
+ni,ciudad del cabo,Ciudad del Cabo,17,,14.9833333,-83.1666667
+ni,ciudad rama,Ciudad Rama,18,,12.15,-84.2166667
+ni,ciudad sandino,Ciudad Sandino,10,,12.1588889,-86.3441667
+ni,ciudad sandino,Ciudad Sandino,13,,13.7166667,-86.1333333
+ni,ciwas tara,Ciwas Tara,17,,14.8833333,-83.7
+ni,clampa,Clampa,17,,14.9,-83.6
+ni,clemente canales,Clemente Canales,18,,12.3333333,-84.2333333
+ni,coapa,Coapa,04,,12.2666667,-85.3833333
+ni,cocabila,Cocabila,18,,12.4,-83.7333333
+ni,cocabilla,Cocabilla,18,,12.4,-83.7333333
+ni,cocal,Cocal,17,,14.6,-84.4333333
+ni,coco,Coco,06,,12.0833333,-85.9
+ni,coco haulover,Coco Haulover,17,,13.7,-83.5166667
+ni,cocoland,Cocoland,17,,14.45,-83.9166667
+ni,coco mina,Coco Mina,17,,14.6,-84.75
+ni,coco mine,Coco Mine,17,,14.6,-84.75
+ni,cocote,Cocote,05,,13.35,-86.2666667
+ni,cofradia,Cofradía,10,,12.12,-86.1219444
+ni,cofradias,Cofradías,10,,12.12,-86.1219444
+ni,cokabilla,Cokabilla,18,,12.4,-83.7333333
+ni,colama,Colama,06,,12.2833333,-85.8666667
+ni,colon,Colón,07,,13.1166667,-86.1666667
+ni,colon,Colón,15,,11.1,-85.2166667
+ni,colonia adela,Colonia Adela,03,,12.5333333,-87.05
+ni,colonia agricola verdun,Colonia Agrícola Verdún,18,,11.65,-84.4333333
+ni,colonia cristo rey,Colonia Cristo Rey,03,,12.6108333,-86.8991667
+ni,colonia la esperanza,Colonia La Esperanza,03,,12.4833333,-87.05
+ni,colonia la esperanza grande,Colonia La Esperanza Grande,03,,12.4833333,-87.05
+ni,colonia los laureles,Colonia Los Laureles,10,,12.2716667,-86.0061111
+ni,colonia molina,Colonia Molina,10,,12.1166667,-86.3166667
+ni,colonia nueva guinea,Colonia Nueva Guinea,18,,11.6833333,-84.45
+ni,colonia porvenir viejo,Colonia Porvenir Viejo,03,,12.5166667,-87.1166667
+ni,colonia verdun,Colonia Verdún,18,,11.65,-84.4333333
+ni,colorado,Colorado,03,,13.1666667,-86.8166667
+ni,comalapa,Comalapa,04,,12.2833333,-85.5166667
+ni,comalcalpa,Comalcalpa,02,,11.7666667,-86.1333333
+ni,comarca arriba,Comarca Arriba,01,,12.6333333,-85.6666667
+ni,comarca ceiba chachagua,Comarca Ceiba Chachagua,08,,12.55,-86.9166667
+ni,comarca de la aduana,Comarca de La Aduana,10,,12.0333333,-86.4666667
+ni,comarca del tololar,Comarca del Tololar,08,,12.5,-86.8333333
+ni,comarca el jicarito,Comarca El Jicarito,08,,12.5333333,-86.8166667
+ni,comarca el platanar,Comarca El Platanar,08,,12.4833333,-86.8833333
+ni,comarca el tololar,Comarca El Tololar,08,,12.5,-86.8333333
+ni,comarca la cruz,Comarca La Cruz,08,,12.6166667,-86.7666667
+ni,comarca las jaguitas,Comarca Las Jaguitas,10,,12.1,-86.2166667
+ni,comarca los madrigales,Comarca Los Madrigales,11,,12.0666667,-86.2
+ni,comarca tomayunca,Comarca Tomayunca,07,,13.2333333,-85.9333333
+ni,comatingny,Comatingny,18,,12.8,-84.0333333
+ni,comejen,Comején,11,,12.0194444,-86.0727778
+ni,comejon,Comejon,11,,12.0194444,-86.0727778
+ni,concepcion,Concepción,03,,12.5833333,-87.15
+ni,concepcion,Concepción,09,,13.5,-86.3833333
+ni,concepcion,Concepción,11,,11.9333333,-86.1833333
+ni,concepcion,Concepción,15,,11.2,-85.5166667
+ni,conchita,Conchita,13,,13.6666667,-86.1166667
+ni,conchitas,Conchitas,11,,11.9666667,-86.3166667
+ni,concordia,Concordia,07,,13.1833333,-86.1666667
+ni,condega,Condega,05,10067,13.35,-86.4
+ni,congojas,Congojas,13,,13.8,-85.8666667
+ni,conquista,Conquista,02,,11.7333333,-86.2
+ni,constancia,Constancia,17,,13.8833333,-84.5666667
+ni,convento,Convento,08,,12.4166667,-86.85
+ni,coom,Coom,17,,14.8166667,-83.7166667
+ni,coperna,Coperna,17,,13.6833333,-84.5666667
+ni,corcoera,Corcoera,08,,12.4833333,-86.9833333
+ni,corcuera,Corcuera,08,,12.4833333,-86.9833333
+ni,corcuera vieja,Corcuera Vieja,08,,12.4833333,-86.9833333
+ni,corinto,Corinto,03,22354,12.4833333,-87.1666667
+ni,corinto,Corinto,10,,12.0333333,-86.35
+ni,corneta,Corneta,12,,12.9702778,-86.0455556
+ni,corn island,Corn Island,18,7934,12.1666667,-83.0333333
+ni,corozo,Corozo,04,,12.1,-84.9
+ni,corozo,Corozo,11,,11.9666667,-86.3166667
+ni,corpus cristi,Corpus Cristi,10,,12.2833333,-86.3713889
+ni,corre viento,Corre Viento,08,,12.6166667,-86.7
+ni,corsoara,Corsoara,08,,12.4833333,-86.9833333
+ni,coseguina,Coseguina,03,,12.9166667,-87.5
+ni,cosiguina,Cosigüina,03,,12.9166667,-87.5
+ni,cosmapa,Cosmapa,03,,12.5833333,-87.0666667
+ni,costa rica,Costa Rica,10,,12.5,-86.2833333
+ni,coyolar,Coyolar,07,,13.3166667,-86.15
+ni,coyolar,Coyolar,13,,13.7333333,-86.7
+ni,crucero,Crucero,10,,11.9833333,-86.3166667
+ni,crucira,Crucira,17,,14.1666667,-83.3166667
+ni,cruz,Cruz,01,,12.4166667,-85.85
+ni,cuajiniquilapa,Cuajiniquilapa,03,,13.2,-86.7666667
+ni,cuajiniquil,Cuajiniquil,08,,12.7333333,-86.4833333
+ni,cuapa,Cuapa,04,,12.2666667,-85.3833333
+ni,cuarentaitres,Cuarentaitres,17,,14.1166667,-83.65
+ni,cuarenta y tres,Cuarenta y Tres,17,,14.1166667,-83.65
+ni,cuarentitres,Cuarentitrés,17,,14.1166667,-83.65
+ni,cuascoto,Cuascoto,15,,11.4833333,-86.0166667
+ni,cuatro caminos,Cuatro Caminos,15,,11.1,-85.6833333
+ni,cuatro esquinas,Cuatro Esquinas,12,,13.0166667,-85.8
+ni,cuatro esquinas,Cuatro Esquinas,15,,11.5333333,-85.5666667
+ni,cuatro esquiras,Cuatro Esquiras,02,,11.8833333,-86.25
+ni,cuatro palos,Cuatro Palos,08,,12.4827778,-86.4336111
+ni,cuatro tubos,Cuatro Tubos,15,,11.3,-85.8666667
+ni,cucalaya,Cucalaya,17,,13.7,-83.7
+ni,cuesta,Cuesta,15,,11.2833333,-85.85
+ni,cuesta parda,Cuesta Parda,01,,12.3833333,-85.7666667
+ni,cuicuina,Cuicuina,17,,13.4666667,-84.7833333
+ni,cukra,Cukra,18,,12.2333333,-83.75
+ni,cukra hill,Cukra Hill,18,,12.2333333,-83.75
+ni,culculaia,Culculaia,17,,13.7,-83.7
+ni,culumbus,Culumbus,17,,14.1166667,-83.95
+ni,cumaica,Cumaica,12,,12.6833333,-85.7166667
+ni,cum,Cum,17,,14.8166667,-83.7166667
+ni,cumplida,Cumplida,12,,13.0,-85.85
+ni,cunagua,Cunagua,12,,12.7833333,-85.8333333
+ni,cundinamarca,Cundinamarca,10,,12.0666667,-86.3
+ni,cusile,Cusile,12,,12.85,-85.5166667
+ni,cusirina,Cusirina,01,,12.35,-85.7833333
+ni,cusmapa,Cusmapa,09,,13.2833333,-86.65
+ni,cusuca,Cusuca,04,,12.55,-84.9
+ni,cusuli,Cusulí,17,,13.4333333,-85.25
+ni,cutirre,Cutirre,06,,11.8333333,-85.9333333
+ni,cuyal,Cuyal,07,,13.1833333,-85.9166667
+ni,cuyali,Cuyalí,07,,13.1833333,-85.9166667
+ni,cuyamel,Cuyamel,18,,12.3333333,-84.4666667
+ni,cuyu tigni,Cuyu Tigni,17,,14.4833333,-83.9166667
+ni,cuyutingni,Cuyutingni,17,,14.4833333,-83.9166667
+ni,dacura,Dacura,17,,14.4,-83.2166667
+ni,dakban,Dakban,17,,14.05,-83.5166667
+ni,dakura,Dákura,17,,14.4,-83.2166667
+ni,danli arriba,Danlí Arriba,17,,13.6833333,-84.95
+ni,danli,Danlí,17,,13.6833333,-84.95
+ni,danta,Danta,03,,13.0666667,-86.7666667
+ni,danto,Danto,03,,13.0666667,-86.7666667
+ni,dario,Dario,12,,12.7305556,-86.125
+ni,datanli,Datanlí,07,,13.1333333,-85.9333333
+ni,decuelito,Decuelito,09,,13.4166667,-86.4
+ni,delicias,Delicias,03,,12.95,-86.9
+ni,delicitas,Delicitas,03,,12.95,-86.9
+ni,delta del san juan,Delta del San Juan,14,,10.7666667,-83.7666667
+ni,desmotadora las brasiles,Desmotadora Las Brasiles,10,,12.2,-86.3833333
+ni,devonia,Devonia,12,,12.8333333,-85.6833333
+ni,dipilto,Dipilto,13,,13.7166667,-86.5
+ni,dipilto viejo,Dipilto Viejo,13,,13.7333333,-86.5166667
+ni,diria,Diriá,06,,11.8833333,-86.05
+ni,diriamba,Diriamba,02,38018,11.85,-86.2333333
+ni,diriambo,Diriambo,02,,11.85,-86.2333333
+ni,diriomo,Diriomo,06,9134,11.8666667,-86.05
+ni,dolores,Dolores,02,6143,11.85,-86.2166667
+ni,dos montes,Dos Montes,12,,12.7977778,-86.1463889
+ni,dos socos,Dos Socos,17,,13.05,-84.7333333
+ni,ducuali,Ducualí,09,,13.4166667,-86.4
+ni,dulce nombre,Dulce Nombre,02,,11.8333333,-86.1833333
+ni,ebaniso tasbapauni,Ebaniso Tasbapauni,17,,13.4166667,-84.25
+ni,el abejonal,El Abejonal,15,,11.5666667,-86.15
+ni,el abra,El Abra,01,,12.3833333,-85.5333333
+ni,el abra,El Abra,02,,11.7833333,-86.1833333
+ni,el acento,El Acento,10,,11.9,-86.4666667
+ni,el acetuna,El Acetuna,04,,11.8833333,-85.3666667
+ni,el acetunal,El Acetunal,04,,11.8833333,-85.3666667
+ni,el agua agria,El Agua Agria,06,,11.7833333,-85.9666667
+ni,el aguacate,El Aguacate,02,,11.8166667,-86.2
+ni,el aguacate,El Aguacate,05,,13.2833333,-86.3333333
+ni,el aguatal,El Aguatal,08,,12.8833333,-86.55
+ni,el algodon,El Algodón,03,,12.8333333,-86.8
+ni,el almendo,El Almendo,14,,11.6833333,-84.7
+ni,el almendro,El Almendro,08,,12.7166667,-86.65
+ni,el almendro,El Almendro,14,,11.6833333,-84.7
+ni,el alto,El Alto,01,,12.2666667,-85.7166667
+ni,el amatillo,El Amatillo,13,,13.6333333,-86.6333333
+ni,el amparo,El Amparo,08,,12.0666667,-86.7
+ni,el amparo,El Amparo,15,,11.6333333,-85.95
+ni,el angel,El Angel,09,,13.2666667,-86.6666667
+ni,el apante,El Apante,10,,11.9666667,-86.4833333
+ni,el aparejo,El Aparejo,18,,12.1166667,-84.45
+ni,el aradito,El Aradito,03,,13.25,-86.8333333
+ni,el arco,El Arco,08,,12.3333333,-86.7833333
+ni,el arenal,El Arenal,12,,13.0166667,-85.9166667
+ni,el areo,El Areo,08,,12.3333333,-86.7833333
+ni,el arrayan,El Arrayán,13,,13.6833333,-86.3166667
+ni,el asilo,El Asilo,02,,11.9166667,-86.2333333
+ni,el astillero,El Astillero,15,,11.5,-86.1666667
+ni,el ayote,El Ayote,04,,12.1833333,-85.2833333
+ni,el balsamo,El Bálsamo,01,,12.5666667,-85.65
+ni,el balsamo,El Bálsamo,03,,12.6166667,-87.2333333
+ni,el balsamo,El Bálsamo,11,,12.1166667,-86.0333333
+ni,el balsamo,El Bálsamo,12,,12.6666667,-85.65
+ni,el balsamo,El Bálsamo,13,,13.5666667,-86.1666667
+ni,el banco,El Banco,18,,12.1166667,-84.1166667
+ni,el barquito,El Barquito,03,,12.4666667,-87.1166667
+ni,el barro,El Barro,05,,13.3333333,-86.45
+ni,el barro,El Barro,08,,12.9166667,-86.3166667
+ni,el barro,El Barro,12,,12.6166667,-85.8666667
+ni,el bejuco,El Bejuco,01,,12.6166667,-85.65
+ni,el bijague,El Bijague,12,,12.85,-85.9666667
+ni,el bluff,El Bluff,18,,11.995,-83.6888889
+ni,el bonete,El Bonete,01,,12.5333333,-85.9
+ni,el boqueron,El Boquerón,10,,12.2833333,-86.5333333
+ni,el bosque,El Bosque,02,,11.75,-86.2333333
+ni,el bosque,El Bosque,08,,12.6166667,-86.75
+ni,el bosque,El Bosque,10,,12.1333333,-86.2166667
+ni,el bosque,El Bosque,12,,12.7166667,-85.6333333
+ni,el bosque,El Bosque,17,,13.9666667,-84.6833333
+ni,el bote,El Bote,12,,13.2666667,-85.5166667
+ni,el brasil,El Brasil,02,,11.7166667,-86.1666667
+ni,el brasil,El Brasil,06,,12.2666667,-85.9333333
+ni,el brasilito,El Brasilito,02,,11.8333333,-86.3333333
+ni,el buen suceso,El Buen Suceso,10,,12.0166667,-86.55
+ni,el buey negro,El Buey Negro,04,,11.9333333,-85.3333333
+ni,el cacao de los chavarrias,El Cacao de Los Chavarrías,01,,12.5,-85.8666667
+ni,el cacao de los duarte,El Cacao de Los Duarte,01,,12.5166667,-85.85
+ni,el cacao,El Cacao,02,,11.75,-86.15
+ni,el cacao,El Cacao,03,,12.85,-87.2666667
+ni,el cacao,El Cacao,04,,12.0,-84.7
+ni,el cacao,El Cacao,05,,12.95,-86.2666667
+ni,el cacao,El Cacao,12,,12.5833333,-85.9166667
+ni,el caimito,El Caimito,02,,11.7166667,-86.2166667
+ni,el caimito,El Caimito,15,,11.4666667,-85.9833333
+ni,el caimito,El Caimito,18,,12.3333333,-83.8166667
+ni,el cairo,El Cairo,14,,11.0666667,-85.1
+ni,el campamento,El Campamento,08,,12.9833333,-86.4833333
+ni,el canal,El Canal,10,,12.0166667,-86.45
+ni,el canton,El Cantón,10,,12.1666667,-86.2166667
+ni,el capitan,El Capitán,01,,12.6333333,-85.65
+ni,el capulin,El Capulín,03,,12.9833333,-87.4833333
+ni,el capulin,El Capulín,06,,11.9666667,-86.0166667
+ni,el capulin,El Capulín,15,,11.5333333,-85.8333333
+ni,el caracol,El Caracol,12,,12.8166667,-85.9833333
+ni,el carao,El Carao,05,,13.05,-86.25
+ni,el carao,El Carao,12,,12.7166667,-85.5166667
+ni,el carao,El Carao,17,,13.7166667,-84.9333333
+ni,el carbonal,El Carbonal,09,,13.5833333,-86.2333333
+ni,el cardon,El Cardón,08,,12.4,-86.4833333
+ni,el carmen,El Carmen,01,,12.2,-85.5333333
+ni,el carmen,El Carmen,02,,11.8833333,-86.25
+ni,el carmen,El Carmen,03,,12.9833333,-87.65
+ni,el carmen,El Carmen,06,,11.7333333,-85.7833333
+ni,el carmen,El Carmen,08,,12.35,-86.9666667
+ni,el carmen,El Carmen,10,,11.9833333,-86.5166667
+ni,el carmen,El Carmen,12,,12.6333333,-86.0666667
+ni,el carmen,El Carmen,15,,11.3666667,-85.8666667
+ni,el carmen,El Carmen,17,,14.7333333,-84.25
+ni,el carrizal,El Carrizal,02,,11.6833333,-86.1666667
+ni,el carrizal,El Carrizal,06,,11.7666667,-85.8333333
+ni,el carrizal,El Carrizal,08,,12.2666667,-86.6833333
+ni,el carrizal,El Carrizal,12,,12.7666667,-85.2333333
+ni,el carrizo,El Carrizo,08,,12.7166667,-86.3
+ni,el carrizo,El Carrizo,12,,12.9,-86.2333333
+ni,el castillo de la concepcion,El Castillo de La Concepción,14,,11.0166667,-84.4
+ni,el castillo,El Castillo,08,,12.0833333,-86.6333333
+ni,el castillo,El Castillo,12,,12.7166667,-85.8
+ni,el castillo,El Castillo,14,,11.0166667,-84.4
+ni,el castillo viejo,El Castillo Viejo,14,,11.0166667,-84.4
+ni,el cebollin,El Cebollín,01,,12.3166667,-85.6166667
+ni,el cedral,El Cedral,01,,12.2166667,-85.6333333
+ni,el censo,El Censo,08,,12.75,-86.4166667
+ni,el cerrito,El Cerrito,08,,12.45,-86.8333333
+ni,el cerro,El Cerro,10,,11.8,-86.5166667
+ni,el chague,El Chague,08,,12.3666667,-86.8833333
+ni,el chaguite,El Chagüite,12,,12.9716667,-86.0025
+ni,el chamarro,El Chamarro,18,,12.8666667,-84.9333333
+ni,el chaparral,El Chaparral,08,,12.2833333,-86.8833333
+ni,el chaparro,El Chaparro,10,,12.1833333,-86.4
+ni,el charco de los bueyes,El Charco de Los Bueyes,08,,12.6,-86.55
+ni,el chayote,El Chayote,05,,13.2833333,-86.3333333
+ni,el chilamate,El Chilamate,18,,12.0,-84.7333333
+ni,el chilamatillo,El Chilamatillo,10,,12.2833333,-86.0666667
+ni,el chile,El Chile,04,,11.9666667,-84.6166667
+ni,el chile,El Chile,12,,12.8333333,-85.8166667
+ni,el cielo,El Cielo,11,,12.075,-86.0491667
+ni,el cilindro,El Cilindro,04,,12.3,-85.0833333
+ni,el cimiento,El Cimiento,01,,12.65,-85.3
+ni,el cimientos,El Cimientos,01,,12.65,-85.3
+ni,el cirucero,El Cirucero,10,,11.9833333,-86.3166667
+ni,el clavel,El Clavel,03,,12.6833333,-87.0333333
+ni,el cocal,El Cocal,17,,14.6,-84.4333333
+ni,el coco,El Coco,06,,12.0833333,-85.9
+ni,el coco,El Coco,08,,12.8333333,-86.5166667
+ni,el comejen,El Comején,11,,12.0194444,-86.0727778
+ni,el congo,El Congo,03,,12.8166667,-87.4166667
+ni,el consuelo,El Consuelo,18,,13.0333333,-84.5666667
+ni,el convento,El Convento,08,,12.4166667,-86.85
+ni,el coquital,El Coquital,04,,11.9333333,-85.2
+ni,el corali,El Coralí,18,,12.0166667,-83.8166667
+ni,el corozo,El Corozo,01,,12.5333333,-85.7833333
+ni,el corozo,El Corozo,04,,12.1,-84.9
+ni,el corozo,El Corozo,11,,11.9666667,-86.3166667
+ni,el corozo,El Corozo,12,,12.7833333,-85.9
+ni,el corozo,El Corozo,18,,12.3833333,-84.2833333
+ni,el cortesal,El Cortesal,08,,12.6666667,-86.8
+ni,el costillo,El Costillo,11,,11.95,-86.2166667
+ni,el coyolar,El Coyolar,01,,12.65,-85.5833333
+ni,el coyolar,El Coyolar,06,,11.8166667,-86.05
+ni,el coyolar,El Coyolar,07,,13.3166667,-86.15
+ni,el coyolar,El Coyolar,13,,13.7333333,-86.7
+ni,el coyol,El Coyol,01,,12.5166667,-85.95
+ni,el coyol,El Coyol,08,,12.8333333,-86.4
+ni,el coyol,El Coyol,12,,12.5666667,-85.9166667
+ni,el coyol,El Coyol,15,,11.4,-85.9666667
+ni,el coyolito,El Coyolito,08,,12.8,-86.7166667
+ni,el coyolito,El Coyolito,12,,12.6833333,-86.2166667
+ni,el crater,El Cráter,06,,11.8166667,-85.9666667
+ni,el cristal,El Cristal,12,,12.5666667,-85.9666667
+ni,el crucero,El Crucero,10,,11.9833333,-86.3166667
+ni,el crucero,El Crucero,11,,11.8666667,-86.1333333
+ni,el delirio,El Delirio,10,,12.1,-86.4666667
+ni,el delirio,El Delirio,14,,11.1166667,-83.9
+ni,el delta,El Delta,14,,10.7666667,-83.7666667
+ni,el descanso,El Descanso,10,,12.1,-86.35
+ni,el despacho,El Despacho,18,,12.5166667,-84.9333333
+ni,el disparate,El Disparate,15,,11.15,-85.4333333
+ni,el dorado,El Dorado,11,,11.95,-86.25
+ni,el dorado,El Dorado,17,,13.85,-84.5666667
+ni,el dos,El Dos,17,,13.8333333,-84.6333333
+ni,el dulce nombre,El Dulce Nombre,02,,11.8333333,-86.1833333
+ni,el eden,El Edén,06,,11.95,-86.0166667
+ni,el embudo,El Embudo,01,,12.15,-85.65
+ni,el empalme,El Empalme,08,,12.6741667,-86.4227778
+ni,el empalme,El Empalme,10,,12.3,-86.05
+ni,el empalme,El Empalme,17,,13.6666667,-84.45
+ni,el encanto,El Encanto,06,,11.8,-86.0666667
+ni,el encanto,El Encanto,18,,12.4666667,-84.3666667
+ni,el encierro,El Encierro,02,,11.7166667,-86.2
+ni,el escandalo,El Escándalo,04,,12.2833333,-85.1166667
+ni,el escobillo,El Escobillo,08,,12.2333333,-86.6666667
+ni,el escobillo,El Escobillo,10,,12.2666667,-86.4
+ni,el escondalo,El Escondalo,04,,12.2833333,-85.1166667
+ni,el esfuerzo,El Esfuerzo,10,,12.2333333,-86.3833333
+ni,el eslabon,El Eslabón,06,,11.6333333,-86.1333333
+ni,el espabel,El Espabel,18,,12.0,-84.6666667
+ni,el espadillo,El Espadillo,10,,12.25,-86.4666667
+ni,el espavel,El Espavel,18,,12.0,-84.6666667
+ni,el espinal,El Espinal,05,,13.05,-86.2833333
+ni,el espino,El Espino,08,,12.5833333,-86.5166667
+ni,el espino,El Espino,09,,13.45,-86.7166667
+ni,el esquirin,El Esquirín,12,,12.8166667,-85.6333333
+ni,el estero,El Estero,08,,12.6833333,-86.6833333
+ni,el fortin,El Fortín,03,,12.65,-87.2666667
+ni,el fuente,El Fuente,06,,11.8833333,-86.0
+ni,el gallo,El Gallo,04,,11.9333333,-85.4166667
+ni,el gallo,El Gallo,18,,13.1,-84.2166667
+ni,el gamalote,El Gamalote,07,,13.3666667,-86.2
+ni,el garcero,El Garcero,03,,12.9,-86.6833333
+ni,el gigante,El Gigante,15,,11.3833333,-86.0333333
+ni,el golfo,El Golfo,02,,11.8833333,-86.35
+ni,el gorrion,El Gorrión,12,,12.7333333,-85.7
+ni,el guabillito,El Guabillito,02,,11.5833333,-86.1833333
+ni,el guabillo,El Guabillo,02,,11.65,-86.2333333
+ni,el guabo,El Guabo,01,,12.3,-85.55
+ni,el gualiqueme,El Gualiqueme,09,,13.4,-86.7333333
+ni,el guanacaste,El Guanacaste,01,,12.5333333,-85.8
+ni,el guanacaste,El Guanacaste,02,,11.8666667,-86.3333333
+ni,el guanacaste,El Guanacaste,06,,11.85,-86.0166667
+ni,el guapinolar,El Guapinolar,10,,11.95,-86.4166667
+ni,el guapinol,El Guapinol,08,,12.75,-86.5666667
+ni,el guapinol,El Guapinol,12,,12.6166667,-85.9
+ni,el guapote,El Guapote,08,,12.75,-86.4
+ni,el guapote,El Guapote,12,,12.8166667,-85.2666667
+ni,el guarumo,El Guarumo,06,,11.6833333,-86.1
+ni,el guasimo,El Guásimo,08,,12.85,-86.5
+ni,el guayabal,El Guayabal,08,,12.1333333,-86.65
+ni,el guayabalito,El Guayabalito,08,,12.1,-86.6666667
+ni,el guiscanal,El Guiscánal,12,,12.6333333,-86.25
+ni,el hatillo,El Hatillo,04,,11.95,-85.3666667
+ni,el hatillo,El Hatillo,10,,12.195,-86.0722222
+ni,el hato de la virgen,El Hato de La Virgen,12,,12.7666667,-86.2
+ni,el hato,El Hato,06,,12.05,-85.95
+ni,el higueral,El Higueral,03,,12.7166667,-86.8833333
+ni,el higueral,El Higueral,15,,11.5,-86.0833333
+ni,el horcal,El Horcal,02,,11.8833333,-86.35
+ni,el horno,El Horno,05,,12.9,-86.2833333
+ni,el horno,El Horno,07,,13.0333333,-86.0
+ni,el horno,El Horno,12,,12.9,-85.7333333
+ni,el hoyero,El Hoyero,03,,12.9166667,-86.75
+ni,el infiernito,El Infiernito,08,,12.4166667,-86.9333333
+ni,el ingenio,El Ingenio,02,,11.7833333,-86.2333333
+ni,el jabillito,El Jabillito,06,,11.6666667,-86.1333333
+ni,el jabillo,El Jabillo,06,,11.65,-86.1333333
+ni,el jabillo,El Jabillo,15,,11.5833333,-85.8833333
+ni,el jicaral,El Jicaral,08,,12.7272222,-86.3808333
+ni,el jicarito,El Jicarito,08,,12.5333333,-86.8166667
+ni,el jicaro,El Jícaro,01,,12.5333333,-85.9666667
+ni,el jicaro,El Jícaro,05,,12.9666667,-86.3
+ni,el jicaro,El Jícaro,12,,12.7222222,-86.0475
+ni,el jicaro,El Jícaro,13,,13.7166667,-86.1333333
+ni,el jicaro,El Jícaro,15,9522,11.5833333,-86.1
+ni,el jicote,El Jicote,08,,12.85,-86.45
+ni,el jobo,El Jobo,12,,12.7666667,-86.1333333
+ni,el jocote,El Jocote,04,,12.25,-85.4666667
+ni,el jocote,El Jocote,09,,13.5166667,-86.4
+ni,el jocote,El Jocote,12,,12.8666667,-86.2
+ni,el jocote,El Jocote,15,,11.3333333,-85.85
+ni,el jote,El Jote,08,,12.7166667,-86.7833333
+ni,el lagartillo,El Lagartillo,08,,13.0833333,-86.55
+ni,el lajero,El Lajero,05,,13.2333333,-86.7
+ni,el lanchon,El Lanchón,18,,12.85,-84.1333333
+ni,el laurel galan,El Laurel Galán,10,,12.5666667,-86.3166667
+ni,el limonal,El Limonal,15,,11.4833333,-85.8333333
+ni,el limon,El Limón,05,,13.3666667,-86.5166667
+ni,el limon,El Limón,08,,12.7513889,-86.7380556
+ni,el limon,El Limón,09,,13.5166667,-86.3333333
+ni,el limon,El Limón,15,,11.35,-85.7333333
+ni,el lirio,El Lirio,07,,13.7,-85.6833333
+ni,el llanito,El Llanito,01,,12.1666667,-85.5
+ni,el llano de la cruz,El Llano de La Cruz,07,,13.1166667,-86.0166667
+ni,el madrono,El Madroño,10,,12.5333333,-86.05
+ni,el mango,El Mango,10,,12.5,-86.0166667
+ni,el martillo,El Martillo,10,,12.2,-86.3833333
+ni,el martillo,El Martillo,12,,12.95,-85.2666667
+ni,el matadero,El Matadero,04,,11.9,-85.25
+ni,el matasano,El Matasano,09,,13.3666667,-86.65
+ni,el mojon de veracruz,El Mojón de Veracruz,06,,11.7333333,-85.9166667
+ni,el mojon,El Mojón,01,,12.55,-85.9333333
+ni,el mojon,El Mojón,07,,13.2166667,-86.05
+ni,el molina,El Molina,02,,11.6333333,-86.2666667
+ni,el morado,El Morado,05,,13.0833333,-86.45
+ni,el moran,El Morán,04,,11.9666667,-85.4833333
+ni,el moronoso,El Moroñoso,08,,12.8333333,-86.35
+ni,el morrito,El Morrito,14,,11.6166667,-85.0833333
+ni,el mulero,El Mulero,01,,12.35,-85.55
+ni,el nancital,El Nancital,12,,12.7333333,-86.25
+ni,el naranjal,El Naranjal,04,,12.1833333,-85.25
+ni,el naranjo,El Naranjo,02,,11.6666667,-86.2166667
+ni,el naranjo,El Naranjo,10,,12.6166667,-86.2333333
+ni,el naranjo,El Naranjo,12,,12.9166667,-85.8166667
+ni,el naranjo,El Naranjo,15,,11.0833333,-85.7166667
+ni,el narranjo,El Narranjo,02,,11.6833333,-86.2166667
+ni,el nispero,El Níspero,06,,11.6833333,-86.1333333
+ni,el obraje,El Obraje,03,,12.8,-86.9666667
+ni,el obraje,El Obraje,10,,12.5833333,-86.3
+ni,el obraje,El Obraje,12,,12.8,-85.9666667
+ni,el ocotal,El Ocotal,08,,12.8833333,-86.4666667
+ni,el ocotal,El Ocotal,12,,12.9666667,-86.0
+ni,el ocote,El Ocote,12,,12.85,-85.9333333
+ni,el ocotillo,El Ocotillo,05,,13.0166667,-86.3333333
+ni,el ocotillo,El Ocotillo,08,,12.7666667,-86.35
+ni,el ojochal,El Ojochal,02,,11.8,-86.2166667
+ni,el ojoche,El Ojoche,08,,12.6166667,-86.6833333
+ni,el ojochito,El Ojochito,08,,12.7833333,-86.6
+ni,el ostional,El Ostional,15,,11.1166667,-85.7666667
+ni,el palacio,El Palacio,03,,12.8333333,-87.2
+ni,el palacio,El Palacio,07,,13.1333333,-85.9833333
+ni,el palaiso,El Palaíso,11,,11.8666667,-86.1
+ni,el palenque,El Palenque,11,,12.0319444,-86.0208333
+ni,el pallal,El Pallal,08,,12.3333333,-86.6333333
+ni,el palmarcito,El Palmarcito,15,,11.45,-85.9
+ni,el palmar,El Palmar,01,,12.45,-85.9
+ni,el palmar,El Palmar,15,,11.5,-85.8
+ni,el panama,El Panamá,02,,11.7666667,-86.2333333
+ni,el panama,El Panamá,10,,12.1666667,-86.1
+ni,el panorama,El Panorama,10,,12.0333333,-86.25
+ni,el panorama,El Panorama,11,,11.95,-86.25
+ni,el papalonal,El Papalonal,08,,12.4727778,-86.4644444
+ni,el papalote,El Papalote,08,,12.25,-86.55
+ni,el papalote,El Papalote,10,,12.3,-86.05
+ni,el paraiso,El Paraíso,01,,12.5333333,-85.5666667
+ni,el paraiso,El Paraíso,02,,11.8833333,-86.2333333
+ni,el paraiso,El Paraíso,03,,12.7333333,-87.1166667
+ni,el paraiso,El Paraíso,08,,12.5166667,-86.4833333
+ni,el paraiso,El Paraíso,10,,12.1333333,-86.1166667
+ni,el paraiso,El Paraíso,12,,12.75,-85.7
+ni,el paraiso,El Paraíso,18,,12.15,-84.65
+ni,el paso,El Paso,06,,12.1166667,-85.8833333
+ni,el paso real,El Paso Real,12,,12.8333333,-86.1666667
+ni,el pastor,El Pastor,10,,11.9833333,-86.4833333
+ni,el pastoreo,El Pastoreo,05,,13.05,-86.3833333
+ni,el pavon,El Pavón,08,,12.9,-86.5666667
+ni,el pedernal,El Pedernal,01,,12.3833333,-85.6833333
+ni,el pedernal,El Pedernal,02,,11.7,-86.2
+ni,el pedernal,El Pedernal,14,,11.4333333,-84.9333333
+ni,el pegon,El Pegón,03,,12.6166667,-87.1833333
+ni,el pegon,El Pegón,15,,11.4,-85.8
+ni,el pellisco,El Pellisco,03,,12.6666667,-87.0666667
+ni,el perro,El Perro,18,,12.9166667,-84.6833333
+ni,el peru,El Perú,15,,11.45,-85.55
+ni,el picacho,El Picacho,08,,12.8333333,-86.4166667
+ni,el picacho,El Picacho,11,,11.9833333,-86.05
+ni,el pijibay,El Pijibay,18,,12.1333333,-84.4666667
+ni,el pinuelar,El Piñuelar,08,,12.65,-86.7
+ni,el pital,El Pital,05,,13.0666667,-86.45
+ni,el pital,El Pital,06,,11.7333333,-86.0
+ni,el pital,El Pital,10,,12.05,-86.4166667
+ni,el pital,El Pital,15,,11.5,-85.8166667
+ni,el plantel,El Plantel,15,,11.3,-85.8833333
+ni,el platanal,El Platanal,10,,12.45,-86.0833333
+ni,el pochote,El Pochote,01,,12.4833333,-85.7
+ni,el polvon,El Polvón,08,,12.45,-87.05
+ni,el portillo,El Portillo,03,,12.9833333,-86.8
+ni,el portillo,El Portillo,11,,11.8666667,-86.1
+ni,el portillo,El Portillo,12,,12.9666667,-86.0666667
+ni,el porton,El Portón,02,,11.7666667,-86.35
+ni,el porvenir,El Porvenir,01,,12.1166667,-85.7833333
+ni,el porvenir,El Porvenir,02,,11.9,-86.2
+ni,el porvenir,El Porvenir,03,,12.6333333,-87.15
+ni,el porvenir,El Porvenir,04,,11.8833333,-85.1833333
+ni,el porvenir,El Porvenir,08,,13.0,-86.65
+ni,el porvenir,El Porvenir,17,,13.3333333,-84.3666667
+ni,el potrerillo,El Potrerillo,05,,13.3166667,-86.4666667
+ni,el potrero,El Potrero,01,,12.25,-85.75
+ni,el pozo,El Pozo,03,,12.6333333,-87.2666667
+ni,el pozo publico,El Pozo Público,12,,12.9166667,-86.0166667
+ni,el prado,El Prado,10,,12.1,-86.4
+ni,el progreso,El Progreso,08,,12.5666667,-86.7166667
+ni,el progreso,El Progreso,15,,11.55,-85.95
+ni,el puente,El Puente,03,,12.7894444,-86.945
+ni,el quebrachal,El Quebrachal,12,,13.0,-86.0705556
+ni,el quebradon,El Quebradón,12,,13.1166667,-85.8166667
+ni,el queso,El Queso,08,,12.7,-86.8166667
+ni,el quinal,El Quinal,02,,11.6,-86.1833333
+ni,el rayo,El Rayo,04,,11.9833333,-85.35
+ni,el rayo,El Rayo,06,,11.9,-85.9
+ni,el realejo,El Realejo,03,,12.5333333,-87.1666667
+ni,el recreo,El Recreo,01,,12.2166667,-85.6666667
+ni,el recreo,El Recreo,08,,12.2833333,-86.6166667
+ni,el recreo,El Recreo,11,,11.95,-86.2666667
+ni,el recreo,El Recreo,18,,12.1666667,-84.3166667
+ni,el regate,El Regate,03,,12.6,-87.1333333
+ni,el remate,El Remate,15,,11.5166667,-86.05
+ni,el retiro,El Retiro,08,,12.05,-86.6666667
+ni,el riego,El Riego,01,,12.5166667,-85.7166667
+ni,el rio,El Río,12,,12.6333333,-85.85
+ni,el roblar,El Roblar,01,,12.3333333,-85.5166667
+ni,el roble,El Roble,08,,12.3666667,-86.9
+ni,el rodeo,El Rodeo,01,,12.3333333,-85.65
+ni,el rodeo,El Rodeo,05,,13.2333333,-86.2833333
+ni,el rodeo,El Rodeo,06,,11.8666667,-86.0333333
+ni,el rodeo,El Rodeo,08,,12.8166667,-86.3166667
+ni,el rodeo,El Rodeo,12,,12.75,-85.7166667
+ni,el rosal,El Rosal,10,,12.0666667,-86.3166667
+ni,el rosario,El Rosario,02,,11.7833333,-86.3666667
+ni,el rosario,El Rosario,03,,13.0447222,-87.5877778
+ni,el rosario,El Rosario,08,,12.35,-86.65
+ni,el rosario,El Rosario,10,,11.9333333,-86.5666667
+ni,el rosario,El Rosario,15,,11.4666667,-85.8666667
+ni,el rosario manila,El Rosario Manila,02,,11.7333333,-86.2333333
+ni,el sabalar,El Sabalar,12,,12.9666667,-85.5333333
+ni,el sabalo,El Sábalo,15,,11.1833333,-85.4666667
+ni,el salitre,El Salitre,08,,12.9166667,-86.5333333
+ni,el salto,El Salto,04,,12.1166667,-85.3833333
+ni,el salto,El Salto,07,,13.2166667,-86.1833333
+ni,el salto,El Salto,10,,11.8666667,-86.4166667
+ni,el salto,El Salto,12,,12.9794444,-86.0294444
+ni,el salto,El Salto,17,,13.85,-84.6
+ni,el salvador,El Salvador,03,,12.7166667,-87.3333333
+ni,el sapoa,El Sapoá,15,,11.25,-85.6166667
+ni,el sardinal,El Sardinal,12,,13.0666667,-85.65
+ni,el sauce,El Sauce,08,8559,12.8869444,-86.5380556
+ni,el silencio,El Silencio,01,,12.6666667,-85.1166667
+ni,el silencio,El Silencio,13,,13.8666667,-86.0166667
+ni,el sitio,El Sitio,06,,12.0,-86.0
+ni,el socorro,El Socorro,08,,12.3833333,-86.6166667
+ni,el socorro,El Socorro,10,,12.0833333,-86.3666667
+ni,el socorro,El Socorro,12,,12.9,-85.9166667
+ni,el socorro,El Socorro,15,,11.2166667,-85.8166667
+ni,el sol,El Sol,02,,11.7166667,-86.1333333
+ni,el sucio,El Sucio,15,,11.2166667,-85.85
+ni,el tabacal,El Tabacal,01,,12.6666667,-85.4833333
+ni,el tabano,El Tábano,01,,12.4166667,-85.9333333
+ni,el tabano,El Tábano,12,,12.7166667,-85.5666667
+ni,el tachote,El Tachote,08,,12.4,-86.8666667
+ni,el tamagas,El Tamagás,10,,12.2722222,-86.305
+ni,el tamarindo,El Tamarindo,08,,12.1994444,-86.7630556
+ni,el tamarindo,El Tamarindo,10,,11.8333333,-86.4833333
+ni,el tamarindo,El Tamarindo,12,,12.7166667,-86.1166667
+ni,el tambor,El Tambor,15,,11.4166667,-86.0166667
+ni,el tanque,El Tanque,03,,12.9,-87.6333333
+ni,el tanque,El Tanque,07,,13.0166667,-85.9833333
+ni,el tanque,El Tanque,08,,12.5166667,-86.95
+ni,el tempate,El Tempate,08,,12.2666667,-86.7833333
+ni,el tempisque,El Tempisque,10,,12.2166667,-86.3666667
+ni,el tempisque,El Tempisque,12,,12.7166667,-85.8833333
+ni,el terrero,El Terrero,08,,12.5666667,-86.6
+ni,el terrero,El Terrero,10,,12.5325,-86.0197222
+ni,el terrero,El Terrero,12,,12.6666667,-85.8166667
+ni,el tieso,El Tieso,06,,12.25,-85.8666667
+ni,el tigre,El Tigre,02,,11.85,-86.3166667
+ni,el tigre,El Tigre,15,,11.1333333,-85.3333333
+ni,el tinco,El Tinco,08,,12.0166667,-86.6833333
+ni,el tizate,El Tizate,10,,12.0166667,-86.3166667
+ni,el toro,El Toro,18,,12.9,-85.1166667
+ni,el torovenado,El Torovenado,06,,11.8666667,-85.95
+ni,el torreon,El Torreón,03,,12.6,-86.95
+ni,el transito,El Tránsito,08,,12.0541667,-86.7052778
+ni,el trapiche,El Trapiche,01,,12.3,-85.8166667
+ni,el trapiche,El Trapiche,08,,12.3,-86.7833333
+ni,el trapichito,El Trapichito,01,,12.7,-85.3833333
+ni,el trapichito,El Trapichito,08,,12.3833333,-86.8666667
+ni,el trapichito,El Trapichito,09,,13.45,-86.4833333
+ni,el trianon,El Trianón,03,,12.5166667,-86.9833333
+ni,el trompillo,El Trompillo,18,,12.8833333,-85.1
+ni,el tule,El Tule,01,,12.3833333,-85.7
+ni,el tule,El Tule,04,,12.2333333,-85.45
+ni,el tule,El Tule,07,,13.3166667,-86.25
+ni,el tule,El Tule,08,,12.7,-86.3166667
+ni,el tuma,El Tuma,12,,13.0666667,-85.75
+ni,el tunalito,El Tunalito,03,,12.8833333,-86.7
+ni,el valle de las zapatas,El Valle de Las Zapatas,08,,12.6277778,-86.7025
+ni,el valle,El Valle,06,,11.75,-86.1
+ni,el valle,El Valle,08,,12.2333333,-86.5666667
+ni,el valle,El Valle,15,,11.25,-85.85
+ni,el valle menier,El Valle Menier,06,,11.7333333,-86.0833333
+ni,el varillal,El Varillal,06,,11.9,-85.9833333
+ni,el venado,El Venado,12,,12.6833333,-85.1833333
+ni,el venado,El Venado,18,,12.8666667,-85.1833333
+ni,el verde,El Verde,01,,12.5,-85.7166667
+ni,el viejo,El Viejo,03,44384,12.6666667,-87.1666667
+ni,el volcan,El Volcán,06,,11.7,-85.9
+ni,el zanate,El Zanate,03,,12.5333333,-87.2166667
+ni,el zapotal,El Zapotal,10,,12.15,-86.1166667
+ni,el zapote,El Zapote,01,,12.1666667,-85.6666667
+ni,el zapote,El Zapote,03,,12.5666667,-87.3
+ni,el zapote,El Zapote,07,,13.55,-85.7833333
+ni,el zapote,El Zapote,09,,13.5166667,-86.5333333
+ni,el zapote,El Zapote,10,,11.8833333,-86.5833333
+ni,el zapote,El Zapote,12,,12.75,-85.9166667
+ni,el zapote,El Zapote,15,,11.5333333,-86.0166667
+ni,el zapote,El Zapote,17,,13.4833333,-84.2166667
+ni,el zapotillal,El Zapotillal,13,,13.6166667,-86.05
+ni,el zarzal,El Zarzal,12,,12.7755556,-86.1477778
+ni,el zonto,El Zonto,12,,12.9333333,-85.6166667
+ni,empalme san benito,Empalme San Benito,10,,12.3088889,-86.0525
+ni,emperatriz,Emperatriz,02,,11.9333333,-86.3
+ni,encinos,Encinos,13,,13.8333333,-86.05
+ni,encuentros,Encuentros,02,,11.7,-86.2333333
+ni,english bank,English Bank,18,,12.35,-83.6666667
+ni,ermita el castillo,Ermita El Castillo,18,,12.5666667,-84.9833333
+ni,escalante,Escalante,15,,11.6,-86.0333333
+ni,escamacita,Escamacita,15,,11.2,-85.8
+ni,escameca,Escameca,15,,11.1666667,-85.8
+ni,escamequila,Escamequila,15,,11.2,-85.8
+ni,escamequita,Escamequita,15,,11.2,-85.8
+ni,escandalo,Escandalo,04,,12.2833333,-85.1166667
+ni,escocia,Escocia,12,,12.9166667,-85.6666667
+ni,escondido,Escondido,04,,12.2833333,-85.1166667
+ni,esenkita,Esenkita,18,,12.9333333,-83.5333333
+ni,esperanza,Esperanza,03,,12.7,-87.2
+ni,esperanza,Esperanza,07,,13.2333333,-85.8833333
+ni,espinal,Espinal,05,,13.05,-86.2833333
+ni,espino,Espino,09,,13.45,-86.7166667
+ni,espinol,Espinol,05,,13.05,-86.2833333
+ni,espiritu santo,Espíritu Santo,01,,12.2666667,-85.6166667
+ni,esquinas,Esquinas,02,,11.8833333,-86.25
+ni,esquipula,Esquipula,15,,11.5,-85.7
+ni,esquipulas,Esquipulas,02,,11.8166667,-86.1
+ni,esquipulas,Esquipulas,03,,12.7833333,-87.25
+ni,esquipulas,Esquipulas,10,,12.0666667,-86.2166667
+ni,esquipulas,Esquipulas,12,,12.6666667,-85.7833333
+ni,esquipulas,Esquipulas,15,,11.5,-85.7
+ni,esquipulas,Esquipulas,17,,14.6666667,-84.65
+ni,esquipulin,Esquipulín,12,,12.75,-85.6666667
+ni,estanzuela,Estanzuela,05,,13.0166667,-86.35
+ni,esteli,Estelí,05,91687,13.0833333,-86.35
+ni,estillero,Estillero,15,,11.5,-86.1666667
+ni,facundo,Facundo,18,,12.3166667,-84.2333333
+ni,falso bluff,Falso Bluff,18,,12.15,-83.6833333
+ni,fatima,Fátima,02,,11.9,-86.1833333
+ni,fatima,Fátima,03,,12.5666667,-87.2333333
+ni,fatima,Fátima,06,,11.7833333,-86.0
+ni,felix ernesto lopez toruno,Felix Ernesto Lopez Toruño,08,,12.6944444,-86.7186111
+ni,filadelfia,Filadelfia,03,,12.5833333,-87.1166667
+ni,flor,Flor,15,,11.3833333,-85.95
+ni,fruta de pan,Fruta de Pan,04,,12.2833333,-85.0166667
+ni,fruta de pan,Fruta de Pan,14,,10.9666667,-83.7666667
+ni,fruta de pan,Fruta de Pan,17,,13.9666667,-84.4166667
+ni,fruta de pan,Fruta de Pan,18,,12.3833333,-84.2333333
+ni,fundadera,Fundadera,07,,13.0666667,-85.9166667
+ni,fundadora,Fundadora,07,,13.0666667,-85.9166667
+ni,gagos,Gagos,02,,11.85,-86.35
+ni,gamalote,Gamalote,07,,13.3666667,-86.2
+ni,garita,Garita,12,,12.9333333,-85.8666667
+ni,garito,Garito,12,,12.9333333,-85.8666667
+ni,gemastepe,Gemastepe,03,,12.6666667,-87.35
+ni,genizaro,Genízaro,03,,12.95,-86.7166667
+ni,gigante,Gigante,15,,11.3833333,-86.0333333
+ni,gomez,Gómez,02,,11.65,-86.15
+ni,gorda,Gorda,18,,11.5166667,-83.7833333
+ni,gorrion,Gorrión,12,,12.7333333,-85.7
+ni,granada,Granada,06,92630,11.9333333,-85.95
+ni,graytown,Graytown,17,,14.45,-83.2833333
+ni,great river town,Great River Town,18,,12.9,-83.5333333
+ni,grecia,Grecia,05,,13.1833333,-86.5666667
+ni,greenville,Greenville,18,,12.1,-84.0333333
+ni,gregorio,Gregorio,04,,12.2833333,-85.0833333
+ni,greystown,Greystown,17,,14.45,-83.2833333
+ni,greytown,Greytown,14,,10.9166667,-83.7
+ni,grietas,Grietas,03,,12.7333333,-86.8833333
+ni,guachipilin,Guachipilín,06,,11.7333333,-85.9333333
+ni,guadalupe,Guadalupe,08,,12.4166667,-86.8833333
+ni,guadalupe,Guadalupe,12,,12.8833333,-85.8333333
+ni,guadalupe,Guadalupe,18,,11.9833333,-84.2333333
+ni,gualices,Gualices,07,,13.4166667,-86.1166667
+ni,gualises,Gualises,07,,13.4166667,-86.1166667
+ni,guanabana,Guanabana,07,,13.15,-86.1833333
+ni,guanacasta,Guanacasta,06,,11.85,-86.0166667
+ni,guanacaste,Guanacaste,02,,11.8666667,-86.3333333
+ni,guanacaste,Guanacaste,06,,11.85,-86.0166667
+ni,guanacaste,Guanacaste,08,,12.8333333,-86.3166667
+ni,guanacastillo,Guanacastillo,08,,12.5166667,-86.75
+ni,guana,Guana,13,,13.5166667,-85.95
+ni,guapinal,Guapinal,08,,12.75,-86.5666667
+ni,guapinolapa,Guapinolapa,06,,12.2166667,-85.8166667
+ni,guapinol,Guapinol,08,,12.75,-86.5666667
+ni,guapinol,Guapinol,10,,12.5166667,-86.05
+ni,guapotal,Guapotal,12,,13.0,-85.6166667
+ni,guasayuca,Guasayuca,05,,13.4166667,-86.55
+ni,guasimon,Guasimón,12,,12.9333333,-85.5333333
+ni,guastomate,Guastomate,15,,11.45,-86.0166667
+ni,guasuyuca,Guasuyuca,05,,13.4166667,-86.55
+ni,guayaba,Guayaba,18,,13.0,-84.9166667
+ni,guayabalito,Guayabalito,08,,12.1,-86.6666667
+ni,guayucali,Guayucali,05,,13.3,-86.2666667
+ni,guiguili,Guiguilí,13,,13.6166667,-85.8333333
+ni,guilique,Güilique,18,,12.8833333,-85.1166667
+ni,guilises,Guilises,07,,13.4166667,-86.1166667
+ni,guina,Güina,07,,14.0666667,-85.3
+ni,guiquiliapa,Güiquiliapa,02,,11.8166667,-86.1833333
+ni,guiquili,Guiquili,13,,13.6166667,-85.8333333
+ni,guirruca,Guirruca,01,,12.45,-85.6
+ni,guiscanal,Guiscanal,12,,12.6333333,-86.25
+ni,guiscaran,Güiscarán,12,,12.6333333,-86.25
+ni,guiscaya,Guiscaya,15,,11.4166667,-86.0333333
+ni,guiscoyol,Güiscoyol,01,,12.4333333,-85.7
+ni,guiscoyol,Güiscoyol,15,,11.4166667,-86.0333333
+ni,guiscyal,Guiscyal,15,,11.4166667,-86.0333333
+ni,guisguilapa,Guisguilapa,02,,11.8166667,-86.1833333
+ni,guisquilapa,Güisquilapa,02,,11.8166667,-86.1833333
+ni,guisquiliapa,Guisquiliapa,02,,11.8166667,-86.1833333
+ni,gumacia,Gumacia,12,,12.6833333,-85.7166667
+ni,gutierrez,Gutierrez,10,,11.8166667,-86.4
+ni,hacienda colon,Hacienda Colón,15,,11.1,-85.2166667
+ni,hacienda las brisas,Hacienda Las Brisas,15,,11.2333333,-85.75
+ni,hacienda orosi,Hacienda Orosi,15,,11.15,-85.35
+ni,hamacas,Hamacas,04,,12.0166667,-84.95
+ni,hatillo,Hatillo,12,,12.8333333,-86.0333333
+ni,hato de la virgen,Hato de La Virgen,03,,12.8,-87.4
+ni,hato grande,Hato Grande,03,,12.8166667,-87.4166667
+ni,hato grande,Hato Grande,04,,11.9833333,-85.4333333
+ni,hato grande,Hato Grande,08,,12.4,-86.8166667
+ni,hato grande,Hato Grande,11,,12.15,-86.0333333
+ni,hato nueva,Hato Nueva,08,,12.9333333,-86.6166667
+ni,hato nuevo,Hato Nuevo,03,,12.8166667,-87.4166667
+ni,hato nuevo,Hato Nuevo,08,,12.9333333,-86.6166667
+ni,hato viejo,Hato Viejo,08,,12.9166667,-86.6166667
+ni,haulover,Haulover,17,,13.7,-83.5166667
+ni,haulover,Haulover,18,,11.1,-83.8166667
+ni,horno,Horno,05,,12.9,-86.2833333
+ni,horno,Horno,07,,13.0333333,-86.0
+ni,horoal,Horoal,02,,11.8833333,-86.35
+ni,huahua,Huahua,17,,13.8833333,-83.4666667
+ni,huahua river,Huahua River,17,,13.8833333,-83.4666667
+ni,huahuashan,Huahuashán,18,,12.5833333,-83.75
+ni,huailahuas,Huailahuas,17,,13.65,-84.8333333
+ni,hualpa,Hualpa,18,,12.9333333,-83.5333333
+ni,hualpasika,Hualpasika,17,,13.45,-84.2666667
+ni,hualpasixa,Hualpasixa,17,,13.45,-84.2666667
+ni,huani,Huani,17,,13.7,-84.85
+ni,huankalaya,Huankalaya,17,,14.45,-83.3166667
+ni,huanta,Huanta,17,,13.55,-83.5333333
+ni,huasla,Huasla,17,,14.8,-83.7333333
+ni,huaspan,Huaspan,17,,14.7333333,-83.9666667
+ni,huaunta,Huaunta,17,,13.55,-83.5333333
+ni,huehuete,Huehuete,02,,11.6166667,-86.3166667
+ni,huiste,Huiste,02,,11.6333333,-86.2166667
+ni,hula,Hula,13,,13.65,-86.15
+ni,iallemenier,Iallemenier,06,,11.7333333,-86.0833333
+ni,icalupe,Icalupe,09,,13.6333333,-86.6833333
+ni,idelfonso,Idelfonso,10,,12.25,-86.0833333
+ni,ilapo,Ilapo,12,,12.9833333,-85.7833333
+ni,ingenio amalia,Ingenio Amalia,06,,11.7166667,-86.05
+ni,ingenio belgica,Ingenio Bélgica,03,,12.5833333,-87.1
+ni,ingenio el povon,Ingenio El Povón,08,,12.45,-87.05
+ni,ingenio monterrosa,Ingenio Monterrosa,03,,12.7,-87.2333333
+ni,ingenio san antonio,Ingenio San Antonio,03,,12.5333333,-87.05
+ni,ingenio san pedro,Ingenio San Pedro,08,,12.5,-86.9333333
+ni,ingenio santa rita,Ingenio Santa Rita,10,,12.0666667,-86.5
+ni,inipuwas,Inipuwás,07,,14.4666667,-85.1833333
+ni,isabel grande,Isabel Grande,10,,11.9833333,-86.2833333
+ni,isidrillo,Isidrillo,05,,13.1333333,-86.3333333
+ni,ising kita,Ising Kita,18,,12.9333333,-83.5333333
+ni,isinquita,Isinquita,18,,12.9333333,-83.5333333
+ni,isiqui,Isiquí,05,,13.1166667,-86.2166667
+ni,iskri,Iskri,17,,13.8666667,-83.5833333
+ni,isnahuas,Isnahuas,17,,13.8,-83.75
+ni,isnawas,Isnawás,17,,13.8,-83.75
+ni,israel,Israel,03,,12.8627778,-86.8455556
+ni,iungla,Iungla,17,,13.3166667,-84.4333333
+ni,iyas,Iyás,12,,13.4166667,-85.2666667
+ni,izapa,Izapa,08,,12.2666667,-86.7333333
+ni,jacote,Jacote,04,,12.25,-85.4666667
+ni,jalapa,Jalapa,13,33620,13.9166667,-86.1333333
+ni,jemuyca,Jemuyca,13,,13.65,-86.1833333
+ni,jeronimo,Jerónimo,12,,12.7833333,-85.7
+ni,jesus maria,Jesús María,03,,12.55,-87.0166667
+ni,jesus maria,Jesús María,06,,11.7333333,-86.0333333
+ni,jesus maria,Jesús María,08,,12.45,-86.85
+ni,jicaral,Jicaral,08,,12.7272222,-86.3808333
+ni,jicarito,Jicarito,08,,12.5333333,-86.8166667
+ni,jicarito,Jicarito,13,,13.65,-86.0833333
+ni,jicaro,Jicaro,08,,12.7272222,-86.3808333
+ni,jicaro,Jícaro,13,,13.7166667,-86.1333333
+ni,jicote,Jicote,12,,12.8666667,-86.2
+ni,jinocuabo,Jiñocuabo,08,,12.6833333,-86.6
+ni,jinotega,Jinotega,07,36824,13.1,-86.0
+ni,jinotepe,Jinotepe,02,31267,11.85,-86.2
+ni,jiquilillo,Jiquilillo,03,,12.7333333,-87.4333333
+ni,j. l. chavarria,J. L. Chavarria,12,,13.0666667,-85.65
+ni,joaquin zavala,Joaquín Zavala,03,,12.65,-87.15
+ni,jocate,Jocate,05,,13.35,-86.2666667
+ni,jocomico,Jocomico,03,,13.25,-86.7833333
+ni,jocomico,Jocomico,07,,13.0166667,-86.0666667
+ni,jocomico,Jocomico,15,,11.5333333,-85.9166667
+ni,jocote,Jocote,01,,12.5666667,-85.85
+ni,jocote,Jocote,04,,12.25,-85.4666667
+ni,jocote,Jocote,05,,13.35,-86.2666667
+ni,jocote,Jocote,09,,13.5166667,-86.4
+ni,jocote,Jocote,12,,12.8666667,-86.2
+ni,jocote,Jocote,15,,11.3333333,-85.85
+ni,juan bautista peguero,Juan Bautista Peguero,03,,12.5530556,-86.9783333
+ni,juan romero,Juan Romero,03,,12.6,-87.0166667
+ni,jucuapa abajo,Jucuapa Abajo,12,,12.8666667,-85.9833333
+ni,jucuapa arriba,Jucuapa Arriba,12,,12.8666667,-85.9333333
+ni,jucuapa,Jucuapa,12,,12.8666667,-85.9833333
+ni,juigalpa,Juigalpa,04,48899,12.0833333,-85.4
+ni,jumuyca,Jumuyca,13,,13.65,-86.1833333
+ni,kahkabila,Kahkabila,18,,12.4,-83.7333333
+ni,kakabila,Kakabila,18,,12.4,-83.7333333
+ni,kakaubila,Kakaubila,17,,13.6166667,-84.0166667
+ni,kama,Kama,18,,12.15,-83.9666667
+ni,kambla,Kambla,17,,14.0833333,-83.4166667
+ni,kamla,Kamla,17,,14.0833333,-83.4166667
+ni,kamp tee,Kamp Tee,17,,14.4833333,-83.9833333
+ni,kamusasca,Kamusasca,18,,12.2166667,-84.75
+ni,kangrina,Kangrina,12,,13.1833333,-84.9333333
+ni,kansas city,Kansas City,18,,13.2,-84.0833333
+ni,kara,Kara,18,,12.9,-83.5833333
+ni,karata,Karatá,17,,13.9166667,-83.4833333
+ni,karawala,Karawala,18,,12.9166667,-83.5833333
+ni,karma,Karma,17,,14.75,-83.8833333
+ni,kaska,Kaska,17,,14.4666667,-83.2833333
+ni,kauru tingni,Kauru Tingni,17,,14.65,-84.55
+ni,kiawas,Kiawás,18,,13.1666667,-84.1333333
+ni,kilambe,Kilambé,07,,13.55,-85.7833333
+ni,kilaski,Kilaski,17,,14.65,-84.6
+ni,kisalaya,Kisalaya,17,,14.7333333,-84.0166667
+ni,kisaliya,Kisaliya,17,,14.7333333,-84.0166667
+ni,kisiksik,Kisiksik,07,,14.2833333,-85.2166667
+ni,kitaski,Kitaski,17,,14.65,-84.6
+ni,kiwas tara,Kiwás Tara,17,,14.8833333,-83.7
+ni,klam,Klam,17,,14.9,-83.6
+ni,klampa,Klampa,17,,14.9,-83.6
+ni,klarin dam,Klarín Dam,17,,13.4666667,-84.1666667
+ni,klark,Klark,17,,14.7666667,-83.85
+ni,kligna,Kligna,17,,14.5666667,-84.4333333
+ni,klinas,Klinas,17,,14.5666667,-84.4333333
+ni,klingna,Klingna,17,,13.9666667,-83.6333333
+ni,kocabilla,Kocabilla,18,,12.4,-83.7333333
+ni,kokomo,Kokomo,12,,12.9166667,-86.0333333
+ni,krak prakia,Krak Prakia,17,,14.75,-83.4166667
+ni,krasa,Krasa,17,,14.7,-84.75
+ni,krasn,Krasn,17,,14.7,-84.75
+ni,krisimbila,Krisimbila,18,,12.0833333,-83.95
+ni,krukira,Krukira,17,,14.1666667,-83.3166667
+ni,krupika,Krupika,17,,14.1666667,-83.3166667
+ni,kuakuil,Kuakuil,17,,14.2166667,-83.5166667
+ni,kuanwatla,Kuanwatla,17,,13.3166667,-83.6
+ni,kuculalia,Kuculalia,17,,13.7,-83.7
+ni,kuculaya,Kuculaya,17,,13.7,-83.7
+ni,kugna,Kugna,17,,13.9666667,-83.6333333
+ni,kuikuina,Kuikuina,17,,13.4666667,-84.7833333
+ni,kuikuinita,Kuikuinita,17,,13.4666667,-84.7833333
+ni,kukalaya,Kukalaya,17,,13.7,-83.7
+ni,kukra hill,Kukra Hill,18,,12.25,-83.75
+ni,kukra,Kukra,18,,12.25,-83.75
+ni,kukulaua,Kukulaua,17,,13.7,-83.7
+ni,kukulaya,Kukulaya,17,,13.7,-83.7
+ni,kum,Kum,17,,14.8166667,-83.7166667
+ni,kumusaca,Kumusaca,18,,12.2166667,-84.75
+ni,kung kung tingni,Kung Kung Tingni,07,,14.35,-85.1833333
+ni,kuri,Kuri,17,,14.5666667,-83.5
+ni,kurin dan,Kurin Dan,17,,13.4666667,-84.1666667
+ni,kurinwacito,Kurinwacito,12,,13.1333333,-84.9166667
+ni,kuyu tingni,Kuyu Tingni,17,,14.4833333,-83.9166667
+ni,la aduana,La Aduana,10,,12.0333333,-86.4666667
+ni,la albina,La Albina,15,,11.4666667,-86.1166667
+ni,la alemania,La Alemania,03,,12.9833333,-87.0833333
+ni,la alianza,La Alianza,12,,12.9833333,-85.5666667
+ni,la amistad,La Amistad,10,,11.9333333,-86.3333333
+ni,la argentina,La Argentina,10,,12.1166667,-86.25
+ni,la argentina,La Argentina,15,,11.45,-85.5166667
+ni,la argolla,La Argolla,08,,12.45,-86.9333333
+ni,la asuncion,La Asunción,06,,11.85,-85.9833333
+ni,la aurora,La Aurora,01,,12.65,-85.65
+ni,la aurora,La Aurora,10,,12.0833333,-86.2666667
+ni,la avellana,La Avellana,01,,12.45,-85.9666667
+ni,la avellana,La Avellana,10,,12.5,-85.9833333
+ni,la azucena,La Azucena,14,,11.15,-84.6333333
+ni,la bacinica,La Bacinica,08,,12.8333333,-86.6666667
+ni,la bandera,La Bandera,03,,12.7,-87.0333333
+ni,la barra de rio grande,La Barra de Río Grande,18,,12.9,-83.5333333
+ni,la barra,La Barra,18,,12.9,-83.5333333
+ni,la barranca,La Barranca,02,,11.9166667,-86.2833333
+ni,la barranca,La Barranca,06,,11.8,-86.0333333
+ni,la batea,La Batea,18,,12.05,-84.6166667
+ni,la boca de brito,La Boca de Brito,15,,11.35,-85.9833333
+ni,la boca de la montana,La Boca de La Montaña,15,,11.3,-85.8333333
+ni,la bocana,La Bocana,10,,12.4333333,-86.2666667
+ni,la bocana,La Bocana,12,,13.0833333,-85.5166667
+ni,la bocana,La Bocana,15,,11.6,-85.85
+ni,la bolsa,La Bolsa,11,,11.9333333,-86.1833333
+ni,la bomba,La Bomba,08,,12.7333333,-86.5166667
+ni,la boqueta,La Boqueta,02,,11.6833333,-86.3833333
+ni,la boquita,La Boquita,02,,11.6833333,-86.3833333
+ni,la brena,La Breña,06,,11.7833333,-86.05
+ni,labu,Labú,17,,13.5666667,-84.9333333
+ni,la calamidad,La Calamidad,01,,12.4666667,-85.3333333
+ni,la caldera,La Caldera,12,,12.8666667,-85.8166667
+ni,la calera,La Calera,03,,12.8833333,-86.7833333
+ni,la calera,La Calera,04,,11.9333333,-85.2833333
+ni,la calera,La Calera,06,,11.7333333,-86.1
+ni,la calera,La Calera,08,,12.6833333,-86.6333333
+ni,la california,La California,10,,11.9166667,-86.5166667
+ni,la calle de los besos,La Calle de Los Besos,10,,12.1,-86.5833333
+ni,la calle real de tolapa,La Calle Real de Tolapa,08,,12.6322222,-86.5436111
+ni,la calle real de tolape,La Calle Real de Tolape,08,,12.6322222,-86.5436111
+ni,la calzada,La Calzada,06,,11.9833333,-85.95
+ni,la camarona,La Camarona,06,,11.6333333,-86.0666667
+ni,la camaroncita,La Camaroncita,06,,11.6666667,-86.0833333
+ni,la camelia,La Camelia,07,,13.1,-85.9166667
+ni,la campana,La Campana,05,,13.1333333,-86.3
+ni,la campana,La Campana,10,,12.2333333,-86.0833333
+ni,la campana,La Campana,15,,11.2333333,-85.75
+ni,la canada,La Cañada,05,,13.0333333,-86.2333333
+ni,la cancepcion,La Cancepción,11,,11.9333333,-86.1833333
+ni,la candida,La Cándida,18,,12.2,-84.1666667
+ni,la canoa,La Canoa,03,,12.8333333,-87.0833333
+ni,la carbonera,La Carbonera,06,,11.6833333,-86.0
+ni,la carbonera,La Carbonera,11,,12.0833333,-86.1
+ni,la ceiba,La Ceiba,01,,12.4333333,-85.6333333
+ni,la ceiba,La Ceiba,08,,12.4,-86.8166667
+ni,la ceiba,La Ceiba,10,,11.9333333,-86.5
+ni,la ceiba mocha,La Ceiba Mocha,08,,12.3,-86.6
+ni,la ceibita,La Ceibita,11,,12.0194444,-86.0727778
+ni,la chacara,La Chácara,03,,12.8833333,-87.5
+ni,la chacara,La Chácara,08,,12.55,-86.8666667
+ni,la chilamita,La Chilamita,03,,12.6166667,-87.3
+ni,la china,La China,12,,12.9166667,-85.8666667
+ni,la chinampa,La Chinampa,10,,12.0666667,-86.4666667
+ni,la chocolata,La Chocolata,15,,11.4,-85.85
+ni,la cholpa,La Cholpa,02,,11.65,-86.1833333
+ni,la chuscada,La Chuscada,03,,12.6833333,-87.0833333
+ni,la chuscada,La Chuscada,06,,11.85,-85.9833333
+ni,la cicaya,La Cicaya,04,,11.9833333,-85.4666667
+ni,la compania,La Compañía,10,,12.2333333,-86.1
+ni,la concepcion,La Concepción,01,,12.5333333,-85.75
+ni,la concepcion,La Concepción,03,,12.5666667,-87.0666667
+ni,la concepcion,La Concepción,06,,12.1833333,-85.85
+ni,la concepcion,La Concepción,09,,13.5,-86.3833333
+ni,la concepcion,La Concepción,11,12471,11.9333333,-86.1833333
+ni,la concepcion,La Concepción,12,,12.9,-86.1166667
+ni,la concepcion,La Concepción,15,,11.2,-85.5166667
+ni,la concha,La Concha,01,,12.3666667,-85.8833333
+ni,la concha,La Concha,18,,12.0833333,-84.2166667
+ni,la concordia,La Concordia,07,,13.1833333,-86.1666667
+ni,la conquista,La Conquista,02,,11.7333333,-86.2
+ni,la constancia,La Constancia,17,,13.8833333,-84.5666667
+ni,la corneta,La Corneta,12,,12.9702778,-86.0455556
+ni,la coyota,La Coyota,12,,12.7,-86.15
+ni,la coyotera,La Coyotera,08,,12.3333333,-86.8833333
+ni,la crisalida,La Crisálida,10,,12.0666667,-86.2666667
+ni,la cruz de la india,La Cruz de La India,08,,12.7488889,-86.3025
+ni,la cruz de rio grande,La Cruz de Río Grande,18,,13.1166667,-84.1833333
+ni,la cruz,La Cruz,01,,12.4166667,-85.85
+ni,la cruz,La Cruz,02,,11.9166667,-86.2166667
+ni,la cruz,La Cruz,18,,13.1166667,-84.1833333
+ni,la cruz verde,La Cruz Verde,15,,11.55,-85.8333333
+ni,la cuesta de apatite,La Cuesta de Apatite,12,,12.8166667,-85.75
+ni,la cuesta,La Cuesta,15,,11.2833333,-85.85
+ni,la cumplida,La Cumplida,12,,13.0,-85.85
+ni,la cusuca,La Cusuca,04,,12.55,-84.9
+ni,la danta,La Danta,06,,11.7666667,-85.8833333
+ni,la escuadra,La Escuadra,03,,12.6166667,-87.2833333
+ni,la esmeralda,La Esmeralda,06,,11.8166667,-85.95
+ni,la espanola,La Española,03,,12.7,-86.8833333
+ni,la esperanza,La Esperanza,01,,12.5666667,-85.5333333
+ni,la esperanza,La Esperanza,03,,12.7,-87.2
+ni,la esperanza,La Esperanza,06,,12.1166667,-85.85
+ni,la esperanza,La Esperanza,07,,13.2333333,-85.8833333
+ni,la esperanza,La Esperanza,08,,12.2833333,-86.6
+ni,la esperanza,La Esperanza,12,,12.8166667,-85.75
+ni,la esperanza,La Esperanza,15,,11.1833333,-85.7833333
+ni,la esperanza,La Esperanza,17,,14.6666667,-84.4
+ni,la esperanza,La Esperanza,18,,12.2,-84.2833333
+ni,la estancia,La Estancia,07,,13.0166667,-86.0833333
+ni,la estrella,La Estrella,01,,12.1,-85.7166667
+ni,la estrella,La Estrella,03,,12.6666667,-87.2166667
+ni,la estrella,La Estrella,12,,12.8333333,-85.9166667
+ni,la estrella,La Estrella,18,,12.05,-84.6666667
+ni,la fe,La Fe,14,,10.9333333,-83.7333333
+ni,la fe,La Fe,18,,12.4833333,-83.75
+ni,la florida,La Florida,18,,12.3666667,-84.4
+ni,la flor,La Flor,10,,12.5333333,-86.0166667
+ni,la flor,La Flor,14,,11.5666667,-85.0333333
+ni,la flor,La Flor,15,,11.1333333,-85.7833333
+ni,la fortuna,La Fortuna,12,,12.8333333,-85.2666667
+ni,la fruita de pan,La Fruita de Pan,04,,12.2833333,-85.0166667
+ni,la fuente,La Fuente,06,,11.8833333,-86.0
+ni,la fuente,La Fuente,08,,12.5411111,-86.5794444
+ni,la fundadora,La Fundadora,07,,13.0666667,-85.9166667
+ni,la fundadora,La Fundadora,10,,12.0333333,-86.2666667
+ni,la galpa,La Galpa,15,,11.4333333,-85.7833333
+ni,la garita,La Garita,12,,12.9333333,-85.8666667
+ni,lagartillo,Lagartillo,08,,13.0833333,-86.55
+ni,la gateada,La Gateada,04,,12.0,-84.7833333
+ni,la gaveta,La Gaveta,03,,12.6333333,-87.15
+ni,la gorra,La Gorra,18,,12.0166667,-84.65
+ni,la gorriona,La Gorriona,06,,11.7666667,-85.8833333
+ni,la granadilla,La Granadilla,06,,11.8,-86.0333333
+ni,la grandeza,La Grandeza,02,,11.8166667,-86.25
+ni,la granja,La Granja,06,,11.8666667,-85.9166667
+ni,la granja,La Granja,08,,12.4333333,-86.85
+ni,la granja,La Granja,10,,11.9333333,-86.4
+ni,la grecia,La Grecia,05,,13.1833333,-86.5666667
+ni,la guanabana,La Guanábana,07,,13.15,-86.1833333
+ni,la guanabana,La Guanábana,08,,12.8833333,-86.2833333
+ni,la guayaba,La Guayaba,01,,12.45,-85.8166667
+ni,la guayaba,La Guayaba,12,,12.6125,-86.0063889
+ni,la guayaba,La Guayaba,18,,13.0,-84.9166667
+ni,la guinea,La Guinea,06,,11.7166667,-85.8333333
+ni,laguna de perlas,Laguna de Perlas,18,4944,12.35,-83.6666667
+ni,laguna,Laguna,03,,12.6833333,-87.3333333
+ni,laguna,Laguna,05,,13.05,-86.3
+ni,laguna,Laguna,12,,12.8333333,-85.7666667
+ni,laguna seca,Laguna Seca,12,,12.8333333,-85.7666667
+ni,laguntara,Laguntara,17,,14.75,-84.0833333
+ni,la historia,La Historia,10,,12.0166667,-86.2666667
+ni,la hormiga,La Hormiga,02,,11.6666667,-86.1666667
+ni,la horqueta,La Horqueta,04,,11.7333333,-85.1833333
+ni,la india jicaral,La India Jicaral,08,,12.7272222,-86.3808333
+ni,la india,La India,08,,12.7488889,-86.3025
+ni,la jabilla,La Jabilla,08,,12.8666667,-86.3833333
+ni,la jagua,La Jagua,12,,12.7666667,-86.1
+ni,lajas,Lajas,03,,12.55,-87.15
+ni,la jicaral,La Jicaral,08,,12.7272222,-86.3808333
+ni,la joya,La Joya,01,,12.35,-85.7333333
+ni,la jumuyca,La Jumuyca,13,,13.65,-86.1833333
+ni,la lagarta,La Lagarta,15,,11.55,-85.9333333
+ni,la laguna,La Laguna,03,,12.6833333,-87.3333333
+ni,la laguna,La Laguna,05,,13.05,-86.3
+ni,la laguna,La Laguna,08,,12.9666667,-86.3333333
+ni,la lagunillas,La Lagunillas,05,,13.05,-86.3
+ni,la lanza,La Lanza,03,,12.9666667,-86.6666667
+ni,la leona,La Leona,15,,11.15,-85.7666667
+ni,la leonesa,La Leonesa,12,,12.9333333,-85.8333333
+ni,la libertad,La Libertad,04,,12.2166667,-85.1666667
+ni,la lima,La Lima,12,,12.9666667,-85.7666667
+ni,la limosna,La Limosna,12,,12.8166667,-85.55
+ni,la lorena,La Lorena,08,,12.4333333,-86.9333333
+ni,la lux,La Lux,17,,13.7333333,-84.7833333
+ni,la luz,La Luz,06,,11.8166667,-86.0
+ni,la luz,La Luz,12,,12.85,-85.9
+ni,la luz,La Luz,13,,13.6166667,-85.95
+ni,la luz,La Luz,17,,13.7333333,-84.7833333
+ni,la luz mine,La Luz Mine,17,,13.7333333,-84.7833333
+ni,lama laya,Lama Laya,17,,14.0166667,-83.4166667
+ni,la manga,La Manga,04,,11.8666667,-84.8166667
+ni,la marchenena,La Marcheneña,02,,11.9166667,-86.3166667
+ni,la marimba,La Marimba,08,,12.2666667,-86.8333333
+ni,la marrana,La Marrana,07,,14.1333333,-85.45
+ni,lamblaya,Lamblaya,17,,14.0166667,-83.4166667
+ni,la menuda,La Menuda,11,,12.05,-86.15
+ni,la milpa,La Milpa,08,,12.7333333,-86.7833333
+ni,lamlaya,Lamlaya,17,,14.0166667,-83.4166667
+ni,la moca,La Moca,02,,11.8666667,-86.2333333
+ni,la mohosa,La Mohosa,02,,11.7,-86.1666667
+ni,la mojarra,La Mojarra,10,,12.5969444,-86.3527778
+ni,la montana,La Montaña,08,,12.5833333,-86.4
+ni,la montana,La Montaña,15,,11.4833333,-85.9333333
+ni,la montanita,La Montañita,01,,12.25,-85.0666667
+ni,la morada,La Morada,08,,12.8666667,-86.4333333
+ni,la mora,La Mora,03,,12.6333333,-87.0833333
+ni,la muralla,La Muralla,10,,11.9166667,-86.3833333
+ni,la murilla,La Murilla,10,,11.9166667,-86.3833333
+ni,la natividad,La Natividad,02,,11.7333333,-86.3833333
+ni,la orilla,La Orilla,06,,11.7833333,-86.05
+ni,la palanca,La Palanca,06,,12.2666667,-85.8833333
+ni,la palestina,La Palestina,07,,13.0666667,-85.9
+ni,la palma,La Palma,01,,12.0666667,-85.6833333
+ni,la palma,La Palma,04,,12.0333333,-85.2666667
+ni,la palmera,La Palmera,03,,12.8,-87.0333333
+ni,la palmera,La Palmera,08,,12.5666667,-86.6
+ni,la palmira,La Palmira,03,,12.85,-87.2
+ni,la paloma,La Paloma,08,,12.4,-86.9166667
+ni,la pampa,La Pampa,08,,12.45,-86.95
+ni,lapan,Lapan,17,,13.8666667,-83.7666667
+ni,la patriota,La Patriota,12,,12.9666667,-85.3666667
+ni,la paz central,La Paz Central,08,,12.34,-86.6752778
+ni,la paz centro,La Paz Centro,08,20995,12.34,-86.6752778
+ni,la paz de oriente,La Paz de Oriente,02,,11.8166667,-86.1333333
+ni,la paz,La Paz,02,,11.8166667,-86.1333333
+ni,la paz,La Paz,08,,12.34,-86.6752778
+ni,la paz vieja,La Paz Vieja,08,,12.35,-86.7
+ni,la paz viejo,La Paz Viejo,08,,12.35,-86.7
+ni,la pelona,La Pelona,03,,12.6833333,-86.9
+ni,la pelona,La Pelona,04,,12.05,-85.6333333
+ni,la penita,La Peñita,01,,12.2,-85.6666667
+ni,la perla,La Perla,12,,12.95,-85.6333333
+ni,la piedra,La Piedra,11,,12.0333333,-86.0166667
+ni,la piedra pintada,La Piedra Pintada,02,,11.7666667,-86.2
+ni,la pila del guasimo,La Pila del Guásimo,04,,11.85,-85.2833333
+ni,la pinganilla,La Pinganilla,15,,11.3333333,-85.7666667
+ni,la pintada,La Pintada,05,,13.0833333,-86.4
+ni,la pintada,La Pintada,06,,11.7166667,-86.1166667
+ni,la pinuela,La Piñuela,02,,11.6,-86.2
+ni,la pitahaya,La Pitahaya,08,,12.7166667,-86.7166667
+ni,la pitahaya,La Pitahaya,12,,12.75,-86.1833333
+ni,la pita,La Pita,01,,12.2833333,-85.6666667
+ni,la pita,La Pita,02,,11.6166667,-86.15
+ni,la pita,La Pita,03,,12.6,-87.2833333
+ni,la pita,La Pita,12,,12.7833333,-85.95
+ni,la pitilla,La Pitilla,02,,11.6333333,-86.1666667
+ni,la plazuela,La Plazuela,09,,13.45,-86.3333333
+ni,la plegaria,La Plegaria,18,,12.3333333,-84.1
+ni,la polvosa,La Polvosa,03,,12.8166667,-86.9833333
+ni,la ponzona,La Ponzoña,12,,12.9333333,-85.2666667
+ni,la ponzonita,La Ponzoñita,12,,12.9,-85.25
+ni,la presa,La Presa,08,,12.2333333,-86.6166667
+ni,la presita,La Presita,10,,12.2333333,-85.9833333
+ni,la providencia,La Providencia,10,,11.9833333,-86.3333333
+ni,la puerta,La Puerta,04,,12.1833333,-85.3166667
+ni,la punta,La Punta,15,,11.6166667,-86.1
+ni,la quemazon,La Quemazón,13,,13.7333333,-86.7
+ni,la quesera,La Quesera,08,,12.1666667,-86.75
+ni,la reina,La Reina,12,,12.9166667,-85.8166667
+ni,la rejoya,La Rejoya,01,,12.3166667,-85.7166667
+ni,la remonta,La Remonta,12,,12.7333333,-86.1833333
+ni,la republica,La República,03,,12.7,-87.1666667
+ni,la reseda,La Reseda,08,,12.6,-86.45
+ni,la reserva,La Reserva,02,,11.7666667,-86.2666667
+ni,larga vista,Larga Vista,18,,12.45,-83.8166667
+ni,la rica,La Rica,07,,13.4166667,-86.05
+ni,la rosa grande,La Rosa Grande,17,,13.65,-85.0166667
+ni,la rosa,La Rosa,08,,12.2833333,-86.75
+ni,la rosa,La Rosa,12,,12.95,-85.8
+ni,la rosita,La Rosita,17,,13.8833333,-84.4
+ni,la rota,La Rota,08,,12.5333333,-86.7166667
+ni,larreynaga,Larreynaga,08,6645,12.6744444,-86.5708333
+ni,la sabana,La Sabana,08,,12.9666667,-86.55
+ni,la sabaneta,La Sabaneta,08,,12.6130556,-86.5572222
+ni,las animas,Las Ánimas,12,,12.8,-85.8
+ni,las banderas,Las Banderas,10,,12.3333333,-85.95
+ni,las brisas,Las Brisas,03,,12.6166667,-87.0166667
+ni,las brisas,Las Brisas,06,,11.75,-86.0666667
+ni,las brisas,Las Brisas,08,,12.4333333,-86.7333333
+ni,las brisas,Las Brisas,15,,11.2333333,-85.75
+ni,las brisas,Las Brisas,17,,13.6166667,-84.8
+ni,las cabras,Las Cabras,15,,11.5333333,-86.05
+ni,las calabazas,Las Calabazas,12,,12.6691667,-86.0911111
+ni,las calabozas,Las Calabozas,12,,12.6691667,-86.0911111
+ni,las camaras,Las Camaras,05,,12.9833333,-86.3166667
+ni,las camelias,Las Camelias,07,,13.1,-85.9166667
+ni,las canas de arriba,Las Cañas de Arriba,15,,11.55,-86.1166667
+ni,las canas,Las Cañas,02,,11.7166667,-86.2833333
+ni,las canas,Las Cañas,08,,12.9333333,-86.6333333
+ni,las canas,Las Cañas,15,,11.5166667,-86.15
+ni,las canoas,Las Canoas,10,,12.3194444,-86.0025
+ni,las carolinas,Las Carolinas,06,,11.9,-85.9333333
+ni,las casas viejas,Las Casas Viejas,12,,12.7333333,-86.2166667
+ni,las casillos,Las Casillos,08,,12.35,-86.7833333
+ni,las castillos,Las Castillos,08,,12.35,-86.7833333
+ni,las colinas,Las Colinas,08,,12.5666667,-86.9
+ni,las colinas,Las Colinas,10,,12.0961111,-86.2336111
+ni,las conchitas,Las Conchitas,06,,11.75,-86.0333333
+ni,las conchitas,Las Conchitas,11,,11.9666667,-86.3166667
+ni,las conchitas,Las Conchitas,12,,13.15,-85.75
+ni,las conchitas,Las Conchitas,13,,13.6666667,-86.1166667
+ni,las costillas,Las Costillas,03,,12.6666667,-87.2833333
+ni,las cruces,Las Cruces,08,,12.9,-86.4666667
+ni,las cruces,Las Cruces,10,,12.1666667,-86.1333333
+ni,las cruces,Las Cruces,13,,13.6,-86.0833333
+ni,las crucitas,Las Crucitas,11,,11.85,-86.1166667
+ni,las cuatro esquinas de la mora,Las Cuatro Esquinas de la Mora,03,,12.6333333,-87.0833333
+ni,las cuatro esquinas,Las Cuatro Esquinas,12,,12.9025,-86.0591667
+ni,las cuchillas de apompua,Las Cuchillas de Apompuá,02,,11.75,-86.3
+ni,las cuchillas,Las Cuchillas,08,,12.55,-86.8166667
+ni,las cuchillas,Las Cuchillas,15,,11.4666667,-85.5
+ni,las cumbres,Las Cumbres,10,,12.0,-86.3
+ni,las delicias,Las Delicias,03,,12.95,-86.9
+ni,las delicias,Las Delicias,06,,11.85,-85.95
+ni,las delicias,Las Delicias,08,,12.6666667,-86.8666667
+ni,las delicias,Las Delicias,10,,11.9833333,-86.3
+ni,las delicias,Las Delicias,12,,13.25,-85.25
+ni,las delicias,Las Delicias,15,,11.4666667,-86.0833333
+ni,las delicitas,Las Delicitas,03,,12.95,-86.9
+ni,las enramadas,Las Enramadas,02,,11.7666667,-86.1833333
+ni,las enramadas,Las Enramadas,03,,12.8333333,-87.5833333
+ni,las enramadas,Las Enramadas,08,,12.05,-86.7
+ni,las enramadas,Las Enramadas,15,,11.6666667,-85.9833333
+ni,las esquinas,Las Esquinas,02,,11.8833333,-86.25
+ni,las flores,Las Flores,11,,12.0,-86.0333333
+ni,las grietas,Las Grietas,03,,12.7333333,-86.8833333
+ni,las guabas,Las Guabas,01,,12.2333333,-85.7666667
+ni,las guanacastes,Las Guanacastes,10,,12.2166667,-86.0
+ni,la sirena,La Sirena,05,,13.1833333,-86.3666667
+ni,la sirena,La Sirena,08,,12.6833333,-86.7833333
+ni,las jaguitas,Las Jagüitas,10,,12.1,-86.2166667
+ni,las labores,Las Labores,04,,12.1666667,-85.0666667
+ni,las lagunas,Las Lagunas,01,,12.4666667,-85.6166667
+ni,las lajas,Las Lajas,01,,12.3166667,-85.7333333
+ni,las lajas,Las Lajas,03,,12.55,-87.15
+ni,las lajas,Las Lajas,07,,13.3,-86.0833333
+ni,las lajitas,Las Lajitas,04,,12.1333333,-85.4166667
+ni,las lajitas,Las Lajitas,05,,12.9833333,-86.3
+ni,las lajitas,Las Lajitas,08,,12.3,-86.6833333
+ni,las lajitas,Las Lajitas,10,,12.5833333,-86.1333333
+ni,las lapas,Las Lapas,10,,11.9,-86.4
+ni,las limas,Las Limas,12,,12.7,-86.1
+ni,las limas,Las Limas,18,,12.2333333,-83.8333333
+ni,las lomas,Las Lomas,08,,12.5866667,-86.5055556
+ni,las maderas,Las Maderas,01,,12.6833333,-85.5333333
+ni,las maderas,Las Maderas,10,,12.4461111,-86.04
+ni,las maderas,Las Maderas,12,,12.8166667,-85.5166667
+ni,las mangas,Las Mangas,12,,12.8386111,-86.2175
+ni,las manos,Las Manos,13,,13.7833333,-86.5666667
+ni,las marias,Las Marías,02,,11.8,-86.1666667
+ni,las marias,Las Marías,03,,12.7,-87.25
+ni,las marias,Las Marías,08,,12.6666667,-86.85
+ni,las masis,Las Masís,01,,12.5666667,-85.8333333
+ni,las mercedes,Las Mercedes,01,,12.55,-85.6666667
+ni,las mercedes,Las Mercedes,02,,11.7,-86.25
+ni,las mercedes,Las Mercedes,03,,12.6166667,-86.9333333
+ni,las mercedes,Las Mercedes,06,,11.7333333,-86.0666667
+ni,las mercedes,Las Mercedes,08,,12.2833333,-86.85
+ni,las mercedes,Las Mercedes,10,,12.0333333,-86.35
+ni,las mercedes,Las Mercedes,12,,12.9,-85.5333333
+ni,las mercedes,Las Mercedes,15,,11.6333333,-85.95
+ni,las mesas de acicaya,Las Mesas de Acicaya,10,,12.4677778,-86.0011111
+ni,las mesas,Las Mesas,03,,12.9833333,-86.9666667
+ni,las mesas,Las Mesas,10,,12.4677778,-86.0011111
+ni,las mesas,Las Mesas,12,,12.9425,-86.0147222
+ni,las mesas,Las Mesas,15,,11.5666667,-85.9333333
+ni,las mesitas,Las Mesitas,03,,12.9833333,-86.9666667
+ni,las mesitas,Las Mesitas,07,,13.0833333,-86.0333333
+ni,las minas,Las Minas,12,,12.8011111,-86.0083333
+ni,las minitas,Las Minitas,12,,12.8333333,-85.3833333
+ni,las nambiras,Las Nambiras,10,,11.8833333,-86.4833333
+ni,las nilas,Las Nilas,02,,11.5666667,-86.1666667
+ni,las nocas,Las Ñocas,04,,11.8666667,-85.2666667
+ni,las nubes,Las Nubes,01,,12.4166667,-85.5333333
+ni,las nubes,Las Nubes,03,,12.6166667,-87.0
+ni,las nubes,Las Nubes,11,,12.0166667,-86.2833333
+ni,las nubes,Las Nubes,12,,12.6288889,-86.1355556
+ni,las nubes,Las Nubes,18,,12.1333333,-84.4333333
+ni,las palancas,Las Palancas,08,,12.7666667,-86.7166667
+ni,las palomas,Las Palomas,12,,12.8666667,-85.2333333
+ni,las pavas,Las Pavas,12,,12.7166667,-85.4833333
+ni,las pavas,Las Pavas,18,,12.0333333,-84.4333333
+ni,las pencas,Las Pencas,01,,12.4666667,-85.75
+ni,las pencas,Las Pencas,05,,12.9333333,-86.2666667
+ni,las penitas,Las Peñitas,08,,12.3666667,-87.0166667
+ni,las penitas,Las Peñitas,10,,12.3833333,-85.9166667
+ni,las peraltas,Las Peraltas,08,,12.4166667,-86.6333333
+ni,las perlas,Las Perlas,18,,12.35,-83.6666667
+ni,las perlas town,Las Perlas Town,18,,12.35,-83.6666667
+ni,las piedras cagadas,Las Piedras Cagadas,06,,11.9166667,-85.9166667
+ni,las piedras,Las Piedras,15,,11.4333333,-85.85
+ni,las pilas,Las Pilas,01,,12.35,-85.7
+ni,las pilas,Las Pilas,03,,13.0,-86.7666667
+ni,las pilas,Las Pilas,08,,12.5166667,-86.6
+ni,las pilas,Las Pilas,10,,11.9666667,-86.4166667
+ni,las pilas,Las Pilas,12,,12.6333333,-86.0166667
+ni,las pilas,Las Pilas,15,,11.3833333,-85.9833333
+ni,las pilas occidentales,Las Pilas Occidentales,11,,12.0533333,-86.0769444
+ni,las playitas,Las Playitas,10,,12.5666667,-86.0333333
+ni,las postreras,Las Postreras,06,,12.25,-85.8166667
+ni,las pozas,Las Pozas,03,,13.0352778,-87.5366667
+ni,las pozas,Las Pozas,04,,11.9833333,-85.3
+ni,las pozas,Las Pozas,12,,12.8166667,-85.0166667
+ni,las puertas,Las Puertas,04,,11.8333333,-85.25
+ni,las puertas,Las Puertas,07,,13.4333333,-85.9333333
+ni,las ranas,Las Ranas,10,,12.6,-86.2333333
+ni,las rinconadas,Las Rinconadas,05,,13.2,-86.2333333
+ni,las sabanas,Las Sabanas,09,,13.35,-86.6166667
+ni,las sabanas,Las Sabanas,11,,11.95,-86.1666667
+ni,las salinas,Las Salinas,15,,11.4666667,-86.1333333
+ni,las soleras,Las Soleras,03,,12.8666667,-86.7333333
+ni,las tablas,Las Tablas,02,,11.7833333,-86.1166667
+ni,las tablas,Las Tablas,05,,13.1,-86.6166667
+ni,las tablas,Las Tablas,08,,12.6833333,-86.4833333
+ni,las tejas,Las Tejas,12,,12.9166667,-85.95
+ni,las tinajas,Las Tinajas,10,,12.3,-86.1833333
+ni,la suiza,La Suiza,08,,12.8666667,-86.5333333
+ni,las uvas,Las Uvas,13,,13.8333333,-86.1333333
+ni,las vegas,Las Vegas,07,,13.3666667,-86.0833333
+ni,las vueltas,Las Vueltas,13,,13.6333333,-86.1333333
+ni,las zapatas,Las Zapatas,08,,12.6277778,-86.7025
+ni,la tejera,La Tejera,08,,12.9666667,-86.3666667
+ni,la tortuga,La Tortuga,18,,12.0333333,-84.4666667
+ni,la trinidad,La Trinidad,02,,11.7333333,-86.3333333
+ni,la trinidad,La Trinidad,05,,12.9694444,-86.2366667
+ni,la trinidad,La Trinidad,10,9312,12.5666667,-86.1833333
+ni,la trinidad,La Trinidad,15,,11.35,-85.8833333
+ni,la tronquera,La Tronquera,17,,14.55,-84.1166667
+ni,la union,La Unión,01,,12.2,-85.7
+ni,la union,La Unión,10,,12.05,-86.2666667
+ni,la union,La Unión,12,,12.8,-86.2666667
+ni,la union,La Unión,17,,13.5166667,-84.9
+ni,laurel galan,Laurel Galán,10,,12.5666667,-86.3166667
+ni,la uva,La Uva,10,,12.4833333,-86.0166667
+ni,la uva,La Uva,12,,12.75,-86.1333333
+ni,la vaca,La Vaca,03,,12.85,-87.5333333
+ni,la vainilla,La Vainilla,04,,12.0166667,-85.25
+ni,la veranera,La Veranera,08,,12.3666667,-86.8666667
+ni,la victoria,La Victoria,06,,11.8166667,-85.9333333
+ni,la victoria,La Victoria,15,,11.2666667,-85.7833333
+ni,la vigia,La Vigía,13,,13.4833333,-85.9166667
+ni,la vijia,La Vijia,13,,13.4833333,-85.9166667
+ni,la virgen del camino,La Virgen del Camino,03,,12.6333333,-87.15
+ni,la virgen,La Virgen,06,,12.1333333,-85.85
+ni,la virgen,La Virgen,07,,13.3,-85.85
+ni,la virgen,La Virgen,10,,12.1686111,-86.4533333
+ni,la virgen,La Virgen,15,,11.3666667,-85.7666667
+ni,la virgen,La Virgen,18,,12.2666667,-84.45
+ni,lawa place,Lawa Place,17,,14.05,-83.4833333
+ni,layasicsa,Layasicsa,17,,13.6666667,-83.7
+ni,layasiksa,Layasiksa,17,,13.6666667,-83.7
+ni,layasixa,Layasixa,17,,13.6666667,-83.7
+ni,la younga,La Younga,04,,11.8666667,-84.8166667
+ni,la yunga,La Yunga,04,,11.8666667,-84.8166667
+ni,la zapotilla,La Zapotilla,13,,13.6166667,-86.05
+ni,la zopilota,La Zopilota,08,,12.3,-86.5666667
+ni,la zopilota,La Zopilota,10,,11.85,-86.5166667
+ni,ledakura,Ledakura,17,,14.4666667,-83.2666667
+ni,leedakuta,Leedakuta,17,,14.4666667,-83.2666667
+ni,leimus,Leimus,17,,14.7333333,-84.0833333
+ni,leonardo,Leonardo,10,,11.9166667,-86.4333333
+ni,leonesa,Leonesa,12,,12.9333333,-85.8333333
+ni,leon,León,08,150327,12.4355556,-86.8794444
+ni,leyton,Leytón,03,,12.6,-86.9333333
+ni,libertad,Libertad,04,,12.2166667,-85.1666667
+ni,licoroy,Licoroy,07,,13.0333333,-86.1666667
+ni,li-dakura,Li-Dákura,17,,14.4666667,-83.2666667
+ni,li dakura village,Li Dakura Village,17,,14.4666667,-83.2666667
+ni,ligero,Ligero,05,,13.2333333,-86.7
+ni,limas de belen,Limas de Belén,03,,12.7333333,-87.1833333
+ni,limay,Limay,05,,13.1666667,-86.6166667
+ni,limay,Limay,08,,12.9,-86.3166667
+ni,limbaica,Limbaica,17,,13.4833333,-84.0833333
+ni,limbaika,Limbaika,17,,13.4833333,-84.0833333
+ni,limbayka,Limbayka,17,,13.4833333,-84.0833333
+ni,limonal,Limonal,15,,11.4833333,-85.8333333
+ni,limon,Limón,05,,13.3666667,-86.5166667
+ni,limon,Limon,08,,12.7513889,-86.7380556
+ni,limon,Limón,09,,13.5166667,-86.3333333
+ni,limon,Limón,13,,13.8333333,-86.2
+ni,limon,Limón,15,,11.35,-85.7333333
+ni,limsiwita,Limsiwita,18,,12.9,-83.6666667
+ni,linda vista,Linda Vista,08,,12.45,-87.1666667
+ni,linsikita,Linsikita,18,,12.9,-83.6
+ni,lisawe,Lisawé,17,,13.3833333,-84.9666667
+ni,living creek,Living Creek,17,,14.9666667,-83.5333333
+ni,living's creek,Living's Creek,17,,14.9666667,-83.5333333
+ni,liwa sirpe,Liwa Sirpe,17,,15.0,-83.4
+ni,lizarco,Lizarco,12,,12.9,-85.9666667
+ni,llano de las mesas,Llano de Las Mesas,12,,12.6,-85.8333333
+ni,llano el boqueron,Llano El Boquerón,12,,12.8333333,-86.2666667
+ni,llano grandde,Llano Grandde,12,,12.95,-85.9333333
+ni,llano grande,Llano Grande,01,,12.3166667,-85.7666667
+ni,llano grande,Llano Grande,04,,12.2166667,-85.4166667
+ni,llano grande,Llano Grande,11,,11.9833333,-86.0166667
+ni,llano grande,Llano Grande,12,,12.95,-85.9333333
+ni,llano largo,Llano Largo,07,,13.1,-86.1666667
+ni,llano redondo,Llano Redondo,05,,13.0333333,-86.3
+ni,lodo podrido,Lodo Podrido,08,,13.0166667,-86.6
+ni,loma alegre,Loma Alegre,02,,11.75,-86.45
+ni,loma azul,Loma Azul,07,,13.3333333,-86.05
+ni,loma de mico,Loma de Mico,18,,12.2,-83.8333333
+ni,loma mico,Loma Mico,18,,12.2,-83.8333333
+ni,lomas los tendidos del carbonal,Lomas Los Tendidos del Carbonal,07,,13.0666667,-86.1333333
+ni,los altos del guanacastillo,Los Altos del Guanacastillo,11,,12.0666667,-86.1
+ni,los altos,Los Altos,11,,12.0666667,-86.1
+ni,los angeles,Los Ángeles,02,,11.7833333,-86.4
+ni,los angeles,Los Ángeles,03,,12.6833333,-87.1666667
+ni,los angeles,Los Ángeles,06,,11.7333333,-86.0166667
+ni,los angeles,Los Ángeles,08,,12.3666667,-86.8166667
+ni,los angeles,Los Ángeles,10,,12.0833333,-86.4666667
+ni,los angeles,Los Ángeles,15,,11.5,-85.6833333
+ni,los angeles,Los Ángeles,18,,12.2333333,-83.7833333
+ni,los arados,Los Arados,03,,13.25,-86.7666667
+ni,los arcos,Los Arcos,08,,12.3333333,-86.7833333
+ni,los baltodano,Los Baltodano,02,,11.8,-86.3666667
+ni,los baltodanos,Los Baltodanos,02,,11.8,-86.3666667
+ni,los banaderos,Los Bañaderos,07,,13.3333333,-86.1166667
+ni,los brasiles,Los Brasiles,06,,12.2666667,-85.9333333
+ni,los brasiles,Los Brasiles,10,,12.1927778,-86.3691667
+ni,los brasilitos,Los Brasilitos,02,,11.8333333,-86.3333333
+ni,los braziles,Los Braziles,10,,12.1927778,-86.3691667
+ni,los bueyes,Los Bueyes,04,,11.85,-85.15
+ni,los calabazos,Los Calabazos,12,,12.6691667,-86.0911111
+ni,los caleros,Los Caleros,11,,12.0,-86.2166667
+ni,los calpules,Los Calpules,05,,13.4,-86.55
+ni,los calpules,Los Calpules,12,,12.7419444,-86.0130556
+ni,los camarones,Los Camarones,03,,12.9833333,-87.0666667
+ni,los capules,Los Capules,07,,13.0333333,-86.0833333
+ni,los caracoles,Los Caracoles,08,,12.3666667,-86.6666667
+ni,los caraos,Los Caraos,08,,13.0333333,-86.6166667
+ni,los cardones,Los Cardones,12,,12.8847222,-86.0552778
+ni,los cedros,Los Cedros,10,,12.0708333,-86.4819444
+ni,los cerritos,Los Cerritos,01,,12.2333333,-85.6
+ni,los cerritos,Los Cerritos,04,,11.7666667,-85.25
+ni,los cerritos,Los Cerritos,08,,12.6833333,-86.5166667
+ni,los cerritos,Los Cerritos,14,,11.6833333,-84.95
+ni,los chaguites,Los Chagüites,07,,13.05,-86.0333333
+ni,los chilamates,Los Chilamates,05,,13.05,-86.2833333
+ni,los chocoyitos,Los Chocoyitos,01,,12.4,-85.9166667
+ni,los cimientos,Los Cimientos,01,,12.65,-85.3
+ni,los cocos,Los Cocos,06,,12.0833333,-85.9
+ni,los cruces,Los Cruces,02,,11.8166667,-86.15
+ni,los cutierrez,Los Cutiérrez,02,,11.8333333,-86.3
+ni,los diamantes,Los Diamantes,03,,12.9833333,-86.9
+ni,los encinos,Los Encinos,13,,13.8333333,-86.05
+ni,los encuentros,Los Encuentros,02,,11.7,-86.2333333
+ni,los encuentros,Los Encuentros,09,,13.4666667,-86.4666667
+ni,los frijoles,Los Frijoles,08,,12.8833333,-86.6166667
+ni,los gagos,Los Gagos,02,,11.85,-86.35
+ni,los guidos,Los Guidos,12,,12.7666667,-85.8166667
+ni,los gutierrez del sur,Los Gutiérrez del Sur,10,,11.8166667,-86.4
+ni,los gutierrez,Los Gutiérrez,02,,11.8333333,-86.3
+ni,los lajos,Los Lajos,01,,12.4666667,-85.4333333
+ni,los larios,Los Larios,08,,12.1833333,-86.5833333
+ni,los leiva,Los Leiva,18,,12.2166667,-84.1333333
+ni,los limones,Los Limones,08,,12.8666667,-86.3333333
+ni,los limones,Los Limones,18,,12.2833333,-84.5333333
+ni,los lirios,Los Lirios,03,,12.7666667,-87.1833333
+ni,los llanos,Los Llanos,05,,13.3,-86.5666667
+ni,los llanos,Los Llanos,08,,12.9,-86.5833333
+ni,los loras,Los Loras,08,,12.9666667,-86.6166667
+ni,los mangles,Los Mangles,08,,12.65,-86.8666667
+ni,los menas,Los Menas,10,,12.4,-85.9666667
+ni,los millones,Los Millones,04,,11.9833333,-84.8166667
+ni,los mollejones,Los Mollejones,06,,11.7666667,-86.0166667
+ni,los morenos,Los Morenos,04,,12.1666667,-84.9833333
+ni,los narvaez,Los Narváez,02,,11.8,-86.4
+ni,los navarrete,Los Navarrete,02,,11.8,-86.4666667
+ni,los navarretes,Los Navarretes,02,,11.8,-86.4666667
+ni,los negritos,Los Negritos,01,,12.4833333,-85.9166667
+ni,los novios,Los Novios,10,,12.3333333,-86.05
+ni,los ojos de agua,Los Ojos de Agua,12,,12.6827778,-86.0288889
+ni,los ortiz,Los Ortiz,11,,12.0,-86.2166667
+ni,los perlos,Los Perlos,18,,12.35,-83.6666667
+ni,los peroles,Los Peroles,08,,12.9166667,-86.5166667
+ni,los placeres,Los Placeres,03,,13.0294444,-87.5991667
+ni,los placeres,Los Placeres,10,,12.5666667,-86.05
+ni,los placeres,Los Placeres,12,,12.9833333,-85.75
+ni,los planes,Los Planes,13,,13.7833333,-86.55
+ni,los pocitos,Los Pocitos,08,,12.4833333,-86.8166667
+ni,los pocitos,Los Pocitos,11,,11.9166667,-86.1
+ni,los portillos,Los Portillos,01,,12.4666667,-85.85
+ni,los portillos,Los Portillos,03,,12.6333333,-86.8833333
+ni,los portillos,Los Portillos,12,,12.7333333,-85.8333333
+ni,los potrerillos,Los Potrerillos,01,,12.3333333,-85.55
+ni,los potrerillos,Los Potrerillos,02,,11.8,-86.15
+ni,los potrerillos,Los Potrerillos,09,,13.45,-86.7
+ni,los puentes,Los Puentes,06,,12.15,-85.85
+ni,los puntalitos,Los Puntalitos,13,,13.8166667,-86.1833333
+ni,los ranchones,Los Ranchones,06,,11.7833333,-85.9666667
+ni,los ranchos de sinecapa,Los Ranchos de Sinecapa,08,,12.4666667,-86.4
+ni,los ranchos,Los Ranchos,08,,12.3666667,-86.8833333
+ni,los ranchos,Los Ranchos,10,,12.1666667,-86.4166667
+ni,los reyes,Los Reyes,03,,12.6666667,-87.0833333
+ni,los riitos,Los Riitos,08,,12.5,-86.45
+ni,los rivera,Los Rivera,02,,11.8833333,-86.2666667
+ni,los riveras,Los Riveras,02,,11.8833333,-86.2666667
+ni,los robles,Los Robles,13,,13.6833333,-86.7
+ni,los sanchez,Los Sánchez,02,,11.8666667,-86.2666667
+ni,los sanchez,Los Sánchez,10,,11.8666667,-86.45
+ni,los solano,Los Solano,18,,12.1833333,-84.1333333
+ni,los tacanistes,Los Tacanistes,18,,11.8666667,-84.5166667
+ni,los tendidos del carbonal,Los Tendidos del Carbonal,07,,13.0666667,-86.1333333
+ni,los tololos,Los Tololos,08,,12.85,-86.5333333
+ni,los torunos,Los Toruños,08,,12.5166667,-86.5333333
+ni,los valdivia,Los Valdivia,03,,12.6333333,-86.9666667
+ni,los velasquez,Los Velásquez,02,,11.8,-86.3833333
+ni,los velasquez,Los Velásquez,03,,12.5833333,-86.9333333
+ni,los viejitos,Los Viejitos,15,,11.55,-85.9
+ni,los walices,Los Walices,07,,13.4166667,-86.1166667
+ni,los zarzales,Los Zarzales,08,,12.6616667,-86.4372222
+ni,lourdes,Lourdes,08,,12.7666667,-86.7666667
+ni,lovago,Lóvago,04,,12.0,-85.1666667
+ni,lowa place,Lowa Place,17,,14.05,-83.4833333
+ni,luciana,Luciana,17,,14.3833333,-83.8833333
+ni,luciano,Luciano,17,,14.3833333,-83.8833333
+ni,luku,Lukú,17,,13.6833333,-84.6166667
+ni,lumlei,Lumlei,17,,14.0166667,-83.4166667
+ni,lumlel,Lumlel,17,,14.0166667,-83.4166667
+ni,macantaca,Macantaca,17,,13.25,-84.0833333
+ni,macuelis,Macuelís,12,,12.6833333,-86.2
+ni,macuelizo,Macuelizo,13,,13.65,-86.6166667
+ni,maderas,Maderas,01,,12.6833333,-85.5333333
+ni,maderas,Maderas,10,,12.4461111,-86.04
+ni,maderas negras,Maderas Negras,03,,12.5833333,-87.2833333
+ni,mahogany,Mahogany,18,,12.0833333,-84.0
+ni,makantaca,Makantaca,17,,13.25,-84.0833333
+ni,makantaka,Makantaka,17,,13.25,-84.0833333
+ni,malacaguas,Malacaguás,18,,12.85,-85.0833333
+ni,malacatoya,Malacatoya,01,,12.6,-85.7166667
+ni,malacatoya,Malacatoya,06,,12.15,-85.8333333
+ni,malacatoyo,Malacatoyo,01,,12.6,-85.7166667
+ni,malacatoyo,Malacatoyo,06,,12.15,-85.8333333
+ni,malpaisillo,Malpaisillo,08,,12.5925,-86.6797222
+ni,mal paso,Mal Paso,12,,12.85,-86.2666667
+ni,managua,Managua,10,1140499,12.1508333,-86.2683333
+ni,mana,Mana,13,,13.5166667,-85.95
+ni,mancarron,Mancarrón,15,,11.6333333,-86.0166667
+ni,mancotal,Mancotal,07,,13.2333333,-85.9666667
+ni,manga,Manga,04,,11.8666667,-84.8166667
+ni,mangle alto,Mangle Alto,03,,12.8833333,-87.4
+ni,manihuatla,Manihuatla,17,,14.1,-83.6333333
+ni,maniwatla,Maniwatla,17,,14.1,-83.6333333
+ni,maria cristina,María Cristina,08,,12.3833333,-87.0166667
+ni,maria magdalena,María Magdalena,03,,12.6833333,-87.1166667
+ni,mario soza,Mario Soza,12,,12.6347222,-86.0125
+ni,marshall point,Marshall Point,18,,12.5666667,-83.7
+ni,marshall ponit,Marshall Ponit,18,,12.5666667,-83.7
+ni,masachapa,Masachapa,10,,11.7833333,-86.5166667
+ni,masa pala,Masa Pala,08,,12.4,-86.8333333
+ni,masapa,Masapa,01,,12.1666667,-85.7333333
+ni,masapia,Masapía,01,,12.1666667,-85.7333333
+ni,masatepe,Masatepe,11,17323,11.9166667,-86.15
+ni,masaya,Masaya,11,123474,11.9666667,-86.1
+ni,mata de cana,Mata de Caña,03,,12.9666667,-86.6666667
+ni,mata de cana,Mata de Caña,15,,11.5666667,-85.9833333
+ni,mata de tule,Mata de Tule,06,,11.7,-86.1333333
+ni,matagalpa,Matagalpa,12,79122,12.9166667,-85.9166667
+ni,mataka,Mataka,18,,12.3,-84.3
+ni,matasano,Matasano,07,,13.0,-86.0166667
+ni,matasano,Matasano,09,,13.3666667,-86.65
+ni,matasano,Matasano,12,,12.8,-85.9166667
+ni,matasanos,Matasanos,07,,13.0,-86.0166667
+ni,matasanos,Matasanos,12,,12.8,-85.9166667
+ni,matazano,Matazano,12,,12.8,-85.9166667
+ni,mateare,Mateare,10,15067,12.2391667,-86.4291667
+ni,matiguas,Matiguás,12,9769,12.8333333,-85.4666667
+ni,maunica,Maunica,12,,12.7758333,-86.0305556
+ni,mazatlan,Mazatlán,10,,12.0166667,-86.3333333
+ni,mecatepe,Mecatepe,06,,11.7666667,-85.95
+ni,mecatepillo,Mecatepillo,06,,11.7,-85.95
+ni,mechapa,Mechapa,05,,13.0,-86.25
+ni,mecitepio,Mecitepio,06,,11.7,-85.95
+ni,medio mundo,Medio Mundo,06,,11.8833333,-86.0166667
+ni,mercedes,Mercedes,01,,12.55,-85.6666667
+ni,mercedes,Mercedes,06,,11.7333333,-86.0666667
+ni,mercedes,Mercedes,08,,12.8333333,-86.4666667
+ni,mercedes,Mercedes,10,,12.0333333,-86.35
+ni,merida,Mérida,03,,12.6166667,-87.0833333
+ni,merida,Mérida,15,,11.4333333,-85.5666667
+ni,mesa cayan,Mesa Cayan,13,,13.6,-86.6166667
+ni,mesa,Mesa,13,,13.6,-86.6166667
+ni,mesas alcayan,Mesas Alcayán,13,,13.6,-86.6166667
+ni,mesas de alcayan,Mesas de Alcayán,13,,13.6,-86.6166667
+ni,mesas,Mesas,03,,12.9833333,-86.9666667
+ni,mesas,Mesas,10,,12.4677778,-86.0011111
+ni,mesita,Mesita,07,,13.0833333,-86.0333333
+ni,metapa,Metapa,12,,12.7305556,-86.125
+ni,meteare,Meteare,10,,12.2391667,-86.4291667
+ni,miguel bikan,Miguel Bikan,17,,14.55,-84.1166667
+ni,mil pays,Mil Pays,08,,12.1166667,-86.6833333
+ni,mina columbus,Mina Columbus,17,,14.1166667,-83.95
+ni,mina el limon,Mina El Limón,08,,12.7513889,-86.7380556
+ni,mina la india,Mina La India,08,,12.7488889,-86.3025
+ni,mina la luz,Mina La Luz,17,,13.7333333,-84.7833333
+ni,mina limon,Mina Limón,08,,12.7513889,-86.7380556
+ni,mina santa pancha,Mina Santa Pancha,08,,12.7369444,-86.6986111
+ni,mina verde,Mina Verde,12,,12.8666667,-85.8166667
+ni,mine castro,Mine Castro,17,,14.1166667,-83.95
+ni,miraflores,Miraflores,10,,11.9166667,-86.3833333
+ni,mira lago,Mira Lago,08,,12.4111111,-86.6183333
+ni,miralagos,Miralagos,11,,11.95,-86.15
+ni,miramar,Miramar,08,,12.1625,-86.755
+ni,miramontes,Miramontes,01,,12.1166667,-85.6833333
+ni,miravalle,Miravalle,11,,11.9833333,-86.2666667
+ni,moha,Moha,01,,12.6333333,-85.4333333
+ni,moho creek,Moho Creek,18,,12.1166667,-83.8166667
+ni,mojon,Mojón,07,,13.2166667,-86.05
+ni,mokoron,Mokorón,03,,12.7833333,-87.05
+ni,molina norte,Molina Norte,12,,12.9666667,-85.9166667
+ni,molino norte,Molino Norte,12,,12.9666667,-85.9166667
+ni,mollejones,Mollejones,01,,12.6666667,-85.5
+ni,mombacho,Mombacho,06,,11.7833333,-85.9
+ni,momotombi,Momotombi,08,,12.4055556,-86.6116667
+ni,momotombito,Momotombito,10,,12.35,-86.4833333
+ni,momotombo,Momotombo,08,,12.4055556,-86.6116667
+ni,monimbo,Monimbó,11,,11.95,-86.1
+ni,monkey point,Monkey Point,18,,11.6,-83.6666667
+ni,montana grande,Montaña Grande,12,,12.7333333,-85.9166667
+ni,montecristo,Montecristo,02,,11.9166667,-86.2833333
+ni,monte cristo,Monte Cristo,03,,12.65,-87.3
+ni,monte cristo,Monte Cristo,18,,12.1333333,-84.2666667
+ni,monte de los olivos,Monte de Los Olivos,03,,12.6833333,-86.8666667
+ni,monte fresco,Monte Fresco,02,,11.7666667,-86.3833333
+ni,monte fresco,Monte Fresco,10,,12.0666667,-86.5
+ni,monte grande,Monte Grande,01,,12.4166667,-85.75
+ni,monte grande,Monte Grande,03,,12.9333333,-86.6833333
+ni,monte grande,Monte Grande,07,,12.9833333,-86.0833333
+ni,monte grande,Monte Grande,12,,12.735,-86.0008333
+ni,monte grande oriental,Monte Grande Oriental,06,,11.7833333,-86.05
+ni,monte libano,Monte Líbano,12,,12.8,-85.65
+ni,montelimar,Montelimar,10,,11.8166667,-86.5166667
+ni,monte oscuro,Monte Oscuro,05,,13.0666667,-86.2833333
+ni,monte oscuro,Monte Oscuro,12,,12.7,-85.95
+ni,monte rosa,Monte Rosa,03,,12.7,-87.2333333
+ni,monte verde,Monte Verde,15,,11.1666667,-85.65
+ni,morado,Morado,05,,13.0833333,-86.45
+ni,morazan,Morazán,03,,12.85,-87.1833333
+ni,moropotente,Moropotente,05,,13.15,-86.2333333
+ni,morrillo,Morrillo,14,,11.25,-84.7833333
+ni,morrito,Morrito,14,,11.6166667,-85.0833333
+ni,mosonte,Mosonte,13,,13.65,-86.45
+ni,moyogalpa,Moyogalpa,15,,11.5333333,-85.7
+ni,mozonte,Mozonte,13,,13.65,-86.45
+ni,muelle de los bueyes,Muelle de los Bueyes,18,,12.0666667,-84.5333333
+ni,muelle real de siquia,Muelle Real de Siquia,18,,12.25,-84.3
+ni,muelle real,Muelle Real,18,,12.25,-84.3
+ni,mugan,Mugán,04,,11.9833333,-84.8666667
+ni,muhan,Muhan,04,,11.9833333,-84.8666667
+ni,mukuwas,Mukuwás,07,,14.3666667,-85.2166667
+ni,mulakrai,Mulakrai,07,,14.4666667,-85.1666667
+ni,mulle real,Mulle Real,18,,12.25,-84.3
+ni,muralla,Muralla,10,,11.9166667,-86.3833333
+ni,murra,Murra,13,,13.7666667,-86.0166667
+ni,murubila,Murubila,17,,14.4333333,-84.4833333
+ni,muy muy,Muy Muy,12,,12.7666667,-85.6333333
+ni,muy muy viejo,Muy Muy Viejo,12,,12.9833333,-85.2166667
+ni,nacascola,Nacascola,08,,13.0,-86.4833333
+ni,nacascolo,Nacascolo,08,,13.0,-86.4833333
+ni,nacascolo,Nacascolo,15,,11.5666667,-85.85
+ni,nadayosi,Nadayosi,10,,12.1166667,-86.5166667
+ni,nagarote,Nagarote,08,35438,12.2675,-86.5652778
+ni,nagorote,Nagorote,08,,12.2675,-86.5652778
+ni,nancemi,Nancemi,15,,11.4666667,-85.9666667
+ni,nancimi,Nancimí,15,,11.4666667,-85.9666667
+ni,nancite dulce,Nancite Dulce,02,,11.7666667,-86.15
+ni,nancite dulce,Nancite Dulce,15,,11.3666667,-85.8166667
+ni,nandaime,Nandaime,06,18832,11.75,-86.05
+ni,nandaime,Nandaime,15,,11.2666667,-85.8666667
+ni,nandarola,Nandarola,06,,11.6833333,-86.0333333
+ni,nandasma,Nandasma,11,,11.9333333,-86.1166667
+ni,nandasmo,Nandasmo,11,6417,11.9333333,-86.1166667
+ni,nandayosi,Nandayosi,10,,12.1166667,-86.5166667
+ni,naranja,Naranja,15,,11.0833333,-85.7166667
+ni,naranjo,Naranjo,10,,12.6166667,-86.2333333
+ni,naranjo,Naranjo,12,,12.9166667,-85.8166667
+ni,naranjo,Naranjo,15,,11.0833333,-85.7166667
+ni,naranjo pass,Naranjo Pass,12,,12.9166667,-85.8166667
+ni,nasma almuk,Nasma Almuk,17,,14.6333333,-84.5333333
+ni,nauawas,Nauawás,18,,12.5666667,-84.7333333
+ni,navarette,Navarette,02,,11.8,-86.4666667
+ni,navarretes,Navarretés,02,,11.8,-86.4666667
+ni,nawawas,Nawawas,18,,12.5666667,-84.7333333
+ni,neblina,Neblina,17,,14.95,-83.5333333
+ni,nicaragua,Nicaragua,15,,11.4333333,-85.8333333
+ni,nihrtara,Nihrtara,17,,14.45,-83.3166667
+ni,nina yari,Nina Yari,17,,14.4666667,-83.2833333
+ni,ninayeri,Ninayeri,17,,14.4666667,-83.2833333
+ni,nindiri,Nindirí,11,10496,12.0047222,-86.1194444
+ni,niqui,Niqui,11,,11.9,-86.1
+ni,niquinohomo,Niquinohomo,11,7262,11.9,-86.1
+ni,niquinomo,Niquinomo,11,,11.9,-86.1
+ni,nombre de jesus,Nombre de Jesús,12,,12.5833333,-85.95
+ni,novios,Novios,10,,12.3333333,-86.05
+ni,nubes,Nubes,11,,12.0166667,-86.2833333
+ni,nueva guinea,Nueva Guinea,18,46630,11.6833333,-84.45
+ni,nuevo amanecer,Nuevo Amanecer,18,,12.8166667,-84.2
+ni,obraje,Obraje,03,,12.8,-86.9666667
+ni,obraje,Obraje,08,,12.45,-86.6166667
+ni,obregones,Obregones,12,,12.7666667,-85.7833333
+ni,obregon,Obregón,06,,11.95,-85.95
+ni,ochomogo,Ochomogo,15,,11.6666667,-85.9833333
+ni,ococona,Ococona,13,,13.7333333,-86.6166667
+ni,ococono,Ococono,13,,13.7333333,-86.6166667
+ni,ocona,Ocona,13,,13.7333333,-86.6166667
+ni,ocotal,Ocotal,08,,12.8833333,-86.4666667
+ni,ocotal,Ocotal,13,39199,13.6333333,-86.4833333
+ni,ocote de abajo,Ocote de Abajo,12,,12.75,-85.8666667
+ni,ocotillo,Ocotillo,08,,12.7666667,-86.35
+ni,ocoton,Ocotón,08,,12.6833333,-86.8166667
+ni,oculi,Oculí,07,,14.1666667,-85.2666667
+ni,ojoche,Ojoche,08,,12.6166667,-86.6833333
+ni,olama,Olama,12,,12.7166667,-85.55
+ni,olanceri,Olanceri,17,,14.2166667,-83.5166667
+ni,olankeri,Olankeri,17,,14.2166667,-83.5166667
+ni,olimpo,Olimpo,10,,11.95,-86.3833333
+ni,olomega,Olomega,08,,12.7166667,-86.8666667
+ni,omar torrijos,Omar Torrijos,08,,12.2752778,-86.8425
+ni,orange,Orange,17,,14.8833333,-83.6333333
+ni,orilla,Orilla,06,,11.7833333,-86.05
+ni,orinoco,Orinoco,18,,12.55,-83.7166667
+ni,orosi,Orosí,15,,11.15,-85.35
+ni,oscotal,Oscotal,10,,12.3166667,-85.9666667
+ni,ostinal,Ostinal,15,,11.1166667,-85.7666667
+ni,ostional,Ostional,15,,11.1166667,-85.7666667
+ni,ostocal,Ostocal,10,,12.3166667,-85.9666667
+ni,oyate,Oyate,13,,13.4833333,-86.7333333
+ni,oyote,Oyote,13,,13.4833333,-86.7333333
+ni,oyoto,Oyoto,13,,13.4833333,-86.7333333
+ni,pacaya,Pacaya,11,,11.95,-86.3
+ni,pacayita,Pacayita,11,,11.95,-86.0833333
+ni,pacora,Pacora,10,,12.4666667,-86.2
+ni,pahara,Páhara,17,,14.3833333,-83.3
+ni,paigua,Paigua,18,,12.8,-85.1333333
+ni,paiguas,Paiguás,18,,12.8,-85.1333333
+ni,paiwas,Paiwás,12,,12.85,-85.2333333
+ni,paiwas,Paiwas,18,,12.8,-85.1333333
+ni,paiwitas,Paiwitas,12,,12.8833333,-85.3166667
+ni,palacaguina,Palacagüina,09,,13.45,-86.4
+ni,palermo,Palermo,03,,12.7833333,-87.3
+ni,palermo,Palermo,08,,12.3833333,-86.9833333
+ni,palestina,Palestina,03,,12.5666667,-87.0666667
+ni,palmera,Palmera,17,,13.6,-84.35
+ni,palmero,Palmero,08,,12.3833333,-86.9833333
+ni,palmira,Palmira,04,,12.4,-85.0166667
+ni,palmira,Palmira,10,,12.0166667,-86.2666667
+ni,palmira,Palmira,18,,12.8666667,-84.1833333
+ni,palo alto,Palo Alto,11,,11.95,-86.1833333
+ni,palo alto,Palo Alto,12,,12.7166667,-85.6
+ni,palo blanco,Palo Blanco,08,,12.9,-86.4
+ni,palo bonito,Palo Bonito,06,,12.1,-85.8333333
+ni,palo grande,Palo Grande,03,,12.9833333,-87.0166667
+ni,palo negro,Palo Negro,12,,12.7833333,-85.95
+ni,palos negros,Palos Negros,15,,11.45,-85.85
+ni,palo verde,Palo Verde,14,,11.5166667,-84.85
+ni,paloyumpa,Paloyumpa,17,,14.6666667,-84.4
+ni,palsagua,Palsagua,18,,12.8166667,-84.9833333
+ni,palvon,Palvon,08,,12.45,-87.05
+ni,panama,Panamá,02,,11.8,-86.2
+ni,panama,Panamá,10,,12.1666667,-86.1
+ni,panamerican,Panamérican,18,,13.15,-84.1
+ni,pancasan,Pancasán,12,,12.9333333,-85.5666667
+ni,paneloya,Paneloya,08,,12.3666667,-87.0333333
+ni,panka dakura,Panka Dákura,07,,14.3,-85.1666667
+ni,pankawas,Pankawás,07,,14.2833333,-85.25
+ni,pansaca,Pansaca,15,,11.5,-85.9833333
+ni,pansuaca,Pansuaca,15,,11.5,-85.9833333
+ni,paraiso,Paraíso,10,,12.1333333,-86.1166667
+ni,paredones,Paredones,03,,12.55,-87.2333333
+ni,pasocaballos,Pasocaballos,03,,12.5166667,-87.2
+ni,paso de carreta,Paso de Carreta,12,,12.8666667,-86.15
+ni,paso de lajas,Paso de Lajas,04,,12.1333333,-85.35
+ni,paso de panaloya,Paso de Panaloya,06,,12.1166667,-85.8833333
+ni,paso hondo,Paso Hondo,01,,12.5166667,-85.8166667
+ni,paso hondo,Paso Hondo,03,,12.4666667,-87.0666667
+ni,paso la solera,Paso La Solera,02,,11.6333333,-86.2
+ni,paso panaloya,Paso Panaloya,06,,12.1166667,-85.8833333
+ni,paso picado,Paso Picado,08,,12.7,-86.8166667
+ni,paso real de cua,Paso Real de Cuá,07,,13.3666667,-85.6833333
+ni,paso real de la guardia,Paso Real de la Guardia,12,,12.8,-85.5166667
+ni,paso real del cua,Paso Real del Cuá,07,,13.3666667,-85.6833333
+ni,paso real de ochomogo,Paso Real de Ochomogo,15,,11.6666667,-85.9833333
+ni,paso real de ochomo,Paso Real de Ochomo,15,,11.6666667,-85.9833333
+ni,paso real,Paso Real,12,,12.8,-85.5166667
+ni,paso real,Paso Real,15,,11.6666667,-85.9833333
+ni,passaya,Passaya,11,,11.95,-86.3
+ni,pauta dimon,Pauta Dimon,18,,12.9333333,-83.7333333
+ni,paxila,Paxila,12,,13.0,-85.9333333
+ni,payacuca,Payacuca,12,,12.7833333,-85.95
+ni,paz central,Paz Central,08,,12.34,-86.6752778
+ni,paz,Paz,02,,11.8166667,-86.1333333
+ni,paz vieja,Paz Vieja,08,,12.35,-86.7
+ni,pecaya,Pecaya,11,,11.95,-86.3
+ni,pedernal,Pedernal,14,,11.4333333,-84.9333333
+ni,pedro de laya,Pedro de Laya,04,,12.1333333,-85.1166667
+ni,pedro del norte,Pedro del Norte,17,,13.05,-84.7333333
+ni,pena blanca,Peña Blanca,15,,11.2166667,-85.6166667
+ni,penas blancas,Peñas Blancas,01,,12.7,-85.1
+ni,penas blancas,Peñas Blancas,15,,11.2166667,-85.6166667
+ni,penjamon,Penjamõn,08,,12.35,-86.8166667
+ni,peor es nada,Peor Es Nada,10,,12.0166667,-86.5833333
+ni,perales,Perales,08,,12.9166667,-86.5166667
+ni,perla,Perla,18,,12.35,-83.6666667
+ni,perlas,Perlas,18,,12.35,-83.6666667
+ni,peroles,Peroles,08,,12.9166667,-86.5166667
+ni,petacaltepe,Petacaltepe,03,,12.7,-87.3833333
+ni,picacho,Picacho,08,,12.8333333,-86.4166667
+ni,pica pica,Pica Pica,15,,11.6166667,-85.95
+ni,piedra colorada,Piedra Colorada,12,,12.8333333,-85.8833333
+ni,piedra colorado,Piedra Colorado,12,,12.8333333,-85.8833333
+ni,piedra de agua,Piedra de Agua,12,,12.9666667,-85.95
+ni,piedra larga,Piedra Larga,12,,12.7,-85.8333333
+ni,pijibaye,Pijibaye,18,,11.4666667,-83.8833333
+ni,pijibay,Pijibay,18,,12.1333333,-84.3333333
+ni,pilas,Pilas,10,,11.9666667,-86.4166667
+ni,pilpilia,Pilpilia,17,,14.6333333,-84.55
+ni,pineda,Pineda,12,,12.7333333,-85.7333333
+ni,pintada,Pintada,05,,13.0833333,-86.4
+ni,pintades,Pintades,05,,13.0833333,-86.4
+ni,pio xii,Pío XII,11,,11.9,-86.1166667
+ni,pioxil,Píoxil,11,,11.9,-86.1166667
+ni,pioxll,Píoxll,11,,11.9,-86.1166667
+ni,pipilwas,Pipilwas,18,,12.9166667,-84.85
+ni,pisbayarv,Pisbayarv,17,,13.4833333,-84.1666667
+ni,pispayeri,Pispayeri,17,,13.4833333,-84.1666667
+ni,pital,Pital,05,,13.0666667,-86.45
+ni,pital,Pital,06,,11.7333333,-86.0
+ni,pita,Pita,12,,12.7833333,-85.95
+ni,plan grande,Plan Grande,13,,13.7833333,-86.55
+ni,plankira,Plankira,17,,14.9833333,-83.45
+ni,plano grande,Plano Grande,13,,13.7833333,-86.55
+ni,planta electra,Planta Electra,04,,12.4,-84.8833333
+ni,planta electrica,Planta Electrica,04,,12.4,-84.8833333
+ni,platanar,Platanar,08,,12.4833333,-86.8833333
+ni,playa grande,Playa Grande,03,,12.8833333,-87.2833333
+ni,playa grande,Playa Grande,08,,12.2166667,-86.7333333
+ni,playitas,Playitas,10,,12.5666667,-86.0333333
+ni,plazuela,Plazuela,09,,13.45,-86.3333333
+ni,plis,Plis,07,,14.15,-85.4333333
+ni,pochomil,Pochomil,02,,11.7666667,-86.5
+ni,polsagua,Polsagua,18,,12.8166667,-84.9833333
+ni,polvon,Polvón,08,,12.45,-87.05
+ni,poneloya,Poneloya,08,,12.3666667,-87.0333333
+ni,popoyuapa,Popoyuapa,15,,11.45,-85.8333333
+ni,portalupi,Portalupi,17,,14.6166667,-84.4666667
+ni,portilla,Portilla,11,,12.0833333,-86.15
+ni,portillo del jicaro,Portillo del Jícaro,12,,12.8833333,-85.65
+ni,portillo,Portillo,11,,12.0833333,-86.15
+ni,portobanco,Portobanco,08,,12.75,-86.6166667
+ni,portugal,Portugal,15,,11.0833333,-85.25
+ni,posoletega,Posoletega,03,,12.5430556,-86.9788889
+ni,posoltega,Posoltega,03,,12.5430556,-86.9788889
+ni,potosi,Potosí,03,,13.0058333,-87.5027778
+ni,potosi,Potosí,15,,11.5,-85.8833333
+ni,potrerillo,Potrerillo,05,,13.3166667,-86.4666667
+ni,potrerillos,Potrerillos,01,,12.3666667,-85.8
+ni,potrerillos,Potrerillos,05,,13.3166667,-86.4666667
+ni,potrerillos,Potrerillos,15,,11.45,-85.4666667
+ni,potrerios,Potrerios,05,,13.3166667,-86.4666667
+ni,potrero grande,Potrero Grande,04,,11.9833333,-85.4333333
+ni,potrero grande,Potrero Grande,08,,13.0,-86.4
+ni,potrero grande,Potrero Grande,12,,12.95,-86.1666667
+ni,potrero,Potrero,09,,13.45,-86.7
+ni,potter,Potter,07,,13.0666667,-85.9166667
+ni,poyas,Poyas,03,,13.0333333,-86.9166667
+ni,poza azul,Poza Azul,15,,11.5166667,-85.9333333
+ni,poza redonda,Poza Redonda,18,,12.4833333,-84.5333333
+ni,presillitas,Presillitas,18,,12.15,-84.4166667
+ni,principulco,Principulco,17,,13.4,-83.5666667
+ni,prinzapolca,Prinzapolca,17,,13.4,-83.5666667
+ni,prinzapolka,Prinzapolka,10,,12.15,-86.35
+ni,prinzapolka,Prinzapolka,17,,13.4,-83.5666667
+ni,progreso,Progreso,08,,12.5666667,-86.7166667
+ni,providence,Providence,18,,12.1166667,-84.1166667
+ni,providencia,Providencia,18,,12.1166667,-84.1166667
+ni,pueblo la sabana,Pueblo La Sabana,09,,13.35,-86.6166667
+ni,pueblo nuevo,Pueblo Nuevo,05,,13.3833333,-86.4833333
+ni,pueblo nuevo,Pueblo Nuevo,07,,13.1833333,-85.9166667
+ni,pueblo nuevo,Pueblo Nuevo,15,,11.1333333,-85.6833333
+ni,pueblo nuevo,Pueblo Nuevo,18,,12.9,-83.6
+ni,puente,Puente,06,,11.8833333,-86.0
+ni,puente real,Puente Real,03,,12.7894444,-86.945
+ni,puerta negra,Puerta Negra,02,,11.8833333,-86.1666667
+ni,puertas de paris,Puertas de París,04,,12.1333333,-85.1666667
+ni,puertas viejas,Puertas Viejas,12,,12.6013889,-86.0427778
+ni,puerto arturo,Puerto Arturo,03,,12.85,-87.5
+ni,puerto cabezas,Puerto Cabezas,17,31050,14.0333333,-83.3833333
+ni,puerto cabo gracias a dios,Puerto Cabo Gracias a Dios,17,,14.9833333,-83.1666667
+ni,puerto de bocay,Puerto de Bocay,07,,14.3166667,-85.1666667
+ni,puerto de esparta,Puerto de Esparta,03,,12.5166667,-87.1333333
+ni,puerto diaz,Puerto Díaz,04,,11.9666667,-85.5166667
+ni,puerto el barquito,Puerto el Barquito,03,,12.4666667,-87.1166667
+ni,puerto el tamarindo,Puerto El Tamarindo,08,,12.1994444,-86.7630556
+ni,puerto esparta,Puerto Esparta,03,,12.5166667,-87.1333333
+ni,puerto isabel,Puerto Isabel,17,,13.3666667,-83.5666667
+ni,puerto limon,Puerto Limón,03,,12.4833333,-87.1166667
+ni,puerto masachapa,Puerto Masachapa,10,,11.7833333,-86.5166667
+ni,puerto momotombo,Puerto Momotombo,08,,12.4055556,-86.6116667
+ni,puerto morazan,Puerto Morazán,03,5769,12.85,-87.1833333
+ni,puerto morrito,Puerto Morrito,14,,11.6166667,-85.0833333
+ni,puerto nuevo,Puerto Nuevo,10,,12.5,-86.2833333
+ni,puerto sandino,Puerto Sandino,08,,12.1994444,-86.7630556
+ni,puerto somoza,Puerto Somoza,08,,12.1994444,-86.7630556
+ni,puerto somoza,Puerto Somoza,10,,11.7833333,-86.5166667
+ni,puerto viejo,Puerto Viejo,17,,13.5166667,-85.25
+ni,puerto zapote,Puerto Zapote,03,,12.5666667,-87.3
+ni,punta de suela,Punta de Suela,04,,11.9666667,-85.1833333
+ni,punta gorda,Punta Gorda,15,,11.4833333,-85.4833333
+ni,punta gorda,Punta Gorda,18,,11.5166667,-83.7833333
+ni,puntali,Puntali,13,,13.8166667,-86.1833333
+ni,puntalitos,Puntalitos,13,,13.8166667,-86.1833333
+ni,punta marshall,Punta Marshall,18,,12.5666667,-83.7
+ni,punta nata,Punta Ñata,03,,12.9,-87.6333333
+ni,puntezuela,Puntezuela,04,,11.9666667,-85.1833333
+ni,quaquel,Quaquel,17,,14.2166667,-83.5166667
+ni,quebrada arriba,Quebrada Arriba,07,,13.2833333,-86.2166667
+ni,quebrada honda,Quebrada Honda,10,,12.3588889,-86.0502778
+ni,quebrada honda,Quebrada Honda,12,,12.8166667,-86.1833333
+ni,quebrada,Quebrada,07,,13.2833333,-86.2166667
+ni,quebrada,Quebrada,12,,12.9127778,-86.0258333
+ni,quebrada seca,Quebrada Seca,08,,12.45,-86.9666667
+ni,quebrado,Quebrado,07,,13.2833333,-86.2166667
+ni,quesalguaque,Quesalguaque,08,,12.5061111,-86.9033333
+ni,quesera playa grande,Quesera Playa Grande,03,,12.8833333,-87.2833333
+ni,quezalguaque,Quezalguaque,08,,12.5061111,-86.9033333
+ni,quibuto,Quibuto,09,,13.4833333,-86.2
+ni,quiguastara,Quiguastara,17,,14.8833333,-83.7
+ni,quihuastara,Quihuastara,17,,14.8833333,-83.7
+ni,quilali,Quilalí,13,12211,13.5666667,-86.0333333
+ni,quimichapa,Quimichapa,04,,11.8166667,-84.9333333
+ni,quinama,Quinama,04,,12.0,-84.9333333
+ni,quintana,Quintana,04,,11.9666667,-85.3333333
+ni,quisalaya,Quisalaya,17,,14.7333333,-84.0166667
+ni,quisuli,Quisulí,13,,13.6666667,-86.4333333
+ni,raitapura,Raitapura,18,,12.3333333,-83.6833333
+ni,raitipura,Raitipura,18,,12.3333333,-83.6833333
+ni,raiti,Raití,07,,14.5833333,-85.0333333
+ni,rama cay,Rama Cay,18,,11.8833333,-83.8
+ni,rama,Rama,18,,12.15,-84.2166667
+ni,ranas,Ranas,10,,12.6,-86.2333333
+ni,rancherias,Rancherías,08,,12.7,-86.5666667
+ni,rancherias,Rancherías,12,,12.7833333,-85.5333333
+ni,rayapura,Rayapura,17,,14.8666667,-83.6833333
+ni,raya tara,Raya Tara,17,,14.8666667,-83.6833333
+ni,realejo,Realejo,03,,12.5333333,-87.1666667
+ni,recreo,Recreo,18,,12.1666667,-84.3166667
+ni,rejoya,Rejoya,01,,12.3166667,-85.7166667
+ni,rinconada,Rinconada,05,,13.2,-86.2333333
+ni,rincon escondido,Rincón Escondido,08,,12.8833333,-86.6333333
+ni,rio abajo,Río Abajo,05,,13.3666667,-86.45
+ni,rio blanco,Río Blanco,12,12311,12.9333333,-85.2166667
+ni,rio escondido,Río Escondido,03,,12.7833333,-87.0833333
+ni,rio grande,Río Grande,06,,11.8833333,-85.9833333
+ni,rio grande,Río Grande,08,,12.4922222,-86.3575
+ni,rio grande,Río Grande,15,,11.4,-85.9
+ni,rio grande,Río Grande,18,,12.9,-83.5333333
+ni,rio negro,Río Negro,01,,12.55,-85.4
+ni,rio nuevo,Río Nuevo,12,,12.85,-86.1166667
+ni,rio seco,Río Seco,02,,11.8,-86.2666667
+ni,rio wawa,Río Wawa,17,,13.8833333,-83.4666667
+ni,riska,Riska,17,,15.0,-83.35
+ni,rivas,Rivas,15,26046,11.4333333,-85.8333333
+ni,robles,Robles,07,,13.1666667,-85.95
+ni,rocky point,Rocky Point,18,,12.3333333,-83.6833333
+ni,rodeo grande,Rodeo Grande,03,,13.1333333,-86.7833333
+ni,rodeo grande,Rodeo Grande,05,,13.1333333,-86.45
+ni,rodeo,Rodeo,05,,13.2333333,-86.2833333
+ni,rosario,Rosario,02,,11.8333333,-86.1666667
+ni,rosario,Rosario,03,,13.0447222,-87.5877778
+ni,rosario,Rosario,10,,12.4833333,-86.15
+ni,rosario,Rosario,15,,11.4666667,-85.8666667
+ni,roscilapin,Roscilapin,18,,13.2,-84.0833333
+ni,rosita,Rosita,17,8151,13.8833333,-84.4
+ni,roskaya,Roskaya,17,,14.9833333,-83.5166667
+ni,rostilapin,Rostilapin,18,,13.2,-84.0833333
+ni,rota,Rota,08,,12.5333333,-86.7166667
+ni,sabadilla,Sabadilla,12,,12.8666667,-85.55
+ni,sabalo,Sábalo,15,,11.1833333,-85.4666667
+ni,sabalos,Sábalos,15,,11.1833333,-85.4666667
+ni,sabana grande,Sabana Grande,03,,12.7166667,-87.1
+ni,sabana grande,Sabana Grande,05,,13.35,-86.55
+ni,sabana grande,Sabana Grande,07,,13.2,-86.1
+ni,sabana grande,Sabana Grande,08,,12.5,-86.6
+ni,sabana grande,Sabana Grande,10,,12.1222222,-86.165
+ni,sabana grande,Sabana Grande,12,,12.8666667,-85.7
+ni,sabana grande,Sabana Grande,13,,13.7,-86.15
+ni,sabana larga,Sabana Larga,13,,13.7333333,-86.1166667
+ni,sabana largo,Sabana Largo,13,,13.7333333,-86.1166667
+ni,sabanas,Sabanas,09,,13.35,-86.6166667
+ni,sacalis,Sacalis,07,,13.0833333,-86.1
+ni,saclin,Saclín,17,,14.7666667,-83.85
+ni,sacramento,Sacramento,15,,11.4833333,-85.6833333
+ni,sagua,Sagua,01,,12.5166667,-85.65
+ni,sagua,Sagua,17,,14.9166667,-83.5666667
+ni,saguatepe,Saguatepe,01,,12.5166667,-85.65
+ni,sahua leven,Sahua Leven,17,,14.9166667,-83.5666667
+ni,sainica,Sainica,17,,14.8833333,-83.6166667
+ni,saiz,Saíz,12,,12.75,-85.3166667
+ni,saklin,Saklin,17,,14.7666667,-83.85
+ni,salale,Salale,08,,12.9338889,-86.4627778
+ni,salamina,Salamina,10,,11.9833333,-86.65
+ni,salinas grande,Salinas Grande,08,,12.25,-86.8666667
+ni,salinas grandes,Salinas Grandes,08,,12.25,-86.8666667
+ni,salinas,Salinas,15,,11.4666667,-86.1333333
+ni,salitre,Salitre,08,,12.9166667,-86.5333333
+ni,salonica,Salónica,12,,12.6833333,-85.6166667
+ni,salonicas,Salónicas,12,,12.6833333,-85.6166667
+ni,salto grande,Salto Grande,18,,12.0666667,-84.6
+ni,salto,Salto,10,,11.8666667,-86.4166667
+ni,salvador,Salvador,03,,12.7166667,-87.3333333
+ni,samalali,Samalali,12,,12.8666667,-85.8666667
+ni,samaria,Samaria,10,,11.9833333,-86.55
+ni,samulali,Samulali,12,,12.8666667,-85.8666667
+ni,san agustin,San Agustín,01,,12.35,-85.9
+ni,san agustin,San Agustín,04,,11.85,-85.3333333
+ni,san agustin,San Agustín,08,,12.55,-86.4833333
+ni,san albino,San Albino,13,,13.7,-86.1
+ni,san alejandro,San Alejandro,11,,12.1277778,-86.0644444
+ni,san andres,San Andrés,01,,12.55,-85.5666667
+ni,san andres,San Andrés,09,,13.45,-86.2833333
+ni,san andres,San Andrés,10,,12.1666667,-86.4
+ni,san andres,San Andrés,12,,12.8166667,-86.2333333
+ni,san antonio de arriba,San Antonio de Arriba,02,,11.85,-86.2666667
+ni,san antonio de las cuchillas,San Antonio de Las Cuchillas,07,,13.2666667,-85.8333333
+ni,san antonio del bosque,San Antonio del Bosque,03,,12.5666667,-86.9666667
+ni,san antonio del condadillo,San Antonio del Condadillo,08,,12.75,-86.45
+ni,san antonio,San Antonio,01,,12.4833333,-85.15
+ni,san antonio,San Antonio,02,,11.6,-86.25
+ni,san antonio,San Antonio,03,,12.5333333,-87.05
+ni,san antonio,San Antonio,04,,11.95,-85.2166667
+ni,san antonio,San Antonio,06,,11.7666667,-86.0666667
+ni,san antonio,San Antonio,07,,13.25,-85.8333333
+ni,san antonio,San Antonio,08,,12.3,-86.8166667
+ni,san antonio,San Antonio,09,,13.4666667,-86.5333333
+ni,san antonio,San Antonio,10,,12.05,-86.2666667
+ni,san antonio,San Antonio,15,,11.15,-85.7166667
+ni,san antonio,San Antonio,17,,13.3166667,-84.45
+ni,san antonio,San Antonio,18,,12.0666667,-83.8333333
+ni,san bartolo,San Bartolo,04,,12.1,-85.2166667
+ni,san bartolo,San Bartolo,10,,11.9,-86.5166667
+ni,san bartolo,San Bartolo,13,,13.5333333,-85.9166667
+ni,san benito,San Benito,03,,12.55,-87.0333333
+ni,san benito,San Benito,10,,12.3166667,-86.0666667
+ni,san bernabe,San Bernabé,11,,12.1833333,-86.0
+ni,san blas,San Blas,06,,11.9833333,-85.9833333
+ni,san blas,San Blas,10,,12.4813889,-86.0516667
+ni,san blas,San Blas,18,,12.2166667,-84.0333333
+ni,san caralampio,San Caralampio,06,,11.7666667,-86.1
+ni,san caralimpio,San Caralimpio,06,,11.8,-86.0333333
+ni,san carlos de rio coco,San Carlos de Río Coco,17,,14.6666667,-84.7
+ni,san carlos,San Carlos,08,,12.5333333,-86.55
+ni,san carlos,San Carlos,14,12931,11.1166667,-84.7833333
+ni,san carlos,San Carlos,17,,14.6666667,-84.7
+ni,san cayetano,San Cayetano,03,,12.7666667,-87.3833333
+ni,san cayetano,San Cayetano,08,,12.9166667,-86.55
+ni,san cayetano,San Cayetano,10,,11.9166667,-86.5166667
+ni,sanchez,Sánchez,15,,11.4833333,-85.95
+ni,san claudio,San Claudio,08,,12.6166667,-86.5333333
+ni,san clemente,San Clemente,08,,12.25,-86.6333333
+ni,san coyotano,San Coyotano,10,,11.9166667,-86.5166667
+ni,san cristobal,San Cristóbal,02,,11.8666667,-86.4
+ni,san cristobal,San Cristóbal,08,,12.4166667,-86.8
+ni,san cristobal,San Cristóbal,10,,12.15,-86.15
+ni,san cristobal,San Cristóbal,12,,12.8058333,-86.0347222
+ni,san diego,San Diego,01,,12.4833333,-85.8
+ni,san diego,San Diego,05,,13.3833333,-86.3666667
+ni,sandino,Sandino,08,,12.1994444,-86.7630556
+ni,san dionisio,San Dionisio,12,,12.75,-85.85
+ni,san dionisio,San Dionisio,18,,12.0833333,-84.2333333
+ni,san domingo,San Domingo,01,,12.4833333,-85.75
+ni,sandy bay sirpi,Sandy Bay Sirpi,18,,12.9666667,-83.5333333
+ni,san eduardo,San Eduardo,03,,13.0,-86.8
+ni,san emilio,San Emilio,10,,12.3,-86.0333333
+ni,san emilio,San Emilio,15,,11.5166667,-85.8666667
+ni,san ernesto,San Ernesto,10,,12.0833333,-86.2833333
+ni,san esquipula,San Esquipula,17,,14.6666667,-84.65
+ni,san esteban,San Esteban,04,,12.1333333,-85.4666667
+ni,san esteban,San Esteban,07,,13.2,-85.9166667
+ni,san esteban,San Esteban,12,,12.7166667,-86.2333333
+ni,san felipe,San Felipe,04,,11.85,-85.1666667
+ni,san felipe,San Felipe,06,,11.7833333,-86.05
+ni,san fernando,San Fernando,03,,12.5666667,-87.2166667
+ni,san fernando,San Fernando,06,,11.75,-85.8666667
+ni,san fernando,San Fernando,13,,13.6833333,-86.3166667
+ni,san francisco de cuaginiquilapa,San Francisco de Cuaginiquilapa,03,,13.2,-86.7666667
+ni,san francisco de cuajiniquilapa,San Francisco de Cuajiniquilapa,03,,13.2,-86.7666667
+ni,san francisco de guaniquilapa,San Francisco de Guaniquilapa,03,,13.2,-86.7666667
+ni,san francisco de la union,San Francisco de La Unión,02,,11.7833333,-86.15
+ni,san francisco del carnerico,San Francisco del Carnerico,10,,12.5047222,-86.3002778
+ni,san francisco del carnicero,San Francisco del Carnicero,10,,12.5047222,-86.3002778
+ni,san francisco del norte,San Francisco del Norte,03,,13.2,-86.7666667
+ni,san francisco del penon,San Francisco del Peñón,10,,12.4166667,-86.0333333
+ni,san francisco de quajiniquilapa,San Francisco de Quajiniquilapa,03,,13.2,-86.7666667
+ni,san francisco libre,San Francisco Libre,10,,12.5047222,-86.3002778
+ni,san francisco,San Francisco,01,,12.3,-85.65
+ni,san francisco,San Francisco,02,,11.75,-86.1666667
+ni,san francisco,San Francisco,03,,12.8166667,-87.45
+ni,san francisco,San Francisco,08,,12.55,-86.85
+ni,san francisco,San Francisco,09,,13.5833333,-86.2833333
+ni,san francisco,San Francisco,10,,12.0333333,-86.3
+ni,san francisco,San Francisco,12,,12.95,-85.8666667
+ni,san francisco,San Francisco,15,,11.6,-85.95
+ni,san francisco,San Francisco,18,,13.0833333,-84.2833333
+ni,san gabriel,San Gabriel,07,,13.15,-86.0666667
+ni,san gabriel,San Gabriel,08,,12.3,-86.65
+ni,san geronimo,San Geronimo,12,,12.7833333,-85.7
+ni,san gregorio de las canas,San Gregorio de Las Cañas,02,,11.8333333,-86.3
+ni,san gregorio,San Gregorio,01,,12.3333333,-85.5166667
+ni,san gregorio,San Gregorio,04,,12.2833333,-85.0833333
+ni,san gregorio,San Gregorio,10,,12.3833333,-86.05
+ni,sang sang,Sang Sang,17,,14.6333333,-84.65
+ni,san ignacio,San Ignacio,03,,12.7666667,-87.1666667
+ni,san ignacio,San Ignacio,06,,11.9166667,-86.0
+ni,san ignacio,San Ignacio,11,,11.95,-86.2166667
+ni,san ignacio,San Ignacio,15,,11.5166667,-86.1
+ni,san ildefonso,San Ildefonso,10,,12.25,-86.0833333
+ni,san isidro,San Isidro,01,6366,12.55,-85.4833333
+ni,san isidro,San Isidro,02,,11.6833333,-86.3
+ni,san isidro,San Isidro,03,,12.55,-87.1666667
+ni,san isidro,San Isidro,06,,12.2,-85.95
+ni,san isidro,San Isidro,08,,12.4333333,-86.8
+ni,san isidro,San Isidro,10,,12.2166667,-86.3
+ni,san isidro,San Isidro,12,,12.9319444,-86.1952778
+ni,san isidro,San Isidro,15,,11.6166667,-86.0
+ni,san isidro,San Isidro,18,,12.3166667,-84.3333333
+ni,san jacinto,San Jacinto,06,,11.65,-86.0666667
+ni,san jacinto,San Jacinto,08,,12.575,-86.7797222
+ni,san jacinto,San Jacinto,10,,12.3397222,-86.0227778
+ni,san jeronimo,San Jerónimo,03,,12.65,-87.2166667
+ni,san jeronimo,San Jerónimo,04,,11.85,-85.2166667
+ni,san jeronimo,San Jerónimo,11,,11.9333333,-86.2166667
+ni,san jeronimo,San Jerónimo,12,,12.7833333,-85.7
+ni,san jeronimo,San Jerónimo,15,,11.3833333,-85.9166667
+ni,san jeronimo,San Jerónimo,17,,14.7,-84.2
+ni,san jeronimo,San Jerónimo,18,,11.95,-84.25
+ni,san joaquin,San Joaquín,06,,11.8166667,-85.9833333
+ni,san joaquin,San Joaquín,08,,12.0666667,-86.6666667
+ni,san joaquin,San Joaquín,15,,11.5166667,-85.8666667
+ni,san jorge,San Jorge,10,,12.0166667,-86.2166667
+ni,san jorge,San Jorge,15,7001,11.45,-85.8
+ni,san josecito,San Josecito,03,,12.5833333,-87.2
+ni,san jose de achuapa,San José de Achuapa,08,,13.05,-86.5833333
+ni,san jose de agua fria,San José de Agua Fría,03,,12.7666667,-87.2833333
+ni,san jose de amucayan,San José de Amucayán,09,,13.5666667,-86.35
+ni,san jose de bocay,San José de Bocay,07,,13.5333333,-85.5333333
+ni,san jose de cuasompa,San José de Cuasompa,03,,12.7166667,-87.1833333
+ni,san jose de cusmapa,San José de Cusmapa,09,,13.2833333,-86.65
+ni,san jose del cardon,San José del Cardón,10,,12.0,-86.3166667
+ni,san jose del mombacho,San José del Mombacho,06,,11.7833333,-85.9
+ni,san jose del obraje,San José del Obraje,03,,12.7972222,-86.9875
+ni,san jose de los remates,San José de los Remates,01,,12.6,-85.7666667
+ni,san jose del sur,San José del Sur,15,,11.4833333,-85.65
+ni,san jose de monte redondo,San José de Monte Redondo,02,,11.85,-86.15
+ni,san jose de paiwas,San José de Paiwas,18,,12.8,-85.1333333
+ni,san jose de tepano,San José de Tepano,02,,11.7,-86.3666667
+ni,san jose de torres,San José de Torres,01,,12.4166667,-85.6166667
+ni,san jose de umure,San José de Umure,12,,12.9930556,-86.0019444
+ni,san jose,San José,01,,12.4166667,-85.6166667
+ni,san jose,San José,02,,11.7166667,-86.35
+ni,san jose,San José,03,,12.5833333,-87.2
+ni,san jose,San José,04,,11.8833333,-85.3
+ni,san jose,San José,05,,13.2333333,-86.3
+ni,san jose,San José,08,,12.15,-86.75
+ni,san jose,San José,10,,12.0,-86.55
+ni,san jose,San José,11,,11.9833333,-86.2166667
+ni,san jose,San José,12,,12.7333333,-85.9333333
+ni,san jose,San José,13,,13.5833333,-86.7
+ni,san jose,San José,15,,11.4833333,-85.65
+ni,san jose,San José,18,,12.2166667,-84.2166667
+ni,san jose valque,San José Valque,15,,11.4833333,-85.5166667
+ni,san juancito,San Juancito,03,,12.6166667,-87.1166667
+ni,san juan de dios,San Juan de Dios,04,,11.8,-85.1666667
+ni,san juan de la concepcion,San Juan de La Concepción,11,,11.95,-86.1833333
+ni,san juan de las pencas,San Juan de Las Pencas,03,,12.7666667,-86.9166667
+ni,san juan de limay,San Juan de Limay,05,,13.1666667,-86.6166667
+ni,san juan del norte,San Juan del Norte,14,,10.9166667,-83.7
+ni,san juan del rio coco,San Juan del Río Coco,09,,13.55,-86.1666667
+ni,san juan del sur,San Juan del Sur,15,6787,11.25,-85.8666667
+ni,san juan de murra,San Juan de Murra,13,,13.7666667,-86.0166667
+ni,san juan de oriente,San Juan de Oriente,11,,11.9,-86.0833333
+ni,san juan de rio coco,San Juan de Río Coco,09,,13.55,-86.1666667
+ni,san juan de telpaneca,San Juan de Telpaneca,09,,13.55,-86.1666667
+ni,san juanillo,San Juanillo,12,,12.7005556,-86.0544444
+ni,san juan,San Juan,01,,12.5166667,-85.6
+ni,san juan,San Juan,03,,12.7666667,-86.9166667
+ni,san juan,San Juan,06,,11.95,-85.9833333
+ni,san juan,San Juan,09,,13.5166667,-86.5333333
+ni,san juan,San Juan,10,,11.9166667,-86.6166667
+ni,san juan,San Juan,11,,11.95,-86.1833333
+ni,san juan,San Juan,13,,13.7666667,-86.0166667
+ni,san juan,San Juan,18,,12.1666667,-84.2
+ni,san juan viejo,San Juan Viejo,15,,11.5333333,-85.9666667
+ni,san julian,San Julián,08,,12.2666667,-86.5833333
+ni,san lazaro,San Lázaro,15,,11.4833333,-85.65
+ni,san lorenzo,San Lorenzo,01,6885,12.3833333,-85.6666667
+ni,san lorenzo,San Lorenzo,04,,12.1833333,-85.5666667
+ni,san lorenzo,San Lorenzo,08,,12.1166667,-86.6166667
+ni,san lorenzo,San Lorenzo,10,,11.8,-86.45
+ni,san lorenzo,San Lorenzo,15,,11.3,-85.9166667
+ni,san lucas,San Lucas,03,,12.7,-86.8833333
+ni,san lucas,San Lucas,04,,11.9666667,-85.1166667
+ni,san lucas,San Lucas,09,,13.4166667,-86.6
+ni,san luis,San Luis,03,,12.7833333,-86.6833333
+ni,san luis,San Luis,04,,11.9833333,-85.2
+ni,san luis,San Luis,06,,11.9666667,-86.0
+ni,san luis,San Luis,08,,12.2,-86.6
+ni,san luis,San Luis,10,,11.8833333,-86.5833333
+ni,san luis,San Luis,17,,14.75,-84.0833333
+ni,san manuel,San Manuel,04,,11.9,-85.4333333
+ni,san marco,San Marco,15,,11.6,-86.0166667
+ni,san marcos,San Marcos,02,19957,11.9166667,-86.2
+ni,san marcos,San Marcos,03,,12.85,-86.7
+ni,san marcos,San Marcos,07,,13.1333333,-86.1
+ni,san marcos,San Marcos,12,,12.8333333,-85.7
+ni,san marcos,San Marcos,15,,11.5833333,-85.65
+ni,san martin,San Martín,08,,12.7833333,-86.4833333
+ni,san martin,San Martín,10,,12.1791667,-86.0411111
+ni,san martin,San Martín,15,,11.35,-85.8
+ni,san martin,San Martín,18,,11.1,-83.9333333
+ni,san miguelito,San Miguelito,03,,12.7833333,-87.1333333
+ni,san miguelito,San Miguelito,08,,12.1833333,-86.5166667
+ni,san miguelito,San Miguelito,12,,12.7833333,-85.5833333
+ni,san miguelito,San Miguelito,14,4447,11.4,-84.9
+ni,san miguellito,San Miguellito,14,,11.4,-84.9
+ni,san miguel,San Miguel,02,,11.8666667,-86.3166667
+ni,san miguel,San Miguel,03,,12.5833333,-87.2666667
+ni,san miguel,San Miguel,06,,11.7166667,-85.8666667
+ni,san miguel,San Miguel,10,,12.15,-86.2166667
+ni,san miguel,San Miguel,15,,11.4666667,-85.8833333
+ni,san nicolas,San Nicolás,03,,12.9666667,-86.7666667
+ni,san nicolas,San Nicolás,08,,12.65,-86.6666667
+ni,san nicolas,San Nicolás,12,,12.6166667,-86.3
+ni,san nicolas,San Nicolás,18,,12.35,-84.55
+ni,sannilaya lakus,Sannilaya Lakus,17,,14.2666667,-83.6666667
+ni,san pablo,San Pablo,02,,11.8666667,-86.2333333
+ni,san pablo,San Pablo,03,,12.5333333,-86.9833333
+ni,san pablo,San Pablo,06,,11.9666667,-85.9833333
+ni,san pablo,San Pablo,10,,11.85,-86.4166667
+ni,san pablo,San Pablo,12,,12.8833333,-85.7666667
+ni,san pancho,San Pancho,04,,11.8,-85.2333333
+ni,san pancho,San Pancho,06,,11.6833333,-85.8666667
+ni,san patricia,San Patricia,08,,12.5166667,-86.9166667
+ni,san patricio,San Patricio,01,,12.2,-85.6166667
+ni,san pedro de buculmay,San Pedro de Buculmay,07,,13.1833333,-85.9166667
+ni,san pedro de lavajo,San Pedro de Lavajo,04,,12.1333333,-85.1166667
+ni,san pedro del norte,San Pedro del Norte,03,,13.2666667,-86.8833333
+ni,san pedro del norte,San Pedro del Norte,17,,13.05,-84.7333333
+ni,san pedro de lovago,San Pedro de Lóvago,04,,12.1333333,-85.1166667
+ni,san pedro de potrero grande,San Pedro de Potrero Grande,03,,13.2666667,-86.8833333
+ni,san pedro de potrero,San Pedro de Potrero,03,,13.2666667,-86.8833333
+ni,san pedro,San Pedro,02,,11.8333333,-86.1
+ni,san pedro,San Pedro,03,,12.7,-87.1
+ni,san pedro,San Pedro,04,,11.9166667,-85.35
+ni,san pedro,San Pedro,05,,13.1166667,-86.3333333
+ni,san pedro,San Pedro,08,,12.5333333,-86.7333333
+ni,san pedro,San Pedro,10,,11.7833333,-86.4666667
+ni,san pedro,San Pedro,12,,12.5547222,-86.0105556
+ni,san pedro,San Pedro,15,,11.4166667,-85.4833333
+ni,san rafael del norte,San Rafael del Norte,07,,13.2166667,-86.1166667
+ni,san rafael del sur,San Rafael del Sur,10,25184,11.85,-86.45
+ni,san rafaelito,San Rafaelito,10,,12.05,-86.5666667
+ni,san rafael,San Rafael,01,,12.65,-85.6166667
+ni,san rafael,San Rafael,03,,12.6833333,-87.25
+ni,san rafael,San Rafael,06,,11.6833333,-85.8666667
+ni,san rafael,San Rafael,08,,12.3,-86.8666667
+ni,san rafael,San Rafael,10,,11.85,-86.45
+ni,san rafael,San Rafael,12,,12.8666667,-85.5833333
+ni,san rafael,San Rafael,15,,11.4333333,-85.85
+ni,san ramon de la uva,San Ramón de la Uva,08,,12.8166667,-86.2833333
+ni,san ramon rancho,San Ramon Rancho,03,,12.95,-87.0
+ni,san ramon,San Ramón,03,,12.95,-87.0
+ni,san ramon,San Ramón,06,,12.2166667,-85.8833333
+ni,san ramon,San Ramón,08,,12.4166667,-86.7666667
+ni,san ramon,San Ramón,09,,13.4333333,-86.4666667
+ni,san ramon,San Ramón,11,,11.9666667,-86.3166667
+ni,san ramon,San Ramón,12,,12.9166667,-85.8333333
+ni,san ramon,San Ramón,15,,11.6833333,-85.9166667
+ni,san rita,San Rita,10,,12.0333333,-86.25
+ni,san roque,San Roque,08,,12.8166667,-86.3166667
+ni,san roque,San Roque,10,,12.45,-86.2166667
+ni,san salvador,San Salvador,12,,12.95,-85.8666667
+ni,sansang,Sansang,17,,14.6333333,-84.65
+ni,san sebastian de acoyapa,San Sebastian de Acoyapa,04,,11.9666667,-85.1666667
+ni,san sebastian de yali,San Sebastián de Yalí,07,,13.3,-86.1833333
+ni,san sebastian,San Sebastián,10,,11.9166667,-86.3666667
+ni,san silvestre,San Silvestre,08,,12.3666667,-86.9333333
+ni,san simon de palcila,San Simón de Palcila,12,,13.0,-85.9333333
+ni,santa amalia,Santa Amalia,06,,11.7166667,-86.05
+ni,santa ana,Santa Ana,02,,11.6833333,-86.35
+ni,santa ana,Santa Ana,03,,12.7,-87.2833333
+ni,santa ana,Santa Ana,06,,11.8333333,-85.9833333
+ni,santa ana,Santa Ana,10,,11.9833333,-86.3833333
+ni,santa ana,Santa Ana,11,,11.9833333,-86.05
+ni,santa ana,Santa Ana,13,,13.65,-86.0333333
+ni,santa ana,Santa Ana,15,,11.4333333,-86.0833333
+ni,santa ana,Santa Ana,17,,14.7666667,-84.1
+ni,santa ana,Santa Ana,18,,12.1,-84.2166667
+ni,santa barbara,Santa Bárbara,03,,12.6666667,-87.0833333
+ni,santa barbara,Santa Bárbara,08,,12.3666667,-86.75
+ni,santa barbara,Santa Bárbara,09,,13.45,-86.5333333
+ni,santa barbara,Santa Bárbara,13,,13.8166667,-86.2
+ni,santa barbara,Santa Bárbara,15,,11.65,-85.8666667
+ni,santa berta,Santa Berta,15,,11.5333333,-85.9
+ni,santa bethania,Santa Bethania,10,,12.0833333,-86.3666667
+ni,santa casimira,Santa Casimira,08,,12.4,-86.6666667
+ni,santa cecilia,Santa Cecilia,02,,11.8666667,-86.2333333
+ni,santa celia,Santa Celia,12,,12.95,-85.7666667
+ni,santa clara,Santa Clara,02,,11.8833333,-86.25
+ni,santa clara,Santa Clara,06,,12.0166667,-85.9833333
+ni,santa clara,Santa Clara,08,,12.5166667,-86.55
+ni,santa clara,Santa Clara,13,,13.7,-86.25
+ni,santa clara,Santa Clara,15,,11.3,-85.7666667
+ni,santa cruz,Santa Cruz,01,,12.4166667,-85.8
+ni,santa cruz,Santa Cruz,03,,12.7333333,-87.3333333
+ni,santa cruz,Santa Cruz,05,,13.0166667,-86.3166667
+ni,santa cruz,Santa Cruz,06,,11.9166667,-85.9333333
+ni,santa cruz,Santa Cruz,07,,13.45,-85.9166667
+ni,santa cruz,Santa Cruz,08,,12.6166667,-86.45
+ni,santa cruz,Santa Cruz,10,,11.9833333,-86.5833333
+ni,santa cruz,Santa Cruz,11,,12.1138889,-86.0572222
+ni,santa cruz,Santa Cruz,12,,12.6666667,-86.05
+ni,santa cruz,Santa Cruz,13,,13.8333333,-86.1333333
+ni,santa domingo,Santa Domingo,04,,12.2666667,-85.0833333
+ni,santa domingo,Santa Domingo,09,,13.5666667,-86.2333333
+ni,santa elena,Santa Elena,03,,12.65,-87.2333333
+ni,santa elena,Santa Elena,08,,12.25,-86.8
+ni,santa elena,Santa Elena,10,,11.9,-86.4833333
+ni,santa elena,Santa Elena,12,,13.2666667,-85.5166667
+ni,santa elisa,Santa Elisa,10,,12.1666667,-86.0333333
+ni,santa elvira,Santa Elvira,02,,11.9,-86.2666667
+ni,santa emilia,Santa Emilia,08,,12.7666667,-86.7666667
+ni,santa emilia,Santa Emilia,12,,12.9833333,-85.8333333
+ni,santa emilia,Santa Emilia,15,,11.45,-86.0666667
+ni,santa ernestina,Santa Ernestina,03,,12.7666667,-86.9333333
+ni,santa fe,Santa Fe,01,,12.6333333,-85.4333333
+ni,santa fe,Santa Fe,04,,12.35,-85.25
+ni,santa fe,Santa Fe,07,,13.2666667,-86.05
+ni,santa fe,Santa Fe,10,,12.2166667,-86.0333333
+ni,santa fe,Santa Fe,12,,12.7333333,-85.6666667
+ni,santa fe,Santa Fe,15,,11.3666667,-85.8
+ni,santa fe,Santa Fe,17,,14.65,-84.3
+ni,santa gertrudis,Santa Gertrudis,08,,12.6,-86.5
+ni,santa gertrudis,Santa Gertrudis,10,,12.3,-86.1833333
+ni,santa gertrudis,Santa Gertrudis,15,,11.6166667,-85.9666667
+ni,santa graciela,Santa Graciela,10,,12.4666667,-86.2833333
+ni,santa ines,Santa Inés,01,,12.3833333,-85.6166667
+ni,santa ines,Santa Inés,17,,14.7166667,-84.0833333
+ni,santa inez,Santa Inez,01,,12.3833333,-85.6166667
+ni,santa isabel,Santa Isabel,01,,12.0833333,-85.6666667
+ni,santa isabel,Santa Isabel,02,,11.8666667,-86.1833333
+ni,santa isabel,Santa Isabel,06,,11.85,-85.9166667
+ni,santa isabel,Santa Isabel,08,,12.4666667,-86.7666667
+ni,santa isabel,Santa Isabel,09,,13.45,-86.6
+ni,santa isabel,Santa Isabel,10,,11.95,-86.3833333
+ni,santa isabel,Santa Isabel,12,,12.6833333,-85.9333333
+ni,santa isabel,Santa Isabel,17,,14.7666667,-84.7666667
+ni,santa jorna,Santa Jorna,06,,11.7,-86.0333333
+ni,santa josefina,Santa Josefina,12,,12.8666667,-85.9
+ni,santa juana,Santa Juana,12,,12.6833333,-85.6333333
+ni,santa julia,Santa Julia,03,,13.0497222,-87.5652778
+ni,santa julia,Santa Julia,06,,11.7833333,-85.9333333
+ni,santa julia,Santa Julia,18,,12.3833333,-84.8166667
+ni,santa justa,Santa Justa,15,,11.6,-85.9166667
+ni,santa lucia,Santa Lucía,01,,12.5333333,-85.7166667
+ni,santa lucia,Santa Lucía,02,,11.7333333,-86.35
+ni,santa lucia,Santa Lucía,03,,12.6,-87.1333333
+ni,santa lucia,Santa Lucía,08,,12.4166667,-86.8333333
+ni,santa lucia,Santa Lucía,10,,12.2666667,-86.0833333
+ni,santa lucia,Santa Lucía,12,,12.9333333,-85.7333333
+ni,santa luisa,Santa Luisa,10,,12.15,-86.4166667
+ni,santa margarita,Santa Margarita,06,,11.8,-85.9333333
+ni,santa maria de loma azul,Santa María de Loma Azul,07,,13.3333333,-86.05
+ni,santa maria,Santa María,01,,12.1333333,-85.7166667
+ni,santa maria,Santa María,02,,11.9333333,-86.2833333
+ni,santa maria,Santa María,03,,12.5666667,-86.9833333
+ni,santa maria,Santa María,04,,11.7666667,-85.1833333
+ni,santa maria,Santa María,06,,12.2166667,-85.9
+ni,santa maria,Santa Maria,07,,13.1666667,-85.85
+ni,santa maria,Santa María,10,,12.2666667,-86.05
+ni,santa maria,Santa María,12,,12.6666667,-86.15
+ni,santa maria,Santa María,13,,13.75,-86.7166667
+ni,santa marta,Santa Marta,04,,11.8,-85.1833333
+ni,santa marta,Santa Marta,08,,12.4,-86.7666667
+ni,santa marta,Santa Marta,17,,14.3,-83.6333333
+ni,santa marta,Santa Marta,18,,12.15,-83.9666667
+ni,santa maura,Santa Maura,07,,13.1666667,-85.85
+ni,santa nalisa,Santa Nalisa,03,,12.6333333,-86.95
+ni,santa patricia,Santa Patricia,08,,12.5166667,-86.9166667
+ni,santa rita de plata,Santa Rita de Plata,10,,12.2666667,-86.4833333
+ni,santa rita,Santa Rita,01,,12.2,-85.6666667
+ni,santa rita,Santa Rita,02,,11.7833333,-86.2
+ni,santa rita,Santa Rita,04,,12.2333333,-85.1166667
+ni,santa rita,Santa Rita,05,,13.4,-86.3833333
+ni,santa rita,Santa Rita,07,,14.2833333,-85.1833333
+ni,santa rita,Santa Rita,08,,12.2833333,-86.6833333
+ni,santa rita,Santa Rita,10,,12.0333333,-86.25
+ni,santa rita,Santa Rita,10,,12.0666667,-86.3333333
+ni,santa rita,Santa Rita,12,,12.8833333,-85.8833333
+ni,santa rosa de lima,Santa Rosa de Lima,12,,12.9,-86.2
+ni,santa rosa del penon,Santa Rosa del Peñón,08,,12.8011111,-86.3705556
+ni,santa rosa,Santa Rosa,01,,12.6166667,-85.5166667
+ni,santa rosa,Santa Rosa,02,,11.65,-86.3333333
+ni,santa rosa,Santa Rosa,03,,12.5666667,-87.1166667
+ni,santa rosa,Santa Rosa,06,,11.7833333,-85.9333333
+ni,santa rosa,Santa Rosa,08,,12.2833333,-86.75
+ni,santa rosa,Santa Rosa,10,,12.0833333,-86.3
+ni,santa rosa,Santa Rosa,11,,11.8666667,-86.1333333
+ni,santa rosa,Santa Rosa,12,,12.6833333,-85.9833333
+ni,santa rosa,Santa Rosa,17,,14.7,-84.7333333
+ni,santa tecla,Santa Tecla,10,,12.05,-86.3166667
+ni,santa teresa de apatague,Santa Teresa de Apatague,08,,12.65,-86.5333333
+ni,santa teresa de guasuyuca,Santa Teresa de Guasuyuca,05,,13.4166667,-86.55
+ni,santa teresa,Santa Teresa,02,5372,11.7333333,-86.2166667
+ni,santa teresa,Santa Teresa,03,,12.5833333,-87.2
+ni,santa teresa,Santa Teresa,06,,11.85,-85.9833333
+ni,santa teresa,Santa Teresa,08,,12.3,-86.7166667
+ni,santa teresa,Santa Teresa,09,,13.45,-86.5666667
+ni,santa teresa,Santa Teresa,10,,11.9,-86.4333333
+ni,santa teresa,Santa Teresa,11,,12.0166667,-86.25
+ni,santa teresa,Santa Teresa,12,,13.0,-85.7333333
+ni,santa teresa,Santa Teresa,15,,11.4833333,-85.6
+ni,santa teresita,Santa Teresita,15,,11.4,-85.7666667
+ni,santa tereza,Santa Tereza,09,,13.45,-86.5666667
+ni,santa tomas,Santa Tomas,03,,12.75,-87.3833333
+ni,santa tomas,Santa Tomas,04,,12.0666667,-85.0833333
+ni,santiago,Santiago,08,,12.3666667,-86.7
+ni,santiago,Santiago,10,,11.95,-86.3333333
+ni,santo domingo de guzman,Santo Domingo de Guzmán,10,,12.0833333,-86.25
+ni,santo domingo,Santo Domingo,01,,12.4833333,-85.75
+ni,santo domingo,Santo Domingo,03,,12.7,-87.3333333
+ni,santo domingo,Santo Domingo,04,6212,12.2666667,-85.0833333
+ni,santo domingo,Santo Domingo,09,,13.5333333,-86.5166667
+ni,santo domingo,Santo Domingo,10,,11.8666667,-86.4666667
+ni,santo domingo,Santo Domingo,11,,11.8666667,-86.1333333
+ni,santo tomas del norte,Santo Tomás del Norte,03,,13.1833333,-86.9333333
+ni,santo tomas de nance,Santo Tomás de Nance,03,,13.1833333,-86.9333333
+ni,santo tomas,Santo Tomás,03,,12.75,-87.3833333
+ni,santo tomas,Santo Tomás,04,13437,12.0666667,-85.0833333
+ni,san ubaldo,San Ubaldo,03,,12.6666667,-87.1
+ni,san ubaldo,San Ubaldo,04,,11.85,-85.3333333
+ni,san vicente del coyolito,San Vicente del Coyolito,07,,13.15,-86.1833333
+ni,san vicente,San Vicente,02,,11.8333333,-86.3166667
+ni,san vicente,San Vicente,03,,12.7166667,-87.3
+ni,san vicente,San Vicente,11,,12.0166667,-86.2833333
+ni,san victor,San Victor,08,,12.4333333,-87.0333333
+ni,sapoa,Sapoá,15,,11.25,-85.6333333
+ni,sardinal,Sardinal,12,,13.0666667,-85.65
+ni,sardina,Sardina,15,,11.1333333,-85.3
+ni,sasama,Sasama,03,,12.6833333,-87.25
+ni,sauce,Sauce,08,,12.8869444,-86.5380556
+ni,saupuka,Sáupuka,17,,14.75,-83.9166667
+ni,sausa,Sausa,17,,14.6833333,-84.6833333
+ni,savanas,Savanas,09,,13.35,-86.6166667
+ni,save you all bank,Save You All Bank,18,,12.5833333,-83.75
+ni,sawa,Sawa,17,,14.9166667,-83.5666667
+ni,saw mill,Saw Mill,17,,13.4,-83.5666667
+ni,saynika,Saynika,17,,14.8833333,-83.6166667
+ni,sebaco,Sébaco,12,21449,12.8511111,-86.0994444
+ni,sebaco viejo,Sébaco Viejo,12,,12.85,-86.1
+ni,set net,Set Net,18,,12.45,-83.4833333
+ni,seven benk,Seven Benk,17,,14.2,-83.6333333
+ni,siawas,Siawás,18,,13.1666667,-84.1333333
+ni,sicantal,Sicantal,03,,12.7166667,-87.3
+ni,siempreviva,Siempreviva,17,,13.8666667,-84.5166667
+ni,sih,Sih,17,,14.95,-83.5333333
+ni,sika yari,Sika Yari,17,,14.7333333,-85.0
+ni,siksayali,Siksayali,17,,14.7333333,-85.0
+ni,siksayari,Siksayari,17,,14.7333333,-85.0
+ni,siksikwas,Siksikwás,18,,13.0833333,-84.2833333
+ni,silencio,Silencio,13,,13.8666667,-86.0166667
+ni,silvandera,Silvandera,18,,12.15,-84.0833333
+ni,sinkita,Sinkita,18,,12.9333333,-83.5333333
+ni,sinsin,Sinsin,17,,14.2666667,-83.55
+ni,siquia,Siquia,18,,12.7333333,-85.0166667
+ni,sisinata,Sisinata,17,,14.2833333,-83.4833333
+ni,sisin,Sisin,17,,14.2666667,-83.55
+ni,sisi,Sisi,18,,12.1,-84.0333333
+ni,sitalapa,Sitalapa,10,,11.9166667,-86.4833333
+ni,sitio viejo,Sitio Viejo,01,,12.4833333,-85.9833333
+ni,siuna,Siuna,17,11725,13.7333333,-84.7666667
+ni,skruwarban,Skruwarban,17,,14.3333333,-83.8
+ni,slilmasia,Slilmasía,17,,14.6166667,-83.9333333
+ni,soledad,Soledad,10,,12.0333333,-86.6333333
+ni,soledad,Soledad,15,,11.3666667,-85.7833333
+ni,soledad,Soledad,18,,12.0666667,-84.25
+ni,somotillo,Somotillo,03,13063,13.0333333,-86.9166667
+ni,somoto,Somoto,09,18581,13.4833333,-86.5833333
+ni,sonzapote,Sonzapote,01,,12.4166667,-85.7
+ni,sonzapote,Sonzapote,12,,12.65,-85.8666667
+ni,sotacaballo,Sotacaballo,15,,11.2333333,-85.65
+ni,south end,South End,18,,12.1666667,-83.0333333
+ni,suak suakia,Suak Suakia,17,,14.6166667,-84.5
+ni,sucuya,Sucuyá,15,,11.5166667,-85.8333333
+ni,suina,Suina,17,,13.7333333,-84.7666667
+ni,suni,Suní,07,,13.15,-86.1
+ni,susama,Susama,03,,12.6833333,-87.25
+ni,suscallon,Suscallon,13,,13.6666667,-86.1666667
+ni,susucayan,Susucayán,13,,13.6666667,-86.1666667
+ni,susuli,Susuli,12,,12.8166667,-85.85
+ni,suti tingni,Suti Tingni,07,,14.1833333,-85.4
+ni,tabaltara,Tabaltara,17,,13.6,-83.9166667
+ni,tablas,Tablas,05,,13.1,-86.6166667
+ni,tacaniste,Tacaniste,10,,12.0,-86.3
+ni,tacanites,Tacanites,18,,11.8666667,-84.5166667
+ni,tadasna,Tadasna,17,,13.5833333,-84.7833333
+ni,tagua,Tagua,01,,12.6166667,-85.6166667
+ni,tahuantla,Tahuantla,17,,13.3833333,-83.5666667
+ni,talnites,Talnites,01,,12.5666667,-85.7333333
+ni,talolinga,Talolinga,01,,12.5,-86.2333333
+ni,talolinga,Talolinga,08,,12.8333333,-86.4166667
+ni,talpetate,Talpetate,01,,12.1166667,-85.6166667
+ni,talpetate,Talpetate,03,,12.75,-86.8666667
+ni,talpetate,Talpetate,10,,12.6,-86.15
+ni,talquezal,Talquezal,13,,13.5333333,-86.7166667
+ni,tamarindo,Tamarindo,08,,12.1994444,-86.7630556
+ni,tamarindo,Tamarindo,10,,12.5,-86.0833333
+ni,tamarindo,Tamarindo,13,,13.5333333,-86.7166667
+ni,tamarin,Tamarín,18,,12.9833333,-84.3833333
+ni,tamla,Tamla,17,,14.0833333,-83.4166667
+ni,tangue,Tangue,03,,12.9,-87.6333333
+ni,tanque,Tanque,03,,12.9,-87.6333333
+ni,tanque,Tanque,07,,13.0166667,-85.9833333
+ni,tanque,Tanque,08,,12.5166667,-86.95
+ni,tapales,Tapales,18,,12.9166667,-84.8833333
+ni,tapalguas,Tapalguás,04,,12.4,-84.8833333
+ni,tapalwas,Tapalwás,04,,12.4,-84.8833333
+ni,tapasle,Tapasle,12,,13.0333333,-85.6333333
+ni,tapriedra pintada,Tapriedra Pintada,02,,11.7666667,-86.2
+ni,tarca,Tarca,06,,11.7,-85.8
+ni,tasbapauni,Tasbapauni,17,,13.4166667,-84.25
+ni,tasbapauni,Tasbapauni,18,,12.6666667,-83.55
+ni,tasbapawnie,Tasbapawnie,18,,12.6666667,-83.55
+ni,tasbapone,Tasbapone,17,,13.4166667,-84.25
+ni,tasbapone,Tasbapone,18,,12.6666667,-83.55
+ni,tasbaraya,Tasbaraya,17,,14.5,-84.15
+ni,tastasli,Tastaslí,13,,13.8833333,-86.1333333
+ni,tawantara,Tawantara,17,,13.3833333,-83.5666667
+ni,tawantla,Tawantla,17,,13.3833333,-83.5666667
+ni,tawasakia,Tawasakia,17,,14.4666667,-83.2833333
+ni,tayguay,Tayguay,06,,11.8833333,-85.95
+ni,tecolostote,Tecolostote,01,,12.25,-85.65
+ni,tecomajoche,Tecomajoche,10,,11.9333333,-86.55
+ni,tecomapa,Tecomapa,02,,11.65,-86.2666667
+ni,tecomapita,Tecomapita,02,,11.6833333,-86.2
+ni,tecuaname,Tecuaname,08,,12.5444444,-86.5466667
+ni,tee kamp,Tee Kamp,17,,14.4833333,-83.9833333
+ni,tejera,Tejera,07,,13.0666667,-86.0
+ni,tejerina,Tejerina,12,,12.9333333,-85.9833333
+ni,telape,Telape,08,,12.6166667,-86.6166667
+ni,telica,Telica,08,7550,12.5205556,-86.86
+ni,telpaneca,Telpaneca,09,,13.5333333,-86.2833333
+ni,telpochapa,Telpochapa,10,,12.55,-86.2166667
+ni,telpochoapa,Telpochoapa,10,,12.55,-86.2166667
+ni,telquezal,Telquezal,13,,13.5333333,-86.7166667
+ni,temoa,Temoa,11,,11.95,-86.2666667
+ni,tempate,Tempate,08,,12.2666667,-86.7833333
+ni,tempisque negro,Tempisque Negro,08,,12.5833333,-86.9
+ni,tempisquiapa,Tempisquiapa,03,,12.8666667,-87.2166667
+ni,teotecacinte,Teotecacinte,13,,14.05,-86.0666667
+ni,teotecicante,Teotecicante,13,,14.05,-86.0666667
+ni,tepalon,Tepalón,01,,12.1333333,-85.8
+ni,tepetate granada,Tepetate Granada,06,,11.95,-85.95
+ni,tepetate,Tepetate,06,,11.95,-85.95
+ni,terabona,Terabona,12,,12.7333333,-85.9666667
+ni,terrabona,Terrabona,12,,12.7333333,-85.9666667
+ni,terranova,Terranova,08,,12.6833333,-86.35
+ni,terrero,Terrero,08,,12.5666667,-86.6
+ni,teustepe,Teustepe,01,,12.4166667,-85.8
+ni,tichana,Tichaná,15,,11.4,-85.5
+ni,tichan,Tichán,17,,14.9833333,-83.4666667
+ni,ticuantepe,Ticuantepe,11,10226,12.0233333,-86.2005556
+ni,tierra azul,Tierra Azul,01,,12.7,-85.55
+ni,tierra blanca,Tierra Blanca,01,,12.2666667,-85.8
+ni,tierra blanca,Tierra Blanca,12,,12.5666667,-85.8666667
+ni,tierra blanca,Tierra Blanca,15,,11.55,-85.9
+ni,tierra colorada,Tierra Colorada,08,,12.1333333,-86.5833333
+ni,tierra colorada,Tierra Colorada,18,,12.6666667,-83.55
+ni,tierra dorada,Tierra Dorada,18,,12.25,-83.75
+ni,tierras blancas,Tierras Blancas,12,,12.8666667,-86.1166667
+ni,tigre,Tigre,15,,11.1333333,-85.3333333
+ni,tiguilillo,Tiguilillo,03,,12.7333333,-87.4333333
+ni,tijero,Tijero,07,,13.0666667,-86.0
+ni,tipitapa,Tipitapa,10,89642,12.2005556,-86.0938889
+ni,tisma,Tisma,11,,12.0838889,-86.0175
+ni,tizate,Tizate,10,,12.0166667,-86.3166667
+ni,todo obrero,Todo Obrero,10,,12.1833333,-86.4666667
+ni,tolapa,Tolapa,08,,12.6166667,-86.6166667
+ni,tola,Tola,15,,11.4333333,-85.9333333
+ni,tololar,Tololar,08,,12.5,-86.8333333
+ni,tololos,Tololos,08,,12.85,-86.5333333
+ni,tomalapa,Tomalapa,12,,12.6333333,-85.9
+ni,tomatollita,Tomatollita,01,,12.5166667,-85.9166667
+ni,tomatoya,Tomatoya,01,,12.5666667,-85.85
+ni,tomatoya,Tomatoya,07,,13.15,-86.0666667
+ni,tomatoyo,Tomatoyo,01,,12.5666667,-85.85
+ni,tomayuca,Tomayuca,07,,13.2333333,-85.9333333
+ni,tomayunca,Tomayunca,07,,13.2333333,-85.9333333
+ni,tomvalle,Tomvalle,03,,12.7,-87.3333333
+ni,tonala,Tonalá,03,,12.7666667,-87.1333333
+ni,tongua,Tongua,07,,13.0166667,-85.9833333
+ni,toro blanco,Toro Blanco,03,,12.6833333,-87.2
+ni,toro overo,Toro Overo,10,,12.1833333,-86.4666667
+ni,torre cinco,Torre Cinco,17,,14.55,-83.7166667
+ni,torre dos,Torre Dos,17,,14.75,-83.7666667
+ni,tortuguero,Tortuguero,18,,12.8166667,-84.2
+ni,totacasinte,Totacasinte,13,,14.0666667,-86.0833333
+ni,totecacinte,Totecacinte,13,,14.0666667,-86.0833333
+ni,totecasinte,Totecasinte,13,,14.0666667,-86.0833333
+ni,totogalpa,Totogalpa,09,,13.5666667,-86.5
+ni,totolapa,Totolapa,08,,12.6166667,-86.6166667
+ni,totumbla,Totumbla,12,,12.7,-86.15
+ni,totumblita,Totumblita,12,,12.7,-86.15
+ni,transito,Transito,08,,12.0541667,-86.7052778
+ni,trapichito,Trapichito,09,,13.45,-86.4833333
+ni,trinidad,Trinidad,02,,11.7333333,-86.3333333
+ni,trinidad,Trinidad,05,,12.9694444,-86.2366667
+ni,trujillo,Trujillo,03,,12.7166667,-87.1333333
+ni,trujillo,Trujillo,12,,12.6666667,-86.2333333
+ni,truskusirpi,Truskusirpi,17,,14.8,-83.75
+ni,truskutara,Truskutara,17,,14.7833333,-83.7833333
+ni,tuapi,Tuapí,17,,14.1,-83.3333333
+ni,tuara,Tuara,17,,14.3166667,-83.4333333
+ni,tuestepe,Tuestepe,01,,12.4166667,-85.8
+ni,tule,Tule,01,,12.4833333,-85.5666667
+ni,tule,Tule,07,,13.3166667,-86.25
+ni,tulimbila,Tulimbila,17,,14.65,-84.5666667
+ni,tumarin,Tumarín,18,,13.0,-84.3666667
+ni,tuma,Tuma,12,,13.0666667,-85.75
+ni,tum tum,Tum Tum,17,,14.3166667,-83.4
+ni,tuncar,Tuncar,01,,12.4166667,-85.4333333
+ni,tungla,Tungla,17,,13.3166667,-84.4333333
+ni,tupilapa,Tupilapa,02,,11.6166667,-86.3333333
+ni,tupitapa,Tupitapa,02,,11.6166667,-86.3333333
+ni,tuskro sirpe,Tuskro Sirpe,17,,14.8166667,-83.7833333
+ni,tuskro tara,Tuskro Tara,17,,14.8,-83.8166667
+ni,tuskru sirpi,Tuskru Sirpi,17,,14.8166667,-83.7833333
+ni,tuskru tara,Tuskru Tara,17,,14.8,-83.8166667
+ni,twapi,Twapi,17,,14.1,-83.3333333
+ni,uhran,Uhran,17,,14.95,-83.5333333
+ni,uhri,Uhri,17,,14.7666667,-83.8333333
+ni,ukunni,Ukunni,17,,14.15,-83.6166667
+ni,ulwas,Ulwás,17,,14.75,-83.95
+ni,umbra sumal,Umbra Sumal,17,,14.65,-84.7
+ni,umbra,Umbra,17,,14.65,-84.7
+ni,upa,Upá,12,,12.9166667,-85.6166667
+ni,upla pruan,Upla Pruan,07,,14.3833333,-85.2
+ni,urbaite,Urbaite,15,,11.5166667,-85.5833333
+ni,uskira,Uskira,17,,14.4833333,-83.2833333
+ni,utila,Utila,10,,12.0333333,-86.2666667
+ni,utlamasta,Utlamasta,17,,14.9833333,-83.5333333
+ni,vaguas,Vaguas,01,,12.65,-85.4833333
+ni,vailavas,Vailavas,17,,13.65,-84.8333333
+ni,valencia,Valencia,10,,12.0666667,-86.3833333
+ni,valgue,Valgüe,15,,11.4833333,-85.5166667
+ni,valle congojas,Valle Congojas,13,,13.8,-85.8666667
+ni,valle dantali,Valle Dantalí,07,,13.1333333,-85.9333333
+ni,valle de colon,Valle de Colón,15,,11.1,-85.2166667
+ni,valle de gothel,Valle de Gothel,10,,12.0833333,-86.1833333
+ni,valle de las zapatas,Valle de Las Zapatas,08,,12.6277778,-86.7025
+ni,valle de ocotal,Valle de Ocotal,08,,12.8833333,-86.4666667
+ni,valle de trujillo,Valle de Trujillo,12,,12.6666667,-86.2333333
+ni,valle ducuali,Valle Ducualí,09,,13.4166667,-86.4
+ni,valle el angel,Valle El Ángel,09,,13.2666667,-86.6666667
+ni,valle el brasil,Valle El Brasil,12,,12.6333333,-86.2333333
+ni,valle el charco,Valle El Charco,12,,12.6666667,-86.1833333
+ni,valle el danto,Valle El Danto,03,,13.0666667,-86.7666667
+ni,valle el jocote,Valle El Jocote,05,,13.35,-86.2666667
+ni,valle el limon,Valle El Limón,13,,13.8333333,-86.2
+ni,valle el nisperal,Valle El Nisperal,12,,12.5833333,-86.0166667
+ni,valle el ojochal,Valle el Ojochal,08,,12.5833333,-86.7166667
+ni,valle el oregano,Valle El Orégano,12,,12.65,-86.2
+ni,valle el tablon,Valle El Tablón,08,,12.25,-86.6
+ni,valle el tamarindo,Valle El Tamarindo,13,,13.5333333,-86.7166667
+ni,valle el tempisque,Valle El Tempisque,12,,12.65,-86.0333333
+ni,valle gotel,Valle Gotel,10,,12.0833333,-86.1833333
+ni,valle gottel,Valle Gottel,10,,12.0833333,-86.1833333
+ni,valle guadalupe,Valle Guadalupe,14,,11.0,-85.05
+ni,valle guayucali,Valle Guayucalí,05,,13.3,-86.2666667
+ni,valle kuikuinita,Valle Kuikuinita,17,,13.4,-84.9
+ni,valle la plazuela,Valle La Plazuela,09,,13.45,-86.3333333
+ni,valle las calabazas,Valle Las Calabazas,12,,12.6691667,-86.0911111
+ni,valle las pilas,Valle Las Pilas,03,,13.0,-86.7666667
+ni,valle las zapatas,Valle Las Zapatas,08,,12.6277778,-86.7025
+ni,valle la tejera,Valle La Tejera,07,,13.0666667,-86.0
+ni,valle los aburtos,Valle Los Aburtos,10,,12.1166667,-86.5
+ni,valle los encuentros,Valle Los Encuentros,09,,13.4666667,-86.4666667
+ni,valle los robles,Valle Los Robles,07,,13.1666667,-85.95
+ni,valle mancotal abajo,Valle Mancotal Abajo,07,,13.2333333,-85.9666667
+ni,vallemenier,Vallemenier,06,,11.7333333,-86.0833333
+ni,valle menir,Valle Menir,06,,11.7333333,-86.0833333
+ni,valle sabana larga,Valle Sabana Larga,13,,13.7333333,-86.1166667
+ni,valle sabana,Valle Sabana,13,,13.7333333,-86.1166667
+ni,valle san andres,Valle San Andrés,09,,13.45,-86.2833333
+ni,valle san antonio,Valle San Antonio,09,,13.4666667,-86.5333333
+ni,valle san antonio,Valle San Antonio,12,,12.65,-86.1
+ni,valle san francisco,Valle San Francisco,09,,13.5833333,-86.2833333
+ni,valle san francisco,Valle San Francisco,10,,12.5166667,-86.2833333
+ni,valle san jose,Valle San José,03,,12.7972222,-86.9875
+ni,valle san jose,Valle San José,05,,13.2333333,-86.3
+ni,valle san juan de sabana grande,Valle San Juan de Sabana Grande,13,,13.7,-86.15
+ni,valle san juan de somoto,Valle San Juan de Somoto,09,,13.5166667,-86.5333333
+ni,valle santa cruz,Valle Santa Cruz,05,,13.0166667,-86.3166667
+ni,valle santa isabel,Valle Santa Isabel,09,,13.45,-86.6
+ni,valle santa teresa,Valle Santa Teresa,09,,13.45,-86.5666667
+ni,valle santo domingo,Valle Santo Domingo,09,,13.5333333,-86.5166667
+ni,valle telpochapa,Valle Telpochapa,10,,12.55,-86.2166667
+ni,valparaiso,Valparaíso,04,,12.0166667,-85.55
+ni,valque,Valque,15,,11.4833333,-85.5166667
+ni,vegas,Vegas,07,,13.3666667,-86.0833333
+ni,veinticuatro,Veinticuatro,11,,12.0166667,-86.0
+ni,venecia,Venecia,03,,12.65,-87.2
+ni,venecia,Venecia,10,,12.45,-86.4666667
+ni,venecia,Venecia,11,,11.95,-86.1333333
+ni,venecia,Venecia,15,,11.4833333,-85.65
+ni,veracruz,Veracruz,01,,12.7,-85.1333333
+ni,veracruz,Veracruz,02,,11.55,-86.2166667
+ni,veracruz,Veracruz,03,,12.6,-86.9833333
+ni,veracruz,Veracruz,06,,11.7333333,-85.9166667
+ni,veracruz,Veracruz,11,,12.0833333,-86.1666667
+ni,veracruz,Veracruz,15,,11.3833333,-85.9
+ni,verapaz,Verapaz,09,,13.5666667,-86.5333333
+ni,verapaz,Verapaz,12,,13.0333333,-85.7333333
+ni,viejo,Viejo,03,,12.6666667,-87.1666667
+ni,viente cuatro,Viente Cuatro,11,,12.0166667,-86.0
+ni,vigia del rio grande,Vigía del Río Grande,08,,12.5,-86.3666667
+ni,vigias,Vigías,08,,12.3333333,-86.7333333
+ni,viila somoza,Viila Somoza,04,,12.05,-84.9833333
+ni,villa 15 de julio,Villa 15 de Julio,03,,12.7894444,-86.945
+ni,villa 15 de junio,Villa 15 de Junio,03,,12.7894444,-86.945
+ni,villa carlos fonseca amador,Villa Carlos Fonseca Amador,10,,11.9833333,-86.5166667
+ni,villa el carmen,Villa El Carmen,10,,11.9833333,-86.5166667
+ni,villa nazaret,Villa Nazaret,12,,13.2,-85.25
+ni,villanueva,Villanueva,03,,12.9636111,-86.8147222
+ni,villa of nicaragua,Villa of Nicaragua,15,,11.4333333,-85.8333333
+ni,villa quince de julio,Villa Quince de Julio,03,,12.7894444,-86.945
+ni,villa salvadorita,Villa Salvadorita,03,,12.7894444,-86.945
+ni,villa sandino,Villa Sandino,04,8234,12.05,-84.9833333
+ni,villa somoza,Villa Somoza,04,,12.05,-84.9833333
+ni,virgen,Virgen,03,,12.8,-87.4
+ni,virgen,Virgen,07,,13.3,-85.85
+ni,viscaino,Viscaíno,08,,12.7333333,-86.6166667
+ni,vista alegre,Vista Alegre,11,,11.95,-86.1166667
+ni,volcan,Volcan,06,,11.7,-85.9
+ni,voy y vengo,Voy y Vengo,03,,12.5833333,-87.0333333
+ni,vueltas,Vueltas,13,,13.6333333,-86.1333333
+ni,wailawas,Wailawas,17,,13.65,-84.8333333
+ni,waingka laya,Waingka Laya,17,,14.45,-83.3166667
+ni,wainkalaya,Wainkalaya,17,,14.45,-83.3166667
+ni,wakaban,Wakaban,17,,14.0833333,-83.5833333
+ni,walakitan,Walakitan,07,,14.5333333,-85.0833333
+ni,walpasicsa,Walpasicsa,17,,13.45,-84.2666667
+ni,walpasiksa,Walpasiksa,17,,13.45,-84.2666667
+ni,walpa sixa,Walpa Sixa,17,,13.45,-84.2666667
+ni,walpasixa,Walpasixa,17,,13.4666667,-83.55
+ni,walpa,Walpa,18,,12.9333333,-83.5333333
+ni,wanblan,Wanblán,07,,13.8666667,-85.7333333
+ni,wani,Waní,17,,13.7,-84.85
+ni,wankluma,Wankluma,17,,13.2166667,-83.5833333
+ni,wany,Wany,17,,13.7,-84.85
+ni,warnata,Warnata,17,,14.3666667,-83.5666667
+ni,washington,Washington,12,,12.95,-85.5666667
+ni,waska,Waska,17,,14.8,-83.7333333
+ni,waslala,Waslala,12,,12.9166667,-85.9666667
+ni,waslala,Waslala,17,5611,13.2333333,-85.3833333
+ni,wasla,Wasla,17,,14.8,-83.7333333
+ni,waspado,Waspado,17,,13.6666667,-84.8666667
+ni,waspam,Waspam,17,,14.7333333,-83.9666667
+ni,waspan,Waspán,17,7287,14.7333333,-83.9666667
+ni,waspuko,Waspuko,17,,13.8,-84.8833333
+ni,waspuk,Waspuk,17,,13.8,-84.8833333
+ni,wasta,Wasta,17,,14.8,-83.7333333
+ni,waswali abajo,Waswalí Abajo,12,,12.9166667,-85.9666667
+ni,waswali,Waswali,12,,12.9166667,-85.9666667
+ni,wawasang,Wawasang,18,,12.5833333,-83.75
+ni,wawashan,Wawashan,18,,12.5833333,-83.75
+ni,wawa,Wawa,17,,13.8833333,-83.4666667
+ni,wayawas,Wayawás,07,,14.3666667,-85.2
+ni,waylaska,Waylaska,07,,14.5666667,-85.0
+ni,weinkalaya,Weinkalaya,17,,14.45,-83.3166667
+ni,wilder,Wilder,17,,14.5666667,-83.6166667
+ni,wiliwa,Wiliwa,01,,12.6166667,-85.5666667
+ni,wina,Wina,07,,14.0666667,-85.3
+ni,wirapahani,Wirapahani,17,,14.6833333,-84.25
+ni,wiwas,Wiwás,17,,14.4,-83.7833333
+ni,wiwili,Wiwilí,13,6508,13.6166667,-85.8333333
+ni,wiwinak,Wiwinak,17,,14.6166667,-84.4666667
+ni,wounta plantation,Wounta Plantation,17,,13.55,-83.5333333
+ni,wounta,Wounta,17,,13.55,-83.5333333
+ni,wualpa,Wualpa,18,,12.9333333,-83.5333333
+ni,wualpaxisca,Wualpaxisca,17,,13.45,-84.2666667
+ni,wualpaxisco,Wualpaxisco,17,,13.4666667,-83.55
+ni,wuani,Wuaní,17,,13.7,-84.85
+ni,wuany,Wuany,17,,13.7,-84.85
+ni,wuina,Wuina,07,,14.0666667,-85.3
+ni,wuonta,Wuonta,17,,13.55,-83.5333333
+ni,yabaltara,Yabaltara,17,,13.6,-83.9166667
+ni,yablis,Yablis,17,,14.1666667,-83.8166667
+ni,yacica-sur,Yacica-Sur,12,,12.9666667,-85.8
+ni,yacica,Yacica,12,,13.0,-85.8
+ni,yagualica,Yagualica,07,,13.05,-86.05
+ni,yakalpanani,Yakalpanani,07,,14.1333333,-85.4666667
+ni,yalaguina,Yalagüina,09,,13.4833333,-86.4833333
+ni,yali,Yalí,07,,13.3,-86.1833333
+ni,yasica norte,Yasica Norte,12,,13.0,-85.8
+ni,yasica sur,Yasica Sur,12,,12.9666667,-85.8
+ni,yaule abajo,Yaule Abajo,12,,12.9,-85.9833333
+ni,yayule,Yayule,12,,12.9833333,-85.7333333
+ni,younga,Younga,04,,11.8666667,-84.8166667
+ni,yucapuca,Yucapuca,01,,12.55,-85.5
+ni,yucapuca,Yucapuca,07,,13.1833333,-86.0333333
+ni,yucica-sur,Yucica-Sur,12,,12.9666667,-85.8
+ni,yulu tingni,Yulu Tingni,17,,14.1166667,-83.45
+ni,yulu,Yulú,17,,14.0666667,-83.5833333
+ni,yupali,Yupalí,07,,13.1166667,-86.1666667
+ni,zaguatepe,Zaguatepe,01,,12.5166667,-85.65
+ni,zambrana,Zambrana,10,,12.1491667,-86.08
+ni,zambrano,Zambrano,10,,12.1491667,-86.08
+ni,zapata,Zapata,08,,12.6277778,-86.7025
+ni,zapatos,Zapatos,08,,12.6277778,-86.7025
+ni,zapotal,Zapotal,10,,12.15,-86.1166667
+ni,zapotal,Zapotal,13,,13.7,-86.7666667
+ni,zapote,Zapote,03,,12.5666667,-87.3
+ni,zapote,Zapote,09,,13.5166667,-86.5333333
+ni,zapotillal,Zapotillal,13,,13.6166667,-86.05
+ni,zapotilla,Zapotilla,13,,13.6166667,-86.05
+ni,zapotillo,Zapotillo,13,,13.6166667,-86.05
+ni,zapotillo,Zapotillo,15,,11.15,-85.3833333
+ni,zarzales,Zarzales,08,,12.6616667,-86.4372222

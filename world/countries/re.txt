@@ -1,0 +1,401 @@
+re,abondance,Abondance,00,,-21.0333333,55.6666667
+re,a. dubuisson,A. Dubuisson,00,,-21.15,55.2833333
+re,aloes,Aloès,00,,-21.25,55.45
+re,anse,Anse,00,,-21.3166667,55.55
+re,anse-les bas,Anse-les Bas,00,,-21.35,55.55
+re,anse-les hauts,Anse-les Hauts,00,,-21.3,55.5666667
+re,aurelien dijoux,Aurélien Dijoux,00,,-21.2,55.5166667
+re,aurere,Aurère,00,,-21.0,55.4333333
+re,avenir,Avenir,00,,-20.9166667,55.3333333
+re,avirons,Avirons,00,,-21.2333333,55.3333333
+re,bagatelle,Bagatelle,00,,-20.9166667,55.5833333
+re,bain,Bain,00,,-21.05,55.5166667
+re,baril,Baril,00,,-21.35,55.7333333
+re,basse vallee,Basse Vallée,00,,-21.3666667,55.7166667
+re,bassin martin,Bassin Martin,00,,-21.3,55.5166667
+re,beaufond,Beaufond,00,,-20.9166667,55.5666667
+re,beaufonds,Beaufonds,00,,-20.9166667,55.5666667
+re,beaufonds usine,Beaufonds Usine,00,,-21.0333333,55.7333333
+re,beaulieu,Beaulieu,00,,-21.0333333,55.7166667
+re,beaumont,Beaumont,00,,-20.9166667,55.5333333
+re,beauvallon,Beauvallon,00,,-20.9833333,55.7
+re,bebour,Bebour,00,,-21.1,55.6
+re,be cabot,Bé Cabot,00,,-21.0,55.5166667
+re,bel air,Bel Air,00,,-20.8833333,55.5833333
+re,bellemene,Bellemène,00,,-21.0,55.3
+re,bellevue,Bellevue,00,,-21.1333333,55.8
+re,berive,Bérive,00,,-21.3,55.55
+re,berive-les bas,Bérive-les Bas,00,,-21.3,55.5333333
+re,bernica,Bernica,00,,-21.0166667,55.2833333
+re,bernica-les bas,Bernica-les Bas,00,,-21.0166667,55.2833333
+re,bethleem,Bethléem,00,,-21.0333333,55.6833333
+re,bois-blanc,Bois-Blanc,00,,-21.1833333,55.8166667
+re,bois court,Bois Court,00,,-21.1833333,55.55
+re,bois de nefles,Bois de Nèfles,00,,-20.9,55.4833333
+re,bois d'olive,Bois d'Olive,00,,-21.2833333,55.45
+re,bois d'olives,Bois d'Olives,00,,-21.2833333,55.45
+re,bois-rouge,Bois-Rouge,00,,-20.9,55.5333333
+re,bois rouqe usine,Bois Rouqe Usine,00,,-20.9,55.65
+re,boucan canot,Boucan Canot,00,,-21.0166667,55.2166667
+re,bourbier,Bourbier,00,,-21.0166667,55.7166667
+re,bout de l'etang,Bout de l'Étang,00,,-20.9833333,55.2833333
+re,bras canot,Bras Canot,00,,-21.0333333,55.7
+re,bras de ponteau,Bras de Ponteau,00,,-21.2166667,55.4833333
+re,bras des calumets,Bras des Calumets,00,,-21.1333333,55.6166667
+re,bras des chevrettes,Bras des Chevrettes,00,,-20.9333333,55.6166667
+re,bras madeleine,Bras Madeleine,00,,-21.0333333,55.7
+re,bras magdeleine,Bras Magdeleine,00,,-21.0333333,55.7
+re,bras-panon,Bras-Panon,00,10445,-20.9833333,55.6833333
+re,bretagne,Bretagne,00,,-20.9,55.5
+re,brule,Brûlé,00,,-20.9,55.4333333
+re,cafrine,Cafrine,00,,-21.3333333,55.5166667
+re,cambuston,Cambuston,00,,-20.9166667,55.65
+re,camp de pierrot,Camp de Pierrot,00,,-21.05,55.4666667
+re,camp jacquot,Camp Jacquot,00,,-20.9833333,55.6833333
+re,cap blanc,Cap Blanc,00,,-21.2666667,55.65
+re,cap noir,Cap Noir,00,,-20.9833333,55.3833333
+re,carosse,Carosse,00,,-21.35,55.6
+re,casabona,Casabona,00,,-21.3166667,55.4666667
+re,cascades,Cascades,00,,-21.15,55.8333333
+re,champ-borne,Champ-Borne,00,,-20.9333333,55.6833333
+re,chaudron,Chaudron,00,,-20.8833333,55.5
+re,chemin cesar,Chemin César,00,,-21.35,55.5833333
+re,chiendent,Chiendent,00,,-20.9166667,55.55
+re,cilaos,Cilaos,00,6225,-21.1166667,55.4666667
+re,coeur saignant,Coeur Saignant,00,,-20.9166667,55.6833333
+re,colimacons,Colimaçons,00,,-21.1166667,55.3166667
+re,colosse,Colosse,00,,-20.9166667,55.6833333
+re,commune ango,Commune Ango,00,,-20.9333333,55.6166667
+re,commune begue,Commune Bègue,00,,-20.9333333,55.6333333
+re,commune carron,Commune Carron,00,,-20.9166667,55.6166667
+re,conde,Condé,00,,-21.2833333,55.5
+re,confiance,Confiance,00,,-21.05,55.7166667
+re,convenance ancienne usine,Convenance Ancienne Usine,00,,-20.8833333,55.5666667
+re,convenance,Convenance,00,,-20.8833333,55.5666667
+re,demenjod,Demenjod,00,,-20.9,55.5
+re,desbassyns,Desbassyns,00,,-20.9,55.5
+re,desert,Désert,00,,-20.95,55.6333333
+re,dimitile,Dimitile,00,,-21.2833333,55.6
+re,domenjod,Domenjod,00,,-20.9,55.5
+re,dos d'ane,Dos d'Âne,00,,-20.9666667,55.3833333
+re,entre-deux,Entre-Deux,00,5788,-21.2333333,55.4666667
+re,eperon,Éperon,00,,-21.0333333,55.25
+re,esperance,Espérance,00,,-20.9166667,55.5166667
+re,etang de saint andre,Etang de Saint Andre,00,,-20.9166667,55.6666667
+re,etang,Etang,00,,-20.9166667,55.6666667
+re,etang-les hauts,Étang-les Hauts,00,,-21.1333333,55.3333333
+re,etang-sale,Étang-Salé,00,,-21.25,55.3833333
+re,etang-sale les bains,Étang-Salé les Bains,00,,-21.25,55.3333333
+re,etanq les hauts,Etanq les Hauts,00,,-21.1333333,55.3333333
+re,etan-sale-les-hauts,Étan-Salé-les-Hauts,00,,-21.25,55.3833333
+re,fiague,Fiague,00,,-21.25,55.4333333
+re,fiagues,Fiagues,00,,-21.25,55.4333333
+re,filaos,Filaos,00,,-21.0666667,55.2333333
+re,flacourt,Flacourt,00,,-20.8833333,55.5666667
+re,fleurimont,Fleurimont,00,,-21.0333333,55.2666667
+re,fleurs jaunes-les hauts,Fleurs Jaunes-les Hauts,00,,-21.0,55.5333333
+re,franche terre,Franche Terre,00,,-20.8833333,55.5833333
+re,f. sauger,F. Sauger,00,,-21.0166667,55.25
+re,gillot,Gillot,00,,-20.8833333,55.5166667
+re,girofle,Girofle,00,,-21.3666667,55.7
+re,gol,Gôl,00,,-21.25,55.4
+re,gol-le haut,Gôl-le Haut,00,,-21.2333333,55.4166667
+re,grand bassin,Grand Bassin,00,,-21.1666667,55.5333333
+re,grand bois,Grand Bois,00,,-21.35,55.5333333
+re,grand coude,Grand Coude,00,,-21.2666667,55.6333333
+re,grande anse,Grande Anse,00,,-21.3666667,55.55
+re,grande chaloupe,Grande Chaloupe,00,,-20.8833333,55.3833333
+re,grande place,Grande Place,00,,-21.0333333,55.4166667
+re,grande ravine,Grande Ravine,00,,-20.9,55.5833333
+re,grand fond,Grand Fond,00,,-21.0333333,55.2166667
+re,grand fonds,Grand Fonds,00,,-21.0333333,55.2166667
+re,grand galet,Grand Galet,00,,-21.2833333,55.6333333
+re,grand ilet,Grand Îlet,00,,-21.0166667,55.4833333
+re,grands bois,Grands Bois,00,,-21.35,55.5333333
+re,halte-la,Halte-là,00,,-20.95,55.3333333
+re,harmonie,Harmonie,00,,-21.0,55.7166667
+re,hell-bourg,Hell-Bourg,00,,-21.05,55.5333333
+re,hermitage,Hermitage,00,,-21.0666667,55.2333333
+re,ilet a cordes,Îlet à Cordes,00,,-21.1333333,55.4333333
+re,ilet a dejeuner,Îlet à Déjeuner,00,,-20.9833333,55.4166667
+re,ilet a guillaume,Îlet à Guillaume,00,,-20.9333333,55.4166667
+re,ilet a malheur,Îlet à Malheur,00,,-21.0166667,55.4333333
+re,ilet a vidot,Îlet à Vidot,00,,-21.3,55.6166667
+re,ilet bois-rouge,Îlet Bois-Rouge,00,,-21.0166667,55.4
+re,ilet denise,Îlet Denise,00,,-20.9666667,55.3666667
+re,ilet de roche plate,Îlet de Roche Plate,00,,-21.2333333,55.6166667
+re,ilet des lataniers,Îlet des Lataniers,00,,-21.0333333,55.4
+re,ilet du palmiste rouge,Ilet du Palmiste Rouge,00,,-21.15,55.4833333
+re,ilet du peter-boot,Îlet du Peter-Boot,00,,-21.15,55.4666667
+re,ilet flamand,Îlet Flamand,00,,-20.9833333,55.4666667
+re,ilet marron,Îlet Marron,00,,-21.2,55.5166667
+re,ilet morin,Îlet Morin,00,,-21.0,55.5666667
+re,ilet nourry,Îlet Nourry,00,,-20.9833333,55.4
+re,ilet ronde,Îlet Ronde,00,,-21.2333333,55.45
+re,ilet solitude,Îlet Solitude,00,,-20.9666667,55.3666667
+re,ilet techer,Îlet Techer,00,,-21.1833333,55.5166667
+re,ilet tommic,Îlet Tommic,00,,-21.15,55.4666667
+re,jacques payet,Jacques Payet,00,,-21.3166667,55.6666667
+re,jean petit,Jean Petit,00,,-21.3166667,55.6333333
+re,jean petit-les bas,Jean Petit-les Bas,00,,-21.35,55.6166667
+re,la bretagne,La Bretagne,00,,-20.9,55.5
+re,la butte,La Butte,00,,-20.9166667,55.3
+re,la caroline,La Caroline,00,,-20.9833333,55.65
+re,la chaloupe saint-leu,La Chaloupe Saint-Leu,00,,-21.1166667,55.3166667
+re,la chatoire,La Chatoire,00,,-21.2666667,55.5166667
+re,la crete,La Crête,00,,-21.3333333,55.65
+re,la croix,La Croix,00,,-21.2166667,55.3333333
+re,la fontaine,La Fontaine,00,,-21.1333333,55.3166667
+re,la fontaine-les hauts,La Fontaine-les Hauts,00,,-21.1333333,55.3333333
+re,la goyave,La Goyave,00,,-21.35,55.6166667
+re,la grande chaloupe,La Grande Chaloupe,00,,-20.8833333,55.3833333
+re,la grande montee,La Grande Montée,00,,-20.9,55.5333333
+re,la mare,La Mare,00,,-20.8833333,55.5333333
+re,la mare usine,La Mare Usine,00,,-20.8833333,55.5333333
+re,la marine,La Marine,00,,-20.9,55.6166667
+re,la montagne,La Montagne,00,,-20.8833333,55.4333333
+re,langevin,Langevin,00,,-21.3666667,55.65
+re,la nouvelle,La Nouvelle,00,,-21.0666667,55.4166667
+re,la paix,La Paix,00,,-21.0166667,55.6666667
+re,la passarelle,La Passarelle,00,,-21.3333333,55.65
+re,la petite ile,La Petite Île,00,,-20.8666667,55.4333333
+re,la plaine des cafres,La Plaine des Cafres,00,,-21.2166667,55.55
+re,la plaine des palmistes,La Plaine des Palmistes,00,,-21.1166667,55.6333333
+re,la plaine,La Plaine,00,,-20.9666667,55.3333333
+re,la point-aux-galets,La Point-aux-galets,00,,-20.9166667,55.3
+re,la pointe,La Pointe,00,,-21.2333333,55.4833333
+re,la possession,La Possession,00,26867,-20.9166667,55.3333333
+re,la providence,La Providence,00,,-20.8833333,55.45
+re,la renaissance,La Renaissance,00,,-21.0166667,55.2833333
+re,la ressource,La Ressource,00,,-20.9,55.5666667
+re,la riviere des pluies,La Rivière des Pluies,00,,-20.9,55.5166667
+re,la riviere des roches,La Rivière des Roches,00,,-20.9833333,55.7
+re,la riviere,La Rivière,00,,-20.95,55.3166667
+re,la saline,La Saline,00,,-21.0666667,55.2666667
+re,la saline-les bas,La Saline-les Bas,00,,-21.0833333,55.2333333
+re,la vallee,La Vallée,00,,-21.2833333,55.45
+re,la vigne,La Vigne,00,,-20.9,55.6166667
+re,le barrage,Le Barrage,00,,-21.0833333,55.2833333
+re,le belier,Le Bélier,00,,-21.0333333,55.4666667
+re,le besave,Le Bésave,00,,-21.35,55.6166667
+re,le bois de nefles,Le Bois de Nèfles,00,,-20.9833333,55.3333333
+re,le bois d'olive,Le Bois d'Olive,00,,-21.2833333,55.45
+re,le bras creux,Le Bras Creux,00,,-21.1166667,55.6
+re,le brule,Le Brûlé,00,,-20.9,55.4333333
+re,le butor,Le Butor,00,,-20.8666667,55.4666667
+re,le cap,Le Cap,00,,-21.0666667,55.7166667
+re,le cap-les hauts,Le Cap-les Hauts,00,,-21.15,55.3333333
+re,le cazabois,Le Cazabois,00,,-21.0333333,55.4666667
+re,le chaudron,Le Chaudron,00,,-20.8833333,55.5
+re,le coeur saignant,Le Coeur Saignant,00,,-20.9166667,55.6833333
+re,le colosse,Le Colosse,00,,-20.9166667,55.6833333
+re,le cratere,Le Cratère,00,,-21.05,55.6833333
+re,le delice,Le Délice,00,,-20.9333333,55.6333333
+re,le diore,Le Dioré,00,,-20.9666667,55.6333333
+re,le dix-neuvieme,Le Dix-Neuvième,00,,-21.2333333,55.55
+re,le dix-septieme,Le Dix-Septième,00,,-21.2333333,55.5333333
+re,le fond de maurice,Le Fond de Maurice,00,,-21.2333333,55.3333333
+re,le gol,Le Gôl,00,,-21.2333333,55.4166667
+re,le goyave,Le Goyave,00,,-21.35,55.6166667
+re,le grand galet,Le Grand Galet,00,,-21.2833333,55.6333333
+re,le guillaume,Le Guillaume,00,,-21.0333333,55.3166667
+re,le lambert,Le Lambert,00,,-21.2333333,55.3666667
+re,le maniron,Le Maniron,00,,-21.2333333,55.4
+re,l'entre-deux,L'Entre-Deux,00,,-21.2333333,55.4666667
+re,le onzieme,Le Onzième,00,,-21.2666667,55.5333333
+re,le ouaki,Le Ouaki,00,,-21.25,55.45
+re,le patelin,Le Patelin,00,,-20.95,55.6666667
+re,le pavillon,Le Pavillon,00,,-21.1666667,55.45
+re,l'eperon,L'Éperon,00,,-21.0333333,55.25
+re,le petit brule,Le Petit Brûlé,00,,-21.1166667,55.7666667
+re,le petit tampon,Le Petit Tampon,00,,-21.2833333,55.5333333
+re,le portail,Le Portail,00,,-21.2,55.3
+re,le port des galets,Le Port des Galets,00,,-20.9166667,55.3
+re,le port,Le Port,00,40774,-20.9166667,55.3
+re,le pourpier,Le Pourpier,00,,-20.9666667,55.3166667
+re,le quatorzieme,Le Quatorzième,00,,-21.25,55.5333333
+re,le ramier,Le Ramier,00,,-21.0,55.5333333
+re,l'ermitage-les bas,L'Ermitage-les Bas,00,,-21.0666667,55.2333333
+re,le rond,Le Rond,00,,-21.3,55.6
+re,le ruisseau,Le Ruisseau,00,,-21.2333333,55.4333333
+re,les aigrettes,Les Aigrettes,00,,-21.1166667,55.4666667
+re,les avirons,Les Avirons,00,,-21.2333333,55.3333333
+re,l'escalier,L'Escalier,00,,-20.9833333,55.5666667
+re,les camelias,Les Camélias,00,,-20.8666667,55.4666667
+re,les canots,Les Canots,00,,-21.2333333,55.3666667
+re,les chicots,Les Chicots,00,,-21.1,55.75
+re,les cocos,Les Cocos,00,,-21.2666667,55.4333333
+re,les colimacons,Les Colimaçons,00,,-21.1166667,55.3166667
+re,les deux bras,Les Deux Bras,00,,-20.9833333,55.4
+re,les jacques,Les Jacques,00,,-21.0666667,55.7
+re,les lianes,Les Lianes,00,,-21.3333333,55.6
+re,les orangers,Les Orangers,00,,-21.1,55.75
+re,les quatre-cents,Les Quatre-Cents,00,,-21.2666667,55.5
+re,les sables blancs,Les Sables Blancs,00,,-21.3333333,55.7833333
+re,les six-cents,Les Six-Cents,00,,-21.2666667,55.5166667
+re,les trois-bassins,Les Trois-Bassins,00,7114,-21.1,55.3
+re,les trois freres,Les Trois Frères,00,,-20.8833333,55.6
+re,les trois mares,Les Trois Mares,00,,-21.25,55.5
+re,les vacoas,Les Vacoas,00,,-21.3166667,55.8
+re,le tampon,Le Tampon,00,69989,-21.2666667,55.5166667
+re,l'etang,L'Étang,00,,-20.9166667,55.6666667
+re,l'etang-sale,L'Étang-Salé,00,,-21.25,55.3833333
+re,le tevelave,Le Tévelave,00,,-21.2,55.35
+re,le titan,Le Titan,00,,-20.9166667,55.3
+re,le waki,Le Waki,00,,-21.25,55.45
+re,l'hermitage-les bas,L'Hermitage-les Bas,00,,-21.0666667,55.2333333
+re,l'hermitage,L'Hermitage,00,,-21.0666667,55.2333333
+re,ligne des bambous,Ligne des Bambous,00,,-21.2833333,55.5
+re,l'ilet aux palmistes,L'Îlet aux Palmistes,00,,-21.3166667,55.8
+re,l'ilet,L'Îlet,00,,-21.3,55.6
+re,l'oasis,L'Oasis,00,,-21.0333333,55.6666667
+re,mafatte,Mafatte,00,,-21.05,55.4166667
+re,mahavel,Mahavel,00,,-21.2666667,55.4666667
+re,maison de l'enfance,Maison de l'Enfance,00,,-21.2,55.5666667
+re,maison henou,Maison Henou,00,,-21.1333333,55.5833333
+re,maison isautier,Maison Isautier,00,,-21.3,55.5333333
+re,maison james biget,Maison James Biget,00,,-21.2,55.5166667
+re,maison lelievre,Maison Lelièvre,00,,-21.0833333,55.3166667
+re,maison leroux,Maison Leroux,00,,-21.2,55.8166667
+re,maison moullan,Maison Moullan,00,,-21.0333333,55.5
+re,maison payet,Maison Payet,00,,-20.9666667,55.6333333
+re,maison rouge,Maison Rouge,00,,-21.25,55.4166667
+re,makes,Makes,00,,-21.2,55.4333333
+re,manapany-les bains,Manapany-les Bains,00,,-21.3666667,55.6
+re,manapany-les hauts,Manapany-les Hauts,00,,-21.3166667,55.5833333
+re,manapany,Manapany,00,,-21.35,55.5666667
+re,ma pensee,Ma Pensée,00,,-20.9833333,55.7
+re,mare a citrons,Mare à Citrons,00,,-21.0166667,55.5166667
+re,mare a vieille place,Mare à Vieille Place,00,,-21.0166667,55.5166667
+re,mare longue,Mare Longue,00,,-21.3666667,55.75
+re,mare,Mare,00,,-20.8833333,55.5333333
+re,marepine,Marepine,00,,-20.85,55.5166667
+re,matouta,Matouta,00,,-21.35,55.7
+re,menciol,Menciol,00,,-20.9333333,55.6333333
+re,m. lamotte,M. Lamotte,00,,-20.9833333,55.6666667
+re,moka,Moka,00,,-20.9166667,55.5166667
+re,mon caprice,Mon Caprice,00,,-21.3,55.5
+re,monrepos,Monrepos,00,,-20.9666667,55.3166667
+re,montagne,Montagne,00,,-20.8833333,55.4333333
+re,montvert-les bas,Montvert-les Bas,00,,-21.3166667,55.5333333
+re,montvert-les hauts,Montvert-les Hauts,00,,-21.3,55.55
+re,montvert,Montvert,00,,-21.3166667,55.5333333
+re,morange,Morange,00,,-21.0833333,55.7333333
+re,noel,Noël,00,,-21.2166667,55.3166667
+re,orne,Orne,00,,-21.35,55.55
+re,orre,Orré,00,,-21.35,55.55
+re,orres,Orres,00,,-21.35,55.55
+re,palmistes rouges,Palmistes Rouges,00,,-21.15,55.4833333
+re,pavillon,Pavillon,00,,-21.1666667,55.45
+re,peter-boot,Peter-boot,00,,-21.15,55.4666667
+re,petit bazar,Petit Bazar,00,,-20.9166667,55.65
+re,petite ile,Petite Île,00,,-21.35,55.5666667
+re,petite ravine,Petite Ravine,00,,-21.1166667,55.3
+re,petit sable,Petit Sable,00,,-21.0166667,55.55
+re,petit saint-pierre,Petit Saint-Pierre,00,,-21.0666667,55.75
+re,petit serre,Petit Serré,00,,-21.2,55.45
+re,pichete,Pichète,00,,-20.95,55.3333333
+re,pierrefonds,Pierrefonds,00,,-21.2833333,55.4333333
+re,pierrefonds usine,Pierrefonds Usine,00,,-21.2833333,55.4333333
+re,piton,Piton,00,,-20.95,55.3
+re,piton sainte-rose,Piton Sainte-Rose,00,,-21.15,55.8333333
+re,plaine des gregues,Plaine des Grègues,00,,-21.3166667,55.6166667
+re,plaine des palmistes,Plaine des Palmistes,00,,-21.1166667,55.6333333
+re,plate,Plate,00,,-21.2,55.3333333
+re,pont dives,Pont Dives,00,,-21.2166667,55.5
+re,portail,Portail,00,,-21.2,55.3
+re,port de la pointe des galets,Port de la Pointe des Galets,00,,-20.9166667,55.3
+re,port des galets,Port des Galets,00,,-20.9166667,55.3
+re,port,Port,00,,-20.9166667,55.3
+re,possession,Possession,00,,-20.9166667,55.3333333
+re,quartier-francais,Quartier-Français,00,,-20.9166667,55.6333333
+re,ravine a malheur,Ravine à Malheur,00,,-20.9166667,55.3833333
+re,ravine a marquet,Ravine à Marquet,00,,-20.95,55.3333333
+re,ravine blanche,Ravine Blanche,00,,-21.3166667,55.4666667
+re,ravine creuse,Ravine Creuse,00,,-20.95,55.6666667
+re,ravine d'ango,Ravine d'Ango,00,,-21.3333333,55.8
+re,ravine des cabris,Ravine des Cabris,00,,-21.25,55.5166667
+re,ravine des cafres-les bas,Ravine des Cafres-les Bas,00,,-21.3333333,55.5
+re,ravine des cafres-les hauts,Ravine des Cafres-les Hauts,00,,-21.3166667,55.5333333
+re,ravine des chevres-les hauts,Ravine des Chèvres-les Hauts,00,,-20.9,55.5666667
+re,ravine des chevres,Ravine des Chèvres,00,,-20.9,55.5833333
+re,ravine du mat les bas,Ravine du Mât les Bas,00,,-20.95,55.7
+re,ravine du pont-les bas,Ravine du Pont-les Bas,00,,-21.35,55.5666667
+re,ravine du pont,Ravine du Pont,00,,-21.3166667,55.5666667
+re,ravine glissante,Ravine Glissante,00,,-21.1166667,55.8
+re,ravine martin,Ravine Martin,00,,-21.1666667,55.45
+re,ravine seche,Ravine Sèche,00,,-21.2333333,55.35
+re,renaissance,Renaissance,00,,-20.9,55.6166667
+re,repuissance,Repuissance,00,,-20.9,55.6166667
+re,ressource,Ressource,00,,-20.9,55.5666667
+re,reunion,Réunion,00,,-20.8833333,55.5333333
+re,revolution,Révolution,00,,-20.8833333,55.55
+re,riviere de l'est,Rivière de l'Est,00,,-21.1,55.7666667
+re,riviere des pluies,Rivière des Pluies,00,,-20.9,55.5166667
+re,riviere du mat-les bas,Rivière du Mât-les Bas,00,,-20.95,55.7
+re,riviere du mat-les hauts,Rivière du Mât-les Hauts,00,,-20.9666667,55.65
+re,riviere du mat,Rivière du Mât,00,,-20.9666667,55.65
+re,riviere du mat usine,Rivière du Mât Usine,00,,-20.9666667,55.65
+re,riviere du rempart,Rivière du Rempart,00,,-21.3666667,55.6166667
+re,riviere,Rivière,00,,-20.95,55.3166667
+re,riviere saint-pierre,Rivière Saint-Pierre,00,,-21.0833333,55.7333333
+re,rivieres,Rivières,00,,-21.2333333,55.45
+re,roche maigre,Roche Maigre,00,,-21.25,55.4166667
+re,roche plate,Roche Plate,00,,-21.2333333,55.6166667
+re,ruisseau,Ruisseau,00,,-21.2333333,55.4333333
+re,saint-andre,Saint-André,00,48675,-20.95,55.65
+re,saint-benoit,Saint-Benoît,00,35312,-21.0333333,55.7166667
+re,saint-bernard,Saint-Bernard,00,,-20.9,55.4
+re,saint-denis,Saint-Denis,00,137198,-20.8666667,55.4666667
+re,sainte-anne-les hauts,Sainte-Anne-les Hauts,00,,-21.0833333,55.7166667
+re,sainte-anne,Sainte-Anne,00,,-21.0666667,55.75
+re,sainte-clotilde,Sainte-Clotilde,00,,-20.8833333,55.4833333
+re,sainte-marie,Sainte-Marie,00,31638,-20.8833333,55.55
+re,sainte-rose,Sainte-Rose,00,7036,-21.1,55.7833333
+re,sainte-suzanne,Sainte-Suzanne,00,20531,-20.9,55.6166667
+re,sainte-therese,Sainte-Thérèse,00,,-20.9333333,55.3333333
+re,saint-francois,Saint-François,00,,-20.9,55.4666667
+re,saint-gilles-les bains,Saint-Gilles-les Bains,00,,-21.0333333,55.2333333
+re,saint-gilles-les hauts,Saint-Gilles-les Hauts,00,,-21.0333333,55.25
+re,saint gilles,Saint Gilles,00,,-21.0333333,55.2333333
+re,saint-joseph,Saint-Joseph,00,33696,-21.3666667,55.6166667
+re,saint-leu,Saint-Leu,00,28280,-21.15,55.2833333
+re,saint-louis,Saint-Louis,00,47884,-21.2666667,55.4166667
+re,saint-paul,Saint-Paul,00,99309,-21.0,55.2666667
+re,saint-philippe,Saint-Philippe,00,5441,-21.35,55.7666667
+re,saint phillippe,Saint Phillippe,00,,-21.35,55.7666667
+re,saint-pierre,Saint-Pierre,00,76657,-21.3166667,55.4833333
+re,salazie,Salazie,00,7696,-21.0166667,55.55
+re,salazie village,Salazie Village,00,,-21.0166667,55.55
+re,saline-les hauts,Saline-les Hauts,00,,-21.0833333,55.3166667
+re,saline,Saline,00,,-21.0666667,55.2666667
+re,savannah,Savannah,00,,-20.9666667,55.3166667
+re,savannah usine,Savannah Usine,00,,-20.9666667,55.3166667
+re,semaines,Semaines,00,,-20.8833333,55.5833333
+re,six cents,Six Cents,00,,-21.2666667,55.5166667
+re,sous les bois noirs,Sous les Bois Noirs,00,,-21.3666667,55.6333333
+re,stella matutina,Stella Matutina,00,,-21.1833333,55.3
+re,stella,Stella,00,,-21.1833333,55.3
+re,surprise,Surprise,00,,-21.15,55.3
+re,takamaka,Takamaka,00,,-21.3,55.8
+re,tampon,Tampon,00,,-21.2666667,55.5166667
+re,terre rouge,Terre Rouge,00,,-21.3333333,55.5
+re,terre sainte,Terre Sainte,00,,-21.3333333,55.4833333
+re,tremblet,Tremblet,00,,-21.2833333,55.8
+re,trinite,Trinité,00,,-21.3333333,55.7666667
+re,trois bassins,Trois Bassins,00,,-21.1,55.3
+re,trois mares-les hauts,Trois Mares-les Hauts,00,,-21.2333333,55.5166667
+re,union,Union,00,,-20.9833333,55.6666667
+re,usine du gol,Usine du Gol,00,,-21.25,55.4
+re,vacoas,Vacoas,00,,-21.3166667,55.8
+re,vallee orre,Vallée Orré,00,,-21.2833333,55.45
+re,verger hemery,Verger Hemery,00,,-21.3666667,55.55
+re,village de l'anse,Village de l'Anse,00,,-21.3166667,55.55
+re,village de la petite ile,Village de la Petite Ile,00,,-21.35,55.5666667
+re,village de montvert,Village de Montvert,00,,-21.3166667,55.5333333
+re,village du piton,Village du Piton,00,,-21.2,55.3166667
+re,village du tampon,Village du Tampon,00,,-21.2666667,55.5166667
+re,village ravine du pont,Village Ravine du Pont,00,,-21.3166667,55.5666667
+re,village sainte anne,Village Sainte Anne,00,,-21.0666667,55.75
+re,vincendo,Vincendo,00,,-21.35,55.6833333
+re,vue belle,Vue Belle,00,,-21.0666667,55.2666667

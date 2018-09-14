@@ -1,0 +1,804 @@
+mq,abandonne,Abandonné,00,,14.8166667,-61.1166667
+mq,abondance,Abondance,00,,14.5333333,-60.8833333
+mq,absalon,Absalon,00,,14.6833333,-61.1
+mq,abymes,Abymes,00,,14.8,-61.2166667
+mq,acajou,Acajou,00,,14.6166667,-61.0166667
+mq,adelaide maillet,Adélaïde Maillet,00,,14.5166667,-60.9
+mq,adinet,Adinet,00,,14.8166667,-61.1166667
+mq,ajoupa-bouillon,Ajoupa-Bouillon,00,,14.8166667,-61.1166667
+mq,alma,Alma,00,,14.7,-61.1
+mq,anse caffard,Anse Caffard,00,,14.4666667,-61.05
+mq,anse figuier,Anse Figuier,00,,14.45,-60.9166667
+mq,anse figuiers,Anse Figuiers,00,,14.45,-60.9166667
+mq,anse madame,Anse Madame,00,,14.6166667,-61.1
+mq,anses d'arlet,Anses d'Arlet,00,,14.4833333,-61.0833333
+mq,anses d'arlets,Anses d'Arlets,00,,14.4833333,-61.0833333
+mq,augrain,Augrain,00,,14.6666667,-60.95
+mq,bac,Bac,00,,14.5833333,-60.9666667
+mq,baguidi,Baguidi,00,,14.5166667,-61.1
+mq,balata,Balata,00,,14.4666667,-60.8666667
+mq,balata-tourtet,Balata-Tourtet,00,,14.6333333,-61.0833333
+mq,bambous,Bambous,00,,14.5166667,-60.8833333
+mq,bareto,Baréto,00,,14.4333333,-60.8666667
+mq,barington,Barington,00,,14.55,-60.9666667
+mq,barriere-la-croix,Barrière-la-Croix,00,,14.45,-60.85
+mq,bas quartier la gondeau,Bas Quartier la Gondeau,00,,14.6166667,-61.0333333
+mq,basse-pointe,Basse-Pointe,00,4037,14.8666667,-61.1166667
+mq,baudelle,Baudelle,00,,14.5333333,-60.9166667
+mq,beauchamp,Beauchamp,00,,14.6166667,-60.95
+mq,beauregard,Beauregard,00,,14.6,-60.9
+mq,becouya,Bécouya,00,,14.6666667,-60.9833333
+mq,bel-air,Bel-Air,00,,14.55,-60.8666667
+mq,bel event,Bel Event,00,,14.6833333,-61.15
+mq,belfort,Belfort,00,,14.65,-61.0
+mq,bellay,Bellay,00,,14.4833333,-60.9166667
+mq,belle ame,Belle Âme,00,,14.6166667,-60.9333333
+mq,belle etoile,Belle Étoile,00,,14.4833333,-60.8333333
+mq,bellefontaine,Bellefontaine,00,,14.6666667,-61.1666667
+mq,belle languette,Belle Languette,00,,14.45,-60.8333333
+mq,bellevue,Bellevue,00,,14.4666667,-60.9333333
+mq,bernard,Bernard,00,,14.45,-60.8833333
+mq,bezaudin,Bézaudin,00,,14.75,-61.0333333
+mq,birot,Birot,00,,14.7166667,-60.9833333
+mq,bois carre,Bois Carré,00,,14.6166667,-61.0
+mq,bois d'inde,Bois d'Inde,00,,14.7,-61.0
+mq,bois du parc,Bois du Parc,00,,14.6666667,-61.05
+mq,bois la charles,Bois la Charles,00,,14.5333333,-60.9333333
+mq,bois lezards,Bois Lézards,00,,14.7166667,-61.0166667
+mq,bois neuf,Bois Neuf,00,,14.4666667,-60.8333333
+mq,bois-neuf,Bois-Neuf,00,,14.5833333,-60.9333333
+mq,bois neuf,Bois Neuf,00,,14.6333333,-61.0333333
+mq,bois soldat,Bois Soldat,00,,14.6,-60.9
+mq,bois zombi,Bois Zombi,00,,14.65,-60.9666667
+mq,bon air,Bon Air,00,,14.7333333,-61.0
+mq,bonneau,Bonneau,00,,14.6833333,-60.95
+mq,bonneville,Bonneville,00,,14.75,-61.0
+mq,bon repos,Bon Repos,00,,14.8166667,-61.0833333
+mq,borel,Borel,00,,14.4833333,-60.9166667
+mq,bossou,Bossou,00,,14.5833333,-60.9166667
+mq,boucan,Boucan,00,,14.4666667,-60.8833333
+mq,boutaud,Boutaud,00,,14.6666667,-60.9666667
+mq,brevette,Brevette,00,,14.7166667,-60.9666667
+mq,brin d'amour,Brin d'Amour,00,,14.7333333,-60.9666667
+mq,cadette,Cadette,00,,14.5666667,-60.8833333
+mq,cafe,Café,00,,14.7,-61.95
+mq,californie,Californie,00,,14.6,-60.95
+mq,camee,Camée,00,,14.4666667,-60.9
+mq,canton suisse,Canton Suisse,00,,14.7,-61.15
+mq,cap cabaret,Cap Cabaret,00,,14.45,-60.8333333
+mq,cap chevalier,Cap Chevalier,00,,14.4333333,-60.8333333
+mq,cap-marin,Cap-Marin,00,,14.4666667,-60.85
+mq,carabin,Carabin,00,,14.8,-61.05
+mq,carbet,Carbet,00,,14.7,-61.1833333
+mq,caritan,Caritan,00,,14.4333333,-60.8833333
+mq,case navire,Case Navire,00,,14.6166667,-61.1
+mq,case-pilote,Case-Pilote,00,,14.6333333,-61.1333333
+mq,cedalise,Cédalise,00,,14.4666667,-60.8833333
+mq,chambort,Chambort,00,,14.6333333,-61.0166667
+mq,champfleury,Champfleury,00,,14.4666667,-60.8333333
+mq,champ flore,Champ Flore,00,,14.75,-61.1333333
+mq,chapelle villarson,Chapelle Villarson,00,,14.6333333,-60.9166667
+mq,chateauba“uf,ChateaubÅ“uf,00,,14.6166667,-61.05
+mq,chateau gaillard,Château Gaillard,00,,14.5166667,-61.0
+mq,chertine,Chertine,00,,14.75,-61.0
+mq,chevalier,Chevalier,00,,14.4833333,-60.9
+mq,cite dillon,Cité Dillon,00,,14.6,-61.05
+mq,cite petit manoir,Cité Petit Manoir,00,,14.6,-61.0
+mq,clairiere,Clairière,00,,14.6,-61.0833333
+mq,cluny,Cluny,00,,14.6166667,-61.0833333
+mq,concorde,Concorde,00,,14.5166667,-61.0333333
+mq,concorde-leyritz,Concorde-Leyritz,00,,14.5166667,-61.0333333
+mq,coridon,Coridon,00,,14.6166667,-61.0666667
+mq,corps de garde,Corps de Garde,00,,14.4666667,-60.95
+mq,courbaril,Courbaril,00,,14.5333333,-60.95
+mq,croisee decius,Croisée Décius,00,,14.4666667,-60.85
+mq,croisee jeanne d'arc,Croisée Jeanne d'Arc,00,,14.6333333,-61.0166667
+mq,croisee manioc,Croisée Manioc,00,,14.6666667,-61.0333333
+mq,croisee palmiste,Croisée Palmiste,00,,14.7333333,-60.9666667
+mq,croisee soldat,Croisée Soldat,00,,14.7166667,-60.9833333
+mq,croix blanche,Croix Blanche,00,,14.6833333,-61.0
+mq,croix odilon,Croix Odilon,00,,14.7,-60.9833333
+mq,daubert,Daubert,00,,14.6666667,-60.9833333
+mq,delivry,Délivry,00,,14.4833333,-60.9166667
+mq,demare,Démare,00,,14.8166667,-61.1166667
+mq,derriere-bois,Derrière-Bois,00,,14.65,-61.0
+mq,derriere morne,Derrière Morne,00,,14.75,-60.9833333
+mq,desert,Désert,00,,14.4666667,-60.95
+mq,desforts,Desforts,00,,14.7166667,-60.9666667
+mq,desmariniere,Desmarinière,00,,14.5,-60.95
+mq,desmarinieres,Desmarinières,00,,14.5,-60.95
+mq,desruisseaux,Desruisseaux,00,,14.5166667,-60.8833333
+mq,deus chous,Deus Chous,00,,14.7333333,-61.1
+mq,deux choux,Deux Choux,00,,14.7333333,-61.1
+mq,diaka,Diaka,00,,14.4666667,-60.8666667
+mq,diamant,Diamant,00,,14.4666667,-61.0333333
+mq,dominant,Dominant,00,,14.7,-60.9833333
+mq,dominante,Dominante,00,,14.7833333,-61.0333333
+mq,duchene,Duchêne,00,,14.6333333,-60.95
+mq,duchesne,Duchesne,00,,14.6333333,-60.95
+mq,ducos,Ducos,00,17395,14.5666667,-60.9833333
+mq,duhamelin,Duhamelin,00,,14.8,-61.0333333
+mq,dumaine,Dumaine,00,,14.5833333,-60.9
+mq,duquesne,Duquesne,00,,14.5833333,-60.9333333
+mq,esperance,Espérance,00,,14.5333333,-61.05
+mq,eudorcait,Eudorçait,00,,14.75,-61.0166667
+mq,fantaisie,Fantaisie,00,,14.6166667,-61.05
+mq,faubourg scha“lcher,Faubourg SchÅ“lcher,00,,14.4833333,-60.9
+mq,favorite,Favorite,00,,14.6333333,-61.0333333
+mq,ferme saint-jacques,Ferme Saint-Jacques,00,,14.8,-61.0166667
+mq,ferre,Ferré,00,,14.4666667,-60.8333333
+mq,fleury,Fleury,00,,14.8,-61.0333333
+mq,floreal,Floréal,00,,14.6166667,-61.05
+mq,fond abattoir,Fond Abattoir,00,,14.7666667,-61.1333333
+mq,fond belle fontaine,Fond Belle Fontaine,00,,14.6666667,-61.1666667
+mq,fond bernier,Fond Bernier,00,,14.6166667,-61.1166667
+mq,fond boheme,Fond Bohême,00,,14.6833333,-61.1333333
+mq,fond boucher,Fond Boucher,00,,14.65,-61.15
+mq,fond bourlet,Fond Bourlet,00,,14.6333333,-61.1333333
+mq,fond cacao,Fond Cacao,00,,14.65,-61.0333333
+mq,fond capot,Fond Capot,00,,14.6666667,-61.1666667
+mq,fond collat,Fond Collat,00,,14.6166667,-61.1
+mq,fond fleury,Fond Fleury,00,,14.4666667,-61.0666667
+mq,fond gens libres,Fond Gens Libres,00,,14.4833333,-60.85
+mq,fond-gens-libres,Fond-Gens-Libres,00,,14.8166667,-61.0666667
+mq,fond giromond,Fond Giromond,00,,14.65,-60.9666667
+mq,fond grande anse,Fond Grande Anse,00,,14.8,-61.0666667
+mq,fond guillet,Fond Guillet,00,,14.7666667,-61.1333333
+mq,fond hubert,Fond Hubert,00,,14.55,-60.8666667
+mq,fond-lahaye,Fond-Lahaye,00,,14.6166667,-61.1
+mq,fond marie-reine,Fond Marie-Reine,00,,14.75,-61.1166667
+mq,fond mascret,Fond Mascret,00,,14.7333333,-61.1333333
+mq,fond masson,Fond Masson,00,,14.5333333,-60.9333333
+mq,fond moustiques,Fond Moustiques,00,,14.4166667,-60.8833333
+mq,fond nicolas,Fond Nicolas,00,,14.6333333,-60.95
+mq,fond nigaud,Fond Nigaud,00,,14.6166667,-61.1
+mq,fond panier,Fond Panier,00,,14.5666667,-60.9833333
+mq,fond repos,Fond Repos,00,,14.45,-60.85
+mq,fond rose,Fond Rose,00,,14.75,-61.1166667
+mq,fond-saint-denis,Fond-Saint-Denis,00,,14.7333333,-61.1333333
+mq,fond saint-jacques,Fond Saint-Jacques,00,,14.7833333,-61.0
+mq,fonds boheme,Fonds Bohême,00,,14.6833333,-61.1333333
+mq,fonds boucher,Fonds Boucher,00,,14.65,-61.15
+mq,fonds bourlet,Fonds Bourlet,00,,14.6333333,-61.1333333
+mq,fonds brules,Fonds Brûlés,00,,14.65,-60.9666667
+mq,fonds capot,Fonds Capot,00,,14.6666667,-61.1666667
+mq,fonds d'or,Fonds d'Or,00,,14.8166667,-61.0333333
+mq,fonds-lahaye,Fonds-Lahaye,00,,14.6166667,-61.1
+mq,fonds nicolas,Fonds Nicolas,00,,14.6333333,-60.95
+mq,fonds panier,Fonds Panier,00,,14.5666667,-60.9833333
+mq,fonds-saint denis,Fonds-Saint Denis,00,,14.7333333,-61.1333333
+mq,fonds-saint-jacques,Fonds-Saint-Jacques,00,,14.7833333,-61.0
+mq,fonds zamy,Fonds Zamy,00,,14.55,-60.8833333
+mq,fond-zombi,Fond-Zombi,00,,14.65,-61.05
+mq,fontaine de moutte,Fontaine de Moutte,00,,14.6333333,-61.05
+mq,fort-de-france,Fort-de-France,00,89997,14.6,-61.0833333
+mq,fort royal,Fort Royal,00,,14.6,-61.0833333
+mq,four a chaux,Four à Chaux,00,,14.65,-60.95
+mq,francois,François,00,,14.6,-60.9
+mq,gabourin,Gabourin,00,,14.5833333,-60.9166667
+mq,gallochat,Gallochat,00,,14.5166667,-61.0666667
+mq,galocha,Galocha,00,,14.5166667,-61.0666667
+mq,garanne,Garanne,00,,14.8166667,-61.2166667
+mq,gerbault,Gerbault,00,,14.6,-61.05
+mq,glotin,Glotin,00,,14.6833333,-61.0
+mq,gondeau,Gondeau,00,,14.6166667,-61.0333333
+mq,gondeau-saint-joseph,Gondeau-Saint-Joseph,00,,14.6333333,-61.0333333
+mq,grand-court,Grand-Court,00,,14.45,-60.85
+mq,grande anse,Grande Anse,00,,14.5,-61.0833333
+mq,grande riviere,Grande Rivière,00,,14.8666667,-61.1833333
+mq,grande savane,Grande Savane,00,,14.5666667,-60.95
+mq,grand' riviere,Grand' Rivière,00,,14.8666667,-61.1833333
+mq,gros-morne,Gros-Morne,00,11026,14.7,-61.0
+mq,guenot,Guénot,00,,14.4833333,-60.9
+mq,guinee-fleury,Guinée-Fleury,00,,14.5166667,-60.9333333
+mq,hauteurs bourdon,Hauteurs Bourdon,00,,14.8333333,-61.1333333
+mq,hauteurs dumas,Hauteurs Dumas,00,,14.85,-61.1333333
+mq,hauteurs riviere roche,Hauteurs Rivière Roche,00,,14.85,-61.1333333
+mq,hyacinthe,Hyacinthe,00,,14.65,-60.9
+mq,jean-baptiste,Jean-Baptiste,00,,14.45,-60.9
+mq,jeanne d'arc,Jeanne d'Arc,00,,14.6333333,-61.0166667
+mq,josseaud,Josseaud,00,,14.5166667,-60.8833333
+mq,la bagerie,La Bagerie,00,,14.5166667,-61.05
+mq,la bateliere,La Batelière,00,,14.6,-61.1
+mq,la batterie,La Batterie,00,,14.6333333,-61.1333333
+mq,la baume,La Baume,00,,14.5333333,-60.8666667
+mq,la beleme,La Belème,00,,14.6333333,-61.0
+mq,la berry,La Berry,00,,14.4666667,-60.8666667
+mq,la boissiere,La Boissière,00,,14.55,-60.9
+mq,la bonnie,La Bonnie,00,,14.6333333,-60.9333333
+mq,la californie,La Californie,00,,14.6,-61.0333333
+mq,la canelle,La Canelle,00,,14.6666667,-60.9666667
+mq,la carriere,La Carrière,00,,14.5,-60.85
+mq,la casse,La Casse,00,,14.45,-60.8333333
+mq,la cesaire,La Césaire,00,,14.6166667,-61.0
+mq,la chapelle,La Chapelle,00,,14.6833333,-61.0333333
+mq,la chopotte,La Chopotte,00,,14.6166667,-60.9166667
+mq,la citerne,La Citerne,00,,14.7333333,-60.9666667
+mq,la clairiere,La Clairière,00,,14.6,-61.0833333
+mq,la croisee manioc,La Croisée Manioc,00,,14.6666667,-61.0333333
+mq,la debuc,La Debuc,00,,14.45,-60.8833333
+mq,la demarche,La Démarche,00,,14.6333333,-61.1166667
+mq,la dessaint,La Dessaint,00,,14.7166667,-61.1833333
+mq,la duchene,La Duchêne,00,,14.6333333,-60.95
+mq,la dumaine,La Dumaine,00,,14.5833333,-60.9
+mq,la duprey,La Duprey,00,,14.45,-60.8833333
+mq,la durand,La Durand,00,,14.6833333,-61.05
+mq,la farelle,La Farelle,00,,14.5833333,-60.9333333
+mq,la favorite,La Favorite,00,,14.6333333,-61.0333333
+mq,la ferme saint-jacques,La Ferme Saint-Jacques,00,,14.7833333,-61.0333333
+mq,la fontenay,La Fontenay,00,,14.5333333,-60.9333333
+mq,la fouquette,La Fouquette,00,,14.4666667,-60.85
+mq,la-haut,Là-Haut,00,,14.5333333,-60.95
+mq,la haut,La Haut,00,,14.6333333,-60.95
+mq,la huvet,La Huvet,00,,14.4666667,-60.8666667
+mq,l'ajoupa-bouillon,L'Ajoupa-Bouillon,00,,14.8166667,-61.1166667
+mq,lajus,Lajus,00,,14.7,-61.1833333
+mq,l'alma,L'Alma,00,,14.7,-61.1
+mq,la malevaut,La Malevaut,00,,14.5,-60.8333333
+mq,la manzo,La Manzo,00,,14.5833333,-60.95
+mq,la massel,La Massel,00,,14.5,-60.8666667
+mq,la mauny,La Mauny,00,,14.5,-60.9
+mq,la medaille,La Médaille,00,,14.7,-61.0833333
+mq,lamentin,Lamentin,00,,14.6,-61.0
+mq,la moise,La Moïse,00,,14.7333333,-60.95
+mq,la monnerot,La Monnerot,00,,14.6333333,-60.9333333
+mq,l'anse caffar,L'Anse Caffar,00,,14.4666667,-61.05
+mq,l'anse mitan,L'Anse Mitan,00,,14.5333333,-61.05
+mq,l'anse noire,L'Anse Noire,00,,14.5166667,-61.1
+mq,la pagerie,La Pagerie,00,,14.5166667,-61.05
+mq,la plaine,La Plaine,00,,14.5,-61.0666667
+mq,la redoute,La Redoute,00,,14.6166667,-61.05
+mq,la regale,La Régale,00,,14.6333333,-61.05
+mq,la renee,La Renée,00,,14.5166667,-60.9
+mq,la richard,La Richard,00,,14.5833333,-60.95
+mq,la salette,La Salette,00,,14.5833333,-60.9833333
+mq,la source,La Source,00,,14.4666667,-60.85
+mq,la suffrin,La Suffrin,00,,14.4666667,-60.9
+mq,la suin,La Suin,00,,14.55,-60.9
+mq,la tocnay,La Tocnay,00,,14.5,-60.8666667
+mq,la tracee,La Tracée,00,,14.7,-60.9833333
+mq,la tranchee,La Tranchée,00,,14.7333333,-61.1333333
+mq,la trinite,La Trinité,00,15041,14.7333333,-60.9666667
+mq,la vatable,La Vatable,00,,14.5166667,-61.0333333
+mq,la vierge,La Vierge,00,,14.4666667,-60.8666667
+mq,lazaret,Lazaret,00,,14.55,-61.05
+mq,le cap,Le Cap,00,,14.4666667,-60.85
+mq,le carbet,Le Carbet,00,,14.7,-61.1833333
+mq,le centre,Le Centre,00,,14.75,-61.1833333
+mq,le coin,Le Coin,00,,14.7,-61.1833333
+mq,le coteau,Le Coteau,00,,14.4833333,-60.9833333
+mq,le diamant,Le Diamant,00,,14.4666667,-61.0333333
+mq,le fort-de-france,Le Fort-de-France,00,,14.6,-61.0833333
+mq,le francois,Le François,00,19683,14.6,-60.9
+mq,le lamentin,Le Lamentin,00,39230,14.6,-61.0
+mq,le lorrain,Le Lorrain,00,8342,14.8333333,-61.0666667
+mq,le macouba,Le Macouba,00,,14.8666667,-61.15
+mq,le marigot,Le Marigot,00,,14.8166667,-61.0333333
+mq,le marin,Le Marin,00,7944,14.4666667,-60.8666667
+mq,le morne aux ba“ufs,Le Morne aux BÅ“ufs,00,,14.6833333,-61.1666667
+mq,le morne des olives,Le Morne des Olives,00,,14.6833333,-61.05
+mq,le morne rouge,Le Morne Rouge,00,,14.7666667,-61.1333333
+mq,le morne-vert,Le Morne-Vert,00,,14.7,-61.1333333
+mq,le mouillage,Le Mouillage,00,,14.7333333,-61.1666667
+mq,l'enclos,L'Enclos,00,,14.6166667,-61.1166667
+mq,le parnasse,Le Parnasse,00,,14.75,-61.1333333
+mq,le petit bourg,Le Petit Bourg,00,,14.5333333,-60.9666667
+mq,lepinay,Lépinay,00,,14.5,-60.9166667
+mq,le poirier,Le Poirier,00,,14.45,-60.9166667
+mq,le poteau,Le Poteau,00,,14.85,-61.1
+mq,le precheur,Le Prêcheur,00,,14.8,-61.2166667
+mq,l'ermitage,L'Ermitage,00,,14.6,-61.0666667
+mq,le robert,Le Robert,00,23815,14.6666667,-60.9333333
+mq,lero,Léro,00,,14.7333333,-60.9833333
+mq,les abymes,Les Abymes,00,,14.8,-61.2166667
+mq,le saint-esprit,Le Saint-Esprit,00,,14.55,-60.9333333
+mq,les anses d'arlet,Les Anses d'Arlet,00,,14.4833333,-61.0833333
+mq,les anses-d'arlets,Les Anses-d'Arlets,00,,14.4833333,-61.0833333
+mq,les boucaniers,Les Boucaniers,00,,14.4333333,-60.8833333
+mq,les coteaux,Les Coteaux,00,,14.4833333,-60.9833333
+mq,lescouet,Lescouët,00,,14.4833333,-60.8833333
+mq,les deux-terres,Les Deux-Terres,00,,14.7,-61.0
+mq,les flamboyants,Les Flamboyants,00,,14.4333333,-60.8833333
+mq,l'esperance,L'Espérance,00,,14.5333333,-61.05
+mq,les quatre chemins,Les Quatre Chemins,00,,14.4666667,-60.8666667
+mq,lestrade,Lestrade,00,,14.7,-60.9333333
+mq,les trois-ilets,Les Trois-Îlets,00,5658,14.5333333,-61.0333333
+mq,les trois ponts,Les Trois Ponts,00,,14.75,-61.1666667
+mq,le trou,Le Trou,00,,14.7166667,-61.1833333
+mq,le vauclin,Le Vauclin,00,7813,14.5333333,-60.8333333
+mq,lheureux,Lheureux,00,,14.6833333,-60.9666667
+mq,long bois,Long Bois,00,,14.6333333,-61.0
+mq,long-bois,Long-Bois,00,,14.6666667,-61.0166667
+mq,lorrain,Lorrain,00,,14.8333333,-61.0666667
+mq,lourdes,Lourdes,00,,14.4833333,-60.8833333
+mq,lunette-bouille,Lunette-Bouille,00,,14.6166667,-61.0666667
+mq,macedoine,Macédoine,00,,14.8,-61.0666667
+mq,macouba,Macouba,00,,14.8666667,-61.15
+mq,macre,Macré,00,,14.4666667,-60.8333333
+mq,malevaut,Malevaut,00,,14.5,-60.8333333
+mq,mare capron,Mare Capron,00,,14.4833333,-60.8833333
+mq,mare poirier,Mare Poirier,00,,14.4833333,-61.0
+mq,marie noire,Marie Noire,00,,14.45,-60.9
+mq,marigot,Marigot,00,,14.8166667,-61.0333333
+mq,marin,Marin,00,,14.4666667,-60.85
+mq,maxime,Maxime,00,,14.8166667,-61.0833333
+mq,maximin,Maximin,00,,14.7166667,-61.0
+mq,mayol,Mayol,00,,14.5,-60.9
+mq,medaille,Medaille,00,,14.7,-61.0833333
+mq,medecin,Médecin,00,,14.5166667,-60.9833333
+mq,mondesir,Mondésir,00,,14.4333333,-60.8666667
+mq,mondesir-pointe sable,Mondésir-Pointe Sable,00,,14.45,-60.8666667
+mq,monesie,Monésie,00,,14.4833333,-60.9333333
+mq,montgerald,Montgérald,00,,14.4666667,-60.8833333
+mq,montjoly,Montjoly,00,,14.7,-61.1333333
+mq,montravail,Montravail,00,,14.4833333,-60.9333333
+mq,morne baguidi,Morne Baguidi,00,,14.5166667,-61.1
+mq,morne-balai,Morne-Balai,00,,14.8333333,-61.1333333
+mq,morne baldara,Morne Baldara,00,,14.5666667,-60.9
+mq,morne bel,Morne Bel,00,,14.7333333,-60.9666667
+mq,morne blanc,Morne Blanc,00,,14.4833333,-61.05
+mq,morne bois,Morne Bois,00,,14.8,-61.05
+mq,morne capot,Morne Capot,00,,14.8,-61.0833333
+mq,morne ceron,Morne Céron,00,,14.8166667,-61.0666667
+mq,morne congo,Morne Congo,00,,14.75,-60.9833333
+mq,morne courbaril,Morne Courbaril,00,,14.4833333,-60.8666667
+mq,morne des esses,Morne des Esses,00,,14.7333333,-61.0166667
+mq,morne flambeau,Morne Flambeau,00,,14.4833333,-60.8333333
+mq,morne honore,Morne Honoré,00,,14.5166667,-60.9166667
+mq,morne la valeur,Morne la Valeur,00,,14.55,-60.95
+mq,morne pavillon,Morne Pavillon,00,,14.6166667,-60.95
+mq,morne-pichevin,Morne-Pichevin,00,,14.6,-61.0666667
+mq,morne pitault,Morne Pitault,00,,14.6,-60.95
+mq,morne poirier,Morne Poirier,00,,14.6666667,-61.05
+mq,morne pois,Morne Pois,00,,14.4333333,-60.8666667
+mq,morne rouge,Morne Rouge,00,,14.4666667,-60.8833333
+mq,morne-rouge,Morne-Rouge,00,,14.7666667,-61.1333333
+mq,morne serpent,Morne Serpent,00,,14.6166667,-60.95
+mq,morne sulpice,Morne Sulpice,00,,14.4833333,-60.8666667
+mq,morne vallon,Morne Vallon,00,,14.8166667,-61.05
+mq,morne vente,Morne Venté,00,,14.65,-61.15
+mq,morne vent,Morne Vent,00,,14.4666667,-60.8666667
+mq,morne vert,Morne Vert,00,,14.5833333,-60.95
+mq,morne-vert,Morne-Vert,00,,14.7,-61.15
+mq,pain de sucre,Pain de Sucre,00,,14.7833333,-61.0333333
+mq,palmiste,Palmiste,00,,14.6333333,-61.0333333
+mq,parnasse,Parnasse,00,,14.75,-61.1333333
+mq,pelletier,Pelletier,00,,14.65,-60.9666667
+mq,perou,Pérou,00,,14.5,-60.8666667
+mq,petit-bourge,Petit-Bourge,00,,14.5333333,-60.9666667
+mq,petit bourg,Petit Bourg,00,,14.5333333,-60.9666667
+mq,petit bresil,Petit Brésil,00,,14.7333333,-60.9666667
+mq,petit campeche,Petit Campêche,00,,14.5166667,-60.85
+mq,petite anse,Petite Anse,00,,14.4666667,-61.0666667
+mq,petite lezarde,Petite Lézarde,00,,14.6833333,-60.9833333
+mq,petite riviere,Petite Rivière,00,,14.65,-60.9666667
+mq,petite riviere salee,Petite Rivière Salée,00,,14.75,-60.9666667
+mq,petite savane,Petite Savane,00,,14.7833333,-61.1333333
+mq,petit morne,Petit Morne,00,,14.5333333,-60.9666667
+mq,petit paradis,Petit Paradis,00,,14.55,-60.95
+mq,petit sable,Petit Sable,00,,14.4333333,-60.8333333
+mq,petit trou,Petit Trou,00,,14.4833333,-60.8666667
+mq,placide,Placide,00,,14.55,-60.8666667
+mq,plaisable,Plaisable,00,,14.7,-61.9666667
+mq,plateau-didier,Plateau-Didier,00,,14.6166667,-61.0833333
+mq,plateforme,Plateforme,00,,14.8166667,-61.0166667
+mq,pointe athanase,Pointe Athanase,00,,14.5333333,-60.8333333
+mq,pointe fort,Pointe Fort,00,,14.6666667,-60.9166667
+mq,pointe jean-claude,Pointe Jean-Claude,00,,14.7,-60.9166667
+mq,pointe la mare,Pointe la Mare,00,,14.7666667,-61.2166667
+mq,pointe larose,Pointe Larose,00,,14.6333333,-60.9
+mq,poirer,Poirer,00,,14.7833333,-60.8666667
+mq,poirier,Poirier,00,,14.45,-60.85
+mq,poiriers,Poiriers,00,,14.7166667,-61.0
+mq,pomare,Pomaré,00,,14.5333333,-60.8833333
+mq,pomponne,Pomponne,00,,14.4666667,-60.9
+mq,pont de chaines,Pont de Chaînes,00,,14.6166667,-61.0666667
+mq,poste colon,Poste Colon,00,,14.65,-61.0666667
+mq,precheur,Prêcheur,00,,14.8,-61.2166667
+mq,prechur,Prechur,00,,14.8,-61.2166667
+mq,prefontaine,Préfontaine,00,,14.5166667,-60.9166667
+mq,presqu'ile,Presqu'île,00,,14.6666667,-61.0
+mq,proprete,Propreté,00,,14.7333333,-61.1
+mq,propriete poulet,Propriété Poulet,00,,14.8,-61.1333333
+mq,puyferrat,Puyferrat,00,,14.5,-60.85
+mq,quartier abandonne,Quartier Abandonné,00,,14.8166667,-61.1166667
+mq,quartier abandon,Quartier Abandon,00,,14.8166667,-61.1166667
+mq,quartier abondance,Quartier Abondance,00,,14.5333333,-60.8833333
+mq,quartier abricot,Quartier Abricot,00,,14.5333333,-60.9333333
+mq,quartier adelaide maillet,Quartier Adélaïde Maillet,00,,14.5166667,-60.9
+mq,quartier adinet,Quartier Adinet,00,,14.8166667,-61.1166667
+mq,quartier anse azerot,Quartier Anse Azerot,00,,14.7666667,-60.9833333
+mq,quartier anse de reynal,Quartier Anse de Reynal,00,,14.7166667,-61.1833333
+mq,quartier anse figuier,Quartier Anse Figuier,00,,14.45,-60.9166667
+mq,quartier anse madame,Quartier Anse Madame,00,,14.6166667,-61.1
+mq,quartier augrain,Quartier Augrain,00,,14.6666667,-60.95
+mq,quartier bac,Quartier Bac,00,,14.5833333,-60.9
+mq,quartier balata,Quartier Balata,00,,14.6833333,-61.0333333
+mq,quartier bambou,Quartier Bambou,00,,14.5166667,-60.8833333
+mq,quartier bas ceron,Quartier Bas Céron,00,,14.8166667,-61.0833333
+mq,quartier basse-gondeau,Quartier Basse-Gondeau,00,,14.6166667,-61.0333333
+mq,quartier bassou,Quartier Bassou,00,,14.5833333,-60.9166667
+mq,quartier beauchamp,Quartier Beauchamp,00,,14.6166667,-60.95
+mq,quartier beaujolais,Quartier Beaujolais,00,,14.5166667,-60.8666667
+mq,quartier beauregard,Quartier Beauregard,00,,14.5333333,-60.8666667
+mq,quartier beauvallon,Quartier Beauvallon,00,,14.7166667,-61.15
+mq,quartier beco,Quartier Béco,00,,14.7166667,-61.1333333
+mq,quartier becouya,Quartier Bécouya,00,,14.6666667,-60.9833333
+mq,quartier bedzy,Quartier Bedzy,00,,14.7166667,-61.1333333
+mq,quartier belair,Quartier Bélair,00,,14.55,-60.8666667
+mq,quartier bel-air,Quartier Bel-Air,00,,14.7333333,-61.0
+mq,quartier belfort,Quartier Belfort,00,,14.65,-61.0
+mq,quartier belle ame,Quartier Belle Âme,00,,14.6166667,-60.9333333
+mq,quartier belle-etoile,Quartier Belle-Étoile,00,,14.7666667,-60.9833333
+mq,quartier bellevue,Quartier Bellevue,00,,14.4666667,-60.9333333
+mq,quartier bezaudin,Quartier Bezaudin,00,,14.75,-61.0333333
+mq,quartier birot,Quartier Birot,00,,14.7166667,-60.9833333
+mq,quartier bocage,Quartier Bocage,00,,14.75,-60.9833333
+mq,quartier bois d'inde,Quartier Bois d'Inde,00,,14.7,-61.0
+mq,quartier bois la charles,Quartier Bois la Charles,00,,14.5333333,-60.9333333
+mq,quartier bois neuf,Quartier Bois Neuf,00,,14.5833333,-60.9333333
+mq,quartier bois soldat,Quartier Bois Soldat,00,,14.6,-60.9
+mq,quartier bois zombi,Quartier Bois Zombi,00,,14.65,-60.9666667
+mq,quartier bon air,Quartier Bon Air,00,,14.7333333,-61.0
+mq,quartier bonnain,Quartier Bonnain,00,,14.7,-60.9833333
+mq,quartier bonneau,Quartier Bonneau,00,,14.6833333,-60.95
+mq,quartier bon repos,Quartier Bon Repos,00,,14.8166667,-61.0833333
+mq,quartier bossou,Quartier Bossou,00,,14.5833333,-60.9166667
+mq,quartier boue,Quartier Boué,00,,14.5666667,-60.9
+mq,quartier boutaud,Quartier Boutaud,00,,14.6666667,-60.9666667
+mq,quartier brevette,Quartier Brevette,00,,14.7166667,-60.9666667
+mq,quartier cafeiere bonneville,Quartier Caféière Bonneville,00,,14.75,-61.0
+mq,quartier cafe,Quartier Café,00,,14.7,-61.95
+mq,quartier california,Quartier California,00,,14.6,-61.0333333
+mq,quartier californie,Quartier Californie,00,,14.6,-60.95
+mq,quartier canton suisse,Quartier Canton Suisse,00,,14.7,-61.15
+mq,quartier chambord,Quartier Chambord,00,,14.6333333,-61.0166667
+mq,quartier champ-flore,Quartier Champ-Flore,00,,14.75,-61.1333333
+mq,quartier chapelle villarcon,Quartier Chapelle Villarçon,00,,14.6333333,-60.9166667
+mq,quartier chapelle villarson,Quartier Chapelle Villarson,00,,14.6333333,-60.9166667
+mq,quartier chateauboeuf,Quartier Châteauboeuf,00,,14.6166667,-61.05
+mq,quartier chere epice,Quartier Chère Épice,00,,14.7,-60.9666667
+mq,quartier chertine,Quartier Chertine,00,,14.75,-61.0
+mq,quartier chevre,Quartier Chèvre,00,,14.5166667,-60.8833333
+mq,quartier cocoyer,Quartier Cocoyer,00,,14.5,-61.0833333
+mq,quartier concorde,Quartier Concorde,00,,14.5166667,-61.0333333
+mq,quartier corps de garde,Quartier Corps de Garde,00,,14.4666667,-60.95
+mq,quartier coulee d'or,Quartier Coulée d'Or,00,,14.55,-60.8833333
+mq,quartier courbaril,Quartier Courbaril,00,,14.5333333,-60.95
+mq,quartier croix blanche,Quartier Croix Blanche,00,,14.6833333,-61.0
+mq,quartier croix odillon,Quartier Croix Odillon,00,,14.7,-60.9833333
+mq,quartier cyrille,Quartier Cyrille,00,,14.8333333,-61.0833333
+mq,quartier dabadie,Quartier Dabadie,00,,14.6333333,-61.0666667
+mq,quartier daubert,Quartier Daubert,00,,14.6666667,-60.9833333
+mq,quartier de balata,Quartier de Balata,00,,14.6333333,-61.0833333
+mq,quartier de balata-tourtet,Quartier de Balata-Tourtet,00,,14.6333333,-61.0833333
+mq,quartier de la californie,Quartier de la Californie,00,,14.6,-61.0333333
+mq,quartier de la chapelle,Quartier de la Chapelle,00,,14.6833333,-61.0333333
+mq,quartier de la petite anse,Quartier de la Petite Anse,00,,14.4666667,-61.0666667
+mq,quartier de la presqu'ile,Quartier de la Presqu'île,00,,14.6666667,-61.0
+mq,quartier de la t. s. f.,Quartier de la T. S. F.,00,,14.6,-61.0666667
+mq,quartier de l'ex-voto,Quartier de l'Ex-voto,00,,14.75,-61.2
+mq,quartier delivry,Quartier Delivry,00,,14.4833333,-60.9166667
+mq,quartier de l'orangerie,Quartier de l'Orangerie,00,,14.8,-61.2333333
+mq,quartier demare,Quartier Démare,00,,14.8166667,-61.1166667
+mq,quartier derivry,Quartier Dérivry,00,,14.4833333,-60.9166667
+mq,quartier derriere bois,Quartier Derrière Bois,00,,14.65,-61.0
+mq,quartier derriere morne,Quartier Derrière Morne,00,,14.75,-60.9833333
+mq,quartier des abymes,Quartier des Abymes,00,,14.8,-61.2166667
+mq,quartier desbrosses,Quartier Desbrosses,00,,14.6333333,-61.0666667
+mq,quartier deschamps,Quartier Deschamps,00,,14.8166667,-61.1166667
+mq,quartier descossieres,Quartier Descossières,00,,14.75,-61.0
+mq,quartier descostiere,Quartier Descostière,00,,14.75,-61.0
+mq,quartier desforts,Quartier Desforts,00,,14.7166667,-60.9666667
+mq,quartier desmares,Quartier Desmares,00,,14.8166667,-61.1166667
+mq,quartier desmarinieres,Quartier Desmarinières,00,,14.5,-60.95
+mq,quartier desmartinieres,Quartier Desmartinières,00,,14.5166667,-60.9
+mq,quartier des pitons,Quartier des Pitons,00,,14.7166667,-61.05
+mq,quartier desruisseaux,Quartier Desruisseaux,00,,14.5166667,-60.8833333
+mq,quartier des trois-ponts,Quartier des Trois-Ponts,00,,14.75,-61.1666667
+mq,quartier dominante,Quartier Dominante,00,,14.7833333,-61.0333333
+mq,quartier dominant,Quartier Dominant,00,,14.7,-60.9833333
+mq,quartier du bac,Quartier du Bac,00,,14.5833333,-60.9666667
+mq,quartier du fond fleuri,Quartier du Fond Fleuri,00,,14.4666667,-61.0666667
+mq,quartier du fort,Quartier du Fort,00,,14.75,-61.1833333
+mq,quartier du hamelin,Quartier du Hamelin,00,,14.8,-61.0333333
+mq,quartier dumaine,Quartier Dumaine,00,,14.7,-61.0166667
+mq,quartier du morne valentin,Quartier du Morne Valentin,00,,14.5833333,-60.9166667
+mq,quartier durand,Quartier Durand,00,,14.6833333,-61.05
+mq,quartier eudorcait,Quartier Eudorçait,00,,14.75,-61.0166667
+mq,quartier fantaisie,Quartier Fantaisie,00,,14.6166667,-61.05
+mq,quartier ferme saint-jacques,Quartier Ferme Saint-Jacques,00,,14.7833333,-61.0333333
+mq,quartier firmin,Quartier Firmin,00,,14.55,-60.9
+mq,quartier fleury guine,Quartier Fleury Guiné,00,,14.5166667,-60.9333333
+mq,quartier fleury,Quartier Fleury,00,,14.8,-61.0333333
+mq,quartier fond abattoir,Quartier Fond Abattoir,00,,14.7666667,-61.1333333
+mq,quartier fond abbatoir,Quartier Fond Abbatoir,00,,14.7666667,-61.1333333
+mq,quartier fond cacao,Quartier Fond Cacao,00,,14.65,-61.0333333
+mq,quartier fond gens libres,Quartier Fond Gens Libres,00,,14.8166667,-61.0666667
+mq,quartier fond giraumont,Quartier Fond Giraumont,00,,14.65,-60.9666667
+mq,quartier fond guillet,Quartier Fond Guillet,00,,14.7666667,-61.1333333
+mq,quartier fond hubert,Quartier Fond Hubert,00,,14.55,-60.8666667
+mq,quartier fond marie reine,Quartier Fond Marie Reine,00,,14.75,-61.1166667
+mq,quartier fond mascre,Quartier Fond Mascré,00,,14.7333333,-61.1333333
+mq,quartier fond masson,Quartier Fond Masson,00,,14.5333333,-60.9333333
+mq,quartier fond mulatre,Quartier Fond Mulâtre,00,,14.5333333,-60.8833333
+mq,quartier fond panier,Quartier Fond Panier,00,,14.5666667,-60.9833333
+mq,quartier fond rose,Quartier Fond Rose,00,,14.75,-61.1166667
+mq,quartier fonds brules,Quartier Fonds Brûlés,00,,14.65,-60.9666667
+mq,quartier fonds hubert,Quartier Fonds Hubert,00,,14.55,-60.8666667
+mq,quartier fonds mascret,Quartier Fonds Mascret,00,,14.7333333,-61.1333333
+mq,quartier fonds masson,Quartier Fonds Masson,00,,14.5333333,-60.9333333
+mq,quartier fonds panier,Quartier Fonds Panier,00,,14.5666667,-60.9833333
+mq,quartier fonds zamy,Quartier Fonds Zamy,00,,14.55,-60.8833333
+mq,quartier fond zombi,Quartier Fond Zombi,00,,14.65,-61.05
+mq,quartier fontaine de moutte,Quartier Fontaine de Moutte,00,,14.6333333,-61.05
+mq,quartier four a chaux,Quartier Four à Chaux,00,,14.65,-60.95
+mq,quartier gabourin,Quartier Gabourin,00,,14.5833333,-60.9166667
+mq,quartier galette,Quartier Galette,00,,14.6833333,-60.9833333
+mq,quartier gerbault,Quartier Gerbault,00,,14.6,-61.05
+mq,quartier gergault,Quartier Gergault,00,,14.7166667,-60.95
+mq,quartier gillot,Quartier Gillot,00,,14.6,-60.9
+mq,quartier glotin,Quartier Glotin,00,,14.6833333,-61.0166667
+mq,quartier gondeau-saint-joseph,Quartier Gondeau-Saint-Joseph,00,,14.6333333,-61.0333333
+mq,quartier grand bassin,Quartier Grand Bassin,00,,14.5666667,-60.9
+mq,quartier grande anse,Quartier Grande Anse,00,,14.5,-61.0833333
+mq,quartier grande savane,Quartier Grande Savane,00,,14.5666667,-60.95
+mq,quartier grosan,Quartier Grosan,00,,14.7,-60.9833333
+mq,quartier hauteurs bourdon,Quartier Hauteurs Bourdon,00,,14.8333333,-61.1333333
+mq,quartier haut grain,Quartier Haut Grain,00,,14.6666667,-60.95
+mq,quartier hermitage,Quartier Hermitage,00,,14.6666667,-61.05
+mq,quartier humbert,Quartier Humbert,00,,14.5666667,-60.9
+mq,quartier josseaud,Quartier Josseaud,00,,14.5166667,-60.8833333
+mq,quartier josseau,Quartier Josseau,00,,14.5166667,-60.8833333
+mq,quartier la baudelle,Quartier La Baudelle,00,,14.5333333,-60.9166667
+mq,quartier la baudet,Quartier la Baudet,00,,14.5333333,-60.9166667
+mq,quartier la baume,Quartier la Baume,00,,14.5333333,-60.8666667
+mq,quartier la beauville,Quartier la Beauville,00,,14.5666667,-60.9666667
+mq,quartier la beleme,Quartier la Bélème,00,,14.6333333,-61.0
+mq,quartier la belem,Quartier la Belem,00,,14.6333333,-61.0
+mq,quartier la bellem,Quartier la Bellem,00,,14.6333333,-61.0
+mq,quartier la boissiere,Quartier la Boissière,00,,14.55,-60.9
+mq,quartier la bonnie,Quartier la Bonnie,00,,14.6333333,-60.9333333
+mq,quartier la bonny,Quartier la Bonny,00,,14.6333333,-60.9333333
+mq,quartier la boutaud,Quartier la Boutaud,00,,14.6666667,-60.9666667
+mq,quartier la cadette,Quartier la Cadette,00,,14.5666667,-60.8833333
+mq,quartier la canelle,Quartier la Canelle,00,,14.6666667,-60.9666667
+mq,quartier la canette,Quartier la Canette,00,,14.6666667,-60.9666667
+mq,quartier la carriere,Quartier la Carrière,00,,14.5,-60.85
+mq,quartier la cesaire,Quartier la Césaire,00,,14.6166667,-61.0
+mq,quartier la chapelle,Quartier la Chapelle,00,,14.6833333,-61.0333333
+mq,quartier la chevalier,Quartier la Chevalier,00,,14.4833333,-60.9
+mq,quartier la chopotte,Quartier la Chopotte,00,,14.6166667,-60.9166667
+mq,quartier la demarche,Quartier la Démarche,00,,14.6333333,-61.1166667
+mq,quartier la dessaint,Quartier la Dessaint,00,,14.7,-60.9833333
+mq,quartier la duchene,Quartier la Duchêne,00,,14.6333333,-60.95
+mq,quartier la dumaine,Quartier la Dumaine,00,,14.5833333,-60.9
+mq,quartier la duquesne,Quartier la Duquesne,00,,14.5833333,-60.9333333
+mq,quartier la farelle,Quartier la Farelle,00,,14.5833333,-60.9333333
+mq,quartier la favorite,Quartier la Favorite,00,,14.6333333,-61.0333333
+mq,quartier la felix,Quartier la Félix,00,,14.55,-60.8666667
+mq,quartier la fleury guine,Quartier la Fleury Guiné,00,,14.5166667,-60.9333333
+mq,quartier la fontaine,Quartier la Fontaine,00,,14.6166667,-61.0833333
+mq,quartier la fontenay,Quartier la Fontenay,00,,14.5333333,-60.9333333
+mq,quartier la garanne,Quartier la Garanne,00,,14.8166667,-61.2166667
+mq,quartier la-haut,Quartier Là-Haut,00,,14.5333333,-60.95
+mq,quartier l'allee,Quartier l'Allée,00,,14.6666667,-61.0166667
+mq,quartier la manzo,Quartier la Manzo,00,,14.5833333,-60.95
+mq,quartier la mayaule,Quartier la Mayaule,00,,14.5,-60.9
+mq,quartier la medaille,Quartier la Médaille,00,,14.7,-61.0833333
+mq,quartier la monnerot,Quartier la Monnerot,00,,14.6333333,-60.9333333
+mq,quartier la nau,Quartier la Nau,00,,14.5333333,-60.9166667
+mq,quartier la palmiste,Quartier la Palmiste,00,,14.6333333,-61.0333333
+mq,quartier la poirier,Quartier la Poirier,00,,14.7166667,-61.0
+mq,quartier la pomare,Quartier la Pomaré,00,,14.5333333,-60.8833333
+mq,quartier la regale,Quartier la Régale,00,,14.5333333,-60.9166667
+mq,quartier la renee,Quartier la Renée,00,,14.5166667,-60.9
+mq,quartier la rene,Quartier la René,00,,14.5166667,-60.9
+mq,quartier la richard,Quartier la Richard,00,,14.5833333,-60.95
+mq,quartier la riviere d'or,Quartier la Rivière d'Or,00,,14.6666667,-61.0666667
+mq,quartier la sabine,Quartier la Sabine,00,,14.6666667,-60.9833333
+mq,quartier la salette,Quartier la Salette,00,,14.5833333,-60.9833333
+mq,quartier la sarraut,Quartier la Sarraut,00,,14.6333333,-60.9666667
+mq,quartier la sucrerie,Quartier la Sucrerie,00,,14.5666667,-60.9
+mq,quartier la tracee,Quartier la Tracée,00,,14.7,-60.9833333
+mq,quartier la tranchee,Quartier la Tranchée,00,,14.7333333,-61.1333333
+mq,quartier la valatte,Quartier la Valatte,00,,14.5333333,-60.9
+mq,quartier la valette,Quartier la Valette,00,,14.5333333,-60.9
+mq,quartier la vierge,Quartier la Vierge,00,,14.7,-61.0166667
+mq,quartier la zabeth,Quartier la Zabeth,00,,14.6833333,-60.9666667
+mq,quartier lecombe,Quartier Lecombe,00,,14.7,-60.95
+mq,quartier lecomte,Quartier Lecomte,00,,14.7,-60.95
+mq,quartier lelubois,Quartier Lelubois,00,,14.4833333,-60.9
+mq,quartier le pelletier,Quartier le Pelletier,00,,14.65,-60.9666667
+mq,quartier lepinoy,Quartier Lepinoy,00,,14.5,-60.9166667
+mq,quartier le raisin,Quartier le Raisin,00,,14.65,-60.95
+mq,quartier l'ermitage,Quartier l'Ermitage,00,,14.6666667,-61.05
+mq,quartier lero,Quartier Léro,00,,14.7333333,-60.9833333
+mq,quartier les deux terres,Quartier les Deux Terres,00,,14.7,-61.0
+mq,quartier lestrade,Quartier Lestrade,00,,14.7,-60.9333333
+mq,quartier lheureux,Quartier Lheureux,00,,14.6833333,-60.9666667
+mq,quartier long-bois,Quartier Long-Bois,00,,14.6333333,-61.0
+mq,quartier long bois,Quartier Long Bois,00,,14.6666667,-61.0166667
+mq,quartier lourdes,Quartier Lourdes,00,,14.55,-60.9666667
+mq,quartier lowinsky,Quartier Lowinsky,00,,14.5166667,-60.8833333
+mq,quartier lucon,Quartier Luçon,00,,14.7666667,-61.0333333
+mq,quartier lunette bouille,Quartier Lunette Bouille,00,,14.6166667,-61.0666667
+mq,quartier maxime,Quartier Maxime,00,,14.8166667,-61.0833333
+mq,quartier medecin,Quartier Médecin,00,,14.5166667,-60.9833333
+mq,quartier monplaisir,Quartier Monplaisir,00,,14.5333333,-60.9
+mq,quartier monsieur,Quartier Monsieur,00,,14.7166667,-61.1833333
+mq,quartier mont joli,Quartier Mont Joli,00,,14.7,-61.1333333
+mq,quartier mont-joly,Quartier Mont-Joly,00,,14.7,-61.1333333
+mq,quartier montravail,Quartier Montravail,00,,14.4833333,-60.9333333
+mq,quartier morne acajou,Quartier Morne Acajou,00,,14.5666667,-60.9166667
+mq,quartier morne a roche,Quartier Morne à Roche,00,,14.75,-60.9833333
+mq,quartier morne balai,Quartier Morne Balai,00,,14.8333333,-61.1333333
+mq,quartier morne baldara,Quartier Morne Baldara,00,,14.5666667,-60.9
+mq,quartier morne bois,Quartier Morne Bois,00,,14.8,-61.05
+mq,quartier morne calebasse,Quartier Morne Calebasse,00,,14.6166667,-61.0666667
+mq,quartier morne capot,Quartier Morne Capot,00,,14.8,-61.0833333
+mq,quartier morne carabin,Quartier Morne Carabin,00,,14.8,-61.05
+mq,quartier morne carrette,Quartier Morne Carrette,00,,14.5833333,-60.9666667
+mq,quartier morne congo,Quartier Morne Congo,00,,14.75,-60.9833333
+mq,quartier morne courbaril,Quartier Morne Courbaril,00,,14.6333333,-60.9166667
+mq,quartier morne covin,Quartier Morne Covin,00,,14.6833333,-61.1333333
+mq,quartier morne des esses,Quartier Morne des Esses,00,,14.7333333,-61.0166667
+mq,quartier morne des olives,Quartier Morne des Olives,00,,14.6833333,-61.05
+mq,quartier morne garrette,Quartier Morne Garrette,00,,14.5833333,-60.9666667
+mq,quartier morne honore,Quartier Morne Honoré,00,,14.5166667,-60.9166667
+mq,quartier morne la valeur,Quartier Morne la Valeur,00,,14.55,-60.95
+mq,quartier morne mignolle,Quartier Morne Mignolle,00,,14.75,-61.0
+mq,quartier morne pavillon,Quartier Morne Pavillon,00,,14.6166667,-60.95
+mq,quartier morne pitault,Quartier Morne Pitault,00,,14.6,-60.95
+mq,quartier morne piton,Quartier Morne Piton,00,,14.7,-61.1333333
+mq,quartier morne poirier,Quartier Morne Poirier,00,,14.6666667,-61.05
+mq,quartier morne serpent,Quartier Morne Serpent,00,,14.6166667,-60.95
+mq,quartier morne theodore,Quartier Morne Théodore,00,,14.7666667,-61.0333333
+mq,quartier morne valentin,Quartier Morne Valentin,00,,14.5833333,-60.9166667
+mq,quartier morne vert,Quartier Morne Vert,00,,14.5833333,-60.95
+mq,quartier pain de sucre,Quartier Pain de Sucre,00,,14.7833333,-61.0333333
+mq,quartier palmene,Quartier Palmène,00,,14.55,-60.9166667
+mq,quartier parnasse,Quartier Parnasse,00,,14.75,-61.1333333
+mq,quartier pays mele,Quartier Pays Mêlé,00,,14.6333333,-61.0166667
+mq,quartier pelletier,Quartier Pelletier,00,,14.65,-60.9666667
+mq,quartier perou,Quartier Pérou,00,,14.5,-60.8666667
+mq,quartier petit campeche,Quartier Petit Campêche,00,,14.5166667,-60.85
+mq,quartier petite anse,Quartier Petite Anse,00,,14.4666667,-61.0666667
+mq,quartier petite lezarde,Quartier Petite Lézarde,00,,14.6833333,-60.9833333
+mq,quartier petite riviere,Quartier Petite Rivière,00,,14.65,-60.9666667
+mq,quartier petite riviere salee,Quartier Petite Rivière Salée,00,,14.75,-60.9666667
+mq,quartier petite savane,Quartier Petite Savane,00,,14.7833333,-61.1333333
+mq,quartier petit paradis,Quartier Petit Paradis,00,,14.55,-60.95
+mq,quartier piton,Quartier Piton,00,,14.7166667,-61.1666667
+mq,quartier pitons,Quartier Pitons,00,,14.7333333,-61.0166667
+mq,quartier placide,Quartier Placide,00,,14.55,-60.8666667
+mq,quartier plaisable,Quartier Plaisable,00,,14.7,-61.9666667
+mq,quartier plateau,Quartier Plateau,00,,14.65,-61.0666667
+mq,quartier plateau tiberge,Quartier Plateau Tiberge,00,,14.65,-61.0666667
+mq,quartier plateforme,Quartier Plateforme,00,,14.8166667,-61.0166667
+mq,quartier pointe la mare,Quartier Pointe La Mare,00,,14.7666667,-61.2166667
+mq,quartier poirier,Quartier Poirier,00,,14.7166667,-61.0
+mq,quartier pois doux bocage quartier,Quartier Pois Doux Bocage Quartier,00,,14.6833333,-60.9833333
+mq,quartier poix doux bocage,Quartier Poix Doux Bocage,00,,14.6833333,-60.9833333
+mq,quartier pomare,Quartier Pomaré,00,,14.5333333,-60.8833333
+mq,quartier pont de chaines,Quartier Pont de Chaînes,00,,14.6166667,-61.0666667
+mq,quartier prefontaine,Quartier Préfontaine,00,,14.5166667,-60.9166667
+mq,quartier proprete,Quartier Propreté,00,,14.7333333,-61.1
+mq,quartier rabuchon,Quartier Rabuchon,00,,14.6666667,-61.0666667
+mq,quartier ravine,Quartier Ravine,00,,14.5,-60.9
+mq,quartier ravine touza,Quartier Ravine Touza,00,,14.6333333,-61.0833333
+mq,quartier ravine vilaine,Quartier Ravine Vilaine,00,,14.6333333,-61.0666667
+mq,quartier reculee,Quartier Reculée,00,,14.7666667,-61.0166667
+mq,quartier recule,Quartier Reculé,00,,14.7666667,-61.0166667
+mq,quartier renee,Quartier Renée,00,,14.5166667,-60.9
+mq,quartier riviere bambous,Quartier Rivière Bambous,00,,14.5833333,-60.9333333
+mq,quartier riviere cacao,Quartier Rivière Cacao,00,,14.65,-60.9333333
+mq,quartier riviere calecon,Quartier Rivière Caleçon,00,,14.6166667,-60.9666667
+mq,quartier riviere monsieur,Quartier Rivière Monsieur,00,,14.6166667,-61.05
+mq,quartier riviere pomme,Quartier Rivière Pomme,00,,14.7,-60.9833333
+mq,quartier riviere roche,Quartier Rivière Roche,00,,14.8666667,-61.1333333
+mq,quartier roche carree,Quartier Roche Carrée,00,,14.6333333,-60.9666667
+mq,quartier roches carrees,Quartier Roches Carrées,00,,14.6333333,-60.9666667
+mq,quartier rodon,Quartier Rodon,00,,14.75,-61.0
+mq,quartier rollin,Quartier Rollin,00,,14.5166667,-60.9
+mq,quartier rousseau,Quartier Rousseau,00,,14.65,-61.0166667
+mq,quartier saint aroman,Quartier Saint Aroman,00,,14.7333333,-61.0333333
+mq,quartier saint-arroman,Quartier Saint-Arroman,00,,14.7333333,-61.0333333
+mq,quartier sainte-catherine,Quartier Sainte-Catherine,00,,14.6166667,-61.1
+mq,quartier saint-maurice,Quartier Saint-Maurice,00,,14.7,-61.1333333
+mq,quartier saint-pierre,Quartier Saint-Pierre,00,,14.5833333,-60.9333333
+mq,quartier saint-roche,Quartier Saint-Roche,00,,14.6,-60.95
+mq,quartier saint-vincent,Quartier Saint-Vincent,00,,14.5,-60.8833333
+mq,quartiers anse a l'ane,Quartiers Anse à l'Âne,00,,14.5333333,-61.0666667
+mq,quartier sans pareil,Quartier Sans Pareil,00,,14.5,-60.9666667
+mq,quartier sarraut,Quartier Sarraut,00,,14.6333333,-60.9666667
+mq,quartier savane petit,Quartier Savane Petit,00,,14.7666667,-61.1166667
+mq,quartier seaille,Quartier Séaille,00,,14.6833333,-61.0333333
+mq,quartier seailles,Quartier Séailles,00,,14.6833333,-61.0333333
+mq,quartier semaine,Quartier Semaine,00,,14.8166667,-61.1333333
+mq,quartier sinai,Quartier Sinaï,00,,14.7166667,-61.0333333
+mq,quartier suin,Quartier Suin,00,,14.55,-60.9
+mq,quartier terreville,Quartier Terreville,00,,14.65,-61.1
+mq,quartier touza,Quartier Touza,00,,14.6333333,-61.0833333
+mq,quartier trou grec,Quartier Trou Grec,00,,14.8,-61.0333333
+mq,quartier trou-terre,Quartier Trou-Terre,00,,14.6833333,-60.9333333
+mq,quartier union,Quartier Union,00,,14.7,-61.1333333
+mq,quartier vallon,Quartier Vallon,00,,14.8166667,-61.05
+mq,quartier vente,Quartier Venté,00,,14.6333333,-61.0833333
+mq,quartier verrier,Quartier Verrier,00,,14.6833333,-61.1333333
+mq,quartier vert-pre,Quartier Vert-Pré,00,,14.5833333,-60.9666667
+mq,quartier vielle-terre,Quartier Vielle-Terre,00,,14.5333333,-60.9
+mq,quartier voltaire,Quartier Voltaire,00,,14.6833333,-60.95
+mq,quartier zabeth,Quartier Zabeth,00,,14.6833333,-60.9666667
+mq,rabat-joie,Rabat-Joie,00,,14.45,-60.85
+mq,rabuchon,Rabuchon,00,,14.6666667,-61.0666667
+mq,raisin,Raisin,00,,14.65,-60.95
+mq,rateau,Rateau,00,,14.5166667,-61.0166667
+mq,ravine acajou,Ravine Acajou,00,,14.5,-60.9166667
+mq,ravine braie,Ravine Braie,00,,14.5,-60.8833333
+mq,ravine touza,Ravine Touza,00,,14.6333333,-61.0833333
+mq,ravine vilaine,Ravine Vilaine,00,,14.6333333,-61.0666667
+mq,reculee,Reculée,00,,14.7666667,-61.0166667
+mq,recule,Reculé,00,,14.7666667,-61.0166667
+mq,redoute,Redoute,00,,14.6166667,-61.05
+mq,regale-de-saint-esprit,Régale-de-Saint-Esprit,00,,14.5333333,-60.9166667
+mq,regale,Régale,00,,14.5333333,-60.9166667
+mq,riviere cacao,Rivière Cacao,00,,14.65,-60.9333333
+mq,riviere calecon,Rivière Caleçon,00,,14.6166667,-60.9666667
+mq,riviere d'or,Rivière d'Or,00,,14.6666667,-61.0666667
+mq,riviere l'or,Rivière l'Or,00,,14.6666667,-61.0666667
+mq,riviere monsieur,Rivière Monsieur,00,,14.6666667,-61.0666667
+mq,riviere-pilote,Rivière-Pilote,00,13360,14.4833333,-60.9
+mq,riviere,Rivière,00,,14.4666667,-60.85
+mq,riviere-salee,Rivière-Salée,00,,14.5333333,-60.9833333
+mq,robert,Robert,00,,14.6666667,-60.9333333
+mq,roches carrees,Roches Carrées,00,,14.6333333,-60.9666667
+mq,rodon,Rodon,00,,14.75,-61.0
+mq,rousseau,Rousseau,00,,14.65,-61.0166667
+mq,rue paille,Rue Paille,00,,14.7333333,-60.9666667
+mq,saingaule,Saingaule,00,,14.5,-60.9166667
+mq,saint-aroman,Saint-Aroman,00,,14.7333333,-61.0333333
+mq,sainte-anne,Sainte-Anne,00,,14.4333333,-60.8833333
+mq,sainte catherine,Sainte Catherine,00,,14.6166667,-61.1
+mq,sainte claire,Sainte Claire,00,,14.7333333,-61.1
+mq,sainte-luce,Sainte-Luce,00,9197,14.4666667,-60.9166667
+mq,sainte-marie,Sainte-Marie,00,20381,14.7833333,-60.9833333
+mq,saint esprit,Saint Esprit,00,,14.55,-60.9333333
+mq,sainte-therese,Sainte-Thérèse,00,,14.6,-61.0666667
+mq,saint-joseph,Saint-Joseph,00,16974,14.6666667,-61.0333333
+mq,saint-maurice,Saint-Maurice,00,,14.7,-61.1333333
+mq,saint-pierre,Saint-Pierre,00,4125,14.7333333,-61.1666667
+mq,saint-roch,Saint-Roch,00,,14.6,-60.95
+mq,saint-vincent,Saint-Vincent,00,,14.5,-60.8833333
+mq,sans pareil,Sans Pareil,00,,14.5,-60.9666667
+mq,sarcelle,Sarcelle,00,,14.5166667,-61.0166667
+mq,sarraut,Sarraut,00,,14.6333333,-60.9666667
+mq,savane petit,Savane Petit,00,,14.7666667,-61.1166667
+mq,scha“lcher,SchÅ“lcher,00,,14.6,-61.1
+mq,serail,Sérail,00,,14.6833333,-61.0333333
+mq,sinai,Sinaï,00,,14.7166667,-61.0333333
+mq,sucrerie,Sucrerie,00,,14.5666667,-60.9
+mq,tartane,Tartane,00,,14.75,-60.9166667
+mq,taupiniere,Taupinière,00,,14.4666667,-60.9833333
+mq,terres d'absalon,Terres d'Absalon,00,,14.6833333,-61.1
+mq,terres sainville,Terres Sainville,00,,14.6,-61.0666667
+mq,terreville,Terreville,00,,14.65,-61.1
+mq,tourtet,Tourtet,00,,14.6333333,-61.0666667
+mq,touza,Touza,00,,14.6333333,-61.0833333
+mq,trinite,Trinité,00,,14.7333333,-60.9666667
+mq,trois-ilets,Trois-Îlets,00,,14.5333333,-61.0333333
+mq,trois rivieres,Trois Rivières,00,,14.4666667,-60.9666667
+mq,trou grec,Trou Grec,00,,14.8,-61.0333333
+mq,trou terre,Trou Terre,00,,14.6833333,-60.9333333
+mq,union,Union,00,,14.7,-61.1333333
+mq,urion,Urion,00,,14.7,-61.1333333
+mq,valatte,Valatte,00,,14.5333333,-60.9
+mq,val d'or,Val d'Or,00,,14.4333333,-60.8666667
+mq,vauclin,Vauclin,00,,14.5333333,-60.8333333
+mq,verrier,Verrier,00,,14.6833333,-61.1333333
+mq,vert-pre,Vert-Pré,00,,14.6833333,-60.9666667
+mq,vieille terre,Vieille Terre,00,,14.5333333,-60.9
+mq,volga-plage,Volga-Plage,00,,14.6,-61.0666667
+mq,voltaire,Voltaire,00,,14.6833333,-60.95
+mq,zabeth,Zabeth,00,,14.6833333,-60.9666667
+mq,zobeide,Zobéide,00,,14.75,-61.1333333

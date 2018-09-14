@@ -1,0 +1,357 @@
+qa,aba zuluf,Aba Zuluf,08,,26.123611,51.169167
+qa,`abd al `aziz,`Abd al `Aziz,01,,25.278333,51.525556
+qa,abu az zuluf,Abu az Zuluf,08,,26.123611,51.169167
+qa,abu daluf,Abu Daluf,08,,26.123611,51.169167
+qa,abu dhaluf,Abu Dhaluf,08,,26.123611,51.169167
+qa,abu dhuluf,Abu Dhuluf,08,,26.123611,51.169167
+qa,abu hamur,Abu Hamur,06,,25.235556,51.495556
+qa,abu husayyah,Abu Husayyah,09,,25.459167,51.316667
+qa,abu kharab,Abu Kharab,04,,25.708333,51.591667
+qa,abu qarn,Abu Qarn,06,,25.298611,51.001667
+qa,abu samrah,Abu Samrah,06,938,24.748333,50.84
+qa,abu sidrah,Abu Sidrah,06,,25.723056,51.004167
+qa,abu sudayrah,Abu Sudayrah,01,,25.281389,51.5125
+qa,abu suwayy,Abu Suwayy,04,,25.696111,51.260833
+qa,abu thaylah,Abu Thaylah,09,,25.531944,51.304444
+qa,abu zahif,Abu Zahif,08,,26.123611,51.169167
+qa,abu zuluf,Abu Zuluf,08,,26.123611,51.169167
+qa,ad da`ayin,Ad Da`ayin,13,,25.577442,51.483063
+qa,ad darb,Ad Darb,06,,25.451389,50.925
+qa,ad da`udiyah,Ad Da`udiyah,04,,25.8575,51.298889
+qa,ad dawha,Ad Dawha,01,,25.286667,51.533333
+qa,ad dawhah,Ad Dawhah,01,,25.286667,51.533333
+qa,ad dawhah al jadidah,Ad Dawhah al Jadidah,01,,25.275833,51.533611
+qa,ad dhakhirah,Ad Dhakhirah,04,,25.734722,51.5475
+qa,ad doha,Ad Doha,01,,25.286667,51.533333
+qa,ad dowhah,Ad Dowhah,01,,25.286667,51.533333
+qa,adhbah,Adhbah,08,,26.055,51.316111
+qa,adh dhakhira,Adh Dhakhira,04,,25.734722,51.5475
+qa,adh dhakhirah,Adh Dhakhirah,04,,25.734722,51.5475
+qa,adh dhukhayr,Adh Dhukhayr,04,,25.734722,51.5475
+qa,al `adhbah,Al `Adhbah,08,,26.055,51.316111
+qa,al `arish,Al `Arish,08,,26.048889,51.056944
+qa,al bida` al gharbiyah,Al Bida` al Gharbiyah,01,,25.2925,51.520833
+qa,al bida` ash sharqiyah,Al Bida` ash Sharqiyah,01,,25.290833,51.528333
+qa,al busayyir,Al Busayyir,06,,25.7175,51.057778
+qa,al da`ain,Al Da`ain,13,,25.577442,51.483063
+qa,al dakhirah,Al Dakhirah,04,,25.734722,51.5475
+qa,al dhakhirah,Al Dhakhirah,04,,25.734722,51.5475
+qa,al dha'sin,Al Dha'Sin,13,,25.577442,51.483063
+qa,al ghafah,Al Ghafah,04,,25.775833,51.023056
+qa,al ghaf,Al Ghaf,13,,25.6225,51.454444
+qa,al ghanim,Al Ghanim,01,,25.278333,51.541389
+qa,al gharafah,Al Gharafah,06,,25.3375,51.425
+qa,al ghariyah,Al Ghariyah,08,,26.078056,51.361667
+qa,al ghariyeh,Al Ghariyeh,08,,26.078056,51.361667
+qa,al gharrafah,Al Gharrafah,06,,25.315278,51.438611
+qa,al gharrafah al jadidah,Al Gharrafah al Jadidah,06,,25.3375,51.425
+qa,al ghashamiya,Al Ghashamiya,08,,25.983333,51.4
+qa,al ghashamiyah,Al Ghashamiyah,08,,25.983333,51.4
+qa,al ghashshamiyah,Al Ghashshamiyah,08,,25.983333,51.4
+qa,al ghuwairiya,Al Ghuwairiya,04,,25.829722,51.245278
+qa,al ghuwairiyah,Al Ghuwairiyah,04,,25.829722,51.245278
+qa,al ghuwayriyah,Al Ghuwayriyah,04,,25.829722,51.245278
+qa,al hilal al gharbiyah,Al Hilal al Gharbiyah,01,,25.253889,51.535278
+qa,al hilal ash sharqiyah,Al Hilal ash Sharqiyah,01,,25.253889,51.549722
+qa,al hitmi,Al Hitmi,01,,25.283611,51.546667
+qa,al husayniyah,Al Husayniyah,06,,25.340556,51.293611
+qa,al hussainiyah,Al Hussainiyah,06,,25.340556,51.293611
+qa,al huwaylah,Al Huwaylah,04,,25.944722,51.456389
+qa,al jabar,Al Jabar,01,,25.270833,51.505833
+qa,al jadhi,Al Jadhi,08,,25.951667,51.349722
+qa,al jamaliya,Al Jamaliya,06,,25.609444,51.092222
+qa,al-jamil,Al-Jamil,08,,26.099722,51.161111
+qa,al jamliyah,Al Jamliyah,06,,25.609444,51.092222
+qa,al jasrah,Al Jasrah,01,,25.286111,51.534167
+qa,al jubayl,Al Jubayl,04,,25.700833,51.584722
+qa,al judhay`,Al Judhay`,08,,25.951667,51.349722
+qa,al jumail,Al Jumail,08,,26.099722,51.161111
+qa,al jumaliyah,Al Jumaliyah,06,,25.609444,51.092222
+qa,al jumayl,Al Jumayl,08,,26.099722,51.161111
+qa,al jumayliyah,Al Jumayliyah,06,,25.609444,51.092222
+qa,al ka`aban,Al Ka`aban,08,,25.966667,51.283333
+qa,al ka`ban,Al Ka`ban,08,,25.966667,51.283333
+qa,al ka`biyah,Al Ka`biyah,08,,26.05,51.25
+qa,al khalifat,Al Khalifat,01,,25.284722,51.555278
+qa,al kharitiyat,Al Kharitiyat,09,,25.4,51.425
+qa,al kharrarah,Al Kharrarah,10,,24.904444,51.175
+qa,al khathiyah,Al Khathiyah,06,,25.429722,50.785833
+qa,al khatiyah,Al Khatiyah,06,,25.419444,50.793611
+qa,al khattiyah,Al Khattiyah,06,,25.419444,50.793611
+qa,al-khaur,Al-Khaur,04,,25.683889,51.505833
+qa,al khawr,Al Khawr,04,,25.683889,51.505833
+qa,al khisa,Al Khisa,08,,25.928333,51.3375
+qa,al khisah,Al Khisah,08,,25.928333,51.3375
+qa,al khisah,Al Khisah,13,,25.416944,51.457778
+qa,al khiseh,Al Khiseh,08,,25.928333,51.3375
+qa,al khurayb,Al Khurayb,06,,25.433333,51.22
+qa,al khurays,Al Khurays,04,,25.8575,51.441389
+qa,al khuraytiyat,Al Khuraytiyat,09,,25.396944,51.4225
+qa,al khursa`ah,Al Khursa`ah,06,,25.266667,50.969167
+qa,al khuwair,Al Khuwair,08,,26.074722,51.083611
+qa,al khuwayr,Al Khuwayr,08,,26.074722,51.083611
+qa,al kir`anah,Al Kir`anah,06,,25.01,51.039444
+qa,al kuhwayr,Al Kuhwayr,08,,26.074722,51.083611
+qa,al mafier,Al Mafier,08,,26.133333,51.3
+qa,al mafijar,Al Mafijar,08,,26.133333,51.3
+qa,al mafjar,Al Mafjar,08,,26.133333,51.3
+qa,al majidah,Al Majidah,04,,25.8725,51.258333
+qa,al mansurah,Al Mansurah,01,,25.270556,51.532778
+qa,al maqran,Al Maqran,06,,25.233333,51.333333
+qa,al markhiyah,Al Markhiyah,01,,25.320556,51.495556
+qa,al markiyah,Al Markiyah,01,,25.320556,51.495556
+qa,al mashrab,Al Mashrab,08,,25.888056,51.386389
+qa,al muntazah,Al Muntazah,01,,25.270833,51.523056
+qa,al muraydah,Al Muraydah,08,,25.9375,51.313333
+qa,al murqab,Al Murqab,01,,25.281111,51.535
+qa,al na'man,Al Na'man,08,,25.856667,51.083333
+qa,al qa`abiyah,Al Qa`abiyah,08,,26.067222,51.258611
+qa,al qa`iyah,Al Qa`iyah,06,,25.666944,51.174444
+qa,al raiyan,Al Raiyan,06,,25.291944,51.424444
+qa,al rayyan,Al Rayyan,06,,25.291944,51.424444
+qa,al shahaniyah,Al Shahaniyah,06,,25.368611,51.226389
+qa,al suwaihiliya,Al Suwaihiliya,06,,25.765278,51.019722
+qa,al suwaihiliyah,Al Suwaihiliyah,06,,25.765278,51.019722
+qa,al thagab,Al Thagab,08,,26.033333,51.116667
+qa,al thaqab,Al Thaqab,08,,26.033333,51.116667
+qa,al `uqdah,Al `Uqdah,04,,25.686389,51.468889
+qa,al `uraysh,Al `Uraysh,08,,26.048889,51.056944
+qa,al `uwaynah,Al `Uwaynah,06,,25.444444,50.958333
+qa,al wa`b,Al Wa`b,04,,25.839167,51.465278
+qa,al wa`b,Al Wa`b,06,,25.266667,51.483333
+qa,al wa`b,Al Wa`b,08,,26.123611,51.222778
+qa,al wabrah,Al Wabrah,06,,25.339167,51.173333
+qa,al wagbah,Al Wagbah,06,,25.300833,51.394444
+qa,al wajba,Al Wajba,06,,25.300833,51.394444
+qa,al wajbah,Al Wajbah,06,,25.300833,51.394444
+qa,al wakrah,Al Wakrah,10,,25.171511,51.603371
+qa,al waqbah,Al Waqbah,06,,25.300833,51.394444
+qa,al waqra,Al Waqra,10,,25.171511,51.603371
+qa,al waqrah,Al Waqrah,10,,25.171511,51.603371
+qa,al wasait,Al Wasait,13,,25.4975,51.485278
+qa,al wukair,Al Wukair,10,,25.150833,51.537778
+qa,al wukayr,Al Wukayr,10,,25.150833,51.537778
+qa,al wusail,Al Wusail,13,,25.4975,51.485278
+qa,al wusayl,Al Wusayl,13,,25.4975,51.485278
+qa,anaiza,Anaiza,01,,25.341944,51.5075
+qa,aneiza,Aneiza,01,,25.341944,51.5075
+qa,an najmah,An Najmah,01,,25.265833,51.545278
+qa,an nasraniyah,An Nasraniyah,06,,25.404722,51.073056
+qa,an nu`ayiah,An Nu`ayiah,01,,25.2525,51.559167
+qa,an nu`man,An Nu`man,08,,25.856667,51.083333
+qa,an nuqay`ah,An Nuqay`ah,06,,25.751944,50.920833
+qa,`araish,`Araish,08,,26.048889,51.056944
+qa,ar rakiyat,Ar Rakiyat,08,,26.050556,51.135833
+qa,ar rayyan,Ar Rayyan,06,,25.291944,51.424444
+qa,ar ru'ays,Ar Ru'ays,08,,26.133333,51.216667
+qa,ar rufayq,Ar Rufayq,06,,25.533333,50.977222
+qa,ar rumaylah,Ar Rumaylah,01,,25.283333,51.533333
+qa,ar ruwais,Ar Ruwais,08,,26.133333,51.216667
+qa,ar ruwaydah,Ar Ruwaydah,08,,26.083611,51.147222
+qa,ar ruways,Ar Ruways,08,,26.133333,51.216667
+qa,ash shafallahiyah,Ash Shafallahiyah,04,,25.65,51.372222
+qa,ash shahaniyah,Ash Shahaniyah,06,,25.368611,51.226389
+qa,ash shaqra',Ash Shaqra',10,,24.827222,51.394722
+qa,`asmiyah,`Asmiyah,08,,26.076667,51.166944
+qa,as sadd,As Sadd,01,,25.286111,51.504167
+qa,as sahlah,As Sahlah,06,,25.158333,51.163611
+qa,as salatah al jadidah,As Salatah al Jadidah,01,,25.263611,51.516389
+qa,as salatah,As Salatah,01,,25.288056,51.546667
+qa,as samiriyah,As Samiriyah,06,,25.363611,51.281111
+qa,as sani`,As Sani`,09,,25.538889,51.408333
+qa,as sawq,As Sawq,01,,25.2875,51.537778
+qa,as sayliyah,As Sayliyah,06,,25.214444,51.378889
+qa,as sidrah,As Sidrah,06,,25.242778,51.428889
+qa,as sidriyah,As Sidriyah,08,,26.033333,51.166667
+qa,as sulaymi `abd al aziz bin khalifah,As Sulaymi `Abd al Aziz Bin Khalifah,04,,25.847778,51.205833
+qa,as sulaymi fahd bin `abd allah,As Sulaymi Fahd Bin `Abd Allah,04,,25.904167,51.201667
+qa,as sulaymi khalifah bin hamad,As Sulaymi Khalifah Bin Hamad,04,,25.867778,51.205556
+qa,as sulaymi qasim bin hamad,As Sulaymi Qasim Bin Hamad,04,,25.880833,51.221389
+qa,as sulaymi suhaym bin hamad,As Sulaymi Suhaym Bin Hamad,04,,25.883056,51.185278
+qa,as su`lukiyah,As Su`lukiyah,04,,25.826667,51.043889
+qa,as sumaisma,As Sumaisma,13,,25.574722,51.486389
+qa,as sun`,As Sun`,06,,25.560278,51.158611
+qa,as sunu`,As Sunu`,06,,25.560278,51.158611
+qa,as suwayhiliyah,As Suwayhiliyah,06,,25.765278,51.019722
+qa,ath thagab oasis,Ath Thagab Oasis,08,,26.033333,51.116667
+qa,ath thaghab,Ath Thaghab,08,,26.033333,51.116667
+qa,ath thaqab,Ath Thaqab,08,,26.033333,51.116667
+qa,`ayn khalid,`Ayn Khalid,06,,25.223333,51.451667
+qa,`ayn sinan,`Ayn Sinan,08,,26.016667,51.333333
+qa,az za`a'in,Az Za`a'in,13,,25.577442,51.483063
+qa,az za`ayim,Az Za`ayim,13,,25.577442,51.483063
+qa,az za`ayin,Az Za`ayin,13,,25.577442,51.483063
+qa,bi'r al husayn,Bi'r al Husayn,06,,25.5675,50.958889
+qa,bi'r zikrit,Bi'r Zikrit,06,,25.495,50.846667
+qa,bu sidrah,Bu Sidrah,06,,25.716667,51.05
+qa,busidreh,Busidreh,06,,25.716667,51.05
+qa,dakhira,Dakhira,04,,25.734722,51.5475
+qa,dawhat al qatar,Dawhat al Qatar,01,,25.286667,51.533333
+qa,dha`ain,Dha`ain,13,,25.577442,51.483063
+qa,dha`an,Dha`an,13,,25.577442,51.483063
+qa,dhakhirah,Dhakhirah,04,,25.734722,51.5475
+qa,dhaluf,Dhaluf,08,,26.123611,51.169167
+qa,dhuluf,Dhuluf,08,,26.123611,51.169167
+qa,doha,Doha,01,344939,25.286667,51.533333
+qa,dukhan,Dukhan,06,,25.429722,50.785833
+qa,edh dha'ain,Edh Dha'ain,13,,25.577442,51.483063
+qa,el mafier,El Mafier,08,,26.133333,51.3
+qa,fahahil,Fâhahîl,08,,25.9,51
+qa,fariq al ghanim al jadid,Fariq al Ghanim al Jadid,06,,25.243056,51.4525
+qa,fuhayhil,Fuhayhil,08,,25.9,51
+qa,fuwayrit,Fuwayrit,08,,26.021667,51.366944
+qa,ghaf makin,Ghaf Makin,08,,26.441111,51.188889
+qa,ghariyah,Ghariyah,08,,26.078056,51.361667
+qa,ghariyat adkhan,Ghariyat Adkhan,06,,25.429722,50.785833
+qa,ghariyat dukhan,Ghariyat Dukhan,06,,25.429722,50.785833
+qa,ghashamiyah,Ghashamiyah,08,,25.983333,51.4
+qa,ghuwairiyah,Ghuwairiyah,04,,25.829722,51.245278
+qa,halwan,Halwan,08,,25.95,51.066667
+qa,hulwan,Hulwan,08,,25.95,51.066667
+qa,ingaiah,Ingaiah,06,,25.751944,50.920833
+qa,jimaliyah,Jimaliyah,06,,25.609444,51.092222
+qa,jumail,Jumail,08,,26.099722,51.161111
+qa,kar`anah,Kar`anah,06,,25.01,51.039444
+qa,khaur al-mahanidah,Khaur al-Mahanidah,04,,25.683889,51.505833
+qa,khaur shaqiq,Khaur Shaqiq,04,,25.683889,51.505833
+qa,khawr hassan,Khawr Hassan,08,,26.074722,51.083611
+qa,khawr shaqiq,Khawr Shaqiq,04,,25.683889,51.505833
+qa,khawzan,Khawzan,06,,25.480556,50.938889
+qa,khor-al-mahandah,Khor-al-Mahandah,04,,25.683889,51.505833
+qa,khor hassan,Khor Hassan,08,,26.074722,51.083611
+qa,khor,Khor,04,18923,25.683889,51.505833
+qa,khor shaqiq,Khor Shaqiq,04,,25.683889,51.505833
+qa,khursa`at al bahat,Khursa`at al Bahat,06,,25.266667,50.969167
+qa,khuwair,Khuwair,08,,26.074722,51.083611
+qa,lisha,Lisha,08,,25.957778,51.075278
+qa,lumail,Lumail,08,,26.099722,51.161111
+qa,lusail,Lusail,13,,25.4975,51.485278
+qa,madinat al ka`ban,Madinat al Ka`ban,08,,25.871944,51.354722
+qa,madinat ash shamal,Madinat ash Shamal,08,,26.129334,51.200905
+qa,madinat khalifah,Madinat Khalifah,01,,25.325278,51.47
+qa,mafijar,Mafijar,08,,26.133333,51.3
+qa,mazra`at tarina,Mazra`at Tarina,10,,24.758889,51.211944
+qa,mazra`at turayna,Mazra`at Turayna,10,,24.758889,51.211944
+qa,mu`askar al busayyir,Mu`askar al Busayyir,06,,25.4,51.183333
+qa,mu`askar as saliyah,Mu`askar as Saliyah,06,,25.210833,51.394167
+qa,mu`askar as sayliyah,Mu`askar as Sayliyah,06,,25.210833,51.394167
+qa,mu`aydhir abu ad dawm,Mu`aydhir Abu ad Dawm,06,,25.256944,51.398889
+qa,mu`aydhir,Mu`aydhir,06,,25.256944,51.398889
+qa,mu`aydhir,Mu`aydhir,10,,25.103333,51.521667
+qa,muhayriqah,Muhayriqah,04,,25.808333,51.060556
+qa,mukaynis,Mukaynis,06,,25.121944,51.218333
+qa,muraikh,Muraikh,06,,25.279167,51.445556
+qa,muraykh,Muraykh,06,,25.279167,51.445556
+qa,musay`id,Musay`id,10,,24.996111,51.548889
+qa,musaykah,Musaykah,08,,25.958333,51.099444
+qa,mushayrib,Mushayrib,01,,24.284722,51.521667
+qa,na'aijah,Na'aijah,01,,25.2525,51.559167
+qa,na'aman,Na'aman,08,,25.856667,51.083333
+qa,nabat al usayl,Nabat al Usayl,10,,25.1,51.516667
+qa,naeeja,Naeeja,01,,25.2525,51.559167
+qa,naeejeh,Naeejeh,01,,25.2525,51.559167
+qa,nu`aija,Nu`aija,01,,25.2525,51.559167
+qa,nu`auah,Nu`auah,01,,25.2525,51.559167
+qa,nu`ayjah,Nu`ayjah,01,,25.2525,51.559167
+qa,nu`man,Nu`man,08,,25.856667,51.083333
+qa,qahahil,Qahahil,06,,25.316667,50.766667
+qa,raiyan,Raiyan,06,,25.291944,51.424444
+qa,ra's abu fintas,Ra's Abu Fintas,10,,25.211389,51.619167
+qa,raudat al `ayuz,Raudat al `Ayuz,09,,25.545833,51.3875
+qa,rawdat al ajuzah,Rawdat al Ajuzah,09,,25.545833,51.3875
+qa,rawdat al `ajuz,Rawdat al `Ajuz,09,,25.545833,51.3875
+qa,rawdat rashid,Rawdat Rashid,06,,25.234167,51.203056
+qa,rodhat-al-`ajuzah,Rodhat-al-`Ajuzah,09,,25.545833,51.3875
+qa,rumailah,Rumailah,01,,25.283333,51.533333
+qa,rumaillah,Rumaillah,01,,25.283333,51.533333
+qa,rumaylah,Rumaylah,01,,25.283333,51.533333
+qa,ruwais,Ruwais,08,,26.133333,51.216667
+qa,sa alokiyah,Sa Alokiyah,08,,25.85,51.033333
+qa,sa`lukiyah,Sa`lukiyah,08,,25.85,51.033333
+qa,shafilahiyah,Shafilahiyah,04,,25.65,51.372222
+qa,shakik,Shakik,04,,25.683889,51.505833
+qa,shaqra`,Shaqra`,10,,24.827222,51.394722
+qa,sidriyat makin,Sidriyat Makin,08,,26.033611,51.163889
+qa,simsimah,Simsimah,04,,25.793333,51.409444
+qa,somaismah,Somaismah,13,,25.574722,51.486389
+qa,sumaisimah,Sumaisimah,13,,25.574722,51.486389
+qa,sumaisima,Sumaisima,13,,25.574722,51.486389
+qa,sumaismah,Sumaismah,13,,25.574722,51.486389
+qa,sumaisma,Sumaisma,13,,25.574722,51.486389
+qa,sumaysimah,Sumaysimah,13,,25.574722,51.486389
+qa,suwaihaliyah,Suwaihaliyah,06,,25.765278,51.019722
+qa,thaghab,Thaghab,08,,26.033333,51.116667
+qa,tinbak,Tinbak,13,,25.610278,51.475278
+qa,umm a'birieh,Umm A'birieh,09,,25.483333,51.383333
+qa,umm `abiriyah,Umm `Abiriyah,09,,25.483333,51.383333
+qa,umm al abarig,Umm al Abarig,09,,25.478056,51.3625
+qa,umm al abariq,Umm al Abariq,09,,25.478056,51.3625
+qa,umm al afa`i,Umm al Afa`i,06,,25.358889,51.333611
+qa,umm al `amad,Umm al `Amad,09,,25.492222,51.400278
+qa,umm al ghaylam,Umm al Ghaylam,08,,26.000278,51.294444
+qa,umm al hawa'ir,Umm al Hawa'ir,08,,26.050278,51.2975
+qa,umm al `izam,Umm al `Izam,06,,25.311944,51.003056
+qa,umm al kharj,Umm al Kharj,04,,25.816667,51.133333
+qa,umm al kharq,Umm al Kharq,04,,25.816667,51.133333
+qa,umm al kilab,Umm al Kilab,08,,26.033611,51.200278
+qa,umm al oubur,Umm al Oubur,09,,25.374444,51.436667
+qa,umm al qubur,Umm al Qubur,08,,26.008611,51.083611
+qa,umm al qubur,Umm al Qubur,09,,25.374444,51.436667
+qa,umm al quhab `abd allah bin nasir,Umm al Quhab `Abd Allah Bin Nasir,06,,25.495,50.965278
+qa,umm al quhab al `atiq,Umm al Quhab al `Atiq,06,,25.500833,50.980556
+qa,umm al quhab,Umm al Quhab,04,,25.772222,51.483333
+qa,umm al quhab,Umm al Quhab,06,,25.377778,51.294722
+qa,umm-al-salal,Umm-al-Salal,09,,25.469722,51.3975
+qa,umm al suwaija,Umm al Suwaija,13,,25.645833,51.45
+qa,umm ash shubrum,Umm ash Shubrum,06,,25.162222,51.220833
+qa,umm as suf,Umm as Suf,08,,26.077222,51.222222
+qa,umm as suwab,Umm as Suwab,06,,25.067778,51.0775
+qa,umm as suwayyah,Umm as Suwayyah,13,,25.645833,51.45
+qa,umm az zabar,Umm az Zabar,06,,25.173889,51.269444
+qa,umm az zubar,Umm az Zubar,06,,25.173889,51.269444
+qa,umm bab,Umm Bab,06,2500,25.214167,50.807222
+qa,umm birkah,Umm Birkah,04,,25.751111,51.449167
+qa,umm es salal,Umm es Salal,09,,25.416944,51.403889
+qa,umm es slal,Umm es Slal,09,,25.416944,51.403889
+qa,umm ghuwaylinah,Umm Ghuwaylinah,01,,25.277222,51.547778
+qa,umm ghuwaylinah,Umm Ghuwaylinah,06,,25.585556,51.151389
+qa,umm ghuwaylina,Umm Ghuwaylina,06,,25.585556,51.151389
+qa,umm juaidah,Umm Juaidah,08,,25.866667,51.066667
+qa,umm ju`ayd,Umm Ju`ayd,04,,25.833333,51.072222
+qa,umm jurn,Umm Jurn,13,,25.55,51.433333
+qa,umm juwaydah,Umm Juwaydah,08,,25.866667,51.066667
+qa,umm qarn,Umm Qarn,13,,25.549722,51.431944
+qa,umm qayn,Umm Qayn,04,,25.715833,51.505556
+qa,umm qurun,Umm Qurun,06,,25.235556,51.33
+qa,umm sa`ad,Umm Sa`ad,10,,24.996111,51.548889
+qa,umm sabbah,Umm Sabbah,08,,26.150278,51.108056
+qa,umm sa`id,Umm Sa`id,10,,24.996111,51.548889
+qa,umm salal `ali,Umm Salal `Ali,09,,25.469722,51.3975
+qa,umm salal mohammad,Umm Salal Mohammad,09,,25.416944,51.403889
+qa,umm salal muhammad,Umm Salal Muhammad,09,,25.416944,51.403889
+qa,umm ses salal,Umm Ses Salal,09,,25.416944,51.403889
+qa,umm shamim,Umm Shamim,06,,25.224167,51.174444
+qa,umm silal `ali,Umm Silal `Ali,09,,25.469722,51.3975
+qa,umm silal mohammed,Umm Silal Mohammed,09,,25.416944,51.403889
+qa,umm slal ali,Umm Slal Ali,09,,25.469722,51.3975
+qa,umm slal mohammed,Umm Slal Mohammed,09,,25.416944,51.403889
+qa,umm suwaijah,Umm Suwaijah,13,,25.645833,51.45
+qa,umm suwayjah,Umm Suwayjah,13,,25.645833,51.45
+qa,umm `ubayriyad,Umm `Ubayriyad,09,,25.490556,51.373611
+qa,umm `ubayriyah,Umm `Ubayriyah,09,,25.490556,51.373611
+qa,umm wishah,Umm Wishah,06,,25.168889,51.086389
+qa,`unayzah,`Unayzah,01,,25.341944,51.5075
+qa,wadi as sayl,Wadi as Sayl,01,,25.306944,51.507778
+qa,wadi jallal,Wadi Jallal,10,,25.030833,51.275278
+qa,wajbah,Wajbah,06,,25.300833,51.394444
+qa,wakrah,Wakrah,10,,25.171511,51.603371
+qa,wakra,Wakra,10,,25.171511,51.603371
+qa,waqra,Waqra,10,,25.171511,51.603371
+qa,yamail,Yamail,08,,26.099722,51.161111
+qa,zaghab,Zaghab,08,,26.108056,51.244722
+qa,zar` al `atiyah,Zar` al `Atiyah,06,,25.326667,51.350278
+qa,zekrit,Zekrit,06,,25.495,50.846667
+qa,zikrit,Zikrit,06,,25.495,50.846667
+qa,zugain al bahath,Zugain al Bahath,06,,25.313889,50.883333
+qa,zughayn al bahath,Zughayn al Bahath,06,,25.313889,50.883333
+qa,zughayn al bahth,Zughayn al Bahth,06,,25.313889,50.883333

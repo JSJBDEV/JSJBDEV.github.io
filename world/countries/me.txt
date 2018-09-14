@@ -1,0 +1,4066 @@
+me,abzi-kula,Abzi-Kula,00,,42.485,19.181111
+me,adilovici,Adilovici,00,,43.197222,19.579444
+me,adrovici,Adrovici,00,,42.896111,19.968056
+me,agovica,Agovica,00,,42.8825,19.995
+me,ahmedmujovici,Ahmedmujovici,00,,42.554722,19.797222
+me,ahmedredic katun,Ahmedredic Katun,00,,42.815833,20.124722
+me,akani,Akani,00,,42.571111,19.900833
+me,alagin do,Alagin Do,00,,42.846944,18.542222
+me,aleksandrov grad,Aleksandrov Grad,00,,43.154722,19.121944
+me,alibrahimaj,Alibrahimaj,00,,42.091111,19.298333
+me,alici,Alici,00,,43.255833,19.356389
+me,alilovce,Alilovce,00,,43.130833,19.645556
+me,alje,Alje,00,,42.687778,19.741944
+me,aluga,Aluga,00,,42.485833,18.8425
+me,aluge,Aluge,00,,42.708333,19.343889
+me,ambula,Ambula,00,,41.980278,19.3525
+me,ametovina,Ametovina,00,,43.347778,19.273611
+me,andelat,Andelat,00,,42.718056,19.794167
+me,andelate,Andelate,00,,42.718056,19.794167
+me,andrici,Andrici,00,,42.48,18.496667
+me,andricici,Andricici,00,,42.274444,18.906111
+me,andrijevica,Andrijevica,00,,42.733889,19.791944
+me,andrijevo,Andrijevo,00,,42.695278,19.351944
+me,androvici,Androvici,00,,42.209722,18.955556
+me,andzelate,Andzelate,00,,42.718056,19.794167
+me,andzelati,Andzelati,00,,42.718056,19.794167
+me,antelat,Antelat,00,,42.718056,19.794167
+me,antivari,Antivari,00,,42.093056,19.100278
+me,aprcovici,Aprcovici,00,,43.153611,18.733611
+me,arapi,Arapi,00,,42.786667,18.763056
+me,arbanasi,Arbanasi,00,,42.365556,19.036111
+me,arbanaski do,Arbanaski Do,00,,42.420833,19.031389
+me,arbanes,Arbanes,00,,42.075278,19.340278
+me,arbnes,Arbnes,00,,42.075278,19.340278
+me,arbnez,Arbnez,00,,42.075278,19.340278
+me,arza,Arza,00,,42.369722,19.402778
+me,avlija,Avlija,00,,43.523333,19.157222
+me,avtenice,Avtenice,00,,42.849722,18.919722
+me,azane,Azane,00,,42.95,19.948056
+me,azani,Azani,00,,42.95,19.948056
+me,azanje,Azanje,00,,42.95,19.948056
+me,babacici,Babacici,00,,42.934444,19.934444
+me,babaici,Babaici,00,,43.107778,19.632778
+me,babajici,Babajici,00,,43.107778,19.632778
+me,babalonija,Babalonija,00,,42.293333,18.844722
+me,babica mala,Babica Mala,00,,42.778333,19.9375
+me,babica polje,Babica Polje,00,,42.959167,19.570556
+me,babici,Babici,00,,43.279444,18.865833
+me,babicpotok,Babicpotok,00,,43.335833,19.314722
+me,babina,Babina,00,,42.9025,19.898056
+me,babin,Babin,00,,42.9025,19.898056
+me,babino,Babino,00,,42.9025,19.898056
+me,babino brdo,Babino Brdo,00,,43.353056,18.877778
+me,babino polje,Babino Polje,00,,42.606944,20.053611
+me,babljace,Babljace,00,,42.633056,19.470833
+me,babljak,Babljak,00,,42.833889,19.512222
+me,babulja,Babulja,00,,42.553889,19.163333
+me,babunci,Babunci,00,,42.401667,18.614722
+me,bac,Bac,00,,42.886667,20.296389
+me,bacevac,Bacevac,00,,42.843056,20.134444
+me,bacevici,Bacevici,00,,42.796667,18.5675
+me,bacevine,Bacevine,00,,42.857222,18.998333
+me,bacevnik,Bacevnik,00,,43.164722,19.277222
+me,backovine,Backovine,00,,42.432778,19.113611
+me,bacovici,Bacovici,00,,42.796667,18.5675
+me,bagocina,Bagocina,00,,42.936389,20.146111
+me,bailovici,Bailovici,00,,43.264444,19.025278
+me,baj do,Baj Do,00,,42.658611,19.444444
+me,bajice,Bajice,00,,42.394167,18.893056
+me,bajov do,Bajov Do,00,,42.738889,18.72
+me,bajovina,Bajovina,00,,43.491389,19.143056
+me,bajovine,Bajovine,00,,43.491389,19.143056
+me,bajov kamen,Bajov Kamen,00,,42.959167,18.696389
+me,bajovo polje,Bajovo Polje,00,,43.012778,18.878333
+me,bajraktari,Bajraktari,00,,42.044722,19.195278
+me,bakije,Bakije,00,,43.514722,19.211944
+me,bakoci,Bakoci,00,,42.476389,18.606111
+me,bakovici,Bakovici,00,,42.848056,19.516944
+me,bakrenjace,Bakrenjace,00,,43.372778,19.340556
+me,balabani,Balabani,00,,42.325,19.233889
+me,balabusici,Balabusici,00,,42.4625,18.651389
+me,bale,Bale,00,,42.407222,18.880556
+me,baljacki do,Baljacki Do,00,,42.919444,18.560278
+me,baloci,Baloci,00,,42.460278,19.136111
+me,balosave,Balosave,00,,42.756667,18.615556
+me,balotice,Balotice,00,,42.845278,20.220833
+me,balotici,Balotici,00,,42.845278,20.220833
+me,bamburi,Bamburi,00,,43.212222,19.405
+me,ban,Ban,00,,42.856944,18.476111
+me,bancic brdo,Bancic Brdo,00,,43.417778,19.219167
+me,bandicka zupa,Bandicka Zupa,00,,42.480278,19.123056
+me,bandzov,Bandzov,00,,42.780833,20.130278
+me,banja,Banja,00,,42.501944,18.692778
+me,banja selo,Banja Selo,00,,43.054167,19.724167
+me,banje brdo,Banje Brdo,00,,42.746944,19.403611
+me,banje selo,Banje Selo,00,,43.054167,19.724167
+me,banjevac,Banjevac,00,,42.826944,19.819722
+me,ban-lug,Ban-Lug,00,,42.729444,19.343056
+me,banovici,Banovici,00,,42.305556,18.974167
+me,banovina,Banovina,00,,42.484167,18.674167
+me,baosic,Baosic,00,,42.4425,18.63
+me,baosici,Baosici,00,,42.4425,18.63
+me,bapsula,Bapsula,00,,42.144444,19.215833
+me,bara,Bara,00,,42.621667,18.686111
+me,baran selo,Baran Selo,00,,42.825,18.513889
+me,bar,Bar,00,,42.093056,19.100278
+me,bardici,Bardici,00,,42.165,19.165278
+me,bare ajdinovica,Bare Ajdinovica,00,,42.814167,19.883611
+me,bare,Bare,00,,42.6225,19.073333
+me,bare kraljske,Bare Kraljske,00,,42.749444,19.612778
+me,bare sumanovica,Bare Sumanovica,00,,42.6225,19.073333
+me,bare zugica,Bare Zugica,00,,43.108056,19.171667
+me,barice,Barice,00,,42.768611,19.414722
+me,barjamovica,Barjamovica,00,,42.504167,18.981389
+me,barlaj,Barlaj,00,,42.356944,19.418056
+me,barni do,Barni Do,00,,43.255833,18.880833
+me,bartula,Bartula,00,,42.083056,19.141667
+me,barutana,Barutana,00,,42.3925,19.141944
+me,basca,Basca,00,,42.91,20.13
+me,basce,Basce,00,,42.91,20.13
+me,bascinovici,Bascinovici,00,,43.287778,19.350833
+me,basino selo,Basino Selo,00,,42.566389,18.879444
+me,bastahe,Bastahe,00,,42.864167,19.793333
+me,bastasi,Bastasi,00,,42.738056,19.085833
+me,bata,Bata,00,,42.553611,18.815
+me,batal,Batal,00,,42.751389,19.583333
+me,batute,Batute,00,,42.3575,18.737778
+me,bavcici,Bavcici,00,,43.513056,18.968056
+me,bazagur,Bazagur,00,,42.347222,19.109167
+me,bazdan,Bazdan,00,,42.394722,18.700278
+me,becic,Becic,00,,42.283889,18.869167
+me,becici,Becici,00,,42.283889,18.869167
+me,becko korito,Becko Korito,00,,42.921389,18.521667
+me,bedem,Bedem,00,,42.775556,18.943333
+me,begar,Begar,00,,42.710556,19.801667
+me,begova dol,Begova Dol,00,,42.5025,18.78
+me,begova glavica,Begova Glavica,00,,42.370278,19.143889
+me,begova luka,Begova Luka,00,,42.502222,19.324444
+me,begovic,Begovic,00,,42.386944,18.614444
+me,begovici,Begovici,00,,42.386944,18.614444
+me,begovina,Begovina,00,,42.514167,19.133056
+me,begovine,Begovine,00,,42.514167,19.133056
+me,beljkasi,Beljkasi,00,,43.406111,19.329722
+me,beljkovici,Beljkovici,00,,43.171667,19.415833
+me,belovina,Belovina,00,,43.020556,19.413611
+me,belusevac,Belusevac,00,,43.319167,18.933333
+me,belveder,Belveder,00,,42.380833,18.9425
+me,benkaj,Benkaj,00,,42.443611,19.481944
+me,benkalj,Benkalj,00,,42.443611,19.481944
+me,benkani,Benkani,00,,42.443611,19.481944
+me,beran,Beran,00,,42.8425,19.873333
+me,berane,Berane,00,,42.8425,19.873333
+me,beran selo,Beran Selo,00,,42.855278,19.863889
+me,beri,Beri,00,,42.433333,19.184444
+me,berislavci,Berislavci,00,,42.3025,19.2175
+me,berjasi,Berjasi,00,,42.074444,19.311944
+me,berova,Berova,00,,42.491111,19.445278
+me,besa,Besa,00,,42.1475,19.225
+me,bes,Bes,00,,42.1475,19.225
+me,besevina,Besevina,00,,43.375833,19.218333
+me,besnik,Besnik,00,,42.871111,20.258889
+me,bezijovo,Bezijovo,00,,42.494167,19.422222
+me,bezjovo,Bezjovo,00,,42.494167,19.422222
+me,bezuje,Bezuje,00,,43.051667,18.898611
+me,bigor,Bigor,00,,42.399444,19.132222
+me,bigovo,Bigovo,00,,42.356944,18.705
+me,bijedanj,Bijedanj,00,,42.799722,19.868333
+me,bijedici,Bijedici,00,,42.933333,19.833333
+me,bijela,Bijela,00,,42.453333,18.655556
+me,bijela crkva,Bijela Crkva,00,,42.876111,20.196944
+me,bijela glavica,Bijela Glavica,00,,42.038333,19.144444
+me,bijelasi,Bijelasi,00,,42.100833,19.104167
+me,bijela stijena,Bijela Stijena,00,,43.165278,19.685278
+me,bijela voda,Bijela Voda,00,,43.218611,19.495278
+me,bijele poljane,Bijele Poljane,00,,42.6075,18.885
+me,bijeli potok,Bijeli Potok,00,,42.775833,19.536667
+me,bijelis do,Bijelis Do,00,,42.229167,18.981944
+me,bijelo polje,Bijelo Polje,00,,43.029167,19.745556
+me,bijelova babulja,Bijelova Babulja,00,,42.553889,19.163333
+me,bijelovo brdo,Bijelovo Brdo,00,,43.340556,19.268611
+me,bijelske krusevice,Bijelske Krusevice,00,,42.471667,18.642222
+me,bijorici,Bijorici,00,,42.939722,19.836667
+me,bileca,Bileca,00,,42.506389,19.133611
+me,bilece,Bilece,00,,42.506389,19.133611
+me,bioca,Bioca,00,,42.513056,19.351389
+me,bioce,Bioce,00,,42.513056,19.351389
+me,biokovac,Biokovac,00,,43.171111,19.606111
+me,biorici,Biorici,00,,42.939722,19.836667
+me,birac,Birac,00,,42.889722,18.622222
+me,biraci,Biraci,00,,42.889722,18.622222
+me,bisac,Bisac,00,,42.438889,19.438333
+me,biserna obala,Biserna Obala,00,,42.159722,19.004722
+me,bisevo,Bisevo,00,,42.910278,20.216111
+me,bistrica,Bistrica,00,,42.306667,19.185
+me,bistrica lipovska,Bistrica Lipovska,00,,42.863333,19.4825
+me,bistrica lipovsko,Bistrica Lipovsko,00,,42.816944,19.441944
+me,bistrica moracka,Bistrica Moracka,00,,42.816944,19.441944
+me,bistrice,Bistrice,00,,42.306667,19.185
+me,bitelica,Bitelica,00,,43.019167,18.531667
+me,biteljica,Biteljica,00,,43.019167,18.531667
+me,bitine,Bitine,00,,43.205833,19.287778
+me,bjela,Bjela,00,,42.453333,18.655556
+me,bjelice,Bjelice,00,,43.113056,19.821667
+me,bjelila,Bjelila,00,,42.405278,18.665
+me,bjelisi,Bjelisi,00,,42.100833,19.104167
+me,bjeljoskja,Bjeljoskja,00,,42.388611,19.404444
+me,bjelojevice,Bjelojevice,00,,42.935833,19.596667
+me,bjelojevici,Bjelojevici,00,,42.935833,19.596667
+me,bjelosevac,Bjelosevac,00,,42.784167,19.922778
+me,bjelosevici,Bjelosevici,00,,42.315,18.767222
+me,bjelosevina,Bjelosevina,00,,42.721667,19.137222
+me,bjelosi,Bjelosi,00,,42.373056,18.900278
+me,bjelovici,Bjelovici,00,,42.816944,18.623056
+me,bjelovo brdo,Bjelovo Brdo,00,,43.340556,19.268611
+me,blaca,Blaca,00,,42.796944,19.435833
+me,blace,Blace,00,,42.928889,20.188611
+me,blagojevic,Blagojevic,00,,42.571944,18.633611
+me,blatina,Blatina,00,,42.851667,19.484444
+me,blatka,Blatka,00,,42.955,19.886389
+me,bliskovo,Bliskovo,00,,43.142778,19.547778
+me,blizikuce,Blizikuce,00,,42.245556,18.904444
+me,blizna,Blizna,00,,42.508333,18.803333
+me,blizurat,Blizurat,00,,42.543889,18.917778
+me,bljaca,Bljaca,00,,42.123056,19.256389
+me,bljekov mramor,Bljekov Mramor,00,,43.091111,19.278056
+me,boan,Boan,00,,42.941389,19.212778
+me,bobija,Bobija,00,,42.347778,19.141667
+me,bobotovo groblje,Bobotovo Groblje,00,,43.030556,18.66
+me,bobova ulica,Bobova Ulica,00,,42.645833,18.683611
+me,bobovine,Bobovine,00,,42.349444,19.151667
+me,bobovista,Bobovista,00,,42.115278,19.271389
+me,boboviste,Boboviste,00,,42.115278,19.271389
+me,bobovo,Bobovo,00,,43.270556,19.129444
+me,bobulja,Bobulja,00,,42.553889,19.163333
+me,bogaj,Bogaj,00,,42.846111,20.085
+me,bogaje,Bogaje,00,,42.846111,20.085
+me,bogaji,Bogaji,00,,42.846111,20.085
+me,bogajice,Bogajice,00,,42.583056,19.953611
+me,bogajici,Bogajici,00,,42.583056,19.953611
+me,bogajni,Bogajni,00,,42.846111,20.085
+me,bogdasici,Bogdasici,00,,42.425278,18.734722
+me,bogetic,Bogetic,00,,42.336944,18.791389
+me,bogetici,Bogetici,00,,42.336944,18.791389
+me,bogiceici,Bogiceici,00,,42.577778,19.076667
+me,bogicevica,Bogicevica,00,,42.550556,18.638889
+me,bogicevici,Bogicevici,00,,42.577778,19.076667
+me,bogisici,Bogisici,00,,42.398056,18.680833
+me,bogmilovici,Bogmilovici,00,,42.612222,19.012778
+me,bogojev do,Bogojev Do,00,,42.637778,18.731111
+me,bogomilici,Bogomilici,00,,42.612222,19.012778
+me,bogomolja,Bogomolja,00,,43.130556,19.2875
+me,bogomolje,Bogomolje,00,,43.130556,19.2875
+me,boguti,Boguti,00,,42.320278,18.981111
+me,bogutov do,Bogutov Do,00,,42.684167,19.353611
+me,bojanic,Bojanic,00,,42.565556,18.655556
+me,bojanje brdo,Bojanje Brdo,00,,42.658889,18.614722
+me,bojate,Bojate,00,,43.254722,18.9575
+me,bojati,Bojati,00,,43.254722,18.9575
+me,bojici,Bojici,00,,42.866944,19.293333
+me,bojin do,Bojin Do,00,,42.722778,19.414167
+me,bojista,Bojista,00,,43,19.689722
+me,bojiste,Bojiste,00,,43,19.689722
+me,bojka,Bojka,00,,42.038333,19.286944
+me,bojke,Bojke,00,,42.038333,19.286944
+me,bojovice,Bojovice,00,,42.705833,19.797778
+me,bojovici,Bojovici,00,,42.582778,19.788056
+me,bojovina,Bojovina,00,,43.369722,19.428056
+me,bojska gora,Bojska Gora,00,,42.695556,19.365
+me,bokovo,Bokovo,00,,42.398611,18.97
+me,boksin do,Boksin Do,00,,42.668611,18.668333
+me,bolesestra,Bolesestra,00,,42.590556,19.420833
+me,bolevici,Bolevici,00,,42.072778,19.316944
+me,boljanic,Boljanic,00,,43.455556,19.213333
+me,boljanici,Boljanici,00,,43.45,19.206944
+me,boljanina,Boljanina,00,,43.037778,19.799167
+me,boljesestra,Boljesestra,00,,42.590556,19.420833
+me,boljev do,Boljev Do,00,,42.497778,19.343611
+me,boljevici,Boljevici,00,,42.2225,19.0875
+me,bolosave,Bolosave,00,,42.756667,18.615556
+me,bonjin do,Bonjin Do,00,,42.763611,18.765556
+me,borak,Borak,00,,42.637778,18.864444
+me,bor,Bor,00,,42.947222,20.013056
+me,borca,Borca,00,,42.134444,19.065
+me,borcane,Borcane,00,,43.198056,19.430556
+me,borete,Borete,00,,42.283333,18.862222
+me,boreti,Boreti,00,,42.283333,18.862222
+me,boricje,Boricje,00,,43.134167,18.916389
+me,borisici,Borisici,00,,43.488333,19.02
+me,borislavljevica,Borislavljevica,00,,43.106667,19.412778
+me,borjanica,Borjanica,00,,43.488889,19.025278
+me,borje,Borje,00,,43.166389,19.185
+me,borkovici,Borkovici,00,,43.1,18.875833
+me,boronjina,Boronjina,00,,42.640833,19.032778
+me,borova,Borova,00,,43.171667,19.448056
+me,borovac,Borovac,00,,43.008056,19.184722
+me,borovica,Borovica,00,,43.303611,19.315833
+me,borovi do,Borovi Do,00,,42.611389,18.823333
+me,borovo,Borovo,00,,43.171667,19.448056
+me,bosaca,Bosaca,00,,43.163333,19.087222
+me,boscinovici,Boscinovici,00,,43.287778,19.350833
+me,boskovici,Boskovici,00,,42.051111,19.160556
+me,bosnjaci,Bosnjaci,00,,42.973333,19.945278
+me,botun,Botun,00,,42.385,19.2
+me,boturic,Boturic,00,,43.069722,19.821389
+me,boturice,Boturice,00,,43.069722,19.821389
+me,boturici,Boturici,00,,43.069722,19.821389
+me,bovan,Bovan,00,,42.921667,20.318056
+me,bozaj,Bozaj,00,,42.311389,19.381389
+me,bozdarev do,Bozdarev Do,00,,42.663056,18.690833
+me,bozice,Bozice,00,,42.723056,19.786389
+me,bozici,Bozici,00,,42.723056,19.786389
+me,bozurev do,Bozurev Do,00,,43.348611,18.921111
+me,bracan,Bracan,00,,42.586667,18.677222
+me,bracani,Bracani,00,,42.482778,19.105833
+me,bracena,Bracena,00,,42.253611,19.078611
+me,braceni,Braceni,00,,42.253611,19.078611
+me,braconi,Braconi,00,,42.253611,19.078611
+me,bradasica,Bradasica,00,,42.614167,19.484722
+me,braisa,Braisa,00,,42.023333,19.313889
+me,brajevici,Brajevici,00,,42.490278,18.478333
+me,brajica brijeg,Brajica Brijeg,00,,42.796389,19.591944
+me,brajici,Brajici,00,,42.303889,18.898611
+me,brajkovaca,Brajkovaca,00,,43.088611,19.354444
+me,brajkovina,Brajkovina,00,,42.464167,18.549722
+me,brajovici,Brajovici,00,,42.553333,19.151944
+me,brajovicko gostilje,Brajovicko Gostilje,00,,42.577778,19.2
+me,brajse,Brajse,00,,42.023333,19.313889
+me,braka,Braka,00,,42.440278,19.395
+me,brankov do,Brankov Do,00,,42.746667,18.725278
+me,branlovica,Branlovica,00,,42.553056,19.0875
+me,bratesici,Bratesici,00,,42.347222,18.789167
+me,bratica,Bratica,00,,41.951667,19.2025
+me,braticev do,Braticev Do,00,,42.666111,18.727778
+me,braticevi dolovi,Braticevi Dolovi,00,,42.675278,18.728889
+me,bratkovica,Bratkovica,00,,42.850833,19.341667
+me,brat-njive,Brat-Njive,00,,42.551944,19.364167
+me,bratosavina,Bratosavina,00,,43.2325,19.415278
+me,bratozica,Bratozica,00,,42.749444,19.465278
+me,brazda,Brazda,00,,43.400556,19.326667
+me,brca,Brca,00,,42.134444,19.065
+me,brceli,Brceli,00,,42.241667,19.011667
+me,brcve,Brcve,00,,43.093056,19.793611
+me,brda,Brda,00,,42.220833,18.951667
+me,brdo,Brdo,00,,42.620556,19.109722
+me,bregove,Bregove,00,,43.101667,19.681389
+me,bregovi,Bregovi,00,,42.520556,19.226111
+me,bregvija,Bregvija,00,,41.9025,19.320278
+me,brekinja,Brekinja,00,,43.488333,19.134167
+me,brekinje,Brekinje,00,,43.488333,19.134167
+me,brekovac,Brekovac,00,,42.942778,18.559167
+me,brestica,Brestica,00,,42.715556,18.797222
+me,brestice,Brestice,00,,42.715556,18.797222
+me,brestovi,Brestovi,00,,42.557222,18.909444
+me,brestovi do,Brestovi Do,00,,42.671667,18.804722
+me,brestovik,Brestovik,00,,42.971111,19.813056
+me,brevica,Brevica,00,,42.644444,19.783333
+me,breza,Breza,00,,43.038889,19.588889
+me,brezani,Brezani,00,,42.157222,19.031944
+me,brezde,Brezde,00,,42.995278,19.848889
+me,breze,Breze,00,,43.169167,19.6775
+me,brezevice,Brezevice,00,,42.551111,19.464444
+me,brezine,Brezine,00,,42.3925,19.113889
+me,brezna,Brezna,00,,43.038889,19.588889
+me,brezojevica,Brezojevica,00,,42.62,19.926944
+me,brezojevice,Brezojevicë,00,,42.62,19.926944
+me,brezovac,Brezovac,00,,43.006667,19.618056
+me,brezova glava,Brezova Glava,00,,43.483056,19.045
+me,brezova ravan,Brezova Ravan,00,,43.326667,19.233056
+me,brezov do,Brezov Do,00,,42.551944,18.609167
+me,brezove rupe,Brezove Rupe,00,,42.631111,19.3425
+me,brezovica,Brezovica,00,,42.551111,19.464444
+me,brezovi do,Brezovi Do,00,,42.910278,18.953889
+me,brezovik,Brezovik,00,,42.819444,18.925556
+me,brguli,Brguli,00,,42.3925,18.617222
+me,bride,Bride,00,,42.371389,19.136667
+me,brijeg,Brijeg,00,,43.348611,18.887778
+me,brijege,Brijege,00,,42.2425,19.027222
+me,brijegi,Brijegi,00,,42.2425,19.027222
+me,brijeg vuksanovica,Brijeg Vuksanovica,00,,42.508333,19.346667
+me,brijestovo,Brijestovo,00,,42.608333,19.122222
+me,briska gora,Briska Gora,00,,41.970278,19.303333
+me,briski do,Briski Do,00,,42.765278,19.030278
+me,brkanovici,Brkanovici,00,,42.041111,19.176389
+me,brkljaca,Brkljaca,00,,43.262222,19.464167
+me,brkovic,Brkovic,00,,42.482222,18.673333
+me,brljevo,Brljevo,00,,43.188611,18.829167
+me,brnovici,Brnovici,00,,42.348333,19.146389
+me,brocanac,Brocanac,00,,42.73,18.854722
+me,brocanac grahovski,Brocanac Grahovski,00,,42.758889,18.563611
+me,brocanac niksicki,Brocanac Niksicki,00,,42.73,18.854722
+me,brocnik,Brocnik,00,,42.579722,19.341111
+me,brod,Brod,00,,42.208056,19.181111
+me,brojenovac,Brojenovac,00,,43.011667,19.627222
+me,brotnjik,Brotnjik,00,,42.579722,19.341111
+me,brskut,Brskut,00,,42.611944,19.497222
+me,brsno,Brsno,00,,42.727222,19.025
+me,brstevac,Brstevac,00,,42.998611,18.719722
+me,brzava,Brzava,00,,42.963889,19.809444
+me,buavice,Buavice,00,,42.319444,19.002222
+me,bubanje,Bubanje,00,,42.957778,19.830278
+me,bubrezak,Bubrezak,00,,42.766389,18.876667
+me,buce,Buce,00,,42.821944,19.854722
+me,bucelj,Bucelj,00,,42.573333,19.801111
+me,bucin,Bucin,00,,42.323889,18.746667
+me,bucini,Bucini,00,,42.323889,18.746667
+me,bucje,Bucje,00,,43.040278,19.651667
+me,budanj,Budanj,00,,43.166667,18.826667
+me,budecevica,Budecevica,00,,43.144444,19.289722
+me,budevac,Budevac,00,,42.989722,19.431389
+me,budimlja,Budimlja,00,,42.863889,19.891667
+me,budimlje,Budimlje,00,,42.863889,19.891667
+me,budisi,Budisi,00,,42.150278,19.049167
+me,budojevici,Budojevici,00,,43.508611,18.971667
+me,budovica,Budovica,00,,42.565556,19.909722
+me,budua,Budua,00,,42.286389,18.84
+me,budva,Budva,00,,42.286389,18.84
+me,budza,Budza,00,,42.445833,19.4475
+me,bujaci,Bujaci,00,,43.168056,19.393056
+me,bujake,Bujake,00,,43.168056,19.393056
+me,bujkovici,Bujkovici,00,,42.384444,18.766667
+me,bukotica,Bukotica,00,,42.635556,19.244444
+me,bukovac,Bukovac,00,,43.044444,18.875833
+me,bukova prodo,Bukova Prodo,00,,42.681667,18.634167
+me,bukova suma,Bukova Suma,00,,43.525,19.185556
+me,bukova voda,Bukova Voda,00,,43.021944,19.760556
+me,bukovica,Bukovica,00,,42.435,18.848889
+me,bukovi doli,Bukovi Doli,00,,42.9025,18.936111
+me,bukovik,Bukovik,00,,42.231111,19.027222
+me,bukovi kraj,Bukovi Kraj,00,,43.138056,19.587778
+me,bukovi lokanj,Bukovi Lokanj,00,,42.5675,18.951111
+me,bukovi potok,Bukovi Potok,00,,42.766667,19.585556
+me,bulinovac,Bulinovac,00,,42.973056,18.549167
+me,buljarica,Buljarica,00,,42.198611,18.965278
+me,bulje,Bulje,00,,42.704444,19.3675
+me,buljev pod,Buljev Pod,00,,42.613333,18.651667
+me,buljici,Buljici,00,,42.736389,19.932222
+me,buljunice,Buljunice,00,,43.454167,19.260833
+me,buljusa,Buljusa,00,,42.92,18.591667
+me,bunar,Bunar,00,,42.834167,19.394444
+me,bunca,Bunca,00,,42.530556,19.364722
+me,bunovici,Bunovici,00,,42.485556,18.593056
+me,burenjski do,Burenjski Do,00,,43.023611,19.544444
+me,burenski do,Burenski Do,00,,43.023611,19.544444
+me,burici,Burici,00,,43.513056,19.173333
+me,buronje,Buronje,00,,42.806667,19.500278
+me,buronji,Buronji,00,,42.430556,19.101944
+me,buronjski do,Buronjski Do,00,,42.358611,19.136389
+me,buronski do,Buronski Do,00,,42.358611,19.136389
+me,buroski do,Buroski Do,00,,42.358611,19.136389
+me,burtaisi,Burtaisi,00,,42.095,19.113611
+me,busak,Busak,00,,42.833611,18.733056
+me,busin do,Busin Do,00,,42.616667,19.110833
+me,busnje,Busnje,00,,43.378056,19.279722
+me,butua,Butua,00,,42.286389,18.84
+me,buturice,Buturice,00,,43.069722,19.821389
+me,cafa,Cafa,00,,42.451667,19.165833
+me,calanovica,Calanovica,00,,42.623889,19.021944
+me,campari,Campari,00,,43.059444,19.963611
+me,canj,Canj,00,,42.162778,18.998056
+me,capre mahala,Capre Mahala,00,,42.0375,19.354444
+me,carade,Carade,00,,43.005556,18.685278
+me,cardak,Cardak,00,,43.167222,19.120556
+me,carevic,Carevic,00,,42.122222,19.099722
+me,carine,Carine,00,,42.728333,18.610278
+me,castelnuovo,Castelnuovo,00,,42.453056,18.5375
+me,castelnuovo di cattaro,Castelnuovo di Cattaro,00,,42.453056,18.5375
+me,cattaro,Cattaro,00,,42.425833,18.771944
+me,cattoro,Cattoro,00,,42.425833,18.771944
+me,causevac,Causevac,00,,42.575,18.954722
+me,causev do,Causev Do,00,,43.463056,19.189167
+me,cavanj,Cavanj,00,,43.1525,19.361389
+me,cavlovic kula,Cavlovic Kula,00,,43.397778,19.202222
+me,cavori,Cavori,00,,42.363611,18.804722
+me,ceca,Ceca,00,,42.725278,19.3725
+me,cecevo,Cecevo,00,,42.69,19.762778
+me,cecune,Cecune,00,,42.678889,19.786944
+me,cecuni,Cecuni,00,,42.678889,19.786944
+me,cejirenci,Cejirenci,00,,43.510556,18.984444
+me,cekanje,Cekanje,00,,42.432778,18.858611
+me,ceklin,Ceklin,00,,42.357778,18.980833
+me,celina,Celina,00,,42.544444,18.819722
+me,celinacki dolovi,Celinacki Dolovi,00,,42.467222,18.926667
+me,celine,Celine,00,,42.905278,18.858333
+me,celinski do,Celinski Do,00,,42.748611,18.8875
+me,celj,Celj,00,,42.52,19.349444
+me,celobrdo,Celobrdo,00,,42.268333,18.908333
+me,celuga,Celuga,00,,42.081111,19.112778
+me,cemani,Cemani,00,,42.873611,19.989167
+me,cemenca,Cemenca,00,,42.793056,18.940833
+me,cenic,Cenic,00,,42.468333,18.475556
+me,cenici,Cenici,00,,42.468333,18.475556
+me,cepelnica,Cepelnica,00,,42.795833,18.705833
+me,cepetici,Cepetici,00,,42.436111,19.049167
+me,cepici,Cepici,00,,42.996944,19.866111
+me,cerak,Cerak,00,,42.857778,18.753889
+me,ceranica gora,Ceranica Gora,00,,42.865,19.101944
+me,ceratov brijeg,Ceratov Brijeg,00,,42.871111,18.9725
+me,cer,Cer,00,,42.964444,19.181667
+me,cerje,Cerje,00,,42.498333,19.368889
+me,cernica,Cernica,00,,43.046667,19.619722
+me,cerovac,Cerovac,00,,43.027778,19.782222
+me,cerovci,Cerovci,00,,43.381111,19.125833
+me,cerovica,Cerovica,00,,42.816389,18.702222
+me,cerovice,Cerovice,00,,42.763889,19.350833
+me,cerovi do,Cerovi Do,00,,42.519167,18.803611
+me,cerovik,Cerovik,00,,42.543056,18.666111
+me,cerovi pod,Cerovi Pod,00,,42.344444,19.143056
+me,cerovo,Cerovo,00,,42.669167,18.972778
+me,cerovo prodo,Cerovo Prodo,00,,42.975,18.563333
+me,cesakovina,Cesakovina,00,,42.511389,19.156667
+me,cesljari,Cesljari,00,,42.399167,19.038333
+me,cestin,Cestin,00,,43.418056,19.03
+me,cestogaz,Cestogaz,00,,42.7075,19.501667
+me,cetanski pod,Cetanski Pod,00,,42.724722,18.971667
+me,cetinje,Cetinje,00,,42.392222,18.9225
+me,cetkovice,Cetkovice,00,,42.76,19.879444
+me,cetkovici,Cetkovici,00,,42.76,19.879444
+me,cettinge,Cettinge,00,,42.392222,18.9225
+me,cevo,Cevo,00,,42.545,18.919167
+me,cijevna,Cijevna,00,,42.43,19.476111
+me,cikotici,Cikotici,00,,42.894722,19.998611
+me,cipcije,Cipcije,00,,43.192222,19.13
+me,ciperovaca,Ciperovaca,00,,43.164722,19.156667
+me,ciri kace,Ciri Kace,00,,42.571667,19.856667
+me,cirovici,Cirovici,00,,43.256111,19.431944
+me,cista vlaka,Cista Vlaka,00,,42.862778,18.623333
+me,cisto polje,Cisto Polje,00,,42.338056,18.983889
+me,citluk,Citluk,00,,43.118056,19.628889
+me,civlak,Civlak,00,,41.9375,19.186944
+me,ckla,Ckla,00,,42.083611,19.360833
+me,cokarlinsko brdo,Cokarlinsko Brdo,00,,43.106667,19.584444
+me,coklije,Coklije,00,,42.924722,20.209722
+me,cokotin,Cokotin,00,,42.958333,19.190833
+me,cokova luka,Cokova Luka,00,,43.311944,18.848889
+me,cokrlije,Cokrlije,00,,43.100833,19.628056
+me,cokrlje,Cokrlje,00,,42.924722,20.209722
+me,colanice,Colanice,00,,43.108611,19.462778
+me,colani,Colani,00,,42.3275,18.741389
+me,colanov do,Colanov Do,00,,43.045556,19.302778
+me,colanovica,Colanovica,00,,42.623889,19.021944
+me,colovici,Colovici,00,,43.389444,19.238333
+me,cosovica,Cosovica,00,,42.903889,20.103889
+me,cosovici,Cosovici,00,,42.5425,19.835556
+me,coveca glava,Coveca Glava,00,,42.77,19.811944
+me,creoce,Creoce,00,,43.074722,19.690556
+me,crgalje,Crgalje,00,,42.979167,19.924444
+me,crhalj,Crhalj,00,,42.979167,19.924444
+me,crkvice,Crkvice,00,,42.524167,19.344167
+me,crkvina,Crkvina,00,,42.795556,19.452222
+me,crkvine,Crkvine,00,,42.795556,19.452222
+me,crljenica,Crljenica,00,,43.365278,19.415833
+me,crljenice,Crljenice,00,,43.361389,19.398333
+me,crljevine,Crljevine,00,,42.914722,19.851111
+me,crnacko brdo,Crnacko Brdo,00,,42.542222,19.250833
+me,crna gora,Crna Gora,00,,43.216111,19.005278
+me,crna greda,Crna Greda,00,,42.389444,18.936944
+me,crna poljana,Crna Poljana,00,,42.775833,19.536667
+me,crnca,Crnca,00,,42.911944,20.323889
+me,crnce,Crnce,00,,42.975278,19.853056
+me,crnci,Crnci,00,,42.531111,19.235278
+me,crni kuk,Crni Kuk,00,,42.903333,18.616944
+me,crni nugli,Crni Nugli,00,,42.597778,18.698056
+me,crnionica,Crnionica,00,,43.002778,19.725278
+me,crnioni do,Crnioni Do,00,,42.634167,18.7275
+me,crni potok,Crni Potok,00,,42.732222,19.466944
+me,crnis,Crnis,00,,42.949167,19.908611
+me,crni val,Crni Val,00,,42.755556,19.55
+me,crni vrh,Crni Vrh,00,,42.8575,19.825
+me,crnjonica,Crnjonica,00,,43.002778,19.725278
+me,crnobori,Crnobori,00,,43.254167,19.308056
+me,crnoborje,Crnoborje,00,,43.254167,19.308056
+me,crno brdo,Crno Brdo,00,,43.413333,19.17
+me,crnodoli,Crnodoli,00,,42.786111,18.886111
+me,crnokrpe,Crnokrpe,00,,42.925,20.232778
+me,crvena lokva,Crvena Lokva,00,,43.056944,19.428056
+me,crvena paprat,Crvena Paprat,00,,42.468611,19.113611
+me,crvena stijena,Crvena Stijena,00,,43.109722,19.329722
+me,crveni do,Crveni Do,00,,42.618056,18.721944
+me,crvioca,Crvioca,00,,43.044444,19.835
+me,crvljak,Crvljak,00,,42.693611,19.738889
+me,crvljevine,Crvljevine,00,,42.914722,19.851111
+me,cucevica,Cucevica,00,,42.670278,19.521111
+me,cucici,Cucici,00,,42.283889,18.884167
+me,cuke,Cuke,00,,42.864722,19.4175
+me,cukovac,Cukovac,00,,43.423611,19.101111
+me,cukovici,Cukovici,00,,42.315556,19.054167
+me,curaj,Curaj,00,,42.042222,19.321389
+me,curcici,Curcici,00,,42.598889,19.002778
+me,curilac,Curilac,00,,42.534722,19.1175
+me,curjan,Curjan,00,,42.094444,19.308333
+me,curke,Curke,00,,41.935833,19.339444
+me,curukaca,Curukaca,00,,43.083611,19.365278
+me,cvarin,Cvarin,00,,42.485556,19.323611
+me,cvijovica dolina,Cvijovica Dolina,00,,43.419444,19.292222
+me,cvilin,Cvilin,00,,42.507222,19.420556
+me,dabezici,Dabezici,00,,42.038333,19.207778
+me,dabojevici,Dabojevici,00,,42.673333,19.017222
+me,dabovici,Dabovici,00,,42.268333,19.082778
+me,dabovina,Dabovina,00,,43.428889,19.298611
+me,dacici,Dacici,00,,42.808056,20.178056
+me,daci,Daci,00,,42.418611,19.04
+me,dahca reka,Dahca Reka,00,,42.944444,20.078056
+me,dahna,Dahna,00,,42.423056,19.228611
+me,dajbabe,Dajbabe,00,,42.409444,19.223611
+me,dajcin do,Dajcin Do,00,,42.653056,18.8175
+me,dakonovici,Dakonovici,00,,42.331667,18.8175
+me,Ðakov do,Ðakov Do,00,,42.589444,18.866389
+me,dakovici,Dakovici,00,,43.509167,19.2175
+me,Ðalci,Ðalci,00,,42.418611,19.04
+me,daljam,Daljam,00,,42.487222,19.175833
+me,daljan,Daljan,00,,42.487222,19.175833
+me,dalovici,Dalovici,00,,43.074167,19.9475
+me,damjanovici,Damjanovici,00,,43.408611,19.321111
+me,danave,Danave,00,,42.586389,18.816389
+me,danilovgrad,Danilovgrad,00,,42.547222,19.105278
+me,dapcevici,Dapcevici,00,,42.0425,19.199167
+me,dapkovici,Dapkovici,00,,42.280556,18.9075
+me,dapsice,Dapsice,00,,42.847778,19.921111
+me,dapsici,Dapsici,00,,42.829722,19.947222
+me,daronji do,Daronji Do,00,,42.784167,19.066111
+me,daronjin do,Daronjin Do,00,,42.784167,19.066111
+me,darza,Darza,00,,41.948056,19.317778
+me,dasca rijeka,Dasca Rijeka,00,,42.944444,20.078056
+me,dauti,Dauti,00,,43.209722,19.609722
+me,debela aluga,Debela Aluga,00,,42.905278,18.858333
+me,debeli grmen,Debeli Grmen,00,,42.661111,19.002778
+me,decbitrici,Decbitrici,00,,42.074722,19.334167
+me,dedezi,Dedezi,00,,42.4875,19.073333
+me,dedici,Dedici,00,,42.174722,19.163611
+me,dedina ravan,Dedina Ravan,00,,42.7225,19.436667
+me,dedinice,Dedinice,00,,42.6375,19.446389
+me,Ðedovo polje,Ðedovo Polje,00,,43.078889,19.288333
+me,dekare,Dekare,00,,43.521944,19.203611
+me,dekovici,Dekovici,00,,42.760278,19.740278
+me,delaj,Delaj,00,,42.443889,19.469444
+me,delevici,Delevici,00,,42.872222,19.928889
+me,delici,Delici,00,,43.336667,19.375556
+me,Ðelovi do,Ðelovi Do,00,,42.713333,18.703889
+me,demici,Demici,00,,43.431667,19.245833
+me,demirovici,Demirovici,00,,42.085278,19.35
+me,denasevici,Denasevici,00,,42.076667,19.310278
+me,denasi,Denasi,00,,42.076667,19.310278
+me,dencici,Dencici,00,,42.076667,19.329167
+me,dendinovici,Dendinovici,00,,42.1525,19.045
+me,denjaca,Denjaca,00,,43.030556,19.804444
+me,denovic,Denovic,00,,42.436944,18.602222
+me,denovici,Denovici,00,,42.436944,18.602222
+me,derace,Derace,00,,42.944444,19.875556
+me,dervisevici,Dervisevici,00,,42.578611,19.810278
+me,desni meteh,Desni Meteh,00,,42.619444,19.980278
+me,deveta,Deveta,00,,43.364444,19.330556
+me,devojacki do,Devojacki Do,00,,42.743611,18.644722
+me,dide,Dide,00,,42.503056,18.845278
+me,dijo,Dijo,00,,42.979444,19.705556
+me,dijonice,Dijonice,00,,42.686667,19.4925
+me,dine,Dine,00,,42.890556,19.921389
+me,dinesa,Dinesa,00,,42.418611,19.338889
+me,dinje,Dinje,00,,42.881944,19.915278
+me,dinosa,Dinosa,00,,42.418611,19.338889
+me,dinosi,Dinosi,00,,42.418611,19.338889
+me,Ðinov do,Ðinov Do,00,,42.588611,18.752222
+me,dinovici,Dinovici,00,,42.411944,19.005556
+me,dio,Dio,00,,42.979444,19.705556
+me,divanovici,Divanovici,00,,42.276111,18.89
+me,Ðivorad,Ðivorad,00,,42.860833,19.447222
+me,dizdarev do,Dizdarev Do,00,,42.522222,18.478889
+me,djecbitrici,Djecbitrici,00,,42.074722,19.334167
+me,djenovici,Djenovici,00,,42.436944,18.602222
+me,djevojacki do,Djevojacki Do,00,,42.743611,18.644722
+me,djurasevici,Djurasevici,00,,42.394722,18.688333
+me,do adzica,Do Adzica,00,,42.753056,19.569444
+me,doberdol,Dobërdol,00,,42.964722,19.996944
+me,dobra gora,Dobra Gora,00,,42.574444,18.799722
+me,dobrakovo,Dobrakovo,00,,43.139444,19.774444
+me,dobra sela,Dobra Sela,00,,42.964722,19.109444
+me,dobra voda,Dobra Voda,00,,42.048889,19.143889
+me,dobrcin,Dobrcin,00,,42.409444,19.438611
+me,dobrdoli,Dobrdoli,00,,42.964722,19.996944
+me,dobrdsko selo,Dobrdsko Selo,00,,42.379444,18.964444
+me,dobreci,Dobreci,00,,42.123333,19.220833
+me,dobre vode,Dobre Vode,00,,43.080833,19.732222
+me,dobri do,Dobri Do,00,,42.595556,19.233611
+me,dobrilovici,Dobrilovici,00,,43.162778,18.891111
+me,dobrilovina,Dobrilovina,00,,43.033611,19.386389
+me,dobri lug,Dobri Lug,00,,42.711111,19.391389
+me,dobrinje,Dobrinje,00,,43.151389,19.719722
+me,dobri nugo,Dobri Nugo,00,,43.095833,19.202222
+me,dobro brdo,Dobro Brdo,00,,43.126389,19.715
+me,dobrodo,Dobrodo,00,,42.896944,19.27
+me,dobrodol,Dobrodol,00,,42.964722,19.996944
+me,dobrodole,Dobrodole,00,,42.964722,19.996944
+me,dobronez do,Dobronez Do,00,,42.538056,18.786389
+me,dobronjez do,Dobronjez Do,00,,42.538056,18.786389
+me,dobro polje,Dobro Polje,00,,42.635278,19.026389
+me,dobroseoska merulja,Dobroseoska Merulja,00,,43.072222,19.165
+me,dobrota,Dobrota,00,,42.454167,18.768333
+me,dobrovoljici,Dobrovoljici,00,,42.781667,19.0525
+me,dobrska zupa,Dobrska Zupa,00,,42.393889,19.051389
+me,dobrsko,Dobrsko,00,,42.379444,18.964444
+me,dobrsko selo,Dobrsko Selo,00,,42.379444,18.964444
+me,dobrus,Dobrus,00,,42.655556,18.966944
+me,docici,Docici,00,,42.701667,18.742778
+me,doderovici,Doderovici,00,,43.177222,18.670278
+me,dodici,Dodici,00,,42.071944,19.342778
+me,do,Do,00,,43.041111,18.739722
+me,dodosi,Dodosi,00,,42.329167,19.136389
+me,dojcin do,Dojcin Do,00,,42.653056,18.8175
+me,doknica dolovi,Doknica Dolovi,00,,42.984722,18.733889
+me,dolac,Dolac,00,,42.846667,19.852778
+me,dolenji lovnica,Dolenji Lovnica,00,,42.870556,20.138889
+me,dolina,Dolina,00,,42.905278,20.146944
+me,doline,Doline,00,,43.243889,19.455833
+me,dolinice,Dolinice,00,,42.740833,19.336111
+me,dolja,Dolja,00,,42.5375,19.794722
+me,doljan,Doljan,00,,42.463889,19.3075
+me,doljane,Doljane,00,,42.37,19.102778
+me,doljani,Doljani,00,,42.463889,19.3075
+me,dolma,Dolma,00,,42.905278,20.146944
+me,dolovi,Dolovi,00,,42.3775,18.822222
+me,dolovi kovacki,Dolovi Kovacki,00,,42.588333,19.165833
+me,dolovsko korito,Dolovsko Korito,00,,42.583333,18.875
+me,Ðonca,Ðonca,00,,42.697222,19.8
+me,dondici,Dondici,00,,43.178056,18.907778
+me,donja bijela,Donja Bijela,00,,42.914167,19.129167
+me,donja brezna,Donja Brezna,00,,42.995556,18.904722
+me,donja brezojevica,Donja Brezojevica,00,,42.625556,19.926667
+me,donja brezovica,Donja Brezovica,00,,42.625556,19.926667
+me,donja briska,Donja Briska,00,,42.118889,19.228889
+me,donja brova,Donja Brova,00,,42.373889,19.042222
+me,donja brvenica,Donja Brvenica,00,,43.373611,19.228333
+me,donja bukovica,Donja Bukovica,00,,43.023056,19.1575
+me,donja crnca,Donja Crnca,00,,42.911944,20.323889
+me,donja cuka,Donja Cuka,00,,42.738333,19.720833
+me,donja dobrilovina,Donja Dobrilovina,00,,43.054444,19.383889
+me,donja dubova,Donja Dubova,00,,42.331667,19.02
+me,donja glizica,Donja Glizica,00,,42.561389,19.178056
+me,donja gorica,Donja Gorica,00,,42.430833,19.212778
+me,donja grabovica,Donja Grabovica,00,,43.016944,19.081111
+me,donja ibrija,Donja Ibrija,00,,42.7525,19.36
+me,donja josica,Donja Josica,00,,42.463611,18.671111
+me,donja klezna,Donja Klezna,00,,41.986667,19.278611
+me,donja korita,Donja Korita,00,,43.037222,19.979722
+me,donja kostanjica,Donja Kostanjica,00,,42.485833,18.6675
+me,donja kozica,Donja Kozica,00,,43.240278,19.509444
+me,donja kraj,Donja Kraj,00,,42.398889,18.924167
+me,donja krzanja,Donja Krzanja,00,,42.526111,19.439167
+me,donja lastva,Donja Lastva,00,,42.443056,18.688611
+me,donja ljesnica,Donja Ljesnica,00,,42.922778,19.906667
+me,donja ljuta,Donja Ljuta,00,,42.825278,19.353333
+me,donja lovnica,Donja Lovnica,00,,42.870556,20.138889
+me,donja markovina,Donja Markovina,00,,42.529722,19.01
+me,donja orija,Donja Orija,00,,43.372222,19.184167
+me,donja orlja,Donja Orlja,00,,43.372222,19.184167
+me,donja plavnica,Donja Plavnica,00,,42.272222,19.201389
+me,donja poda,Donja Poda,00,,42.0725,19.143611
+me,donja podi,Donja Podi,00,,42.0725,19.143611
+me,donja polja,Donja Polja,00,,42.976389,19.525556
+me,donja povija,Donja Povija,00,,42.683056,19.010278
+me,donja rakita,Donja Rakita,00,,42.979167,19.676667
+me,donja rijeka,Donja Rijeka,00,,42.925278,19.276111
+me,donja rudnica,Donja Rudnica,00,,43.379444,19.325278
+me,donja rzanica,Donja Rzanica,00,,42.809722,19.875833
+me,donja rzenica,Donja Rzenica,00,,42.809722,19.875833
+me,donja sela,Donja Sela,00,,42.310556,19.05
+me,donja seoca,Donja Seoca,00,,42.216944,19.145278
+me,donja slatina,Donja Slatina,00,,42.978611,19.164167
+me,donja sozina,Donja Sozina,00,,42.168056,19.071389
+me,donja spila,Donja Spila,00,,42.724167,18.630556
+me,donja stitarica,Donja Stitarica,00,,42.927778,19.5375
+me,donja tikova,Donja Tikova,00,,43.343889,19.233333
+me,donja tisa,Donja Tisa,00,,42.866667,18.886667
+me,donja trebesica,Donja Trebesica,00,,42.704444,19.466944
+me,donja trebjesica,Donja Trebjesica,00,,42.704444,19.466944
+me,donja trepca,Donja Trepca,00,,42.819167,18.779722
+me,donja vrbica,Donja Vrbica,00,,42.453056,19.334444
+me,donja zaljut,Donja Zaljut,00,,42.539167,18.783333
+me,donje bisevo,Donje Bisevo,00,,42.878333,20.228056
+me,donje briske,Donje Briske,00,,42.118889,19.228889
+me,donje carade,Donje Carade,00,,43.018333,18.669167
+me,donje crkvice,Donje Crkvice,00,,42.956667,18.541667
+me,donje crnce,Donje Crnce,00,,42.911944,20.323889
+me,donje dajbabe,Donje Dajbabe,00,,42.405556,19.228611
+me,donje dubocke,Donje Dubocke,00,,42.883889,18.644444
+me,donje gorice,Donje Gorice,00,,43.178333,19.551667
+me,donje grudice,Donje Grudice,00,,42.698333,19.843056
+me,donje jugovo,Donje Jugovo,00,,43.391111,19.3225
+me,donje korito,Donje Korito,00,,43.037222,19.979722
+me,donje krce,Donje Krce,00,,43.406667,19.245556
+me,donje krnjice,Donje Krnjice,00,,42.209722,19.1775
+me,donje kunovo,Donje Kunovo,00,,42.786389,19.018889
+me,donje ledenice,Donje Ledenice,00,,42.532778,18.709722
+me,donje lipovo,Donje Lipovo,00,,42.863889,19.441944
+me,donje momce,Donje Momce,00,,42.531111,19.403333
+me,donje morakovo,Donje Morakovo,00,,42.717222,19.156667
+me,donje mrke,Donje Mrke,00,,42.5125,19.335556
+me,donje polje,Donje Polje,00,,42.381667,18.928889
+me,donje selo,Donje Selo,00,,42.206667,19.044722
+me,donje srijede,Donje Srijede,00,,42.890833,18.816667
+me,donje stolivo,Donje Stolivo,00,,42.469722,18.711111
+me,donje stravce,Donje Stravce,00,,42.580833,19.465
+me,donje stupine,Donje Stupine,00,,43.401389,19.302222
+me,donje sume,Donje Sume,00,,42.490278,19.232778
+me,donje velje duboko,Donje Velje Duboko,00,,42.780278,19.277222
+me,donje zagrade,Donje Zagrade,00,,43.342778,18.856111
+me,donje zaostro,Donje Zaostro,00,,42.885833,19.855278
+me,donji besnik,Donji Besnik,00,,42.881389,20.264722
+me,donji bogdasici,Donji Bogdasici,00,,42.425278,18.734722
+me,donji brceli,Donji Brceli,00,,42.248056,19.010556
+me,donji brocanac,Donji Brocanac,00,,42.757778,18.555833
+me,donji bukeis,Donji Bukeis,00,,42.8025,20.171667
+me,donji bukelj,Donji Bukelj,00,,42.8025,20.171667
+me,donji crnci,Donji Crnci,00,,42.532778,19.211944
+me,donji curilac,Donji Curilac,00,,42.526111,19.121111
+me,donji curovici,Donji Curovici,00,,42.084167,19.313056
+me,donji dubac,Donji Dubac,00,,43.467222,19.098333
+me,donji durickovici,Donji Durickovici,00,,42.514167,19.055278
+me,donji frutak,Donji Frutak,00,,42.581111,19.063611
+me,donji gacevici,Donji Gacevici,00,,42.449444,18.783333
+me,donji godijelji,Donji Godijelji,00,,42.992778,19.082222
+me,donji gradac,Donji Gradac,00,,43.394167,19.152778
+me,donji izvor,Donji Izvor,00,,42.610833,18.765833
+me,donji kokoti,Donji Kokoti,00,,42.401111,19.197222
+me,donji kos,Donji Kos,00,,42.727778,19.463333
+me,donji kosic,Donji Kosic,00,,42.020278,19.273333
+me,donji kosici,Donji Kosici,00,,42.020278,19.273333
+me,donji kraj,Donji Kraj,00,,42.205278,19.086389
+me,donji lepenac,Donji Lepenac,00,,42.994167,19.600278
+me,donji luzac,Donji Luzac,00,,42.838889,19.855
+me,donji markovici,Donji Markovici,00,,42.507222,19.259722
+me,donji martinici,Donji Martinici,00,,42.538611,19.178056
+me,donji medun,Donji Medun,00,,42.465,19.350556
+me,donji miles,Donji Miles,00,,42.389167,19.3275
+me,donji morinj,Donji Morinj,00,,42.489444,18.647222
+me,donji murici,Donji Murici,00,,42.158889,19.213333
+me,donji orahovac,Donji Orahovac,00,,42.490556,18.757778
+me,donji orasi,Donji Orasi,00,,42.452778,19.031667
+me,donji pipac,Donji Pipac,00,,42.363611,19.108056
+me,donji planik,Donji Planik,00,,42.754167,18.5125
+me,donji pobori,Donji Pobori,00,,42.326389,18.829167
+me,donji rastis,Donji Rastis,00,,42.029722,19.345
+me,donji ravni,Donji Ravni,00,,42.768611,19.444722
+me,donji rogami,Donji Rogami,00,,42.471944,19.271667
+me,donji rsojevici,Donji Rsojevici,00,,42.6,19.095278
+me,donji sestani,Donji Sestani,00,,42.184722,19.173333
+me,donji stoj,Donji Stoj,00,,41.910278,19.274722
+me,donji stoli,Donji Stoli,00,,42.469722,18.711111
+me,donji stoliv,Donji Stoliv,00,,42.469722,18.711111
+me,donji susanj,Donji Susanj,00,,42.118611,19.091944
+me,donji timar,Donji Timar,00,,42.978333,19.191111
+me,donji ulici,Donji Ulici,00,,42.379167,18.988889
+me,donji unac,Donji Unac,00,,43.190556,18.866944
+me,donji velji mikulici,Donji Velji Mikulici,00,,42.080278,19.1875
+me,donji vukovci,Donji Vukovci,00,,42.326944,19.196111
+me,donji vukovici,Donji Vukovici,00,,42.326944,19.196111
+me,donji zagradac,Donji Zagradac,00,,42.759167,19.386667
+me,do pjesivacki,Do Pjesivacki,00,,42.591667,19.024167
+me,dorojevica vatan,Dorojevica Vatan,00,,42.936111,18.729444
+me,dosude,Dosude,00,,42.575833,19.841944
+me,dovista,Dovista,00,,43.385556,19.195556
+me,dovolja,Dovolja,00,,43.122222,19.344444
+me,drac,Drac,00,,42.435833,19.266389
+me,dracevica,Dracevica,00,,42.185556,19.190278
+me,dracevico,Dracevico,00,,42.185556,19.190278
+me,dracinovac,Dracinovac,00,,42.898889,20.345278
+me,dragalj,Dragalj,00,,42.605278,18.676111
+me,dragaljevina,Dragaljevina,00,,42.558889,19.257222
+me,dragaljevo,Dragaljevo,00,,43.041944,18.949167
+me,dragalji,Dragalji,00,,42.605278,18.676111
+me,dragasi,Dragasi,00,,43.266389,19.253889
+me,dragija,Dragija,00,,42.555556,19.820278
+me,draginja,Draginja,00,,42.014167,19.346944
+me,draginje,Draginje,00,,42.014167,19.346944
+me,dragojlovic,Dragojlovic,00,,42.509167,18.629167
+me,dragojlovici,Dragojlovici,00,,42.509167,18.629167
+me,dragomanovici,Dragomanovici,00,,42.491111,18.6175
+me,dragomi do,Dragomi Do,00,,42.482222,18.828889
+me,dragosava,Dragosava,00,,42.893333,19.894444
+me,dragosev do,Dragosev Do,00,,42.603889,18.709722
+me,dragosevo selo,Dragosevo Selo,00,,42.540833,18.651111
+me,dragoslava,Dragoslava,00,,42.893333,19.894444
+me,dragova luka,Dragova Luka,00,,42.789722,18.961667
+me,dragovica polje,Dragovica Polje,00,,42.861667,19.32
+me,dragovici,Dragovici,00,,42.093611,19.266111
+me,dragovo korito,Dragovo Korito,00,,42.957222,18.5825
+me,dragovoljici,Dragovoljici,00,,42.781667,19.0525
+me,dragutinovici,Dragutinovici,00,,43.013333,20.0025
+me,drakovici,Drakovici,00,,42.645,19.031944
+me,drakulovici,Drakulovici,00,,42.365833,18.730278
+me,drasin do,Drasin Do,00,,42.553056,18.841944
+me,draskovina,Draskovina,00,,43.166944,19.627778
+me,drazevina,Drazevina,00,,42.431111,19.135
+me,drazevine,Drazevine,00,,43.085833,19.808889
+me,drazin vrt,Drazin Vrt,00,,42.484444,18.730556
+me,dregaljevina,Dregaljevina,00,,42.558889,19.257222
+me,drenovac,Drenovac,00,,42.527222,18.471111
+me,drenovci,Drenovci,00,,42.933333,18.500833
+me,drenov do,Drenov Do,00,,42.297778,18.949444
+me,drenovica,Drenovica,00,,42.552778,19.126111
+me,drenovistica,Drenovistica,00,,42.652778,18.991389
+me,drenovstica,Drenovstica,00,,42.652778,18.991389
+me,dresaj,Dresaj,00,,42.32,19.336111
+me,drijenak,Drijenak,00,,42.838889,19.5075
+me,drijenci,Drijenci,00,,42.570833,18.802778
+me,drijen,Drijen,00,,42.718333,19.403889
+me,drndari,Drndari,00,,43.072778,19.656944
+me,drndovina,Drndovina,00,,43.351667,19.255
+me,drobnici,Drobnici,00,,42.230833,18.910833
+me,dromira,Dromira,00,,42.600556,19.376944
+me,droskoricki dolovi,Droskoricki Dolovi,00,,42.652222,18.718889
+me,drpa,Drpa,00,,42.825278,19.557222
+me,drpe,Drpe,00,,42.793333,18.553611
+me,drpe mandica,Drpe Mandica,00,,42.431667,19.264722
+me,drum,Drum,00,,42.428333,19.024444
+me,drume,Drume,00,,42.328889,19.376389
+me,drusici,Drusici,00,,42.356389,19.091667
+me,dubac,Dubac,00,,43.467222,19.098333
+me,duba,Duba,00,,43.023056,18.904167
+me,dubaje,Dubaje,00,,42.597778,19.473889
+me,dub,Dub,00,,42.386667,18.764722
+me,dubline,Dubline,00,,43.434444,19.168611
+me,dublje,Dublje,00,,43.231944,19.393611
+me,dubljevici,Dubljevici,00,,43.085,18.890278
+me,dubocak [historical],Dubocak [historical],00,,42.6,20.033333
+me,dubocica,Dubocica,00,,42.606944,19.380278
+me,dubocke,Dubocke,00,,42.895556,18.674444
+me,duboja,Duboja,00,,42.597778,19.473889
+me,duboka dolina,Duboka Dolina,00,,43.421944,19.213889
+me,duboki do,Duboki Do,00,,42.595833,18.825833
+me,dubovik,Dubovik,00,,42.411389,18.884722
+me,dubovo,Dubovo,00,,42.329722,19.014722
+me,dubrava,Dubrava,00,,42.339444,19.264722
+me,dubravcevina,Dubravcevina,00,,42.400556,18.695278
+me,dubrave,Dubrave,00,,42.558333,19.056389
+me,dubravica,Dubravica,00,,42.454444,18.65
+me,dubravice,Dubravice,00,,42.534722,19.314444
+me,dubrovca do,Dubrovca Do,00,,42.778333,18.661111
+me,dubrovsko,Dubrovsko,00,,43.009167,18.983333
+me,ducice,Ducice,00,,42.715278,19.123333
+me,ducici,Ducici,00,,42.478056,19.388889
+me,dudevina,Dudevina,00,,42.764444,19.401667
+me,duga,Duga,00,,42.545556,19.340556
+me,duga njiva,Duga Njiva,00,,43.034167,19.647778
+me,duge njive,Duge Njive,00,,43.034167,19.647778
+me,dugi do,Dugi Do,00,,42.436944,18.835
+me,dugi laz,Dugi Laz,00,,42.593889,19.116667
+me,dugna,Dugna,00,,42.961111,18.541944
+me,dujeva,Dujeva,00,,42.335278,19.066111
+me,dujevo,Dujevo,00,,42.335278,19.066111
+me,dujici,Dujici,00,,43.211667,19.474444
+me,dujovici,Dujovici,00,,43.356667,19.161111
+me,dukat,Dukat,00,,42.7925,18.669722
+me,dulanovina,Dulanovina,00,,43.35,19.431667
+me,dulcigno,Dulcigno,00,,41.928333,19.206389
+me,duletici,Duletici,00,,42.314167,18.839444
+me,dulice,Dulice,00,,42.683333,19.8
+me,dulici,Dulici,00,,42.683333,19.8
+me,Ðuli,Ðuli,00,,43.501667,19.100278
+me,dulipolje,Dulipolje,00,,42.696389,19.750556
+me,Ðulov do,Ðulov Do,00,,42.692222,18.694444
+me,dulovine,Dulovine,00,,42.815833,19.525
+me,dumacine,Dumacine,00,,42.718056,19.3575
+me,dupilo,Dupilo,00,,42.259444,19.041667
+me,dupljaci,Dupljaci,00,,43.040556,19.9825
+me,duranovici,Duranovici,00,,42.357222,18.769722
+me,durasevici,Durasevici,00,,42.394722,18.688333
+me,duraskovici,Duraskovici,00,,42.352222,18.977222
+me,duratovici,Duratovici,00,,43.336667,19.375
+me,Ðuravci,Ðuravci,00,,42.174722,19.191111
+me,durcici,Durcici,00,,42.598889,19.002778
+me,durdev do,Durdev Do,00,,42.766111,18.679722
+me,durdevica tara,Durdevica Tara,00,,43.158611,19.296667
+me,durdevice,Durdevice,00,,43.431389,19.205
+me,durici,Durici,00,,42.471111,18.670833
+me,duricin do,Duricin Do,00,,43.043056,19.1225
+me,duricka reka,Duricka Reka,00,,42.575833,19.933333
+me,duricka rijeka,Duricka Rijeka,00,,42.575833,19.933333
+me,durickovici,Durickovici,00,,42.514167,19.055278
+me,Ðurino brdo,Ðurino Brdo,00,,43.124444,19.556944
+me,Ðurke,Ðurke,00,,41.935833,19.339444
+me,durkovici,Durkovici,00,,42.506944,19.293056
+me,Ðurmani,Ðurmani,00,,42.166667,19.024444
+me,durovici,Durovici,00,,42.199722,18.978056
+me,durukaca,Durukaca,00,,43.083611,19.365278
+me,dusici,Dusici,00,,42.345833,19.3075
+me,duske,Duske,00,,42.008611,19.1925
+me,duskici,Duskici,00,,42.008611,19.1925
+me,dusko,Dusko,00,,42.628333,19.443333
+me,duzice,Duzice,00,,43.529167,19.023889
+me,duzi,Duzi,00,,42.976944,19.025
+me,dvorista,Dvorista,00,,43.454167,19.178333
+me,dzaferov do,Dzaferov Do,00,,43.347778,18.861389
+me,dzafica brdo,Dzafica Brdo,00,,43.043889,19.755556
+me,dzogulja,Dzogulja,00,,42.585556,19.158611
+me,dzudzevici,Dzudzevici,00,,42.875278,20.307222
+me,dzukelska jama,Dzukelska Jama,00,,43.0625,19.470278
+me,dzuveri,Dzuveri,00,,43.241389,19.115
+me,elezov do,Elezov Do,00,,42.690278,18.665
+me,elici,Elici,00,,42.782222,18.630833
+me,eraci,Eraci,00,,42.402778,18.596944
+me,erakovici,Erakovici,00,,42.434722,18.83
+me,ercegnovi,Ercegnovi,00,,42.453056,18.5375
+me,erovici,Erovici,00,,43.013056,19.964167
+me,farmaci,Farmaci,00,,42.414167,19.191944
+me,fazlovici,Fazlovici,00,,43.165278,19.685278
+me,femica krs,Femica Krs,00,,42.974167,19.790278
+me,feratovo polje,Feratovo Polje,00,,42.938611,19.567222
+me,fijernje,Fijernje,00,,42.213889,19.026111
+me,firista,Firista,00,,42.676389,19.920833
+me,franciskovici,Franciskovici,00,,42.408056,18.654722
+me,fraskanjel,Fraskanjel,00,,41.967222,19.383611
+me,frutak,Frutak,00,,42.581111,19.063611
+me,fundina,Fundina,00,,42.441667,19.366667
+me,fusa e nenes,Fusa e Nenes,00,,42.438333,19.331944
+me,fustici,Fustici,00,,43.037778,19.565833
+me,gacevica dolina,Gacevica Dolina,00,,43.278333,19.434444
+me,gacevici,Gacevici,00,,42.443611,18.788889
+me,gadi,Gadi,00,,42.286667,19.023889
+me,gagosi,Gagosi,00,,42.327778,19.063333
+me,gajevi,Gajevi,00,,43.381667,19.237222
+me,gaj,Gaj,00,,43.488333,19.108056
+me,gajine,Gajine,00,,43.395,19.281389
+me,gajne,Gajne,00,,43.395,19.281389
+me,galica,Galica,00,,42.901389,20.029722
+me,gardasevici,Gardasevici,00,,42.679444,18.849722
+me,gardovici,Gardovici,00,,43.3875,19.193056
+me,garevac,Garevac,00,,42.921667,18.572222
+me,gerani,Gerani,00,,42.532778,19.827778
+me,geusi,Geusi,00,,43.502778,18.924167
+me,gigcvici,Gigcvici,00,,42.299167,18.850278
+me,gigovici,Gigovici,00,,41.980278,19.266389
+me,gilinoge,Gilinoge,00,,42.978333,19.641389
+me,gjenovic,Gjenovic,00,,42.436944,18.602222
+me,gjurasevic,Gjurasevic,00,,42.394722,18.688333
+me,glavaca,Glavaca,00,,42.883333,19.775833
+me,glavac,Glavac,00,,42.883333,19.775833
+me,glavaci,Glavaci,00,,42.883333,19.775833
+me,glavaticici,Glavaticici,00,,42.329444,18.736944
+me,glavatici,Glavatici,00,,42.331389,18.733889
+me,glavati,Glavati,00,,42.3075,18.775556
+me,glavatske kucice,Glavatske Kucice,00,,42.313333,18.786389
+me,glava zete,Glava Zete,00,,42.665,18.998889
+me,glavica,Glavica,00,,42.552778,19.095278
+me,glibaci,Glibaci,00,,43.220278,19.2375
+me,glibavac,Glibavac,00,,42.803056,18.948889
+me,gligorov do,Gligorov Do,00,,42.783056,18.718333
+me,gligorski dolovi,Gligorski Dolovi,00,,42.763056,19.611667
+me,glisin do,Glisin Do,00,,43.076944,19.155556
+me,glisnica,Glisnica,00,,43.406389,19.208056
+me,glisovici,Glisovici,00,,43.196944,18.912778
+me,glizica,Glizica,00,,42.561111,19.179167
+me,glogovik,Glogovik,00,,42.461944,18.598056
+me,gluhi do,Gluhi Do,00,,42.2,19.047778
+me,gluscevina,Gluscevina,00,,42.781111,18.556389
+me,glusje selo,Glusje Selo,00,,42.741944,19.058333
+me,gluvcev do,Gluvcev Do,00,,42.572778,19.384167
+me,gnevi do,Gnevi Do,00,,42.413889,18.923611
+me,gnjijevi do,Gnjijevi Do,00,,42.413889,18.923611
+me,gnjilavi do,Gnjilavi Do,00,,42.92,18.591667
+me,gnjili potok,Gnjili Potok,00,,42.745278,19.717778
+me,gobovici,Gobovici,00,,42.369722,18.724167
+me,goden,Goden,00,,42.495,18.903889
+me,godijelja,Godijelja,00,,42.996111,19.085278
+me,godijelji,Godijelji,00,,42.996111,19.085278
+me,godijevo,Godijevo,00,,43,19.895
+me,godinje,Godinje,00,,42.221389,19.110556
+me,godocelje,Godocelje,00,,42.915833,19.943056
+me,godusa,Godusa,00,,42.966944,19.939722
+me,gogici,Gogici,00,,43.381667,19.311389
+me,gogosi,Gogosi,00,,42.327778,19.063333
+me,gojakovici,Gojakovici,00,,42.993611,19.481944
+me,gojevici,Gojevici,00,,42.935833,19.862778
+me,gojkovic,Gojkovic,00,,42.507222,18.496389
+me,gojkovici,Gojkovici,00,,42.507222,18.496389
+me,gola strana,Gola Strana,00,,42.515833,19.239167
+me,golemadi,Golemadi,00,,42.386944,19.148889
+me,golijski stozi,Golijski Stozi,00,,42.966389,18.7725
+me,goljemadi,Goljemadi,00,,42.386944,19.148889
+me,golocevci,Golocevci,00,,43.341667,19.301667
+me,golubinja,Golubinja,00,,43.359167,19.386944
+me,golubinjak,Golubinjak,00,,43.069722,19.5
+me,golubinje,Golubinje,00,,42.732222,18.767778
+me,golubni do,Golubni Do,00,,42.966389,18.687778
+me,golubovci,Golubovci,00,,42.335,19.231111
+me,golubovici,Golubovici,00,,42.189167,18.987778
+me,goluzba,Goluzba,00,,42.42,19.206111
+me,gomila,Gomila,00,,42.293333,18.795556
+me,gomile,Gomile,00,,42.427778,19.036944
+me,gomilice,Gomilice,00,,42.476389,18.821111
+me,goransko,Goransko,00,,43.119444,18.830278
+me,gorazde,Gorazde,00,,42.884167,19.916389
+me,gorica,Gorica,00,,42.293333,18.795556
+me,goricani,Goricani,00,,42.332222,19.211944
+me,gorice,Gorice,00,,43.195833,19.531667
+me,gorin do,Gorin Do,00,,42.501667,18.795556
+me,gornic,Gornic,00,,42.383889,18.889167
+me,gornja bijela,Gornja Bijela,00,,42.902222,19.155
+me,gornja brevenica,Gornja Brevenica,00,,43.378611,19.235278
+me,gornja brezna,Gornja Brezna,00,,42.985556,18.965556
+me,gornja briska,Gornja Briska,00,,42.115,19.219444
+me,gornja brova,Gornja Brova,00,,42.376389,19.028889
+me,gornja brvenica,Gornja Brvenica,00,,43.378611,19.235278
+me,gornja bukovica,Gornja Bukovica,00,,43.036667,19.137778
+me,gornja crnca,Gornja Crnca,00,,42.917222,20.306111
+me,gornja cuka,Gornja Cuka,00,,42.733333,19.708611
+me,gornja dobrilovina,Gornja Dobrilovina,00,,43.021944,19.400833
+me,gornja drazevina,Gornja Drazevina,00,,42.431111,19.135
+me,gornja dubova,Gornja Dubova,00,,42.329722,19.014722
+me,gornja glizica,Gornja Glizica,00,,42.563889,19.180278
+me,gornja gorica,Gornja Gorica,00,,42.438611,19.215833
+me,gornja grabovica,Gornja Grabovica,00,,43.027778,19.086111
+me,gornja ibrija,Gornja Ibrija,00,,42.760556,19.355278
+me,gornja josica,Gornja Josica,00,,42.465833,18.663333
+me,gornja klezna,Gornja Klezna,00,,41.998333,19.261944
+me,gornja korita,Gornja Korita,00,,43.0075,19.966111
+me,gornja kostanjica,Gornja Kostanjica,00,,42.483056,18.663889
+me,gornja krzanja,Gornja Krzanja,00,,42.538611,19.438889
+me,gornja lastva,Gornja Lastva,00,,42.453889,18.7075
+me,gornja ljesnica,Gornja Ljesnica,00,,42.917222,19.917222
+me,gornja ljuta,Gornja Ljuta,00,,42.810556,19.355556
+me,gornja lomnica,Gornja Lomnica,00,,42.894444,20.115278
+me,gornja lovnica,Gornja Lovnica,00,,42.894444,20.115278
+me,gornja mala,Gornja Mala,00,,42.786667,19.931944
+me,gornja markovina,Gornja Markovina,00,,42.543889,19.008611
+me,gornja orlja,Gornja Orlja,00,,43.385833,19.195556
+me,gornja plavnica,Gornja Plavnica,00,,42.284722,19.208611
+me,gornja poda,Gornja Poda,00,,42.070833,19.155
+me,gornja podi,Gornja Podi,00,,42.070833,19.155
+me,gornja polja,Gornja Polja,00,,42.962778,19.551111
+me,gornja povija,Gornja Povija,00,,42.683056,19.010278
+me,gornja rakita,Gornja Rakita,00,,42.969444,19.663056
+me,gornja rijeka,Gornja Rijeka,00,,42.920833,19.283056
+me,gornja rovca,Gornja Rovca,00,,42.699722,19.338889
+me,gornja rudnica,Gornja Rudnica,00,,43.390556,19.369444
+me,gornja rzanica,Gornja Rzanica,00,,42.664722,19.920556
+me,gornja rzenica,Gornja Rzenica,00,,42.664722,19.920556
+me,gornja sela,Gornja Sela,00,,42.699167,19.416944
+me,gornja seoca,Gornja Seoca,00,,42.213889,19.132778
+me,gornja slatina,Gornja Slatina,00,,42.975,19.166667
+me,gornja spila,Gornja Spila,00,,42.718611,18.658611
+me,gornja stitarica,Gornja Stitarica,00,,42.917222,19.506944
+me,gornja tikova,Gornja Tikova,00,,43.356389,19.228889
+me,gornja tisa,Gornja Tisa,00,,42.859722,18.882778
+me,gornja trebjesica,Gornja Trebjesica,00,,42.690278,19.475278
+me,gornja trepca,Gornja Trepca,00,,42.8275,18.764167
+me,gornja vrbica,Gornja Vrbica,00,,42.459444,19.349444
+me,gornja zaljut,Gornja Zaljut,00,,42.568056,18.775833
+me,gornje brestice,Gornje Brestice,00,,42.701111,18.803889
+me,gornje briske,Gornje Briske,00,,42.115,19.219444
+me,gornje carade,Gornje Carade,00,,43.005556,18.685278
+me,gornje crkvice,Gornje Crkvice,00,,43,18.534722
+me,gornje crnce,Gornje Crnce,00,,42.917222,20.306111
+me,gornje dajbabe,Gornje Dajbabe,00,,42.413333,19.225278
+me,gornje dubocke,Gornje Dubocke,00,,42.924722,18.653333
+me,gornje gorice,Gornje Gorice,00,,43.195833,19.545833
+me,gornje grudice,Gornje Grudice,00,,42.698611,19.853889
+me,gornje korito,Gornje Korito,00,,43.0075,19.966111
+me,gornje krce,Gornje Krce,00,,43.406667,19.245556
+me,gornje krnjice,Gornje Krnjice,00,,42.213333,19.168333
+me,gornje krusevo,Gornje Krusevo,00,,43.319167,18.854167
+me,gornje kunovo,Gornje Kunovo,00,,42.7875,19.0375
+me,gornje ledenice,Gornje Ledenice,00,,42.543889,18.704167
+me,gornje lipovo,Gornje Lipovo,00,,42.879444,19.4075
+me,gornje momce,Gornje Momce,00,,42.541111,19.415833
+me,gornje morakovo,Gornje Morakovo,00,,42.703611,19.188056
+me,gornje mrcevo,Gornje Mrcevo,00,,43.420556,19.123889
+me,gornje mrke,Gornje Mrke,00,,42.519444,19.323056
+me,gornje polje,Gornje Polje,00,,42.656944,18.637222
+me,gornje selo,Gornje Selo,00,,42.134444,19.147222
+me,gornje srijede,Gornje Srijede,00,,42.9125,18.78
+me,gornje stolivo,Gornje Stolivo,00,,42.466389,18.715278
+me,gornje stravce,Gornje Stravce,00,,42.563889,19.464167
+me,gornje stupine,Gornje Stupine,00,,43.398889,19.307222
+me,gornje velje duboko,Gornje Velje Duboko,00,,42.782222,19.257778
+me,gornje vodice,Gornje Vodice,00,,42.707778,19.4475
+me,gornje zagrade,Gornje Zagrade,00,,43.338611,18.859167
+me,gornje zaostro,Gornje Zaostro,00,,42.894444,19.836944
+me,gornji besnik,Gornji Besnik,00,,42.871111,20.258889
+me,gornji bogdasici,Gornji Bogdasici,00,,42.440556,18.731944
+me,gornji brceli,Gornji Brceli,00,,42.241667,19.011667
+me,gornji brocanac,Gornji Brocanac,00,,42.771389,18.581389
+me,gornji bukelj,Gornji Bukelj,00,,42.788333,20.169722
+me,gornji ceklin,Gornji Ceklin,00,,42.357778,18.980833
+me,gornji crnci,Gornji Crnci,00,,42.531111,19.235278
+me,gornji curilac,Gornji Curilac,00,,42.543056,19.1175
+me,gornji curovici,Gornji Curovici,00,,42.070833,19.314722
+me,gornji do,Gornji Do,00,,42.734722,18.623611
+me,gornji dubac,Gornji Dubac,00,,43.478333,19.113889
+me,gornji durickovici,Gornji Durickovici,00,,42.521944,19.050278
+me,gornji frutak,Gornji Frutak,00,,42.589167,19.050833
+me,gornji godijelji,Gornji Godijelji,00,,42.996111,19.085278
+me,gornji gradac,Gornji Gradac,00,,43.386667,19.162778
+me,gornji izvor,Gornji Izvor,00,,42.605278,18.7775
+me,gornji kazanci,Gornji Kazanci,00,,43.066389,18.67
+me,gornji klenza,Gornji Klenza,00,,41.998333,19.261944
+me,gornji kokoti,Gornji Kokoti,00,,42.398056,19.175556
+me,gornji kos,Gornji Kos,00,,42.715833,19.468333
+me,gornji kosic,Gornji Kosic,00,,42.035278,19.271111
+me,gornji kosici,Gornji Kosici,00,,42.035278,19.271111
+me,gornji kraj,Gornji Kraj,00,,42.355556,18.976111
+me,gornji lepenac,Gornji Lepenac,00,,42.992222,19.570556
+me,gornji luzac,Gornji Luzac,00,,42.829722,19.843611
+me,gornji markovici,Gornji Markovici,00,,42.519167,19.265278
+me,gornji martinici,Gornji Martinici,00,,42.554167,19.191944
+me,gornji medun,Gornji Medun,00,,42.473611,19.368611
+me,gornji mestrevac,Gornji Mestrevac,00,,43.286944,19.036667
+me,gornji morinj,Gornji Morinj,00,,42.487778,18.615
+me,gornji murici,Gornji Murici,00,,42.150278,19.200556
+me,gornji orahovac,Gornji Orahovac,00,,42.492778,18.76
+me,gornji pipac,Gornji Pipac,00,,42.368333,19.107222
+me,gornji planik,Gornji Planik,00,,42.758889,18.502222
+me,gornji pobori,Gornji Pobori,00,,42.326389,18.829167
+me,gornji rastis,Gornji Rastis,00,,42.038333,19.332778
+me,gornji ravni,Gornji Ravni,00,,42.775278,19.44
+me,gornji rogami,Gornji Rogami,00,,42.486944,19.288611
+me,gornji rsojevic,Gornji Rsojevic,00,,42.611944,19.103611
+me,gornji rsojevici,Gornji Rsojevici,00,,42.611944,19.103611
+me,gornji sestani,Gornji Sestani,00,,42.162222,19.171667
+me,gornji stoj,Gornji Stoj,00,,41.888056,19.351389
+me,gornji stoli,Gornji Stoli,00,,42.466389,18.715278
+me,gornji stoliv,Gornji Stoliv,00,,42.466389,18.715278
+me,gornji susanj,Gornji Susanj,00,,42.124722,19.08
+me,gornji timar,Gornji Timar,00,,42.975833,19.203611
+me,gornji tupan,Gornji Tupan,00,,42.800278,18.605833
+me,gornji ulah,Gornji Ulah,00,,43.056389,19.816111
+me,gornji ulici,Gornji Ulici,00,,42.382778,18.9975
+me,gornji unac,Gornji Unac,00,,43.183333,18.8975
+me,gornji velji mikulici,Gornji Velji Mikulici,00,,42.080278,19.1875
+me,gornji vukovci,Gornji Vukovci,00,,42.334444,19.2
+me,gornji zagradac,Gornji Zagradac,00,,42.754167,19.381111
+me,gorovici,Gorovici,00,,42.333333,18.793333
+me,gosic,Gosic,00,,42.398056,18.661389
+me,gosici,Gosici,00,,42.318611,19.261667
+me,goslic,Goslic,00,,42.961111,18.7075
+me,gostac,Gostac,00,,42.735556,18.796667
+me,gostilje brajovicko,Gostilje Brajovicko,00,,42.577778,19.2
+me,gostilje,Gostilje,00,,42.301944,19.239167
+me,gostilje martinicko,Gostilje Martinicko,00,,42.571667,19.213889
+me,gostilj,Gostilj,00,,42.301944,19.239167
+me,gostilovina,Gostilovina,00,,43.001111,19.463611
+me,gostojevici,Gostojevici,00,,42.685,18.972222
+me,gostovici,Gostovici,00,,42.298889,18.753333
+me,gotovusa,Gotovusa,00,,43.401111,19.290278
+me,govede brdo,Govede Brdo,00,,43.252778,19.456667
+me,grabe,Grabe,00,,42.446667,18.641944
+me,grab,Grab,00,,42.361111,19.058056
+me,grabova gomila,Grabova Gomila,00,,42.529722,18.939444
+me,grabov do,Grabov Do,00,,42.530278,18.670556
+me,grabovica,Grabovica,00,,42.215833,18.954167
+me,grabovi do,Grabovi Do,00,,42.448611,19.010556
+me,grabovnik,Grabovnik,00,,43.036667,19.772778
+me,gracanica,Gracanica,00,,42.693056,19.851389
+me,gradac,Gradac,00,,42.413333,19.092778
+me,gradacka poljana,Gradacka Poljana,00,,42.880278,19.085833
+me,gradani,Gradani,00,,42.274722,19.003611
+me,grad,Grad,00,,42.683333,19.365556
+me,gradina,Gradina,00,,42.526944,18.8375
+me,gradiosnica,Gradiosnica,00,,42.420833,18.727222
+me,grahovac,Grahovac,00,,42.687778,18.611389
+me,grahovo,Grahovo,00,,42.6525,18.671389
+me,grahovski dolovi,Grahovski Dolovi,00,,42.652222,18.718889
+me,grancarevo,Grancarevo,00,,43.098889,19.676944
+me,grandov do,Grandov Do,00,,42.593611,18.726389
+me,grandovina,Grandovina,00,,42.604444,18.690833
+me,granica,Granica,00,,42.424444,19.08
+me,granice,Granice,00,,42.829722,18.988611
+me,granovo,Granovo,00,,42.869444,20.176111
+me,graovista,Graovista,00,,43.441111,19.155833
+me,grbavci,Grbavci,00,,42.367222,19.188889
+me,grbe,Grbe,00,,42.5,19.195833
+me,grbi do,Grbi Do,00,,42.633611,19.479167
+me,grcka stanica,Grcka Stanica,00,,43.092222,19.155556
+me,grdoci,Grdoci,00,,42.085278,19.323889
+me,grdovici,Grdovici,00,,42.033056,19.186389
+me,grdovine,Grdovine,00,,42.727778,19.376667
+me,grebice,Grebice,00,,42.795,18.929722
+me,grebnica,Grebnica,00,,42.815,18.690556
+me,greca,Greca,00,,42.491944,19.356667
+me,grepca,Grepca,00,,42.759167,18.540556
+me,grevo,Grevo,00,,43.32,19.346389
+me,grizica,Grizica,00,,42.904722,20.160278
+me,grizice,Grizice,00,,42.904722,20.160278
+me,grkavac,Grkavac,00,,42.5475,18.7125
+me,grkovac,Grkovac,00,,42.5475,18.7125
+me,grlic,Grlic,00,,42.548056,19.112222
+me,grncar,Grncar,00,,42.576667,19.796944
+me,gropa e morisit,Gropa e Morisit,00,,42.431667,19.333611
+me,gropa,Gropa,00,,42.513056,19.098889
+me,gropa smailova,Gropa Smailova,00,,42.586667,19.902778
+me,gropa smajlova,Gropa Smajlova,00,,42.586667,19.902778
+me,grubani,Grubani,00,,42.387222,19.123611
+me,grubanova gora,Grubanova Gora,00,,43.132222,19.583333
+me,grubesice,Grubesice,00,,43.148333,19.654167
+me,grubesici,Grubesici,00,,43.148333,19.654167
+me,grubin do,Grubin Do,00,,42.551111,18.764444
+me,gruda,Gruda,00,,42.381944,18.922222
+me,grudevica,Grudevica,00,,42.985833,19.770556
+me,gubavac,Gubavac,00,,43.096667,19.781944
+me,gubce,Gubce,00,,43.105278,19.726111
+me,guberinici,Guberinici,00,,42.636667,19.485556
+me,gubovaca,Gubovaca,00,,43.096667,19.781944
+me,guci,Guci,00,,42.561944,19.833889
+me,gudure,Gudure,00,,43.129444,19.671389
+me,guke,Guke,00,,43.359722,19.339722
+me,gunjaja,Gunjaja,00,,42.746667,19.800833
+me,gunjaje,Gunjaje,00,,42.746667,19.800833
+me,gunjani,Gunjani,00,,42.693611,19.347222
+me,gunjicici,Gunjicici,00,,43.484722,19.033056
+me,guraza,Guraza,00,,42.161111,19.17
+me,gurec,Gurec,00,,42.386944,19.386111
+me,gurza,Gurza,00,,42.161111,19.17
+me,gusarevci,Gusarevci,00,,43.02,19.1425
+me,gusarica,Gusarica,00,,42.953611,18.5475
+me,gusici,Gusici,00,,42.62,19.411389
+me,gusinje,Gusinje,00,,42.561944,19.833889
+me,gusino brdo,Gusino Brdo,00,,43.144167,19.481111
+me,gusnice,Gusnice,00,,42.872778,20.093056
+me,guvna,Guvna,00,,42.754722,19.789722
+me,guvnista,Guvnista,00,,43.149444,19.750278
+me,guvniste,Guvniste,00,,43.149444,19.750278
+me,gvozdenice,Gvozdenice,00,,42.741111,18.976111
+me,gvozd,Gvozd,00,,42.859444,19.069167
+me,hadulica,Hadulica,00,,42.610833,19.191667
+me,hadzaj,Hadzaj,00,,42.397778,19.351667
+me,hadzovina,Hadzovina,00,,43.53,19.159444
+me,hajlovina,Hajlovina,00,,43.466667,18.973889
+me,hakanje,Hakanje,00,,42.571111,19.900833
+me,halilovic,Halilovic,00,,42.820833,20.152222
+me,han drndarski,Han Drndarski,00,,42.736111,19.657222
+me,han garancica,Han Garancica,00,,42.69,19.521389
+me,han garaucica,Han Garaucica,00,,42.69,19.521389
+me,han,Han,00,,42.361944,18.994444
+me,hasale,Hasale,00,,42.328611,19.359722
+me,hasanoj,Hasanoj,00,,42.328611,19.359722
+me,hazane,Hazane,00,,42.95,19.948056
+me,helmica,Helmica,00,,42.380833,19.421389
+me,herceg-novi,Herceg-Novi,00,,42.453056,18.5375
+me,hercegova strana,Hercegova Strana,00,,43.2025,18.919167
+me,hocevina,Hocevina,00,,43.318056,19.248056
+me,hodzici,Hodzici,00,,43.353056,19.202778
+me,honcice,Honcice,00,,42.877222,20.103889
+me,hondice,Hondice,00,,42.877222,20.103889
+me,honsice,Honsice,00,,42.877222,20.103889
+me,horolac,Horolac,00,,42.556389,19.989722
+me,hote-zabelj,Hote-Zabelj,00,,42.558611,19.962778
+me,hoti,Hoti,00,,42.558611,19.962778
+me,humkovina,Humkovina,00,,43.495278,19.069722
+me,hunjevina,Hunjevina,00,,43.109167,19.771389
+me,husejinovici,Husejinovici,00,,42.564722,19.970556
+me,husici,Husici,00,,42.1025,19.298889
+me,husovici,Husovici,00,,42.78,20.195833
+me,ibarac,Ibarac,00,,42.836111,20.161944
+me,ibricevina,Ibricevina,00,,42.441389,19.280278
+me,igalo,Igalo,00,,42.458889,18.512222
+me,ilijina glavica,Ilijina Glavica,00,,43.439167,19.2025
+me,inogor,Inogor,00,,42.410556,18.908056
+me,irino brdo,Irino Brdo,00,,43.323056,19.411667
+me,ispodbrda,Ispodbrda,00,,42.685278,18.95
+me,istace,Istace,00,,42.744444,19.363611
+me,iva,Iva,00,,43.3775,19.101944
+me,ivangrad,Ivangrad,00,,42.8425,19.873333
+me,ivanj-do,Ivanj-Do,00,,42.511944,18.774722
+me,ivanje,Ivanje,00,,42.818333,19.040278
+me,ivanova aluga,Ivanova Aluga,00,,42.595833,18.87
+me,ivanova korita,Ivanova Korita,00,,42.381389,18.834444
+me,ivanovici,Ivanovici,00,,42.293889,18.873889
+me,ivovici,Ivovici,00,,42.450278,18.623056
+me,izlasci,Izlasci,00,,42.816389,19.566944
+me,izvori,Izvori,00,,42.606389,18.770833
+me,jablanica,Jablanica,00,,42.893611,20.332778
+me,jablan,Jablan,00,,42.619444,19.447778
+me,jablanovici,Jablanovici,00,,43.101667,19.762222
+me,jablanovo,Jablanovo,00,,43.094722,19.8525
+me,jaboke,Jaboke,00,,42.506944,19.113333
+me,jabucna,Jabucna,00,,43.019167,19.674167
+me,jabucno,Jabucno,00,,43.019167,19.674167
+me,jabuka,Jabuka,00,,42.422778,18.915
+me,jabuke,Jabuke,00,,42.506944,19.113333
+me,jabukovac,Jabukovac,00,,42.615,18.728611
+me,jagnila,Jagnila,00,,43.174167,19.554167
+me,jagnjile,Jagnjile,00,,43.349167,19.396111
+me,jagnjilo,Jagnjilo,00,,42.594444,18.776389
+me,jagoce,Jagoce,00,,42.964444,19.888056
+me,jagodin do,Jagodin Do,00,,43.456667,19.150556
+me,jagodni do,Jagodni Do,00,,43.456667,19.150556
+me,jagodnji do,Jagodnji Do,00,,43.456667,19.150556
+me,jahovici,Jahovici,00,,43.45,19.059167
+me,jaicevici,Jaicevici,00,,42.426944,18.827222
+me,jakovac,Jakovac,00,,43.278333,19.042778
+me,jakovovici,Jakovovici,00,,43.015,19.523611
+me,jakupov grob,Jakupov Grob,00,,43.4275,19.198889
+me,jalovca do,Jalovca Do,00,,42.709722,18.690833
+me,jama cevska,Jama Cevska,00,,42.561389,18.920833
+me,jama vojvodina,Jama Vojvodina,00,,42.555,18.827778
+me,jancici,Jancici,00,,42.515556,18.634167
+me,janjiliste,Janjiliste,00,,42.96,18.595556
+me,jankova voda,Jankova Voda,00,,43.028056,19.813611
+me,jankovici,Jankovici,00,,42.054444,19.138056
+me,jankovo selo,Jankovo Selo,00,,42.586389,18.658056
+me,japan,Japan,00,,42.691389,19.711667
+me,jara,Jara,00,,42.608056,20
+me,jarciste,Jarciste,00,,42.893889,18.913889
+me,jariste,Jariste,00,,42.872222,19.928889
+me,jasena,Jasena,00,,43.354722,18.881389
+me,jasenica,Jasenica,00,,42.553611,19.938611
+me,jasen,Jasen,00,,42.197222,19.040278
+me,jasenovac,Jasenovac,00,,43.098056,19.365833
+me,jasenova,Jasenova,00,,42.765833,19.3775
+me,jasenova klada,Jasenova Klada,00,,42.743611,19.613333
+me,jasenov do,Jasenov Do,00,,42.653611,19.059167
+me,jasenovi do,Jasenovi Do,00,,42.516389,18.778333
+me,jasenovo,Jasenovo,00,,42.765833,19.3775
+me,jasenovo polje,Jasenovo Polje,00,,42.893056,18.966111
+me,jasici,Jasici,00,,43.013611,19.4
+me,jasika,Jasika,00,,42.505833,18.991111
+me,jasike,Jasike,00,,42.995833,18.519722
+me,jasikovac,Jasikovac,00,,42.557222,18.707778
+me,jasikovica,Jasikovica,00,,42.5125,18.790278
+me,jasikovi do,Jasikovi Do,00,,42.463333,19.015556
+me,jasovici,Jasovici,00,,42.7425,19.909167
+me,jastreb,Jastreb,00,,42.535278,19.135
+me,jastrin do,Jastrin Do,00,,42.554167,18.718889
+me,jaukovica omar,Jaukovica Omar,00,,43.068056,19.129444
+me,javljen,Javljen,00,,42.988056,18.732222
+me,javora,Javora,00,,42.673611,18.563889
+me,javorak,Javorak,00,,43.051111,19.148056
+me,javorje,Javorje,00,,43.108889,19.124722
+me,javorovaca,Javorovaca,00,,43.116944,19.285556
+me,javorova,Javorova,00,,42.930833,20.051944
+me,javorovo,Javorovo,00,,42.930833,20.051944
+me,jazbina,Jazbina,00,,43.419167,19.278611
+me,jazbine,Jazbine,00,,43.419167,19.278611
+me,jaz,Jaz,00,,42.281667,18.800278
+me,jecmista,Jecmista,00,,42.783333,19.058056
+me,jedini bor,Jedini Bor,00,,42.612778,18.775278
+me,jela,Jela,00,,42.835556,19.3525
+me,jelenak,Jelenak,00,,42.565833,19.151111
+me,jelenjak,Jelenjak,00,,42.735,19.638056
+me,jelica dolina,Jelica Dolina,00,,42.949722,19.224167
+me,jelica doline,Jelica Doline,00,,43.0975,19.575278
+me,jelici,Jelici,00,,42.782222,18.630833
+me,jelina gora,Jelina Gora,00,,43.051389,19.364444
+me,jelin dub,Jelin Dub,00,,42.528056,19.355556
+me,jelovac,Jelovac,00,,43.247222,19.504722
+me,jelovica,Jelovica,00,,42.8625,18.654444
+me,jelovi do,Jelovi Do,00,,42.559167,18.619444
+me,jelovi kraj,Jelovi Kraj,00,,43.130556,19.563056
+me,jelov kraj,Jelov Kraj,00,,43.130556,19.563056
+me,jelovo zdrijelo,Jelovo Zdrijelo,00,,42.925556,18.547222
+me,jelov panj,Jelov Panj,00,,43.276389,19.114167
+me,jerenici,Jerenici,00,,43.276944,18.906944
+me,jerinici,Jerinici,00,,43.276944,18.906944
+me,jestrin do,Jestrin Do,00,,42.554167,18.718889
+me,jezerca,Jezerca,00,,42.636944,18.783611
+me,jezer,Jezer,00,,42.4925,18.804167
+me,jezero,Jezero,00,,43.463056,19.195278
+me,jezevic,Jezevic,00,,42.503889,18.748333
+me,jodole,Jodole,00,,42.890556,19.921389
+me,johovac,Johovac,00,,43.134444,19.720278
+me,johovice,Johovice,00,,42.912778,19.956389
+me,josa,Josa,00,,42.987778,19.764722
+me,josanica,Josanica,00,,42.689167,19.7175
+me,josica,Josica,00,,42.465833,18.663333
+me,josice,Josice,00,,42.465833,18.663333
+me,josovici,Josovici,00,,43.383333,19.305
+me,jovanovici,Jovanovici,00,,42.603611,19.1175
+me,jovici,Jovici,00,,43.263333,19.161667
+me,jovicina voda,Jovicina Voda,00,,42.616389,18.645278
+me,jovov do,Jovov Do,00,,42.979444,18.590833
+me,jugovici,Jugovici,00,,42.720833,19.088889
+me,jugovine,Jugovine,00,,42.817778,19.816944
+me,jugovo,Jugovo,00,,43.403056,19.327222
+me,junca do,Junca Do,00,,43.148333,19.133611
+me,juncev do,Juncev Do,00,,43.148333,19.133611
+me,juncevici,Juncevici,00,,42.481111,18.569722
+me,kabala,Kabala,00,,42.424167,18.562778
+me,kacak,Kacak,00,,43.482222,19.150278
+me,kacanik,Kacanik,00,,42.561389,19.818056
+me,kacara,Kacara,00,,42.940833,20.186944
+me,kacari,Kacari,00,,42.940833,20.186944
+me,kacmor,Kacmor,00,,42.957778,19.830278
+me,kacunica,Kacunica,00,,42.532778,18.454444
+me,kacuni do,Kacuni Do,00,,42.619722,19.425278
+me,kadarusa,Kadarusa,00,,42.344167,18.944444
+me,kajabeg,Kajabeg,00,,43.125278,19.753333
+me,kajevici,Kajevici,00,,42.888333,20.308611
+me,kajos,Kajos,00,,42.412778,19.349722
+me,kakmuze,Kakmuze,00,,43.288611,19.227778
+me,kakmuzi,Kakmuzi,00,,43.288611,19.227778
+me,kalace,Kalace,00,,42.859444,20.093889
+me,kalac,Kalac,00,,42.6725,19.348611
+me,kalacka prodo,Kalacka Prodo,00,,42.621389,18.717222
+me,kalezici,Kalezici,00,,42.599167,19.109722
+me,kalica,Kalica,00,,42.890278,20.037222
+me,kaliman,Kaliman,00,,42.030556,19.246944
+me,kalipolje,Kalipolje,00,,43.216667,19.451111
+me,kaljici,Kaljici,00,,43.201667,19.4275
+me,kalluder,Kalludër,00,,42.783333,19.928611
+me,kaluderac,Kaluderac,00,,42.202222,18.963333
+me,kaluderov do,Kaluderov Do,00,,42.600833,19.24
+me,kaluderovici,Kaluderovici,00,,42.330556,18.797778
+me,kaluderovic,Kaluderovic,00,,42.330556,18.797778
+me,kaluderovina,Kaluderovina,00,,42.403889,18.675
+me,kaluderski katuni,Kaluderski Katuni,00,,42.995833,18.519722
+me,kaluderski lazi,Kaluderski Lazi,00,,42.78,20.195833
+me,kaluderski laz,Kaluderski Laz,00,,42.78,20.195833
+me,kaludjerac,Kaludjerac,00,,42.330556,18.797778
+me,kaludra,Kaludra,00,,42.783333,19.928611
+me,kalusici,Kalusici,00,,43.246667,19.086111
+me,kamenari,Kamenari,00,,42.466667,18.672778
+me,kamenarovici,Kamenarovici,00,,42.453889,18.765833
+me,kamenica,Kamenica,00,,42.453333,18.941111
+me,kameno,Kameno,00,,42.476944,18.528889
+me,kameno polje,Kameno Polje,00,,43.068889,19.525
+me,kamenovo,Kamenovo,00,,42.273611,18.889444
+me,kamensko,Kamensko,00,,42.785278,18.740278
+me,kami,Kami,00,,42.641667,19.465833
+me,kamine,Kamine,00,,42.989722,19.810833
+me,kamisevo,Kamisevo,00,,42.621111,18.752222
+me,kandija,Kandija,00,,43.107222,19.372778
+me,kanici,Kanici,00,,42.081111,19.311111
+me,kanje,Kanje,00,,43.139167,19.756944
+me,kanjosi,Kanjosi,00,,42.182222,18.987222
+me,kankusa,Kankusa,00,,42.969167,19.180833
+me,kapavica,Kapavica,00,,42.631111,18.789167
+me,kapavice,Kapavice,00,,42.879722,18.615833
+me,kape,Kape,00,,42.566667,18.499167
+me,kaplanovici,Kaplanovici,00,,42.006944,19.182778
+me,karacici,Karacici,00,,43.405,19.199167
+me,karacic,Karacic,00,,43.405,19.199167
+me,karadzin brijeg,Karadzin Brijeg,00,,42.675556,19.874444
+me,karanikici,Karanikici,00,,42.183889,19.179444
+me,karastani,Karastani,00,,42.001944,19.175556
+me,karastanovici,Karastanovici,00,,42.001944,19.175556
+me,karaula vaskovo,Karaula Vaskovo,00,,43.094167,19.401944
+me,karkovina,Karkovina,00,,42.525278,19.155833
+me,karnagica duga,Karnagica Duga,00,,42.844167,18.880833
+me,kartali,Kartali,00,,43.264444,19.446111
+me,karuci,Karuci,00,,42.186389,19.105278
+me,karuc,Karuc,00,,42.358333,19.106944
+me,kasevari,Kasevari,00,,42.991111,19.843333
+me,kasice,Kasice,00,,42.387222,19.030833
+me,kasljavci,Kasljavci,00,,42.705833,18.677778
+me,katavici,Katavici,00,,43.489444,18.940833
+me,katuni,Katuni,00,,43.061389,19.556389
+me,katunina,Katunina,00,,42.5,19.1225
+me,katunine,Katunine,00,,42.5,19.1225
+me,katuniste,Katuniste,00,,42.645833,18.832222
+me,katun,Katun,00,,42.216389,18.923333
+me,katun lindarski,Katun Lindarski,00,,43.275556,19.345
+me,katun potrk,Katun Potrk,00,,42.911111,19.345833
+me,katun rezevici,Katun Rezevici,00,,42.216389,18.923333
+me,kavac,Kavac,00,,42.412222,18.744722
+me,kave,Kave,00,,43.521389,19.0175
+me,keselj gradina,Keselj Gradina,00,,42.75,18.581944
+me,kicava,Kicava,00,,43.163333,19.6675
+me,kiceva,Kiceva,00,,43.163333,19.6675
+me,kikavice,Kikavice,00,,43.5,19.081944
+me,kilavice,Kilavice,00,,43.053889,19.782778
+me,kiprenik,Kiprenik,00,,43.058056,19.700278
+me,kisjelica,Kisjelica,00,,42.585556,19.3925
+me,kitine lazi,Kitine Lazi,00,,43.011111,19.809167
+me,klacina,Klacina,00,,43.076111,18.670278
+me,klacine,Klacine,00,,42.837778,19.544444
+me,klacnica,Klacnica,00,,43.333889,19.247222
+me,klade,Klade,00,,43.254722,19.486667
+me,klajevici,Klajevici,00,,42.501111,18.743333
+me,klakorina,Klakorina,00,,43.513889,19.038056
+me,klakorine,Klakorine,00,,43.513889,19.038056
+me,klanac,Klanac,00,,42.876667,20.140833
+me,klanica,Klanica,00,,42.517222,18.688889
+me,klanice,Klanice,00,,42.726111,19.489444
+me,klapuhe,Klapuhe,00,,43.478333,19.0825
+me,klapusi,Klapusi,00,,43.478333,19.0825
+me,kleke,Kleke,00,,43.242222,19.467222
+me,klenak,Klenak,00,,42.818333,18.561944
+me,klicevo,Klicevo,00,,42.750278,18.960278
+me,klikovace,Klikovace,00,,42.5,19.180278
+me,klinci,Klinci,00,,42.420556,18.566667
+me,klismerine,Klismerine,00,,43.424444,19.219167
+me,kljajevici,Kljajevici,00,,42.501111,18.743333
+me,kljakovica,Kljakovica,00,,42.799167,18.482778
+me,kljestina,Kljestina,00,,43.118611,19.516389
+me,kljestine,Kljestine,00,,43.118611,19.516389
+me,kljun,Kljun,00,,43.380278,19.080833
+me,klopet,Klopet,00,,43.226111,19.479167
+me,klopot,Klopot,00,,42.559444,19.378333
+me,knez do,Knez Do,00,,42.431111,18.798056
+me,knezevici,Knezevici,00,,42.335,18.811667
+me,knezevic,Knezevic,00,,42.335,18.811667
+me,knezlac,Knezlac,00,,42.541944,18.678056
+me,knezlaz,Knezlaz,00,,42.541944,18.678056
+me,knez polje,Knez Polje,00,,42.849722,19.006111
+me,knjez-do,Knjez-Do,00,,42.792778,18.493611
+me,kobiljaca,Kobiljaca,00,,43.141667,19.569722
+me,kobilji do,Kobilji Do,00,,42.634444,18.776389
+me,koca do,Koca Do,00,,43.196111,19.176111
+me,kocane,Kocane,00,,42.789722,18.911389
+me,koce,Koce,00,,42.460556,19.403611
+me,koci,Koci,00,,42.460556,19.403611
+me,kodrabudan,Kodrabudan,00,,42.321389,19.318611
+me,kodra dake,Kodra Dake,00,,41.920833,19.340833
+me,kodre,Kodre,00,,41.929722,19.238889
+me,kojevici,Kojevici,00,,43.358889,19.425
+me,kojovici,Kojovici,00,,43.381389,19.386389
+me,kokica strane,Kokica Strane,00,,42.789722,19.445556
+me,kokoravac,Kokoravac,00,,42.851389,19.365
+me,kokovina,Kokovina,00,,43.181111,19.596111
+me,kolac,Kolac,00,,42.181111,18.974167
+me,kolasinci,Kolasinci,00,,42.977778,19.966667
+me,kolasin,Kolasin,00,,42.824167,19.5225
+me,kolasinovici,Kolasinovici,00,,42.565278,19.17
+me,koleno,Koleno,00,,42.838611,20.104444
+me,kolenovice,Kolenovice,00,,42.555556,19.844167
+me,kolenovici,Kolenovici,00,,42.555556,19.844167
+me,kolevici,Kolevici,00,,42.635,19.480833
+me,kolibe,Kolibe,00,,43.399167,19.043056
+me,kolijevka,Kolijevka,00,,43.299722,19.1
+me,kolijevke,Kolijevke,00,,43.299722,19.1
+me,koljat,Koljat,00,,42.540278,19.143611
+me,koljeno,Koljeno,00,,42.838611,20.104444
+me,koljevka,Koljevka,00,,43.299722,19.1
+me,kolo,Kolo,00,,42.797222,19.0575
+me,kolomza,Kolomza,00,,41.935278,19.250833
+me,kolonija,Kolonija,00,,43.387778,19.065278
+me,kolonija sula,Kolonija Sula,00,,43.387778,19.065278
+me,kolonza,Kolonza,00,,41.935278,19.250833
+me,kolozun,Kolozun,00,,42.355278,18.8125
+me,kolumbara,Kolumbara,00,,42.746389,19.653889
+me,komacev laz,Komacev Laz,00,,42.4375,19.009722
+me,komadine,Komadine,00,,43.090556,19.869444
+me,komanica,Komanica,00,,43.324444,18.913333
+me,komansko brdo,Komansko Brdo,00,,42.426389,19.061389
+me,komaraca,Komaraca,00,,42.617222,19.965278
+me,komarice,Komarice,00,,43.27,19.446667
+me,komarino,Komarino,00,,42.288333,19.060833
+me,komarnica,Komarnica,00,,43.006389,19.059167
+me,komarno,Komarno,00,,42.288333,19.060833
+me,komarski kraj,Komarski Kraj,00,,43.108889,19.124722
+me,komina,Komina,00,,42.021944,19.160833
+me,komine,Komine,00,,43.336667,19.311111
+me,komini,Komini,00,,43.476944,19.031389
+me,koministe,Koministe,00,,42.765833,19.121111
+me,komosevina,Komosevina,00,,42.28,18.829167
+me,konatari,Konatari,00,,43.103333,19.775
+me,konate,Konate,00,,43.007222,19.329722
+me,konik,Konik,00,,42.436944,19.283333
+me,konisor,Konisor,00,,42.563333,18.799444
+me,konjevici,Konjevici,00,,42.492778,18.462778
+me,konjuhe,Konjuhe,00,,42.703333,19.735278
+me,konjuh,Konjuh,00,,42.703333,19.735278
+me,kopacine,Kopacine,00,,42.8825,18.649444
+me,kopiljaca [historical],Kopiljaca [historical],00,,42.563889,20.0025
+me,kopilje,Kopilje,00,,42.556667,19.253611
+me,kopilov do,Kopilov Do,00,,42.679167,18.678611
+me,kopito,Kopito,00,,42.426111,18.820556
+me,kopito petrovica,Kopito Petrovica,00,,42.544167,19.136667
+me,kopitov do,Kopitov Do,00,,42.607778,18.729722
+me,koprivice,Koprivice,00,,42.908333,18.578889
+me,koprivnjaca,Koprivnjaca,00,,43.028056,19.430278
+me,koracevac,Koracevac,00,,42.733889,18.8275
+me,koraci,Koraci,00,,42.912778,19.956389
+me,koraj-do,Koraj-Do,00,,42.605833,19.4775
+me,koravlica,Koravlica,00,,42.845278,18.474167
+me,koravljica,Koravljica,00,,42.845278,18.474167
+me,kordovina,Kordovina,00,,43.207778,19.390556
+me,korijen,Korijen,00,,42.609722,19.475833
+me,korita,Korita,00,,42.489722,19.533889
+me,korite,Koritë,00,,43.037222,19.979722
+me,koritnica,Koritnica,00,,43.105556,19.515556
+me,koritni do,Koritni Do,00,,42.571389,18.640278
+me,koritnik,Koritnik,00,,43.105556,19.515556
+me,korito,Korito,00,,42.960833,18.72
+me,kornet,Kornet,00,,42.411667,19.141667
+me,koruge,Koruge,00,,43.348056,19.319722
+me,kosanica,Kosanica,00,,43.193056,19.321667
+me,kosare,Kosare,00,,43.192222,19.340278
+me,kosari,Kosari,00,,43.192222,19.340278
+me,koserici,Koserici,00,,42.956389,19.136667
+me,kosetine,Kosetine,00,,42.732778,19.381111
+me,kosevine,Kosevine,00,,43.111111,19.708333
+me,kosice,Kosice,00,,43.004722,19.0075
+me,kosici,Kosici,00,,42.025833,19.273056
+me,kosic,Kosic,00,,42.025833,19.273056
+me,kosijeri,Kosijeri,00,,42.418333,18.972778
+me,kosjeri,Kosjeri,00,,42.746111,19.375278
+me,kos,Kos,00,,42.715833,19.468333
+me,kosljun,Kosljun,00,,42.291667,18.859167
+me,kosmac,Kosmac,00,,42.301111,18.900278
+me,kosme,Kosme,00,,42.9525,19.887222
+me,kosorici,Kosorici,00,,42.956389,19.136667
+me,kosor,Kosor,00,,42.493889,19.374722
+me,kosorska bukovica,Kosorska Bukovica,00,,43.010833,19.161111
+me,kosovi,Kosovi,00,,43.456667,19.110833
+me,kostanica,Kostanica,00,,42.090556,19.277222
+me,kostanice,Kostanice,00,,43.020833,18.918333
+me,kostanjica,Kostanjica,00,,42.485833,18.6675
+me,kostenica,Kostenica,00,,43.046944,19.858056
+me,kostice,Kostice,00,,42.996667,19.831944
+me,kostici,Kostici,00,,42.398889,18.668056
+me,kostrikovica,Kostrikovica,00,,42.5575,19.293056
+me,kostrovici,Kostrovici,00,,42.487778,19.406667
+me,kosuci do,Kosuci Do,00,,42.591111,19.234722
+me,kosutica,Kosutica,00,,42.524167,20.004167
+me,kosutnjak,Kosutnjak,00,,42.896111,19.806111
+me,kotlaici,Kotlaici,00,,43.133611,19.385
+me,kotlajici,Kotlajici,00,,43.133611,19.385
+me,kotlici,Kotlici,00,,42.688333,18.724167
+me,kotline,Kotline,00,,43.381667,19.313889
+me,kotorac,Kotorac,00,,43.43,19.188056
+me,kotor,Kotor,00,,42.425833,18.771944
+me,kotrabudan,Kotrabudan,00,,42.321389,19.318611
+me,kovacev do,Kovacev Do,00,,42.645,18.765556
+me,kovacevici,Kovacevici,00,,42.0775,19.347778
+me,kovacica,Kovacica,00,,42.650833,19.485833
+me,kovaci,Kovaci,00,,42.3125,18.76
+me,kovacina,Kovacina,00,,42.450556,18.641111
+me,kovacka dolina,Kovacka Dolina,00,,43.163333,19.1225
+me,kovacke kucice,Kovacke Kucice,00,,42.3175,18.783333
+me,kovacki dolovi,Kovacki Dolovi,00,,42.588333,19.165833
+me,kovac,Kovac,00,,43.480833,19.189722
+me,kovce do,Kovce Do,00,,42.738889,18.851389
+me,kovcica,Kovcica,00,,43.095833,19.1275
+me,kovijec,Kovijec,00,,43.4125,19.298889
+me,kovren,Kovren,00,,43.170833,19.5625
+me,kozarica,Kozarica,00,,43.030556,19.044722
+me,kozda,Kozda,00,,42.723611,19.377778
+me,kozica,Kozica,00,,43.229722,19.5325
+me,kozice,Kozice,00,,43.229722,19.5325
+me,kracedo,Kracedo,00,,42.346667,19.129444
+me,kradenik,Kradenik,00,,42.991389,19.922222
+me,kragujev do,Kragujev Do,00,,42.648611,18.811389
+me,kraista,Kraista,00,,42.704167,19.7075
+me,krajista,Krajista,00,,42.526667,18.794444
+me,krajiste,Krajiste,00,,42.526667,18.794444
+me,krajnji do,Krajnji Do,00,,42.4475,18.860556
+me,kralje,Kralje,00,,42.737778,19.753056
+me,kraljevac,Kraljevac,00,,42.623333,19.486111
+me,kraljevici,Kraljevici,00,,42.331667,18.7325
+me,kralji stari,Kralji Stari,00,,42.391944,18.974444
+me,kralj,Kralj,00,,42.328056,18.797222
+me,kraljske bare,Kraljske Bare,00,,42.749444,19.612778
+me,kranji do,Kranji Do,00,,42.4475,18.860556
+me,krapina,Krapina,00,,42.3175,18.825556
+me,krasica strana,Krasica Strana,00,,42.979167,19.514722
+me,krasici,Krasici,00,,42.405833,18.640556
+me,krasovina,Krasovina,00,,42.5825,19.148056
+me,kravari,Kravari,00,,42.043333,19.358889
+me,kravlja,Kravlja,00,,42.71,19.373056
+me,krcevina,Krcevina,00,,43.416667,19.25
+me,krcevine,Krcevine,00,,43.511111,19.016667
+me,krc,Krc,00,,43.1475,19.753333
+me,krece,Krece,00,,43.531667,19.189722
+me,krejovina,Krejovina,00,,43.363889,19.311389
+me,kremes,Kremes,00,,42.721389,19.365
+me,krenza,Krenza,00,,42.451944,19.393611
+me,kricanje,Kricanje,00,,42.740833,19.474444
+me,krijesterovina,Krijesterovina,00,,43.220278,19.311389
+me,krimovica,Krimovica,00,,42.291111,18.761111
+me,krimovice,Krimovice,00,,42.291111,18.761111
+me,krivaca,Krivaca,00,,42.5525,19.254722
+me,krivace,Krivace,00,,42.664167,19.905556
+me,krivac,Krivac,00,,42.605556,19.140833
+me,kriva ploca,Kriva Ploca,00,,42.587222,19.134722
+me,krivi do,Krivi Do,00,,42.650278,19.448056
+me,krivodo,Krivodo,00,,42.681389,18.614722
+me,krivolaze,Krivolaze,00,,42.934444,19.873889
+me,krizevac,Krizevac,00,,43.323889,18.893889
+me,krkor,Krkor,00,,42.643611,19.450278
+me,krlje,Krlje,00,,42.921389,19.849167
+me,krna jela,Krna Jela,00,,42.636111,18.638611
+me,krnjaca,Krnjaca,00,,42.692778,19.790833
+me,krnjac,Krnjac,00,,42.692778,19.790833
+me,krnja jela,Krnja Jela,00,,42.921389,19.2925
+me,krnja,Krnja,00,,43.485833,19.2275
+me,krnjan,Krnjan,00,,42.478611,19.313611
+me,krnjevina,Krnjevina,00,,43.373889,19.252778
+me,krnjice,Krnjice,00,,42.213889,19.1775
+me,krnjin do,Krnjin Do,00,,42.759444,18.632222
+me,krnulic,Krnulic,00,,42.715278,18.861389
+me,krokocevo,Krokocevo,00,,43.060278,19.721944
+me,krosa,Krosa,00,,42.571667,19.462222
+me,krsane,Krsane,00,,43.138611,19.561944
+me,krsanje,Krsanje,00,,43.138611,19.561944
+me,krseva,Krseva,00,,42.3925,19.362778
+me,krsevo,Krsevo,00,,42.3925,19.362778
+me,krs femica,Krs Femica,00,,42.975556,19.795
+me,krs,Krs,00,,42.718056,19.848889
+me,krsnica,Krsnica,00,,43.213611,19.63
+me,krstaca,Krstaca,00,,42.7025,18.719444
+me,krstace,Krstace,00,,42.567222,18.631944
+me,krstaci,Krstaci,00,,43.146667,19.621944
+me,krstac,Krstac,00,,42.221389,18.911389
+me,krstasi,Krstasi,00,,43.451944,19.236389
+me,krstas,Krstas,00,,42.980556,19.794722
+me,krstata dola,Krstata Dola,00,,42.888333,18.986111
+me,krstau,Krstau,00,,43.005556,18.698056
+me,krst,Krst,00,,43.470278,19.200556
+me,krstovace,Krstovace,00,,42.7575,19.041111
+me,krtine,Krtine,00,,42.905833,18.583056
+me,krtoli,Krtoli,00,,42.3975,18.672222
+me,kruce,Kruce,00,,41.98,19.174167
+me,kruci,Kruci,00,,41.98,19.174167
+me,kruge,Kruge,00,,42.539722,18.8225
+me,krug,Krug,00,,42.560278,18.864444
+me,kruosa,Kruosa,00,,42.571667,19.462222
+me,krupice,Krupice,00,,43.121667,19.438056
+me,kruscica,Kruscica,00,,42.453611,19.378333
+me,kruscice,Kruscice,00,,43.19,19.564722
+me,kruse,Kruse,00,,42.433333,19.1525
+me,krusevac,Krusevac,00,,42.443056,19.240278
+me,krusev do,Krusev Do,00,,43.024722,19.771111
+me,krusevica,Krusevica,00,,42.215278,18.950556
+me,krusevice,Krusevice,00,,42.471667,18.642222
+me,krusevi do,Krusevi Do,00,,42.553889,18.705278
+me,krusevlje,Krusevlje,00,,42.791667,19.362222
+me,krusev lug,Krusev Lug,00,,42.848333,19.319167
+me,krusevo,Krusevo,00,,42.560278,19.863333
+me,krusi,Krusi,00,,42.433333,19.1525
+me,kruska,Kruska,00,,42.543333,18.511944
+me,kruske,Kruske,00,,43.009722,19.453333
+me,kruskovi do,Kruskovi Do,00,,42.834444,18.885556
+me,kruta,Kruta,00,,41.971111,19.1825
+me,krute,Krute,00,,41.971111,19.1825
+me,krute ulcinjsko,Krute Ulcinjsko,00,,41.971111,19.1825
+me,kruti,Kruti,00,,42.264722,18.906111
+me,kruzac,Kruzac,00,,43.345,18.864167
+me,krvavci,Krvavci,00,,43.344167,19.1575
+me,krzava,Krzava,00,,43.473889,18.996389
+me,krzevo,Krzevo,00,,42.746111,19.422222
+me,krzulje,Krzulje,00,,42.853889,19.796667
+me,kubasi,Kubasi,00,,42.324444,18.756389
+me,kuce mugosa,Kuce Mugosa,00,,42.42,19.206111
+me,kuce scepovica,Kuce Scepovica,00,,42.417222,19.248333
+me,kucetina,Kucetina,00,,43.248611,19.451111
+me,kucetine,Kucetine,00,,43.152778,19.744444
+me,kucevine,Kucevine,00,,43.105556,19.673889
+me,kucice,Kucice,00,,42.485556,19.275833
+me,kucine,Kucine,00,,43.035833,18.742778
+me,kucista,Kucista,00,,42.435833,19.318889
+me,kuciste,Kuciste,00,,42.461944,18.8625
+me,kucko brdo,Kucko Brdo,00,,42.765556,19.117222
+me,kujacici,Kujacici,00,,42.485833,18.538333
+me,kujava,Kujava,00,,42.606111,19.045833
+me,kukalje,Kukalje,00,,42.753333,19.883056
+me,kukaljevina,Kukaljevina,00,,42.312222,18.808056
+me,kukanj,Kukanj,00,,43.358889,19.258333
+me,kukavica,Kukavica,00,,43.5,19.081944
+me,kukavice,Kukavice,00,,43.5,19.081944
+me,kukulje,Kukulje,00,,43.080278,19.738333
+me,kula,Kula,00,,42.793333,20.228056
+me,kulici,Kulici,00,,43.182222,18.913889
+me,kulina,Kulina,00,,42.611944,18.667222
+me,kuljace,Kuljace,00,,42.280556,18.91
+me,kumbor,Kumbor,00,,42.440556,18.585833
+me,kumbur,Kumbur,00,,42.440556,18.585833
+me,kunak,Kunak,00,,42.709722,19.009722
+me,kunja,Kunja,00,,42.013889,19.173611
+me,kunje,Kunje,00,,42.013889,19.173611
+me,kunjici,Kunjici,00,,42.285556,18.77
+me,kunj,Kunj,00,,42.559167,19.975
+me,kunovaca,Kunovaca,00,,43.114167,19.766944
+me,kupina,Kupina,00,,42.623889,19.370278
+me,kupinovo,Kupinovo,00,,42.643333,19.046667
+me,kupusci,Kupusci,00,,42.4875,19.333056
+me,kupusina,Kupusina,00,,42.668056,19.885556
+me,kupusista,Kupusista,00,,42.702778,19.432222
+me,kurikuce,Kurikuce,00,,42.878333,19.744167
+me,kurilo,Kurilo,00,,42.297778,19.181944
+me,kurioci,Kurioci,00,,42.312222,19.191667
+me,kuside,Kuside,00,,42.777222,18.851667
+me,kusido,Kusido,00,,42.777222,18.851667
+me,kusidre,Kusidre,00,,42.777222,18.851667
+me,kutac,Kutac,00,,42.871667,18.818889
+me,kuta,Kuta,00,,42.549722,18.925278
+me,kuti,Kuti,00,,42.459444,18.585833
+me,kutlov do,Kutlov Do,00,,42.716111,19.371111
+me,kutnja njiva,Kutnja Njiva,00,,42.998056,19.024444
+me,kutsko brdo,Kutsko Brdo,00,,42.765556,19.117222
+me,kutusa,Kutusa,00,,43.170833,19.318889
+me,kuzman,Kuzman,00,,43.308611,19.245
+me,kvekici,Kvekici,00,,42.461111,18.546667
+me,lace,Lace,00,,42.573333,19.167222
+me,lacev do,Lacev Do,00,,42.591111,18.8325
+me,ladana,Ladana,00,,43.305556,19.269167
+me,ladjana,Ladjana,00,,43.305556,19.269167
+me,lagatore,Lagatore,00,,42.914167,19.987222
+me,lagatori,Lagatori,00,,42.914167,19.987222
+me,laholo,Laholo,00,,42.980278,19.825278
+me,lainja,Lainja,00,,42.389167,19.053056
+me,lajina luka,Lajina Luka,00,,42.705833,19.791389
+me,lajinovici,Lajinovici,00,,42.582778,19.410556
+me,lajkovici,Lajkovici,00,,42.365556,19.213889
+me,lakina lazina,Lakina Lazina,00,,42.611944,19.236111
+me,lakine lazine,Lakine Lazine,00,,42.611944,19.236111
+me,lakinja,Lakinja,00,,42.389167,19.053056
+me,lalevici,Lalevici,00,,42.565,19.093333
+me,lalicici,Lalicici,00,,42.303889,18.978889
+me,laljevici,Laljevici,00,,43.107222,19.748889
+me,laniste,Laniste,00,,43.115,19.393889
+me,lapcici,Lapcici,00,,42.313889,18.856111
+me,lapov do,Lapov Do,00,,42.6725,18.678611
+me,lastva cevska,Lastva Cevska,00,,42.596667,18.935556
+me,lastva,Lastva,00,,42.31,18.804167
+me,lastvica,Lastvica,00,,42.498611,18.695278
+me,lausevici,Lausevici,00,,43.159722,19.170278
+me,lazarevici,Lazarevici,00,,42.334167,18.7375
+me,lazarev krst,Lazarev Krst,00,,42.504167,19.095
+me,lazba,Lazba,00,,42.745556,19.342222
+me,laze,Laze,00,,42.898333,19.954444
+me,lazi,Lazi,00,,42.296667,18.848333
+me,lazina,Lazina,00,,42.611944,19.236111
+me,lazine,Lazine,00,,43.023333,19.134444
+me,lazinice,Lazinice,00,,42.606944,18.816389
+me,laz,Laz,00,,42.756111,19.037778
+me,lazorci,Lazorci,00,,42.495278,19.452778
+me,lazovici,Lazovici,00,,43.022778,19.998611
+me,lazovi,Lazovi,00,,43.080556,19.674444
+me,leceviste,Leceviste,00,,43.074722,19.75
+me,ledenica,Ledenica,00,,42.943333,18.539167
+me,ledenice,Ledenice,00,,42.550556,18.71
+me,legatov do,Legatov Do,00,,43.335278,19.4175
+me,lehovo brdo,Lehovo Brdo,00,,43.383333,19.108611
+me,lekici,Lekici,00,,42.389444,19.189444
+me,lekovina,Lekovina,00,,43.151944,19.6125
+me,lekperici,Lekperici,00,,42.073889,19.349167
+me,lemes,Lemes,00,,43.149444,19.775278
+me,leovo brdo,Leovo Brdo,00,,43.383333,19.108611
+me,lepenac,Lepenac,00,,42.999722,19.591944
+me,lepetane,Lepetane,00,,42.465278,18.685833
+me,lepetani,Lepetani,00,,42.465278,18.685833
+me,lepetici,Lepetici,00,,42.502778,18.500833
+me,lepirica,Lepirica,00,,42.8025,19.040556
+me,lesevici,Lesevici,00,,42.3675,18.725556
+me,leskovac,Leskovac,00,,42.031667,19.220556
+me,leskovi do,Leskovi Do,00,,42.601389,18.7525
+me,lesnje,Lesnje,00,,42.404167,19.146944
+me,leta,Leta,00,,42.584444,18.954722
+me,levaja,Levaja,00,,42.633889,19.455
+me,lever tara,Lever Tara,00,,43.181111,19.248333
+me,levi meteh,Levi Meteh,00,,42.628333,19.968056
+me,levja,Levja,00,,42.633889,19.455
+me,lice,Lice,00,,43.171389,18.927222
+me,licine,Licine,00,,43.0025,19.978333
+me,ligatov do,Ligatov Do,00,,43.335278,19.4175
+me,lijarja,Lijarja,00,,42.128056,19.213611
+me,lijeca,Lijeca,00,,42.545833,18.656389
+me,lijecevina,Lijecevina,00,,43.351667,18.891944
+me,lijepi brijeg,Lijepi Brijeg,00,,42.700278,19.349444
+me,lijepi pod,Lijepi Pod,00,,43.231389,18.9625
+me,lijesce,Lijesce,00,,43.368611,19.417222
+me,lijeska,Lijeska,00,,43.059167,19.606944
+me,lijesnje,Lijesnje,00,,42.404167,19.146944
+me,lijesta,Lijesta,00,,42.487222,19.385278
+me,lijeva reka,Lijeva Reka,00,,42.645556,19.476667
+me,lijeva rijeka,Lijeva Rijeka,00,,42.645556,19.476667
+me,lijevi meteh,Lijevi Meteh,00,,42.628333,19.968056
+me,likica do,Likica Do,00,,43.351667,18.901111
+me,limjani,Limjani,00,,42.195,19.094444
+me,limljani,Limljani,00,,42.195,19.094444
+me,lipa,Lipa,00,,42.373611,18.952778
+me,lipci,Lipci,00,,42.497222,18.658056
+me,lipe,Lipe,00,,42.46,19.035278
+me,liplja,Liplja,00,,42.735278,19.372222
+me,lipovac,Lipovac,00,,42.539444,18.844444
+me,lipova ravan,Lipova Ravan,00,,42.914722,18.9475
+me,lipov do,Lipov Do,00,,42.578056,18.834167
+me,lipovik,Lipovik,00,,42.35,19.0425
+me,lipovi,Lipovi,00,,42.35,19.0425
+me,lipovo korito,Lipovo Korito,00,,42.3725,18.996111
+me,lipovo,Lipovo,00,,42.870833,19.421111
+me,lirovo polje,Lirovo Polje,00,,42.796667,18.654167
+me,lisa stijena,Lisa Stijena,00,,43.348056,18.875278
+me,lisic do,Lisic Do,00,,42.6725,18.9175
+me,lisicici,Lisicici,00,,42.046667,19.164444
+me,lisiciji do,Lisiciji Do,00,,43.5025,19.124167
+me,lisicine,Lisicine,00,,42.975278,19.6575
+me,lisina,Lisina,00,,43.144167,18.719444
+me,lisna bori,Lisna Bori,00,,41.996944,19.360833
+me,litice,Litice,00,,43.323611,19.443056
+me,litine,Litine,00,,42.200278,19.073056
+me,livada,Livada,00,,42.485278,19.153889
+me,livadani,Livadani,00,,43.386667,19.295278
+me,livade,Livade,00,,42.485278,19.153889
+me,livadice,Livadice,00,,43.065,19.728056
+me,livari,Livari,00,,42.128056,19.213611
+me,livavi,Livavi,00,,42.128056,19.213611
+me,liverovici,Liverovici,00,,42.742222,19.073889
+me,liverovo polje,Liverovo Polje,00,,42.796667,18.654167
+me,ljajinovici,Ljajinovici,00,,42.582778,19.410556
+me,ljebarice,Ljebarice,00,,43.101667,19.762222
+me,ljesevica,Ljesevica,00,,42.724444,18.743056
+me,ljesevici,Ljesevici,00,,42.3675,18.725556
+me,ljesevic,Ljesevic,00,,42.3675,18.725556
+me,ljesev stub,Ljesev Stub,00,,42.514722,18.913333
+me,ljeskovac,Ljeskovac,00,,42.031667,19.220556
+me,ljeskovca,Ljeskovca,00,,42.820833,19.389167
+me,ljeskov do,Ljeskov Do,00,,42.479444,18.941389
+me,ljeskovi doli,Ljeskovi Doli,00,,42.691667,18.882222
+me,ljeskovi do,Ljeskovi Do,00,,42.554444,18.625833
+me,ljeskovi dolovi,Ljeskovi Dolovi,00,,42.691667,18.882222
+me,ljesnica,Ljesnica,00,,43.054722,19.731944
+me,ljetine,Ljetine,00,,43.009167,19.750278
+me,ljevak,Ljevak,00,,42.985833,19.434722
+me,ljevista,Ljevista,00,,42.869444,19.268611
+me,ljevlja,Ljevlja,00,,43.352222,19.354167
+me,ljubanivici,Ljubanivici,00,,42.082778,19.364722
+me,ljubastica,Ljubastica,00,,42.729167,19.660556
+me,ljubojevac,Ljubojevac,00,,43.454167,19.125
+me,ljubovida,Ljubovida,00,,42.985556,19.750278
+me,ljubuski stanovi,Ljubuski Stanovi,00,,42.793333,20.228056
+me,ljuce,Ljuce,00,,43.31,19.306667
+me,ljumetici,Ljumetici,00,,42.091944,19.171944
+me,ljuta bara,Ljuta Bara,00,,43.459722,19.069444
+me,ljutac,Ljutac,00,,43.12,19.563611
+me,ljuta,Ljuta,00,,42.478611,18.764167
+me,ljutici,Ljutici,00,,43.240833,19.456389
+me,ljutotuk,Ljutotuk,00,,42.550556,19.159167
+me,ljutovac,Ljutovac,00,,42.933333,19.293889
+me,lofka,Lofka,00,,42.398056,19.3975
+me,lokva,Lokva,00,,43.505278,19.105278
+me,lokvanj,Lokvanj,00,,42.650556,18.590278
+me,lokvice,Lokvice,00,,43.071111,19.143611
+me,lokvina,Lokvina,00,,42.773333,19.096944
+me,loncari,Loncari,00,,43.392222,19.234722
+me,lopare,Lopare,00,,42.954722,19.8925
+me,loparici,Loparici,00,,42.753333,18.668611
+me,lopari,Lopari,00,,42.427778,19.3875
+me,lopate,Lopate,00,,42.505833,19.238611
+me,lopicici,Lopicici,00,,42.361111,18.978056
+me,lovnocelo,Lovnocelo,00,,42.558333,19.956389
+me,loza,Loza,00,,42.740833,18.753056
+me,lozince,Lozince,00,,43.037222,19.764444
+me,lozna,Lozna,00,,42.955,19.875833
+me,loznica,Loznica,00,,43.037222,19.764444
+me,loznice,Loznice,00,,43.037222,19.764444
+me,lubnica,Lubnica,00,,42.86,19.765556
+me,lubnice,Lubnice,00,,42.86,19.765556
+me,lubovo,Lubovo,00,,42.585833,19.126111
+me,lucica,Lucica,00,,42.895833,20.170833
+me,lucice,Lucice,00,,42.200833,18.951944
+me,lucici,Lucici,00,,42.480556,18.475278
+me,luge,Luge,00,,42.705,19.833056
+me,lug,Lug,00,,42.575833,18.687778
+me,lugovi,Lugovi,00,,42.290556,18.849722
+me,luka,Luka,00,,42.505,19.334444
+me,lukavica,Lukavica,00,,42.931944,19.847222
+me,lukavice,Lukavice,00,,43.307778,19.4175
+me,luke jocovica,Luke Jocovica,00,,42.931944,19.224722
+me,luke,Luke,00,,42.564167,19.161111
+me,lukici,Lukici,00,,42.168333,19.178889
+me,lukin vir,Lukin Vir,00,,42.7675,19.823333
+me,lukovica,Lukovica,00,,43.307778,19.4175
+me,lukovici,Lukovici,00,,43.288056,19.042222
+me,lukovo,Lukovo,00,,42.809167,19.015556
+me,lumetici,Lumetici,00,,42.091944,19.171944
+me,lunje,Lunje,00,,42.051111,19.200833
+me,lupoglav,Lupoglav,00,,42.892778,18.866389
+me,lustica,Lustica,00,,42.396667,18.601944
+me,lutovo,Lutovo,00,,42.618056,19.405556
+me,luzac,Luzac,00,,42.829722,19.843611
+me,luzani,Luzani,00,,42.458056,19.228889
+me,luzi,Luzi,00,,42.781111,19.403611
+me,luznica,Luznica,00,,42.476667,19.158056
+me,macaj,Macaj,00,,42.360833,19.408611
+me,macari,Macari,00,,42.129444,19.067778
+me,macavare,Macavare,00,,42.872778,18.556667
+me,macija stopa,Macija Stopa,00,,42.599444,18.649444
+me,macista,Macista,00,,42.701111,19.332222
+me,maciste,Maciste,00,,42.701111,19.332222
+me,mackate,Mackate,00,,42.998056,19.605556
+me,mackov do,Mackov Do,00,,43.354167,18.907222
+me,macuge,Macuge,00,,42.230278,19.033611
+me,madeze,Madeze,00,,42.591111,19.149444
+me,madgus,Madgus,00,,42.073611,19.281389
+me,madzari,Madzari,00,,42.129444,19.067778
+me,madzarski kraj,Madzarski Kraj,00,,43.155556,18.845
+me,madzurici,Madzurici,00,,42.077222,19.325
+me,magas,Magas,00,,42.073611,19.281389
+me,magazini,Magazini,00,,42.461389,18.571111
+me,maglenca,Maglenca,00,,42.886667,18.539444
+me,mahala brezce,Mahala Brezce,00,,42.995278,19.848889
+me,mahala capica,Mahala Capica,00,,42.996944,19.866111
+me,mahala,Mahala,00,,42.350833,19.215
+me,majna gora,Majna Gora,00,,43.031111,19.668889
+me,majsterovine,Majsterovine,00,,42.974167,19.691667
+me,majstori,Majstori,00,,42.350833,18.837778
+me,majstorovina,Majstorovina,00,,42.974167,19.691667
+me,majstorovine,Majstorovine,00,,42.974167,19.691667
+me,majstrovina,Majstrovina,00,,42.974167,19.691667
+me,makljen,Makljen,00,,42.537222,18.982778
+me,mala gorana,Mala Gorana,00,,42.001944,19.202778
+me,mala josa,Mala Josa,00,,42.987778,19.764722
+me,mala komijne,Mala Komijne,00,,42.989722,19.810833
+me,mala,Mala,00,,42.751944,19.4175
+me,mala paleza,Mala Paleza,00,,42.858611,19.791111
+me,mala rzista,Mala Rzista,00,,42.608611,18.747778
+me,mala zagreda,Mala Zagreda,00,,42.530278,19.082778
+me,male crnokrpe,Male Crnokrpe,00,,42.912778,20.2375
+me,male krce,Male Krce,00,,43.417778,19.281667
+me,male krzulje,Male Krzulje,00,,42.853889,19.796667
+me,malenza,Malenza,00,,42.495556,19.089444
+me,male rokoce,Male Rokoce,00,,42.658611,18.742222
+me,male sljeme,Male Sljeme,00,,43.064444,19.555556
+me,malezine zagrade,Malezine Zagrade,00,,42.349167,19.094167
+me,mali alugi,Mali Alugi,00,,42.965278,19.705
+me,mali brezovik,Mali Brezovik,00,,42.8275,18.931667
+me,mali kaliman,Mali Kaliman,00,,42.045556,19.222778
+me,mali lipovac,Mali Lipovac,00,,42.564722,18.765
+me,mali mikulici,Mali Mikulici,00,,42.107222,19.160556
+me,malin dubiava,Malin Dubiava,00,,42.913056,20.290556
+me,malindubrava,Malindubrava,00,,42.913056,20.290556
+me,maline,Maline,00,,42.950833,19.884167
+me,malinsko,Malinsko,00,,42.941111,19.163056
+me,mali orah,Mali Orah,00,,42.861111,18.968333
+me,mali ostros,Mali Ostros,00,,42.086667,19.311389
+me,mali zalazi,Mali Zalazi,00,,42.471667,18.781389
+me,malo brdo,Malo Brdo,00,,43.308611,19.245
+me,malo danave,Malo Danave,00,,42.586389,18.816389
+me,malo nemanjine,Malo Nemanjine,00,,42.947222,19.828611
+me,malo rasno,Malo Rasno,00,,43.255,19.387222
+me,malo selo,Malo Selo,00,,42.590833,19.948611
+me,malosin do,Malosin Do,00,,42.505556,18.906944
+me,malo slacko,Malo Slacko,00,,42.658056,19.4575
+me,malo stravce,Malo Stravce,00,,42.590278,19.465833
+me,malov do,Malov Do,00,,42.573889,18.634722
+me,malovici,Malovici,00,,42.458611,18.652222
+me,malta,Malta,00,,42.496944,18.450278
+me,mamucevina,Mamucevina,00,,42.522222,19.145833
+me,mandegaj,Mandegaj,00,,42.422222,18.582778
+me,mandica do,Mandica Do,00,,43.053611,19.2775
+me,mandici,Mandici,00,,42.4925,18.531111
+me,manicevo,Manicevo,00,,42.679167,19.329167
+me,maoce,Maoce,00,,43.203333,19.414722
+me,maocici,Maocici,00,,42.745833,18.633333
+me,mardari,Mardari,00,,42.388056,18.629167
+me,mareza,Mareza,00,,42.472222,19.187778
+me,marica do,Marica Do,00,,42.952778,18.5425
+me,marica luka,Marica Luka,00,,42.956944,19.609444
+me,marici,Marici,00,,42.395833,18.691389
+me,marinac,Marinac,00,,43.4925,19.007222
+me,marina glavica,Marina Glavica,00,,42.808889,18.63
+me,marina rupa,Marina Rupa,00,,42.597778,18.840556
+me,markov do,Markov Do,00,,42.401111,18.997222
+me,markovica laz,Markovica Laz,00,,42.731389,19.498333
+me,markovici,Markovici,00,,42.308056,18.851111
+me,markovina,Markovina,00,,42.539444,19.006389
+me,marovici,Marovici,00,,42.104444,19.116667
+me,marsenica rijeka,Marsenica Rijeka,00,,42.782222,19.839167
+me,marsenici,Marsenici,00,,42.782222,19.839167
+me,marstijepovici,Marstijepovici,00,,42.193889,19.167778
+me,martici,Martici,00,,42.093333,19.300278
+me,martinici,Martinici,00,,42.168056,19.071389
+me,martinicko gostilje,Martinicko Gostilje,00,,42.571667,19.213889
+me,martinicsko,Martinicsko,00,,42.571667,19.213889
+me,martinovice,Martinovice,00,,42.577222,19.881111
+me,martinovici,Martinovici,00,,42.306944,18.9
+me,marucici,Marucici,00,,42.174722,19.152778
+me,maslari,Maslari,00,,42.753889,19.9125
+me,masline,Masline,00,,42.010556,19.152222
+me,masnica,Masnica,00,,42.664167,19.888333
+me,masni do,Masni Do,00,,42.554444,18.759722
+me,maste,Maste,00,,42.876389,19.891111
+me,mataguzi,Mataguzi,00,,42.323611,19.272778
+me,matalika,Matalika,00,,43.528333,19.1475
+me,mataruge,Mataruge,00,,43.265833,19.458889
+me,matesevo,Matesevo,00,,42.761111,19.553333
+me,matkovici,Matkovici,00,,42.467778,18.533056
+me,mazarici,Mazarici,00,,43.203889,19.398611
+me,mazgalji,Mazgalji,00,,42.75,19.872222
+me,mazici,Mazici,00,,42.302222,18.860556
+me,medasevine,Medasevine,00,,42.961667,19.794722
+me,mededak,Mededak,00,,42.929722,19.779722
+me,mededa,Mededa,00,,42.730556,19.488056
+me,medede,Medede,00,,42.673611,19.060833
+me,mededov do,Mededov Do,00,,42.689167,18.808056
+me,mede,Mede,00,,43.468056,18.985
+me,medeze,Medeze,00,,42.591111,19.149444
+me,medice,Medice,00,,42.575278,19.121667
+me,medinovaca,Medinovaca,00,,43.155278,19.188333
+me,medjurijecje,Medjurijecje,00,,42.724444,19.366667
+me,medosi,Medosi,00,,43.210556,19.616944
+me,medun,Medun,00,,42.4725,19.361667
+me,medupotocje,Medupotocje,00,,42.783889,19.343611
+me,medurec,Medurec,00,,42.060556,19.230833
+me,medurijecje,Medurijecje,00,,42.668333,18.991389
+me,medurjecje,Medurjecje,00,,42.724444,19.366667
+me,meduzvalje,Meduzvalje,00,,43.165833,19.211111
+me,medvede,Medvede,00,,42.709167,18.9325
+me,megjurec,Megjurec,00,,42.724444,19.366667
+me,meka lokva,Meka Lokva,00,,42.667222,18.753056
+me,mekica do,Mekica Do,00,,42.757222,18.666111
+me,mekica kula,Mekica Kula,00,,42.9825,19.536667
+me,mekici,Mekici,00,,43.023889,19.952222
+me,meki do,Meki Do,00,,42.525833,18.59
+me,mekote,Mekote,00,,42.795833,18.625
+me,melaja,Melaja,00,,42.861944,19.596667
+me,meljaci,Meljaci,00,,42.728611,19.43
+me,meljak,Meljak,00,,43.319722,19.323889
+me,meljena,Meljena,00,,43.514722,18.991667
+me,meljine,Meljine,00,,42.455833,18.561944
+me,melligne,Melligne,00,,42.455833,18.561944
+me,menke,Menke,00,,42.096667,19.143889
+me,mentovici,Mentovici,00,,43.366667,19.235556
+me,meoca cucka,Meoca Cucka,00,,42.595,18.851389
+me,meoca,Meoca,00,,42.609444,18.9325
+me,meoce cucke,Meoce Cucke,00,,42.595,18.851389
+me,meoce,Meoce,00,,42.609444,18.9325
+me,mercajevac,Mercajevac,00,,43.083611,19.558056
+me,mercajevci,Mercajevci,00,,43.083611,19.558056
+me,merdari,Merdari,00,,42.388056,18.629167
+me,merulja,Merulja,00,,43.051667,19.169167
+me,mesto dobrota,Mesto Dobrota,00,,42.454167,18.768333
+me,mestrovac,Mestrovac,00,,43.285833,19.035278
+me,mestrovici,Mestrovici,00,,42.395833,18.686389
+me,metalica,Metalica,00,,43.073333,19.401667
+me,metaljka,Metaljka,00,,43.101944,19.331944
+me,metanac,Metanac,00,,43.120278,19.77
+me,metanjac,Metanjac,00,,43.120278,19.77
+me,metanovici,Metanovici,00,,41.986389,19.229167
+me,meteh,Meteh,00,,42.619444,19.980278
+me,meterizi,Meterizi,00,,42.377778,19.056111
+me,meteriz,Meteriz,00,,42.505278,18.491667
+me,mezalini,Mezalini,00,,42.338889,18.793056
+me,mezalin,Mezalin,00,,42.338889,18.793056
+me,mezdo,Mezdo,00,,43.161944,19.144722
+me,mezgalje,Mezgalje,00,,42.75,19.872222
+me,mezgalji,Mezgalji,00,,42.75,19.872222
+me,mide,Mide,00,,42.035833,19.261389
+me,midzorove kuce,Midzorove Kuce,00,,42.195278,18.963056
+me,migalovica,Migalovica,00,,42.863333,19.456389
+me,mihailovici,Mihailovici,00,,42.318889,19.071667
+me,mihajlovici,Mihajlovici,00,,42.318889,19.071667
+me,mihaljevici,Mihaljevici,00,,42.366389,18.988889
+me,mihronici,Mihronici,00,,43.459167,19.169722
+me,mijacevici,Mijacevici,00,,43.182222,19.375
+me,mijajlov do,Mijajlov Do,00,,42.747778,18.666667
+me,mijakovici,Mijakovici,00,,43.231111,19.380833
+me,mijeli,Mijeli,00,,42.511389,19.334722
+me,mijokusovici,Mijokusovici,00,,42.629722,19.050278
+me,mijoljica,Mijoljica,00,,42.689167,19.351944
+me,mijoska,Mijoska,00,,42.815,19.4125
+me,mikijelji,Mikijelji,00,,42.332222,18.741389
+me,mikulici,Mikulici,00,,42.453889,18.968333
+me,milacici,Milacici,00,,42.590278,19.465833
+me,mila gora,Mila Gora,00,,42.909444,18.626389
+me,milakovci,Milakovci,00,,43.453056,19.2375
+me,milati,Milati,00,,42.467222,19.084444
+me,milatovac,Milatovac,00,,42.967222,19.722778
+me,miletici,Miletici,00,,43.177222,18.670278
+me,miletin do,Miletin Do,00,,42.730278,18.840833
+me,milevo polje,Milevo Polje,00,,43.016667,19.966667
+me,milicevici,Milicevici,00,,43.381111,19.281111
+me,milici,Milici,00,,43.394444,19.291111
+me,milijevici,Milijevici,00,,42.446389,18.886111
+me,miljanici,Miljanici,00,,42.842222,18.63
+me,milje,Milje,00,,42.631667,19.94
+me,miljevci,Miljevci,00,,42.144722,19.056389
+me,miljev do,Miljev Do,00,,43.077778,18.660278
+me,miljevici,Miljevici,00,,42.633889,18.9925
+me,miljkovac,Miljkovac,00,,43.053056,18.853333
+me,milocani,Milocani,00,,42.829167,18.904444
+me,milocer,Milocer,00,,42.262222,18.895278
+me,milojci,Milojci,00,,42.351389,18.744167
+me,milojevici,Milojevici,00,,42.633889,18.9925
+me,milonjin do,Milonjin Do,00,,42.627222,19.103889
+me,milosevici,Milosevici,00,,42.9175,19.11
+me,milosi,Milosi,00,,42.447222,19.042778
+me,milovci,Milovci,00,,43.441111,19.001111
+me,milov do,Milov Do,00,,42.664167,18.748056
+me,milovici,Milovici,00,,42.256389,19.088889
+me,milovic,Milovic,00,,42.400278,18.673333
+me,milovo,Milovo,00,,43.016667,19.966667
+me,milunici,Milunici,00,,43.386944,19.339722
+me,milunovici,Milunovici,00,,42.56,19.3375
+me,milusina pecina,Milusina Pecina,00,,42.505,18.902222
+me,mioca,Mioca,00,,43.130833,19.73
+me,mioce,Mioce,00,,43.130833,19.73
+me,miocevici,Miocevici,00,,42.443611,18.586667
+me,miogost,Miogost,00,,42.520556,19.028056
+me,miolje polje,Miolje Polje,00,,42.721944,19.119722
+me,mioska,Mioska,00,,42.815,19.4125
+me,mirac,Mirac,00,,42.383889,18.781944
+me,miradovici,Miradovici,00,,43.277222,19.280833
+me,miravcine,Miravcine,00,,42.743889,19.733611
+me,mirin do,Mirin Do,00,,42.616111,19.463333
+me,mirkovici,Mirkovici,00,,42.858056,18.585833
+me,miroc-do,Miroc-Do,00,,43.028889,18.670833
+me,mirocevici,Mirocevici,00,,42.578333,19.353611
+me,mirojevici,Mirojevici,00,,43.073889,19.833611
+me,mironici,Mironici,00,,43.459167,19.169722
+me,mirovici,Mirovici,00,,43.073889,19.833611
+me,misevici,Misevici,00,,42.471389,18.486667
+me,misici,Misici,00,,42.165,19.013333
+me,miske,Miske,00,,42.538056,18.916944
+me,misocelo,Misocelo,00,,42.478056,18.993611
+me,misoka,Misoka,00,,42.525,19.290278
+me,misovica rijeka,Misovica Rijeka,00,,42.839444,19.5775
+me,mitrovici,Mitrovici,00,,42.3675,19.226111
+me,mjedenik,Mjedenik,00,,43.4225,19.045278
+me,mjegotin,Mjegotin,00,,42.428056,19.3725
+me,mladojevina,Mladojevina,00,,43.161667,19.614444
+me,mlakva,Mlakva,00,,43.490833,19.2125
+me,mlinista,Mlinista,00,,42.598611,18.740278
+me,mljeticak,Mljeticak,00,,42.9725,19.1425
+me,mocevici,Mocevici,00,,43.545278,18.993611
+me,mocila,Mocila,00,,42.639722,19.438056
+me,modredoci,Modredoci,00,,42.886111,18.530278
+me,modridoci,Modridoci,00,,42.886111,18.530278
+me,mojanovici,Mojanovici,00,,42.341667,19.221389
+me,mojdez,Mojdez,00,,42.485556,18.489722
+me,mojkovac,Mojkovac,00,,42.963889,19.5825
+me,mojstir,Mojstir,00,,43.079444,19.872222
+me,mokani,Mokani,00,,42.475278,19.090556
+me,mokanje,Mokanje,00,,42.475278,19.090556
+me,mokanji,Mokanji,00,,42.475278,19.090556
+me,mokra njiva,Mokra Njiva,00,,42.801944,18.934722
+me,mokri do,Mokri Do,00,,42.531944,19.264167
+me,mokri lug,Mokri Lug,00,,43.066944,19.875833
+me,mokrine,Mokrine,00,,42.508056,18.486944
+me,mokrinje,Mokrinje,00,,42.508056,18.486944
+me,mokro,Mokro,00,,42.605,19.570833
+me,momce,Momce,00,,42.541111,19.415833
+me,momisici,Momisici,00,,42.449167,19.247778
+me,momusici,Momusici,00,,42.449167,19.247778
+me,moracica,Moracica,00,,42.53,19.351667
+me,moracko trebaljevo,Moracko Trebaljevo,00,,42.876944,19.521667
+me,moraice,Moraice,00,,43.271944,19.134444
+me,morajce,Morajce,00,,43.271944,19.134444
+me,morajica,Morajica,00,,43.271944,19.134444
+me,morakovo,Morakovo,00,,42.710833,19.175
+me,morigno,Morigno,00,,42.489444,18.647222
+me,morinj,Morinj,00,,42.489444,18.647222
+me,mosevski do,Mosevski Do,00,,42.658611,18.768056
+me,mosori,Mosori,00,,42.595556,19.103333
+me,mosor,Mosor,00,,42.461667,19.308333
+me,mostine,Mostine,00,,42.978889,19.788611
+me,moticki gaj,Moticki Gaj,00,,43.130278,19.111667
+me,mozura,Mozura,00,,41.963889,19.255
+me,mracelji,Mracelji,00,,42.3425,19.034722
+me,mramor,Mramor,00,,43.148889,19.580833
+me,mratinje,Mratinje,00,,43.264722,18.802778
+me,mravinje,Mravinje,00,,42.553889,19.331667
+me,mrcava,Mrcava,00,,43.085278,19.344722
+me,mrcevac,Mrcevac,00,,42.42,18.718056
+me,mrcevo,Mrcevo,00,,43.416389,19.125
+me,mrcici,Mrcici,00,,43.465556,18.983611
+me,mrcinici,Mrcinici,00,,42.432778,19.061111
+me,mrdenovac,Mrdenovac,00,,43.054444,19.129722
+me,mrez,Mrez,00,,42.959722,18.593611
+me,mrkajici,Mrkajici,00,,42.754167,18.5125
+me,mrkalji,Mrkalji,00,,42.806111,18.721944
+me,mrke,Mrke,00,,42.5125,19.335556
+me,mrke ploce,Mrke Ploce,00,,42.594167,18.816111
+me,mrkovi,Mrkovi,00,,42.414167,18.575278
+me,mrtvi doli,Mrtvi Doli,00,,42.819722,18.588333
+me,mrtvo doboko,Mrtvo Doboko,00,,42.715556,19.335833
+me,mrzovici,Mrzovici,00,,43.316111,19.363333
+me,mucici,Mucici,00,,42.979444,19.968611
+me,mugosina livada,Mugosina Livada,00,,42.485278,19.153889
+me,muhovici,Muhovici,00,,42.902778,20.004167
+me,mujica recine,Mujica Recine,00,,42.798333,19.606111
+me,mulici,Mulici,00,,42.9675,19.934722
+me,muline,Muline,00,,42.746389,19.398056
+me,mulinovec,Mulinovec,00,,42.704167,19.746944
+me,mulinovo pocivalo,Mulinovo Pocivalo,00,,42.469167,18.856111
+me,mulovina,Mulovina,00,,43.315833,19.261111
+me,muo,Muo,00,,42.431667,18.7575
+me,muratovici,Muratovici,00,,42.908889,20.01
+me,murina,Murina,00,,42.661389,19.8825
+me,murine,Murinë,00,,42.661389,19.8825
+me,murino,Murino,00,,42.661389,19.8825
+me,murovac,Murovac,00,,42.917222,20.048611
+me,musici,Musici,00,,42.465,18.540278
+me,muslici,Muslici,00,,43.080833,19.633611
+me,musovica rijeka,Musovica Rijeka,00,,42.839444,19.5775
+me,musovici,Musovici,00,,42.973056,19.934167
+me,mustafica grede,Mustafica Grede,00,,42.756667,18.735556
+me,musta rupa,Musta Rupa,00,,42.589722,18.795833
+me,musterovici,Musterovici,00,,42.521944,19.050278
+me,muzecka,Muzecka,00,,42.428889,19.438611
+me,muzevica,Muzevica,00,,42.748611,18.760556
+me,muzevice,Muzevice,00,,42.8625,18.707778
+me,muznik,Muznik,00,,42.625556,19.1025
+me,muzovici,Muzovici,00,,42.304722,18.998333
+me,nabojine,Nabojine,00,,43.0975,19.393611
+me,nabom,Nabom,00,,42.386667,19.431389
+me,nadgora,Nadgora,00,,43.184167,19.093611
+me,nadgrad,Nadgrad,00,,42.606111,19.920278
+me,nadublje,Nadublje,00,,43.058611,18.903611
+me,nadulica,Nadulica,00,,42.610833,19.191667
+me,nakicenovici,Nakicenovici,00,,42.465,18.579444
+me,naljezici,Naljezici,00,,42.373056,18.775833
+me,nange,Nange,00,,43.420556,19.096111
+me,nanhelm,Nanhelm,00,,42.308333,19.340833
+me,naplav,Naplav,00,,43.350278,19.276944
+me,na pode,Na Pode,00,,42.554444,18.656111
+me,navotina,Navotina,00,,42.794167,19.844722
+me,na vrh polja,Na Vrh Polja,00,,42.428333,18.823056
+me,nazdre,Nazdre,00,,42.941667,18.840278
+me,nedajno,Nedajno,00,,43.2,18.983333
+me,nedakusi,Nedakusi,00,,43.056389,19.768056
+me,nefertara,Nefertara,00,,43.181111,19.248333
+me,negnjevo,Negnjevo,00,,43.083611,19.784722
+me,negobratina,Negobratina,00,,43.028333,19.9225
+me,negobuda,Negobuda,00,,43.1225,19.220278
+me,negosi,Negosi,00,,42.433056,18.828333
+me,neodi,Neodi,00,,42.295278,18.761111
+me,nerim,Nerim,00,,42.563889,18.811389
+me,neviden,Neviden,00,,43.320833,19.193333
+me,niegos,Niegos,00,,42.434722,18.83
+me,nik Ðokaj,Nik Ðokaj,00,,42.339444,19.384167
+me,nikezici,Nikezici,00,,41.996111,19.213333
+me,nikmarasi,Nikmarasi,00,,42.441944,19.436111
+me,nik maras,Nik Maras,00,,42.441944,19.436111
+me,nikmaros,Nikmaros,00,,42.441944,19.436111
+me,nikolici,Nikolici,00,,42.453889,18.711389
+me,nikoljac,Nikoljac,00,,43.023889,19.7425
+me,nikonovac,Nikonovac,00,,42.774444,19.390278
+me,nikovici,Nikovici,00,,43.268889,18.952222
+me,niksic,Niksic,00,65896,42.775,18.958333
+me,ninkovici,Ninkovici,00,,43.180278,19.2
+me,nistice,Nistice,00,,42.995833,18.723333
+me,njegnjevo,Njegnjevo,00,,43.083611,19.784722
+me,njegosi,Njegosi,00,,42.433056,18.828333
+me,njegovuda,Njegovuda,00,,43.1225,19.220278
+me,njegule,Njegule,00,,42.498889,19.066667
+me,njegulov do,Njegulov Do,00,,42.540278,18.863611
+me,njegusi,Njegusi,00,,42.429167,18.826111
+me,njive,Njive,00,,42.313333,19.038611
+me,njivica,Njivica,00,,43.357778,19.176944
+me,njivice,Njivice,00,,42.435556,18.513611
+me,nogulovici,Nogulovici,00,,42.472222,18.572778
+me,nokte,Nokte,00,,43.419167,19.203333
+me,norin,Norin,00,,42.711667,18.989444
+me,novakovica do,Novakovica Do,00,,42.964444,18.572222
+me,novakovice,Novakovice,00,,42.723333,19.422222
+me,novakovici,Novakovici,00,,43.086667,19.165278
+me,nova pec,Nova Pec,00,,42.403333,18.686389
+me,nova varos,Nova Varos,00,,42.442222,19.27
+me,novcici,Novcici,00,,42.639167,19.941111
+me,novi crnokrpe,Novi Crnokrpe,00,,42.925,20.232778
+me,novoselje,Novoselje,00,,42.219722,18.956111
+me,novo selo,Novo Selo,00,,42.425278,19.308333
+me,novsici,Novsici,00,,42.639167,19.941111
+me,nozdra,Nozdra,00,,42.941667,18.840278
+me,nozica,Nozica,00,,42.625833,19.456667
+me,nudo,Nudo,00,,42.6725,18.566389
+me,nuga borkovica,Nuga Borkovica,00,,42.731667,18.936944
+me,nugo,Nugo,00,,42.687222,18.614167
+me,nurkovici,Nurkovici,00,,42.8475,20.121667
+me,nurkovi dolovi,Nurkovi Dolovi,00,,42.824167,18.725833
+me,obadovica,Obadovica,00,,42.620556,18.844167
+me,obalica,Obalica,00,,42.453611,18.610833
+me,obalice,Obalice,00,,42.453611,18.610833
+me,obarde,Obarde,00,,43.290833,19.5175
+me,objesenik,Objesenik,00,,43.023889,18.535833
+me,oblatno,Oblatno,00,,42.759167,19.072222
+me,obljaj,Obljaj,00,,42.826111,18.540833
+me,oblo brdo,Oblo Brdo,00,,42.724722,19.738611
+me,obod,Obod,00,,42.532222,18.785278
+me,oborci,Oborci,00,,43.445278,19.059444
+me,obradovici,Obradovici,00,,42.482778,18.537778
+me,obrov,Obrov,00,,43.028056,19.749444
+me,obrovo,Obrovo,00,,43.028056,19.749444
+me,obzovica,Obzovica,00,,42.314444,18.935833
+me,obzovik,Obzovik,00,,42.668333,19.783889
+me,ocevici,Ocevici,00,,42.358333,19.006944
+me,ociba,Ociba,00,,42.818056,19.5
+me,ocinici,Ocinici,00,,42.354167,18.9175
+me,ocka gora,Ocka Gora,00,,42.781111,19.356389
+me,odoljen,Odoljen,00,,42.401389,18.755833
+me,odolje,Odolje,00,,42.991389,19.639444
+me,odrin,Odrin,00,,43.011667,19.788611
+me,odzaci,Odzaci,00,,42.722222,19.730556
+me,odzak,Odzak,00,,43.272222,19.351944
+me,odzica glavica,Odzica Glavica,00,,43.356944,18.911111
+me,odzi,Odzi,00,,42.364167,18.779722
+me,oglavina,Oglavina,00,,43.4675,19.129722
+me,ogorelovac,Ogorelovac,00,,43.118333,19.312778
+me,ogorelo zdrijelo,Ogorelo Zdrijelo,00,,42.728333,18.758611
+me,ogorjelo zdrijelo,Ogorjelo Zdrijelo,00,,42.728333,18.758611
+me,ogradenica,Ogradenica,00,,43.25,19.088056
+me,ograde,Ograde,00,,43.122222,19.743889
+me,ogradjenica,Ogradjenica,00,,43.25,19.088056
+me,oklade,Oklade,00,,43.048611,19.695556
+me,okladi modri-do,Okladi Modri-Do,00,,43.048611,19.695556
+me,okladi,Okladi,00,,43.048611,19.695556
+me,okolista,Okolista,00,,42.602778,18.7375
+me,okruglica,Okruglica,00,,43.026389,19.266111
+me,oluja,Oluja,00,,43.098056,19.778611
+me,oluje,Oluje,00,,43.098056,19.778611
+me,omaric,Omaric,00,,43.176111,19.171944
+me,omar,Omar,00,,43.201111,19.161389
+me,omedak,Omedak,00,,43.428889,19.256389
+me,omerbozevici,Omerbozevici,00,,42.421667,19.318056
+me,omer-bozovici,Omer-Bozovici,00,,42.421667,19.318056
+me,omerovici,Omerovici,00,,43.423611,19.031111
+me,opacac,Opacac,00,,42.253611,19.025556
+me,opaljenik,Opaljenik,00,,43.364167,19.306389
+me,opasanica,Opasanica,00,,42.680556,19.541389
+me,opasaonica,Opasaonica,00,,42.680556,19.541389
+me,opatovo,Opatovo,00,,42.456667,18.6825
+me,opcine,Opcine,00,,43.044167,19.136389
+me,optocici,Optocici,00,,42.256389,18.988056
+me,orabovac,Orabovac,00,,42.492778,18.76
+me,oracine,Oracine,00,,42.756111,18.83
+me,orah,Orah,00,,42.582778,19.410556
+me,orahovac,Orahovac,00,,42.490556,18.757778
+me,orahova,Orahova,00,,42.490556,18.757778
+me,orahovica,Orahovica,00,,43.113056,19.75
+me,orahovo,Orahovo,00,,42.243611,19.064444
+me,oraovica,Oraovica,00,,42.455278,19.123333
+me,oraovice,Oraovice,00,,42.455278,19.123333
+me,orasac,Orasac,00,,43.103889,19.365556
+me,orasani,Orasani,00,,42.431111,18.986111
+me,orasi,Orasi,00,,42.458056,19.022778
+me,orasje,Orasje,00,,42.456389,18.7025
+me,oras mala,Oras Mala,00,,42.670556,19.881389
+me,orevine,Orevine,00,,43.426389,19.204722
+me,orja luka,Orja Luka,00,,42.565,19.077222
+me,orja,Orja,00,,42.565,19.077222
+me,orlina,Orlina,00,,42.745,18.865833
+me,orlja,Orlja,00,,43.385833,19.195556
+me,ormus rmuse,Ormus Rmuse,00,,42.745556,19.936944
+me,ornica,Ornica,00,,42.964444,19.7325
+me,ornice,Ornice,00,,42.814167,18.937778
+me,orovac,Orovac,00,,42.841111,19.354722
+me,orovi do,Orovi Do,00,,42.643611,18.746667
+me,orpovac,Orpovac,00,,42.543889,18.769167
+me,orucevac,Orucevac,00,,43.361389,19.378333
+me,oselina,Oselina,00,,42.540278,19.074444
+me,osjecenica,Osjecenica,00,,42.697222,18.631389
+me,osmanbegovo selo,Osmanbegovo Selo,00,,43.042222,19.956667
+me,osoja,Osoja,00,,42.747778,19.637778
+me,osoje,Osoje,00,,43.101389,19.520556
+me,osojnik,Osojnik,00,,42.5775,19.158889
+me,osojni orah,Osojni Orah,00,,43.145,18.74
+me,osreci,Osreci,00,,42.791111,19.379167
+me,osredci,Osredci,00,,42.791111,19.379167
+me,osredina,Osredina,00,,42.529722,19.219444
+me,ostreli,Ostreli,00,,42.9725,19.741667
+me,ostrelj,Ostrelj,00,,42.9725,19.741667
+me,ostros,Ostros,00,,42.077222,19.318333
+me,ostruznje,Ostruznje,00,,42.802778,19.375556
+me,ote,Ote,00,,42.865556,19.521944
+me,otilovici,Otilovici,00,,43.320833,19.413611
+me,otocici,Otocici,00,,42.256389,18.988056
+me,otrockovina,Otrockovina,00,,42.764722,19.446111
+me,ovcarevo,Ovcarevo,00,,43.411111,19.285833
+me,ovcarica,Ovcarica,00,,42.986389,18.692778
+me,ovci do,Ovci Do,00,,42.706944,18.771944
+me,ovcji do,Ovcji Do,00,,42.706944,18.771944
+me,ovna,Ovna,00,,42.879167,20.319722
+me,ovsine,Ovsine,00,,42.566389,18.612222
+me,ovtocici,Ovtocici,00,,42.256389,18.988056
+me,ozebli do,Ozebli Do,00,,42.623056,18.778889
+me,ozegovica,Ozegovica,00,,42.560833,18.897222
+me,ozegovice,Ozegovice,00,,42.560833,18.897222
+me,ozezi,Ozezi,00,,42.538333,19.269167
+me,ozrimici,Ozrimici,00,,42.756389,18.986389
+me,ozrinici,Ozrinici,00,,42.756389,18.986389
+me,pacarade,Pacarade,00,,42.3175,18.953889
+me,pacaradi,Pacaradi,00,,42.3175,18.953889
+me,packov do,Packov Do,00,,42.458889,18.827778
+me,padez,Padez,00,,42.789167,19.551944
+me,padine,Padine,00,,42.578056,18.888889
+me,padi,Padi,00,,42.483611,19.060278
+me,pajkov vir,Pajkov Vir,00,,42.728611,19.516111
+me,pakalj-do,Pakalj-Do,00,,42.638889,18.59
+me,paklesica,Paklesica,00,,42.731944,19.405278
+me,pakljesica,Pakljesica,00,,42.731944,19.405278
+me,pale,Pale,00,,43,19.664722
+me,paleza,Paleza,00,,42.858611,19.791111
+me,palez,Palez,00,,42.764167,19.119444
+me,palic,Palic,00,,42.414722,19.145556
+me,pali,Pali,00,,43,19.664722
+me,paljevine,Paljevine,00,,42.831667,19.621667
+me,paljkovac,Paljkovac,00,,43.101389,19.520556
+me,paljuh,Paljuh,00,,42.910556,19.931389
+me,palocak,Palocak,00,,42.953333,19.854444
+me,palska luka,Palska Luka,00,,43.005278,19.666667
+me,palucak,Palucak,00,,42.953333,19.854444
+me,pandurica,Pandurica,00,,43.153056,19.398333
+me,panjevi,Panjevi,00,,43.481389,19.196944
+me,pantovici,Pantovici,00,,43.353611,19.249722
+me,paocina,Paocina,00,,42.936389,20.146111
+me,papani,Papani,00,,42.155,19.041944
+me,papanj,Papanj,00,,42.155,19.041944
+me,pape,Pape,00,,43.048056,19.659444
+me,papovina,Papovina,00,,43.042222,18.667222
+me,papratine,Papratine,00,,43.006111,19.683056
+me,paprati,Paprati,00,,42.690278,18.960556
+me,papratiste,Papratiste,00,,43.351944,18.866389
+me,papratnica,Papratnica,00,,42.420278,19.153056
+me,papratni do,Papratni Do,00,,42.552222,18.886111
+me,paprat,Paprat,00,,42.479167,18.820556
+me,parapidi,Parapidi,00,,42.3275,18.741389
+me,parazlame,Parazlame,00,,43.186667,19.6275
+me,parci,Parci,00,,42.401389,19.090556
+me,pareski do,Pareski Do,00,,42.736667,18.5075
+me,pasica polje,Pasica Polje,00,,42.98,19.811944
+me,pasina voda,Pasina Voda,00,,43.101667,19.117778
+me,pasino polje,Pasino Polje,00,,43.068889,19.256667
+me,pasji nugao,Pasji Nugao,00,,43.095833,19.202222
+me,paskala,Paskala,00,,42.372778,19.362778
+me,patnji,Patnji,00,,42.489167,19.052778
+me,pauce,Pauce,00,,43.318889,19.285
+me,paucina,Paucina,00,,42.936389,20.146111
+me,pauice,Pauice,00,,43.318889,19.285
+me,pavino polje,Pavino Polje,00,,43.1375,19.628611
+me,pavlicici,Pavlicici,00,,42.536944,19.358333
+me,pavlov do,Pavlov Do,00,,42.664722,18.679722
+me,pavlovici,Pavlovici,00,,42.353056,18.741111
+me,pavlovic,Pavlovic,00,,42.514167,18.626389
+me,pavlovina,Pavlovina,00,,43.166389,19.588889
+me,pazici,Pazici,00,,42.558333,19.105278
+me,pcinjaj,Pcinjaj,00,,42.804167,19.484167
+me,pcinja,Pcinja,00,,42.804167,19.484167
+me,peani,Peani,00,,42.4325,18.709167
+me,pecarska,Pecarska,00,,43.101667,19.822778
+me,pecurica,Pecurica,00,,42.030278,19.173056
+me,pecurice,Pecurice,00,,42.030278,19.173056
+me,pecurici,Pecurici,00,,42.030278,19.173056
+me,pejakovici,Pejakovici,00,,42.356667,18.937222
+me,pejovici,Pejovici,00,,42.521944,18.870278
+me,pelesi,Pelesi,00,,42.401667,19.048056
+me,pelev brijeg,Pelev Brijeg,00,,42.582222,19.396111
+me,pelinkovici,Pelinkovici,00,,42.005556,19.235
+me,pelinovo,Pelinovo,00,,42.361944,18.773056
+me,peovac,Peovac,00,,42.734444,19.770833
+me,pepice,Pepice,00,,42.653056,19.906111
+me,pepici,Pepici,00,,42.653056,19.906111
+me,perasevici,Perasevici,00,,42.079722,19.316111
+me,perasto,Perasto,00,,42.486944,18.699167
+me,perast,Perast,00,,42.486944,18.699167
+me,perazica do,Perazica Do,00,,42.212778,18.926944
+me,pernica,Pernica,00,,42.718333,19.370833
+me,peroci,Peroci,00,,42.1575,19.018611
+me,perotin,Perotin,00,,43.186667,19.480833
+me,perovica do,Perovica Do,00,,42.708056,18.754722
+me,perovici,Perovici,00,,42.086111,19.361111
+me,perunicici,Perunicici,00,,43.148611,19.455
+me,perzagno,Perzagno,00,,42.4575,18.742222
+me,pesca,Pesca,00,,42.828889,19.864722
+me,pesica luka,Pesica Luka,00,,42.752222,19.543889
+me,peskovici,Peskovici,00,,42.800278,20.158611
+me,pestorici,Pestorici,00,,42.462222,18.594167
+me,petijevici,Petijevici,00,,42.514722,18.489167
+me,petine,Petine,00,,43.418889,19.057222
+me,petinici,Petinici,00,,43.413611,19.215833
+me,petkovici,Petkovici,00,,42.658889,18.635833
+me,petkovic,Petkovic,00,,42.800278,20.158611
+me,petnica,Petnica,00,,42.908889,19.964444
+me,petnik,Petnik,00,,42.833056,19.904722
+me,petnjica,Petnjica,00,,42.908889,19.964444
+me,petnjik,Petnjik,00,,42.833056,19.904722
+me,petolik,Petolik,00,,43.010278,19.6375
+me,petrici,Petrici,00,,42.623889,19.060278
+me,petrovac na moru,Petrovac na Moru,00,,42.205556,18.9425
+me,petrovac,Petrovac,00,,42.205556,18.9425
+me,petrova ljut,Petrova Ljut,00,,42.423889,18.808889
+me,petrova ravan,Petrova Ravan,00,,42.729167,19.416389
+me,petrov do,Petrov Do,00,,42.431389,18.891667
+me,petrovica do,Petrovica Do,00,,42.708056,18.754722
+me,petrovici,Petrovici,00,,42.368611,19.011944
+me,petrovic,Petrovic,00,,42.742222,18.516111
+me,petrovo polje,Petrovo Polje,00,,42.770278,19.060833
+me,peuta,Peuta,00,,42.46,19.325278
+me,pfic,Pfic,00,,42.645278,19.436944
+me,pijeva,Pijeva,00,,43.108611,19.756944
+me,pikale,Pikale,00,,42.404722,19.378611
+me,pikalja,Pikalja,00,,42.404722,19.378611
+me,pikalji,Pikalji,00,,42.404722,19.378611
+me,pikalj,Pikalj,00,,42.404722,19.378611
+me,pilatovci,Pilatovci,00,,42.855556,18.491111
+me,pilote,Pilote,00,,42.733333,19.475556
+me,pincici,Pincici,00,,42.140556,19.194722
+me,pipac,Pipac,00,,42.363611,19.108056
+me,piperi,Piperi,00,,42.385,19.064722
+me,pipoljevac,Pipoljevac,00,,42.391111,18.770278
+me,pirni do,Pirni Do,00,,43.134167,18.916389
+me,pisana jela,Pisana Jela,00,,43.088056,19.549722
+me,pisanje,Pisanje,00,,42.971111,19.813056
+me,pisce,Pisce,00,,43.156667,18.905833
+me,piskav do,Piskav Do,00,,42.564167,19.280556
+me,pistala,Pistala,00,,42.571944,18.835278
+me,pisteta,Pisteta,00,,42.895,18.909444
+me,pisteti,Pisteti,00,,42.562222,18.743056
+me,pistet,Pistet,00,,42.562222,18.743056
+me,pistula,Pistula,00,,41.950278,19.254167
+me,pitoma loza,Pitoma Loza,00,,42.508611,19.153611
+me,pitome doline,Pitome Doline,00,,42.496667,18.896111
+me,pitomine,Pitomine,00,,43.161111,19.106667
+me,pizure,Pizure,00,,43.436111,19.201389
+me,pizuri,Pizuri,00,,43.436111,19.201389
+me,pjasci,Pjasci,00,,43.232222,19.526667
+me,pjescanica,Pjescanica,00,,42.7875,19.524444
+me,pjevceva glava,Pjevceva Glava,00,,43.49,19.220278
+me,plagente,Plagente,00,,42.437222,18.766944
+me,plakala,Plakala,00,,43.456667,19.088056
+me,plakali,Plakali,00,,43.456667,19.088056
+me,plana,Plana,00,,42.501389,19.138333
+me,planinica,Planinica,00,,42.773056,19.564167
+me,plani,Plani,00,,43.044167,19.786944
+me,plansko,Plansko,00,,43.523611,18.995833
+me,plasa,Plasa,00,,42.707222,19.848889
+me,plasnica,Plasnica,00,,42.863333,19.4825
+me,plate,Plate,00,,42.5175,18.824722
+me,plave,Plavë,00,,42.596944,19.945556
+me,plav,Plav,00,,42.596944,19.945556
+me,plece,Plece,00,,42.966111,18.593056
+me,plevlja,Plevlja,00,,43.352222,19.354167
+me,plevlje,Plevlje,00,,43.352222,19.354167
+me,plijesevina,Plijesevina,00,,43.345556,19.210278
+me,plijesi,Plijesi,00,,43.476667,19.211389
+me,plijes,Plijes,00,,43.476667,19.211389
+me,plijevor,Plijevor,00,,42.373333,18.971111
+me,plitki do,Plitki Do,00,,42.722222,18.796111
+me,pljeva,Pljeva,00,,43.108611,19.756944
+me,pljevlja,Pljevlja,00,26266,43.352222,19.354167
+me,pljevlje,Pljevlje,00,,43.352222,19.354167
+me,ploca,Ploca,00,,42.322778,19.088611
+me,ploce,Ploce,00,,42.515556,18.634167
+me,plumci,Plumci,00,,42.8375,20.193611
+me,plunci,Plunci,00,,42.8375,20.193611
+me,pluzevina,Pluzevina,00,,43.3775,19.101944
+me,pluzine,Pluzine,00,,43.152778,18.839444
+me,poblace,Poblace,00,,43.510556,19.202778
+me,pobori,Pobori,00,,42.326389,18.829167
+me,pobor,Pobor,00,,42.330278,18.795278
+me,pobratici,Pobratici,00,,43.062778,19.835833
+me,pobrde,Pobrde,00,,42.356389,18.736389
+me,pobretice,Pobretice,00,,43.062778,19.835833
+me,pobretici,Pobretici,00,,43.062778,19.835833
+me,pobrezje,Pobrezje,00,,42.425556,19.251667
+me,pobrgje,Pobrgje,00,,42.356389,18.736389
+me,pobrjge,Pobrjge,00,,42.356389,18.736389
+me,pobrnjica,Pobrnjica,00,,42.98,19.725278
+me,pobro,Pobro,00,,42.356389,18.736389
+me,pocana,Pocana,00,,42.774722,18.741111
+me,pocekovici,Pocekovici,00,,42.801667,18.505833
+me,pocic,Pocic,00,,42.505,19.3275
+me,pocijevka,Pocijevka,00,,42.553889,19.139722
+me,pocivala,Pocivala,00,,42.830833,18.644167
+me,pocivalo,Pocivalo,00,,42.583889,18.799722
+me,podaluga,Podaluga,00,,42.925833,18.539444
+me,poda,Poda,00,,42.363611,18.81
+me,podazdrijelo,Podazdrijelo,00,,42.545,18.78
+me,podbabac,Podbabac,00,,42.278611,18.892222
+me,podbisce,Podbisce,00,,42.944722,19.573611
+me,podborova,Podborova,00,,43.192222,19.453889
+me,podborovo,Podborovo,00,,43.192222,19.453889
+me,podbozur,Podbozur,00,,42.737222,18.688056
+me,podbrde,Podbrde,00,,43.317222,19.336389
+me,podbreze,Podbreze,00,,43.121667,19.777778
+me,podbrezje,Podbrezje,00,,43.121667,19.777778
+me,podbrezovici,Podbrezovici,00,,43.004444,19.543333
+me,podbukovica,Podbukovica,00,,42.613889,18.728889
+me,podcabar,Podcabar,00,,43.408889,19.2125
+me,pod-daznik,Pod-Daznik,00,,42.831111,19.070556
+me,pode,Pode,00,,42.649444,18.777222
+me,podgaj,Podgaj,00,,43.119722,19.2925
+me,podglavica,Podglavica,00,,42.524167,19.175833
+me,podgora,Podgora,00,,43.198611,19.154167
+me,podgorica,Podgorica,00,156988,42.441111,19.263611
+me,podgor,Podgor,00,,42.260278,18.978889
+me,podgostec,Podgostec,00,,43.365556,19.294444
+me,podgrade,Podgrade,00,,42.919167,19.868056
+me,podgradina,Podgradina,00,,42.94,18.608889
+me,podgradje,Podgradje,00,,42.919167,19.868056
+me,podgrad,Podgrad,00,,42.481667,19.446111
+me,podgrede,Podgrede,00,,42.811667,18.78
+me,podgrezje,Podgrezje,00,,43.103611,19.266111
+me,podgrizde,Podgrizde,00,,43.103611,19.266111
+me,pod han,Pod Han,00,,42.592778,18.675556
+me,podhum,Podhum,00,,42.308333,19.340833
+me,podina,Podina,00,,43.156111,19.306111
+me,podine,Podine,00,,42.696944,19.391944
+me,podi,Podi,00,,42.066667,19.155833
+me,podjelje,Podjelje,00,,42.916667,18.807222
+me,podkamen,Podkamen,00,,43.485278,19.069444
+me,podkita,Podkita,00,,42.788056,18.806667
+me,podkokot,Podkokot,00,,43.288611,19.105278
+me,podkovacica,Podkovacica,00,,43.428333,19.270278
+me,podkovac,Podkovac,00,,43.463611,19.108056
+me,podkrajci,Podkrajci,00,,43.224444,19.438611
+me,podkrajnica,Podkrajnica,00,,42.451667,19.303611
+me,podkraj,Podkraj,00,,42.2525,19.07
+me,podkrs,Podkrs,00,,43.414167,19.209167
+me,podkrusa,Podkrusa,00,,43.335556,19.289444
+me,podkukanj,Podkukanj,00,,43.361944,19.239444
+me,podkula,Podkula,00,,42.570556,19.143611
+me,podkupic,Podkupic,00,,42.676944,18.957778
+me,podkurjaj,Podkurjaj,00,,42.658611,18.646944
+me,podlastva,Podlastva,00,,42.305833,18.805556
+me,podlazina,Podlazina,00,,42.659722,18.626944
+me,podlicak,Podlicak,00,,42.27,18.898611
+me,podlisac,Podlisac,00,,42.682778,18.802778
+me,podlisa,Podlisa,00,,43.122222,19.683611
+me,podlitica,Podlitica,00,,43.322222,19.421389
+me,podljut,Podljut,00,,42.826389,18.610833
+me,podlunjica,Podlunjica,00,,42.475556,18.923611
+me,podmaine,Podmaine,00,,42.296944,18.842222
+me,pod miljevica,Pod Miljevica,00,,42.971944,19.530278
+me,pod milogora,Pod Milogora,00,,43.209722,18.955556
+me,pod milojevica,Pod Milojevica,00,,42.971944,19.530278
+me,podnovlje,Podnovlje,00,,43.275833,19.463056
+me,podosmin,Podosmin,00,,42.3025,18.998056
+me,podosoje,Podosoje,00,,43.320556,18.889167
+me,podosoj,Podosoj,00,,43.387778,19.247778
+me,podostrog,Podostrog,00,,42.302778,18.839167
+me,podovi,Podovi,00,,43.026111,19.613611
+me,podpece,Podpece,00,,43.26,19.358889
+me,podpec,Podpec,00,,43.26,19.358889
+me,pod,Pod,00,,42.791944,19.279722
+me,podrid,Podrid,00,,43.425833,19.164167
+me,podrogatac,Podrogatac,00,,43.317778,19.311111
+me,podrudine,Podrudine,00,,43.3975,19.241389
+me,pod ruzaricom,Pod Ruzaricom,00,,42.950278,18.498889
+me,podsoko,Podsoko,00,,42.419722,19.012222
+me,podstrana,Podstrana,00,,42.406111,19.155833
+me,podtrlica,Podtrlica,00,,43.344444,19.369722
+me,podvlah,Podvlah,00,,43.045833,19.810833
+me,podvoda,Podvoda,00,,43.238056,18.875
+me,podvrace,Podvrace,00,,42.634722,19.070833
+me,podvrat,Podvrat,00,,42.19,19.193889
+me,podvrsnik,Podvrsnik,00,,42.622222,18.676944
+me,podvrs,Podvrs,00,,42.818056,18.517222
+me,podzdrijelo,Podzdrijelo,00,,42.545,18.78
+me,pogana,Pogana,00,,42.774722,18.741111
+me,pokraj,Pokraj,00,,42.573889,19.136944
+me,poljana,Poljana,00,,42.359444,18.896111
+me,poljane,Poljane,00,,42.730556,18.641111
+me,polje crkvicko,Polje Crkvicko,00,,43.322222,18.895833
+me,polje,Polje,00,,42.082778,19.106667
+me,polje radovica,Polje Radovica,00,,42.928056,19.117778
+me,poljica,Poljica,00,,42.56,19.282222
+me,poljice,Poljice,00,,42.524444,18.681944
+me,poljkovac,Poljkovac,00,,42.595556,18.6675
+me,pomenici,Pomenici,00,,43.473611,19.134444
+me,pometenik,Pometenik,00,,42.798056,18.7625
+me,ponari,Ponari,00,,42.316667,19.1825
+me,ponikvica,Ponikvica,00,,42.745278,18.823611
+me,ponikvice,Ponikvice,00,,42.745278,18.823611
+me,ponori,Ponori,00,,42.589722,18.795833
+me,ponorni do,Ponorni Do,00,,42.69,18.74
+me,ponor,Ponor,00,,42.316667,19.1825
+me,popov do,Popov Do,00,,42.168611,19.059167
+me,popovici,Popovici,00,,42.078056,19.338333
+me,popratnica,Popratnica,00,,42.268333,19.048611
+me,popratnice,Popratnice,00,,42.268333,19.048611
+me,poprat,Poprat,00,,42.455556,19.511944
+me,porkulov do,Porkulov Do,00,,42.563611,18.911389
+me,porobici,Porobici,00,,42.491389,18.4975
+me,poroca,Poroca,00,,42.921944,20.024722
+me,poroce,Poroce,00,,42.921944,20.024722
+me,poros,Poros,00,,43.404722,19.1425
+me,posajci,Posajci,00,,42.410833,18.982222
+me,poscenje,Poscenje,00,,42.974444,19.065833
+me,poscenski kraj,Poscenski Kraj,00,,43.108056,19.108889
+me,poseljani,Poseljani,00,,42.308333,19.051944
+me,posleniste,Posleniste,00,,43.094167,19.105556
+me,potesi,Potesi,00,,42.780278,19.412222
+me,pothum,Pothum,00,,42.308333,19.340833
+me,potkamen,Potkamen,00,,43.485278,19.069444
+me,potkita,Potkita,00,,42.788056,18.806667
+me,potkokot,Potkokot,00,,43.288611,19.105278
+me,potkovacica,Potkovacica,00,,43.428333,19.270278
+me,potkovac,Potkovac,00,,43.463611,19.108056
+me,potkrajce,Potkrajce,00,,43.070556,19.774722
+me,potkrajci,Potkrajci,00,,43.070556,19.774722
+me,potkrajnica,Potkrajnica,00,,42.451667,19.303611
+me,potkraj,Potkraj,00,,42.573889,19.136944
+me,potkras,Potkras,00,,43.331944,19.408056
+me,potkrs,Potkrs,00,,42.545556,19.372222
+me,potkrusa,Potkrusa,00,,43.335556,19.289444
+me,potkula,Potkula,00,,42.570556,19.143611
+me,potocilo,Potocilo,00,,42.651667,19.029444
+me,potocine,Potocine,00,,42.526111,18.915556
+me,potoci,Potoci,00,,42.535,19.334444
+me,potok,Potok,00,,43.015,19.516944
+me,potpal,Potpal,00,,43.483056,19.045
+me,potpece,Potpece,00,,42.506944,19.286111
+me,potrk,Potrk,00,,42.531111,19.433333
+me,potrkusa,Potrkusa,00,,43.335556,19.289444
+me,potrlica,Potrlica,00,,43.344444,19.369722
+me,potrlice,Potrlice,00,,43.344444,19.369722
+me,potrljica,Potrljica,00,,43.344444,19.369722
+me,povijevo,Povijevo,00,,43.433611,19.157778
+me,povrhpoljina,Povrhpoljina,00,,42.504167,19.076944
+me,povrse,Povrse,00,,42.703333,19.763889
+me,pozar,Pozar,00,,42.6525,19.023056
+me,pozduj,Pozduj,00,,42.398889,18.898333
+me,pozeginja,Pozeginja,00,,43.102222,19.871389
+me,pozeginje,Pozeginje,00,,43.102222,19.871389
+me,poznanovici,Poznanovici,00,,43.050556,19.645
+me,poznja,Poznja,00,,42.830278,19.326389
+me,pracevac,Pracevac,00,,42.850833,19.787778
+me,pracica,Pracica,00,,43.404167,19.109167
+me,praga,Praga,00,,42.880833,19.023056
+me,prcanj,Prcanj,00,,42.4575,18.742222
+me,predi,Predi,00,,42.517222,18.886944
+me,predis,Predis,00,,42.517222,18.886944
+me,predojevica,Predojevica,00,,42.439722,18.991667
+me,prehari,Prehari,00,,43.469722,19.084444
+me,prekornica,Prekornica,00,,42.303333,18.958056
+me,prelevici,Prelevici,00,,42.488611,19.398333
+me,premcani,Premcani,00,,43.120278,19.371389
+me,premici,Premici,00,,42.441389,19.363889
+me,premilici,Premilici,00,,42.865833,18.956667
+me,prencani,Prencani,00,,43.120278,19.371389
+me,prenkaj,Prenkaj,00,,42.341667,19.373611
+me,prentin do,Prentin Do,00,,42.602222,18.826389
+me,prentovici,Prentovici,00,,42.308056,18.896111
+me,presecenik,Presecenik,00,,43.085278,19.820833
+me,preseka,Preseka,00,,42.468611,18.5725
+me,presjeka,Presjeka,00,,42.468611,18.5725
+me,presmenice,Presmenice,00,,43.416667,19.221667
+me,prestreke,Prestreke,00,,43.081944,19.772778
+me,pretrzeni do,Pretrzeni Do,00,,42.925,18.640278
+me,previna,Previna,00,,42.77,19.337778
+me,previs,Previs,00,,42.978611,19.094444
+me,prevlaka,Prevlaka,00,,42.335278,19.098611
+me,pribakovici,Pribakovici,00,,43.441944,19.151389
+me,pribilovice,Pribilovice,00,,42.966111,19.697222
+me,pribojevici,Pribojevici,00,,42.403333,19.109444
+me,priboj,Priboj,00,,42.471667,19.281389
+me,pribranci,Pribranci,00,,43.101667,19.274167
+me,pricelje,Pricelje,00,,42.505,19.222778
+me,pridvorica,Pridvorica,00,,42.964722,19.064444
+me,prifta,Prifta,00,,42.401944,19.390556
+me,prifti,Prifti,00,,42.401944,19.390556
+me,prigradina,Prigradina,00,,42.8225,18.650278
+me,prijeki do,Prijeki Do,00,,42.555278,18.920278
+me,prijeko pocivalo,Prijeko Pocivalo,00,,42.583889,18.799722
+me,prijelozi,Prijelozi,00,,42.952778,19.791111
+me,prijeradi,Prijeradi,00,,42.355,18.782778
+me,prijespa,Prijespa,00,,42.728056,18.964444
+me,prijestrelj,Prijestrelj,00,,43.049167,19.735833
+me,prijevorac,Prijevorac,00,,42.203333,18.956111
+me,prijevori,Prijevori,00,,42.753889,19.023889
+me,prijevor,Prijevor,00,,42.203333,18.956111
+me,priloge,Priloge,00,,42.952778,19.791111
+me,primet,Primet,00,,43.2925,19.228889
+me,priostrelj,Priostrelj,00,,43.049167,19.735833
+me,pripcice,Pripcice,00,,43.005556,19.738611
+me,pripcici,Pripcici,00,,42.996389,19.751944
+me,pripec,Pripec,00,,42.898333,20.299722
+me,priporci,Priporci,00,,42.6825,18.728611
+me,pripor,Pripor,00,,42.524167,18.823333
+me,prisiklinac,Prisiklinac,00,,42.988333,19.411389
+me,prisojak,Prisojak,00,,42.768333,19.381111
+me,prisoja,Prisoja,00,,42.5375,18.938611
+me,prisoje,Prisoje,00,,42.678889,19.41
+me,prisoji,Prisoji,00,,43.521667,19.170556
+me,prisojni orah,Prisojni Orah,00,,43.145,18.74
+me,pristan,Pristan,00,,42.229722,19.148056
+me,prnjavor,Prnjavor,00,,42.598056,19.950556
+me,progonovici,Progonovici,00,,42.430833,19.068889
+me,prokaplje,Prokaplje,00,,42.486111,19.094722
+me,proplanci,Proplanci,00,,42.844722,18.945
+me,proscenje,Proscenje,00,,43.008889,19.489444
+me,prosce,Prosce,00,,43.443333,19.092778
+me,proseni do,Proseni Do,00,,42.53,18.854444
+me,prosica,Prosica,00,,42.557222,19.585833
+me,provalija,Provalija,00,,43.064167,19.113611
+me,provalije,Provalije,00,,43.064167,19.113611
+me,przice,Przice,00,,42.396667,18.755
+me,przista,Przista,00,,42.946667,19.6075
+me,przno,Przno,00,,42.2675,18.893333
+me,pseniciste,Pseniciste,00,,43.059444,18.669444
+me,ptic,Ptic,00,,42.645278,19.436944
+me,ptikalj,Ptikalj,00,,42.52,19.456111
+me,pusanjski do,Pusanjski Do,00,,43.163611,19.33
+me,pusina,Pusina,00,,42.984722,19.079444
+me,pusonjski do,Pusonjski Do,00,,43.163611,19.33
+me,pustala,Pustala,00,,42.931944,19.217778
+me,puzici,Puzici,00,,43.461111,19.106111
+me,rabiklje,Rabiklje,00,,43.305,19.3825
+me,rabitlje,Rabitlje,00,,43.305,19.3825
+me,rabri,Rabri,00,,42.422222,19.3675
+me,race,Race,00,,42.517222,19.377778
+me,racesi,Racesi,00,,42.517222,19.377778
+me,racevo,Racevo,00,,43.218333,19.562778
+me,raci,Raci,00,,42.517222,19.377778
+me,radanovici,Radanovici,00,,42.358611,18.760278
+me,radanovic,Radanovic,00,,42.358611,18.760278
+me,radan,Radan,00,,42.454167,19.386944
+me,radeca,Radeca,00,,42.517778,19.280278
+me,radeta,Radeta,00,,43.389444,19.265
+me,radetina,Radetina,00,,42.893056,20.2575
+me,radevici,Radevici,00,,42.681944,19.955833
+me,radevo,Radevo,00,,42.841111,19.021111
+me,radigojna,Radigojna,00,,42.843056,19.533333
+me,radigojno,Radigojno,00,,42.843056,19.533333
+me,radijelja,Radijelja,00,,43.098889,19.800278
+me,radimiri,Radimiri,00,,42.458333,18.766111
+me,radin do,Radin Do,00,,42.628889,18.709444
+me,radmance,Radmance,00,,42.926944,19.9675
+me,radmanci,Radmanci,00,,42.926944,19.9675
+me,radmuzevici,Radmuzevici,00,,42.75,19.913056
+me,radojeva glava,Radojeva Glava,00,,43.077778,19.843889
+me,radojevici,Radojevici,00,,42.822222,18.618889
+me,radomir,Radomir,00,,42.271111,19.014444
+me,radosavac,Radosavac,00,,43.348611,19.328333
+me,radovac,Radovac,00,,42.46,19.416111
+me,radovanici,Radovanici,00,,42.396944,18.599722
+me,radov do,Radov Do,00,,43.400278,19.246389
+me,radovica polje,Radovica Polje,00,,42.928056,19.117778
+me,radovici,Radovici,00,,42.396389,18.670833
+me,radovic,Radovic,00,,42.396389,18.670833
+me,radulici,Radulici,00,,42.982778,19.886944
+me,radulic,Radulic,00,,42.982778,19.886944
+me,radunovici,Radunovici,00,,42.57,19.346667
+me,radus,Radus,00,,42.225,19.159167
+me,rafailovici,Rafailovici,00,,42.281111,18.881389
+me,rafajlovici,Rafajlovici,00,,42.281111,18.881389
+me,raganice,Raganice,00,,43.275556,19.475556
+me,raicevici,Raicevici,00,,42.428333,18.826944
+me,raicevine,Raicevine,00,,42.743889,19.410278
+me,rajcevici,Rajcevici,00,,43.112778,19.7275
+me,rajicev do,Rajicev Do,00,,42.590556,19.117778
+me,rajicevici,Rajicevici,00,,42.428333,18.826944
+me,rajisici,Rajisici,00,,43.495556,19.110556
+me,rajkovici,Rajkovici,00,,43.130556,19.643889
+me,rajovici,Rajovici,00,,42.4925,19.403333
+me,rajsici,Rajsici,00,,43.495556,19.110556
+me,rake,Rake,00,,42.450833,18.65
+me,rakica kuce,Rakica Kuce,00,,42.387778,19.283333
+me,rakici,Rakici,00,,42.387778,19.283333
+me,rakita,Rakita,00,,42.869722,18.874444
+me,raklja,Raklja,00,,42.434722,19.079722
+me,rakoljska,Rakoljska,00,,43.118333,19.663333
+me,rakonje,Rakonje,00,,43.021667,19.738889
+me,rakonjska,Rakonjska,00,,43.118333,19.663333
+me,rakovac,Rakovac,00,,42.774167,19.795
+me,ralja,Ralja,00,,42.294167,19.083889
+me,raljevci,Raljevci,00,,42.969444,19.6825
+me,ramadica do,Ramadica Do,00,,42.708611,18.642222
+me,ramovica aluga,Ramovica Aluga,00,,42.7225,18.755278
+me,ramovica do,Ramovica Do,00,,42.7225,18.755278
+me,ramovici,Ramovici,00,,42.870556,20.138889
+me,ramovo zdrijelo,Ramovo Zdrijelo,00,,43.116111,19.204444
+me,rance,Rance,00,,43.3375,19.467222
+me,raonici,Raonici,00,,43.147222,19.219444
+me,raoslovici,Raoslovici,00,,42.600556,19.376944
+me,raovici,Raovici,00,,43.392222,19.214444
+me,raovic,Raovic,00,,43.392222,19.214444
+me,rap,Rap,00,,42.079444,19.128889
+me,rasadnik,Rasadnik,00,,43.429722,19.266667
+me,rascevici,Rascevici,00,,43.206111,19.481389
+me,rascici,Rascici,00,,43.472222,19.049722
+me,rasena,Rasena,00,,42.5,19.156111
+me,rasici,Rasici,00,,43.472222,19.049722
+me,rasinovici,Rasinovici,00,,43.264444,19.333611
+me,raska,Raska,00,,42.825833,19.39
+me,rasko,Rasko,00,,42.825833,19.39
+me,raskov do,Raskov Do,00,,42.757778,18.692778
+me,raskovo guvno,Raskovo Guvno,00,,42.6525,19.507778
+me,raskrsnica,Raskrsnica,00,,42.89,19.279444
+me,raslvici,Raslvici,00,,42.596111,19.368333
+me,rasno,Rasno,00,,43.255,19.387222
+me,rasnovic,Rasnovic,00,,43.269722,19.357222
+me,rasoje,Rasoje,00,,42.76,19.794722
+me,rasova,Rasova,00,,43.111944,19.554167
+me,rasovo,Rasovo,00,,43.060833,19.783611
+me,raspori,Raspori,00,,42.917778,19.858333
+me,raspuce,Raspuce,00,,42.773333,19.096944
+me,ras,Ras,00,,42.475556,19.296944
+me,rastica,Rastica,00,,42.812778,18.75
+me,rastisa,Rastisa,00,,42.038333,19.332778
+me,rastis,Rastis,00,,42.038333,19.332778
+me,rastoci,Rastoci,00,,42.785556,18.938889
+me,rastoka,Rastoka,00,,43.029167,19.775833
+me,rastok,Rastok,00,,43.029167,19.775833
+me,rastovac,Rastovac,00,,42.833056,18.931944
+me,rasulje,Rasulje,00,,43.107778,19.562778
+me,ratajica glavica,Ratajica Glavica,00,,42.849722,18.947778
+me,ratisevina,Ratisevina,00,,42.479444,18.505833
+me,ratkov do,Ratkov Do,00,,43.288056,19.463611
+me,ratkovici,Ratkovici,00,,42.481389,18.515833
+me,ravanj,Ravanj,00,,42.029444,19.1525
+me,ravan,Ravan,00,,42.029444,19.1525
+me,ravce polje,Ravce Polje,00,,42.990556,19.734444
+me,ravna gora,Ravna Gora,00,,43.102222,19.642778
+me,ravna rijeka,Ravna Rijeka,00,,42.988611,19.714444
+me,ravne smreke,Ravne Smreke,00,,43.406944,19.090833
+me,ravnica,Ravnica,00,,43.480556,18.985
+me,ravni krstac,Ravni Krstac,00,,42.998611,18.699167
+me,ravni laz,Ravni Laz,00,,42.5125,19.245833
+me,ravnine,Ravnine,00,,42.700556,19.425833
+me,ravni,Ravni,00,,42.771389,19.440278
+me,ravno,Ravno,00,,42.788333,19.379722
+me,razdolje,Razdolje,00,,42.7175,18.769167
+me,razdrt,Razdrt,00,,42.43,19.113889
+me,razici,Razici,00,,42.574444,19.105278
+me,razmuce,Razmuce,00,,42.695833,18.7125
+me,razrez,Razrez,00,,43.387778,19.065278
+me,razvrsje,Razvrsje,00,,43.145,19.114722
+me,rec,Rec,00,,41.921111,19.363611
+me,redice,Redice,00,,42.878889,19.298056
+me,redzica krlje,Redzica Krlje,00,,42.815833,20.124722
+me,releza,Releza,00,,42.431111,19.052222
+me,relezi,Relezi,00,,42.431111,19.052222
+me,relja,Relja,00,,42.294167,19.083889
+me,reljici,Reljici,00,,42.199722,19.055278
+me,reljino brdo,Reljino Brdo,00,,43.098333,19.34
+me,renovac,Renovac,00,,42.851667,18.615278
+me,repaji,Repaji,00,,42.469444,18.612222
+me,reparica,Reparica,00,,42.949722,20.206944
+me,repaza,Repaza,00,,42.145833,19.186389
+me,repicke aluge,Repicke Aluge,00,,42.698333,18.775278
+me,repiste,Repiste,00,,42.776111,19.931111
+me,repsa,Repsa,00,,42.145833,19.186389
+me,resna,Resna,00,,42.494444,18.878056
+me,resnik,Resnik,00,,43.041389,19.773889
+me,rezevici,Rezevici,00,,42.215278,18.924722
+me,ribjak,Ribjak,00,,42.651667,19.012222
+me,ribljak,Ribljak,00,,42.651667,19.012222
+me,ribnicka vrela,Ribnicka Vrela,00,,42.430556,19.293333
+me,ribnjak,Ribnjak,00,,42.2875,19.096944
+me,ridani,Ridani,00,,42.7675,18.892778
+me,rijecani,Rijecani,00,,42.340556,19.055278
+me,rijecki grad,Rijecki Grad,00,,42.354167,19.023333
+me,rijeka crnojevica,Rijeka Crnojevica,00,,42.356389,19.025278
+me,rijeka marsenica,Rijeka Marsenica,00,,42.782222,19.839167
+me,rijeka marsenici,Rijeka Marsenici,00,,42.782222,19.839167
+me,rijeka musovica,Rijeka Musovica,00,,42.839444,19.5775
+me,rijeka rezevici,Rijeka Rezevici,00,,42.223611,18.912778
+me,rijeka,Rijeka,00,,42.227222,18.91
+me,risano,Risano,00,,42.515,18.695556
+me,risan,Risan,00,,42.515,18.695556
+me,risji do,Risji Do,00,,42.7775,19.071944
+me,ristopolje,Ristopolje,00,,42.866111,18.503333
+me,ristovina,Ristovina,00,,43.274722,19.366111
+me,rmuse,Rmuse,00,,42.745556,19.936944
+me,rodijelja,Rodijelja,00,,43.098889,19.800278
+me,rogaci,Rogaci,00,,43.019167,18.523889
+me,rogami,Rogami,00,,42.392778,19.311944
+me,rogane,Rogane,00,,42.346667,19.113889
+me,roganica,Roganica,00,,43.275556,19.475556
+me,rogani,Rogani,00,,42.346667,19.113889
+me,rogovina,Rogovina,00,,43.394444,19.093333
+me,rojevici,Rojevici,00,,42.681111,18.628333
+me,rokici,Rokici,00,,42.680833,18.745
+me,rokoci,Rokoci,00,,42.680833,18.745
+me,rokocki do,Rokocki Do,00,,42.6525,18.751389
+me,role,Role,00,,42.348056,19.405
+me,romac,Romac,00,,43.446389,19.043333
+me,roncevici,Roncevici,00,,43.236944,19.1175
+me,rondovici,Rondovici,00,,43.365556,19.294444
+me,ropoc,Ropoc,00,,43.365,19.283611
+me,rosca,Rosca,00,,42.659722,19.011389
+me,rosenica,Rosenica,00,,42.443611,19.389444
+me,rose,Rose,00,,42.427222,18.556667
+me,rosno brdo,Rosno Brdo,00,,43.464167,19.165278
+me,rosulja,Rosulja,00,,43.064722,19.788056
+me,rosulje,Rosulje,00,,43.064722,19.788056
+me,rovacko trebaljevo,Rovacko Trebaljevo,00,,42.859444,19.535278
+me,rovanj,Rovanj,00,,42.622222,19.396389
+me,rova,Rova,00,,42.590278,19.100833
+me,rovcani,Rovcani,00,,43.3875,19.359722
+me,rovca,Rovca,00,,42.787778,19.889722
+me,rovce,Rovce,00,,42.787778,19.889722
+me,rovine,Rovine,00,,42.566389,18.844444
+me,rozaje,Rozaje,00,,42.843889,20.168333
+me,rozaj,Rozaj,00,,42.843889,20.168333
+me,roza,Roza,00,,42.843889,20.168333
+me,roze,Roze,00,,42.427222,18.556667
+me,rozhaje,Rozhajë,00,,42.843889,20.168333
+me,rpavac,Rpavac,00,,42.543889,18.769167
+me,rsojevici,Rsojevici,00,,42.611944,19.103611
+me,rta,Rta,00,,43.170278,19.157778
+me,rt,Rt,00,,43.472778,19.147778
+me,rubeza,Rubeza,00,,42.7775,18.994722
+me,rubezi,Rubezi,00,,42.7775,18.994722
+me,rucevac,Rucevac,00,,43.361389,19.378333
+me,rucina,Rucina,00,,42.595278,18.865
+me,rudanci,Rudanci,00,,43.061944,19.361667
+me,rudes,Rudes,00,,42.860278,19.883333
+me,rudevine,Rudevine,00,,43.006111,19.801389
+me,rudica laka,Rudica Laka,00,,42.645,18.813333
+me,rudici,Rudici,00,,43.544167,18.997778
+me,rudine,Rudine,00,,42.433056,19.416944
+me,rudinica,Rudinica,00,,43.070556,18.858333
+me,rudinice,Rudinice,00,,43.070556,18.858333
+me,rudino pocivalo,Rudino Pocivalo,00,,42.500833,18.890556
+me,rudinovaca,Rudinovaca,00,,43.133333,19.176111
+me,rudnica,Rudnica,00,,42.959722,19.598611
+me,rudnice,Rudnice,00,,43.387222,19.355833
+me,rudo polje,Rudo Polje,00,,42.771667,19.410556
+me,ruista,Ruista,00,,42.5075,19.028333
+me,ruiste,Ruiste,00,,42.626111,19.248056
+me,rujevica,Rujevica,00,,43.338611,19.246111
+me,rujevo,Rujevo,00,,42.458333,18.609444
+me,rujista,Rujista,00,,42.919444,19.817778
+me,runja,Runja,00,,42.093889,19.288889
+me,rupe mujovica,Rupe Mujovica,00,,42.483611,19.060278
+me,rupe,Rupe,00,,42.543333,18.460556
+me,rupice,Rupice,00,,42.474444,19.123889
+me,rupina,Rupina,00,,42.886667,18.518056
+me,rusenovici,Rusenovici,00,,42.840833,18.628056
+me,rusojevici,Rusojevici,00,,42.469722,19.104444
+me,rustovo,Rustovo,00,,42.269444,18.912778
+me,ruzica dolac,Ruzica Dolac,00,,42.955,18.5875
+me,rvana gora,Rvana Gora,00,,42.876667,18.5675
+me,rvasi,Rvasi,00,,42.371389,19.089444
+me,rvavac,Rvavac,00,,42.543889,18.769167
+me,rzani do,Rzani Do,00,,42.513611,18.838611
+me,rzeni do,Rzeni Do,00,,42.708333,18.733611
+me,rzine,Rzine,00,,42.882222,19.730833
+me,rzista,Rzista,00,,42.573056,19.0375
+me,rziste,Rziste,00,,42.573056,19.0375
+me,sabani,Sabani,00,,42.3275,18.991667
+me,sabotici,Sabotici,00,,42.9275,19.94
+me,sabovina,Sabovina,00,,43.201389,19.631389
+me,sadici,Sadici,00,,43.173611,19.600556
+me,sahovici,Sahovici,00,,43.063056,19.638611
+me,sajkovac,Sajkovac,00,,42.9575,19.861944
+me,sakate,Sakate,00,,42.995833,19.773611
+me,sake,Sake,00,,42.860278,18.600278
+me,sakovo brdo,Sakovo Brdo,00,,43.334722,19.253611
+me,sakovo selo,Sakovo Selo,00,,43.331111,19.260278
+me,salc,Salc,00,,41.970278,19.211389
+me,salevici,Salevici,00,,42.745,19.778611
+me,san stefano,San Stefano,00,,42.256111,18.891389
+me,sapalj do,Sapalj Do,00,,42.6775,18.555556
+me,sapici,Sapici,00,,43.543611,19.014722
+me,sarac,Sarac,00,,43.267222,19.4375
+me,sarancici,Sarancici,00,,43.330556,19.420556
+me,sarici,Sarici,00,,43.254444,18.906389
+me,saruljevac,Saruljevac,00,,43.139444,19.760278
+me,sasovici,Sasovici,00,,42.47,18.565278
+me,sas,Sas,00,,41.991667,19.32
+me,savici,Savici,00,,42.509722,18.610833
+me,savic,Savic,00,,42.509722,18.610833
+me,savina glavica,Savina Glavica,00,,42.303611,18.766944
+me,savina kruska,Savina Kruska,00,,42.686389,18.770556
+me,savina,Savina,00,,42.452778,18.554167
+me,savin bor,Savin Bor,00,,42.951944,20.055
+me,savkovine,Savkovine,00,,43.112778,19.686111
+me,savnik,Savnik,00,,42.956389,19.096667
+me,savrdak,Savrdak,00,,42.695556,19.763056
+me,sazici,Sazici,00,,43.35,19.439722
+me,scepan-polje,Scepan-Polje,00,,43.3475,18.845833
+me,sceposevici,Sceposevici,00,,42.481667,18.462222
+me,scepov do,Scepov Do,00,,42.546389,18.635833
+me,sedlari,Sedlari,00,,43.171667,18.783056
+me,sedlo,Sedlo,00,,42.708333,18.821667
+me,sekulici,Sekulici,00,,42.561667,19.119722
+me,selac,Selac,00,,43.130278,19.351111
+me,selakovici,Selakovici,00,,43.087222,19.655556
+me,sela,Sela,00,,42.704444,19.428889
+me,selina,Selina,00,,42.741111,18.503333
+me,selista,Selista,00,,42.435556,18.978611
+me,seliste,Seliste,00,,42.406667,19.423056
+me,selita,Selita,00,,42.003889,19.326944
+me,seljani,Seljani,00,,43.091667,18.845278
+me,seljkovac,Seljkovac,00,,43.115556,18.897222
+me,selo donja lastva,Selo Donja Lastva,00,,42.443056,18.688611
+me,selo kapetanovica,Selo Kapetanovica,00,,43.139444,19.774444
+me,selo muo,Selo Muo,00,,42.431667,18.7575
+me,selo,Selo,00,,42.466111,18.946111
+me,senicista,Senicista,00,,43.059444,18.669444
+me,seniciste,Seniciste,00,,42.839444,18.991111
+me,senkol,Senkol,00,,41.880833,19.375
+me,seoca,Seoca,00,,42.553333,19.281667
+me,seoce,Seoce,00,,42.731667,19.809167
+me,seosnica,Seosnica,00,,42.8475,20.121667
+me,seostica,Seostica,00,,42.575278,19.423889
+me,serdar kula,Serdar Kula,00,,42.487778,19.186667
+me,sestovici,Sestovici,00,,43.121667,19.453333
+me,sevari,Sevari,00,,43.352778,19.343056
+me,sevejski do,Sevejski Do,00,,42.704167,18.701389
+me,seveljski do,Seveljski Do,00,,42.704167,18.701389
+me,shengjergi,Shëngjergi,00,,41.950556,19.344167
+me,shen gjergji,Shën Gjergji,00,,41.950556,19.344167
+me,sibionica,Sibionica,00,,42.550278,19.263611
+me,siga,Siga,00,,42.995556,19.548056
+me,sige,Sige,00,,42.556944,19.1525
+me,sijerkovici,Sijerkovici,00,,42.774444,18.545278
+me,siljev do,Siljev Do,00,,42.704167,18.701389
+me,siljkov do,Siljkov Do,00,,42.700556,18.704722
+me,simace,Simace,00,,42.779167,19.426944
+me,simonovici,Simonovici,00,,42.583056,19.143889
+me,sindan,Sindan,00,,42.356944,19.040278
+me,sin derd,Sin Derd,00,,41.950556,19.344167
+me,sindjon,Sindjon,00,,42.356944,19.040278
+me,sindon,Sindon,00,,42.356944,19.040278
+me,sinjac,Sinjac,00,,42.365556,19.150278
+me,sinkol,Sinkol,00,,41.880833,19.375
+me,sipacno,Sipacno,00,,42.871389,18.945556
+me,sipanje,Sipanje,00,,43,19.936389
+me,sipcanik,Sipcanik,00,,42.368889,19.318056
+me,siplje,Siplje,00,,43.108333,19.351944
+me,sipova dola,Sipova Dola,00,,42.975,18.687222
+me,sipovica,Sipovica,00,,43.021389,19.896389
+me,sipovice,Sipovice,00,,43.021389,19.896389
+me,sip,Sip,00,,43.071389,19.14
+me,siralija,Siralija,00,,42.7,19.453056
+me,sircici,Sircici,00,,43.4575,19.059444
+me,siroki do,Siroki Do,00,,42.746111,18.696111
+me,sirovac,Sirovac,00,,42.927778,19.229444
+me,sirovi kraj,Sirovi Kraj,00,,43.118889,19.296111
+me,sisevici,Sisevici,00,,42.292778,19.009167
+me,sisici,Sisici,00,,42.361389,18.783611
+me,sisovici,Sisovici,00,,42.292778,19.009167
+me,sitnica,Sitnica,00,,42.556389,18.448056
+me,sjekirica velika,Sjekirica Velika,00,,42.664444,19.956111
+me,sjenice,Sjenice,00,,42.465556,19.331389
+me,sjenogoste,Sjenogoste,00,,42.897778,19.536944
+me,sjenokosi,Sjenokosi,00,,42.848056,18.875556
+me,sjenokos,Sjenokos,00,,42.519444,18.85
+me,sjenoseti,Sjenoseti,00,,42.750556,19.733611
+me,sjenozeta,Sjenozeta,00,,42.750556,19.733611
+me,sjerac,Sjerac,00,,42.1025,19.298889
+me,sjerogoste,Sjerogoste,00,,42.897778,19.536944
+me,skakavac,Skakavac,00,,42.907222,19.867222
+me,skakovac,Skakovac,00,,42.907222,19.867222
+me,skaljari,Skaljari,00,,42.418611,18.766389
+me,skanjci,Skanjci,00,,42.529167,19.115556
+me,skenderovici,Skenderovici,00,,42.895556,20.007222
+me,skenderovina,Skenderovina,00,,43.367778,19.228611
+me,skenderska kalica,Skenderska Kalica,00,,42.901389,20.029722
+me,skic,Skic,00,,42.606389,19.943611
+me,skoce,Skoce,00,,42.4575,19.311111
+me,skocigorina,Skocigorina,00,,43.071389,19.695833
+me,skocki omar,Skocki Omar,00,,43.068056,19.129444
+me,skok,Skok,00,,42.967222,19.071944
+me,skorac,Skorac,00,,42.366111,19.386389
+me,skorafci,Skorafci,00,,42.354722,19.399444
+me,skorca gora,Skorca Gora,00,,42.747222,18.523611
+me,skrbusa,Skrbusa,00,,42.790278,19.539167
+me,skvariste,Skvariste,00,,42.558889,18.709722
+me,slacko,Slacko,00,,42.661667,19.457222
+me,sladojev do,Sladojev Do,00,,42.665,18.759444
+me,sladojevo kopito,Sladojevo Kopito,00,,42.530278,19.1025
+me,slamcica,Slamcica,00,,42.5725,18.763611
+me,slamni brod,Slamni Brod,00,,42.459444,19.174444
+me,slanjina,Slanjina,00,,42.272222,18.906944
+me,slapci,Slapci,00,,42.630556,19.0175
+me,slap,Slap,00,,42.599722,19.067778
+me,slatina,Slatina,00,,42.586667,19.147222
+me,slatka,Slatka,00,,43.174444,19.524722
+me,slatkovici,Slatkovici,00,,42.483611,18.849444
+me,slavkovo brdo,Slavkovo Brdo,00,,42.987222,19.595833
+me,slepac,Slepac,00,,43.145556,19.537778
+me,slijepac most,Slijepac Most,00,,42.989167,19.6775
+me,slivni do,Slivni Do,00,,42.730556,18.585833
+me,slivska poljana,Slivska Poljana,00,,42.922222,18.856667
+me,sljemena,Sljemena,00,,43.073611,19.559444
+me,sljeme,Sljeme,00,,42.909167,18.569722
+me,sljepasnica,Sljepasnica,00,,43.068611,19.759167
+me,sljepasnjica,Sljepasnjica,00,,43.068611,19.759167
+me,sljerne,Sljerne,00,,42.909167,18.569722
+me,sljivansko,Sljivansko,00,,43.127778,19.3
+me,sljivensko,Sljivensko,00,,43.321667,19.212778
+me,sljivlje,Sljivlje,00,,42.900556,19.5275
+me,sljucka strana,Sljucka Strana,00,,43.284167,19.467222
+me,sljuke,Sljuke,00,,43.361111,19.127778
+me,smailagica polje,Smailagica Polje,00,,42.824444,19.543333
+me,smira,Smira,00,,42.7325,19.452222
+me,smocije,Smocije,00,,42.829167,19.395556
+me,smocilje,Smocilje,00,,42.829167,19.395556
+me,smocje,Smocje,00,,42.829167,19.395556
+me,smokovac,Smokovac,00,,42.480556,19.305278
+me,smokovci,Smokovci,00,,42.320278,19.019444
+me,smolice,Smolice,00,,42.725833,19.350278
+me,smoljan,Smoljan,00,,43.0925,19.227778
+me,smrcje,Smrcje,00,,42.795278,19.573611
+me,smrdan,Smrdan,00,,43.394444,19.364444
+me,smrdusa,Smrdusa,00,,42.784167,18.701389
+me,smreka,Smreka,00,,42.721944,19.343889
+me,smrijecno,Smrijecno,00,,43.126389,18.775556
+me,sobaici,Sobaici,00,,42.627778,19.067778
+me,sobajica,Sobajica,00,,42.627778,19.067778
+me,sobajici,Sobajici,00,,42.627778,19.067778
+me,sobojici,Sobojici,00,,42.627778,19.067778
+me,sokolac,Sokolac,00,,43.086667,19.573611
+me,sokolovic,Sokolovic,00,,43.326667,19.233056
+me,sokubin,Sokubin,00,,42.013056,19.364444
+me,solila,Solila,00,,43.111944,19.673056
+me,solinski brijeg,Solinski Brijeg,00,,42.558611,18.744167
+me,solja,Solja,00,,43.083056,19.853611
+me,somina,Somina,00,,42.913611,19.306389
+me,sosunja,Sosunja,00,,42.316111,19.224167
+me,sotonici,Sotonici,00,,42.234444,19.049167
+me,sozina,Sozina,00,,42.175,19.051944
+me,spahici,Spahici,00,,42.008333,19.227222
+me,spaljevici,Spaljevici,00,,42.727222,19.932778
+me,spanjola,Spanjola,00,,42.457778,18.530278
+me,spasojevica,Spasojevica,00,,43.024444,19.804167
+me,spic,Spic,00,,42.142778,19.046667
+me,spila,Spila,00,,42.724444,18.641111
+me,spilice,Spilice,00,,42.431389,18.576111
+me,spilja,Spilja,00,,42.351389,19.375833
+me,spilje,Spilje,00,,42.454444,18.486389
+me,spinja,Spinja,00,,42.351389,19.375833
+me,spuz,Spuz,00,,42.5075,19.194167
+me,srdanov grob,Srdanov Grob,00,,43.393056,19.299167
+me,srdevac,Srdevac,00,,42.9575,19.853333
+me,srebrnica,Srebrnica,00,,43.061389,19.5825
+me,srecanje,Srecanje,00,,43.486944,18.979444
+me,sredani,Sredani,00,,42.852222,20.138611
+me,sredina sela,Sredina Sela,00,,42.190833,19.0975
+me,srednja mahala,Srednja Mahala,00,,42.197778,19.048611
+me,srednje selo,Srednje Selo,00,,43.067222,19.610556
+me,srednje zaostro,Srednje Zaostro,00,,42.886667,19.831389
+me,sreteska gora,Sreteska Gora,00,,42.707222,19.388333
+me,sretnja,Sretnja,00,,42.596944,19.1325
+me,srijede,Srijede,00,,42.901944,18.795278
+me,srijetez,Srijetez,00,,42.656667,19.348611
+me,srni do,Srni Do,00,,42.720556,18.820556
+me,srpska,Srpska,00,,42.374444,19.218889
+me,stabna,Stabna,00,,43.172778,18.755833
+me,stadojevo kopito,Stadojevo Kopito,00,,42.530278,19.1025
+me,staje,Staje,00,,42.491667,18.898333
+me,stajista,Stajista,00,,43.028056,18.729167
+me,stajiste,Stajiste,00,,42.806389,19.507778
+me,stancani,Stancani,00,,43.198889,19.369167
+me,stanci,Stanci,00,,42.716111,19.3675
+me,staniselici,Staniselici,00,,42.409722,19.106944
+me,staniseljici,Staniseljici,00,,42.409722,19.106944
+me,stanisici,Stanisici,00,,42.299444,18.874722
+me,stanjevica rupa,Stanjevica Rupa,00,,42.538056,19.209722
+me,stankov do,Stankov Do,00,,42.738056,18.814167
+me,stanojev do,Stanojev Do,00,,42.659167,18.749722
+me,stara varos,Stara Varos,00,,42.433889,19.259444
+me,stara zlatica,Stara Zlatica,00,,42.464444,19.291111
+me,starce,Starce,00,,42.853889,19.313889
+me,starcevici,Starcevici,00,,43.248056,19.105278
+me,stare crnokrpe,Stare Crnokrpe,00,,42.912778,20.2375
+me,stari bar,Stari Bar,00,,42.09,19.133056
+me,stari viskovici,Stari Viskovici,00,,42.330278,18.840833
+me,staro mijatovo,Staro Mijatovo,00,,42.984167,19.6525
+me,staro selo,Staro Selo,00,,42.717778,19.106111
+me,stavani,Stavani,00,,42.6825,19.408889
+me,stazer,Stazer,00,,42.616389,18.862778
+me,steci,Steci,00,,42.414722,19.175833
+me,stedim,Stedim,00,,42.772222,18.904722
+me,stegvasi,Stegvasi,00,,42.058611,19.366389
+me,stepen,Stepen,00,,42.498333,18.7375
+me,stepov,Stepov,00,,42.447222,19.456389
+me,stevanovac,Stevanovac,00,,42.991389,19.532222
+me,steverine,Steverine,00,,42.738333,19.3575
+me,sticje,Sticje,00,,42.953056,19.213889
+me,stijena,Stijena,00,,42.519444,19.258056
+me,stijensko brdo,Stijensko Brdo,00,,42.529444,19.249444
+me,stijepcici,Stijepcici,00,,42.485833,18.538333
+me,stitare,Stitare,00,,43.025,18.733333
+me,stitarica,Stitarica,00,,42.920556,19.530833
+me,stitari,Stitari,00,,42.441111,19.02
+me,stjepovic,Stjepovic,00,,42.518611,18.702778
+me,stjepovo,Stjepovo,00,,42.447222,19.456389
+me,stodra,Stodra,00,,41.985556,19.368333
+me,stojanovici,Stojanovici,00,,42.3075,18.891944
+me,stojanovic,Stojanovic,00,,42.3075,18.891944
+me,stoja,Stoja,00,,41.910278,19.274722
+me,stojkovici,Stojkovici,00,,42.421944,18.588333
+me,stoj,Stoj,00,,41.910278,19.274722
+me,stolac,Stolac,00,,43.126944,19.2775
+me,stolak,Stolak,00,,42.683889,19.776667
+me,stoliv donji,Stoliv Donji,00,,42.469722,18.711111
+me,stoliv gornji,Stoliv Gornji,00,,42.466389,18.715278
+me,stozer,Stozer,00,,43.098889,19.511111
+me,strahinici,Strahinici,00,,42.513889,19.116111
+me,strahov do,Strahov Do,00,,43.458889,19.130556
+me,strane,Strane,00,,42.706111,19.3475
+me,strasevina,Strasevina,00,,42.755833,18.949167
+me,strasevna,Strasevna,00,,42.755833,18.949167
+me,stravce,Stravce,00,,42.563889,19.464167
+me,strazice,Strazice,00,,43.509444,19.004444
+me,strazista,Strazista,00,,42.562222,18.775278
+me,straziste,Straziste,00,,42.562222,18.775278
+me,strbac,Strbac,00,,42.7925,18.634722
+me,strelicki krs,Strelicki Krs,00,,42.816944,19.515833
+me,streljanice,Streljanice,00,,42.729167,19.411667
+me,stricina,Stricina,00,,42.999444,19.473611
+me,strmecica,Strmecica,00,,43.266111,19.520556
+me,strojtanica,Strojtanica,00,,43.069722,19.789167
+me,strojtanice,Strojtanice,00,,43.069722,19.789167
+me,strojtenica,Strojtenica,00,,43.069722,19.789167
+me,strpca,Strpca,00,,42.7925,18.634722
+me,strp,Strp,00,,42.505278,18.670278
+me,strugari,Strugari,00,,42.368056,18.977778
+me,struga,Struga,00,,43.197778,19.567222
+me,strug,Strug,00,,42.925278,19.196667
+me,stubao,Stubao,00,,43.038056,19.877778
+me,stuba,Stuba,00,,42.814444,18.890556
+me,stube,Stube,00,,43.038056,19.877778
+me,stubica,Stubica,00,,42.701111,18.978611
+me,stubicki kraj,Stubicki Kraj,00,,42.715833,18.989444
+me,stublo,Stublo,00,,43.038056,19.877778
+me,stubo,Stubo,00,,43.038056,19.877778
+me,stub,Stub,00,,43.415556,19.250556
+me,studenac,Studenac,00,,42.663611,18.856944
+me,studenca,Studenca,00,,42.766944,18.930833
+me,studenci,Studenci,00,,42.766944,18.930833
+me,stuga,Stuga,00,,43.197778,19.567222
+me,stupa,Stupa,00,,42.902222,20.3425
+me,stupine,Stupine,00,,43.398889,19.307222
+me,stupovi,Stupovi,00,,42.671111,19.425556
+me,stupsko polje,Stupsko Polje,00,,43.041944,19.420556
+me,stup,Stup,00,,43.411944,19.244722
+me,stvara,Stvara,00,,42.375556,18.762778
+me,sujaci,Sujaci,00,,42.5875,19.357778
+me,sukobin,Sukobin,00,,42.013056,19.364444
+me,sukuric,Sukuric,00,,42.315833,19.316389
+me,sukuruc,Sukuruc,00,,42.315833,19.316389
+me,sula,Sula,00,,43.384722,19.073056
+me,sule,Sule,00,,43.384722,19.073056
+me,suli,Suli,00,,43.384722,19.073056
+me,suljkovac,Suljkovac,00,,43.375278,19.296111
+me,sumani,Sumani,00,,43.293056,19.325833
+me,sumanovac,Sumanovac,00,,43.155278,19.188333
+me,sumarev dub,Sumarev Dub,00,,42.3275,18.812778
+me,suma,Suma,00,,42.026944,19.291944
+me,sume,Sume,00,,42.490278,19.232778
+me,sumica,Sumica,00,,42.422778,19.455
+me,sumici,Sumici,00,,43.42,19.099722
+me,sunga,Sunga,00,,42.741944,19.602778
+me,suplja stijena,Suplja Stijena,00,,43.380833,19.054444
+me,surec,Surec,00,,42.793056,18.721389
+me,surlin do,Surlin Do,00,,42.798056,18.694167
+me,susanj,Susanj,00,,42.115556,19.088333
+me,suscepan,Suscepan,00,,42.468056,18.5125
+me,susevina,Susevina,00,,43.092222,19.687778
+me,susici,Susici,00,,42.46,18.534167
+me,sustasi,Sustasi,00,,42.113056,19.119444
+me,sustas,Sustas,00,,42.113056,19.119444
+me,susunja,Susunja,00,,42.316111,19.224167
+me,sutivan,Sutivan,00,,43.092778,19.771111
+me,sutjel,Sutjel,00,,41.930556,19.353889
+me,sutjeska,Sutjeska,00,,42.729444,19.816389
+me,sutomore,Sutomore,00,,42.142778,19.046667
+me,sutomor,Sutomor,00,,42.142778,19.046667
+me,sutorina,Sutorina,00,,42.473611,18.473889
+me,sutorman,Sutorman,00,,42.153056,19.113056
+me,sutvara,Sutvara,00,,42.375556,18.762778
+me,suva gora,Suva Gora,00,,42.773889,19.638056
+me,suvodo,Suvodo,00,,42.393333,18.890278
+me,suvo polje,Suvo Polje,00,,43.005278,19.016667
+me,sveti dorde,Sveti Dorde,00,,41.950556,19.344167
+me,sveti nikola,Sveti Nikola,00,,41.880833,19.375
+me,sveti stefan,Sveti Stefan,00,,42.256111,18.891389
+me,sviba,Sviba,00,,42.5475,19.324722
+me,svijetin brijeg,Svijetin Brijeg,00,,42.438333,19.271667
+me,svine,Svine,00,,42.730833,19.424722
+me,svinjcevina,Svinjcevina,00,,43.361111,19.2475
+me,svinjista,Svinjista,00,,42.305,18.8175
+me,svrcuge,Svrcuge,00,,42.506944,18.478056
+me,svrke,Svrke,00,,42.8675,19.329167
+me,svrkote,Svrkote,00,,43.34,19.351111
+me,tamnica,Tamnica,00,,42.481944,18.530833
+me,tamnice,Tamnice,00,,42.738056,19.493056
+me,tarhanisi,Tarhanisi,00,,42.8875,19.997778
+me,tatarovine,Tatarovine,00,,43.442778,19.011111
+me,teca,Teca,00,,42.727778,19.376667
+me,tegovina,Tegovina,00,,43.128889,19.538611
+me,tegovine,Tegovine,00,,42.586389,19.236389
+me,tejani,Tejani,00,,42.102778,19.243333
+me,teodo,Teodo,00,,42.436389,18.696111
+me,tepacko polje,Tepacko Polje,00,,43.164722,19.156667
+me,tepca,Tepca,00,,43.205278,19.078056
+me,terpeze,Tërpezë,00,,42.903889,19.995556
+me,terzici,Terzici,00,,42.489722,18.516111
+me,tici,Tici,00,,42.407222,18.583611
+me,tiganji,Tiganji,00,,42.888056,19.976389
+me,tijana,Tijana,00,,42.102778,19.243333
+me,tijesak,Tijesak,00,,42.402222,19.185556
+me,timar,Timar,00,,42.978333,19.191111
+me,tiosovic,Tiosovic,00,,42.5425,19.835556
+me,tisa,Tisa,00,,42.859722,18.882778
+me,tisovac,Tisovac,00,,42.601667,18.796944
+me,titograd,Titograd,00,,42.441111,19.263611
+me,tivat,Tivat,00,,42.436389,18.696111
+me,tjesak,Tjesak,00,,42.402222,19.185556
+me,tmajevac,Tmajevac,00,,43.25,19.346389
+me,tmusice,Tmusice,00,,42.837222,19.966389
+me,tmusici,Tmusici,00,,42.837222,19.966389
+me,tockovi,Tockovi,00,,43.343611,19.164167
+me,todorov dub,Todorov Dub,00,,42.776667,19.094444
+me,todorovici,Todorovici,00,,42.4525,18.644167
+me,toletin do,Toletin Do,00,,42.586667,18.7325
+me,toljevina,Toljevina,00,,43.003611,18.532222
+me,tolosi,Tolosi,00,,42.454722,19.224167
+me,tomanov do,Tomanov Do,00,,42.611944,18.818333
+me,tomasevici,Tomasevici,00,,42.529167,18.4875
+me,tomasevo,Tomasevo,00,,43.063056,19.638611
+me,tomba,Tomba,00,,42.076111,19.126944
+me,tomicici,Tomicici,00,,42.444444,18.699167
+me,tomici,Tomici,00,,42.2525,18.999722
+me,topalovici,Topalovici,00,,43.388056,19.2325
+me,topla,Topla,00,,42.458056,18.525556
+me,topli potok,Topli Potok,00,,42.829722,19.350278
+me,topolica,Topolica,00,,42.098333,19.094167
+me,tosici,Tosici,00,,43.383056,19.285833
+me,tospude,Tospude,00,,42.641389,18.708333
+me,tovicki do,Tovicki Do,00,,42.676389,18.769444
+me,traboin stari,Traboin Stari,00,,42.398056,19.450556
+me,traboin,Traboin,00,,42.398056,19.450556
+me,trabojin,Trabojin,00,,42.398056,19.450556
+me,travni do,Travni Do,00,,42.956111,18.5675
+me,trebaljevo,Trebaljevo,00,,42.865833,19.531667
+me,trebesinj,Trebesinj,00,,42.472222,18.523889
+me,trebesin,Trebesin,00,,42.472222,18.523889
+me,trebinci,Trebinci,00,,42.563889,19.265833
+me,trebizin,Trebizin,00,,42.472222,18.523889
+me,trebljevina,Trebljevina,00,,43.376389,19.439167
+me,trebljevine,Trebljevine,00,,43.168889,19.345
+me,trebovinski pod,Trebovinski Pod,00,,42.665278,18.868889
+me,trepca,Trepca,00,,42.776944,19.824167
+me,tresnjevic,Tresnjevic,00,,42.743333,19.702778
+me,tresnjevik,Tresnjevik,00,,42.743333,19.702778
+me,tresnjevo,Tresnjevo,00,,42.635556,18.751389
+me,tresnjica,Tresnjica,00,,42.333333,18.758333
+me,trgovista,Trgovista,00,,43.443333,19.169167
+me,trimojevici,Trimojevici,00,,42.564444,19.366111
+me,tripkovici,Tripkovici,00,,42.463056,18.764167
+me,trkaci,Trkaci,00,,43.248056,19.359444
+me,trlica,Trlica,00,,43.344444,19.369722
+me,trmanje,Trmanje,00,,42.6475,19.344722
+me,trnavice,Trnavice,00,,42.933611,20.008056
+me,trnine,Trnine,00,,42.563889,18.860278
+me,trnjine,Trnjine,00,,42.563889,18.860278
+me,trnovac,Trnovac,00,,42.830556,18.788333
+me,trnovica,Trnovica,00,,42.856944,19.336944
+me,trnovice,Trnovice,00,,42.856944,19.336944
+me,trnovi do,Trnovi Do,00,,42.328333,19.069444
+me,trnovo,Trnovo,00,,42.296667,19.029722
+me,trojanovici,Trojanovici,00,,42.420833,18.596944
+me,trojica,Trojica,00,,42.404167,18.763611
+me,trosavac,Trosavac,00,,42.822778,18.756389
+me,trpezi,Trpezi,00,,42.903889,19.995556
+me,trsa,Trsa,00,,43.190556,18.946111
+me,trstenik,Trstenik,00,,42.490833,18.76
+me,trubasinj,Trubasinj,00,,42.689167,18.992778
+me,trubina,Trubina,00,,42.935833,19.878889
+me,trubino,Trubino,00,,42.935833,19.878889
+me,trubjela,Trubjela,00,,42.744722,18.779167
+me,trubjelo,Trubjelo,00,,42.744722,18.779167
+me,trubljani,Trubljani,00,,42.969444,19.965556
+me,truma,Truma,00,,42.815833,18.5425
+me,trunica do,Trunica Do,00,,42.797222,19.537222
+me,trusina,Trusina,00,,42.839722,18.781111
+me,tucanje,Tucanje,00,,42.929167,19.936389
+me,tucanj,Tucanj,00,,42.929167,19.936389
+me,tudemile,Tudemile,00,,42.130833,19.145
+me,tudemili,Tudemili,00,,42.130833,19.145
+me,tudorovici,Tudorovici,00,,42.245,18.911667
+me,tudorovic,Tudorovic,00,,42.245,18.911667
+me,tulovo,Tulovo,00,,43.201389,19.455556
+me,tunjevo,Tunjevo,00,,42.629167,19.0175
+me,tupanj,Tupanj,00,,42.796944,18.671389
+me,tupan,Tupan,00,,42.785833,18.635833
+me,tupci,Tupci,00,,43.47,19.031389
+me,turava,Turava,00,,43.060278,19.868056
+me,turcini,Turcini,00,,42.111667,19.143056
+me,turija,Turija,00,,42.291389,18.763333
+me,tursko,Tursko,00,,42.426944,18.524444
+me,turuntas,Turuntas,00,,42.988333,18.556111
+me,tusina,Tusina,00,,42.948611,19.200278
+me,tusinja,Tusinja,00,,42.948611,19.200278
+me,tusto brdo,Tusto Brdo,00,,43.463889,19.206389
+me,tustovo,Tustovo,00,,43.021389,19.659167
+me,tustvo,Tustvo,00,,43.021389,19.659167
+me,tusupe,Tusupe,00,,42.465278,18.530556
+me,tusupi,Tusupi,00,,42.465278,18.530556
+me,tutini doli,Tutini Doli,00,,42.633333,18.920278
+me,tuzeva luka,Tuzeva Luka,00,,42.875556,20.116667
+me,tuzi ljevorecke,Tuzi Ljevorecke,00,,42.694444,19.4925
+me,tuzi,Tuzi,00,,42.365556,19.331389
+me,tvorilo,Tvorilo,00,,42.597222,19.061389
+me,tvrdakovici,Tvrdakovici,00,,43.459167,19.049722
+me,tvrdas,Tvrdas,00,,43.336667,19.379167
+me,tvrdos,Tvrdos,00,,42.489444,19.025
+me,ubalac,Ubalac,00,,42.504722,18.717778
+me,ubaljski do,Ubaljski Do,00,,42.617778,18.871667
+me,ubalski do,Ubalski Do,00,,42.623056,18.778889
+me,uba,Uba,00,,42.475278,18.843889
+me,ubla,Ubla,00,,42.941944,18.5325
+me,ublica,Ublica,00,,42.580278,18.759167
+me,ublice,Ublice,00,,42.507222,18.858889
+me,ubli,Ubli,00,,42.584167,19.256667
+me,udovcine,Udovcine,00,,42.740833,19.336111
+me,ugarce,Ugarce,00,,43.046667,19.452778
+me,ugljesici,Ugljesici,00,,42.301944,18.909167
+me,ugnji,Ugnji,00,,42.34,18.9175
+me,ujnice,Ujnice,00,,43.098889,19.704444
+me,ukranje,Ukranje,00,,43.139167,19.756944
+me,ukropci,Ukropci,00,,42.340278,18.749444
+me,ulcinj,Ulcinj,00,10641,41.928333,19.206389
+me,ulica,Ulica,00,,42.728056,19.4375
+me,ulice,Ulice,00,,43.248056,19.443611
+me,ulici,Ulici,00,,42.379167,18.988889
+me,uljara,Uljara,00,,42.708611,19.413333
+me,uljari,Uljari,00,,42.708611,19.413333
+me,ulotina,Ulotina,00,,42.683056,19.846389
+me,umac,Umac,00,,42.615,18.689167
+me,umci,Umci,00,,42.392778,18.905
+me,umkovina,Umkovina,00,,43.495278,19.069722
+me,unac,Unac,00,,43.185,18.882222
+me,unevina,Unevina,00,,43.109167,19.771389
+me,unijerina,Unijerina,00,,42.551111,18.649722
+me,unjarina,Unjarina,00,,42.551111,18.649722
+me,uremovici,Uremovici,00,,43.259167,19.330833
+me,urimovici,Urimovici,00,,43.259167,19.330833
+me,urljev do,Urljev Do,00,,42.938611,18.5725
+me,usanovici,Usanovici,00,,43.088611,19.815278
+me,uskoci,Uskoci,00,,43.177222,19.106944
+me,usputnica,Usputnica,00,,42.762778,18.536389
+me,ustupnica,Ustupnica,00,,42.762778,18.536389
+me,utrg,Utrg,00,,42.262222,18.973056
+me,utrk,Utrk,00,,42.262222,18.973056
+me,uvac,Uvac,00,,42.714167,19.506389
+me,uvezac,Uvezac,00,,43.018889,19.755556
+me,vagan,Vagan,00,,43.403333,19.211667
+me,vala,Vala,00,,42.461944,18.646389
+me,valdanos,Valdanos,00,,41.949167,19.165833
+me,valista,Valista,00,,42.488056,18.7825
+me,varda,Varda,00,,42.961111,19.548056
+me,vardista,Vardista,00,,42.437778,19.027778
+me,varine,Varine,00,,43.178889,19.373056
+me,vasiljevici,Vasiljevici,00,,42.5075,18.619444
+me,vasiljevic,Vasiljevic,00,,42.5075,18.619444
+me,vaskovo,Vaskovo,00,,43.094167,19.401944
+me,vatnikaj,Vatnikaj,00,,42.342778,19.394722
+me,vecerici,Vecerici,00,,42.411389,18.573056
+me,vela luka,Vela Luka,00,,42.498333,19.313333
+me,velembusi,Velembusi,00,,42.100278,19.128056
+me,velenica,Velenica,00,,42.423056,19.163333
+me,velestovo,Velestovo,00,,42.525833,18.964722
+me,veleta,Veleta,00,,42.587778,19.078333
+me,velida,Velida,00,,42.872778,19.838889
+me,velide,Velide,00,,42.872778,19.838889
+me,velidje,Velidje,00,,42.872778,19.838889
+me,velika plaza,Velika Plaza,00,,41.912222,19.247778
+me,velika,Velika,00,,42.664444,19.956111
+me,velike crnokrpe,Velike Crnokrpe,00,,42.925,20.232778
+me,velike krce,Velike Krce,00,,43.406667,19.245556
+me,velike sljeme,Velike Sljeme,00,,43.073333,19.549722
+me,veliki do,Veliki Do,00,,43.022222,19.443333
+me,veliki lipovac,Veliki Lipovac,00,,42.562222,18.767222
+me,veliki orah,Veliki Orah,00,,42.861111,18.981667
+me,veliki ostros,Veliki Ostros,00,,42.081389,19.318611
+me,veliko krce,Veliko Krce,00,,43.406667,19.245556
+me,veliko radevo,Veliko Radevo,00,,42.838611,19.029444
+me,velimje,Velimje,00,,42.82,18.634167
+me,velimlje,Velimlje,00,,42.82,18.634167
+me,velinici,Velinici,00,,42.502222,18.708056
+me,velja aluga,Velja Aluga,00,,42.675833,18.7525
+me,velja dolina,Velja Dolina,00,,42.568056,18.810556
+me,velja gorana,Velja Gorana,00,,41.991944,19.232222
+me,velja lazina,Velja Lazina,00,,42.432778,19.014167
+me,velja rzista,Velja Rzista,00,,42.610278,18.739167
+me,velja zagreda,Velja Zagreda,00,,42.55,19.064167
+me,velje brdo,Velje Brdo,00,,42.488056,19.224444
+me,velje duboko,Velje Duboko,00,,42.782222,19.257778
+me,velje polje,Velje Polje,00,,43.410833,19.188056
+me,velje selo,Velje Selo,00,,42.034722,19.198333
+me,velje slacko,Velje Slacko,00,,42.659444,19.470833
+me,velji brijeg,Velji Brijeg,00,,42.382778,19.211944
+me,velji do,Velji Do,00,,42.547778,18.851389
+me,velji kaliman,Velji Kaliman,00,,42.030556,19.246944
+me,velji kraj,Velji Kraj,00,,42.438611,18.823889
+me,velji mikulici,Velji Mikulici,00,,42.080278,19.1875
+me,veljinici,Veljinici,00,,42.502222,18.708056
+me,velji pistet,Velji Pistet,00,,42.562222,18.743056
+me,velji potok,Velji Potok,00,,42.720278,19.734444
+me,velji zalazi,Velji Zalazi,00,,42.457222,18.783333
+me,veljobrzani,Veljobrzani,00,,42.382778,19.211944
+me,verusa,Verusa,00,,42.648611,19.518056
+me,vezista,Vezista,00,,42.501944,19.316667
+me,vidacica,Vidacica,00,,42.592222,19.416944
+me,vidijenje,Vidijenje,00,,42.495278,19.324722
+me,vidne,Vidne,00,,42.813889,18.483611
+me,vidno,Vidno,00,,42.813889,18.483611
+me,vidov potok,Vidov Potok,00,,42.831944,18.92
+me,vidre,Vidre,00,,43.348611,19.298611
+me,vidrovan,Vidrovan,00,,42.854444,18.942778
+me,vignjevici,Vignjevici,00,,42.329722,18.976111
+me,vijenac,Vijenac,00,,43.329167,19.443333
+me,vilace,Vilace,00,,43.014444,19.771111
+me,vilac,Vilac,00,,42.576389,19.395278
+me,vilici,Vilici,00,,43.255556,19.3725
+me,vili jasen,Vili Jasen,00,,42.574444,18.845833
+me,viluse,Viluse,00,,42.7275,18.595278
+me,vilusi,Vilusi,00,,42.7275,18.595278
+me,vinici,Vinici,00,,42.618056,19.095833
+me,vinicka,Vinicka,00,,42.801389,19.834722
+me,vinogradine,Vinogradine,00,,42.733889,19.427778
+me,vinogradista,Vinogradista,00,,42.531111,19.323333
+me,virak,Virak,00,,43.117778,19.111944
+me,virpazar,Virpazar,00,,42.245556,19.0925
+me,vir,Vir,00,,42.845556,18.921667
+me,visnje,Visnje,00,,42.794722,19.2825
+me,visnjevo,Visnjevo,00,,42.297778,18.776944
+me,visnjica do,Visnjica Do,00,,43.032778,18.733056
+me,visnjica,Visnjica,00,,43.313056,19.185
+me,visnjice,Visnjice,00,,42.852222,20.229444
+me,visocke,Visocke,00,,43.415,19.090556
+me,vis,Vis,00,,42.6125,19.063333
+me,vitalac,Vitalac,00,,42.776944,18.899444
+me,vitasojevici,Vitasojevici,00,,42.625556,18.992778
+me,vitasovici,Vitasovici,00,,42.625556,18.992778
+me,viti jasen,Viti Jasen,00,,42.574444,18.845833
+me,vitkove staje,Vitkove Staje,00,,43.114444,19.578889
+me,vitoglav,Vitoglav,00,,42.515278,18.680833
+me,vjetarnik,Vjetarnik,00,,42.600556,19.421667
+me,vjeternik,Vjeternik,00,,42.600556,19.421667
+me,vjetrina,Vjetrina,00,,42.637778,19.374722
+me,vjetrosevice,Vjetrosevice,00,,42.725,19.751111
+me,vladimir,Vladimir,00,,42.006667,19.312778
+me,vladne,Vladne,00,,42.343056,19.286111
+me,vladni,Vladni,00,,42.343056,19.286111
+me,vladnja,Vladnja,00,,42.343056,19.286111
+me,vladosi,Vladosi,00,,42.806111,19.518889
+me,vlados,Vlados,00,,42.806111,19.518889
+me,vlahovici,Vlahovici,00,,42.688889,19.350833
+me,vlahovina,Vlahovina,00,,43.221944,19.481389
+me,vlah,Vlah,00,,43.056389,19.816111
+me,vlaka,Vlaka,00,,42.978611,18.614167
+me,vlaovici,Vlaovici,00,,42.485278,18.483333
+me,vlase vica,Vlase Vica,00,,42.569444,19.365278
+me,vlasko polje,Vlasko Polje,00,,42.988611,19.714444
+me,vocje,Vocje,00,,42.782778,19.397222
+me,vodni do,Vodni Do,00,,42.552222,18.774167
+me,vodno,Vodno,00,,43.1775,19.496111
+me,vojinovici,Vojinovici,00,,43.170833,18.8975
+me,vojkovici,Vojkovici,00,,42.458056,18.874444
+me,vojnici,Vojnici,00,,42.546389,18.913056
+me,vojno selo,Vojno Selo,00,,42.578611,19.921389
+me,vojtina,Vojtina,00,,43.423333,19.163056
+me,vojvodici,Vojvodici,00,,43.221944,18.9325
+me,voljavac,Voljavac,00,,43.113611,19.786667
+me,voljevac,Voljevac,00,,43.155556,19.733056
+me,volujnik,Volujnik,00,,42.6725,19.979722
+me,vonjin do,Vonjin Do,00,,42.750278,18.813611
+me,vozarina,Vozarina,00,,42.8325,19.373889
+me,vozarine,Vozarine,00,,42.8325,19.373889
+me,vraca,Vraca,00,,43.339167,18.905
+me,vracenovici,Vracenovici,00,,42.838889,18.496389
+me,vranesi,Vranesi,00,,43.378056,19.309167
+me,vranici,Vranici,00,,42.460556,19.236944
+me,vranicke njive,Vranicke Njive,00,,42.470556,19.251389
+me,vranjaca,Vranjaca,00,,43.258611,19.343889
+me,vranjak,Vranjak,00,,42.736944,19.628056
+me,vranjestica,Vranjestica,00,,42.785833,19.626389
+me,vranjina,Vranjina,00,,42.278056,19.134444
+me,vranj,Vranj,00,,42.325833,19.297778
+me,vranovici,Vranovici,00,,42.360833,18.731944
+me,vranovic,Vranovic,00,,42.360833,18.731944
+me,vranstica,Vranstica,00,,43.074444,19.631389
+me,vranti polje,Vranti Polje,00,,43.103333,19.775
+me,vratiste,Vratiste,00,,43.088056,19.640278
+me,vratnica,Vratnica,00,,42.431667,18.8075
+me,vrba,Vrba,00,,42.25,18.911667
+me,vrbe,Vrbe,00,,42.986667,19.913056
+me,vrbica,Vrbica,00,,42.405556,18.920278
+me,vrbice,Vrbice,00,,42.865556,18.954167
+me,vrbov lug,Vrbov Lug,00,,43.328056,19.198611
+me,vrela,Vrela,00,,42.326667,18.9275
+me,vrelo,Vrelo,00,,42.326667,18.9275
+me,vrgasevici,Vrgasevici,00,,43.187778,19.588333
+me,vrh polja,Vrh Polja,00,,42.428333,18.823056
+me,vrh,Vrh,00,,43.0625,19.899722
+me,vrijesno,Vrijesno,00,,42.273333,18.895
+me,vrlici,Vrlici,00,,42.083611,19.306944
+me,vrljeroski do,Vrljeroski Do,00,,42.636111,18.834444
+me,vrsajke,Vrsajke,00,,42.970278,19.98
+me,vrsevo,Vrsevo,00,,42.9425,19.956944
+me,vrtace,Vrtace,00,,43.412222,19.129722
+me,vrta,Vrta,00,,42.791111,19.369722
+me,vrtlina,Vrtlina,00,,43.451111,19.181944
+me,vrtoc polje,Vrtoc Polje,00,,43.057778,19.144444
+me,vrtovi,Vrtovi,00,,42.718611,19.321667
+me,vrujca,Vrujca,00,,42.788889,19.417222
+me,vrujica,Vrujica,00,,42.788889,19.417222
+me,vrujice,Vrujice,00,,42.788889,19.417222
+me,vrulja,Vrulja,00,,43.216667,19.461667
+me,vuca,Vuca,00,,42.902222,19.785278
+me,vucedabici,Vucedabici,00,,42.199722,19.167222
+me,vucevo,Vucevo,00,,43.472778,19.225833
+me,vucica,Vucica,00,,42.575,19.108056
+me,vuci do,Vuci Do,00,,42.467222,18.852222
+me,vucje seliste,Vucje Seliste,00,,43.234444,18.937222
+me,vucje,Vucje,00,,43.34,19.265
+me,vucji do,Vucji Do,00,,42.467222,18.852222
+me,vuckovici,Vuckovici,00,,42.306944,18.974444
+me,vujkovici,Vujkovici,00,,43.277222,19.4675
+me,vujkovina,Vujkovina,00,,42.598056,19.1175
+me,vujkovo zdrijelo,Vujkovo Zdrijelo,00,,42.64,18.890278
+me,vujovske ravni,Vujovske Ravni,00,,42.590278,18.887778
+me,vukanovici,Vukanovici,00,,43.076389,19.622222
+me,vukasovici,Vukasovici,00,,42.507778,18.614167
+me,vukasovic,Vukasovic,00,,42.507778,18.614167
+me,vukicevici,Vukicevici,00,,42.514167,18.626389
+me,vukici,Vukici,00,,42.018611,19.221944
+me,vukmirovici,Vukmirovici,00,,42.361111,18.9825
+me,vukoderica,Vukoderica,00,,42.822222,19.901667
+me,vuko do,Vuko Do,00,,42.584444,18.769167
+me,vukodo,Vukodo,00,,43.071667,19.120556
+me,vukorani,Vukorani,00,,42.72,18.850833
+me,vukotica,Vukotica,00,,42.635556,19.244444
+me,vukotice,Vukotice,00,,42.635556,19.244444
+me,vukotici,Vukotici,00,,43.114722,19.75
+me,vukovci,Vukovci,00,,42.334444,19.2
+me,vukov do,Vukov Do,00,,43.160278,19.711111
+me,vukove zgrade,Vukove Zgrade,00,,42.352222,19.124167
+me,vukovici,Vukovici,00,,42.334444,19.2
+me,vukovo brdo,Vukovo Brdo,00,,43.266111,19.493333
+me,vukov pod,Vukov Pod,00,,42.528333,18.97
+me,vuksanlekici,Vuksanlekici,00,,42.341111,19.341389
+me,vuksan-lekic,Vuksan-Lekic,00,,42.341111,19.341389
+me,vuksanovici,Vuksanovici,00,,42.343889,18.790833
+me,vuksanovic,Vuksanovic,00,,42.343889,18.790833
+me,vuksanovo gumno,Vuksanovo Gumno,00,,42.553056,19.207222
+me,vuksici,Vuksici,00,,43.513333,18.984167
+me,vulevici,Vulevici,00,,42.388889,19.351389
+me,vulici,Vulici,00,,42.043889,19.210556
+me,vuljan,Vuljan,00,,42.420556,19.380833
+me,vuljevici,Vuljevici,00,,42.374167,19.334167
+me,vusanje,Vusanje,00,,42.529444,19.840278
+me,vuthaj,Vuthaj,00,,42.529444,19.840278
+me,zabes,Zabes,00,,42.230556,19.090556
+me,zabjelo,Zabjelo,00,,42.4275,19.228889
+me,zabljak,Zabljak,00,,42.317222,19.158611
+me,zaboj,Zaboj,00,,42.294444,19.075833
+me,zabove,Zabove,00,,42.294444,19.075833
+me,zabrde,Zabrde,00,,42.419167,18.595278
+me,zabrnjica,Zabrnjica,00,,42.788611,19.012778
+me,zacir,Zacir,00,,42.343333,18.996944
+me,zadublje,Zadublje,00,,43.344444,19.291389
+me,zadurasevac,Zadurasevac,00,,43.146111,19.364167
+me,zagaj,Zagaj,00,,42.550278,18.799444
+me,zagarac,Zagarac,00,,42.513611,19.0525
+me,zaglavak,Zaglavak,00,,43.2,19.251944
+me,zagonac,Zagonac,00,,42.57,18.768889
+me,zagorak,Zagorak,00,,42.615833,19.0275
+me,zagora,Zagora,00,,42.3025,18.749444
+me,zagoric,Zagoric,00,,42.46,19.275833
+me,zagorje,Zagorje,00,,42.820556,19.896667
+me,zagorski do,Zagorski Do,00,,42.705556,18.6425
+me,zagrada,Zagrada,00,,42.146667,19.021667
+me,zagrade,Zagrade,00,,42.146667,19.021667
+me,zagrad,Zagrad,00,,42.75,19.091111
+me,zagrebac,Zagrebac,00,,43.121111,19.381111
+me,zagreda,Zagreda,00,,42.526944,19.391944
+me,zagulj,Zagulj,00,,42.650833,18.620833
+me,zagvozdak,Zagvozdak,00,,42.590833,18.65
+me,zahum,Zahum,00,,43.330278,19.155833
+me,zainovica guvno,Zainovica Guvno,00,,42.653889,18.731389
+me,zajedni do,Zajedni Do,00,,43.187778,19.344722
+me,zakrajci,Zakrajci,00,,43.096389,19.297222
+me,zakrilje,Zakrilje,00,,42.780278,19.374167
+me,zakrizevac,Zakrizevac,00,,43.140278,19.726111
+me,zakurljaj,Zakurljaj,00,,42.670556,18.649722
+me,zalazba,Zalazba,00,,42.743056,19.351667
+me,zalipa,Zalipa,00,,42.701111,19.488056
+me,zaljevo,Zaljevo,00,,42.067222,19.131389
+me,zaljev,Zaljev,00,,42.067222,19.131389
+me,zaljuce,Zaljuce,00,,42.539444,18.909444
+me,zaljutnica,Zaljutnica,00,,43.018056,18.723333
+me,zalom,Zalom,00,,42.865,19.262222
+me,zaluci,Zaluci,00,,42.976389,19.151944
+me,zamacev do,Zamacev Do,00,,42.654444,18.701944
+me,zambelici,Zambelici,00,,42.391389,18.596389
+me,zanjev do,Zanjev Do,00,,42.418333,18.796389
+me,zanjica,Zanjica,00,,42.399444,18.581111
+me,zanjic,Zanjic,00,,42.399444,18.581111
+me,zankovici,Zankovici,00,,42.1475,19.0525
+me,zankovic,Zankovic,00,,42.1475,19.0525
+me,zanuglina,Zanuglina,00,,42.923056,18.618611
+me,zanugline,Zanugline,00,,42.923056,18.618611
+me,zaorine,Zaorine,00,,43.304167,19.232778
+me,zaostro,Zaostro,00,,42.894444,19.836944
+me,zapotocje,Zapotocje,00,,43.034167,19.711667
+me,zaprevorje,Zaprevorje,00,,42.769722,19.325
+me,zari,Zari,00,,43.061667,19.480278
+me,zarme,Zarme,00,,42.603056,18.845556
+me,zarunica,Zarunica,00,,42.518889,19.866667
+me,zar,Zar,00,,42.686111,19.726944
+me,zasada,Zasada,00,,43.234167,19.155
+me,zaselje,Zaselje,00,,42.5625,18.835833
+me,zasjednica,Zasjednica,00,,42.736667,19.419444
+me,zaslap,Zaslap,00,,42.6775,18.593333
+me,zastek,Zastek,00,,42.305556,19.043333
+me,zaton,Zaton,00,,43.003056,19.786111
+me,zaugao,Zaugao,00,,42.608611,19.501111
+me,zauglina,Zauglina,00,,42.743611,19.532778
+me,zaugline,Zaugline,00,,43.359722,19.118056
+me,zausje,Zausje,00,,42.449167,18.629167
+me,zavala,Zavala,00,,42.508056,19.298889
+me,zaviden,Zaviden,00,,43.391389,19.203333
+me,zavraca,Zavraca,00,,42.827778,18.884722
+me,zavraci,Zavraci,00,,42.843333,19.305
+me,zavrh,Zavrh,00,,42.718889,19.351111
+me,zazdrijonice,Zazdrijonice,00,,42.985556,18.711111
+me,zbljevo,Zbljevo,00,,43.327222,19.306667
+me,zdrijelo,Zdrijelo,00,,42.555,18.510556
+me,zebice,Zebice,00,,43.128333,19.728056
+me,zebljak,Zebljak,00,,42.690278,18.578611
+me,zecevina,Zecevina,00,,42.793889,18.555278
+me,zecevo selo,Zecevo Selo,00,,42.323889,18.829444
+me,zecije aluge,Zecije Aluge,00,,42.588611,18.752222
+me,zederovo brdo,Zederovo Brdo,00,,43.395556,19.238056
+me,zeicno,Zeicno,00,,43.296944,18.872778
+me,zekavice,Zekavice,00,,43.2675,19.380833
+me,zekovice,Zekovice,00,,43.2675,19.380833
+me,zelalici,Zelalici,00,,42.456944,18.649167
+me,zelenica,Zelenica,00,,42.451389,18.576667
+me,zeleni do,Zeleni Do,00,,42.463333,19.107778
+me,zelenika,Zelenika,00,,42.417222,19.248333
+me,zeljev do,Zeljev Do,00,,42.789722,18.511389
+me,zeljeznica,Zeljeznica,00,,42.110833,19.098333
+me,zenica,Zenica,00,,43.304722,19.344167
+me,zenjilov lug,Zenjilov Lug,00,,42.876389,19.536389
+me,zenj,Zenj,00,,42.034722,19.309722
+me,zgrada,Zgrada,00,,42.149167,19.041111
+me,zgrade,Zgrade,00,,42.149167,19.041111
+me,zidovici,Zidovici,00,,43.354444,19.317222
+me,ziljak,Ziljak,00,,43.080278,19.825278
+me,zirci,Zirci,00,,42.809722,19.457778
+me,ziva,Ziva,00,,42.687222,18.706111
+me,zivkov do,Zivkov Do,00,,43.446389,19.169167
+me,zivkovici,Zivkovici,00,,42.498056,19.39
+me,zkrs,Zkrs,00,,42.6725,19.973889
+me,zlatica,Zlatica,00,,42.471667,19.3025
+me,zlatna obala,Zlatna Obala,00,,42.131389,19.062778
+me,zlato,Zlato,00,,42.878056,18.692222
+me,zlijebi,Zlijebi,00,,42.483889,18.563056
+me,zljebina,Zljebina,00,,42.586944,18.835278
+me,zloglavlje,Zloglavlje,00,,42.883056,20.101944
+me,zlokovici,Zlokovici,00,,42.463056,18.654722
+me,zlostup,Zlostup,00,,43.008333,18.743611
+me,zmajevac,Zmajevac,00,,43.25,19.346389
+me,zmijice,Zmijice,00,,42.446111,18.578056
+me,zmijina,Zmijina,00,,42.580556,19.386667
+me,zminac,Zminac,00,,43.025,19.850278
+me,zminica,Zminica,00,,43.093056,19.2525
+me,zminjac,Zminjac,00,,42.958611,18.5375
+me,zmukici,Zmukici,00,,42.585833,18.695278
+me,zogaj,Zogaj,00,,41.948889,19.283611
+me,zoganje,Zoganje,00,,41.948889,19.283611
+me,zoganji,Zoganji,00,,41.948889,19.283611
+me,zoganj,Zoganj,00,,41.948889,19.283611
+me,zorilovici,Zorilovici,00,,43.486667,19.159167
+me,zovaca,Zovaca,00,,42.763611,19.068056
+me,zovica,Zovica,00,,42.568611,18.859167
+me,zovina,Zovina,00,,42.577778,18.805
+me,zrinje,Zrinje,00,,42.445556,18.499167
+me,zubac,Zubac,00,,42.185833,19.027778
+me,zugljaj,Zugljaj,00,,42.688611,18.55
+me,zukovica,Zukovica,00,,42.217222,18.944444
+me,zukva,Zukva,00,,42.962778,19.162778
+me,zupa dobrska,Zupa Dobrska,00,,42.393889,19.051389
+me,zupa,Zupa,00,,42.423056,18.704722
+me,zupci,Zupci,00,,42.128056,19.1225
+me,zupkovici,Zupkovici,00,,42.471944,18.509167
+me,zurena,Zurena,00,,42.973056,19.823889
+me,zuri,Zuri,00,,42.491667,19.193056
+me,zurnovice,Zurnovice,00,,43.024722,19.600833
+me,zvecara,Zvecara,00,,42.541111,18.641667
+me,zvecava,Zvecava,00,,42.541111,18.641667
+me,zvinja,Zvinja,00,,42.445556,18.499167
+me,zvinje,Zvinje,00,,42.445556,18.499167

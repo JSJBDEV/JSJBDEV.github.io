@@ -1,0 +1,42 @@
+li,balzers,Balzers,01,4447,47.0666667,9.5
+li,bendern,Bendern,03,,47.2166667,9.5
+li,blanken,Blanken,05,,47.1833333,9.5333333
+li,ebaholz,Ebaholz,11,,47.15,9.5166667
+li,ebenholz,Ebenholz,11,,47.15,9.5166667
+li,eschen,Eschen,02,4008,47.2166667,9.5166667
+li,gaflei,Gaflei,10,,47.1333333,9.5333333
+li,gambrin,Gambrin,03,,47.2166667,9.5
+li,gamprin-bendern,Gamprin-Bendern,03,,47.2166667,9.5
+li,gamprin,Gamprin,03,1268,47.2166667,9.5
+li,hinterer schellenberg,Hinterer Schellenberg,08,,47.2333333,9.5333333
+li,hinterschellenberg,Hinterschellenberg,08,,47.2333333,9.5333333
+li,hinter-schellenberg,Hinter-Schellenberg,08,,47.2333333,9.5333333
+li,mals,Mäls,01,,47.05,9.5
+li,masescha,Masescha,10,,47.1333333,9.5333333
+li,mauern,Mauern,04,,47.2166667,9.5333333
+li,mauren,Mauren,04,3626,47.2166667,9.5333333
+li,mittlerer schellenberg,Mittlerer Schellenberg,08,,47.2333333,9.5333333
+li,mittlerschellenberg,Mittlerschellenberg,08,,47.2333333,9.5333333
+li,mittler-schellenberg,Mittler-Schellenberg,08,,47.2333333,9.5333333
+li,moliholz,Möliholz,11,,47.15,9.5
+li,muhleholz,Mühleholz,11,,47.15,9.5
+li,nendeln,Nendeln,02,,47.2,9.55
+li,planken,Planken,05,377,47.1833333,9.5333333
+li,rotaboda,Rotaboda,10,,47.125,9.5333333
+li,rotenboden,Rotenboden,10,,47.125,9.5333333
+li,rugell,Rugell,06,,47.2333333,9.5166667
+li,ruggell,Ruggell,06,1862,47.2333333,9.5166667
+li,schaan,Schaan,07,5748,47.1666667,9.5
+li,schaanwald,Schaanwald,04,,47.2166667,9.5666667
+li,schan,Schan,07,,47.1666667,9.5
+li,schellenberg,Schellenberg,08,1004,47.2333333,9.5333333
+li,silum,Silum,10,,47.1333333,9.55
+li,sucka,Sücka,10,,47.1166667,9.5666667
+li,triesenberg,Triesenberg,10,2689,47.1166667,9.5333333
+li,triesen,Triesen,09,4701,47.1,9.5333333
+li,vaduz,Vaduz,11,5197,47.1333333,9.5166667
+li,vorderer schellenberg,Vorderer Schellenberg,08,,47.2333333,9.5333333
+li,vorderschellenberg,Vorderschellenberg,08,,47.2333333,9.5333333
+li,vorder-schellenberg,Vorder-Schellenberg,08,,47.2333333,9.5333333
+li,wangerbarg,Wangerbärg,09,,47.1,9.5333333
+li,wangerberg,Wangerberg,09,,47.1,9.5333333

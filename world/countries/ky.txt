@@ -1,0 +1,73 @@
+ky,banksville,Banksville,00,,19.7,-79.85
+ky,battle ground,Battle Ground,00,,19.3833333,-81.4
+ky,belford estates,Belford Estates,00,,19.2833333,-81.2333333
+ky,birch tree hill,Birch Tree Hill,00,,19.3833333,-81.4
+ky,blakes,Blakes,00,,19.3,-81.1
+ky,blossom point,Blossom Point,00,,19.6666667,-80.0833333
+ky,blossom village,Blossom Village,00,,19.6666667,-80.0833333
+ky,bodden,Bodden,00,,19.2833333,-81.25
+ky,bodden town,Bodden Town,00,6514,19.2833333,-81.25
+ky,botabano,Botabano,00,,19.3833333,-81.3833333
+ky,breakers,Breakers,00,,19.3,-81.2
+ky,breezy castle,Breezy Castle,00,,19.3,-81.3666667
+ky,brinkleys,Brinkleys,00,,19.35,-81.2333333
+ky,cayman palms,Cayman Palms,00,,19.2666667,-81.2666667
+ky,coral gables,Coral Gables,00,,19.3666667,-81.4166667
+ky,creek,Creek,00,,19.75,-79.7666667
+ky,dog city,Dog City,00,,19.3,-81.3833333
+ky,driftwood village,Driftwood Village,00,,19.35,-81.2333333
+ky,dusty place,Dusty Place,00,,19.3833333,-81.4
+ky,east end,East End,00,,19.3,-81.1166667
+ky,frenchman's fort,Frenchman's Fort,00,,19.7,-79.8833333
+ky,george town,George Town,00,27340,19.3,-81.3833333
+ky,gun bay,Gun Bay,00,,19.3166667,-81.1
+ky,gun bay village,Gun Bay Village,00,,19.3166667,-81.1
+ky,half moon bay,Half Moon Bay,00,,19.2833333,-81.1666667
+ky,half way pond,Half Way Pond,00,,19.2833333,-81.3666667
+ky,head of bay,Head of Bay,00,,19.6666667,-80.0666667
+ky,hell,Hell,00,,19.3833333,-81.4166667
+ky,high rock estates,High Rock Estates,00,,19.2833333,-81.1333333
+ky,hutland,Hutland,00,,19.35,-81.2166667
+ky,knob hill,Knob Hill,00,,19.6833333,-79.8833333
+ky,lambert house,Lambert House,00,,19.2666667,-81.4
+ky,lower valley,Lower Valley,00,,19.2833333,-81.2833333
+ky,midland acres,Midland Acres,00,,19.3,-81.2166667
+ky,molusca heights,Molusca Heights,00,,19.7333333,-79.7833333
+ky,mount pleasant,Mount Pleasant,00,,19.3833333,-81.4
+ky,newland,Newland,00,,19.2833333,-81.3
+ky,newlands,Newlands,00,,19.2833333,-81.3
+ky,north side,North Side,00,,19.35,-81.2
+ky,north side village,North Side Village,00,,19.35,-81.2
+ky,north sound estates,North Sound Estates,00,,19.3,-81.3
+ky,north ward,North Ward,00,,19.2833333,-81.2666667
+ky,old isaacs,Old Isaacs,00,,19.3,-81.1166667
+ky,old man bay,Old Man Bay,00,,19.35,-81.1833333
+ky,old man village,Old Man Village,00,,19.35,-81.1833333
+ky,old stores,Old Stores,00,,19.4,-81.4
+ky,omega gardens,Omega Gardens,00,,19.3,-81.3333333
+ky,pease bay,Pease Bay,00,,19.2833333,-81.2333333
+ky,pedro,Pedro,00,,19.2833333,-81.2666667
+ky,prospect park,Prospect Park,00,,19.2833333,-81.3333333
+ky,prospect,Prospect,00,,19.2666667,-81.35
+ky,red bay estate,Red Bay Estate,00,,19.2833333,-81.35
+ky,red bay,Red Bay,00,,19.2833333,-81.35
+ky,rock hole,Rock Hole,00,,19.3,-81.3666667
+ky,saint james,Saint James,00,,19.2666667,-81.3
+ky,sand bluff,Sand Bluff,00,,19.3166667,-81.0833333
+ky,savannah acres,Savannah Acres,00,,19.2833333,-81.3
+ky,savannah,Savannah,00,,19.2666667,-81.3
+ky,south hole,South Hole,00,,19.6666667,-80.0833333
+ky,south town,South Town,00,,19.6666667,-80.0833333
+ky,spot bay,Spot Bay,00,,19.75,-79.75
+ky,spotts,Spotts,00,,19.2666667,-81.3166667
+ky,the common,The Common,00,,19.3833333,-81.4
+ky,the moorings,The Moorings,00,,19.7333333,-79.7833333
+ky,tibbetts turn,Tibbetts Turn,00,,19.7333333,-79.7833333
+ky,town hall crescent,Town Hall Crescent,00,,19.3833333,-81.4166667
+ky,tropical gardens,Tropical Gardens,00,,19.2833333,-81.35
+ky,upper land,Upper Land,00,,19.35,-81.3833333
+ky,vicksville,Vicksville,00,,19.3666667,-81.4166667
+ky,water ground,Water Ground,00,,19.3833333,-81.4
+ky,west bay,West Bay,00,10768,19.3666667,-81.4166667
+ky,west end,West End,00,,19.3666667,-81.4166667
+ky,whitehall estate,Whitehall Estate,00,,19.3,-81.3666667

@@ -1,0 +1,13 @@
+nr,anabar,Anabar,00,,-0.5166667,166.95
+nr,aneber,Aneber,00,,-0.5166667,166.95
+nr,anibare,Anibare,00,,-0.5333333,166.95
+nr,anna,Anna,00,,-0.5,166.9333333
+nr,enniberri,Enniberri,00,,-0.5333333,166.95
+nr,ijub,Ijub,00,,-0.5166667,166.95
+nr,ijuh,Ijuh,00,,-0.5166667,166.95
+nr,ijuw,Ijuw,00,,-0.5166667,166.95
+nr,mueoen,Mueoen,00,,-0.5166667,166.9166667
+nr,ronave,Ronave,00,,-0.5,166.9333333
+nr,uaboe,Uaboe,00,,-0.5166667,166.9166667
+nr,waboe,Waboe,00,,-0.5166667,166.9166667
+nr,yangor,Yangor,00,,-0.5333333,166.9166667

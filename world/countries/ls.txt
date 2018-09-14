@@ -1,0 +1,439 @@
+ls,abebe,Abebe,14,,-29.6333333,27.65
+ls,abele,Abele,14,,-29.6333333,27.65
+ls,alwyns kop,Alwyns Kop,18,,-30.4,27.6166667
+ls,baroaneng,Baroaneng,13,,-29.7166667,27.35
+ls,berea hills,Berea Hills,10,,-29.2333333,27.6166667
+ls,berente,Berente,15,,-29.9,27.65
+ls,blue gums,Blue Gums,18,,-30.35,27.55
+ls,blue gums store,Blue Gums Store,18,,-30.35,27.55
+ls,bokatis store,Bokatis Store,14,,-29.35,27.6
+ls,bokong,Bokong,19,,-29.3333333,28.4666667
+ls,bolepeletsa,Bolepeletsa,18,,-30.45,27.6166667
+ls,bolumatau,Bolumatau,13,,-29.75,27.2
+ls,boqate,Boqate,14,,-29.35,27.6
+ls,botsabelo asylum,Botsabelo Asylum,14,,-29.2666667,27.5166667
+ls,botsabelo,Botsabelo,14,,-29.2666667,27.5166667
+ls,brakfontein,Brakfontein,15,,-30.25,27.45
+ls,butha-buthe,Butha-Buthe,11,,-28.7833333,28.2333333
+ls,cana,Cana,10,,-29.1166667,27.85
+ls,chere,Chere,13,,-29.6,27.1666667
+ls,cheri,Cheri,13,,-29.6,27.1666667
+ls,chete,Chete,14,,-29.5166667,27.8166667
+ls,choatlella,Choatlella,14,,-29.4833333,27.5166667
+ls,corn exchange,Corn Exchange,12,,-28.9833333,27.9833333
+ls,cutting camp,Cutting Camp,18,,-30.2666667,27.75
+ls,dibuno's,Dibuno's,11,,-28.6333333,28.5666667
+ls,dikupa,Dikupa,13,,-29.7666667,27.3
+ls,dilli dilli,Dilli Dilli,18,,-30.5166667,27.6333333
+ls,dinkung,Dinkung,11,,-28.6166667,28.5166667
+ls,emmaus,Emmaus,13,,-29.7666667,27.55
+ls,fako,Fako,10,,-29.2833333,27.8166667
+ls,fako's,Fako's,10,,-29.2833333,27.8166667
+ls,fako store,Fako Store,10,,-29.2833333,27.8166667
+ls,fort hartley,Fort Hartley,18,,-30.3333333,27.75
+ls,fosi,Fosi,10,,-29.4333333,27.8666667
+ls,foso,Foso,14,,-29.2666667,27.5666667
+ls,george,George,10,,-29.25,27.95
+ls,griffiths,Griffiths,18,,-30.25,27.8166667
+ls,hangers drift,Hangers Drift,14,,-29.2,27.5666667
+ls,ha nohana,Ha Nohana,18,,-30.0666667,27.85
+ls,helehehle,Helehehle,15,,-29.9833333,27.5
+ls,hellspoort,Hellspoort,13,,-29.8666667,27.4
+ls,hellspoort store,Hellspoort Store,13,,-29.8666667,27.4
+ls,helspoort,Helspoort,13,,-29.8666667,27.4
+ls,hendriks,Hendriks,11,,-28.6333333,28.4
+ls,hermon,Hermon,13,,-29.7333333,27.1166667
+ls,hill top,Hill Top,17,,-30.0333333,28.7833333
+ls,hlakametas,Hlakametas,11,,-28.7,28.4333333
+ls,hlakametsa,Hlakametsa,11,,-28.7,28.4333333
+ls,hlakametsas,Hlakametsas,11,,-28.7,28.4333333
+ls,hlakanelo,Hlakanelo,19,,-29.7166667,28.8
+ls,hlotse camp,Hlotse Camp,12,,-28.85,28.0666667
+ls,hlotse,Hlotse,12,46416,-28.8833333,28.05
+ls,hobsons,Hobsons,12,,-29.1166667,27.9666667
+ls,jaele,Jaele,10,,-29.4666667,27.8666667
+ls,jael,Jael,10,,-29.4666667,27.8666667
+ls,joel,Joel,11,,-28.6833333,28.2833333
+ls,joels drift,Joels Drift,11,,-28.7,28.2833333
+ls,joels,Joels,11,,-28.6833333,28.2833333
+ls,john matsaba,John Matsaba,14,,-29.65,27.75
+ls,jonathan,Jonathan,12,,-28.8166667,28.1
+ls,jonathans,Jonathans,12,,-28.8166667,28.1
+ls,kala,Kala,11,,-28.7166667,28.3333333
+ls,kalo,Kalo,11,,-28.7166667,28.3333333
+ls,kalokuni,Kalokuni,18,,-30.5666667,27.7333333
+ls,kaphe,Kaphe,15,,-29.9666667,27.65
+ls,kapi,Kapi,15,,-29.9666667,27.65
+ls,kelechane,Kelechane,13,,-29.7333333,27.7666667
+ls,kena,Kena,13,,-29.7666667,27.65
+ls,kepi,Kepi,10,,-29.1666667,27.7833333
+ls,khabos,Khabos,11,,-28.8333333,28.2333333
+ls,khalechane,Khalechane,13,,-29.7333333,27.7666667
+ls,khamolane,Khamolane,10,,-29.35,27.7333333
+ls,khetisas,Khetisas,12,,-28.9166667,28.1666667
+ls,khitsane,Khitsane,15,,-30.1,27.4166667
+ls,khotsa,Khotsa,10,,-29.3833333,27.7666667
+ls,khotsi,Khotsi,12,,-29.0666667,27.95
+ls,khotsis,Khotsis,12,,-29.0666667,27.95
+ls,khukhune,Khukhune,11,,-28.7166667,28.4166667
+ls,khukuhune,Khukuhune,11,,-28.7166667,28.4166667
+ls,koadi,Koadi,10,,-29.2333333,27.7833333
+ls,koali,Koali,10,,-29.2333333,27.7833333
+ls,koeneng,Koeneng,12,,-29.0333333,28.0
+ls,kojoa,Kojoa,15,,-29.8666667,27.6666667
+ls,kokodia,Kokodia,10,,-29.3166667,27.9166667
+ls,kokolia,Kokolia,10,,-29.3166667,27.9166667
+ls,kolo,Kolo,13,,-29.6,27.3333333
+ls,kolonyama,Kolonyama,10,,-29.0666667,27.7333333
+ls,koro-koro,Koro-Koro,14,,-29.5,27.6333333
+ls,kubung,Kubung,18,,-30.0833333,28.0166667
+ls,kueneng,Kueneng,12,,-29.0666667,28.0166667
+ls,kwening,Kwening,12,,-29.0666667,28.0166667
+ls,kwepe,Kwepe,13,,-29.85,27.5666667
+ls,laoti,Laoti,11,,-29.0333333,28.5166667
+ls,lebingwanas cattle post,Lebingwanas Cattle Post,16,,-28.9166667,28.9
+ls,ledingwana's cattle post,Ledingwana's Cattle Post,16,,-28.9166667,28.9
+ls,lehloenyas,Lehloenyas,14,,-29.5666667,27.55
+ls,lehlohonolo,Lehlohonolo,10,,-29.1333333,27.6833333
+ls,lehlonia,Lehlonia,14,,-29.5666667,27.55
+ls,lejone,Lejone,12,,-29.1,28.4833333
+ls,lekhoa,Lekhoa,10,,-29.5333333,27.8833333
+ls,lekhoa,Lekhoa,13,,-29.65,27.4666667
+ls,lekhoa,Lekhoa,18,,-29.9,27.9166667
+ls,lekhoatsas,Lekhoatsas,13,,-29.9,27.45
+ls,lekhooa,Lekhooa,18,,-29.9,27.9166667
+ls,leklatsa,Leklatsa,14,,-29.35,27.4833333
+ls,lekoatsa,Lekoatsa,13,,-29.9,27.45
+ls,lekokoaneng,Lekokoaneng,10,,-29.1333333,27.6833333
+ls,lepatsa,Lepatsa,11,,-28.6166667,28.5166667
+ls,leribe,Leribe,12,,-28.8833333,28.05
+ls,lersuelas,Lersuelas,12,,-29.0333333,28.1
+ls,letseng-la-draai,Letseng-la-Draai,16,,-28.9166667,28.8166667
+ls,letseng-la-terae,Letseng-la-Terae,16,,-28.9166667,28.8166667
+ls,letsie,Letsie,13,,-29.8333333,27.3166667
+ls,letsika,Letsika,11,,-28.6833333,28.4333333
+ls,letsikas,Letsikas,11,,-28.6333333,28.3833333
+ls,leutsoa,Leutsoa,14,,-29.5333333,27.5166667
+ls,libono,Libono,11,,-28.6333333,28.5666667
+ls,libono's,Libono's,11,,-28.6333333,28.5666667
+ls,likhakeng,Likhakeng,13,,-29.6166667,27.3166667
+ls,likhoele,Likhoele,13,,-29.8,27.2833333
+ls,likolojane,Likolojane,12,,-29.0333333,27.9666667
+ls,likotsi,Likotsi,14,,-29.4,27.4666667
+ls,likupa,Likupa,13,,-29.7666667,27.3
+ls,liphakoeng,Liphakoeng,11,,-28.7333333,28.3333333
+ls,liphateng,Liphateng,15,,-30.0333333,27.4333333
+ls,lipolisa,Lipolisa,14,,-29.4,27.4666667
+ls,lirahalibonoe,Lirahalibonoe,10,,-29.45,27.9333333
+ls,litsilong,Litsilong,10,,-29.2166667,27.7
+ls,loutsa,Loutsa,14,,-29.5333333,27.5166667
+ls,lower qeme,Lower Qeme,14,,-29.55,27.5
+ls,mabotse,Mabotse,13,,-29.6333333,27.0666667
+ls,mabotsi,Mabotsi,13,,-29.6333333,27.0666667
+ls,machekoaneng,Machekoaneng,14,,-29.45,27.55
+ls,madibe,Madibe,18,,-30.25,27.95
+ls,mafeteng,Mafeteng,13,40591,-29.8166667,27.25
+ls,maghaleen,Maghaleen,15,,-30.1666667,27.4
+ls,maghalleen,Maghalleen,15,,-30.1666667,27.4
+ls,mahatlames,Mahatlames,10,,-29.2,27.8333333
+ls,mahatlane,Mahatlane,10,,-29.2,27.8333333
+ls,mahatlanes,Mahatlanes,10,,-29.2,27.8333333
+ls,mahlakoanas,Mahlakoanas,18,,-30.2,27.9666667
+ls,mahlatsas nek,Mahlatsas Nek,10,,-29.2166667,27.9833333
+ls,mahloenyeng,Mahloenyeng,14,,-29.5666667,27.55
+ls,majatla,Majatla,10,,-29.2166667,27.7
+ls,makadinyane,Makadinyane,14,,-29.4833333,27.3666667
+ls,makakaitsa,Makakaitsa,10,,-29.0166667,27.7666667
+ls,makati,Makati,10,,-29.1166667,27.95
+ls,makhaketsa,Makhaketsa,10,,-29.0166667,27.7666667
+ls,makhalaneng,Makhalaneng,14,,-29.6166667,27.7666667
+ls,makhalanyane,Makhalanyane,14,,-29.4,27.6166667
+ls,makhalanyanes,Makhalanyanes,14,,-29.4,27.6166667
+ls,makhaleng,Makhaleng,10,,-29.5166667,27.9
+ls,makhinas,Makhinas,15,,-30.15,27.35
+ls,makhoas,Makhoas,12,,-28.9666667,28.1166667
+ls,makhoate,Makhoate,14,,-29.35,27.6
+ls,makhoathi,Makhoathi,14,,-29.35,27.6
+ls,makoalis,Makoalis,10,,-29.2333333,27.7833333
+ls,makojang,Makojang,15,,-29.9333333,27.7333333
+ls,makoyang,Makoyang,15,,-29.9333333,27.7333333
+ls,makuaes,Makuaes,18,,-30.2833333,28.0666667
+ls,malaleng,Malaleng,13,,-29.65,27.3333333
+ls,malealea,Malealea,13,,-29.85,27.5666667
+ls,malibe,Malibe,18,,-30.25,27.95
+ls,mamathe,Mamathe,10,,-29.1333333,27.85
+ls,mamathes,Mamathes,10,,-29.1333333,27.85
+ls,mamati,Mamati,10,,-29.1333333,27.85
+ls,manama,Manama,10,,-29.0666667,27.7333333
+ls,mankimane,Mankimane,13,,-29.85,27.35
+ls,mantoetsi,Mantoetsi,10,,-29.15,27.9
+ls,mantsa,Mantsa,14,,-29.65,27.85
+ls,mantsebo,Mantsebo,14,,-29.4833333,27.5166667
+ls,maphutseng,Maphutseng,15,,-30.2166667,27.5166667
+ls,mapoteng,Mapoteng,12,,-29.1,27.9833333
+ls,mapotu,Mapotu,13,,-29.65,27.2333333
+ls,maputseng store,Maputseng Store,15,,-30.2166667,27.5166667
+ls,maputsoe,Maputsoe,03,,-28.8833333,27.9
+ls,marakabei,Marakabei,19,,-29.5333333,28.15
+ls,marakabeis,Marakabeis,19,,-29.5333333,28.15
+ls,maseru,Maseru,14,194387,-29.3166667,27.4833333
+ls,mashai,Mashai,19,,-29.6666667,28.7833333
+ls,masilo,Masilo,11,,-28.6333333,28.4
+ls,masiribani,Masiribani,18,,-30.2666667,27.8833333
+ls,masite nek,Masite Nek,14,,-29.5833333,27.4833333
+ls,masitise,Masitise,18,,-30.4,27.65
+ls,masoeling,Masoeling,10,,-29.1666667,27.95
+ls,massabiella,Massabiella,14,,-29.5333333,27.5833333
+ls,masupha,Masupha,10,,-29.1333333,27.85
+ls,matbang,Matbang,14,,-29.3333333,27.6666667
+ls,matedile store,Matedile Store,13,,-29.8166667,27.5333333
+ls,mateka,Mateka,10,,-29.2333333,27.8833333
+ls,matekas,Matekas,10,,-29.2333333,27.8833333
+ls,matela,Matela,10,,-29.3833333,27.7666667
+ls,matelas,Matelas,10,,-29.3833333,27.7666667
+ls,matelile,Matelile,13,,-29.8166667,27.5333333
+ls,mathokoane,Mathokoane,12,,-28.9666667,28.05
+ls,matsaba,Matsaba,14,,-29.65,27.75
+ls,matsaile,Matsaile,17,,-29.85,28.7833333
+ls,matsieng,Matsieng,14,,-29.6166667,27.5666667
+ls,matsohani,Matsohani,11,,-28.85,28.2
+ls,mazenod,Mazenod,14,,-29.4166667,27.5666667
+ls,mekading,Mekading,15,,-30.2833333,27.5166667
+ls,mekaling,Mekaling,15,,-30.2833333,27.5166667
+ls,metolong,Metolong,10,,-29.35,27.8
+ls,modiboea,Modiboea,12,,-28.9,28.1
+ls,mofoka,Mofoka,14,,-29.5166667,27.6
+ls,mofokas,Mofokas,14,,-29.5166667,27.6
+ls,mohale's hoek,Mohale's Hoek,15,,-30.15,27.4666667
+ls,mohlafateng,Mohlafateng,03,,-29.0333333,27.8666667
+ls,mohlakoanas,Mohlakoanas,18,,-30.2,27.9666667
+ls,mohlakwana,Mohlakwana,18,,-30.2,27.9666667
+ls,mohlanapeng,Mohlanapeng,19,,-29.6,28.65
+ls,mohlehli,Mohlehli,13,,-29.75,27.2
+ls,moitsupelis,Moitsupelis,14,,-29.5833333,27.7666667
+ls,mojela,Mojela,10,,-29.5333333,27.8833333
+ls,mokema,Mokema,14,,-29.4666667,27.65
+ls,mokemas store,Mokemas Store,14,,-29.4666667,27.65
+ls,mokhalinyane,Mokhalinyane,14,,-29.4833333,27.3666667
+ls,mokhathis,Mokhathis,10,,-29.1166667,27.95
+ls,mokhotlong,Mokhotlong,16,5484,-29.2833333,29.0833333
+ls,mokibinyani,Mokibinyani,15,,-30.0333333,27.4333333
+ls,moklepu,Moklepu,13,,-29.7666667,27.55
+ls,mokoeng,Mokoeng,16,,-29.2333333,28.9666667
+ls,mokomane,Mokomane,11,,-29.0,28.5333333
+ls,mokonyane,Mokonyane,10,,-29.2833333,27.8666667
+ls,mokoroane,Mokoroane,13,,-29.9166667,27.2333333
+ls,mokotoko,Mokotoko,10,,-29.35,27.8
+ls,mokunyane,Mokunyane,10,,-29.2833333,27.8666667
+ls,molaoa,Molaoa,17,,-29.8,28.8166667
+ls,molao,Molao,17,,-29.8,28.8166667
+ls,molefis,Molefis,11,,-28.7666667,28.2833333
+ls,moletsane,Moletsane,13,,-29.9166667,27.3166667
+ls,moletsanes,Moletsanes,12,,-29.1666667,28.05
+ls,moletsane's store,Moletsane's Store,12,,-29.1666667,28.05
+ls,moletsane's store,Moletsane's Store,13,,-29.9166667,27.3166667
+ls,moletsani store,Moletsani Store,12,,-29.1666667,28.05
+ls,moliboeas,Moliboeas,12,,-28.9,28.1
+ls,molomo,Molomo,13,,-29.7166667,27.5166667
+ls,molomos hoek,Molomos Hoek,13,,-29.7166667,27.4666667
+ls,molumong,Molumong,16,,-29.35,29.0166667
+ls,monaheng,Monaheng,15,,-29.8666667,27.7166667
+ls,monantsa,Monantsa,11,,-28.5666667,28.6333333
+ls,monyake,Monyake,13,,-29.95,27.35
+ls,monyaki,Monyaki,13,,-29.95,27.35
+ls,mopoto,Mopoto,13,,-29.65,27.2333333
+ls,morameng,Morameng,10,,-29.1,27.7
+ls,morife,Morife,15,,-30.2833333,27.4
+ls,morife store,Morife Store,15,,-30.2833333,27.4
+ls,morifi,Morifi,15,,-30.2833333,27.4
+ls,morija,Morija,13,,-29.6333333,27.5166667
+ls,morunyaneng,Morunyaneng,13,,-29.8166667,27.5333333
+ls,mosala,Mosala,13,,-29.7333333,27.5666667
+ls,mosalas,Mosalas,13,,-29.7333333,27.5666667
+ls,mosekuwa's store,Mosekuwa's Store,13,,-29.7,27.45
+ls,mosetlas,Mosetlas,18,,-30.3333333,27.75
+ls,mosetle,Mosetle,18,,-30.3333333,27.75
+ls,motanyane,Motanyane,13,,-29.7333333,27.7166667
+ls,motloang,Motloang,14,,-29.3333333,27.6666667
+ls,motsekuoa,Motsekuoa,13,,-29.7,27.45
+ls,motsekuoas,Motsekuoas,13,,-29.7,27.45
+ls,motsie,Motsie,17,,-29.9166667,28.2833333
+ls,mount moorosi,Mount Moorosi,18,,-30.2666667,27.8833333
+ls,mount moroosi,Mount Moroosi,18,,-30.2666667,27.8833333
+ls,moyeni camp,Moyeni Camp,18,,-30.3666667,27.7333333
+ls,moyeni,Moyeni,18,,-30.4,27.7166667
+ls,mpharane,Mpharane,15,,-30.0166667,27.55
+ls,mphoto,Mphoto,14,,-29.45,27.5833333
+ls,mpite,Mpite,17,,-30.0666667,28.6166667
+ls,mpiti,Mpiti,17,,-30.0666667,28.6166667
+ls,mpobong,Mpobong,13,,-29.7666667,27.8
+ls,mutlanyane,Mutlanyane,11,,-28.8166667,28.45
+ls,nako,Nako,14,,-29.6166667,27.7666667
+ls,naku,Naku,14,,-29.6166667,27.7666667
+ls,na nohama,Na Nohama,18,,-30.0666667,27.85
+ls,neni,Neni,17,,-30.2,28.35
+ls,nkata,Nkata,14,,-29.45,27.55
+ls,nkeleng,Nkeleng,15,,-30.2833333,27.5166667
+ls,nkesi,Nkesi,14,,-29.6666667,27.8
+ls,nthamaha,Nthamaha,18,,-29.9833333,27.9166667
+ls,nthodimonate,Nthodimonate,18,,-30.4833333,27.75
+ls,ntilane,Ntilane,13,,-29.9666667,27.2833333
+ls,ntlama,Ntlama,10,,-29.1833333,27.8666667
+ls,ntlamas,Ntlamas,10,,-29.1833333,27.8666667
+ls,ntsane,Ntsane,14,,-29.5166667,27.8166667
+ls,ntsi,Ntsi,14,,-29.4,27.75
+ls,numolani,Numolani,16,,-29.05,28.9666667
+ls,nyakosoba,Nyakosoba,14,,-29.55,27.7833333
+ls,nyane,Nyane,19,,-29.5666667,28.2333333
+ls,old mohales hoek,Old Mohales Hoek,15,,-30.1,27.4833333
+ls,old mohales hoek store,Old Mohales Hoek Store,15,,-30.1,27.4833333
+ls,palama,Palama,14,,-29.5833333,27.4833333
+ls,patrick,Patrick,14,,-29.5166667,27.7666667
+ls,peete molapo,Peete Molapo,12,,-28.9666667,28.05
+ls,peka,Peka,03,,-28.9666667,27.75
+ls,peka,Peka,11,,-28.85,28.2
+ls,petlane,Petlane,13,,-29.6166667,27.3166667
+ls,phafoli,Phafoli,13,,-29.8,27.6833333
+ls,phafudi,Phafudi,13,,-29.8,27.6833333
+ls,phamong,Phamong,18,,-30.25,27.8166667
+ls,phatso,Phatso,10,,-29.1666667,27.95
+ls,phoofolo,Phoofolo,10,,-29.0666667,27.8333333
+ls,phoofolo's,Phoofolo's,10,,-29.0666667,27.8333333
+ls,pitseng,Pitseng,12,,-29.0166667,28.2
+ls,pitseng,Pitseng,13,,-29.85,27.6
+ls,pufulo,Pufulo,10,,-29.0666667,27.8333333
+ls,qaba,Qaba,13,,-29.85,27.6
+ls,qacha's neck,Qacha's Neck,17,,-30.1166667,28.6833333
+ls,qachasnek camp,Qachasnek Camp,17,,-30.1166667,28.6833333
+ls,qachas nek camp,Qachas Nek Camp,17,,-30.1166667,28.6833333
+ls,qacha's nek,Qacha's Nek,17,,-30.1166667,28.6833333
+ls,qacha's nek residency,Qacha's Nek Residency,17,,-30.1166667,28.6833333
+ls,qalaheng,Qalaheng,10,,-29.2333333,27.6166667
+ls,qamako,Qamako,13,,-29.8,27.4
+ls,qhoobeng,Qhoobeng,18,,-29.95,27.9
+ls,qiloane,Qiloane,10,,-29.3333333,27.7
+ls,qomoqomong,Qomoqomong,18,,-30.4333333,27.7333333
+ls,quthing,Quthing,18,17073,-30.4,27.7166667
+ls,rafolatsana,Rafolatsana,16,,-29.3666667,29.0333333
+ls,rafolatsane,Rafolatsane,16,,-29.3666667,29.0333333
+ls,rakotoane,Rakotoane,11,,-29.0166667,28.5666667
+ls,rakoto,Rakoto,12,,-29.0666667,27.95
+ls,raleqheka,Raleqheka,14,,-29.6833333,27.7
+ls,raleqika,Raleqika,14,,-29.6833333,27.7
+ls,ramabitsa,Ramabitsa,13,,-29.7333333,27.7166667
+ls,ramahleas,Ramahleas,13,,-29.75,27.15
+ls,ramahleos,Ramahleos,13,,-29.75,27.15
+ls,ramapepe,Ramapepe,12,,-29.0,28.1666667
+ls,ramatsediso,Ramatsediso,17,,-30.0333333,28.9166667
+ls,ramatseliso,Ramatseliso,17,,-30.0333333,28.9166667
+ls,ramoihloe store,Ramoihloe Store,13,,-29.75,27.15
+ls,ramosoeu,Ramosoeu,13,,-29.9,27.5166667
+ls,ramosueu,Ramosueu,13,,-29.9,27.5166667
+ls,ranko,Ranko,13,,-29.5666667,27.2333333
+ls,rantolo,Rantolo,15,,-29.9,27.65
+ls,rasebetsana,Rasebetsana,15,,-29.85,27.75
+ls,rasebetsane,Rasebetsane,15,,-29.85,27.75
+ls,rasekilas,Rasekilas,11,,-28.75,28.35
+ls,ratau,Ratau,10,,-29.3666667,27.75
+ls,reisi,Reisi,13,,-29.6333333,27.4
+ls,ribaneng,Ribaneng,15,,-29.8666667,27.6666667
+ls,richard,Richard,15,,-29.8833333,27.6166667
+ls,riet vlei,Riet Vlei,15,,-30.0166667,27.3333333
+ls,rietvlei store,Rietvlei Store,15,,-30.0166667,27.3333333
+ls,roma mission,Roma Mission,14,,-29.45,27.7333333
+ls,roma,Roma,14,,-29.45,27.7333333
+ls,saint anne of auray,Saint Anne of Auray,19,,-29.5666667,28.2333333
+ls,saint john baptist,Saint John Baptist,19,,-29.5333333,28.15
+ls,saint joseph's,Saint Joseph's,14,,-29.5,27.6333333
+ls,saint patrick,Saint Patrick,14,,-29.5166667,27.7666667
+ls,schoolplaats,Schoolplaats,15,,-30.3,27.5
+ls,seapa,Seapa,17,,-30.05,28.4833333
+ls,seetsas,Seetsas,12,,-28.9166667,28.1833333
+ls,sefikeng,Sefikeng,10,,-29.25,27.8
+ls,seforong,Seforong,17,,-30.05,28.2666667
+ls,sehlabathebe,Sehlabathebe,17,,-29.8666667,29.0833333
+ls,sehlo,Sehlo,10,,-29.3166667,27.7833333
+ls,sehonghong,Sehonghong,17,,-29.8,28.8166667
+ls,sekake,Sekake,17,,-30.0,28.35
+ls,sekakes,Sekakes,17,,-30.0,28.35
+ls,sekameng,Sekameng,13,,-29.5666667,27.2333333
+ls,sekoala,Sekoala,14,,-29.4333333,27.4666667
+ls,sekoalas,Sekoalas,14,,-29.4333333,27.4666667
+ls,sekoke,Sekoke,17,,-30.0,28.35
+ls,sekwale,Sekwale,14,,-29.4333333,27.4666667
+ls,selomas,Selomas,11,,-28.7666667,28.3333333
+ls,selomo,Selomo,11,,-28.7666667,28.3333333
+ls,selomos,Selomos,11,,-28.7666667,28.3333333
+ls,senekal,Senekal,10,,-29.25,27.7333333
+ls,senekals,Senekals,10,,-29.25,27.7333333
+ls,senekane,Senekane,10,,-29.25,27.7333333
+ls,sepanies gate,Sepanies Gate,13,,-29.7166667,27.0833333
+ls,sepapo's,Sepapo's,13,,-29.95,27.2
+ls,sepapus gate,Sepapus Gate,13,,-29.95,27.2
+ls,sepechele,Sepechele,13,,-29.8,27.3833333
+ls,sephapos gate,Sephapos Gate,13,,-29.95,27.2
+ls,serutle,Serutle,11,,-28.7166667,28.3166667
+ls,serutli store,Serutli Store,11,,-28.7166667,28.3166667
+ls,seshophe,Seshophe,12,,-29.0333333,27.9666667
+ls,setleketseng,Setleketseng,10,,-29.6,28.0
+ls,setleketseng,Setleketseng,14,,-29.6333333,27.65
+ls,setleketsing,Setleketsing,10,,-29.6,28.0
+ls,seutloali,Seutloali,10,,-29.1666667,27.95
+ls,sibi sibi,Sibi Sibi,15,,-29.9166667,27.8
+ls,sikaki,Sikaki,17,,-30.0,28.35
+ls,siloe,Siloe,13,,-29.95,27.2833333
+ls,sinxondo,Sinxondo,18,,-30.5666667,27.7333333
+ls,sishupi,Sishupi,12,,-29.0333333,27.9666667
+ls,tabola,Tabola,03,,-28.9833333,27.8333333
+ls,tajane,Tajane,13,,-29.7166667,27.5166667
+ls,tapisi,Tapisi,18,,-30.45,27.6166667
+ls,tau,Tau,12,,-29.0166667,28.1833333
+ls,tayane,Tayane,13,,-29.7166667,27.5166667
+ls,teba,Teba,18,,-29.95,27.9
+ls,terae,Terae,16,,-28.9166667,28.8166667
+ls,teyateyaneng,Teyateyaneng,10,25149,-29.15,27.7333333
+ls,thaba bosigo,Thaba Bosigo,14,,-29.3666667,27.6833333
+ls,thaba bosiu,Thaba Bosiu,14,,-29.3666667,27.6833333
+ls,thabana morena,Thabana Morena,13,,-29.9333333,27.4
+ls,thabaneng,Thabaneng,13,,-29.8166667,27.5
+ls,thaba putsoa,Thaba Putsoa,19,,-29.5833333,28.0666667
+ls,thaba-tseka,Thaba-Tseka,19,4843,-29.5333333,28.6
+ls,thabatsoeu,Thabatsoeu,13,,-29.8,27.4
+ls,thakabannas cattle post,Thakabannas Cattle Post,11,,-28.75,28.65
+ls,thakabannas,Thakabannas,11,,-28.6333333,28.4666667
+ls,thakabanna,Thakabanna,11,,-28.6333333,28.4666667
+ls,theba,Theba,18,,-29.95,27.9
+ls,theetsoa,Theetsoa,17,,-29.7166667,27.9
+ls,thekos,Thekos,14,,-29.4166667,27.7666667
+ls,theko,Theko,10,,-29.3666667,27.75
+ls,theko,Theko,14,,-29.4166667,27.7666667
+ls,thokoa,Thokoa,10,,-29.0333333,27.7833333
+ls,tholo,Tholo,11,,-29.0333333,28.5166667
+ls,tholo,Tholo,13,,-29.5833333,27.25
+ls,thulo,Thulo,13,,-29.5833333,27.25
+ls,tikoe,Tikoe,14,,-29.35,27.4833333
+ls,tlalis,Tlalis,14,,-29.6,27.7166667
+ls,tlali,Tlali,14,,-29.6,27.7166667
+ls,tlhakanelo,Tlhakanelo,19,,-29.7166667,28.8
+ls,tlokoeng,Tlokoeng,16,,-29.2333333,28.9666667
+ls,toloane,Toloane,13,,-29.65,27.4666667
+ls,tosing,Tosing,18,,-30.35,27.9
+ls,tsa kholo,Tsa Kholo,13,,-29.6666667,27.15
+ls,tsehlos,Tsehlos,10,,-29.3166667,27.7833333
+ls,tsehlo,Tsehlo,10,,-29.3166667,27.7833333
+ls,tseka,Tseka,14,,-29.4,27.5333333
+ls,tsiame,Tsiame,14,,-29.4,27.4666667
+ls,tsikoane,Tsikoane,12,,-28.9,28.0166667
+ls,tsime,Tsime,11,,-28.75,28.4166667
+ls,tsius,Tsius,14,,-29.5333333,27.5833333
+ls,tsiu,Tsiu,14,,-29.5333333,27.5833333
+ls,tsoelike,Tsoelike,17,,-30.0166667,28.6666667
+ls,tsoloane,Tsoloane,15,,-30.0166667,27.3666667
+ls,tsoloani,Tsoloani,15,,-30.0166667,27.3666667
+ls,tsupane gate,Tsupane Gate,13,,-29.7166667,27.0833333
+ls,tsupani gate,Tsupani Gate,13,,-29.7166667,27.0833333
+ls,umtamana,Umtamana,18,,-29.9833333,27.9166667
+ls,upper qeme,Upper Qeme,14,,-29.4833333,27.5166667
+ls,van roiyan's gate,Van Roiyan's Gate,13,,-29.75,27.1166667
+ls,van rooyens gate,Van Rooyens Gate,13,,-29.75,27.1166667
+ls,white hill,White Hill,17,,-30.05,28.4833333
