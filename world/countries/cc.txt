@@ -1,1 +1,2 @@
 cc,bantam village,Bantam Village,00,,-12.1166667,96.8833333
+cc,west island,West Island,00,120,-12.186944, 96.828333
