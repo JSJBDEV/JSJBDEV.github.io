@@ -1,8 +1,7 @@
-Country,City,AccentCity,Region,Population,Latitude,Longitude
-ad,aixas,Aix‡s,06,,42.4833333,1.4666667
+ad,aixas,Aix√†s,06,,42.4833333,1.4666667
 ad,andorra,Andorra,07,,42.5,1.5166667
 ad,ansalonga,Ansalonga,04,,42.5666667,1.5166667
-ad,anyos,AnyÛs,05,,42.5333333,1.5333333
+ad,anyos,Any√≥s,05,,42.5333333,1.5333333
 ad,canillo,Canillo,02,3292,42.5666667,1.6
 ad,casas vila,Casas Vila,03,,42.5333333,1.5666667
 ad,engordany,Engordany,08,,42.5166667,1.55
@@ -240,13 +239,13 @@ be,aalst,Aalst,05,,50.783333,5.2
 be,aard,Aard,01,,51.416667,4.716667
 be,aarlen,Aarlen,06,,49.683333,5.816667
 be,aat,Aat,03,,50.633333,3.783333
-be,abee,AbÈe,04,,50.466667,5.35
-be,abime,AbÓme,07,,50.266667,5.233333
+be,abee,Ab√©e,04,,50.466667,5.35
+be,abime,Ab√Æme,07,,50.266667,5.233333
 be,anderlecht,Anderlecht,11,,50.833333,4.3
 be,leuven,Leuven,12,92892,50.883333,4.7
 be,waver,Waver,10,,50.716667,4.616667
 bf,abanga,Abanga,38,,13.3333333,0.3166667
-bf,aberekui,AbÈrÈkui,63,,12.5,-3.4166667
+bf,aberekui,Ab√©r√©kui,63,,12.5,-3.4166667
 bf,abra,Abra,15,,13.7666667,-1.4833333
 bf,abra,Abra,37,,13.1,-1.35
 bf,absendo,Absendo,16,,12.1166667,-1.7833333
@@ -255,33 +254,33 @@ bf,absouya,Absouya,32,,12.64,-1.0555556
 bf,afini,Afini,42,,12.35,1.8833333
 bf,aladiou,Aladiou,40,,14.05,-0.9333333
 bf,alana,Alana,61,,10.6333333,-5.1
-bf,alapera,AlapÈra,67,,9.7833333,-3.05
-bf,alfire,AlfirÈ,30,,13.2166667,-0.6166667
+bf,alapera,Alap√©ra,67,,9.7833333,-3.05
+bf,alfire,Alfir√©,30,,13.2166667,-0.6166667
 bf,alkousiri,Alkousiri,21,,13.0333333,0.0
 bf,alobiga,Alobiga,31,,11.0,-0.9166667
-bf,alondigwena,AlondigwÈna,22,,12.0333333,0.9333333
-bf,amene,AmÈnÈ,76,,13.9833333,-2.55
-bf,amenekui,AmÈnÈkui,46,,12.4833333,-3.9833333
+bf,alondigwena,Alondigw√©na,22,,12.0333333,0.9333333
+bf,amene,Am√©n√©,76,,13.9833333,-2.55
+bf,amenekui,Am√©n√©kui,46,,12.4833333,-3.9833333
 bf,anbarkoura,Anbarkoura,69,,10.0666667,-3.1833333
-bf,andekanda,AndÈkanda,62,,13.9666667,-2.25
+bf,andekanda,And√©kanda,62,,13.9666667,-2.25
 bf,andemtenga,Andemtenga,28,,12.3241667,-0.3091667
-bf,anekui,AnÈkui,74,,11.8166667,-3.6833333
-bf,aourema,AourËma,58,,13.3333333,-3.9166667
-bf,arbolle,ArbollÈ,34,,12.85,-2.05
+bf,anekui,An√©kui,74,,11.8166667,-3.6833333
+bf,aourema,Aour√®ma,58,,13.3333333,-3.9166667
+bf,arbolle,Arboll√©,34,,12.85,-2.05
 bf,ariblana,Ariblana,54,,10.9166667,-5.0666667
 bf,assio,Assio,45,,11.6666667,-3.1333333
 bf,attoum,Attoum,48,,10.6333333,-2.9833333
-bf,ba,B‚,51,,11.2833333,-3.9833333
+bf,ba,B√¢,51,,11.2833333,-3.9833333
 bf,babanloua,Babanloua,50,,12.0333333,0.5166667
-bf,babeden,BabÈden,64,,12.9166667,-0.4666667
-bf,babereke,BabÈrÈkÈ,70,,13.15,-1.0333333
-bf,badema,BadÈma,18,,11.1833333,-0.3166667
-bf,badiere,BadiÈrÈ,52,,11.2,-3.1666667
+bf,babeden,Bab√©den,64,,12.9166667,-0.4666667
+bf,babereke,Bab√©r√©k√©,70,,13.15,-1.0333333
+bf,badema,Bad√©ma,18,,11.1833333,-0.3166667
+bf,badiere,Badi√©r√©,52,,11.2,-3.1666667
 bf,badinogo,Badinogo,20,,12.5833333,-0.7
 bf,badongo,Badongo,65,,11.1166667,-1.1666667
-bf,bagadowoegen,BagadowoÈgen,19,,12.3,-1.8
+bf,bagadowoegen,Bagadowo√©gen,19,,12.3,-1.8
 bf,bagammssi,Bagammssi,44,,11.7833333,-1.1
-bf,bagare,BagarÈ,78,,13.3,-2.35
+bf,bagare,Bagar√©,78,,13.3,-2.35
 bf,bagata,Bagata,39,,11.7669444,-1.8497222
 bf,bakou,Bakou,43,,13.3833333,-2.0
 bf,bamako,Bamako,55,,10.55,-4.45
@@ -291,8 +290,8 @@ bf,bangasoko,Bangasoko,73,,13.3166667,-2.9
 bf,baniotenga,Baniotenga,66,,12.8666667,-2.7166667
 bf,banlioura,Banlioura,72,,11.1833333,-2.1666667
 bf,bayalo,Bayalo,36,,12.3666667,-2.5166667
-bf,beiga,BËiga,33,,14.5666667,-0.15
-bf,bitte,BittÈ,59,,11.5,-0.0166667
+bf,beiga,B√®iga,33,,14.5666667,-0.15
+bf,bitte,Bitt√©,59,,11.5,-0.0166667
 bf,bou,Bou,77,,11.5166667,-1.6666667
 bf,boukou,Boukou,60,,12.6333333,-1.8666667
 bf,dabozougi,Dabozougi,68,,12.6,-1.2833333
@@ -360,20 +359,20 @@ bi,birayi,Birayi,16,,-2.6,30.1402778
 bj,aba,Aba,17,,7.1166667,2.6333333
 bj,abala,Abala,11,,8.05,1.6666667
 bj,abata,Abata,04,,6.6166667,2.0333333
-bj,abeokouta,AbÈokouta,01,,9.1333333,2.15
+bj,abeokouta,Ab√©okouta,01,,9.1333333,2.15
 bj,aboga,Aboga,16,,6.55,2.5833333
-bj,aboloume,AboloumÈ,18,,7.1,1.65
+bj,aboloume,Aboloum√©,18,,7.1,1.65
 bj,abome calavi,Abome Calavi,05,,6.45,2.35
 bj,abotagon,Abotagon,02,,6.8166667,2.2
 bj,abouta,Abouta,09,,6.3333333,2.1166667
 bj,adakparo,Adakparo,10,,9.2666667,2.65
-bj,adame,AdamÈ,15,,6.6833333,1.6166667
+bj,adame,Adam√©,15,,6.6833333,1.6166667
 bj,adamou,Adamou,03,,11.2,2.3333333
-bj,adidevo,AdidÈvo,12,,6.7833333,1.65
+bj,adidevo,Adid√©vo,12,,6.7833333,1.65
 bj,afatalanga,Afatalanga,13,,9.6833333,1.75
 bj,agbanta,Agbanta,14,,6.6166667,2.45
 bj,alafiarou,Alafiarou,07,,11.1666667,2.9833333
-bj,berecingo,BÈrÈcingo,08,,10.2333333,1.3833333
+bj,berecingo,B√©r√©cingo,08,,10.2333333,1.3833333
 bm,bethaven,Bethaven,01,,32.2833333,-64.75
 bm,camden,Camden,04,,32.2941667,-64.7605556
 bm,cashew city,Cashew City,07,,32.3702778,-64.6544444
@@ -406,18 +405,18 @@ br,abacate,Abacate,03,,.316667,-50.883333
 br,abacate,Abacate,04,,-3.946389,-62.903889
 br,abacate,Abacate,16,,-1.116667,-49.65
 br,aba da serra,Aba da Serra,06,,-5.916667,-39.516667
-br,abadiania,Abadi‚nia,29,7062,-16.1,-48.8
+br,abadiania,Abadi√¢nia,29,7062,-16.1,-48.8
 br,abaitinga,Abaitinga,27,,-24.033333,-48.05
-br,abapa,Abap„,18,,-24.95,-49.816667
+br,abapa,Abap√£,18,,-24.95,-49.816667
 br,abelhas,Abelhas,22,,-5.948056,-36.061944
 br,abismo,Abismo,01,,-10.716667,-70.45
-br,abobora,AbÛbora,20,,-10.704167,-45.055833
-br,aboboras,AbÛboras,30,,-7.866667,-38.233333
-br,abolicao,AboliÁ„o,14,,-15.733333,-55.666667
+br,abobora,Ab√≥bora,20,,-10.704167,-45.055833
+br,aboboras,Ab√≥boras,30,,-7.866667,-38.233333
+br,abolicao,Aboli√ß√£o,14,,-15.733333,-55.666667
 br,abreu,Abreu,13,,-3.350278,-42.419722
-br,abreulandia,Abreul‚ndia,31,,-9.565556,-49.056389
-br,acaituba,AÁaituba,25,,.65,-61.55
-br,acuarana,AÁuarana,02,,-9.633333,-36.95
+br,abreulandia,Abreul√¢ndia,31,,-9.565556,-49.056389
+br,acaituba,A√ßaituba,25,,.65,-61.55
+br,acuarana,A√ßuarana,02,,-9.633333,-36.95
 br,aldeia,Aldeia,28,,-10.783333,-36.966667
 br,altamira,Altamira,07,,-15.616667,-47.666667
 bs,abercorn,Abercorn,24,,22.3666667,-73.95
@@ -517,8 +516,8 @@ cf,abrou,Abrou,08,,5.6333333,23.1666667
 cf,abrounda,Abrounda,02,,4.5333333,21.3833333
 cf,adoumbanziri,Adoumbanziri,06,,5.9833333,19.15
 cf,agbosi,Agbosi,05,,5.35,27.2
-cf,aguene,AguÈnÈ,13,,5.2166667,16.7333333
-cf,aingounda,AÔngounda,12,,6.65,18.1333333
+cf,aguene,Agu√©n√©,13,,5.2166667,16.7333333
+cf,aingounda,A√Øngounda,12,,6.65,18.1333333
 cf,akiba,Akiba,17,,4.3188889,18.5411111
 cf,ali ouidja,Ali Ouidja,14,,10.2333333,22.8333333
 cf,amada-gaza,Amada-Gaza,04,,4.75,15.1666667
@@ -532,7 +531,7 @@ cg,abala,Abala,11,,-3.36,15.4758333
 cg,abam,Abam,10,,2.1430556,13.5405556
 cg,abvounougou,Abvounougou,05,,-2.5813889,13.5919444
 cg,ancien bera njoko,Ancien Bera Njoko,06,,3.3166667,16.9666667
-cg,ancien chimpeze,Ancien ChimpÈzÈ,04,,-4.5166667,12.6
+cg,ancien chimpeze,Ancien Chimp√©z√©,04,,-4.5166667,12.6
 cg,ancien diangala,Ancien Diangala,07,,-4.2833333,12.6333333
 cg,aubeville,Aubeville,01,,-4.265,13.5452778
 cg,brazzaville,Brazzaville,12,1115773,-4.2591667,15.2847222
@@ -565,23 +564,23 @@ ch,auvernier,Auvernier,12,,46.977212,6.87636
 ch,beckenried,Beckenried,13,,46.964763,8.473935
 ch,brucke,Brucke,00,,49.866667,9.883333
 ch,bubendorf,Bubendorf,03,,47.44586,7.737586
-ci,aale,AalÈ,83,,7.365278,-5.734444
-ci,abadji doume,Abadji DoumÈ,82,,5.309618,-4.146694
+ci,aale,Aal√©,83,,7.365278,-5.734444
+ci,abadji doume,Abadji Doum√©,82,,5.309618,-4.146694
 ci,abadou,Abadou,74,,5.676529,-4.046092
 ci,abakro,Abakro,81,,6.690938,-5.249257
 ci,abakro,Abakro,89,,5.414251,-3.229759
-ci,abatoulilie,AbatouliliÈ,88,,5.995329,-5.606154
+ci,abatoulilie,Abatoulili√©,88,,5.995329,-5.606154
 ci,abayansi,Abayansi,90,,7.590524,-5.568443
-ci,abe,AbÈ,85,,7.342264,-3.574354
-ci,abeanou,AbÈanou,86,,6.973265,-4.232803
+ci,abe,Ab√©,85,,7.342264,-3.574354
+ci,abeanou,Ab√©anou,86,,6.973265,-4.232803
 ci,abengourou,Abengourou,92,,7.283333,-2.983333
 ci,abodioupa,Abodioupa,79,,6.0444,-5.796223
 ci,aboka,Aboka,80,,6.538668,-6.815891
-ci,adebem,AdÈbem,76,,5.473494,-5.836666
-ci,akende,AkendÈ,91,,7.850503,-5.677871
+ci,adebem,Ad√©bem,76,,5.473494,-5.836666
+ci,akende,Akend√©,91,,7.850503,-5.677871
 ci,alamandiougoukaha,Alamandiougoukaha,87,,9.450599,-5.131771
 ci,baadala,Baadala,75,,8.104025,-7.266539
-ci,baaple,BaaplÈ,84,,6.579679,-7.409696
+ci,baaple,Baapl√©,84,,6.579679,-7.409696
 ci,babli,Babli,78,,7.025529,-7.873388
 ci,badiouhala,Badiouhala,77,,9.505356,-7.971912
 ck,amuri,Amuri,00,285,-18.8538889,-159.7963889
@@ -606,9 +605,9 @@ cm,aba,Aba,10,,6.4166667,12.7333333
 cm,ababa,Ababa,11,,4.1333333,12.4333333
 cm,ababita,Ababita,14,,2.9833333,11.65
 cm,abafu,Abafu,07,,6.9333333,10.55
-cm,abagoure,AbagourÈ,12,,12.1,14.7
+cm,abagoure,Abagour√©,12,,12.1,14.7
 cm,abakpa,Abakpa,09,,5.3833333,8.9333333
-cm,abe,AbÈ,05,,3.65,9.8166667
+cm,abe,Ab√©,05,,3.65,9.8166667
 cm,adi,Adi,13,,9.2833333,14.0166667
 cm,agwofon,Agwofon,08,,5.7333333,9.95
 cn,103 chang qingniandian,103 Chang Qingniandian,08,,44.907285,127.824479
@@ -650,23 +649,23 @@ co,abejero,Abejero,24,,5.157098,-75.906734
 co,abejorral,Abejorral,02,7360,5.789281,-75.427252
 co,abisinia,Abisinia,01,,-1.383333,-72.2
 co,abra,Abra,17,,11.30987,-72.899242
-co,abrahan asprilla,Abrah·n Asprilla,11,,5,-77.166667
+co,abrahan asprilla,Abrah√°n Asprilla,11,,5,-77.166667
 co,abrego,Abrego,09,,2.366667,-76.716667
-co,abrego numero dos,Abrego N˙mero Dos,29,,4.224671,-75.951616
+co,abrego numero dos,Abrego N√∫mero Dos,29,,4.224671,-75.951616
 co,abuyama,Abuyama,03,,6.876111,-70.585833
-co,acacias,AcacÌas,19,40628,3.986946,-73.757971
+co,acacias,Acac√≠as,19,40628,3.986946,-73.757971
 co,acapulco,Acapulco,08,,1.606259,-75.639021
 co,acapulco,Acapulco,32,,5.062206,-72.27071
 co,acapulco,Acapulco,37,,5.39739,-74.862092
-co,acaricuara,Acaricuar·,30,430,.7,-70.233333
+co,acaricuara,Acaricuar√°,30,430,.7,-70.233333
 co,aceituno,Aceituno,28,,3.9175,-75.18
 co,acevedo,Acevedo,16,4451,1.836055,-75.854985
-co,achi,AchÌ,35,8434,8.568178,-74.554052
+co,achi,Ach√≠,35,8434,8.568178,-74.554052
 co,achiote,Achiote,33,,5.50523,-74.354871
 co,achotal,Achotal,04,,10.7,-74.85
 co,acosta,Acosta,12,,8.561133,-75.545597
-co,acuna,AcuÒa,26,,6.666667,-74.266667
-co,adan,Ad·n,10,,10.183333,-73.9
+co,acuna,Acu√±a,26,,6.666667,-74.266667
+co,adan,Ad√°n,10,,10.183333,-73.9
 co,admirable,Admirable,27,,9.434436,-75.003493
 co,agua blanca,Agua Blanca,22,,-.037858,-75.199708
 co,aguablanca,Aguablanca,36,,4.976667,-73.256667
@@ -674,7 +673,7 @@ co,aguabonita,Aguabonita,14,,2.579625,-72.588927
 co,aguadulce,Aguadulce,25,,13.35,-81.383333
 co,aguas claras,Aguas Claras,31,,5.515152,-70.35138
 co,albania,Albania,23,,4.47239,-75.700891
-co,almidon,AlmidÛn,15,,3.825128,-67.956097
+co,almidon,Almid√≥n,15,,3.825128,-67.956097
 cr,27 de abril,27 de Abril,03,,10.24532,-85.709456
 cr,3 millas,3 Millas,06,,10.157475,-83.510274
 cr,abangares,Abangares,07,,10.157902,-85.039413
@@ -686,8 +685,8 @@ cu,2 da palma,2 da Palma,08,,22.2166667,-80.2666667
 cu,abajo,Abajo,11,,22.9666667,-82.65
 cu,abajo,Abajo,15,,20.1616667,-75.49
 cu,abelardo,Abelardo,05,,21.4333333,-77.0166667
-cu,abel santa maria,Abel Santa MarÌa,02,,23.0169444,-82.4013889
-cu,abel santamaria,Abel SantamarÌa,16,,22.6,-79.85
+cu,abel santa maria,Abel Santa Mar√≠a,02,,23.0169444,-82.4013889
+cu,abel santamaria,Abel Santamar√≠a,16,,22.6,-79.85
 cu,abra de caiguanab,Abra de Caiguanab,01,,22.6666667,-83.4833333
 cu,abreu,Abreu,03,,22.5333333,-80.9833333
 cu,achotal,Achotal,10,,20.3833333,-75.3333333
@@ -695,17 +694,17 @@ cu,acosta,Acosta,13,,20.95,-77.1333333
 cu,adela,Adela,07,,21.785,-78.2766667
 cu,adelita,Adelita,14,,21.9913889,-78.9786111
 cu,aflige,Aflige,12,,20.6333333,-75.2333333
-cu,aguila,¡guila,09,,20.0833333,-77.25
+cu,aguila,√Åguila,09,,20.0833333,-77.25
 cu,cajigas,Cajigas,04,,21.6833333,-82.6666667
 cv,achada baleia,Achada Baleia,17,,15.05,-23.4833333
-cv,agua das fortes,¡gua das Fortes,00,,16.9666667,-25.2166667
+cv,agua das fortes,√Ågua das Fortes,00,,16.9666667,-25.2166667
 cx,drumsite,Drumsite,00,,-10.4333333,105.6833333
 cy,abesa,Abesa,05,,34.7916667,32.9791667
 cy,abohor,Abohor,04,,35.2291667,33.5166667
 cy,acheleia,Acheleia,06,,34.7416667,32.4875
 cy,acheritou,Acheritou,01,,35.1,33.8625
-cy,aga±lbasa±,Agƒ±lbasƒ±,03,,34.9791667,33.6208333
-cy,aga±rdag,Agƒ±rdag,02,,35.2875,33.2666667
+cy,aga¬±lbasa¬±,Ag√Ñ¬±lbas√Ñ¬±,03,,34.9791667,33.6208333
+cy,aga¬±rdag,Ag√Ñ¬±rdag,02,,35.2875,33.2666667
 cz,abaschin,Abaschin,81,,49.976012,12.747483
 cz,abtsdorf,Abtsdorf,86,,49.823053,16.506069
 cz,adamov,Adamov,78,4951,49.301409,16.655487
@@ -727,7 +726,7 @@ de,aach,Aach,01,,47.85,8.85
 de,aach,Aach,02,,47.516667,9.966667
 de,aach,Aach,08,,49.783333,6.6
 de,aaldering,Aaldering,06,,52.483333,7.033333
-de,aasbuttel,Aasb¸ttel,10,,54.066667,9.433333
+de,aasbuttel,Aasb√ºttel,10,,54.066667,9.433333
 de,abbendorf,Abbendorf,11,,52.9,11.9
 de,abbendorf,Abbendorf,14,,52.75,10.916667
 de,abend,Abend,13,,51.133333,13.266667
@@ -745,12 +744,12 @@ dj,alaili dadda`,Alaili Dadda`,04,,12.4216667,42.8955556
 dj,amboua,Amboua,03,,11.5694444,43.1366667
 dj,`arta,`Arta,08,,11.5222222,42.8419444
 dj,dicchil,Dicchil,06,,11.1086111,42.3738889
-dk,a,≈,21,,55.216423,9.978741
+dk,a,√Ö,21,,55.216423,9.978741
 dk,aabo,Aabo,18,,56.124066,10.041919
 dk,aaby,Aaby,19,,57.166667,9.75
 dk,aaderup,Aaderup,20,,55.220427,11.73963
 dk,aagerup,Aagerup,17,,55.721218,12.330954
-dm,anse du me,Anse Du MÈ,02,,15.6,-61.3833333
+dm,anse du me,Anse Du M√©,02,,15.6,-61.3833333
 dm,atkinson,Atkinson,03,2506,15.5166667,-61.2666667
 dm,baroui,Baroui,06,,15.4333333,-61.45
 dm,bellevue chopin,Bellevue Chopin,04,,15.2666667,-61.35
@@ -776,7 +775,7 @@ do,aguacate,Aguacate,25,,19.2333333,-70.7
 do,agua clara,Agua Clara,26,,19.4833333,-71.4166667
 do,agua de la estancia,Agua de La Estancia,17,,18.2333333,-70.3333333
 do,agua de la palma,Agua de la Palma,15,,19.75,-71.25
-do,agua fria,Agua FrÌa,19,,19.3666667,-70.3833333
+do,agua fria,Agua Fr√≠a,19,,19.3666667,-70.3833333
 do,agua hedionada,Agua Hedionada,18,,19.7666667,-71.0
 do,agua hedionda,Agua Hedionda,24,,18.4166667,-69.5
 do,agua negra,Agua Negra,16,,18.15,-71.7
@@ -784,7 +783,7 @@ do,agua prieta,Agua Prieta,09,,18.6333333,-71.5833333
 do,aguas altas,Aguas Altas,30,,19.15,-70.5166667
 do,agua santa,Agua Santa,04,,19.5166667,-71.6333333
 do,algarrobo,Algarrobo,29,,18.6833333,-69.25
-do,algodon,AlgodÛn,03,,18.2833333,-71.1666667
+do,algodon,Algod√≥n,03,,18.2833333,-71.1666667
 do,almacigo,Almacigo,23,,18.8661111,-71.5958333
 do,alto el salado,Alto el Salado,10,,18.75,-68.5833333
 do,amina,Amina,27,,19.55,-71.0
@@ -812,7 +811,7 @@ dz,aboud ben ayed,Aboud Ben Ayed,00,,28.7166667,0.3333333
 dz,aboutville,Aboutville,21,,36.3388889,3.8061111
 dz,achachda,Achachda,56,,35.7,1.5666667
 dz,achira,Achira,24,,36.65,5.6666667
-dz,adaidia,AdaÔdia,10,,35.0347222,0.12
+dz,adaidia,Ada√Ødia,10,,35.0347222,0.12
 dz,adjahil,Adjahil,46,,24.5305556,9.4783333
 dz,adjeroud,Adjeroud,15,,35.05,-2.1833333
 dz,adrar,Adrar,34,89441,27.9,-0.2833333
@@ -822,28 +821,28 @@ dz,afra,Afra,47,,34.95,6.8333333
 dz,afras,Afras,03,,35.35,6.4166667
 dz,agha,Agha,01,,36.7666667,3.05
 dz,ahmed abd el kader,Ahmed Abd el Kader,27,,35.9122222,3.6716667
-dz,ain arbel,AÔn Arbel,31,,36.9702778,6.5277778
-dz,ain babouch,AÔn Babouch,29,,35.9419444,7.1875
-dz,ain ben kbellil,AÔn Ben Kbellil,49,,33.2833333,-0.7666667
-dz,aine el hadjar,AÔne el Hadjar,30,,35.105,-0.8325
-dz,aine kerma,AÔne Kerma,48,,36.4244444,6.4725
-dz,'ain el beida,'AÔn el BeÔda,50,,31.9386111,5.395
-dz,ain el fritissa,AÔn el Fritissa,22,,35.2261111,2.4516667
-dz,'ain el orak,'AÔn el Orak,42,,33.4041667,0.7397222
-dz,'ain sidi djemaa,'AÔn Sidi Djemaa,52,,36.1277778,8.0033333
+dz,ain arbel,A√Øn Arbel,31,,36.9702778,6.5277778
+dz,ain babouch,A√Øn Babouch,29,,35.9419444,7.1875
+dz,ain ben kbellil,A√Øn Ben Kbellil,49,,33.2833333,-0.7666667
+dz,aine el hadjar,A√Øne el Hadjar,30,,35.105,-0.8325
+dz,aine kerma,A√Øne Kerma,48,,36.4244444,6.4725
+dz,'ain el beida,'A√Øn el Be√Øda,50,,31.9386111,5.395
+dz,ain el fritissa,A√Øn el Fritissa,22,,35.2261111,2.4516667
+dz,'ain el orak,'A√Øn el Orak,42,,33.4041667,0.7397222
+dz,'ain sidi djemaa,'A√Øn Sidi Djemaa,52,,36.1277778,8.0033333
 dz,amiche,Amiche,43,,33.3,6.9
 dz,amsthas,Amsthas,20,,36.6833333,3.4666667
 dz,beni ferah,Beni Ferah,19,,35.1441667,5.8341667
 dz,bir salem,Bir Salem,33,,35.4,8.0666667
 dz,bouchegout,Bouchegout,23,,36.4722222,7.7333333
-dz,dar bou naila,Dar Bou NaÔla,54,,29.3666667,-7.7333333
-dz,i-n-guezzam,I-n-Guezz‚m,45,,19.5602778,5.7725
+dz,dar bou naila,Dar Bou Na√Øla,54,,29.3666667,-7.7333333
+dz,i-n-guezzam,I-n-Guezz√¢m,45,,19.5602778,5.7725
 ec,10 de agosto,10 de Agosto,14,,-1.2666667,-80.3833333
 ec,28 de mayo,28 de Mayo,20,,-3.6327778,-78.9244444
 ec,abanico,Abanico,15,,-2.1166667,-78.1666667
-ec,abanin,AbaÒÌn,08,,-3.3333333,-79.5
-ec,abdon calderon,AbdÛn CalderÛn,02,,-3.2666667,-79.2666667
-ec,abdon calderon,AbdÛn CalderÛn,22,,0.0927778,-76.8988889
+ec,abanin,Aba√±√≠n,08,,-3.3333333,-79.5
+ec,abdon calderon,Abd√≥n Calder√≥n,02,,-3.2666667,-79.2666667
+ec,abdon calderon,Abd√≥n Calder√≥n,22,,0.0927778,-76.8988889
 ec,acacia,Acacia,10,,-2.2166667,-79.875
 ec,achiote,Achiote,13,,-1.2166667,-79.5166667
 ec,achiral,Achiral,12,,-4.4,-79.8
@@ -859,7 +858,7 @@ ec,allpacruz,Allpacruz,04,,-2.7,-78.8
 ec,amazonas,Amazonas,17,,-1.6333333,-77.9833333
 ec,ancayacu,Ancayacu,24,,-0.7,-76.0
 ec,asancoto,Asancoto,03,,-1.65,-79.0333333
-ec,bahia de la academia,BahÌa de la Academia,01,,-0.75,-90.3166667
+ec,bahia de la academia,Bah√≠a de la Academia,01,,-0.75,-90.3166667
 ee,aabla,Aabla,01,,59.5641667,25.5355556
 ee,aadami,Aadami,18,,58.2502778,26.8808333
 ee,aadma,Aadma,02,,58.7983333,22.6638889
@@ -869,12 +868,12 @@ ee,aamse,Aamse,07,,58.9305556,23.7116667
 ee,aarna,Aarna,12,,58.0655556,26.9672222
 ee,aasa,Aasa,11,,58.6872222,24.5083333
 ee,aaspere,Aaspere,08,315,59.4169444,26.1172222
-ee,aasuvalja,Aasuv‰lja,04,,58.8944444,25.4177778
+ee,aasuvalja,Aasuv√§lja,04,,58.8944444,25.4177778
 ee,abbia,Abbia,20,,58.1252778,25.3497222
 ee,abbul,Abbul,14,,58.4297222,22.1463889
 ee,adavere,Adavere,05,646,58.7061111,25.8991667
 ee,adraku,Adraku,03,,58.9319444,26.8216667
-ee,ahijarve,ƒhij‰rve,21,,57.7216667,26.5108333
+ee,ahijarve,√Ñhij√§rve,21,,57.7216667,26.5108333
 eg,10 ramadan city,10 Ramadan City,14,,30.3,31.75
 eg,1 `ezbet has salib,1 `Ezbet Has Salib,05,,30.9858333,31.0036111
 eg,257)izbat ahmad `ali `udah,257)Izbat Ahmad `Ali `Udah,01,,31.2680556,31.4541667
@@ -882,13 +881,13 @@ eg,6 october city,6 October City,08,,29.8166667,31.05
 eg,aba al waqf,Aba al Waqf,10,,28.5875,30.7675
 eg,ab`adiyat ar rawdah,Ab`adiyat ar Rawdah,21,,31.0730556,30.8875
 eg,ab`adiyat damanhur,Ab`adiyat Damanhur,03,,31.0391667,30.3608333
-eg,abbasa,Abb‚sa,23,,25.9,32.7833333
+eg,abbasa,Abb√¢sa,23,,25.9,32.7833333
 eg,abbasieh,Abbasieh,11,,30.0666667,31.2833333
 eg,`abd el qadir,`Abd el Qadir,06,,31.0380556,29.8269444
 eg,abgig,Abgig,04,,29.2863889,30.8127778
 eg,abnub,Abnub,17,68756,27.2666667,31.1502778
 eg,abshish,Abshish,09,,30.4708333,31.0869444
-eg,absug,Abs˚g,18,,28.8530556,30.5875
+eg,absug,Abs√ªg,18,,28.8530556,30.5875
 eg,abu al ghayt,Abu al Ghayt,12,,30.1561111,31.1872222
 eg,abu ar rish bahri,Abu ar Rish Bahri,16,,24.2,32.8833333
 eg,abu aweigila,Abu Aweigila,27,,30.8333333,34.1166667
@@ -905,21 +904,21 @@ eh,aaium,Aaium,00,,27.1536111,-13.2033333
 er,abacheri,Abacheri,00,,14.1833333,41.5
 es,ababuj,Ababuj,52,,40.549084,-.807579
 es,abad,Abad,58,,43.583333,-8
-es,abadengo de torio,Abadengo de TorÌo,55,,42.713587,-5.514155
-es,abadia,AbadÌa,57,,40.259427,-5.97728
+es,abadengo de torio,Abadengo de Tor√≠o,55,,42.713587,-5.514155
+es,abadia,Abad√≠a,57,,40.259427,-5.97728
 es,abadiano,Abadiano,59,,43.150761,-2.609705
 es,abadilla,Abadilla,39,,43.314664,-3.854802
-es,abaigar,Ab·igar,32,,42.65,-2.183333
+es,abaigar,Ab√°igar,32,,42.65,-2.183333
 es,abajo,Abajo,34,,43.386009,-5.618937
-es,abalos,¡balos,27,,42.571538,-2.709564
-es,abanades,Ab·nades,54,,40.892612,-2.48526
+es,abalos,√Åbalos,27,,42.571538,-2.709564
+es,abanades,Ab√°nades,54,,40.892612,-2.48526
 es,abanilla,Abanilla,31,,38.205375,-1.041525
 es,abdera,Abdera,51,,36.747398,-3.015989
 es,abdet,Abdet,60,,38.69422,-.257255
 es,abella,Abella,56,,42.318809,2.315382
 es,abrigos,Abrigos,53,,28.029053,-16.594073
 es,ajalvir,Ajalvir,29,,40.532048,-3.478407
-es,alaro,AlarÛ,07,,39.703971,2.791389
+es,alaro,Alar√≥,07,,39.703971,2.791389
 et,aadi noia,Aadi Noia,45,,13.8,39.833333
 et,a. arits,A. Arits,53,,14.658611,38.166111
 et,aba abdella,Aba Abdella,51,,8.40487,36.093029
@@ -935,9 +934,9 @@ fi,aaita,Aaita,08,,64.733333,26.3
 fi,aakoinen,Aakoinen,15,,60.383333,22.65
 fi,aanaar,Aanaar,06,,68.9,27.016667
 fi,aatola,Aatola,14,,62,27.2
-fi,aby,≈by,13,,60.316667,25.866667
-fi,akerlund,≈kerlund,01,,60.084722,20.257222
-fi,myllykyla,Myllykyl‰,02,,61.366667,23.3
+fi,aby,√Öby,13,,60.316667,25.866667
+fi,akerlund,√Ökerlund,01,,60.084722,20.257222
+fi,myllykyla,Myllykyl√§,02,,61.366667,23.3
 fj,ahau,Ahau,00,,-12.5,177.05
 fj,alava,Alava,03,,-16.4166667,179.2166667
 fj,ambatha,Ambatha,05,,-17.6666667,177.5333333
@@ -957,7 +956,7 @@ fr,abancourt,Abancourt,B6,,49.696074,1.76512
 fr,abbans-dessous,Abbans-Dessous,A6,,47.133818,5.874389
 fr,abbaretz,Abbaretz,B5,,47.55314,-1.532
 fr,abbaye-sous-plancy,Abbaye-Sous-Plancy,A4,,48.569754,3.942844
-fr,abbeville,AbbÈville,A3,,48.346834,2.165945
+fr,abbeville,Abb√©ville,A3,,48.346834,2.165945
 fr,abeilhan,Abeilhan,A9,,43.449251,3.295289
 fr,abenoux,Abenoux,B7,,46.330619,.92616
 fr,abimes,Abimes,B9,,45.502562,5.988357
@@ -965,17 +964,17 @@ fr,ablon,Ablon,99,,49.392139,.295838
 fr,ablon,Ablon,A8,,48.727321,2.426863
 fr,abon,Abon,A1,,47.037021,3.746193
 fr,abouline,Abouline,98,,44.842547,3.679706
-fr,abries,AbriËs,B8,,44.793659,6.926777
+fr,abries,Abri√®s,B8,,44.793659,6.926777
 fr,acciani,Acciani,A5,,42.010953,9.294982
 fr,achenheim,Achenheim,C1,,48.580616,7.628515
-fr,acigne,AcignÈ,A2,,48.133331,-1.537045
+fr,acigne,Acign√©,A2,,48.133331,-1.537045
 fr,adast,Adast,B3,,42.974293,-.078699
 fr,affieux,Affieux,B1,,45.517263,1.766725
 ga,abaga,Abaga,01,,0.5666667,9.3666667
 ga,abam,Abam,09,,1.1166667,11.7166667
 ga,abandou,Abandou,03,,-0.2666667,10.5
 ga,abelago,Abelago,08,,-0.9166667,9.45
-ga,abena,AbÈna,07,,-1.1,13.1166667
+ga,abena,Ab√©na,07,,-1.1,13.1166667
 ga,abeng,Abeng,06,,0.3333333,12.0
 ga,aboto,Aboto,02,,-0.7833333,13.9333333
 ga,aboukoua,Aboukoua,04,,-1.0,11.45
@@ -1218,7 +1217,7 @@ gb,london borough of merton,London Borough of Merton,I4,,51.410465,-.193637
 gb,northwood,Northwood,17,,51.613701,-.410994
 gd,adelphia,Adelphia,01,,12.1,-61.6666667
 gd,amber belair,Amber Belair,03,,12.0,-61.75
-gd,apres tout,AprËs Tout,02,,12.05,-61.6666667
+gd,apres tout,Apr√®s Tout,02,,12.05,-61.6666667
 gd,argyle,Argyle,06,,12.45,-61.4833333
 gd,bellevue,Bellevue,05,,12.1833333,-61.6833333
 gd,charlotte town,Charlotte Town,04,,12.1666667,-61.7333333
@@ -1272,7 +1271,7 @@ ge,bauria,Bauria,33,,42.8305556,42.4916667
 ge,beretisa,Beretisa,14,,42.1833333,43.3833333
 ge,chale,Chale,57,,42.7022222,42.0425
 gf,abouna sounga,Abouna Sounga,00,,4.05,-54.35
-gg,albecq,AlbËcq,00,,49.469444,-2.601667
+gg,albecq,Alb√®cq,00,,49.469444,-2.601667
 gh,abaadze,Abaadze,04,,5.2,-1.0833333
 gh,abaam,Abaam,09,,6.2166667,-0.8333333
 gh,abaase,Abaase,02,,7.95,-1.1833333
@@ -1286,7 +1285,7 @@ gh,koforidua,Koforidua,05,76669,6.0833333,-0.25
 gi,caleta,Caleta,00,,36.1333333,-5.3333333
 gl,aalatsivik,Aalatsivik,03,,68.1666667,-52.8333333
 gl,agparssuit,Agparssuit,01,,77.4166667,-72.6666667
-gl,akinaitsat,AkÌnaits‚t,02,,65.5333333,-37.2
+gl,akinaitsat,Ak√≠naits√¢t,02,,65.5333333,-37.2
 gm,abeokuta,Abeokuta,03,,13.3666667,-14.6166667
 gm,abuko,Abuko,05,,13.4041667,-16.6558333
 gm,alhaji bajonkoto,Alhaji Bajonkoto,07,,13.5333333,-15.8166667
@@ -1301,24 +1300,24 @@ gn,afia,Afia,22,,12.2166667,-12.5833333
 gn,agbalazou,Agbalazou,21,,8.7166667,-9.7833333
 gn,alahina,Alahina,26,,11.6,-9.5666667
 gn,alaminata,Alaminata,24,,8.1833333,-8.6666667
-gn,albaderia,AlbadÈria,17,,9.55,-10.1
+gn,albaderia,Albad√©ria,17,,9.55,-10.1
 gn,alemamya,Alemamya,10,,9.3825,-13.2225
 gn,andalaye,Andalaye,25,,10.85,-12.3666667
 gn,ankoro,Ankoro,14,,10.25,-9.1833333
-gn,ansangnere,AnsangnÈrÈ,20,,11.1833333,-12.4833333
+gn,ansangnere,Ansangn√©r√©,20,,11.1833333,-12.4833333
 gn,ansoumania,Ansoumania,08,,9.7055556,-13.5469444
-gn,arfa moussaia,Arfa MoussaÔa,05,,10.7666667,-11.3666667
+gn,arfa moussaia,Arfa Moussa√Øa,05,,10.7666667,-11.3666667
 gn,aribouya,Aribouya,03,,10.7,-14.2333333
 gn,aroumaya,Aroumaya,23,,10.5166667,-11.7333333
 gn,arpela,Arpela,09,,9.95,-10.45
 gn,babi,Babi,27,,10.6333333,-13.0833333
 gn,bacoumpou,Bacoumpou,02,,9.9786111,-13.9688889
 gn,bafadou,Bafadou,13,,8.7666667,-10.3
-gn,bageya,BagÈya,16,,10.25,-12.9
-gn,baguine,BaguinÈ,11,,10.6,-13.6333333
+gn,bageya,Bag√©ya,16,,10.25,-12.9
+gn,baguine,Baguin√©,11,,10.6,-13.6333333
 gn,balabori,Balabori,28,,11.3,-11.3666667
 gn,balan,Balan,29,,7.37,-9.1319444
-gn,bameouel,BamÈouel,12,,11.9333333,-13.15
+gn,bameouel,Bam√©ouel,12,,11.9333333,-13.15
 gn,bananko,Bananko,15,,9.2166667,-9.05
 gn,bantanko,Bantanko,06,,11.0833333,-12.0833333
 gn,bassia,Bassia,04,,9.5666667,-13.6333333
@@ -1326,11 +1325,11 @@ gn,coya,Coya,30,,9.7055556,-13.3769444
 gn,debreeka,Debreeka,31,,9.7911111,-13.5233333
 gn,kankan,Kankan,32,114103,10.3833333,-9.3
 gn,koubia,Koubia,33,9909,11.5833333,-11.9
-gn,labe,LabÈ,34,46510,11.3166667,-12.2833333
-gn,lelouma,LÈlouma,35,,11.1833333,-12.9333333
+gn,labe,Lab√©,34,46510,11.3166667,-12.2833333
+gn,lelouma,L√©louma,35,,11.1833333,-12.9333333
 gn,lola,Lola,36,1982,7.8,-8.5333333
 gn,mandiana,Mandiana,37,10608,10.6333333,-8.6833333
-gn,nzerekore,NzÈrÈkorÈ,38,132842,7.7472222,-8.8238889
+gn,nzerekore,Nz√©r√©kor√©,38,132842,7.7472222,-8.8238889
 gn,sigiri,Sigiri,39,,11.4166667,-9.1666667
 gp,abeymes,Abeymes,00,,16.2666667,-61.5
 gq,abaamang,Abaamang,06,,1.6666667,10.6333333
@@ -1338,73 +1337,73 @@ gq,abama,Abama,09,,1.2,11.2833333
 gq,abam,Abam,07,,1.8333333,10.8666667
 gq,abanda,Abanda,08,,1.45,9.6333333
 gq,ambo,Ambo,03,,-1.4013889,5.6325
-gq,bacake grande,BacakÈ Grande,04,,3.55,8.85
+gq,bacake grande,Bacak√© Grande,04,,3.55,8.85
 gq,baho,Baho,05,,3.2833333,8.7333333
 gq,ensenada,Ensenada,00,,1.4333333,5.6333333
-gr,aatli,A‰tlÌ,06,,41.2777778,22.7861111
-gr,abdular,Abdul·r,21,,39.4833333,22.6
+gr,aatli,A√§tl√≠,06,,41.2777778,22.7861111
+gr,abdular,Abdul√°r,21,,39.4833333,22.6
 gr,acharnae,Acharnae,35,,38.0833333,23.7333333
-gr,achataries,AchatariÈs,22,,39.4577778,21.3194444
-gr,acherousia,AcherousÌa,19,,39.2577778,20.5958333
-gr,achilleion,AchÌlleion,25,,39.5644444,19.905
-gr,achladeai,AchladÈai,17,,39.4522222,20.7727778
-gr,achladochorio,AchladochÛrio,07,,40.8352778,22.3358333
-gr,adali,AdalÌ,13,,40.4333333,23.0333333
-gr,adamas,Ad·mas,33,,38.5,22.9833333
-gr,adamas,Ad·mas,49,1478,36.7333333,24.4333333
-gr,adas,Ad·s,14,,41.1333333,24.7
-gr,adhami,Adh·mi,36,,37.5666667,23.0666667
-gr,adhele,¡dhele,44,,35.3666667,24.5666667
-gr,adhelfikon,AdhelfikÛn,05,,41.0166667,23.4666667
-gr,adhiakopos,Adhi·kopos,42,,36.5666667,23.05
-gr,adhraktia,Adhr·ktia,45,,35.15,25.0333333
-gr,adhramilos,Adhr·milos,46,,35.0833333,26.0333333
-gr,adhriani,AdhrianÌ,02,,41.0166667,25.3666667
-gr,adhriani,AdhrianÌ,04,,41.1333333,24.2666667
-gr,adhriani,AdhrianÌ,40,,36.8666667,21.8666667
+gr,achataries,Achatari√©s,22,,39.4577778,21.3194444
+gr,acherousia,Acherous√≠a,19,,39.2577778,20.5958333
+gr,achilleion,Ach√≠lleion,25,,39.5644444,19.905
+gr,achladeai,Achlad√©ai,17,,39.4522222,20.7727778
+gr,achladochorio,Achladoch√≥rio,07,,40.8352778,22.3358333
+gr,adali,Adal√≠,13,,40.4333333,23.0333333
+gr,adamas,Ad√°mas,33,,38.5,22.9833333
+gr,adamas,Ad√°mas,49,1478,36.7333333,24.4333333
+gr,adas,Ad√°s,14,,41.1333333,24.7
+gr,adhami,Adh√°mi,36,,37.5666667,23.0666667
+gr,adhele,√Ådhele,44,,35.3666667,24.5666667
+gr,adhelfikon,Adhelfik√≥n,05,,41.0166667,23.4666667
+gr,adhiakopos,Adhi√°kopos,42,,36.5666667,23.05
+gr,adhraktia,Adhr√°ktia,45,,35.15,25.0333333
+gr,adhramilos,Adhr√°milos,46,,35.0833333,26.0333333
+gr,adhriani,Adhrian√≠,02,,41.0166667,25.3666667
+gr,adhriani,Adhrian√≠,04,,41.1333333,24.2666667
+gr,adhriani,Adhrian√≠,40,,36.8666667,21.8666667
 gr,aedipsos,Aedipsos,34,,38.8833333,23.05
 gr,aegion,Aegion,38,,38.2486111,22.0819444
-gr,aerinon,AÎrinÛn,24,,39.3333333,22.7666667
-gr,aerinos,AÎrinÛs,43,,35.3666667,23.6
-gr,aetochori,AetochÛri,23,,39.2858333,21.4669444
-gr,aetokhori,AÎtokhÛri,01,,40.9,26.0
-gr,aetokhorion,AÎtokhÛrion,41,,37.4,22.6
+gr,aerinon,A√´rin√≥n,24,,39.3333333,22.7666667
+gr,aerinos,A√´rin√≥s,43,,35.3666667,23.6
+gr,aetochori,Aetoch√≥ri,23,,39.2858333,21.4669444
+gr,aetokhori,A√´tokh√≥ri,01,,40.9,26.0
+gr,aetokhorion,A√´tokh√≥rion,41,,37.4,22.6
 gr,aetoliko,Aetoliko,31,,38.4333333,21.35
-gr,aetos,AÎtÛs,11,,40.6666667,21.55
-gr,aetos,AÎtÛs,18,,39.58,20.3966667
-gr,afalonas,Af·lonas,51,,39.1480556,26.5144444
-gr,afandou,Af·ndou,47,,36.3,28.15
-gr,afrayia,Afrayi·,27,,38.15,20.75
-gr,afrodisia,AfrodÌsia,50,,38.5544444,25.925
-gr,afroxilia,Afroxili·,20,,39.2194444,21.3080556
-gr,agalai,AgalaÌ,10,,40.0333333,21.6166667
-gr,agalas,Agal·s,28,,37.7166667,20.7833333
-gr,agalianos,AgalianÛs,30,,38.8666667,21.6166667
+gr,aetos,A√´t√≥s,11,,40.6666667,21.55
+gr,aetos,A√´t√≥s,18,,39.58,20.3966667
+gr,afalonas,Af√°lonas,51,,39.1480556,26.5144444
+gr,afandou,Af√°ndou,47,,36.3,28.15
+gr,afrayia,Afrayi√°,27,,38.15,20.75
+gr,afrodisia,Afrod√≠sia,50,,38.5544444,25.925
+gr,afroxilia,Afroxili√°,20,,39.2194444,21.3080556
+gr,agalai,Agala√≠,10,,40.0333333,21.6166667
+gr,agalas,Agal√°s,28,,37.7166667,20.7833333
+gr,agalianos,Agalian√≥s,30,,38.8666667,21.6166667
 gr,aggeies,Aggeies,29,,39.1,22.2
-gr,agia anna,AgÌa ¡nna,09,,40.4375,21.0813889
-gr,agia kyriaki,AgÌa KyriakÌ,48,,37.6983333,26.6186111
-gr,agia marina,AgÌa MarÌna,12,,40.5977778,22.2152778
-gr,agios achilleios,¡gios AchÌlleios,08,,40.7841667,21.0808333
-gr,agios dimitrios,¡gios DimÌtrios,16,,40.1527778,22.2266667
-gr,agios petros,¡gios PÈtros,26,,38.6666667,20.6
-gr,aglavista,AglavÌsta,32,,38.5333333,22.1
-gr,agnanda,¡gnanda,39,,37.8166667,21.6166667
-gr,aidhonia,AÔdhÛnia,37,,37.8333333,22.5833333
-gr,aivajik,AÔvajÌk,03,,41.2166667,24.95
-gr,ak-bunar,Ak-Bun·r,15,,40.3666667,23.2833333
+gr,agia anna,Ag√≠a √Ånna,09,,40.4375,21.0813889
+gr,agia kyriaki,Ag√≠a Kyriak√≠,48,,37.6983333,26.6186111
+gr,agia marina,Ag√≠a Mar√≠na,12,,40.5977778,22.2152778
+gr,agios achilleios,√Ågios Ach√≠lleios,08,,40.7841667,21.0808333
+gr,agios dimitrios,√Ågios Dim√≠trios,16,,40.1527778,22.2266667
+gr,agios petros,√Ågios P√©tros,26,,38.6666667,20.6
+gr,aglavista,Aglav√≠sta,32,,38.5333333,22.1
+gr,agnanda,√Ågnanda,39,,37.8166667,21.6166667
+gr,aidhonia,A√Ødh√≥nia,37,,37.8333333,22.5833333
+gr,aivajik,A√Øvaj√≠k,03,,41.2166667,24.95
+gr,ak-bunar,Ak-Bun√°r,15,,40.3666667,23.2833333
 gr,castelrosso,Castelrosso,00,,36.1488889,29.5936111
 gs,grytviken,Grytviken,00,,-54.2766667,-36.5116667
 gt,acacar,Acacar,09,,15.566667,-89.3
 gt,acamal,Acamal,01,,15.45,-90.383333
-gt,acapan,Acap·n,15,,14.366667,-91.983333
-gt,acasaguastlan,Acasaguastl·n,05,,14.916667,-89.883333
-gt,acatan,Acat·n,07,,14.616667,-90.466667
+gt,acapan,Acap√°n,15,,14.366667,-91.983333
+gt,acasaguastlan,Acasaguastl√°n,05,,14.916667,-89.883333
+gt,acatan,Acat√°n,07,,14.616667,-90.466667
 gt,acatempa,Acatempa,11,,14.265278,-90.126944
 gt,acatenango,Acatenango,03,6905,14.551944,-90.942222
 gt,aceitillal,Aceitillal,04,,14.583333,-89.516667
 gt,achiote,Achiote,22,,15.133333,-89.4
 gt,achiotes,Achiotes,10,,14.533333,-89.916667
-gt,achute,AchutÈ,17,,15.233333,-92.166667
+gt,achute,Achut√©,17,,15.233333,-92.166667
 gt,acul,Acul,14,,15.405,-91.188333
 gt,agua alegre,Agua Alegre,08,,15.452222,-91.494444
 gt,agua blanca,Agua Blanca,13,,14.866667,-91.716667
@@ -1412,18 +1411,18 @@ gt,agua caliente,Agua Caliente,02,,14.916667,-90.4
 gt,agua dulce,Agua Dulce,18,,13.896111,-90.453333
 gt,agua escondida,Agua Escondida,19,,14.666667,-91.116667
 gt,agua negra,Agua Negra,12,,15.966667,-89.733333
-gt,aguero,Ag¸ero,06,,14.2,-91.05
+gt,aguero,Ag√ºero,06,,14.2,-91.05
 gt,alotenango,Alotenango,16,17052,14.480278,-90.8075
-gt,barreneche,BarrenechÈ,21,,14.816667,-91.216667
+gt,barreneche,Barrenech√©,21,,14.816667,-91.216667
 gt,barrios,Barrios,20,,14.516667,-91.383333
 gw,abene,Abene,06,,11.1666667,-15.9666667
 gw,abigna,Abigna,12,,11.8833333,-15.7833333
 gw,acampamento,Acampamento,04,,11.45,-15.7
 gw,achada do burro,Achada do Burro,11,,11.8666667,-15.5833333
-gw,afia,¡fi‡,01,,12.0833333,-14.4833333
-gw,afia,¡fi‡,07,,11.3333333,-15.1833333
-gw,afia,¡fi‡,10,,12.3166667,-14.4
-gw,america,AmÈrica,05,,11.5666667,-15.3
+gw,afia,√Åfi√†,01,,12.0833333,-14.4833333
+gw,afia,√Åfi√†,07,,11.3333333,-15.1833333
+gw,afia,√Åfi√†,10,,12.3166667,-14.4
+gw,america,Am√©rica,05,,11.5666667,-15.3
 gw,antuane,Antuane,02,,11.5333333,-15.0833333
 gy,abary,Abary,15,,6.55,-57.75
 gy,achiwib,Achiwib,19,,2.3,-59.5833333
@@ -1452,7 +1451,7 @@ hn,agua blanca,Agua Blanca,01,,15.6833333,-87.6333333
 hn,agua blanca,Agua Blanca,10,,14.1833333,-88.15
 hn,agua blanca,Agua Blanca,12,,14.3,-87.9
 hn,agua caliente,Agua Caliente,14,,14.55,-89.2666667
-hn,ahuas,Ahu·s,09,1505,15.4833333,-84.3333333
+hn,ahuas,Ahu√°s,09,1505,15.4833333,-84.3333333
 hn,alligartor nose,Alligartor Nose,11,,16.4333333,-86.2833333
 hr,abacija,Abacija,12,,45.3391667,14.3083333
 hr,abram,Abram,15,,43.7263889,16.6313889
@@ -1466,8 +1465,8 @@ hr,adzamovci,Adzamovci,02,,45.2477778,17.465
 hr,ajduci,Ajduci,03,,43.2369444,17.28
 hr,alaginci,Alaginci,11,,45.3625,17.7058333
 hr,alavanja,Alavanja,20,,44.0491667,15.6033333
-hr,alsodaruvar,AlsÛdaruv·r,01,,45.6136111,17.2308333
-hr,alsodomboru,AlsÛdomboru,16,,46.3147222,16.8119444
+hr,alsodaruvar,Als√≥daruv√°r,01,,45.6136111,17.2308333
+hr,alsodomboru,Als√≥domboru,16,,46.3147222,16.8119444
 hr,alt-jankowitz,Alt-Jankowitz,18,,45.2619444,18.9144444
 hr,andrasevac,Andrasevac,07,,46.0,15.95
 hr,apatovac,Apatovac,06,,46.1455556,16.5741667
@@ -1484,31 +1483,31 @@ ht,abricot,Abricot,03,,19.8222222,-73.1333333
 ht,abricot,Abricot,10,,19.15,-71.7833333
 ht,abricot,Abricot,13,,18.2833333,-72.6833333
 ht,achien,Achien,06,,19.05,-72.4666667
-hu,a-akna,¡-akna,12,,47.716667,18.733333
+hu,a-akna,√Å-akna,12,,47.716667,18.733333
 hu,aba,Aba,08,4479,47.029072,18.521721
-hu,abadi ret,Ab·di RÈt,20,,47.5,20.616667
+hu,abadi ret,Ab√°di R√©t,20,,47.5,20.616667
 hu,abaliget,Abaliget,02,,46.142575,18.116832
 hu,abapuszta,Abapuszta,18,,47.707941,21.871019
-hu,abasar,Abas·r,11,3189,47.797049,20.003236
-hu,abaujalpar,Aba˙jalp·r,04,,48.316667,21.233333
+hu,abasar,Abas√°r,11,3189,47.797049,20.003236
+hu,abaujalpar,Aba√∫jalp√°r,04,,48.316667,21.233333
 hu,abda,Abda,09,2997,47.694641,17.544885
 hu,abony,Abony,16,16342,47.1899,20.004759
-hu,abrahamhegy,¡brah·mhegy,23,,46.809985,17.555613
-hu,acs,¡cs,01,,46.683333,19.166667
-hu,acsad,Acs·d,22,,47.32493,16.733496
-hu,acsas,¡cs·s,10,,47.15,21.516667
-hu,adamhegy,¡d·mhegy,24,,46.483333,17.05
-hu,adand,¡d·nd,17,2306,46.85931,18.164423
-hu,adorjanpuszta,Adorj·npuszta,21,,46.634094,18.337436
-hu,adrienne-puszta,AdrÌenne-puszta,14,,47.834285,19.404484
+hu,abrahamhegy,√Åbrah√°mhegy,23,,46.809985,17.555613
+hu,acs,√Åcs,01,,46.683333,19.166667
+hu,acsad,Acs√°d,22,,47.32493,16.733496
+hu,acsas,√Åcs√°s,10,,47.15,21.516667
+hu,adamhegy,√Åd√°mhegy,24,,46.483333,17.05
+hu,adand,√Åd√°nd,17,2306,46.85931,18.164423
+hu,adorjanpuszta,Adorj√°npuszta,21,,46.634094,18.337436
+hu,adrienne-puszta,Adr√≠enne-puszta,14,,47.834285,19.404484
 hu,adyliget,Adyliget,05,,47.55,18.933333
-hu,ago,¡gÛ,13,,48.1,20.583333
-hu,agostonhalom,¡gostonhalom,06,,46.266667,20.433333
-hu,agraregyetem,Agr·regyetem,07,,47.6,21.65
-hu,akaszto,AkasztÛ,03,,47.133333,21.083333
+hu,ago,√Åg√≥,13,,48.1,20.583333
+hu,agostonhalom,√Ågostonhalom,06,,46.266667,20.433333
+hu,agraregyetem,Agr√°regyetem,07,,47.6,21.65
+hu,akaszto,Akaszt√≥,03,,47.133333,21.083333
 hu,algyo,Algyo,19,,46.25,20.166667
-hu,alsogyukes,AlsÛgy¸kÈs,15,,46.116667,18.283333
-hu,gyirmot,GyirmÛt,25,,47.687281,17.637616
+hu,alsogyukes,Als√≥gy√ºk√©s,15,,46.116667,18.283333
+hu,gyirmot,Gyirm√≥t,25,,47.687281,17.637616
 id,aa,Aa,38,,-3.0893,119.9104
 id,aalanganjar,Aalanganjar,08,,-7.4009,112.796
 id,aan,Aan,36,,-6.933333,139.966667
@@ -1554,9 +1553,9 @@ ie,abbeytown,Abbeytown,20,,54.1716667,-9.1611111
 ie,abbeyville,Abbeyville,25,,54.0608333,-8.5036111
 ie,abbot's cross roads,Abbot's Cross Roads,12,,52.9138889,-6.8227778
 ie,abbotstown,Abbotstown,07,,53.3930556,-6.355
-ie,abhoca,AbhÛca,31,,52.8527778,-6.2169444
-ie,achadh an iuir,Achadh an I˙ir,02,,53.8338889,-7.0755556
-ie,achadh ur,Achadh ⁄r,13,,52.7341667,-7.3988889
+ie,abhoca,Abh√≥ca,31,,52.8527778,-6.2169444
+ie,achadh an iuir,Achadh an I√∫ir,02,,53.8338889,-7.0755556
+ie,achadh ur,Achadh √ör,13,,52.7341667,-7.3988889
 ie,adamstown,Adamstown,30,,52.3941667,-6.7169444
 ie,aeaun bridge,Aeaun Bridge,01,,52.8433333,-6.6633333
 ie,agall,Agall,23,,53.2561111,-7.6016667
@@ -1567,8 +1566,8 @@ ie,aghalenty,Aghalenty,06,,54.99,-7.6838889
 ie,aghnaskeagh,Aghnaskeagh,19,,54.0461111,-6.3680556
 ie,aghoo,Aghoo,24,,54.0383333,-8.2236111
 ie,aglish,Aglish,26,,53.0386111,-8.0863889
-ie,an baile mor,An Baile MÛr,29,,53.4833333,-7.6666667
-ie,an bothar bui,An BÛthar BuÌ,21,,53.4183333,-6.8352778
+ie,an baile mor,An Baile M√≥r,29,,53.4833333,-7.6666667
+ie,an bothar bui,An B√≥thar Bu√≠,21,,53.4183333,-6.8352778
 il,aavroun,Aavroun,03,,33.047892,35.179946
 il,aba hillel,Aba Hillel,01,,31.673194,34.611831
 il,`abbasiya,`Abbasiya,02,,32.035,34.886111
@@ -1617,7 +1616,7 @@ iq,abada,Abada,09,,30.9075,46.7755556
 iq,`abad `ali,`Abad `Ali,14,,31.9166667,46.9166667
 iq,`abadi dawud salim,`Abadi Dawud Salim,10,,33.7802778,45.5055556
 iq,abakhana,Abakhana,07,,33.3333333,44.4
-iq,abass at ta±`ma,Abass at Tƒ±`ma,16,,33.0108333,44.6952778
+iq,abass at ta¬±`ma,Abass at T√Ñ¬±`ma,16,,33.0108333,44.6952778
 iq,abayachi,Abayachi,18,,33.7672222,44.3802778
 iq,`abbas,`Abbas,04,,32.1038889,45.3063889
 iq,`abbas,`Abbas,06,,32.3333333,44.4333333
@@ -1663,29 +1662,29 @@ ir,`abbasabad,`Abbasabad,10,,33.1149,47.3588
 ir,`abbasabad,`Abbasabad,44,,35.7302,50.8879
 ir,karam,Karam,19,,31.1152,61.8138
 ir,miandoab,Miandoab,02,132830,36.9694,46.1027
-is,abaer,¡bÊr,28,,65.3,-18.866667
+is,abaer,√Åb√¶r,28,,65.3,-18.866667
 is,akranes,Akranes,07,5606,64.316667,-22.1
 is,akrar,Akrar,17,,64.633333,-22.383333
 is,akurey,Akurey,23,,63.666667,-20.383333
 is,akureyri,Akureyri,09,16563,65.666667,-18.1
-is,alafoss,¡lafoss,15,,64.166667,-21.683333
-is,alftamyri,¡lftam˝ri,36,,65.783333,-23.716667
+is,alafoss,√Ålafoss,15,,64.166667,-21.683333
+is,alftamyri,√Ålftam√Ωri,36,,65.783333,-23.716667
 is,argerdareyri,Argerdareyri,19,,65.883333,-22.383333
-is,arnes,¡rnes,30,,66.016667,-21.516667
-is,aslaksstair,¡sl·ksstair,10,,64.016667,-22.35
-is,aukula,Auk˙la,05,,65.5,-20.033333
-is,baer,BÊr,06,,64.383333,-14.8
-is,bakkafjorur,Bakkafjˆrur,20,,66.033333,-14.8
+is,arnes,√Årnes,30,,66.016667,-21.516667
+is,aslakssta√∞ir,√Åsl√°kssta√∞ir,10,,64.016667,-22.35
+is,au√∞kula,Au√∞k√∫la,05,,65.5,-20.033333
+is,baer,B√¶r,06,,64.383333,-14.8
+is,bakkafjor√∞ur,Bakkafj√∂r√∞ur,20,,66.033333,-14.8
 is,berunes,Berunes,31,,64.7,-14.266667
-is,bildudalur,BÌldudalur,34,204,65.683333,-23.6
-is,bjarnarhofn,Bjarnarhˆfn,29,,65,-22.966667
-is,braeratunga,BrÊratunga,03,,64.166667,-20.383333
-is,breiabolsstair,Breiabolsstair,35,,65.45,-20.716667
-is,brettingsstair,Brettingsstair,32,,66.116667,-17.916667
-is,buardalur,B˙ardalur,08,,65.116667,-21.766667
-is,dyrholahverfi,DyrhÛlahverfi,37,,63.416667,-19.166667
+is,bildudalur,B√≠ldudalur,34,204,65.683333,-23.6
+is,bjarnarhofn,Bjarnarh√∂fn,29,,65,-22.966667
+is,brae√∞ratunga,Br√¶√∞ratunga,03,,64.166667,-20.383333
+is,brei√∞abolssta√∞ir,Brei√∞abolssta√∞ir,35,,65.45,-20.716667
+is,brettingssta√∞ir,Brettingssta√∞ir,32,,66.116667,-17.916667
+is,bu√∞ardalur,B√∫√∞ardalur,08,,65.116667,-21.766667
+is,dyrholahverfi,Dyrh√≥lahverfi,37,,63.416667,-19.166667
 is,eyri,Eyri,04,,65.6,-22.5
-is,garhur,Garhur,21,,66.066667,-16.766667
+is,gar√∞hur,Gar√∞hur,21,,66.066667,-16.766667
 it,abadia a isola,Abadia a Isola,16,,43.383333,11.2
 it,abano,Abano,20,,45.35,11.783333
 it,abatemarco,Abatemarco,04,,40.133333,15.35
@@ -1695,7 +1694,7 @@ it,abbadia lariana,Abbadia Lariana,09,,45.9,9.333333
 it,abbasanta,Abbasanta,14,,40.133333,8.816667
 it,abbateggio,Abbateggio,01,,42.216667,14
 it,abbazia di pomposa,Abbazia di Pomposa,05,,44.834722,12.182778
-it,aberstuckl,Aberst¸ckl,17,,46.766667,11.366667
+it,aberstuckl,Aberst√ºckl,17,,46.766667,11.366667
 it,abeto,Abeto,18,,42.833333,13.05
 it,abriola,Abriola,02,,40.5,15.816667
 it,acaia,Acaia,13,,40.333333,18.283333
@@ -1807,12 +1806,12 @@ kh,andaung por,Andaung Por,18,,11.3666667,105.8
 kh,andaung tuk,Andaung Tuk,08,,11.1833333,103.4833333
 kh,ang khan,Ang Khan,12,,12.7666667,103.65
 kh,ang tit ui,Ang Tit Ui,11,,11.5,104.8666667
-kh,anlong,¬nlÛng,10,,13.0833333,106.4166667
+kh,anlong,√Çnl√≥ng,10,,13.0833333,106.4166667
 kh,anlong kray,Anlong Kray,17,,13.6666667,105.6333333
 kh,anlong preng,Anlong Preng,06,,10.6666667,103.9
 kh,aranh chas,Aranh Chas,25,,13.605,102.7244444
 kh,bahal,Bahal,13,,13.7833333,104.9666667
-kh,battachi,B‚ttachi,07,,11.45,104.9333333
+kh,battachi,B√¢ttachi,07,,11.45,104.9333333
 ki,abaokoro,Abaokoro,00,,1.4666667,173.0166667
 km,accua,Accua,01,,-12.7333333,45.05
 km,agniamouada,Agniamouada,03,,-12.3166667,43.85
@@ -1898,19 +1897,19 @@ la,ban amon,Ban Amon,21,,18.010278,102.670833
 la,ban an,Ban An,14,,19.601944,102.977778
 la,ban ang,Ban Ang,11,,18.015278,102.396667
 la,ban at nha,Ban At Nha,25,,18.266667,103.183333
-la,ban aychai,Ban AychaÌ,22,,20.611667,100.415
+la,ban aychai,Ban Aycha√≠,22,,20.611667,100.415
 la,ban bac,Ban Bac,19,,15.85,106.783333
 la,ban bak mane,Ban Bak Mane,13,,18.133333,101.383333
-la,ban bakxebangfai,Ban BakxÈbangfai,04,,16.95,104.75
+la,ban bakxebangfai,Ban Bakx√©bangfai,04,,16.95,104.75
 la,ban chavan,Ban Chavan,26,,15.35,107.066667
 la,ban chouang,Ban Chouang,27,,19.347222,102.633333
 la,ban coue,Ban Coue,23,,18.4,103.6
-la,ban don,Ban DÙn,24,,18.016667,103.066667
-lb,aaba,A‚ba,03,,34.35,35.8333333
-lb,aabassiye,Aab‚ssÓye,02,,33.3,35.2833333
+la,ban don,Ban D√¥n,24,,18.016667,103.066667
+lb,aaba,A√¢ba,03,,34.35,35.8333333
+lb,aabassiye,Aab√¢ss√Æye,02,,33.3,35.2833333
 lb,aabba,Aabba,04,,33.3597222,35.4027778
-lb,aabboud,Aabbo˚d,05,,34.1,35.85
-lb,aabd el fattah,Aabd el Fatt‚h,01,,33.6666667,35.85
+lb,aabboud,Aabbo√ªd,05,,34.1,35.85
+lb,aabd el fattah,Aabd el Fatt√¢h,01,,33.6666667,35.85
 lb,aabra,Aabra,06,,33.5666667,35.4047222
 lc,anbre,Anbre,08,,13.8166667,-60.9166667
 lc,annus,Annus,07,,13.7666667,-61.0
@@ -1918,9 +1917,9 @@ lc,anse canot,Anse Canot,05,,13.9,-60.9
 lc,anse la raye,Anse La Raye,01,,13.9333333,-61.0333333
 lc,augier,Augier,10,,13.75,-60.9666667
 lc,babonneau,Babonneau,03,,14.0,-60.9333333
-lc,beausejour,BeausÈjour,09,,13.8166667,-61.05
+lc,beausejour,Beaus√©jour,09,,13.8166667,-61.05
 lc,bois d'orange,Bois d'Orange,06,,14.05,-60.9666667
-lc,cafeiere,CafÈiËre,04,,13.7833333,-61.0333333
+lc,cafeiere,Caf√©i√®re,04,,13.7833333,-61.0333333
 lc,chassin,Chassin,02,,13.9833333,-60.9166667
 lc,d'aubaigon,D'Aubaigon,11,,13.8333333,-60.9166667
 li,balzers,Balzers,01,4447,47.0666667,9.5
@@ -1972,9 +1971,9 @@ ls,corn exchange,Corn Exchange,12,,-28.9833333,27.9833333
 ls,hill top,Hill Top,17,,-30.0333333,28.7833333
 ls,lebingwanas cattle post,Lebingwanas Cattle Post,16,,-28.9166667,28.9
 ls,maputsoe,Maputsoe,03,,-28.8833333,27.9
-lt,aÅany,≈Åany,60,,55.4333333,24.5833333
-lt,aÅawkswo,≈Åawkswo,63,,55.6205556,22.23
-lt,aÅazdeniki,≈Åazdeniki,58,,56.0,21.2
+lt,a¬Åany,√Ö¬Åany,60,,55.4333333,24.5833333
+lt,a¬Åawkswo,√Ö¬Åawkswo,63,,55.6205556,22.23
+lt,a¬Åazdeniki,√Ö¬Åazdeniki,58,,56.0,21.2
 lt,abolai,Abolai,65,,54.35,25.4666667
 lt,abrieskai,Abrieskai,61,,55.6166667,23.4666667
 lt,abshruten,Abshruten,62,,55.0833333,22.4666667
@@ -2058,22 +2057,22 @@ ly,an nawfaliyah,An Nawfaliyah,19,,30.7833333,17.8333333
 ly,ash shurraf,Ash Shurraf,27,,32.5833333,13.95
 ly,as sultan,As Sultan,60,,31.1177778,17.1475
 ly,castelverde,Castelverde,10,,32.75,13.7166667
-ly,giarruta,Giarr˙ta,32,,31.8166667,19.9833333
+ly,giarruta,Giarr√∫ta,32,,31.8166667,19.9833333
 ly,qasr bin ghashir,Qasr Bin Ghashir,33,,32.6833333,13.1833333
 ly,sayyad,Sayyad,26,,32.8166667,12.95
 ly,suq al `alaliqah,Suq al `Alaliqah,35,,32.75,11.9833333
 ma,aabasen,Aabasen,57,,35.05,-4.5
-ma,aaboud,A‚boud,58,,35.123179,-4.439054
+ma,aaboud,A√¢boud,58,,35.123179,-4.439054
 ma,aachour,Aachour,55,,31.300264,-7.215594
-ma,aalane,A‚lane,47,,31.51332,-7.37332
-ma,aamire,A‚mire,54,,35.089843,-3.024066
-ma,aaouifate,A‚ouifate,52,,34.625552,-5.576183
-ma,aarbane,A‚rbane,48,,32.971581,-4.871191
+ma,aalane,A√¢lane,47,,31.51332,-7.37332
+ma,aamire,A√¢mire,54,,35.089843,-3.024066
+ma,aaouifate,A√¢ouifate,52,,34.625552,-5.576183
+ma,aarbane,A√¢rbane,48,,32.971581,-4.871191
 ma,abachkou,Abachkou,56,,31.588913,-6.628342
 ma,abadla,Abadla,51,,32.431474,-8.852447
 ma,abattekh,Abattekh,53,,27.83,-11.46
 ma,abdelhadi,Abdelhadi,46,,33.218085,-4.628619
-ma,ac ckhirat,AÁ «khirat,49,,33.849844,-7.040368
+ma,ac ckhirat,A√ß √ákhirat,49,,33.849844,-7.040368
 ma,achachka,Achachka,50,,32.913403,-6.527525
 ma,ad dar al bayda',Ad Dar al Bayda',45,,33.592779,-7.619157
 mc,condamine,Condamine,00,,43.7333333,7.4166667
@@ -2127,7 +2126,7 @@ mk,adzemka,Adzemka,10,,41.8947222,20.9425
 mk,adzibegovo,Adzibegovo,60,,41.7602778,21.9852778
 mk,adzievci,Adzievci,88,,41.5888889,20.6130556
 mk,adzinci,Adzinci,97,,42.2547222,21.8502778
-mk,aêevaëelijad,√êevƒëelijad,33,,41.1391667,22.5025
+mk,a¬êeva¬ëelijad,√É¬êev√Ñ¬ëelijad,33,,41.1391667,22.5025
 mk,afmate,Afmate,94,,41.7211111,21.0088889
 mk,agino selo,Agino Selo,75,,42.0463889,21.6811111
 mk,ajranli,Ajranli,A8,,41.3466667,22.5311111
@@ -2149,10 +2148,10 @@ mk,ame,Ame,21,,41.5516667,20.5266667
 mk,amzali,Amzali,11,,41.5013889,22.7563889
 mk,andrejevo,Andrejevo,31,,42.0533333,21.0191667
 mk,angelci,Angelci,A9,,41.4763889,22.6111111
-mk,aêonceli,√êonceli,96,,41.2563889,22.6655556
-mk,aêorce petrov,√êorce Petrov,90,,42.0077778,21.3530556
-mk,aracine,AraÁinÎ,01,,42.0263889,21.5619444
-mk,aranaëel,Aranƒëel,77,,41.5947222,21.0244444
+mk,a¬êonceli,√É¬êonceli,96,,41.2563889,22.6655556
+mk,a¬êorce petrov,√É¬êorce Petrov,90,,42.0077778,21.3530556
+mk,aracine,Ara√ßin√´,01,,42.0263889,21.5619444
+mk,arana¬ëel,Aran√Ñ¬ëel,77,,41.5947222,21.0244444
 mk,arazli,Arazli,66,,41.3666667,22.4666667
 mk,arbinovo,Arbinovo,03,,41.3705556,20.8288889
 mk,argulica,Argulica,40,,41.8194444,22.2794444
@@ -2161,7 +2160,7 @@ mk,arnacija,Arnacija,48,,41.9775,21.2733333
 mk,arvati,Arvati,86,,40.9436111,21.1130556
 mk,arzhano,Arzhano,61,,41.3730556,20.6655556
 mk,atista,Atista,B6,,41.4533333,21.0391667
-mk,aêuraëeviste,√êurƒëeviste,70,,41.8944444,20.8622222
+mk,a¬êura¬ëeviste,√É¬êur√Ñ¬ëeviste,70,,41.8944444,20.8622222
 mk,babi,Babi,98,,41.7594444,22.2025
 mk,babino,Babino,93,,41.2994444,21.0797222
 mk,babiste,Babiste,76,,42.0175,22.4147222
@@ -2195,7 +2194,7 @@ mk,beloviste,Beloviste,27,,41.7755556,20.9355556
 mk,beloviste,Beloviste,B8,,42.1366667,21.1041667
 mk,beranci,Beranci,67,,41.1588889,21.3597222
 mk,berovo,Berovo,04,13847,41.7030556,22.8577778
-mk,bervenice,BÎrvenicÎ,12,,41.9672222,20.9808333
+mk,bervenice,B√´rvenic√´,12,,41.9672222,20.9808333
 mk,bezikovo,Bezikovo,62,,41.9725,22.5280556
 mk,bezovec,Bezovec,91,,42.0533333,20.8280556
 mk,bidzevo,Bidzevo,23,,41.23,20.6983333
@@ -2240,14 +2239,14 @@ mk,gorna belica,Gorna Belica,B3,,41.2238889,20.5544444
 mk,grdovci,Grdovci,C6,,41.8808333,22.4191667
 mk,karpos,Karpos,43,,41.5052778,20.9633333
 mk,kuklis,Kuklis,55,4368,41.4052778,22.6652778
-ml,abaladougou kenieba,Abaladougou KÈniÈba,07,,12.0444444,-8.6280556
+ml,abaladougou kenieba,Abaladougou K√©ni√©ba,07,,12.0444444,-8.6280556
 ml,abdalaye,Abdalaye,04,,15.2833333,-5.3333333
 ml,abdoul sinia,Abdoul Sinia,03,,14.9333333,-11.75
 ml,abdou salam,Abdou Salam,02,,16.85,-0.35
-ml,acil barhe,Acil BarhÈ,00,,15.0,-9.2333333
-ml,adabai mahamoud,AdabaÔ Mahamoud,08,,16.0833333,-2.6833333
+ml,acil barhe,Acil Barh√©,00,,15.0,-9.2333333
+ml,adabai mahamoud,Adaba√Ø Mahamoud,08,,16.0833333,-2.6833333
 ml,adamabougou,Adamabougou,05,,13.3333333,-5.2
-ml,ali hamadou lilae,Ali Hamadou LilaÈ,06,,10.6,-6.2
+ml,ali hamadou lilae,Ali Hamadou Lila√©,06,,10.6,-6.2
 ml,badalabougou,Badalabougou,01,,12.6255556,-7.9838889
 ml,gao,Gao,09,38186,16.2666667,-0.05
 ml,kidal,Kidal,10,11642,18.4411111,1.4077778
@@ -2271,20 +2270,20 @@ mm,loikwang,Loikwang,22,,19.8130556,98.0613889
 mn,abaragin khid,Abaragin Khid,07,,45.7666667,111.2
 mn,abaraha,Abaraha,14,,44.3833333,105.55
 mn,abarahaiin hural,Abarahaiin Hural,08,,45.2166667,108.0333333
-mn,abdaliin huryee,Abdaliin H¸ryee,09,,48.9833333,98.3333333
+mn,abdaliin huryee,Abdaliin H√ºryee,09,,48.9833333,98.3333333
 mn,abdara-bayan,Abdara-Bayan,18,,47.1666667,107.1666667
-mn,abdartayn sum,Abdartayn S¸m,17,,46.3666667,113.5833333
+mn,abdartayn sum,Abdartayn S√ºm,17,,46.3666667,113.5833333
 mn,abdzaba,Abdzaba,21,,47.9,103.4166667
 mn,achzhirigyyn khure,Achzhirigyyn Khure,01,,48.8166667,100.9666667
 mn,agatayn hiid,Agatayn Hiid,24,,46.5833333,108.6166667
-mn,ahay-beeseiin-huree,Ahay-Beeseiin-H¸ree,11,,46.6,109.4
+mn,ahay-beeseiin-huree,Ahay-Beeseiin-H√ºree,11,,46.6,109.4
 mn,ak-aral,Ak-aral,03,,49.2,90.9
 mn,a-la-erh-t'u,A-la-erh-t'u,06,,48.6833333,115.9666667
 mn,alag-erdene,Alag-Erdene,13,,50.1213889,100.0430556
-mn,altai,AltaÔ,10,,44.9166667,95.4166667
+mn,altai,Alta√Ø,10,,44.9166667,95.4166667
 mn,altai,Altai,12,,45.8,92.2833333
 mn,altanbulag,Altanbulag,16,,50.3155556,106.4986111
-mn,amar-buyantayn-huree,Amar-Buyantayn-H¸ree,02,,44.6166667,98.7
+mn,amar-buyantayn-huree,Amar-Buyantayn-H√ºree,02,,44.6166667,98.7
 mn,amogolambu,Amogolambu,20,,47.9,107.0
 mn,arbai khere,Arbai Khere,15,,46.25,102.7666667
 mn,barun datsan khure,Barun datsan khure,19,,49.2,94.4166667
@@ -2295,24 +2294,24 @@ mp,abercrombie,Abercrombie,18,,-20.1480556,57.5161111
 mp,albion,Albion,12,,-20.2116667,57.4008333
 mp,alma,Alma,15,,-20.2397222,57.5663889
 mp,amaury,Amaury,19,,-20.1308333,57.6591667
-mp,amitie,AmitiÈ,16,,-20.15,57.5666667
+mp,amitie,Amiti√©,16,,-20.15,57.5666667
 mp,anse aux anglais,Anse aux Anglais,23,,-19.675,63.4305556
-mp,anse jonchee,Anse JonchÈe,14,,-20.3475,57.7452778
+mp,anse jonchee,Anse Jonch√©e,14,,-20.3475,57.7452778
 mp,argy,Argy,13,,-20.1980556,57.7294444
 mp,bagatelle,Bagatelle,17,,-20.2505556,57.5133333
 mp,baie du cap,Baie du Cap,20,,-20.4883333,57.3705556
 mp,porte sainte rita,Porte Sainte Rita,00,,-10.4833333,56.7
-mq,abandonne,AbandonnÈ,00,,14.8166667,-61.1166667
+mq,abandonne,Abandonn√©,00,,14.8166667,-61.1166667
 mr,abari,Abari,05,,16.3666667,-13.9833333
 mr,abdel begrou,Abdel Begrou,01,,15.5666667,-7.1166667
-mr,adabai doulel,AdabaÔ Doulel,04,,16.2333333,-13.7
-mr,afrare,AfrarÈ,03,,15.2166667,-10.95
-mr,agouemit,AgouÈmit,10,,15.5666667,-12.3333333
+mr,adabai doulel,Adaba√Ø Doulel,04,,16.2333333,-13.7
+mr,afrare,Afrar√©,03,,15.2166667,-10.95
+mr,agouemit,Agou√©mit,10,,15.5666667,-12.3333333
 mr,agueni,Agueni,07,,20.5166667,-13.1666667
-mr,aime msira,AÔmÈ Msira,02,,15.7333333,-9.3166667
-mr,'ain ben tili,'AÔn Ben Tili,11,,25.9333333,-9.5833333
+mr,aime msira,A√Øm√© Msira,02,,15.7333333,-9.3166667
+mr,'ain ben tili,'A√Øn Ben Tili,11,,25.9333333,-9.5833333
 mr,akjoujt,Akjoujt,12,,19.75,-14.3833333
-mr,beila,BeÔla,06,,18.1772222,-15.8755556
+mr,beila,Be√Øla,06,,18.1772222,-15.8755556
 mr,boulanouar,Boulanouar,08,,21.2666667,-16.5
 mr,chegga,Chegga,00,,25.3833333,-5.7833333
 mr,fort cappolani,Fort Cappolani,09,,18.55,-11.4166667
@@ -2324,9 +2323,9 @@ mu,abercrombie,Abercrombie,18,,-20.1480556,57.5161111
 mu,albion,Albion,12,3254,-20.2116667,57.4008333
 mu,alma,Alma,15,,-20.2397222,57.5663889
 mu,amaury,Amaury,19,2912,-20.1308333,57.6591667
-mu,amitie,AmitiÈ,16,,-20.15,57.5666667
+mu,amitie,Amiti√©,16,,-20.15,57.5666667
 mu,anse aux anglais,Anse aux Anglais,23,,-19.675,63.4305556
-mu,anse jonchee,Anse JonchÈe,14,,-20.3475,57.7452778
+mu,anse jonchee,Anse Jonch√©e,14,,-20.3475,57.7452778
 mu,argy,Argy,13,,-20.1980556,57.7294444
 mu,bagatelle,Bagatelle,17,,-20.2505556,57.5133333
 mu,baie du cap,Baie du Cap,20,,-20.4883333,57.3705556
@@ -2363,7 +2362,7 @@ mw,chonde,Chonde,29,,-16.0,35.3166667
 mx,abadiano,Abadiano,16,,19.983333,-102.85
 mx,abajo,Abajo,06,,28.033333,-107.7
 mx,abajo,Abajo,30,,21.433333,-97.583333
-mx,abala,Abal·,31,,20.633333,-89.683333
+mx,abala,Abal√°,31,,20.633333,-89.683333
 mx,abal,Abal,23,,19.95,-88.866667
 mx,abandonado,Abandonado,26,,27.666667,-109.933333
 mx,abanoa,Abanoa,29,,19.133333,-98.15
@@ -2376,10 +2375,10 @@ mx,abasolo,Abasolo,20,,16.983333,-96.583333
 mx,abasolo,Abasolo,27,,17.65,-92.6
 mx,abasolo,Abasolo,28,6740,24.066667,-98.366667
 mx,abejones,Abejones,12,,18.066667,-101.566667
-mx,abelardo l. rodriguez,Abelardo L. RodrÌguez,02,,29.8,-115.483333
-mx,abelardo l. rodriguez,Abelardo L. RodrÌguez,04,,18.716667,-90.9
+mx,abelardo l. rodriguez,Abelardo L. Rodr√≠guez,02,,29.8,-115.483333
+mx,abelardo l. rodriguez,Abelardo L. Rodr√≠guez,04,,18.716667,-90.9
 mx,abelardo l. rodriguez,Abelardo L. Rodriguez,18,,22.205833,-105.292778
-mx,abelardo l. rodriguez,Abelardo L. RodrÌguez,21,,18.569444,-98.408333
+mx,abelardo l. rodriguez,Abelardo L. Rodr√≠guez,21,,18.569444,-98.408333
 mx,abelardo l. rodriguez,Abelardo L. Rodriguez,25,,25.716667,-108.533333
 mx,abelea,Abelea,01,,22.35,-102.4
 mx,abras del corozo,Abras del Corozo,24,,21.916667,-99.3
@@ -2388,8 +2387,8 @@ mx,acahualco,Acahualco,15,13968,19.276944,-99.775556
 mx,acahuale,Acahuale,14,,21.133333,-102.5
 mx,acahuasco,Acahuasco,13,,20.966667,-98.6
 mx,acamilpa,Acamilpa,17,,18.7,-99.166667
-mx,acatitan,Acatit·n,08,,19.133333,-103.7
-mx,acatitlan,Acatitl·n,22,,21.216667,-99.183333
+mx,acatitan,Acatit√°n,08,,19.133333,-103.7
+mx,acatitlan,Acatitl√°n,22,,21.216667,-99.183333
 mx,achemes,Achemes,03,,24.966667,-111.216667
 mx,acopilco,Acopilco,09,,19.333333,-99.316667
 my,10th mile bazaar,10th Mile Bazaar,11,,1.433333,110.316667
@@ -2415,13 +2414,13 @@ mz,abdala,Abdala,01,,-11.4266667,39.7177778
 mz,abdul,Abdul,02,,-24.4688889,33.1519444
 mz,abedula,Abedula,03,,-24.2630556,35.0675
 mz,acampamento,Acampamento,10,,-20.3997222,33.23
-mz,achuchinhanzi,Achuchinh‚nzi,08,,-14.8383333,34.2019444
+mz,achuchinhanzi,Achuchinh√¢nzi,08,,-14.8383333,34.2019444
 mz,afonso,Afonso,05,,-18.2152778,35.8647222
 mz,javane,Javane,00,,-4.2833333,34.1333333
 na,abbabis,Abbabis,30,,-23.9666667,16.0833333
 na,abenab,Abenab,39,,-19.2833333,18.0833333
 na,academia,Academia,40,,-22.6102778,17.0672222
-na,affenrucken,Affenr¸cken,31,,-28.0833333,15.8166667
+na,affenrucken,Affenr√ºcken,31,,-28.0833333,15.8166667
 na,akutsima,Akutsima,36,,-18.1166667,14.8
 na,akweenyanga,Akweenyanga,37,,-17.85,15.7833333
 na,amakange,Amakange,32,,-18.1,14.3333333
@@ -2440,7 +2439,7 @@ ne,abalak,Abalak,06,13555,15.4522222,6.2783333
 ne,abardok,Abardok,01,,17.5166667,8.65
 ne,abdou,Abdou,07,,14.8,8.0833333
 ne,abdou-koara,Abdou-Koara,03,,13.05,3.5666667
-ne,abegou,AbÈgou,04,,14.15,8.2166667
+ne,abegou,Ab√©gou,04,,14.15,8.2166667
 ne,niamey,Niamey,08,774245,13.5166667,2.1166667
 nf,kingston,Kingston,00,,-29.05,167.95
 ng,aabom,Aabom,50,,4.791234,7.193595
@@ -2497,9 +2496,9 @@ ni,altos,Altos,11,,12.0666667,-86.1
 ni,amaka,Amaka,07,,14.25,-85.1166667
 ni,amatilla,Amatilla,13,,13.6333333,-86.6333333
 ni,amerisco,Amerisco,18,,11.2,-83.85
-ni,amucayan,Amucay·n,09,,13.5666667,-86.35
+ni,amucayan,Amucay√°n,09,,13.5666667,-86.35
 ni,cacao,Cacao,05,,13.05,-86.25
-nl,1e exloermond,1e ExloÎrmond,01,,52.940973,6.96853
+nl,1e exloermond,1e Exlo√´rmond,01,,52.940973,6.96853
 nl,2e vlotbrug,2e Vlotbrug,11,,51.853179,4.196482
 nl,aadorp,Aadorp,15,,52.374006,6.61527
 nl,aagtdorn,Aagtdorn,07,,52.690802,4.700756
@@ -2512,9 +2511,9 @@ nl,aalsum,Aalsum,04,,53.307707,6.370865
 nl,aan de zuwe,Aan de Zuwe,09,,52.171395,4.901829
 nl,almere,Almere,16,186457,52.388101,5.235395
 nl,bella vista,Bella Vista,00,,12.15,-68.25
-no,a,≈,09,1145,63.966667,10.216667
-no,a,≈,16,1145,63.966667,10.2
-no,a,≈,18,,68.783333,17.766667
+no,a,√Ö,09,1145,63.966667,10.216667
+no,a,√Ö,16,1145,63.966667,10.2
+no,a,√Ö,18,,68.783333,17.766667
 no,aabol,Aabol,20,,59.166667,10.216667
 no,aadalsbruk,Aadalsbruk,06,,60.783333,11.3
 no,aadland,Aadland,07,,60.366667,5.483333
@@ -2564,7 +2563,7 @@ pa,acequia de cochea,Acequia de Cochea,02,,8.5833333,-82.4166667
 pa,achiote,Achiote,04,,9.2227778,-80.0191667
 pa,achiotillal,Achiotillal,10,,8.55,-80.9333333
 pa,achoertupo,Achoertupo,09,,9.5,-78.95
-pa,africa,¡frica,01,,9.15,-82.3166667
+pa,africa,√Åfrica,01,,9.15,-82.3166667
 pa,agua azules,Agua Azules,06,,7.8833333,-80.9166667
 pa,agua bendita,Agua Bendita,08,,9.1666667,-79.6166667
 pa,agua blanca,Agua Blanca,03,,8.4833333,-80.65
@@ -2729,7 +2728,7 @@ ph,alegre,Alegre,F8,,10.783,123.0547
 ph,alegria,Alegria,P2,,7.529444,122.989444
 ph,alejandria,Alejandria,D2,,10.4223,122.9784
 ph,alicia,Alicia,F2,,14.665,121.0208
-ph,alimango,AlimaÒgo,69,,9.2856,123.6361
+ph,alimango,Alima√±go,69,,9.2856,123.6361
 ph,alimango,Alimango,J1,,10.834,123.5211
 ph,almanza dos,Almanza Dos,K1,,14.414281,121.011786
 ph,amigos,Amigos,B1,,10.9323,123.3128
@@ -2765,7 +2764,7 @@ ph,bacalod,Bacalod,A2,,10.6677,122.9533
 ph,bacayao,Bacayao,B9,,16.0392,120.3475
 ph,bacolod chico,Bacolod Chico,E1,,7.989444,124.281667
 ph,baga,Baga,E6,,8.1002,123.7539
-ph,bagalnga,BagalÒga,C1,,10.5,123.983333
+ph,bagalnga,Bagal√±ga,C1,,10.5,123.983333
 ph,bagbaguin,Bagbaguin,L2,,14.7668,121.0097
 ph,bagong,Bagong,B4,,14.6621,120.9932
 ph,bagong bayan,Bagong Bayan,F7,,14.0682,121.3192
@@ -2793,7 +2792,7 @@ ph,booc,Booc,N8,,10.23978,123.8216
 ph,buan,Buan,C7,,7.6839,125.8836
 ph,cabadiangan,Cabadiangan,N1,3433,9.7534,122.4739
 ph,cabancalan,Cabancalan,D8,,10.3475,123.9347
-ph,canacao,CaÒacao,B6,,14.488056,120.895278
+ph,canacao,Ca√±acao,B6,,14.488056,120.895278
 ph,capataan,Capataan,O5,,16.0086,120.6064
 ph,dangcol,Dangcol,H7,,14.6431,120.4636
 ph,del rosario,Del Rosario,D1,,13.397,123.4536
@@ -2829,17 +2828,17 @@ pl,alt beelitz,Alt Beelitz,76,,52.84845,15.921153
 pm,miquelon,Miquelon,00,1141,47.0975,-56.3813889
 pn,adamstown,Adamstown,00,,-25.0666667,-130.0833333
 ps,abasan,Abasan,00,,31.323333,34.346111
-pt,abacao,AbaÁ„o,04,,41.410015,-8.272586
-pt,abacas,AbaÁas,21,,41.226962,-7.698483
+pt,abacao,Aba√ß√£o,04,,41.410015,-8.272586
+pt,abacas,Aba√ßas,21,,41.226962,-7.698483
 pt,abades,Abades,18,,39.765567,-8.468662
 pt,abadessa,Abadessa,13,,39.562038,-8.936664
 pt,abadia,Abadia,14,,39.095146,-9.191603
 pt,abambres,Abambres,05,,41.558632,-7.183489
-pt,abecao,AbeÁ„o,20,,42.06631,-8.416893
+pt,abecao,Abe√ß√£o,20,,42.06631,-8.416893
 pt,abegoaria,Abegoaria,16,,39.023347,-7.12637
 pt,abegoaria,Abegoaria,19,,38.737491,-8.539531
 pt,abegoaria,Abegoaria,23,,38.566667,-28.616667
-pt,abegoes,Abegıes,22,,40.638962,-7.699332
+pt,abegoes,Abeg√µes,22,,40.638962,-7.699332
 pt,abelhal,Abelhal,17,,41.107326,-8.015592
 pt,abitureira,Abitureira,02,,40.947568,-8.349937
 pt,abitureira,Abitureira,06,,39.99887,-7.8904
@@ -2847,18 +2846,18 @@ pt,abobara,Abobara,09,,37.133333,-7.6
 pt,abraveia,Abraveia,07,,40.196134,-8.277731
 pt,achada de cima,Achada de Cima,10,,32.716667,-17.15
 pt,achada do gamo,Achada do Gamo,03,,37.652507,-7.509396
-pt,acores,AÁores,11,,40.645437,-7.305133
+pt,acores,A√ßores,11,,40.645437,-7.305133
 pt,adaval,Adaval,08,,38.617886,-7.610648
 pw,aakip,Aakip,00,,7.3619444,134.5122222
 py,24 de julio,24 De Julio,08,,-25.083333,-57.3
 py,28 km paranambu,28 Km Paranambu,01,,-25.816667,-54.833333
-py,abai,AbaÌ,05,3024,-26.033333,-55.933333
-py,aba-ne-e,Ab·-—e-È,24,,-21.933333,-61.933333
-py,acahai,AcahaÌ,15,,-25.916667,-57.15
-py,administracion lunardelli,AdministraciÛn Lunardelli,02,,-23.233333,-55.85
+py,abai,Aba√≠,05,3024,-26.033333,-55.933333
+py,aba-ne-e,Ab√°-√ëe-√©,24,,-21.933333,-61.933333
+py,acahai,Acaha√≠,15,,-25.916667,-57.15
+py,administracion lunardelli,Administraci√≥n Lunardelli,02,,-23.233333,-55.85
 py,agua dulce,Agua Dulce,23,,-20.016667,-59.766667
-py,aguara charte,Aguar· Charte,19,,-23.833333,-55.483333
-py,aguerito,Ag¸erito,07,,-22.916667,-56.666667
+py,aguara charte,Aguar√° Charte,19,,-23.833333,-55.483333
+py,aguerito,Ag√ºerito,07,,-22.916667,-56.666667
 py,aguirre,Aguirre,12,,-26.833333,-57.55
 py,ajos,Ajos,04,,-25.416667,-56.45
 py,alberdi,Alberdi,13,6518,-26.166667,-58.15
@@ -2917,7 +2916,7 @@ ro,albesti-de mur,Albesti-de Mur,30,,44.95,26.2
 ro,alexandru odobescu,Alexandru Odobescu,40,,45.5,26.933333
 ro,andronache,Andronache,10,,44.483333,26.15
 ro,azaclau,Azaclau,18,,45.45,28.05
-rs,ablian,Abli·n,00,,44.947222,21.370833
+rs,ablian,Abli√°n,00,,44.947222,21.370833
 rs,aleksinac,Aleksinac,02,16652,43.541667,21.707778
 rs,niksic,Niksic,01,,44.099167,21.001944
 rs,veliko gradiste,Veliko Gradiste,12,5752,44.756667,21.513611
@@ -2962,7 +2961,7 @@ ru,abalmasov,Abalmasov,09,,50.5813,37.6578
 ru,abamza,Abamza,16,,54.964749,47.243171
 ru,abar,Abar,34,,62.693896,56.181091
 ru,abarinki,Abarinki,10,,52.677449,33.172335
-ru,abashevo,AbashÎvo,65,,52.6855,48.6814
+ru,abashevo,Abash√´vo,65,,52.6855,48.6814
 ru,abasnur,Abasnur,45,,56.599444,48.376667
 ru,abaturovo,Abaturovo,42,,59.9,34.933333
 ru,abatyrtsy,Abatyrtsy,33,,57.233333,49.316667
@@ -2998,7 +2997,7 @@ ru,achagvay,Achagvay,92,,56.066667,158.8
 ru,achan,Achan,30,,49.886,136.6267
 ru,achchen,Achchen,15,,64.883333,-174.666667
 ru,achimova,Achimova,32,,60.45,76.066667
-ru,aderpayeta,AderpayÎta,87,,68.9262,75.7932
+ru,aderpayeta,Aderpay√´ta,87,,68.9262,75.7932
 ru,adyr-kezhig,Adyr-Kezhig,79,,52.454167,96.233056
 ru,afonikha,Afonikha,50,,68.229908,53.46838
 ru,agasbeta,Agasbeta,12,,43.014049,46.107378
@@ -3007,8 +3006,8 @@ ru,agnesevskiy,Agnesevskiy,89,,48.85,131.216667
 ru,aidomari,Aidomari,JA,,43.516667,146.083333
 ru,akati,Akati,19,,43.121772,45.103481
 ru,aleksandrovskaya,Aleksandrovskaya,66,1159,59.730833,30.332222
-ru,aleshkino,AlÎshkino,48,,55.864468,37.423342
-ru,chernaya gora,ChÎrnaya Gora,58,,56.648551,57.988899
+ru,aleshkino,Al√´shkino,48,,55.864468,37.423342
+ru,chernaya gora,Ch√´rnaya Gora,58,,56.648551,57.988899
 ru,imangda rudnaya,Imangda Rudnaya,91,,69.1062,89.607
 ru,kavran,Kavran,36,,59.15,156.983333
 rw,agatwi,Agatwi,09,,-1.8847222,30.0686111
@@ -3073,59 +3072,59 @@ sd,senga,Senga,58,,13.15,33.9333333
 sd,warab,Warab,59,,8.1333333,28.6166667
 sd,wau,Wau,46,,7.7,28.0
 sd,yambio,Yambio,45,40382,4.5705556,28.4163889
-se,a,≈,24,,62.9,17.833333
-se,a,≈,28,,58.266667,11.85
+se,a,√Ö,24,,62.9,17.833333
+se,a,√Ö,28,,58.266667,11.85
 se,aapua,Aapua,14,,66.85,23.533333
-se,abacka,≈backa,23,,65.466667,16.9
-se,abarp,≈barp,27,,56.033333,13.633333
+se,abacka,√Öbacka,23,,65.466667,16.9
+se,abarp,√Öbarp,27,,56.033333,13.633333
 se,abbantorp,Abbantorp,09,,56.75,16.65
-se,abbasen,≈bbÂsen,07,,63.033333,14.366667
+se,abbasen,√Öbb√•sen,07,,63.033333,14.366667
 se,abbeshult,Abbeshult,12,,56.666667,13.416667
 se,abbetorp,Abbetorp,16,,58.3,14.95
 se,abborkroken,Abborkroken,26,,59.369444,18.633333
 se,abborrberg,Abborrberg,10,,60.15,14.8
-se,abborremala,AbborremÂla,02,,56.383333,14.733333
-se,abborrsjoknoppen,Abborrsjˆknoppen,03,,61.6,14.666667
+se,abborremala,Abborrem√•la,02,,56.383333,14.733333
+se,abborrsjoknoppen,Abborrsj√∂knoppen,03,,61.6,14.666667
 se,abborrtorp,Abborrtorp,18,,58.666667,16.75
 se,aberga,Aberga,25,,59.65,16.666667
-se,aberget,≈berget,22,,60.783333,12.666667
+se,aberget,√Öberget,22,,60.783333,12.666667
 se,abild,Abild,06,,56.933333,12.716667
-se,aboda,≈boda,15,,59.716667,15.133333
-se,aby,≈by,21,,59.633333,17.45
-se,adelfors,ƒdelfors,08,,57.416667,15.316667
-se,ajmunds,ƒjmunds,05,,57.45,18.266667
+se,aboda,√Öboda,15,,59.716667,15.133333
+se,aby,√Öby,21,,59.633333,17.45
+se,adelfors,√Ñdelfors,08,,57.416667,15.316667
+se,ajmunds,√Ñjmunds,05,,57.45,18.266667
 sg,adam park,Adam Park,00,,1.3316667,103.8122222
 sh,deadwood,Deadwood,00,,-15.9333333,-5.6833333
 si,acquariva,Acquariva,04,,45.4691667,13.9708333
-si,adorjanfalva,Adorj·nfalva,09,,46.5866667,16.2802778
+si,adorjanfalva,Adorj√°nfalva,09,,46.5866667,16.2802778
 si,dolenci,Dolenci,00,,46.85,13.95
 sj,barentsburg,Barentsburg,00,576,78.0666667,14.2333333
 sk,abafalva,Abafalva,03,,48.3166667,20.3333333
-sk,abelova,¡belov·,01,,48.4166667,19.4333333
+sk,abelova,√Åbelov√°,01,,48.4166667,19.4333333
 sk,abraham,Abraham,04,,48.5166667,18.6166667
-sk,abraham,Abrah·m,07,,48.25,17.6166667
+sk,abraham,Abrah√°m,07,,48.25,17.6166667
 sk,abrahamovce,Abrahamovce,05,,49.05,20.45
-sk,abramova,Abramov·,08,,48.9333333,18.8
+sk,abramova,Abramov√°,08,,48.9333333,18.8
 sk,adamov,Adamov,02,,48.7166667,17.05
 sk,adamovce,Adamovce,06,,48.85,17.9333333
-sk,nova sedlica,Nov· Sedlica,00,,49.05,22.5333333
+sk,nova sedlica,Nov√° Sedlica,00,,49.05,22.5333333
 sl,aberdeen,Aberdeen,04,,8.4925,-13.2844444
 sl,aku town,Aku Town,02,,8.6638889,-13.1880556
 sl,baama,Baama,01,,8.1880556,-10.3461111
 sl,baama,Baama,03,,8.1,-11.45
 sm,acquaviva,Acquaviva,01,1530,43.95,12.4166667
 sm,chiesanuova,Chiesanuova,02,952,43.9166667,12.4166667
-sm,citta di san marino,Citt‡ di San Marino,07,,43.9333333,12.45
+sm,citta di san marino,Citt√† di San Marino,07,,43.9333333,12.45
 sm,falciano,Falciano,09,,43.9833333,12.5
 sn,abattoirs,Abattoirs,01,,14.6794444,-17.4497222
 sn,abdalla,Abdalla,04,,16.25,-13.9666667
 sn,abdou,Abdou,03,,14.95,-16.3333333
 sn,abdou dao,Abdou Dao,08,,14.9166667,-15.7333333
-sn,abekouta,AbÈkouta,11,,13.3333333,-14.6166667
-sn,abeme,AbÈmÈ,12,,13.0,-16.7333333
+sn,abekouta,Ab√©kouta,11,,13.3333333,-14.6166667
+sn,abeme,Ab√©m√©,12,,13.0,-16.7333333
 sn,aga,Aga,07,,14.3666667,-16.7666667
-sn,aidara,AÔdara,09,,13.6833333,-16.4166667
-sn,ainoumal,AÔnoumal,10,,13.6166667,-15.6666667
+sn,aidara,A√Ødara,09,,13.6833333,-16.4166667
+sn,ainoumal,A√Ønoumal,10,,13.6166667,-15.6666667
 sn,alahina,Alahina,05,,14.4333333,-12.2
 sn,louga,Louga,13,117333,15.6166667,-16.2166667
 sn,matam,Matam,15,12277,15.6666667,-13.25
@@ -3170,23 +3169,23 @@ sv,agua caliente,Agua Caliente,05,,13.8691667,-89.2577778
 sv,aguacate,Aguacate,02,,13.8666667,-88.6
 sv,aguacayo,Aguacayo,04,,13.9277778,-89.0494444
 sv,aguacayo,Aguacayo,14,,13.3333333,-88.5833333
-sv,aguachapio,AguachapÌo,01,,13.7666667,-89.9833333
-sv,agua fria,Agua FrÌa,11,,13.95,-89.5166667
+sv,aguachapio,Aguachap√≠o,01,,13.7666667,-89.9833333
+sv,agua fria,Agua Fr√≠a,11,,13.95,-89.5166667
 sv,agua salada,Agua Salada,09,,13.4761111,-88.1061111
 sv,agua zarca,Agua Zarca,06,,13.4,-88.8
-sy,aaba kebire,Aaba KÈbÓrÈ,01,,36.8666667,40.2333333
-sy,aabateine,Aab‚teÔne,04,,36.6666667,39.0166667
+sy,aaba kebire,Aaba K√©b√Ær√©,01,,36.8666667,40.2333333
+sy,aabateine,Aab√¢te√Øne,04,,36.6666667,39.0166667
 sy,aabba,Aabba,14,,34.9666667,35.8833333
-sy,aabbade,Aabb‚dÈ,08,,33.5,36.5666667
-sy,aabbassiye,Aabb‚ssÓyÈ,11,,34.5833333,37.0
-sy,aabb ej jinnate,Aabb ej Jinn‚te,12,,35.45,37.1166667
-sy,aabb el khazne,Aabb el KhaznÈ,10,,35.4166667,37.1166667
-sy,aabdekliye,AabdÈklÓyÈ,09,,36.4666667,38.3666667
-sy,aabdine,A‚bdine,03,,32.7666667,35.8166667
-sy,aadaouane,Aadaou‚ne,06,,32.8166667,35.9833333
-sy,aahire,A‚hirÈ,05,,32.8833333,36.4666667
+sy,aabbade,Aabb√¢d√©,08,,33.5,36.5666667
+sy,aabbassiye,Aabb√¢ss√Æy√©,11,,34.5833333,37.0
+sy,aabb ej jinnate,Aabb ej Jinn√¢te,12,,35.45,37.1166667
+sy,aabb el khazne,Aabb el Khazn√©,10,,35.4166667,37.1166667
+sy,aabdekliye,Aabd√©kl√Æy√©,09,,36.4666667,38.3666667
+sy,aabdine,A√¢bdine,03,,32.7666667,35.8166667
+sy,aadaouane,Aadaou√¢ne,06,,32.8166667,35.9833333
+sy,aahire,A√¢hir√©,05,,32.8833333,36.4666667
 sy,aakrak,Aakrak,02,,35.85,35.8833333
-sy,aannabe,AannabÈ,07,,35.5166667,39.9166667
+sy,aannabe,Aannab√©,07,,35.5166667,39.9166667
 sy,aaqraba,Aaqraba,13,,33.4666667,36.3333333
 sz,abercorn,Abercorn,02,,-26.8333333,32.1333333
 sz,balegana,Balegana,01,,-26.1,31.5666667
@@ -3199,40 +3198,40 @@ td,abachta,Abachta,01,,13.2,18.3
 td,abadji,Abadji,10,,10.6333333,15.3166667
 td,abado,Abado,04,,12.8333333,14.8
 td,abaher,Abaher,05,,12.3333333,19.35
-td,abalagne,AbalagnÈ,13,,11.5333333,19.0833333
+td,abalagne,Abalagn√©,13,,11.5333333,19.0833333
 td,abani,Abani,06,,13.8166667,15.5333333
 td,abbi,Abbi,08,,8.35,15.5333333
 td,adamchouari,Adamchouari,07,,13.3,15.7166667
-td,aderke,AderkÈ,03,,21.2436111,17.4325
+td,aderke,Aderk√©,03,,21.2436111,17.4325
 td,agia,Agia,14,,9.4166667,15.75
 td,aka,Aka,11,,9.4833333,19.0166667
 td,andoum,Andoum,09,,8.15,15.7333333
-tf,port-aux-francais,Port-aux-FranÁais,00,45,-49.35,70.2166667
+tf,port-aux-francais,Port-aux-Fran√ßais,00,45,-49.35,70.2166667
 tg,abagatchi,Abagatchi,25,,7.4666667,1.3
-tg,abagnivegoui,AbagnivÈgoui,13,,6.9333333,1.2833333
-tg,abakouande,AbakouandÈ,04,,9.4,1.25
+tg,abagnivegoui,Abagniv√©goui,13,,6.9333333,1.2833333
+tg,abakouande,Abakouand√©,04,,9.4,1.25
 tg,abali,Abali,18,,6.8166667,1.2833333
 tg,abalo kakaou,Abalo Kakaou,03,,8.0333333,1.4833333
 tg,aban,Aban,09,,9.4833333,1.3166667
-tg,abatame,AbatamÈ,02,,6.2666667,1.65
-tg,abedinekope,AbÈdinÈkopÈ,01,,7.25,1.0166667
-tg,ablogame,AblogamÈ,10,,6.1344444,1.2633333
-tg,abossoumkofe,AbossoumkofÈ,16,,8.1166667,0.6333333
+tg,abatame,Abatam√©,02,,6.2666667,1.65
+tg,abedinekope,Ab√©din√©kop√©,01,,7.25,1.0166667
+tg,ablogame,Ablogam√©,10,,6.1344444,1.2633333
+tg,abossoumkofe,Abossoumkof√©,16,,8.1166667,0.6333333
 tg,adabiam,Adabiam,17,,6.65,1.6
-tg,adabou kope,Adabou KopÈ,21,,6.3,1.5333333
+tg,adabou kope,Adabou Kop√©,21,,6.3,1.5333333
 tg,adagali,Adagali,08,,7.0666667,0.7
-tg,adjaite,AdjaÔtÈ,23,,9.9333333,1.0166667
-tg,adjeide,AdjeÔdÈ,19,,9.2,1.4166667
-tg,adoukbe,AdoukbÈ,07,,10.2166667,0.95
-tg,adumde,AdumdÈ,14,,9.5719444,1.3183333
-tg,agbande,AgbandÈ,12,,9.6666667,0.95
-tg,agbatope,AgbatopÈ,00,,6.4333333,11.2666667
-tg,aketa,AkÈta,05,,9.25,0.9833333
+tg,adjaite,Adja√Øt√©,23,,9.9333333,1.0166667
+tg,adjeide,Adje√Ød√©,19,,9.2,1.4166667
+tg,adoukbe,Adoukb√©,07,,10.2166667,0.95
+tg,adumde,Adumd√©,14,,9.5719444,1.3183333
+tg,agbande,Agband√©,12,,9.6666667,0.95
+tg,agbatope,Agbatop√©,00,,6.4333333,11.2666667
+tg,aketa,Ak√©ta,05,,9.25,0.9833333
 tg,akoura,Akoura,11,,10.5333333,0.6666667
 tg,akpoissou,Akpoissou,26,,10.4,0.4166667
-tg,amande,AmandÈ,22,,9.1333333,1.15
+tg,amande,Amand√©,22,,9.1333333,1.15
 tg,babona,Babona,06,,10.8166667,0.2833333
-tg,lome,LomÈ,24,,6.1319444,1.2227778
+tg,lome,Lom√©,24,,6.1319444,1.2227778
 th,aeng pok,Aeng Pok,49,,12.572417,102.443333
 th,ai,Ai,02,,19.686361,99.149167
 th,ai na lai,Ai Na Lai,04,,18.533333,100.7
@@ -3331,15 +3330,15 @@ tn,ad damus,Ad Damus,16,,35.666667,10.766667
 tn,ad damus,Ad Damus,19,,36.753309,10.730568
 tn,ad dulab,Ad Dulab,02,,35.4,8.9
 tn,ad duwayrat,Ad Duwayrat,34,,32.856505,10.288847
-tn,adlet touila,Adlet TouÔla,33,,35.067778,9.784722
+tn,adlet touila,Adlet Tou√Øla,33,,35.067778,9.784722
 tn,africa,Africa,15,,35.504722,11.062222
 tn,ahmad al hakim,Ahmad al Hakim,06,,36.633333,8.566667
 tn,ahmed zid,Ahmed Zid,27,,36.633056,10.283611
 tn,ailet jridani,Ailet Jridani,03,,35.100506,10.034247
-tn,aine el asker,AÔne el Asker,37,,36.574861,9.993523
-tn,aine radouane,AÔne Radouane,31,,33.733228,9.237405
-tn,aine sellam,AÔne Sellam,17,,36.801327,9.101948
-tn,ain moulares,AÔn MoularËs,30,,34.488799,8.268744
+tn,aine el asker,A√Øne el Asker,37,,36.574861,9.993523
+tn,aine radouane,A√Øne Radouane,31,,33.733228,9.237405
+tn,aine sellam,A√Øne Sellam,17,,36.801327,9.101948
+tn,ain moulares,A√Øn Moular√®s,30,,34.488799,8.268744
 tn,al aswad,Al Aswad,36,,36.665556,10.0475
 tn,al batan,Al Batan,39,,36.803676,9.844244
 tn,al jamah,Al Jamah,22,,36.113692,9.286582
@@ -3375,7 +3374,7 @@ tr,abazamehmetefendi,Abazamehmetefendi,93,,40.788781,31.121661
 tr,abazdagi,Abazdagi,52,,40.870281,37.397529
 tr,abbas,Abbas,87,,41.732081,32.439082
 tr,abbasfevkani,Abbasfevkani,63,,37.366667,39.133333
-tr,abbasgol,Abbasgˆl,88,,39.83102,43.613439
+tr,abbasgol,Abbasg√∂l,88,,39.83102,43.613439
 tr,abbashalilpasa mandira,Abbashalilpasa Mandira,26,,39.40153,31.078233
 tr,abbasi,Abbasi,44,,38.919528,38.359466
 tr,abdal,Abdal,28,,40.953144,38.117842
@@ -3384,7 +3383,7 @@ tr,abdalbayazit,Abdalbayazit,49,,38.916667,42.166667
 tr,abdalcik,Abdalcik,25,,39.885604,40.788702
 tr,abdalkuyusu,Abdalkuyusu,32,,36.85,34.883333
 tr,abdallar,Abdallar,09,,37.824444,27.746667
-tr,abdaloren,Abdalˆren,38,,39.092519,35.807093
+tr,abdaloren,Abdal√∂ren,38,,39.092519,35.807093
 tr,abdelik,Abdelik,04,,39.690562,43.347009
 tr,abdi,Abdi,14,,40.896214,32.115601
 tr,abdi,Abdi,45,,38.666667,27.75
@@ -3393,7 +3392,7 @@ tr,abdiaga,Abdiaga,17,,40.204659,27.249043
 tr,abdili,Abdili,66,,39.324228,35.306651
 tr,abdoli,Abdoli,62,,38.779326,39.497914
 tr,abdulharap,Abdulharap,02,,38.072779,38.235555
-tr,abdulimam,Abd¸limam,72,,37.142074,40.501494
+tr,abdulimam,Abd√ºlimam,72,,37.142074,40.501494
 tr,abdullahhoca,Abdullahhoca,53,,41.075887,40.789447
 tr,abdurrahmanlar,Abdurrahmanlar,07,,36.99,30.938611
 tr,abge,Abge,24,,39.65,39.833333
@@ -3405,7 +3404,7 @@ tr,abulbart,Abulbart,84,,40.273997,42.293537
 tr,acali,Acali,59,,40.910596,27.214223
 tr,acar,Acar,76,,38.290123,41.250063
 tr,acar,Acar,90,,36.744167,37.193056
-tr,acarkoy,Acarkˆy,83,,36.865278,37.37
+tr,acarkoy,Acark√∂y,83,,36.865278,37.37
 tr,acarlar,Acarlar,80,,37.751389,42.964167
 tr,achyraus,Achyraus,10,,39.649167,27.886111
 tr,aci,Aci,40,,39.722252,34.18545
@@ -3418,7 +3417,7 @@ tr,acisu,Acisu,41,,40.721093,30.120242
 tr,ada,Ada,48,,36.307392,29.272235
 tr,adakale,Adakale,74,,38.1325,41.871111
 tr,adakli,Adakli,70,,37.528333,44.170833
-tr,adakoy,Adakˆy,78,,36.9161,32.897367
+tr,adakoy,Adak√∂y,78,,36.9161,32.897367
 tr,adalar,Adalar,34,,40.867778,29.133056
 tr,adisa,Adisa,69,,40.5,39.183333
 tr,afsar,Afsar,33,,38.136389,30.977778
@@ -3436,13 +3435,13 @@ tt,arouca,Arouca,08,12054,10.6333333,-61.3333333
 tt,avocat,Avocat,09,,10.2,-61.5333333
 tt,barrackpore,Barrackpore,12,,10.2,-61.4
 tt,biche,Biche,04,,10.4333333,-61.1333333
-tt,boissiere,BoissiËre,05,,10.6666667,-61.5166667
+tt,boissiere,Boissi√®re,05,,10.6666667,-61.5166667
 tt,caigual,Caigual,06,,10.55,-61.0666667
 tt,guayaguayare,Guayaguayare,03,,10.1333333,-61.0333333
 tt,marabella,Marabella,10,26700,10.3,-61.45
 tv,asau,Asau,00,628,-7.5,178.6666667
 tw,achiencheng,Achiencheng,04,,24.6333333,121.8
-tw,achuankeng (2),Ach¸ankeng (2),03,,24.9833333,121.6
+tw,achuankeng (2),Ach√ºankeng (2),03,,24.9833333,121.6
 tw,anchi,Anchi,01,,24.4683333,118.3244444
 tw,anchung,Anchung,02,,22.65,120.3
 tz,abdulla,Abdulla,00,,-10.4666667,37.8833333
@@ -3621,7 +3620,7 @@ uy,18 de julio,18 de Julio,14,,-33.6833333,-53.55
 uy,25 de agosto,25 de Agosto,07,,-34.4116667,-56.4022222
 uy,abayuba,Abayuba,10,,-34.7641667,-56.2138889
 uy,abrojal,Abrojal,13,,-31.75,-55.0166667
-uy,acegua,Acegu·,03,,-31.8666667,-54.2
+uy,acegua,Acegu√°,03,,-31.8666667,-54.2
 uy,achar,Achar,18,,-32.4166667,-56.1666667
 uy,achiras,Achiras,08,,-33.5333333,-54.4333333
 uy,acosta,Acosta,19,,-33.2333333,-53.85
@@ -3629,7 +3628,7 @@ uy,agraciada,Agraciada,17,,-33.8,-58.25
 uy,aguas buenas,Aguas Buenas,05,,-32.8,-55.8
 uy,aguas corrientes,Aguas Corrientes,02,,-34.5219444,-56.3936111
 uy,ahogados,Ahogados,06,,-33.75,-56.4666667
-uy,aigua,Aigu·,09,,-34.2,-54.75
+uy,aigua,Aigu√°,09,,-34.2,-54.75
 uy,albisu,Albisu,15,,-31.3333333,-57.8
 uy,algorta,Algorta,12,,-32.4166667,-57.3833333
 uy,allende,Allende,01,,-30.3,-56.9666667
@@ -3658,8 +3657,8 @@ vc,barawally,Barawally,05,,13.2333333,-61.2666667
 vc,camden park,Camden Park,02,,13.1666667,-61.2333333
 vc,chateaubelair,Chateaubelair,03,735,13.2833333,-61.25
 ve,1 beneficio,1 Beneficio,11,,11.0,-70.6666667
-ve,abajo higueron,Abajo HiguerÛn,03,,7.3916667,-71.6394444
-ve,abasacapan,Abasacap·n,06,,5.7166667,-62.3
+ve,abajo higueron,Abajo Higuer√≥n,03,,7.3916667,-71.6394444
+ve,abasacapan,Abasacap√°n,06,,5.7166667,-62.3
 ve,abejales,Abejales,20,,7.6,-71.5166667
 ve,abreu,Abreu,15,,10.3172222,-66.5505556
 ve,acapral,Acapral,12,,9.2833333,-67.5666667
@@ -3681,11 +3680,11 @@ ve,agua blanca,Agua Blanca,21,,9.4213889,-70.5880556
 ve,aguacatal,Aguacatal,26,,10.4538889,-67.2694444
 ve,aguacates,Aguacates,99,,10.3333333,-70.6666667
 ve,ajotejana,Ajotejana,09,,8.7141667,-60.9452778
-ve,antimano,AntÌmano,25,,10.4666667,-66.9833333
+ve,antimano,Ant√≠mano,25,,10.4666667,-66.9833333
 ve,el roque,El Roque,24,,11.95,-66.6666667
 vg,anderson,Anderson,00,,18.4333333,-64.6333333
 vi,anderson,Anderson,00,,18.4333333,-64.6333333
-vn,aam tam,A‡m T‚m,36,,10.716667,107.866667
+vn,aam tam,A√†m T√¢m,36,,10.716667,107.866667
 vn,a ba yu can,A Ba Yu Can,29,,15.916667,107.683333
 vn,a boum,A Boum,04,,16.316667,107.066667
 vn,abri pavie,Abri Pavie,22,,21.8,103.1
@@ -3694,32 +3693,32 @@ vn,ai ha,Ai Ha,34,,20.366667,105.283333
 vn,ai mo,Ai Mo,11,,21.083333,105.9
 vn,ai mo,Ai Mo,15,,21.116667,105.516667
 vn,ai mo,Ai Mo,51,,21.124675,105.495483
-vn,ai nghia,¡i Nghi„,84,,15.883333,108.116667
+vn,ai nghia,√Åi Nghi√£,84,,15.883333,108.116667
 vn,ai ngua,Ai Ngua,32,,21.583333,103.983333
-vn,ai quoc,Ai QuÙc,86,,21.337972,105.486509
+vn,ai quoc,Ai Qu√¥c,86,,21.337972,105.486509
 vn,ai tau ha,Ai Tau Ha,06,,10.266667,105.866667
 vn,a lou,A Lou,19,,22.716667,103.583333
 vn,a mai,A Mai,38,,21.55,104.95
 vn,am ha diem,Am Ha Diem,26,,18.233333,106.066667
 vn,ampil,Ampil,33,,11.516667,106.233333
-vn,an ba,An B·,27,,14.983333,108.85
-vn,an bai,An B·i,35,,20.583333,106.566667
-vn,an bien,An BiÍn,21,,9.769444,105.025
-vn,an binh,An BÏnh,09,,10.783333,105.35
-vn,an binh,An BÏnh,10,,14.033333,108.716667
-vn,an binh,An BÏnh,31,,11.4,106.833333
+vn,an ba,An B√°,27,,14.983333,108.85
+vn,an bai,An B√°i,35,,20.583333,106.566667
+vn,an bien,An Bi√™n,21,,9.769444,105.025
+vn,an binh,An B√¨nh,09,,10.783333,105.35
+vn,an binh,An B√¨nh,10,,14.033333,108.716667
+vn,an binh,An B√¨nh,31,,11.4,106.833333
 vn,an binh,An Binh,41,,9.866667,105.95
 vn,an binh thanh,An Binh Thanh,28,,13.366667,109.25
 vn,an bo,An Bo,12,,21.033333,106.466667
 vn,an co,An Co,65,,9.506944,106.068611
-vn,an –a,An –‡,16,,20.666667,105.75
+vn,an √êa,An √ê√†,16,,20.666667,105.75
 vn,an dao,An Dao,14,,20.316667,106.4
 vn,an dien,An Dien,03,,9.902222,106.543333
 vn,an dinh,An Dinh,20,,10.713333,106.604722
 vn,an dinh,An Dinh,68,,21.698779,105.414206
 vn,an dinh cau,An Dinh Cau,67,,9.915278,106.144167
 vn,an duong,An Duong,13,,20.85,106.666667
-vn,ang giang,¡ng Giang,05,,22.733333,106.133333
+vn,ang giang,√Ång Giang,05,,22.733333,106.133333
 vn,angiang,Angiang,01,,10.7,105.116667
 vn,ang ta,Ang Ta,02,,22.216667,105.75
 vn,ang tang,Ang Tang,40,,11.333333,107.016667
@@ -3727,8 +3726,8 @@ vn,anh son,Anh Son,58,,18.9,105.316667
 vn,an kahe,An Kahe,49,,13.95,108.65
 vn,ankroet,Ankroet,23,,11.983333,108.35
 vn,an lac,An Lac,17,,22.165533,105.230925
-vn,an lao,An L„o,46,,14.566667,108.9
-vn,an loc,An LÙc,76,,11.65,106.6
+vn,an lao,An L√£o,46,,14.566667,108.9
+vn,an loc,An L√¥c,76,,11.65,106.6
 vn,an mo,An Mo,39,,22.3,106.316667
 vn,an nhon,An Nhon,37,,10.316667,106.033333
 vn,an nhut tan,An Nhut Tan,24,,10.566667,106.533333
@@ -3744,16 +3743,16 @@ vn,ap long thanh,Ap Long Thanh,69,,9.958056,106.086667
 vn,ap talai,Ap Talai,43,,11.4,107.383333
 vn,bac can,Bac Can,72,21837,22.133333,105.833333
 vn,bac giang,Bac Giang,71,53732,21.266667,106.2
-vn,ba chang,Ba Ch„ng,70,,21.773158,105.039677
+vn,ba chang,Ba Ch√£ng,70,,21.773158,105.039677
 vn,bach ma,Bach Ma,66,,16.2,107.866667
 vn,bacht ninh,Bacht Ninh,74,,21.183333,106.05
 vn,bac kwang,Bac Kwang,50,,22.483333,104.866667
-vn,ba hang,Ba H‡ng,85,,21.415,105.874167
+vn,ba hang,Ba H√†ng,85,,21.415,105.874167
 vn,ba na,Ba Na,78,,15.983333,107.983333
 vn,ba ngoi,Ba Ngoi,54,,11.9,109.15
 vn,ba ria,Ba Ria,45,,10.5,107.166667
 vn,ba to,Ba To,63,,14.766667,108.733333
-vn,bat xat,B·t X·t,56,,22.6,103.85
+vn,bat xat,B√°t X√°t,56,,22.6,103.85
 vn,binh luc,Binh Luc,80,,20.483333,106.016667
 vn,bong cau,Bong Cau,61,,13.45,109.216667
 vn,bo trach,Bo Trach,62,,17.583333,106.533333
@@ -3761,20 +3760,20 @@ vn,cam khe,Cam Khe,83,,21.433333,105.116667
 vn,cam lo,Cam Lo,64,,16.816667,106.983333
 vn,cam xuyen,Cam Xuyen,52,,18.283333,105.966667
 vn,cha huong,Cha Huong,53,,21.005558,105.410637
-vn,cong plong,CÙng PlÙng,55,,14.633333,108.4
+vn,cong plong,C√¥ng Pl√¥ng,55,,14.633333,108.4
 vn,fak diem,Fak Diem,59,,20.1,106.1
-vn,giao thuy,Giao Th˙y,82,,20.283333,106.45
-vn,haidong,Haidˆng,79,,20.933333,106.316667
+vn,giao thuy,Giao Th√∫y,82,,20.283333,106.45
+vn,haidong,Haid√∂ng,79,,20.933333,106.316667
 vn,hanoi,Hanoi,44,1431377,21.033333,105.85
 vn,hong-yen,Hong-Yen,81,,20.65,106.066667
 vu,aala,Aala,13,,-15.1,167.0666667
 vu,abanga,Abanga,06,,-15.3166667,167.8833333
-vu,aioua,AÔoua,14,,-16.9,168.5333333
+vu,aioua,A√Øoua,14,,-16.9,168.5333333
 vu,akam,Akam,10,,-16.5166667,167.65
-vu,alememer,AlÈmÈmer,12,,-15.5166667,168.15
+vu,alememer,Al√©m√©mer,12,,-15.5166667,168.15
 vu,amio,Amio,07,,-13.7,167.6333333
 vu,anabrou,Anabrou,08,,-17.7333333,168.3011111
-vu,aname,AnamÈ,15,,-20.1333333,169.8166667
+vu,aname,Anam√©,15,,-20.1333333,169.8166667
 vu,aoutili,Aoutili,05,,-16.2833333,167.9833333
 vu,boatpasis,Boatpasis,09,,-16.7833333,168.1666667
 vu,borabor,Borabor,11,,-16.45,168.2166667
