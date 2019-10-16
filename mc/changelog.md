@@ -19,9 +19,9 @@ Swanpack1 v1.2
 * +Tinkers Tool Leveling
 
 
-* *If you install RF tools dimensions on twitch, these mods will be auto installed
+*If you install RF tools dimensions on twitch, these mods will be auto installed
 
-* Swanpack v1.1
+Swanpack v1.1
 
 * +Aroma1997core
 
