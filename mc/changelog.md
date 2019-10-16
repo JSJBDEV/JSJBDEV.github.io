@@ -6,6 +6,8 @@ Swanpack1 v1.2
 
 * +Auto Ore Dictionary Convertor
 
+* +MattDahEpic Core"
+
 * +RF tools*
 
 * +RF tools dimensions
