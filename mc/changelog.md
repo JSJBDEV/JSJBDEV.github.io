@@ -1,3 +1,6 @@
+
+Potential updates: Flux Networks, SimpleLogic Gates & Wire, Chisel
+
 Swanpack1 v1.2
 
 * -recurrent complex
