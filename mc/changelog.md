@@ -1,5 +1,17 @@
 
-Potential updates: Flux Networks, SimpleLogic Gates & Wire, Chisel
+Swanpack1 v1.3
+
+* +SimpleLogic Gates
+
+* +SimpleLogic Wires
+
+* +Chisel
+
+* +Flux Networks
+
+* +Chicken Chunks
+
+* +MCMultiPart
 
 Swanpack1 v1.2
 
