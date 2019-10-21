@@ -13,6 +13,8 @@ Swanpack1 v1.3
 
 * +MCMultiPart
 
+* +Charset Lib
+
 Swanpack1 v1.2
 
 * -recurrent complex
