@@ -1,0 +1,18 @@
+<html>
+<body>
+<div id="context"></div>
+<label for="mapcat">Search by:</label>
+
+<select id="mapcat">
+  <option value="2">Map Name</option>
+  <option value="1">Runner Name</option>
+  <option value="0">Old Run ID</option>
+</select>
+<label for="term">Search Term:</label>
+ <input type="text" id="term" name="term"></input>
+
+<script src="script.js"></script>
+<button onclick='loadRuns()'>Search!</button>
+<button onclick='allMaps()'>List All Maps!</button>
+</body>
+</html>
