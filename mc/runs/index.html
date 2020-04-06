@@ -1,0 +1,60 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+		<meta charset="utf-8"> 
+		
+	</head>
+	<style>
+	body {
+	  background-image: url('car.jpg');
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: 100% 100%;
+	}
+	</style>
+	<body class="w3-animate-top "><center>
+		
+		<div class="w3-bar w3-teal"><h1>MAPSPEED.RUN<h1></div>
+		<script src="script.js"></script>
+		<div id="navbar" class="w3-bar w3-blue w3-threequarter">
+			<label for="mapcat" class="w3-bar-item w3-mobile">Search by:</label>
+			<select id="mapcat" class="w3-bar-item w3-select w3-blue">
+			  <option value="2">Map Name</option>
+			  <option value="1">Runner Name</option>
+			  <option value="0">Old Run ID</option>
+			  <option value="4">Category</option>
+			</select>
+			<label for="parts" class="w3-bar-item w3-mobile">Results per row:</label>
+			<select id="parts" class="w3-bar-item w3-select w3-blue">
+			  <option value="half">2 (default)</option>
+			  <option value="">1</option>
+			  <option value="third">3</option>
+			  <option value="quarter">4</option>
+			</select>
+			<label for="term" class="w3-bar-item w3-button w3-mobile">Search Term:</label>
+			 <input type="text" id="term" name="term" class="w3-bar-item w3-button w3-mobile"></input>
+			<button onclick='loadRuns()' class="w3-bar-item w3-button w3-mobile">Search!</button>
+			<button onclick='allMaps()' class="w3-bar-item w3-button w3-mobile">List All Maps!</button>
+			
+
+		</div>
+		<div class="w3-bar w3-red w3-quarter">
+			<button onclick='submitRun()' class="w3-bar-item w3-button w3-mobile">Submit A Run!</button>
+			<button onclick='submitRequest()' class="w3-bar-item w3-button w3-mobile">Submit A Request!</button>
+			<button onclick='sinfo()' class="w3-bar-item w3-button w3-mobile">Site Information</button>
+		</div>
+		
+		<div id="context" class="w3-container w3-mobile">
+		<div class="w3-card w3-yellow w3-mobile">
+		  <p>Welcome to the website, here you can find over 1000 runs of Custom Maps and CTM Maps, you can search by Map Name, Runner Name, Map Category and Old Run ID
+		  or you can list all the maps that are currently in the database, you can submit a run via the red bar at the top and submit feedback, descriptions strategy guides and your own links via the Submit a request button
+		  check Site Information for more general information and links you can follow to learn more about speedrunning in minecraft</p>
+		</div>
+		</div>
+		<div class="w3-container w3-teal w3-mobile">
+		  <h5>mapspeed.run</h5>
+		  <p>A website designed by Acro, built on an old database from Apollo</p>
+		</div>
+		</center>
+	</body>
+</html>
