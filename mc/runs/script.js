@@ -19,7 +19,7 @@ function loadRuns()
 //`Id`, `Player`, `Map`, `Temps`, `Categorie`, `Lien`, `Date`, `Informations`, `Type`, `Verif`, `TAS`
 var verifiers = ["no","Yes (pre 2020)","Yes"];
 var general = ["no","yes"];
-var isFull = true;
+var isFull = false;
 var useChinese = false;
 
 function goparse(current,part,searchterm)
@@ -42,17 +42,16 @@ function goparse(current,part,searchterm)
 	{
 		var builder = "";
 		
-		builder += "<p class='w3-"+document.getElementById("parts").value+" w3-round-xlarge w3-card w3-white'>Map Name: "+run[2] + "<br>";
+		builder += "<button class='w3-"+document.getElementById("parts").value+" w3-round-xlarge w3-card w3-white w3-button' onclick='openmodal("+run[0]+")'>Map Name: "+run[2] + "<br>";
 		builder += "Time: "+run[3] + "<br>";
 		builder += "Run Category: "+run[4] + "<br>";
 		builder += "Runner: "+run[1] + "<br>";
 		builder += "<a href='"+run[5] + "'>"+run[5]+"</a><br>";
 		builder += "Date Completed: "+run[6] + "<br>";
-		builder += "Map Category: "+run[run.length-4] + "<br>";
-		builder += "Verified by Mod: "+verifiers[parseInt(run[run.length-3])] + "<br>";
 		if(isFull){
+			builder += "Map Category: "+run[run.length-4] + "<br>";
+			builder += "Verified by Mod: "+verifiers[parseInt(run[run.length-3])] + "<br>";
 			builder += "Is Tool Assisted?: "+general[parseInt(run[run.length-2])] + "<br><br>";
-			
 			var desc = run.slice(7,run.length-4);
 			builder += "Player Notes: "+desc + "<br><br><br>";
 		}
@@ -63,6 +62,75 @@ function goparse(current,part,searchterm)
 	}
 	
 }
+var CLICKED_ID = 0;
+function openmodal(passid)
+{
+	CLICKED_ID=passid;
+	fileStore.forEach(makemodal);
+}
+
+function makemodal(current)
+{
+	current = current.replace(/\\n/g,"").replace(/\\r/g," ");
+	var run = current.split(",");
+	if(run[0]==undefined)
+	{
+		run[0]=0;
+	}
+	if(run[0]==CLICKED_ID)
+	{
+		var builder = "";
+		
+		builder += "<div id='genmodal' class='w3-modal'><div class='w3-modal-content w3-animate-top w3-card-4'>Map Name: "+run[2] + "<br>";
+		builder += "Time: "+run[3] + "<br>";
+		builder += "Run Category: "+run[4] + "<br>";
+		builder += "Runner: "+run[1] + "<br>";
+		builder += "Date Completed: "+run[6] + "<br>";
+		builder += "Map Category: "+run[run.length-4] + "<br>";
+		builder += "Verified by Mod: "+verifiers[parseInt(run[run.length-3])] + "<br>";
+		builder += "Is Tool Assisted?: "+general[parseInt(run[run.length-2])] + "<br><br>";
+		
+		builder += "Old Run ID: "+run[0]+"<br><span onclick='closemodal()' class='w3-button w3-display-topright'>&times;</span>";
+		builder += getiframe(run[5])+"<br>";
+		var desc = run.slice(7,run.length-4);
+		builder += "Player Notes: "+desc + "<br><br><br></div></div>";
+		document.getElementById("modalloc").innerHTML = builder;
+		document.getElementById("genmodal").style.display="block";
+	}
+	
+}
+function closemodal()
+{
+	document.getElementById("modalloc").innerHTML = "";
+}
+function getiframe(linkto)
+{
+	var getid="";
+	if(linkto.includes("youtu.be"))
+	{
+		var vidid=linkto.split("/");
+		getid=vidid[vidid.length-1];
+		return "<iframe width='560' height='315' src='https://www.youtube.com/embed/"+getid+"' frameborder='0' allowfullscreen></iframe>";
+	}
+	if(linkto.includes("youtube"))
+	{
+		var vidid=linkto.split("=");
+		getid=vidid[vidid.length-1];
+		return "<iframe width='560' height='315' src='https://www.youtube.com/embed/"+getid+"' frameborder='0' allowfullscreen></iframe>";
+	}
+	if(linkto.includes("twitch"))
+	{
+		var vidid=linkto.split("/");
+		getid=vidid[vidid.length-1];
+		return "<iframe width='560' height='315' src='https://player.twitch.tv/?video=v"+getid+"' frameborder='0' allowfullscreen='true'></iframe>"
+	}
+	return "<a href='"+linkto + "'>"+linkto+"</a>";
+	
+}
+
+
+
+
 function slowparse(current)
 {
 	setTimeout(goparse,10,current,document.getElementById("mapcat").value,document.getElementById("term").value);
@@ -72,15 +140,19 @@ function idparse(current)
 {
 	setTimeout(goparse,100,current,"2",LOCAL_ID);
 }
+function idAsModal(idf)
+{
+	setTimeout(goparse,10,current,document.getElementById("mapcat").value,document.getElementById("term").value);
+}
 var generated = [];
 function constructList(current)
 {
 	document.getElementById("context").innerHTML = "";
 	current = current.replace(/\\n/g,"").replace(/\\r/g," ");
 	var run = current.split(",");
-	if(!generated.includes("<button onclick='getRunsFromName("+'"'+run[2]+'"'+")' class='w3-btn w3-red'>"+run[run.length-4]+": "+run[2]+"</button><br>"))
+	if(!generated.includes("<button onclick='getRunsFromName("+'"'+run[2]+'"'+")' class='w3-btn w3-red'>"+run[2]+"</button><br>"))
 	{
-		generated.push("<button onclick='getRunsFromName("+'"'+run[2]+'"'+")' class='w3-btn w3-red'>"+run[run.length-4]+": "+run[2]+"</button><br>");
+		generated.push("<button onclick='getRunsFromName("+'"'+run[2]+'"'+")' class='w3-btn w3-red'>"+run[2]+"</button><br>");
 	}
 		
 	generated.sort();
