@@ -41,8 +41,8 @@ function goparse(current,part,searchterm)
 	if(run.includes(searchterm) || run[part].toLowerCase().includes(searchterm.toLowerCase()))
 	{
 		var builder = "";
-		
-		builder += "<button class='w3-"+document.getElementById("parts").value+" w3-round-xlarge w3-card w3-white w3-button' onclick='openmodal("+run[0]+")'>Map Name: "+run[2] + "<br>";
+		builder += "<p hidden>Sorting time"+run[3] + "</p>";
+		builder += "<button class='w3-"+document.getElementById("parts").value+" w3-round-xlarge w3-card w3-"+getCatColour(run[4])+" w3-button' onclick='openmodal("+run[0]+")'>Map Name: "+run[2] + "<br>";
 		builder += "Time: "+run[3] + "<br>";
 		builder += "Run Category: "+run[4] + "<br>";
 		builder += "Runner: "+run[1] + "<br>";
@@ -68,6 +68,24 @@ function openmodal(passid)
 	CLICKED_ID=passid;
 	fileStore.forEach(makemodal);
 }
+function getCatColour(inp)
+{
+	if(inp.includes("TAS"))
+	{
+		return "red";
+	}
+	else if(inp.includes("Glitchless"))
+	{
+		return "green";
+	}
+	else if(inp.includes("100%"))
+	{
+		return "pink";
+	}
+	
+	return "white";
+}
+
 
 function makemodal(current)
 {
@@ -150,9 +168,9 @@ function constructList(current)
 	document.getElementById("context").innerHTML = "";
 	current = current.replace(/\\n/g,"").replace(/\\r/g," ");
 	var run = current.split(",");
-	if(!generated.includes("<button onclick='getRunsFromName("+'"'+run[2]+'"'+")' class='w3-btn w3-red'>"+run[2]+"</button><br>"))
+	if(!generated.includes("<div class='w3-third'><button onclick='getRunsFromName("+'"'+run[2]+'"'+")' class='w3-btn w3-red w3-margin w3-card'><h2>"+run[2]+"</h2></button></div>"))
 	{
-		generated.push("<button onclick='getRunsFromName("+'"'+run[2]+'"'+")' class='w3-btn w3-red'>"+run[2]+"</button><br>");
+		generated.push("<div class='w3-third'><button onclick='getRunsFromName("+'"'+run[2]+'"'+")' class='w3-btn w3-red w3-margin w3-card'><h2>"+run[2]+"</h2></button></div>");
 	}
 		
 	generated.sort();
