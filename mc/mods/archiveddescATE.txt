@@ -1,0 +1,99 @@
+Hello There! I have finally gotten around to updating this mod to 1.12, expect new TNTs soon!
+
+In other news, I have a website now, it's very "minimalistic" but you can find discord links and such there, Go Here!
+
+ 
+
+ 
+
+You clicked the mod link because you wanted explosions, and so, YOU WILL HAVE EXPLOSIONS!
+
+so minecraft 1.10 didn't have a proper explosives mod so I made minecraft-style tiered explosives.
+
+ 
+
+If you have any ideas I shall implement them, the project is currently in early alpha (or beta so you can get it from curse) so the source won't be released. when it hits release I shall put it on github, until them comment problems.
+
+ 
+
+BE WARNED: MY TNT IS INSTANT (more "real" / use other timed explosives or det powder)
+
+ 
+
+this mod uses a real life term called RE factor, which just so happens to be how big an explosion is relative to TNT, which minecraft already has.
+
+screenshot1
+
+ 
+
+from this image we can see 2 extra things on the item, the RE factor (relative explosion power to TNT) and if it is ignitable. later this will be disable-able by config
+
+ 
+
+Anyway, on to the TNT!
+
+
+
+ 
+
+here we have 5 tiered TNT 4 special TNT and a vacuum cleaner to clean up the mess
+
+ 
+
+TIERED TNT:
+
+Basically the explosion gets bigger as the tier goes up. crafted with 4 TNT and 5 of that level of item (end being Endstone bricks)
+
+ 
+
+DETONATION POWDER:
+
+Low tier explosive made with 3 gunpowder and 6 iron. useful for blowing up TNT from a safe distance
+
+ 
+
+GRAVITATIONAL TNT:
+
+Just in case the blast wasn't enough, you'll also be volunteered for the minecraft space program as an added bonus
+
+ 
+
+RADIATING TNT:
+
+Let's face it, its what the average minecrafter would call a "nuke" but I wanted to feel special, ok? (it gives you wither)
+
+ 
+
+BRITISH TNT:
+
+I would honestly just craft it. you'll understand why it's British
+
+ 
+
+EXPLOSIVE IRON BARREL:
+
+Be the Michael Bay you've always wanted. shoot the barrel it explodes.
+
+ 
+
+VACUUM CLEANER:
+
+Item entities lag, so what else could you need?
+
+ 
+
+I NEED SOME SUGGESTIONS FOR MORE TNTs! COMMENT THEM DOWN BELOW!
+
+ 
+
+you should subscribe to my youtube.
+
+you could also take a look at my Roots addon also for 1.10.2 here
+
+ 
+
+ DO NOT REPOST ANYWHERE ELSE WITHOUT MY PERMISSION
+
+ 
+
+You can use this mod in curse modpack. If you want to use it on any other platform, message me/comment it down below
