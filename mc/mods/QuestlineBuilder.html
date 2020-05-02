@@ -1,0 +1,18 @@
+<html>
+<head><link rel="stylesheet" href="https://cdn.rawgit.com/Chalarangelo/mini.css/v3.0.1/dist/mini-default.min.css"><meta name="viewport" content="width=device-width, initial-scale=1"><style>body { padding: 16px; } textarea { width: 150px; }</style></head>
+<body>
+<h1>Quest Builder</h1>
+<p>Once you have finished building your quests use the "Generate File!" button and copy the output into a quests.qw file located in your saves folder</p>
+<p>If you want the default category for a connector or quest type "intro", if you want a quest or connector to not require another quest type "nil" (without the " for both!)</p>
+<textarea cols=150 rows=1>for test inputs</textarea><br><br>
+<div id="QuestContainer"><div id="Quests" class="container"><b>Quests and Connectors (from newest to oldest)</b></div></div>
+<button onclick='addQuestContainer()'>Add new quest</button>
+<button onclick='addConnectorContainer()'>Add new connector</button>
+<h1>Grid Builder</h1>
+<div id="GridContainer"></div><br>
+<button onclick='generateQuestFile()'>Generate file!</button><br>
+<textarea id="output" rows="4" cols="50">your quest.qw file output will be here</textarea>
+<script src="script.js"></script>
+<footer>credits to <a href="https://github.com/ethanbrews">@ethanbrews</a> for helping me with a bit of css</footer>
+</body>
+</html/>
