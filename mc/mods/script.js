@@ -3,6 +3,7 @@ var QUEST_COUNTER = 0;
 var QUEST_LIST = [];
 var CON_COUNTER = 0;
 var CON_LIST = [];
+var GRID_LIST = ["intro"];
 
 function addQuestContainer()
 {
@@ -64,7 +65,9 @@ function generateGrid()
 	var builder="";
 	var allex = listToText(QUEST_LIST);
 	var allcx = listToText(CON_LIST);
-	
+	for(grids = 0; grids<GRID_LIST.length; grids++)
+	{
+		builder+=GRID_LIST[grids]+"<div id="+GRID_LIST[grids]+">";
 		for (j = 0; j < 5; j++) 
 		{
 			for (i = 0; i < 10; i++) 
@@ -77,6 +80,8 @@ function generateGrid()
 			}
 			builder+="<br>";
 		}
+		builder+="</div><br>";
+	}
 	
 	document.getElementById("GridContainer").innerHTML=builder;
 }
@@ -109,7 +114,7 @@ function generateQuestFile()
 			+entry.children[5].value+";;"
 			+boxes[i].id+";;"
 			+entry.children[6].value+";;"
-			+entry.children[7].value+"\n";
+			+boxes[i].parentElement.id+"\n";
 		}
 		if(boxes[i].value.startsWith("c"))
 		{
@@ -117,12 +122,18 @@ function generateQuestFile()
 			+entry.children[0].value.substring(1)+";;"
 			+boxes[i].id+";;"
 			+entry.children[1].value+";;"
-			+entry.children[2].value+"\n";
+			+boxes[i].parentElement.id+"\n";
 			
 		}
 		
 	}
 	document.getElementById("output").innerHTML=builder;
+}
+
+function genNewGrid()
+{
+	GRID_LIST.push(document.getElementById("newgridname").value);
+	generateGrid();
 }
 
 addQuestContainer();
