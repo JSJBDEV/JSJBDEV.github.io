@@ -44,7 +44,7 @@ function getFile(url) //using a simple fetch method I can grab my libraries.
 		else
 		{
 			let v = text.split("\n");
-			v.unshift(url);
+			v.unshift(url.replace("\r",""));
 			loadedRes.push(v);
 			
 		}
