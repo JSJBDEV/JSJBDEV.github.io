@@ -11,7 +11,7 @@ fetch(url)
 .catch(err => { throw err });
 
 getFile("decks.txt");
-setTimeout(buildLibrary,1000);
+setTimeout(buildLibrary,2000);
 
 
 
@@ -75,7 +75,7 @@ function buildLibrary()
 	{
 		getFile(loadedRes[0][deck]+".txt");
 	}
-	setTimeout(buildTable,1000);
+	setTimeout(buildTable,2000);
 }
 
 
@@ -100,7 +100,6 @@ function buildTable()
 					let split = loadedRes[deckID][cardID].split("=");
 					let name = split[split.length-1].replace("\r","");
 					let desc = "";
-					console.log(name);
 					try
 					{
 						desc = cards.data[name][0].text;
