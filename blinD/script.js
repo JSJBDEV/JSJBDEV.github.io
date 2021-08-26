@@ -36,7 +36,7 @@ function getFile(url) //using a simple fetch method I can grab my libraries.
 	  .then(function(response) {
 		return response.text();
 	  }).then(function(text) { 
-		if(url.includes("_decks"))
+		if(url.includes("decks"))
 		{
 			loadedRes.push(text.split("\n"));
 			
