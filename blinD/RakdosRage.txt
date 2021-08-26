@@ -1,0 +1,79 @@
+1 Akoum Refuge
+1 Ash Barrens
+1 Beacon of Unrest
+1 Blackbloom Rogue // Blackbloom Bog
+1 Bloodfell Caves
+1 Burning Vengeance
+1 Burning-Rune Demon
+1 Burnished Hart
+1 Caged Zombie
+1 Castle Embereth
+1 Cathartic Reunion
+1 Chainer, Nightmare Adept
+1 Chandra's Incinerator
+1 Charcoal Diamond
+1 Cinder Barrens
+1 Command Tower
+1 Commander's Sphere
+1 Crackle with Power
+1 Dakmor Salvage
+1 Dark Withering
+1 Demon of Loathing
+1 Demonic Embrace
+1 Desecrated Tomb
+1 Disciple of Bolas
+1 Dogged Pursuit
+1 Doomed Necromancer
+1 Dreamstone Hedron
+1 Egon, God of Death // Throne of Death
+1 Elderfang Disciple
+1 Etali, Primal Storm
+1 Faith of the Devoted
+1 Feldon of the Third Path
+1 Finishing Blow
+1 Fire Diamond
+1 Flayer of the Hatebound
+1 Forgotten Cave
+1 Geth, Lord of the Vault
+1 Golgari Thug
+1 Goremand
+1 Gray Merchant of Asphodel
+1 Hedron Archive
+1 Hedron Crawler
+1 High Market
+1 Igneous Inspiration
+1 Ill-Gotten Inheritance
+1 Immersturm Raider
+1 Koma's Faithful
+1 Lavaclaw Reaches
+1 Magus of the Wheel
+1 Meteor Golem
+12 Mountain
+1 Myriad Landscape
+1 Plaguecrafter
+1 Rakdos Carnarium
+1 Rakdos Guildgate
+1 Rakdos Locket
+1 Reliquary Tower
+1 Rix Maadi, Dungeon Palace
+1 Rune of Speed
+1 Seize the Spoils
+1 Shenanigans
+1 Skull Raid
+1 Sol Ring
+1 Songs of the Damned
+1 Squee, Goblin Nabob
+12 Swamp
+1 Tergrid's Shadow
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 Terminate
+1 Tormenting Voice
+1 Undercity Scavenger
+1 Underworld Sentinel
+1 Unearth
+1 Valki, God of Lies // Tibalt, Cosmic Impostor
+1 Voltaic Construct
+1 Voltaic Key
+1 Voltaic Servant
+1 Worn Powerstone
+

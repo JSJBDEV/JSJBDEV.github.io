@@ -1,0 +1,461 @@
+1,1,a=znr=Dauntless Unity
+1,2,a=znr=Tazeem Raptor
+1,3,a=znr=Mesa Lynx
+1,1,b=afr=White Dragon
+1,2,b=afr=Monk of the Open Hand
+1,3,b=afr=Dawnbringer Cleric
+1,1,c=afr=Cleric Class
+1,2,c=znr=Canyon Jerboa
+1,3,c=znr=Disenchant
+2,1,a=afr=Rimeshield Frost Giant
+2,2,a=afr=Bar the Gate
+2,3,a=afr=Silver Raven
+2,1,b=afr=You Come to a River
+2,2,b=afr=Trickster's Talisman
+2,3,b=afr=You See a Guard Approach
+2,1,c=afr=Scion of Stygia
+2,2,c=afr=Wizard's Spellbook
+2,3,c=afr=Sudden Insight
+3,1,a=afr=Clever Conjurer
+3,2,a=afr=Blue Dragon
+3,3,a=afr=Contact Other Plane
+3,1,b=afr=Secret Door
+3,2,b=afr=Power of Persuasion
+3,3,b=znr=Into the Roil
+3,1,c=znr=Cunning Geysermage
+3,2,c=znr=Negate
+3,3,c=znr=Coralhelm Chronicler
+4,1,a=afr=Dueling Rapier
+4,2,a=afr=Den of the Bugbear
+4,3,a=stx=Heated Debate
+4,1,b=m21=Turn to Slag
+4,2,b=m21=Destructive Tampering
+4,3,b=afr=Minion of the Mighty
+4,1,c=afr=Earth-Cult Elemental
+4,2,c=afr=Hoarding Ogre
+4,3,c=afr=Battle Cry Goblin
+5,1,a=afr=Wish
+5,2,a=afr=Hobgoblin Captain
+5,3,a=afr=Critical Hit
+5,1,b=afr=You Come to the Gnoll Camp
+5,2,b=afr=Unexpected Windfall
+5,3,b=znr=Fireblade Charger
+5,1,c=znr=Valakut Awakening // Valakut Stoneforge
+5,2,c=znr=Akoum Hellhound
+5,3,c=znr=Fissure Wizard
+6,1,a=afr=Bulette
+6,2,a=afr=Ranger's Longbow
+6,3,a=afr=Sylvan Shepherd
+6,1,b=afr=Bull's Strength
+6,2,b=afr=Purple Worm
+6,3,b=afr=You Happen On a Glade
+6,1,c=afr=Choose Your Weapon
+6,2,c=afr=Green Dragon
+6,3,c=afr=Owlbear
+7,1,a=afr=Elturgard Ranger
+7,2,a=afr=Neverwinter Dryad
+7,3,a=afr=Find the Path
+7,1,b=afr=Scaled Herbalist
+7,2,b=znr=Canopy Baloth
+7,3,b=znr=Dauntless Survivor
+7,1,c=znr=Nissa's Zendikon
+7,2,c=znr=Scale the Heights
+7,3,c=khm=Sarulf's Packmate
+8,1,a=m21=Liliana's Steward
+8,2,a=m21=Gloom Sower
+8,3,a=afr=Warlock Class
+8,1,b=khm=Elderfang Disciple
+8,2,b=afr=Devour Intellect
+8,3,b=afr=Herald of Hadar
+8,1,c=afr=Black Dragon
+8,2,c=afr=Fates' Reversal
+8,3,c=afr=Precipitous Drop
+9,1,a=afr=Deadly Dispute
+9,2,a=afr=Baleful Beholder
+9,3,a=afr=Death-Priest of Myrkul
+9,1,b=afr=Lightfoot Rogue
+9,2,b=znr=Shadow Stinger
+9,3,b=znr=Ghastly Gloomhunter
+9,1,c=znr=Marauding Blight-Priest
+9,2,c=znr=Nullpriest of Oblivion
+9,3,c=znr=Lithoform Blight
+10,1,a=afr=Dungeon Map
+10,2,a=afr=Mimic
+10,3,a=afr=Fifty Feet of Rope
+10,1,b=afr=Spiked Pit Trap
+10,2,b=afr=Bag of Holding
+10,3,b=afr=Reaper's Talisman
+10,1,c=znr=Relic Axe
+10,2,c=znr=Stonework Packbeast
+10,3,c=znr=Spare Supplies
+11,1,a=m21=Deathbloom Thallid
+11,2,a=m21=Infernal Scarring
+11,3,a=stx=Unwilling Ingredient
+11,1,b=stx=Leech Fanatic
+11,2,b=m21=Kitesail Freebooter
+11,3,b=m21=Blood Glutton
+11,1,c=m21=Fetid Imp
+11,2,c=m21=Finishing Blow
+11,3,c=iko=Gloom Pangolin
+12,1,a=iko=Unlikely Aid
+12,2,a=eld=Lost Legion
+12,3,a=m21=Walking Corpse
+12,1,b=m21=Grasp of Darkness
+12,2,b=m21=Goremand
+12,3,b=m21=Skeleton Archer
+12,1,c=rna=Cry of the Carnarium
+12,2,c=iko=Serrated Scorpion
+12,3,c=afr=Eyes of the Beholder
+13,1,a=eld=Reave Soul
+13,2,a=znr=Drana's Silencer
+13,3,a=m21=Masked Blackguard
+13,1,b=afr=Clattering Skeletons
+13,2,b=war=Ob Nixilis's Cruelty
+13,3,b=eld=Reaper of Night // Harvest Fear
+13,1,c=thb=Lampad of Death's Vigil
+14,2,c=afr=Yuan-Ti Fang-Blade
+14,3,c=thb=Cling to Dust
+15,1,a=m21=Concordia Pegasus
+15,2,a=znr=Cliffhaven Sell-Sword
+15,3,a=stx=Clever Lumimancer
+15,1,b=eld=Flutterfox
+15,2,b=m21=Tempered Veteran
+15,3,b=afr=Paladin's Shield
+15,1,c=m20=Soulmender
+15,2,c=m21=Daybreak Charger
+15,3,c=eld=Trapped in the Tower
+16,1,a=rna=Syndicate Messenger
+16,2,a=eld=Silverflame Squire // On Alert
+16,3,a=eld=Shepherd of the Flock // Usher to Safety
+16,1,b=afr=Half-Elf Monk
+16,2,b=stx=Star Pupil
+16,3,b=eld=Lonesome Unicorn // Rider in Need
+16,1,c=m21=Gale Swooper
+16,2,c=m21=Defiant Strike
+16,3,c=afr=Rally Maneuver
+17,1,a=khm=Goldmaw Champion
+17,2,a=khm=Beskir Shieldmate
+17,3,a=m21=Rambunctious Mutt
+17,1,b=afr=Ingenious Smith
+17,2,b=khm=Doomskar Oracle
+17,3,b=thb=Hero of the Pride
+17,1,c=khm=Invoke the Divine
+17,2,c=afr=Veteran Dungeoneer
+17,3,c=rna=Concordia Pegasus
+18,1,a=khm=Clarion Spirit
+18,2,a=afr=Delver's Torch
+18,3,a=afr=Steadfast Paladin
+18,1,b=m21=Legion's Judgment
+18,2,b=afr=Minimus Containment
+18,3,b=znr=Smite the Monstrous
+18,1,c=m20=Moorland Inquisitor
+18,2,c=afr=+2 Mace
+18,3,c=war=Ironclad Krovod
+19,1,a=m21=Ornery Dilophosaur
+19,2,a=iko=Ram Through
+19,3,a=m21=Llanowar Visionary
+19,1,b=thb=Ironscale Hydra
+19,2,b=iko=Humble Naturalist
+19,3,b=iko=Almighty Brushwagg
+19,1,c=m21=Sanctum of Fruitful Harvest
+19,2,c=war=Snarespinner
+19,3,c=thb=Hyrax Tower Scout
+20,1,a=znr=Turntimber Ascetic
+20,2,a=thb=Plummet
+20,3,a=cmr=Stumpsquall Hydra
+20,1,b=cmr=Wickerbough Elder
+20,2,b=eld=Maraleaf Rider
+20,3,b=iko=Honey Mammoth
+20,1,c=khm=Roots of Wisdom
+20,2,c=m21=Ranger's Guile
+20,3,c=khm=Icehide Troll
+21,1,a=m21=Prismite
+21,2,a=afr=Eye of Vecna
+21,3,a=stx=Introduction to Annihilation
+21,1,b=khm=Raven Wings
+21,2,b=m21=Skyscanner
+21,3,b=m21=Meteorite
+21,1,c=afr=Spare Dagger
+21,2,c=stx=Biblioplex Assistant
+21,3,c=afr=Greataxe
+22,1,a=afr=Kalain, Reclusive Painter
+22,2,a=cmr=Fathom Mage
+22,3,a=rna=Savage Smash
+22,1,b=rna=Frenzied Arynx
+22,2,b=m21=Dire Fleet Warmonger
+22,3,b=war=Leyline Prowler
+22,1,c=stx=Lorehold Pledgemage
+22,2,c=stx=Quandrix Pledgemage
+22,3,c=stx=Augmenter Pugilist // Echoing Equation
+23,1,a=khm=Pilfering Hawk
+23,2,a=iko=Capture Sphere
+23,3,a=cmr=Mulldrifter
+23,1,b=cmr=Compulsive Research
+23,2,b=cmr=Sphinx of Uthuun
+23,3,b=m21=Library Larcenist
+23,1,c=m20=Fortress Crab
+23,2,c=m21=Tide Skimmer
+23,3,c=cmr=Arcane Denial
+24,1,a=m21=Wishcoin Crab
+24,2,a=khm=Bind the Monster
+24,3,a=khm=Draugr Thought-Thief
+24,1,b=afr=Air-Cult Elemental
+24,2,b=afr=Shocking Grasp
+24,3,b=afr=Aberrant Mind Sorcerer
+24,1,c=afr=Pixie Guide
+24,2,c=afr=Charmed Sleep
+24,3,c=afr=Arcane Investigator
+25,1,a=afr=Soulknife Spy
+25,2,a=m20=Anticipate
+25,3,a=afr=Mordenkainen's Polymorph
+25,1,b=war=Spellkeeper Weird
+25,2,b=m21=Vodalian Arcanist
+25,3,b=thb=Chain to Memory
+25,1,c=rna=Code of Constraint
+25,2,c=m21=Mistral Singer
+25,3,c=m21=Lofty Denial
+26,1,a=stx=Resculpt
+26,2,a=znr=Risen Riptide
+26,3,a=stx=Burrog Befuddler
+26,1,b=stx=Bury in Books
+26,2,b=m21=Capture Sphere
+26,3,b=khm=Augury Raven
+26,1,c=khm=Mistwalker
+26,2,c=thb=Glimpse of Freedom
+26,3,c=iko=Wingfold Pteron
+27,1,a=sta=Memory Lapse
+27,2,a=war=Totally Lost
+27,3,a=m21=Wall of Runes
+27,1,b=cmr=Ior Ruin Expedition
+27,2,b=m21=Teferi's Protege
+27,3,b=afr=Shortcut Seeker
+27,1,c=khm=Frostpeak Yeti
+27,2,c=stx=Arcane Subtraction
+27,3,c=m20=Sage's Row Denizen
+28,1,a=m21=Jeskai Elder
+28,2,a=khm=Avalanche Caller
+28,3,a=m21=Shacklegeist
+28,1,b=znr=Jwari Disruption // Jwari Ruins
+28,2,b=znr=Roost of Drakes
+28,3,b=znr=Bubble Snare
+28,1,c=znr=Shell Shield
+28,2,c=cmr=Peel from Reality
+28,3,c=m21=Frost Breath
+29,1,a=m21=Shock
+29,2,a=m21=Burn Bright
+29,3,a=stx=Ardent Dustspeaker
+29,1,b=m21=Battle-Rattle Shaman
+29,2,b=m21=Furious Rise
+29,3,b=m21=Chandra's Magmutt
+29,1,c=m21=Chandra's Pyreling
+29,2,c=khm=Calamity Bearer
+29,3,c=khm=Seize the Spoils
+30,1,a=khm=Run Amok
+30,2,a=khm=Smashing Success
+30,3,a=khm=Tormentor's Helm
+30,1,b=iko=Prickly Marmoset
+30,2,b=iko=Ferocious Tigorilla
+30,3,b=m21=Scorching Dragonfire
+30,1,c=m21=Sure Strike
+30,2,c=m21=Hobblefiend
+30,3,c=m21=Double Vision
+31,1,a=m21=Turret Ogre
+31,2,a=m21=Spellgorger Weird
+31,3,a=m21=Bone Pit Brute
+31,1,b=afr=Armory Veteran
+31,2,b=afr=Improvised Weaponry
+31,3,b=khm=Frenzied Raider
+31,1,c=khm=Frost Bite
+31,2,c=khm=Vault Robber
+31,3,c=khm=Provoke the Trolls
+32,1,a=khm=Tuskeri Firewalker
+32,2,a=afr=Plundering Barbarian
+32,3,a=afr=Farideh's Fireball
+32,1,b=afr=Valor Singer
+32,2,b=m20=Fire Elemental
+32,3,b=m20=Chandra's Embercat
+32,1,c=m20=Ripscale Predator
+32,2,c=war=Devouring Hellion
+32,3,c=war=Jaya's Greeting
+33,1,a=war=Ahn-Crop Invader
+33,2,a=thb=Satyr's Cunning
+33,3,a=afr=Brazen Dwarf
+33,1,b=thb=Final Flare
+33,2,b=m21=Goblin Arsonist
+33,3,b=stx=Dragon's Approach
+33,1,c=znr=Shatterskull Minotaur
+33,2,c=sta=Shock
+33,3,c=eld=Fling
+34,1,a=eld=Raging Redcap
+34,2,a=m21=Onakke Ogre
+34,3,a=m21=Bolt Hound
+34,1,b=znr=Rockslide Sorcerer
+34,2,b=afr=Zalto, Fire Giant Duke
+34,3,b=m21=Pitchburn Devils
+34,1,c=znr=Spikefield Hazard // Spikefield Cave
+34,2,c=znr=Expedition Champion
+34,3,c=znr=Sneaking Guide
+35,1,a=stx=Karok Wrangler
+35,2,a=m21=Colossal Dreadmaw
+35,3,a=m21=Gnarled Sage
+35,1,b=eld=Beanstalk Giant // Fertile Footsteps
+35,2,b=eld=Tuinvale Treefolk // Oaken Boon
+35,3,b=eld=Curious Pair // Treats to Share
+35,1,c=eld=Flaxen Intruder // Welcome Home
+35,2,c=eld=Garenbrig Carver // Shield's Might
+35,3,c=eld=Rosethorn Acolyte // Seasonal Ritual
+36,1,a=iko=Bristling Boar
+36,2,a=m21=Garruk's Gorehorn
+36,3,a=iko=Flycatcher Giraffid
+36,1,b=m21=Thrashing Brontodon
+36,2,b=afr=Spoils of the Hunt
+36,3,b=m21=Portcullis Vine
+36,1,c=khm=King Harald's Revenge
+36,2,c=khm=Broken Wings
+36,3,c=afr=Hill Giant Herdgorger
+37,1,a=khm=Horizon Seeker
+37,2,a=afr=Dire Wolf Prowler
+37,3,a=afr=You Find a Cursed Idol
+37,1,b=afr=Circle of the Moon Druid
+37,2,b=afr=Gnoll Hunter
+37,3,b=afr=Inspiring Bard
+37,1,c=afr=Lurking Roper
+37,2,c=thb=Treeshaker Chimera
+37,3,c=khm=Realmwalker
+38,1,a=iko=Barrier Breach
+38,2,a=m21=Snarespinner
+38,3,a=khm=Guardian Gladewalker
+38,1,b=thb=Nessian Wanderer
+38,2,b=m21=Run Afoul
+38,3,b=khm=Fynn, the Fangbearer
+38,1,c=khm=Boreal Outrider
+38,2,c=m21=Titanic Growth
+38,3,c=afr=Wandering Troubadour
+39,1,a=afr=Portable Hole
+39,2,a=eld=Mysterious Pathlighter
+39,3,a=m21=Staunch Shieldmate
+39,1,b=m21=Anointed Chorister
+39,2,b=eld=Ardenvale Paladin
+39,3,b=thb=Daybreak Chimera
+39,1,c=thb=Banishing Light
+39,2,c=m21=Valorous Steed
+39,3,c=khm=Giant Ox
+40,1,a=khm=Gods' Hall Guardian
+40,2,a=khm=Stalwart Valkyrie
+40,3,a=khm=Story Seeker
+40,1,b=khm=Codespell Cleric
+40,2,b=khm=Revitalize
+40,3,b=iko=Vulpikeet
+40,1,c=iko=Imposing Vantasaur
+40,2,c=m21=Warded Battlements
+40,3,c=m21=Revitalize
+41,1,a=eld=Venerable Knight
+41,2,a=m21=Pack Leader
+41,3,a=m21=Angelic Ascension
+41,1,b=m21=Seasoned Hallowblade
+41,2,b=afr=Devoted Paladin
+41,3,b=afr=Gloom Stalker
+41,1,c=afr=Planar Ally
+41,2,c=afr=Cloister Gargoyle
+41,3,c=afr=Blink Dog
+42,1,a=afr=You're Ambushed on the Road
+42,2,a=afr=Celestial Unicorn
+42,3,a=afr=Keen-Eared Sentry
+43,1,a=afr=Sphere of Annihilation
+43,2,a=eld=Bake into a Pie
+43,3,a=thb=Funeral Rites
+43,1,b=eld=Foulmire Knight // Profane Insight
+43,2,b=eld=Locthwain Paladin
+43,3,b=eld=Smitten Swordmaster // Curry Favor
+43,1,c=thb=Underworld Charger
+43,2,c=thb=Pharika's Spawn
+43,3,c=eld=Barrow Witches
+44,1,a=eld=Memory Theft
+44,2,a=thb=Demon of Loathing
+44,3,a=m21=Crypt Lurker
+44,1,b=khm=Draugr Recruiter
+44,2,b=khm=Dread Rider
+44,3,b=khm=Priest of the Haunted Edge
+44,1,c=iko=Zagoth Mamba
+44,2,c=m21=Caged Zombie
+44,3,c=m21=Village Rites
+45,1,a=afr=Hired Hexblade
+45,2,a=khm=Weigh Down
+45,3,a=afr=Hoard Robber
+45,1,b=afr=Feign Death
+45,2,b=m20=Sorcerer of the Fang
+45,3,b=thb=Grim Physician
+45,1,c=znr=Dreadwurm
+45,2,c=znr=Expedition Skulker
+45,3,c=znr=Feed the Swarm
+46,1,a=znr=Oblivion's Hunger
+46,2,a=khm=Grim Draugr
+46,3,a=afr=Sepulcher Ghoul
+46,1,b=sx=Poet's Quill
+47,1,a=m21=Radha, Heart of Keld
+47,2,a=afr=Skeletal Swarming
+47,3,a=afr=Triumphant Adventurer
+47,1,b=afr=Sorcerer Class
+47,2,b=m21=Lorescale Coatl
+47,3,b=stx=Lorehold Excavation
+47,1,c=eld=Maraleaf Pixie
+47,2,c=thb=Acolyte of Affliction
+47,3,c=eld=Inspiring Veteran
+48,1,a=eld=Wandermare
+48,2,a=eld=Grumgully, the Generous
+48,3,a=eld=Steelclaw Lance
+48,1,b=thb=Staggering Insight
+48,2,b=eld=Improbable Alliance
+48,3,b=eld=Wintermoor Commander
+48,1,c=khm=The Raven's Warning
+48,2,c=khm=Firja, Judge of Valor
+48,3,c=khm=Forging the Tyrite Sword
+49,1,a=iko=General Kudro of Drannith
+49,2,a=iko=Boneyard Lurker
+49,3,a=cmr=Sharktocrab
+49,1,b=e01=Slave of Bolas
+49,2,b=stx=Decisive Denial
+50,1,a=afr=Iron Golem
+50,2,a=eld=Jousting Dummy
+50,3,a=thb=Traveler's Amulet
+50,1,b=thb=Bronze Sword
+50,2,b=khm=Scorn Effigy
+50,3,b=iko=Mysterious Egg
+50,1,c=iko=Sleeper Dart
+50,2,c=m21=Forgotten Sentinel
+50,3,c=cmr=Seer's Sundial
+51,1,a=m21=Conspicuous Snoop
+51,2,a=m21=Sanctum of Shattered Heights
+51,3,a=eld=Bloodhaze Wolverine
+51,1,b=eld=Merchant of the Vale // Haggle
+51,2,b=eld=Burning-Yard Trainer
+51,3,b=eld=Ogre Errant
+51,1,c=eld=Weaselback Redcap
+51,2,c=eld=Rimrock Knight // Boulder Rush
+51,3,c=eld=Slaying Fire
+52,1,a=eld=Thrill of Possibility
+52,2,a=eld=Claim the Firstborn
+52,3,a=thb=Anax, Hardened in the Forge
+52,1,b=thb=Terror of Mount Velus
+52,2,b=znr=Teeterpeak Ambusher
+52,3,b=m19=Goblin Motivator
+52,1,c=c17=Curse of Opulence
+53,1,a=thb=Thirst for Meaning
+53,2,a=eld=So Tiny
+53,3,a=eld=Unexplained Vision
+53,1,b=eld=Faerie Vandal
+53,2,b=eld=Tome Raider
+53,3,b=eld=Steelgaze Griffin
+53,1,c=eld=Charmed Sleep
+53,2,c=thb=Sea God's Scorn
+53,3,c=eld=Hypnotic Sprite // Mesmeric Glare
+54,1,a=eld=Witching Well
+54,2,a=thb=Serpent of Yawning Depths
+54,3,a=m21=Read the Tides
+54,1,b=m21=Frantic Inventory
+54,2,b=dom=Artificer's Assistant
+54,3,b=ima=Bewilder
+54,1,c=ddm=Phantasmal Dragon
+54,2,c=eld=Mirrormade
+55,1,a=m21=Return to Nature
+56,1,a=gnt=Pilgrim's Eye

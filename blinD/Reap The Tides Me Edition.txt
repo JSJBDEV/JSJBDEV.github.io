@@ -1,0 +1,73 @@
+1 Acidic Slime
+1 Aesi, Tyrant of Gyre Strait
+1 Arixmethes, Slumbering Isle
+1 Avenger of Zendikar
+1 Beast Within
+1 Behold the Multiverse
+1 Brawn
+1 Coiling Oracle
+1 Command Tower
+1 Counterspell
+1 Cultivate
+1 Didn't Say Please
+1 Eternal Witness
+1 Evolving Wilds
+1 Explore
+1 Fact or Fiction
+15 Forest
+1 Growth Spiral
+1 Harmonize
+1 Harrow
+1 Into the Roil
+15 Island
+1 Jwari Disruption // Jwari Ruins
+1 Kamahl's Druidic Vow
+1 Khalni Heart Expedition
+1 Kiora, Behemoth Beckoner
+1 Kodama's Reach
+1 Littjara Mirrorlake
+1 Meloku the Clouded Mirror
+1 Molimo, Maro-Sorcerer
+1 Moritte of the Frost
+1 Multani, Yavimaya's Avatar
+1 Murkfiend Liege
+1 Myriad Landscape
+1 Negate
+1 Nezahal, Primal Tide
+1 Old-Growth Troll
+1 Ominous Seas
+1 Rampaging Baloths
+1 Rampant Growth
+1 Ramunap Excavator
+1 Reclamation Sage
+1 Reliquary Tower
+1 Retreat to Kazandu
+1 Saw It Coming
+1 Scourge of Fleets
+1 Search for Tomorrow
+1 Shipbreaker Kraken
+1 Simic Charm
+1 Simic Growth Chamber
+1 Simic Guildgate
+1 Simic Signet
+1 Simic Sky Swallower
+1 Slinn Voda, the Rising Deep
+1 Sol Ring
+1 Spitting Image
+1 Sporemound
+1 Stormtide Leviathan
+1 Swiftfoot Boots
+1 Temple of Mystery
+1 Terastodon
+1 Terramorphic Expanse
+1 The Mending of Dominaria
+1 Thornwood Falls
+1 Trench Behemoth
+1 Tromokratis
+1 Urban Evolution
+1 Verdant Sun's Avatar
+1 Whelming Wave
+1 Woodland Stream
+1 Yavimaya Elder
+1 Zhalfirin Void
+

@@ -1,0 +1,75 @@
+1 Annul
+1 Arrester's Admonition
+1 Bake into a Pie
+1 Bar the Gate
+1 Blight-Breath Catoblepas
+1 Bloodsky Berserker
+1 Bolas's Citadel
+1 Caged Zombie
+1 Callaphe, Beloved of the Sea
+1 Cancel
+1 Carrion Grub
+1 Charmed Sleep
+1 Cogwork Archivist
+1 Crippling Fear
+1 Demon of Loathing
+1 Devourer of Memory
+1 Dismal Backwater
+1 Draugr Recruiter
+1 Duress
+1 Elder Deep-Fiend
+1 Epitaph Golem
+1 Fly
+1 Frost Breath
+1 Funeral Longboat
+1 Glimpse the Cosmos
+1 Goldvein Pick
+1 Inga Rune-Eyes
+1 Iron Bully
+11 Island
+1 Karfell Harbinger
+1 Keen Glidemaster
+1 Krydle of Baldur's Gate
+1 Liliana's Devotee
+1 Liliana's Standard Bearer
+1 Littjara Kinseekers
+1 Living Tempest
+1 Mantle of Tides
+1 Mind Rot
+1 Mordenkainen's Polymorph
+1 Nantuko Husk
+1 Narset, Parter of Veils
+1 Obsessive Stitcher
+1 Okiba-Gang Shinobi
+1 Opt
+1 Order of Midnight // Alter Fate
+1 Peer into the Abyss
+1 Rain of Revelation
+1 Ravenform
+1 Read the Tides
+1 Revenge of Ravens
+1 Rewind
+1 Rise Again
+1 Sanguine Indulgence
+1 Sepulcher Ghoul
+1 Silversmote Ghoul
+1 Skemfar Shadowsage
+1 Snow Day
+1 Sparkhunter Masticore
+1 Spined Megalodon
+1 Spinning Wheel
+1 Stern Dismissal
+1 Sublime Epiphany
+10 Swamp
+1 Tasha's Hideous Laughter
+1 Teferi's Tutelage
+1 Toll of the Invasion
+1 Tormod's Crypt
+1 Tymaret Calls the Dead
+1 Tymaret, Chosen from Death
+1 Undersea Invader
+1 Vampire Spawn
+1 Witching Well
+1 You Come to a River
+1 Zombie Ogre
+

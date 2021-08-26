@@ -1,0 +1,85 @@
+1 Arborea Pegasus
+1 Ardenvale Tactician // Dizzying Swoop
+1 Azusa, Lost but Seeking
+1 Basri's Acolyte
+1 Beanstalk Giant // Fertile Footsteps
+1 Big Play
+1 Blighted Woodland
+1 Bound in Gold
+1 Bring to Trial
+1 Broken Wings
+1 Bull's Strength
+1 Cavalier of Thorns
+1 Celestial Unicorn
+1 Centaur Nurturer
+1 Champion of Arashin
+1 Colossification
+1 Conclave Mentor
+1 Cultivate
+1 Dawn Evangel
+1 Daxos, Blessed by the Sun
+1 Devoted Paladin
+1 Elturgard Ranger
+1 Ember Weaver
+1 Faith's Fetters
+1 Field Trip
+1 Flaxen Intruder // Welcome Home
+9 Forest
+1 Guardian of Faith
+1 Hill Giant Herdgorger
+1 Horizon Seeker
+1 Howling Giant
+1 Hunter's Edge
+1 Iron Verdict
+1 Ironscale Hydra
+1 Jolrael, Mwonvuli Recluse
+1 King Harald's Revenge
+1 Legion's Judgment
+1 Life Goes On
+1 Llanowar Visionary
+1 Maja, Bretagard Protector
+1 Makeshift Battalion
+1 Makindi Ox
+1 Neverwinter Dryad
+1 Nissa's Zendikon
+1 Ondu War Cleric
+1 Open the Gates
+1 Pack's Favor
+1 Pillardrop Rescuer
+9 Plains
+1 Pridemalkin
+1 Primal Might
+1 Purple Worm
+1 Quirion Dryad
+1 Realm-Cloaked Giant // Cast Off
+1 Reckless Amplimancer
+1 Reclaim the Wastes
+1 Renata, Called to the Hunt
+1 Reverent Hoplite
+1 Revitalize
+1 Rosethorn Acolyte // Seasonal Ritual
+1 Rule of Law
+1 Rune of Might
+1 Sabertooth Mauler
+1 Secure the Scene
+1 Setessan Training
+1 Shepherd of the Cosmos
+1 Struggle for Skemfar
+1 Syr Alin, the Lion's Claw
+1 Syr Faren, the Hengehammer
+1 Tall as a Beanstalk
+1 Tangled Florahedron // Tangled Vale
+1 Tempered Veteran
+1 Titanic Growth
+1 Track Down
+1 Traveler's Amulet
+1 Tuinvale Treefolk // Oaken Boon
+1 Valor of the Worthy
+1 Valorous Steed
+1 Victory's Envoy
+1 Warded Battlements
+1 Warden of the Woods
+1 Warhorn Blast
+1 Yorvo, Lord of Garenbrig
+1 You're Ambushed on the Road
+
