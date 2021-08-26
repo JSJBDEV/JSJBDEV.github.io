@@ -10,7 +10,7 @@ fetch(url)
 })
 .catch(err => { throw err });
 
-getFile("_decks.txt");
+getFile("decks.txt");
 setTimeout(buildLibrary,1000);
 
 
